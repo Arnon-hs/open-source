@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -107,7 +107,7 @@ Show HN: Tanchi 的生产可用性为中等。它适合用于原型开发或内�
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

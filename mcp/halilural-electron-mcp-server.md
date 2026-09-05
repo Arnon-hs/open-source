@@ -1,6 +1,6 @@
 # halilural/electron-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/halilural/electron-mcp-server?style=flat-square&color=yellow)](https://github.com/halilural/electron-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/halilural/electron-mcp-server?style=flat-square&color=blue)](https://github.com/halilural/electron-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/halilural/electron-mcp-server?style=flat-square&color=yellow)](https://github.com/halilural/electron-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/halilural/electron-mcp-server?style=flat-square&color=blue)](https://github.com/halilural/electron-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that lets AI assistants automate, debug and screenshot any Electron app over the Chrome DevTools Protocol — no app changes required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ halilural/electron-mcp-server 是一个可用开源项目，基于 Chrome DevToo
 | forks | 30/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

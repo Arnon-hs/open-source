@@ -1,6 +1,6 @@
 # xodus-gaming/xodus
 
-[![Stars](https://img.shields.io/github/stars/xodus-gaming/xodus?style=flat-square&color=yellow)](https://github.com/xodus-gaming/xodus/stargazers) [![Forks](https://img.shields.io/github/forks/xodus-gaming/xodus?style=flat-square&color=blue)](https://github.com/xodus-gaming/xodus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xodus-gaming/xodus?style=flat-square&color=yellow)](https://github.com/xodus-gaming/xodus/stargazers) [![Forks](https://img.shields.io/github/forks/xodus-gaming/xodus?style=flat-square&color=blue)](https://github.com/xodus-gaming/xodus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The great gaming migration to Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ xodus-gaming/xodus 的生产可用性为中等。它适合用于原型开发或�
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 25/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 47/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

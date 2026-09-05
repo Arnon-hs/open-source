@@ -1,6 +1,6 @@
 # alex-jb/orallexa-ai-trading-agent
 
-[![Stars](https://img.shields.io/github/stars/alex-jb/orallexa-ai-trading-agent?style=flat-square&color=yellow)](https://github.com/alex-jb/orallexa-ai-trading-agent/stargazers) [![Forks](https://img.shields.io/github/forks/alex-jb/orallexa-ai-trading-agent?style=flat-square&color=blue)](https://github.com/alex-jb/orallexa-ai-trading-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alex-jb/orallexa-ai-trading-agent?style=flat-square&color=yellow)](https://github.com/alex-jb/orallexa-ai-trading-agent/stargazers) [![Forks](https://img.shields.io/github/forks/alex-jb/orallexa-ai-trading-agent?style=flat-square&color=blue)](https://github.com/alex-jb/orallexa-ai-trading-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-tuning multi-agent AI trading system. 8-source signal fusion (Polymarket + Kalshi + 10 ML models incl. Kronos foundation model), Bull/Bear/Judge debate on Claude Opus 4.7, Portfolio Manager gate.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ alex-jb/orallexa‑ai‑trading‑agent 是一个自调优的多代理 AI 交易
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

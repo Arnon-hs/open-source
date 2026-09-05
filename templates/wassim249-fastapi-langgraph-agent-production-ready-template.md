@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 610 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Orchestration · AI/ML · DevOps/Infra
+Templates · Orchestration · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ wassim249/fastapi-langgraph-agent-production-ready-template：wassim249/fastapi-
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mediago-dev/mediago
 
-[![Stars](https://img.shields.io/github/stars/mediago-dev/mediago?style=flat-square&color=yellow)](https://github.com/mediago-dev/mediago/stargazers) [![Forks](https://img.shields.io/github/forks/mediago-dev/mediago?style=flat-square&color=blue)](https://github.com/mediago-dev/mediago/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mediago-dev/mediago?style=flat-square&color=yellow)](https://github.com/mediago-dev/mediago/stargazers) [![Forks](https://img.shields.io/github/forks/mediago-dev/mediago?style=flat-square&color=blue)](https://github.com/mediago-dev/mediago/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 806 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ mediago-dev/mediago 帮助团队减少自定义管道，提高数据访问速度
 | forks | 73/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 81/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 72/100 |
+| production | 78/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

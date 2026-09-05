@@ -1,6 +1,6 @@
 # dima806/fairface_age_image_detection
 
-[![Stars](https://img.shields.io/github/stars/dima806/fairface_age_image_detection?style=flat-square&color=yellow)](https://huggingface.co/dima806/fairface_age_image_detection/stargazers) [![Forks](https://img.shields.io/github/forks/dima806/fairface_age_image_detection?style=flat-square&color=blue)](https://huggingface.co/dima806/fairface_age_image_detection/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dima806/fairface_age_image_detection?style=flat-square&color=yellow)](https://huggingface.co/dima806/fairface_age_image_detection/stargazers) [![Forks](https://img.shields.io/github/forks/dima806/fairface_age_image_detection?style=flat-square&color=blue)](https://huggingface.co/dima806/fairface_age_image_detection/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Computer vision (image-classification) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2024-12-15 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ To adopt this project, users should follow these steps:
 | forks | 0/100 |
 | stars | 40/100 |
 | topics | 38/100 |
-| outlook | 33/100 |
-| quality | 34/100 |
-| recency | 20/100 |
+| outlook | 54/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 35/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

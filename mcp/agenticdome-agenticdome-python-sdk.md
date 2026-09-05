@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · Security
 
 ## 📝 Summary
 
@@ -106,7 +106,7 @@ An action firewall for MCP 是一个开源项目，利用 OAuth 协议来控制 
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

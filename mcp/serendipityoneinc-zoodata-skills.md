@@ -1,6 +1,6 @@
 # SerendipityOneInc/ZooData-Skills
 
-[![Stars](https://img.shields.io/github/stars/SerendipityOneInc/ZooData-Skills?style=flat-square&color=yellow)](https://github.com/SerendipityOneInc/ZooData-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/SerendipityOneInc/ZooData-Skills?style=flat-square&color=blue)](https://github.com/SerendipityOneInc/ZooData-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SerendipityOneInc/ZooData-Skills?style=flat-square&color=yellow)](https://github.com/SerendipityOneInc/ZooData-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/SerendipityOneInc/ZooData-Skills?style=flat-square&color=blue)](https://github.com/SerendipityOneInc/ZooData-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > APIClaw Skills - AI Agent capabilities for Amazon Product Research
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ SerendipityOneInc/ZooData‑Skills 是一套基于 **APIClaw Skills** 的 AI Age
 | forks | 25/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

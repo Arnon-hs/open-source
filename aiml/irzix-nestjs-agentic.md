@@ -1,6 +1,6 @@
 # irzix/nestjs-agentic
 
-[![Stars](https://img.shields.io/github/stars/irzix/nestjs-agentic?style=flat-square&color=yellow)](https://github.com/irzix/nestjs-agentic/stargazers) [![Forks](https://img.shields.io/github/forks/irzix/nestjs-agentic?style=flat-square&color=blue)](https://github.com/irzix/nestjs-agentic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/irzix/nestjs-agentic?style=flat-square&color=yellow)](https://github.com/irzix/nestjs-agentic/stargazers) [![Forks](https://img.shields.io/github/forks/irzix/nestjs-agentic?style=flat-square&color=blue)](https://github.com/irzix/nestjs-agentic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic Infrastructure & Governance Layer for NestJS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ irzix/nestjs-agentic 的生产可用性为中等，评分为 4/5。它适合用�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

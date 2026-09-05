@@ -1,6 +1,6 @@
 # daboss2003/mooring
 
-[![Stars](https://img.shields.io/github/stars/daboss2003/mooring?style=flat-square&color=yellow)](https://github.com/daboss2003/mooring/stargazers) [![Forks](https://img.shields.io/github/forks/daboss2003/mooring?style=flat-square&color=blue)](https://github.com/daboss2003/mooring/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daboss2003/mooring?style=flat-square&color=yellow)](https://github.com/daboss2003/mooring/stargazers) [![Forks](https://img.shields.io/github/forks/daboss2003/mooring?style=flat-square&color=blue)](https://github.com/daboss2003/mooring/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Mooring — a lightweight, security-first self-hosted PaaS / control plane for Docker. Deploy multi-service apps from one typed YAML: automatic HTTPS, monitoring, alerts, backups, Git deploys, self-healing — no Swarm or Kubernetes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ daboss2003/mooring：daboss2003/mooring helps make production behavior easier to
 | forks | 0/100 |
 | stars | 10/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 7/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 70/100 |

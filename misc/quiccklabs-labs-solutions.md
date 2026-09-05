@@ -1,6 +1,6 @@
 # quiccklabs/Labs_solutions
 
-[![Stars](https://img.shields.io/github/stars/quiccklabs/Labs_solutions?style=flat-square&color=yellow)](https://github.com/quiccklabs/Labs_solutions/stargazers) [![Forks](https://img.shields.io/github/forks/quiccklabs/Labs_solutions?style=flat-square&color=blue)](https://github.com/quiccklabs/Labs_solutions/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quiccklabs/Labs_solutions?style=flat-square&color=yellow)](https://github.com/quiccklabs/Labs_solutions/stargazers) [![Forks](https://img.shields.io/github/forks/quiccklabs/Labs_solutions?style=flat-square&color=blue)](https://github.com/quiccklabs/Labs_solutions/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 615 |
 | 🍴 **Forks** | 356 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ quiccklabs/Labs_solutions 的生产可用性为中等（Medium）。它适合用
 | forks | 64/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Cobalt-Strike/community_kit
 
-[![Stars](https://img.shields.io/github/stars/Cobalt-Strike/community_kit?style=flat-square&color=yellow)](https://github.com/Cobalt-Strike/community_kit/stargazers) [![Forks](https://img.shields.io/github/forks/Cobalt-Strike/community_kit?style=flat-square&color=blue)](https://github.com/Cobalt-Strike/community_kit/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cobalt-Strike/community_kit?style=flat-square&color=yellow)](https://github.com/Cobalt-Strike/community_kit/stargazers) [![Forks](https://img.shields.io/github/forks/Cobalt-Strike/community_kit?style=flat-square&color=blue)](https://github.com/Cobalt-Strike/community_kit/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Cobalt-Strike/community_kit 帮助用户快速构建产品界面，减少自定�
 | forks | 37/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

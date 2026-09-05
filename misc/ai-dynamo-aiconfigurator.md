@@ -1,6 +1,6 @@
 # ai-dynamo/aiconfigurator
 
-[![Stars](https://img.shields.io/github/stars/ai-dynamo/aiconfigurator?style=flat-square&color=yellow)](https://github.com/ai-dynamo/aiconfigurator/stargazers) [![Forks](https://img.shields.io/github/forks/ai-dynamo/aiconfigurator?style=flat-square&color=blue)](https://github.com/ai-dynamo/aiconfigurator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-dynamo/aiconfigurator?style=flat-square&color=yellow)](https://github.com/ai-dynamo/aiconfigurator/stargazers) [![Forks](https://img.shields.io/github/forks/ai-dynamo/aiconfigurator?style=flat-square&color=blue)](https://github.com/ai-dynamo/aiconfigurator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Offline optimization of your disaggregated Dynamo graph
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ ai-dynamo/aiconfigurator 的生产可用性为中等（Medium）。它适合用�
 | forks | 54/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ vellum-ai/vellum-assistant：vellum-ai/vellum-assistant helps remove repetitive 
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · AI/ML · DevOps/Infra
+Content Creation · AI/ML · Libraries & SDKs · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ ArcReel/ArcReel：ArcReel/ArcReel helps creators research, generate, repurpose, 
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

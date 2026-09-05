@@ -1,6 +1,6 @@
 # ArchiveBox/abx-dl
 
-[![Stars](https://img.shields.io/github/stars/ArchiveBox/abx-dl?style=flat-square&color=yellow)](https://github.com/ArchiveBox/abx-dl/stargazers) [![Forks](https://img.shields.io/github/forks/ArchiveBox/abx-dl?style=flat-square&color=blue)](https://github.com/ArchiveBox/abx-dl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArchiveBox/abx-dl?style=flat-square&color=yellow)](https://github.com/ArchiveBox/abx-dl/stargazers) [![Forks](https://img.shields.io/github/forks/ArchiveBox/abx-dl?style=flat-square&color=blue)](https://github.com/ArchiveBox/abx-dl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > ⬇️ A simple all-in-one CLI tool to download EVERYTHING from a URL (like youtube-dl/yt-dlp, forum-dl, gallery-dl, simpler ArchiveBox). 🎭 Uses headless Chrome to get HTML, JS, CSS, images/video/audio/subtitles, PDFs, screenshots, article text, git repos, and more...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · AI/ML · DevTools
+Video Editing · AI/ML · Networking · DevTools
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ ArchiveBox/abx‑dl 是一款“一站式”命令行工具，利用无头 Chrom
 | forks | 21/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # raysonmeng/agent-bridge
 
-[![Stars](https://img.shields.io/github/stars/raysonmeng/agent-bridge?style=flat-square&color=yellow)](https://github.com/raysonmeng/agent-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/raysonmeng/agent-bridge?style=flat-square&color=blue)](https://github.com/raysonmeng/agent-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raysonmeng/agent-bridge?style=flat-square&color=yellow)](https://github.com/raysonmeng/agent-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/raysonmeng/agent-bridge?style=flat-square&color=blue)](https://github.com/raysonmeng/agent-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ raysonmeng/agent-bridge 是一个本地实时桥接工具，能够在 Claude C
 | forks | 34/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

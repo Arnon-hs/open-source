@@ -1,6 +1,6 @@
 # jaychempan/Agent-Leaderboard
 
-[![Stars](https://img.shields.io/github/stars/jaychempan/Agent-Leaderboard?style=flat-square&color=yellow)](https://github.com/jaychempan/Agent-Leaderboard/stargazers) [![Forks](https://img.shields.io/github/forks/jaychempan/Agent-Leaderboard?style=flat-square&color=blue)](https://github.com/jaychempan/Agent-Leaderboard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaychempan/Agent-Leaderboard?style=flat-square&color=yellow)](https://github.com/jaychempan/Agent-Leaderboard/stargazers) [![Forks](https://img.shields.io/github/forks/jaychempan/Agent-Leaderboard?style=flat-square&color=blue)](https://github.com/jaychempan/Agent-Leaderboard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🏆   AI Agent 生态排行榜：Skills · MCP 服务器 · Prompt 库 · 框架 · 深度研究，按 GitHub Stars 每日更新 | Leaderboard for AI agent ecosystem — Skills, MCP, Prompts, Frameworks &   Research.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ jaychempan/Agent-Leaderboard 的价值在于帮助连接 AI 助手到真正的�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ kdlbs/kandev：kdlbs/kandev helps turn isolated prompts and tools into repeatabl
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

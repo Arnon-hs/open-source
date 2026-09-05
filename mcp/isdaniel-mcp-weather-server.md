@@ -1,6 +1,6 @@
 # isdaniel/mcp_weather_server
 
-[![Stars](https://img.shields.io/github/stars/isdaniel/mcp_weather_server?style=flat-square&color=yellow)](https://github.com/isdaniel/mcp_weather_server/stargazers) [![Forks](https://img.shields.io/github/forks/isdaniel/mcp_weather_server?style=flat-square&color=blue)](https://github.com/isdaniel/mcp_weather_server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isdaniel/mcp_weather_server?style=flat-square&color=yellow)](https://github.com/isdaniel/mcp_weather_server/stargazers) [![Forks](https://img.shields.io/github/forks/isdaniel/mcp_weather_server?style=flat-square&color=blue)](https://github.com/isdaniel/mcp_weather_server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides weather information using the Open-Meteo API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ isdaniel/mcp_weather_server 是一个基于 Model Context Protocol (MCP) 的后�
 | forks | 39/100 |
 | stars | 37/100 |
 | topics | 75/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

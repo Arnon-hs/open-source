@@ -1,6 +1,6 @@
 # VictoriaMetrics/mcp-victoriametrics
 
-[![Stars](https://img.shields.io/github/stars/VictoriaMetrics/mcp-victoriametrics?style=flat-square&color=yellow)](https://github.com/VictoriaMetrics/mcp-victoriametrics/stargazers) [![Forks](https://img.shields.io/github/forks/VictoriaMetrics/mcp-victoriametrics?style=flat-square&color=blue)](https://github.com/VictoriaMetrics/mcp-victoriametrics/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VictoriaMetrics/mcp-victoriametrics?style=flat-square&color=yellow)](https://github.com/VictoriaMetrics/mcp-victoriametrics/stargazers) [![Forks](https://img.shields.io/github/forks/VictoriaMetrics/mcp-victoriametrics?style=flat-square&color=blue)](https://github.com/VictoriaMetrics/mcp-victoriametrics/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The implementation of Model Context Protocol (MCP) server for VictoriaMetrics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ VictoriaMetrics/mcp-victoriametrics 是为 VictoriaMetrics 实现的 **Model Con
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # vas3k/TaxHacker
 
-[![Stars](https://img.shields.io/github/stars/vas3k/TaxHacker?style=flat-square&color=yellow)](https://github.com/vas3k/TaxHacker/stargazers) [![Forks](https://img.shields.io/github/forks/vas3k/TaxHacker?style=flat-square&color=blue)](https://github.com/vas3k/TaxHacker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vas3k/TaxHacker?style=flat-square&color=yellow)](https://github.com/vas3k/TaxHacker/stargazers) [![Forks](https://img.shields.io/github/forks/vas3k/TaxHacker?style=flat-square&color=blue)](https://github.com/vas3k/TaxHacker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ TaxHacker的生产可用性较高，理由如下：
 | forks | 76/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

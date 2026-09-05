@@ -1,6 +1,6 @@
 # vetis-server/vetis
 
-[![Stars](https://img.shields.io/github/stars/vetis-server/vetis?style=flat-square&color=yellow)](https://github.com/vetis-server/vetis/stargazers) [![Forks](https://img.shields.io/github/forks/vetis-server/vetis?style=flat-square&color=blue)](https://github.com/vetis-server/vetis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vetis-server/vetis?style=flat-square&color=yellow)](https://github.com/vetis-server/vetis/stargazers) [![Forks](https://img.shields.io/github/forks/vetis-server/vetis?style=flat-square&color=blue)](https://github.com/vetis-server/vetis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A blazingly fast, minimalist HTTP server built for modern Rust applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ vetis 是一款基于 Rust 的极致轻量 HTTP 服务器，专为现代 Rust �
 | forks | 15/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

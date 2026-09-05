@@ -1,6 +1,6 @@
 # youichi-uda/unity-mcp-pro-plugin
 
-[![Stars](https://img.shields.io/github/stars/youichi-uda/unity-mcp-pro-plugin?style=flat-square&color=yellow)](https://github.com/youichi-uda/unity-mcp-pro-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/youichi-uda/unity-mcp-pro-plugin?style=flat-square&color=blue)](https://github.com/youichi-uda/unity-mcp-pro-plugin/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/youichi-uda/unity-mcp-pro-plugin?style=flat-square&color=yellow)](https://github.com/youichi-uda/unity-mcp-pro-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/youichi-uda/unity-mcp-pro-plugin?style=flat-square&color=blue)](https://github.com/youichi-uda/unity-mcp-pro-plugin/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 147 AI tools for Unity game development via MCP (Model Context Protocol). Connect Claude, Cursor, and AI assistants to your Unity editor.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Games & Graphics
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Unity MCP-Pro 插件是一款开源项目，提供 147 个 AI 工具，通过 MC
 | forks | 23/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

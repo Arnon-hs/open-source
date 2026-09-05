@@ -1,6 +1,6 @@
 # nvidia/Qwen3.6-35B-A3B-NVFP4
 
-[![Stars](https://img.shields.io/github/stars/nvidia/Qwen3.6-35B-A3B-NVFP4?style=flat-square&color=yellow)](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4/stargazers) [![Forks](https://img.shields.io/github/forks/nvidia/Qwen3.6-35B-A3B-NVFP4?style=flat-square&color=blue)](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4/network) [![Language](https://img.shields.io/badge/lang-Model%20Optimizer-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nvidia/Qwen3.6-35B-A3B-NVFP4?style=flat-square&color=yellow)](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4/stargazers) [![Forks](https://img.shields.io/github/forks/nvidia/Qwen3.6-35B-A3B-NVFP4?style=flat-square&color=blue)](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4/network) [![Language](https://img.shields.io/badge/lang-Model%20Optimizer-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text generation (text-generation) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 507 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Model Optimizer |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ nvidia/Qwen3.6-35B-A3B-NVFP4 是一个流行的开源模型，用于在 Hugging 
 | forks | 0/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 44/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 44/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

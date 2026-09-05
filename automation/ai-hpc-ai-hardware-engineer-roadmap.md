@@ -1,6 +1,6 @@
 # ai-hpc/ai-hardware-engineer-roadmap
 
-[![Stars](https://img.shields.io/github/stars/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&color=yellow)](https://github.com/ai-hpc/ai-hardware-engineer-roadmap/stargazers) [![Forks](https://img.shields.io/github/forks/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&color=blue)](https://github.com/ai-hpc/ai-hardware-engineer-roadmap/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&color=yellow)](https://github.com/ai-hpc/ai-hardware-engineer-roadmap/stargazers) [![Forks](https://img.shields.io/github/forks/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&color=blue)](https://github.com/ai-hpc/ai-hardware-engineer-roadmap/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ The *ai‑hpc/ai‑hardware‑engineer‑roadmap* project is an open‑source gu
 | forks | 39/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

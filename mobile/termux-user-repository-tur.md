@@ -1,6 +1,6 @@
 # termux-user-repository/tur
 
-[![Stars](https://img.shields.io/github/stars/termux-user-repository/tur?style=flat-square&color=yellow)](https://github.com/termux-user-repository/tur/stargazers) [![Forks](https://img.shields.io/github/forks/termux-user-repository/tur?style=flat-square&color=blue)](https://github.com/termux-user-repository/tur/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/termux-user-repository/tur?style=flat-square&color=yellow)](https://github.com/termux-user-repository/tur/stargazers) [![Forks](https://img.shields.io/github/forks/termux-user-repository/tur?style=flat-square&color=blue)](https://github.com/termux-user-repository/tur/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A place for all types of Termux packages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 914 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Termux‑User‑Repository/tur provides a community‑maintained collection of T
 | forks | 58/100 |
 | stars | 63/100 |
 | topics | 25/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # civo/cli
 
-[![Stars](https://img.shields.io/github/stars/civo/cli?style=flat-square&color=yellow)](https://github.com/civo/cli/stargazers) [![Forks](https://img.shields.io/github/forks/civo/cli?style=flat-square&color=blue)](https://github.com/civo/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/civo/cli?style=flat-square&color=yellow)](https://github.com/civo/cli/stargazers) [![Forks](https://img.shields.io/github/forks/civo/cli?style=flat-square&color=blue)](https://github.com/civo/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Our Command Line Interface (CLI) for interacting with your Civo resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ civo/cli 是一款用 Go 编写的开源命令行工具，帮助开发者快速�
 | forks | 50/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

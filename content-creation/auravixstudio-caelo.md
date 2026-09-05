@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · MCP · AI/ML · Frontend
+Content Creation · MCP · AI/ML · Communication · Productivity
 
 ## 📝 Summary
 
@@ -120,7 +120,7 @@ AuraVixStudio/caelo 的价值在于，它帮助连接 AI 助手到现实工具�
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

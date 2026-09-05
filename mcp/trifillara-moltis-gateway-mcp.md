@@ -1,6 +1,6 @@
 # trifillara/moltis-gateway-mcp
 
-[![Stars](https://img.shields.io/github/stars/trifillara/moltis-gateway-mcp?style=flat-square&color=yellow)](https://github.com/trifillara/moltis-gateway-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/trifillara/moltis-gateway-mcp?style=flat-square&color=blue)](https://github.com/trifillara/moltis-gateway-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trifillara/moltis-gateway-mcp?style=flat-square&color=yellow)](https://github.com/trifillara/moltis-gateway-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/trifillara/moltis-gateway-mcp?style=flat-square&color=blue)](https://github.com/trifillara/moltis-gateway-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > personal agent server mcp with multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams | mcp server of several socials
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 935 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ trifillara/moltis‑gateway‑mcp 是一款基于 Rust 的个人助理服务器�
 | forks | 74/100 |
 | stars | 42/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

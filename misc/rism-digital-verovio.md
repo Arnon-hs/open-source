@@ -1,6 +1,6 @@
 # rism-digital/verovio
 
-[![Stars](https://img.shields.io/github/stars/rism-digital/verovio?style=flat-square&color=yellow)](https://github.com/rism-digital/verovio/stargazers) [![Forks](https://img.shields.io/github/forks/rism-digital/verovio?style=flat-square&color=blue)](https://github.com/rism-digital/verovio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rism-digital/verovio?style=flat-square&color=yellow)](https://github.com/rism-digital/verovio/stargazers) [![Forks](https://img.shields.io/github/forks/rism-digital/verovio?style=flat-square&color=blue)](https://github.com/rism-digital/verovio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🎵 Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (JavaScript, Python)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 898 |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Verovio 的生产可用性较高，主要原因是：
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

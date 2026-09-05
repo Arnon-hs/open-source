@@ -1,6 +1,6 @@
 # manaskamal/XenevaOS
 
-[![Stars](https://img.shields.io/github/stars/manaskamal/XenevaOS?style=flat-square&color=yellow)](https://github.com/manaskamal/XenevaOS/stargazers) [![Forks](https://img.shields.io/github/forks/manaskamal/XenevaOS?style=flat-square&color=blue)](https://github.com/manaskamal/XenevaOS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manaskamal/XenevaOS?style=flat-square&color=yellow)](https://github.com/manaskamal/XenevaOS/stargazers) [![Forks](https://img.shields.io/github/forks/manaskamal/XenevaOS?style=flat-square&color=blue)](https://github.com/manaskamal/XenevaOS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Xeneva Operating System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 714 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | C |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ Xeneva OS 适合作为 **原型验证** 或 **内部研发平台** 使用，凭�
 | forks | 42/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

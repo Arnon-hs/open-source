@@ -1,6 +1,6 @@
 # tukaani-project/xz
 
-[![Stars](https://img.shields.io/github/stars/tukaani-project/xz?style=flat-square&color=yellow)](https://github.com/tukaani-project/xz/stargazers) [![Forks](https://img.shields.io/github/forks/tukaani-project/xz?style=flat-square&color=blue)](https://github.com/tukaani-project/xz/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tukaani-project/xz?style=flat-square&color=yellow)](https://github.com/tukaani-project/xz/stargazers) [![Forks](https://img.shields.io/github/forks/tukaani-project/xz?style=flat-square&color=blue)](https://github.com/tukaani-project/xz/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > XZ Utils
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ tukaani-project/xz 是一个开源项目，基于 XZ Utils，旨在帮助工程�
 | forks | 60/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 57/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

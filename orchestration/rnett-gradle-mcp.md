@@ -1,6 +1,6 @@
 # rnett/gradle-mcp
 
-[![Stars](https://img.shields.io/github/stars/rnett/gradle-mcp?style=flat-square&color=yellow)](https://github.com/rnett/gradle-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rnett/gradle-mcp?style=flat-square&color=blue)](https://github.com/rnett/gradle-mcp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rnett/gradle-mcp?style=flat-square&color=yellow)](https://github.com/rnett/gradle-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rnett/gradle-mcp?style=flat-square&color=blue)](https://github.com/rnett/gradle-mcp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive MCP server for Gradle.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ rnett/gradle-mcp 是一个基于 Gradle 的完整 MCP（Multi‑Component Proc
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

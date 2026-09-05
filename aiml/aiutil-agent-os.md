@@ -1,6 +1,6 @@
 # aiutil/agent-os
 
-[![Stars](https://img.shields.io/github/stars/aiutil/agent-os?style=flat-square&color=yellow)](https://github.com/aiutil/agent-os/stargazers) [![Forks](https://img.shields.io/github/forks/aiutil/agent-os?style=flat-square&color=blue)](https://github.com/aiutil/agent-os/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiutil/agent-os?style=flat-square&color=yellow)](https://github.com/aiutil/agent-os/stargazers) [![Forks](https://img.shields.io/github/forks/aiutil/agent-os?style=flat-square&color=blue)](https://github.com/aiutil/agent-os/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > One workbench for AI coding agents—run locally or remotely, review every task, and keep memory and Markdown knowledge.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Documents · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ aiutil/agent-os：aiutil/agent-os helps add AI capability without starting from 
 | forks | 8/100 |
 | stars | 17/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 14/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

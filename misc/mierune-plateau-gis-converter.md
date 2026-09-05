@@ -1,6 +1,6 @@
 # MIERUNE/plateau-gis-converter
 
-[![Stars](https://img.shields.io/github/stars/MIERUNE/plateau-gis-converter?style=flat-square&color=yellow)](https://github.com/MIERUNE/plateau-gis-converter/stargazers) [![Forks](https://img.shields.io/github/forks/MIERUNE/plateau-gis-converter?style=flat-square&color=blue)](https://github.com/MIERUNE/plateau-gis-converter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MIERUNE/plateau-gis-converter?style=flat-square&color=yellow)](https://github.com/MIERUNE/plateau-gis-converter/stargazers) [![Forks](https://img.shields.io/github/forks/MIERUNE/plateau-gis-converter?style=flat-square&color=blue)](https://github.com/MIERUNE/plateau-gis-converter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A "proof-of-concept" tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats like 3D Tiles 1.1, MVT, and GeoPackage.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ MIERUNE/plateau-gis-converter 是一个基于 Rust 的概念验证工具，能�
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

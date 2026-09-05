@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
@@ -72,6 +72,7 @@ e2b-dev/awesome-sdks-for-ai-agents：e2b-dev/awesome-sdks-for-ai-agents helps ad
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

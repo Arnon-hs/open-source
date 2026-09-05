@@ -1,6 +1,6 @@
 # Wei-Shaw/claude-relay-service
 
-[![Stars](https://img.shields.io/github/stars/Wei-Shaw/claude-relay-service?style=flat-square&color=yellow)](https://github.com/Wei-Shaw/claude-relay-service/stargazers) [![Forks](https://img.shields.io/github/forks/Wei-Shaw/claude-relay-service?style=flat-square&color=blue)](https://github.com/Wei-Shaw/claude-relay-service/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wei-Shaw/claude-relay-service?style=flat-square&color=yellow)](https://github.com/Wei-Shaw/claude-relay-service/stargazers) [![Forks](https://img.shields.io/github/forks/Wei-Shaw/claude-relay-service?style=flat-square&color=blue)](https://github.com/Wei-Shaw/claude-relay-service/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.2k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Networking · Backend · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Wei‑Shaw/claude‑relay‑service 是一个自建的 Claude Code 镜像转发�
 | forks | 82/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 84/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 84/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

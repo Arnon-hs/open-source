@@ -1,6 +1,6 @@
 # yologdev/yoagent
 
-[![Stars](https://img.shields.io/github/stars/yologdev/yoagent?style=flat-square&color=yellow)](https://github.com/yologdev/yoagent/stargazers) [![Forks](https://img.shields.io/github/forks/yologdev/yoagent?style=flat-square&color=blue)](https://github.com/yologdev/yoagent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yologdev/yoagent?style=flat-square&color=yellow)](https://github.com/yologdev/yoagent/stargazers) [![Forks](https://img.shields.io/github/forks/yologdev/yoagent?style=flat-square&color=blue)](https://github.com/yologdev/yoagent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ yologdev/yoagent 的生产可用性为中等（Medium）。它适合用于快速
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 45/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

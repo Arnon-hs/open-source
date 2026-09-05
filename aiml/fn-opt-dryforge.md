@@ -1,6 +1,6 @@
 # fn-opt/dryforge
 
-[![Stars](https://img.shields.io/github/stars/fn-opt/dryforge?style=flat-square&color=yellow)](https://github.com/fn-opt/dryforge/stargazers) [![Forks](https://img.shields.io/github/forks/fn-opt/dryforge?style=flat-square&color=blue)](https://github.com/fn-opt/dryforge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fn-opt/dryforge?style=flat-square&color=yellow)](https://github.com/fn-opt/dryforge/stargazers) [![Forks](https://img.shields.io/github/forks/fn-opt/dryforge?style=flat-square&color=blue)](https://github.com/fn-opt/dryforge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Dryforge : New generation of harness engineering - Claude Code & Codex Plugin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Dryforge（fn-opt/dryforge）是面向下一代 Harness Engineering 的开源工
 | forks | 25/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

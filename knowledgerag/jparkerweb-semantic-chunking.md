@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -110,7 +110,7 @@ jparkerweb/semantic-chunking 是一个开源项目，用于从大型文档中创
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

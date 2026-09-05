@@ -1,6 +1,6 @@
 # Hitmasu/OpenCNPJ
 
-[![Stars](https://img.shields.io/github/stars/Hitmasu/OpenCNPJ?style=flat-square&color=yellow)](https://github.com/Hitmasu/OpenCNPJ/stargazers) [![Forks](https://img.shields.io/github/forks/Hitmasu/OpenCNPJ?style=flat-square&color=blue)](https://github.com/Hitmasu/OpenCNPJ/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hitmasu/OpenCNPJ?style=flat-square&color=yellow)](https://github.com/Hitmasu/OpenCNPJ/stargazers) [![Forks](https://img.shields.io/github/forks/Hitmasu/OpenCNPJ?style=flat-square&color=blue)](https://github.com/Hitmasu/OpenCNPJ/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > API pública de busca e consulta de CNPJs do Brasil
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 340 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Hitmasu/OpenCNPJ 是一个基于 C# 的开源公共 API，提供对巴西企业�
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation · AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ growthxai/output：growthxai/output helps turn isolated prompts and tools into r
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

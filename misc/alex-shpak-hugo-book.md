@@ -1,6 +1,6 @@
 # alex-shpak/hugo-book
 
-[![Stars](https://img.shields.io/github/stars/alex-shpak/hugo-book?style=flat-square&color=yellow)](https://github.com/alex-shpak/hugo-book/stargazers) [![Forks](https://img.shields.io/github/forks/alex-shpak/hugo-book?style=flat-square&color=blue)](https://github.com/alex-shpak/hugo-book/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alex-shpak/hugo-book?style=flat-square&color=yellow)](https://github.com/alex-shpak/hugo-book/stargazers) [![Forks](https://img.shields.io/github/forks/alex-shpak/hugo-book?style=flat-square&color=blue)](https://github.com/alex-shpak/hugo-book/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Hugo documentation theme as simple as plain book
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ The project shows strong OSS health: 4 k+ stars, 1.3 k forks, recent commits
 | forks | 78/100 |
 | stars | 77/100 |
 | topics | 38/100 |
-| outlook | 48/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

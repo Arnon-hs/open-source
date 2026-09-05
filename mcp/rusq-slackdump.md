@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Communication · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ rusq/slackdump：rusq/slackdump helps connect AI assistants to real tools and da
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

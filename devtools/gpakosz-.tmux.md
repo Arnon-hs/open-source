@@ -1,6 +1,6 @@
 # gpakosz/.tmux
 
-[![Stars](https://img.shields.io/github/stars/gpakosz/.tmux?style=flat-square&color=yellow)](https://github.com/gpakosz/.tmux/stargazers) [![Forks](https://img.shields.io/github/forks/gpakosz/.tmux?style=flat-square&color=blue)](https://github.com/gpakosz/.tmux/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gpakosz/.tmux?style=flat-square&color=yellow)](https://github.com/gpakosz/.tmux/stargazers) [![Forks](https://img.shields.io/github/forks/gpakosz/.tmux?style=flat-square&color=blue)](https://github.com/gpakosz/.tmux/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.2k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ gpakosz/.tmux 具有较高的生产可用性，因为它有以下优点：
 | forks | 89/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -118,7 +118,7 @@ aptos-labs/aptos-ts-sdk 的生产可用性为中等。它适合用于 prototyped
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

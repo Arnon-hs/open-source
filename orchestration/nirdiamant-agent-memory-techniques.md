@@ -1,6 +1,6 @@
 # NirDiamant/Agent_Memory_Techniques
 
-[![Stars](https://img.shields.io/github/stars/NirDiamant/Agent_Memory_Techniques?style=flat-square&color=yellow)](https://github.com/NirDiamant/Agent_Memory_Techniques/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/Agent_Memory_Techniques?style=flat-square&color=blue)](https://github.com/NirDiamant/Agent_Memory_Techniques/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NirDiamant/Agent_Memory_Techniques?style=flat-square&color=yellow)](https://github.com/NirDiamant/Agent_Memory_Techniques/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/Agent_Memory_Techniques?style=flat-square&color=blue)](https://github.com/NirDiamant/Agent_Memory_Techniques/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 746 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ NirDiamant/Agent_Memory_Techniques 是一个开源项目，提供了 30 个可�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

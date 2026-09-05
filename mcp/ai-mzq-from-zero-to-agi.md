@@ -1,6 +1,6 @@
 # AI-mzq/From-Zero-to-AGI
 
-[![Stars](https://img.shields.io/github/stars/AI-mzq/From-Zero-to-AGI?style=flat-square&color=yellow)](https://github.com/AI-mzq/From-Zero-to-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/AI-mzq/From-Zero-to-AGI?style=flat-square&color=blue)](https://github.com/AI-mzq/From-Zero-to-AGI/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI-mzq/From-Zero-to-AGI?style=flat-square&color=yellow)](https://github.com/AI-mzq/From-Zero-to-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/AI-mzq/From-Zero-to-AGI?style=flat-square&color=blue)](https://github.com/AI-mzq/From-Zero-to-AGI/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 从零走向AGI之路！！！旨在深入了解通用人工智能（AGI）的发展路径，从最基础的概念起，逐步构建完整的知识体系。涵盖AI Agent、RAG、MCP、具身智能、大语言模型、多模态、数字人、AI绘画、AI视频等！！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ From-Zero-to-AGI has a medium production readiness score, indicating that it is 
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

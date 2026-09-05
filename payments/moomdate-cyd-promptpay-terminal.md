@@ -1,6 +1,6 @@
 # moomdate/CYD-PromptPay-Terminal
 
-[![Stars](https://img.shields.io/github/stars/moomdate/CYD-PromptPay-Terminal?style=flat-square&color=yellow)](https://github.com/moomdate/CYD-PromptPay-Terminal/stargazers) [![Forks](https://img.shields.io/github/forks/moomdate/CYD-PromptPay-Terminal?style=flat-square&color=blue)](https://github.com/moomdate/CYD-PromptPay-Terminal/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moomdate/CYD-PromptPay-Terminal?style=flat-square&color=yellow)](https://github.com/moomdate/CYD-PromptPay-Terminal/stargazers) [![Forks](https://img.shields.io/github/forks/moomdate/CYD-PromptPay-Terminal?style=flat-square&color=blue)](https://github.com/moomdate/CYD-PromptPay-Terminal/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A $6 PromptPay payment terminal — ESP32 + 2.8" touch screen, powered by Stripe. Enter amount, show QR, beep when paid. Thai/English UI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ moomdate/CYD-PromptPay-Terminal 是一个基于 ESP32 和 2.8 英寸触摸屏的
 | forks | 31/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

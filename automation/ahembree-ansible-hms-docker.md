@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Jinja |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ahembree/ansible-hms-docker：ahembree/ansible-hms-docker helps remove repetitiv
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

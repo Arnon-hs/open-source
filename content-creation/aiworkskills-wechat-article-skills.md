@@ -1,6 +1,6 @@
 # aiworkskills/wechat-article-skills
 
-[![Stars](https://img.shields.io/github/stars/aiworkskills/wechat-article-skills?style=flat-square&color=yellow)](https://github.com/aiworkskills/wechat-article-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aiworkskills/wechat-article-skills?style=flat-square&color=blue)](https://github.com/aiworkskills/wechat-article-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiworkskills/wechat-article-skills?style=flat-square&color=yellow)](https://github.com/aiworkskills/wechat-article-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aiworkskills/wechat-article-skills?style=flat-square&color=blue)](https://github.com/aiworkskills/wechat-article-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Orchestration · Automation · AI/ML · Backend
+Content Creation · Orchestration · Automation · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ aiworkskills/wechat-article-skills：aiworkskills/wechat-article-skills helps cr
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

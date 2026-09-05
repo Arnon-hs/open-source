@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 619 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Observability
+Automation · AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ jlcodes99/cockpit-tools：jlcodes99/cockpit-tools helps remove repetitive manual
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aws/sagemaker-python-sdk
 
-[![Stars](https://img.shields.io/github/stars/aws/sagemaker-python-sdk?style=flat-square&color=yellow)](https://github.com/aws/sagemaker-python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/aws/sagemaker-python-sdk?style=flat-square&color=blue)](https://github.com/aws/sagemaker-python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/sagemaker-python-sdk?style=flat-square&color=yellow)](https://github.com/aws/sagemaker-python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/aws/sagemaker-python-sdk?style=flat-square&color=blue)](https://github.com/aws/sagemaker-python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A library for training and deploying machine learning models on Amazon SageMaker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML · Cloud & Storage · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ aws/sagemaker-python-sdk 是一个用于在 Amazon SageMaker 上训练和部署�
 | forks | 78/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

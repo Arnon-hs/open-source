@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · MCP · AI/ML · Marketing
+Content Creation · MCP · AI/ML · Documents · Marketing
 
 ## 📝 Summary
 
@@ -74,7 +74,7 @@ walterwritesai/walter-skills：walterwritesai/walter-skills helps creators resea
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

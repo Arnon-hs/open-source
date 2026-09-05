@@ -1,6 +1,6 @@
 # apache/tomcat
 
-[![Stars](https://img.shields.io/github/stars/apache/tomcat?style=flat-square&color=yellow)](https://github.com/apache/tomcat/stargazers) [![Forks](https://img.shields.io/github/forks/apache/tomcat?style=flat-square&color=blue)](https://github.com/apache/tomcat/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/tomcat?style=flat-square&color=yellow)](https://github.com/apache/tomcat/stargazers) [![Forks](https://img.shields.io/github/forks/apache/tomcat?style=flat-square&color=blue)](https://github.com/apache/tomcat/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Tomcat
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Apache Tomcat 是 Apache 软件基金会维护的开源 Java Servlet 容器和 W
 | forks | 93/100 |
 | stars | 83/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 68/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

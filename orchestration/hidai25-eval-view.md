@@ -1,6 +1,6 @@
 # hidai25/eval-view
 
-[![Stars](https://img.shields.io/github/stars/hidai25/eval-view?style=flat-square&color=yellow)](https://github.com/hidai25/eval-view/stargazers) [![Forks](https://img.shields.io/github/forks/hidai25/eval-view?style=flat-square&color=blue)](https://github.com/hidai25/eval-view/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hidai25/eval-view?style=flat-square&color=yellow)](https://github.com/hidai25/eval-view/stargazers) [![Forks](https://img.shields.io/github/forks/hidai25/eval-view?style=flat-square&color=blue)](https://github.com/hidai25/eval-view/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ hidai25/eval-view 是一款面向 AI 代理的回归测试框架，能够对代�
 | forks | 33/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

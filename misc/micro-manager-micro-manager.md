@@ -1,6 +1,6 @@
 # micro-manager/micro-manager
 
-[![Stars](https://img.shields.io/github/stars/micro-manager/micro-manager?style=flat-square&color=yellow)](https://github.com/micro-manager/micro-manager/stargazers) [![Forks](https://img.shields.io/github/forks/micro-manager/micro-manager?style=flat-square&color=blue)](https://github.com/micro-manager/micro-manager/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/micro-manager/micro-manager?style=flat-square&color=yellow)](https://github.com/micro-manager/micro-manager/stargazers) [![Forks](https://img.shields.io/github/forks/micro-manager/micro-manager?style=flat-square&color=blue)](https://github.com/micro-manager/micro-manager/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Microscope control and image acquisition integrated with ImageJ
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 249 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Micro‑Manager（micro-manager/micro-manager）是一个开源的显微镜控�
 | forks | 60/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

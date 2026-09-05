@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Documents · Backend · DevTools
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ geml-spec/geml：geml-spec/geml helps connect AI assistants to real tools and da
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

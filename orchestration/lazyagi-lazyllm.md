@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 387 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data
+Orchestration · Knowledge/RAG · AI/ML · Documents · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ LazyAGI/LazyLLM：LazyAGI/LazyLLM helps turn isolated prompts and tools into rep
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

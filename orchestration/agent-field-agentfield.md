@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Backend · DevOps/Infra
+Orchestration · Knowledge/RAG · AI/ML · Cloud & Storage · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Agent-Field/agentfield：Agent-Field/agentfield helps turn isolated prompts and 
 | usefulness | 90/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

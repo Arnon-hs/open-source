@@ -1,6 +1,6 @@
 # aayush2622/Dartotsu
 
-[![Stars](https://img.shields.io/github/stars/aayush2622/Dartotsu?style=flat-square&color=yellow)](https://github.com/aayush2622/Dartotsu/stargazers) [![Forks](https://img.shields.io/github/forks/aayush2622/Dartotsu?style=flat-square&color=blue)](https://github.com/aayush2622/Dartotsu/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aayush2622/Dartotsu?style=flat-square&color=yellow)](https://github.com/aayush2622/Dartotsu/stargazers) [![Forks](https://img.shields.io/github/forks/aayush2622/Dartotsu?style=flat-square&color=blue)](https://github.com/aayush2622/Dartotsu/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A multiplatform tracking client based on Dantotsu
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ aayush2622/Dartotsu 是一个基于 Dantotsu 的多平台跟踪客户端，旨�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

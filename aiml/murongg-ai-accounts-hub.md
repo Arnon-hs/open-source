@@ -1,6 +1,6 @@
 # murongg/ai-accounts-hub
 
-[![Stars](https://img.shields.io/github/stars/murongg/ai-accounts-hub?style=flat-square&color=yellow)](https://github.com/murongg/ai-accounts-hub/stargazers) [![Forks](https://img.shields.io/github/forks/murongg/ai-accounts-hub?style=flat-square&color=blue)](https://github.com/murongg/ai-accounts-hub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/murongg/ai-accounts-hub?style=flat-square&color=yellow)](https://github.com/murongg/ai-accounts-hub/stargazers) [![Forks](https://img.shields.io/github/forks/murongg/ai-accounts-hub?style=flat-square&color=blue)](https://github.com/murongg/ai-accounts-hub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 一个桌面端与 CLI 双端的 AI CLI 账号管理工具，用于统一管理账号、切换当前系统凭证、查看配额状态，并提供本地中转能力。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ murongg/ai-accounts-hub 是一款基于 Rust 的桌面端 + CLI 双模式 AI 账
 | forks | 26/100 |
 | stars | 35/100 |
 | topics | 63/100 |
-| outlook | 46/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

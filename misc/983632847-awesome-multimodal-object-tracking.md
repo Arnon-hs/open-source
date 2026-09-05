@@ -1,6 +1,6 @@
 # 983632847/Awesome-Multimodal-Object-Tracking
 
-[![Stars](https://img.shields.io/github/stars/983632847/Awesome-Multimodal-Object-Tracking?style=flat-square&color=yellow)](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/stargazers) [![Forks](https://img.shields.io/github/forks/983632847/Awesome-Multimodal-Object-Tracking?style=flat-square&color=blue)](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/983632847/Awesome-Multimodal-Object-Tracking?style=flat-square&color=yellow)](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/stargazers) [![Forks](https://img.shields.io/github/forks/983632847/Awesome-Multimodal-Object-Tracking?style=flat-square&color=blue)](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A continuously updated project to track the latest progress in the field of multi-modal object tracking. This project focuses solely on single-object tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ The production readiness of Awesome-Multimodal-Object-Tracking is rated as mediu
 | forks | 44/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

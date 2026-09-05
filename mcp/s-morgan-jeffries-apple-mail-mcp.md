@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation
+MCP · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ s-morgan-jeffries/apple-mail-mcp：s-morgan-jeffries/apple-mail-mcp helps connec
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

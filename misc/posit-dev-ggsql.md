@@ -1,6 +1,6 @@
 # posit-dev/ggsql
 
-[![Stars](https://img.shields.io/github/stars/posit-dev/ggsql?style=flat-square&color=yellow)](https://github.com/posit-dev/ggsql/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/ggsql?style=flat-square&color=blue)](https://github.com/posit-dev/ggsql/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/posit-dev/ggsql?style=flat-square&color=yellow)](https://github.com/posit-dev/ggsql/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/ggsql?style=flat-square&color=blue)](https://github.com/posit-dev/ggsql/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A SQL extension for declarative data visualisation based on the Grammar of Graphics.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 460 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ posit‑dev/ggsql 将 Grammar of Graphics 的声明式可视化理念直接嵌�
 | forks | 33/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 42/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

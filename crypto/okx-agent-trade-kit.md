@@ -1,6 +1,6 @@
 # okx/agent-trade-kit
 
-[![Stars](https://img.shields.io/github/stars/okx/agent-trade-kit?style=flat-square&color=yellow)](https://github.com/okx/agent-trade-kit/stargazers) [![Forks](https://img.shields.io/github/forks/okx/agent-trade-kit?style=flat-square&color=blue)](https://github.com/okx/agent-trade-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/okx/agent-trade-kit?style=flat-square&color=yellow)](https://github.com/okx/agent-trade-kit/stargazers) [![Forks](https://img.shields.io/github/forks/okx/agent-trade-kit?style=flat-square&color=blue)](https://github.com/okx/agent-trade-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > OKX trading MCP server — connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ okx/agent-trade-kit 的生产可用性很高，主要原因是：
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

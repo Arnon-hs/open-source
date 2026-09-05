@@ -1,6 +1,6 @@
 # sbdchd/squawk
 
-[![Stars](https://img.shields.io/github/stars/sbdchd/squawk?style=flat-square&color=yellow)](https://github.com/sbdchd/squawk/stargazers) [![Forks](https://img.shields.io/github/forks/sbdchd/squawk?style=flat-square&color=blue)](https://github.com/sbdchd/squawk/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbdchd/squawk?style=flat-square&color=yellow)](https://github.com/sbdchd/squawk/stargazers) [![Forks](https://img.shields.io/github/forks/sbdchd/squawk?style=flat-square&color=blue)](https://github.com/sbdchd/squawk/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🐘 Linter for Postgres migrations & SQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | PLpgSQL |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ sbdchd/squawk 的生产可用性为中等，适合用于原型或内部工作流
 | forks | 46/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

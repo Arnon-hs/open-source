@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Productivity · Backend
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ verygoodplugins/mcp-evernote 是一个基于 Model Context Protocol（MCP）的 
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

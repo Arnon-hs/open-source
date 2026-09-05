@@ -1,6 +1,6 @@
 # opentripplanner/OpenTripPlanner
 
-[![Stars](https://img.shields.io/github/stars/opentripplanner/OpenTripPlanner?style=flat-square&color=yellow)](https://github.com/opentripplanner/OpenTripPlanner/stargazers) [![Forks](https://img.shields.io/github/forks/opentripplanner/OpenTripPlanner?style=flat-square&color=blue)](https://github.com/opentripplanner/OpenTripPlanner/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opentripplanner/OpenTripPlanner?style=flat-square&color=yellow)](https://github.com/opentripplanner/OpenTripPlanner/stargazers) [![Forks](https://img.shields.io/github/forks/opentripplanner/OpenTripPlanner?style=flat-square&color=blue)](https://github.com/opentripplanner/OpenTripPlanner/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An open source multi-modal trip planner
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ opentripplanner/OpenTripPlanner 的生产可用性为中等（Medium）。它可
 | forks | 76/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

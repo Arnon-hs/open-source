@@ -1,6 +1,6 @@
 # Wangnov/Codex-App-Manager
 
-[![Stars](https://img.shields.io/github/stars/Wangnov/Codex-App-Manager?style=flat-square&color=yellow)](https://github.com/Wangnov/Codex-App-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/Wangnov/Codex-App-Manager?style=flat-square&color=blue)](https://github.com/Wangnov/Codex-App-Manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wangnov/Codex-App-Manager?style=flat-square&color=yellow)](https://github.com/Wangnov/Codex-App-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/Wangnov/Codex-App-Manager?style=flat-square&color=blue)](https://github.com/Wangnov/Codex-App-Manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 跨平台官方 Codex 桌面应用的安装 / 增量更新 / 干净卸载管理器，内置国内可达的镜像自更新。Cross-platform installer & updater for the official Codex desktop app — incremental updates, clean uninstall, China-reachable self-update.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Wangnov/Codex-App-Manager 的生产
 | forks | 27/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

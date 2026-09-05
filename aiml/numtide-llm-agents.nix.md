@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ numtide/llm-agents.nix：numtide/llm-agents.nix helps add AI capability without 
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

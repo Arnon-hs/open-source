@@ -1,6 +1,6 @@
 # griffinwork40/agent-afk
 
-[![Stars](https://img.shields.io/github/stars/griffinwork40/agent-afk?style=flat-square&color=yellow)](https://github.com/griffinwork40/agent-afk/stargazers) [![Forks](https://img.shields.io/github/forks/griffinwork40/agent-afk?style=flat-square&color=blue)](https://github.com/griffinwork40/agent-afk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/griffinwork40/agent-afk?style=flat-square&color=yellow)](https://github.com/griffinwork40/agent-afk/stargazers) [![Forks](https://img.shields.io/github/forks/griffinwork40/agent-afk?style=flat-square&color=blue)](https://github.com/griffinwork40/agent-afk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace you check before anything ships.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Overall, **agent‑afk** is mature enough for a pilot in production environments
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

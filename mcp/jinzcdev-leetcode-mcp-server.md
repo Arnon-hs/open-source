@@ -1,6 +1,6 @@
 # jinzcdev/leetcode-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/jinzcdev/leetcode-mcp-server?style=flat-square&color=yellow)](https://github.com/jinzcdev/leetcode-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/jinzcdev/leetcode-mcp-server?style=flat-square&color=blue)](https://github.com/jinzcdev/leetcode-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jinzcdev/leetcode-mcp-server?style=flat-square&color=yellow)](https://github.com/jinzcdev/leetcode-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/jinzcdev/leetcode-mcp-server?style=flat-square&color=blue)](https://github.com/jinzcdev/leetcode-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server enabling automated access to LeetCode's problems, solutions, and public data with optional authentication for user-specific features, supporting leetcode.com & leetcode.cn sites.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ Jinzcdev/leetcode‑mcp‑server — это открытый MCP‑серве�
 | forks | 34/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

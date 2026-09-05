@@ -1,6 +1,6 @@
 # RayLabsHQ/gitea-mirror
 
-[![Stars](https://img.shields.io/github/stars/RayLabsHQ/gitea-mirror?style=flat-square&color=yellow)](https://github.com/RayLabsHQ/gitea-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/RayLabsHQ/gitea-mirror?style=flat-square&color=blue)](https://github.com/RayLabsHQ/gitea-mirror/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RayLabsHQ/gitea-mirror?style=flat-square&color=yellow)](https://github.com/RayLabsHQ/gitea-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/RayLabsHQ/gitea-mirror?style=flat-square&color=blue)](https://github.com/RayLabsHQ/gitea-mirror/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ RayLabsHQ/gitea-mirror 是一款可以自动将 GitHub 仓库同步到自托管�
 | forks | 43/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

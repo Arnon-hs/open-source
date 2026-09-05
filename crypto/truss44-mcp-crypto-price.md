@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · MCP · Backend · Data
+Crypto · Trading · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ truss44/mcp-crypto-price：truss44/mcp-crypto-price helps prototype or inspect b
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

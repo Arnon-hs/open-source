@@ -1,6 +1,6 @@
 # braver/programmingfonts
 
-[![Stars](https://img.shields.io/github/stars/braver/programmingfonts?style=flat-square&color=yellow)](https://github.com/braver/programmingfonts/stargazers) [![Forks](https://img.shields.io/github/forks/braver/programmingfonts?style=flat-square&color=blue)](https://github.com/braver/programmingfonts/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braver/programmingfonts?style=flat-square&color=yellow)](https://github.com/braver/programmingfonts/stargazers) [![Forks](https://img.shields.io/github/forks/braver/programmingfonts?style=flat-square&color=blue)](https://github.com/braver/programmingfonts/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Test drive programming fonts online: the definitive list of fonts for code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ braver/programmingfonts 的生产可用性为中等，适合用于内部工作�
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

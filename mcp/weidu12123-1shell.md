@@ -1,6 +1,6 @@
 # weidu12123/1Shell
 
-[![Stars](https://img.shields.io/github/stars/weidu12123/1Shell?style=flat-square&color=yellow)](https://github.com/weidu12123/1Shell/stargazers) [![Forks](https://img.shields.io/github/forks/weidu12123/1Shell?style=flat-square&color=blue)](https://github.com/weidu12123/1Shell/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weidu12123/1Shell?style=flat-square&color=yellow)](https://github.com/weidu12123/1Shell/stargazers) [![Forks](https://img.shields.io/github/forks/weidu12123/1Shell?style=flat-square&color=blue)](https://github.com/weidu12123/1Shell/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ weidu12123/1Shell представляет собой открытый прое�
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

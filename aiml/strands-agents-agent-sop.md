@@ -1,6 +1,6 @@
 # strands-agents/agent-sop
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/agent-sop?style=flat-square&color=yellow)](https://github.com/strands-agents/agent-sop/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/agent-sop?style=flat-square&color=blue)](https://github.com/strands-agents/agent-sop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/agent-sop?style=flat-square&color=yellow)](https://github.com/strands-agents/agent-sop/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/agent-sop?style=flat-square&color=blue)](https://github.com/strands-agents/agent-sop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ strands‑agents/agent‑sop 是一套基于自然语言的工作流框架，能
 | forks | 51/100 |
 | stars | 64/100 |
 | topics | 13/100 |
-| outlook | 55/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

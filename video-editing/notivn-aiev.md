@@ -1,6 +1,6 @@
 # notivn/AIEV
 
-[![Stars](https://img.shields.io/github/stars/notivn/AIEV?style=flat-square&color=yellow)](https://github.com/notivn/AIEV/stargazers) [![Forks](https://img.shields.io/github/forks/notivn/AIEV?style=flat-square&color=blue)](https://github.com/notivn/AIEV/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notivn/AIEV?style=flat-square&color=yellow)](https://github.com/notivn/AIEV/stargazers) [![Forks](https://img.shields.io/github/forks/notivn/AIEV?style=flat-square&color=blue)](https://github.com/notivn/AIEV/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic AI video editing. Claude directs HyperFrames (HTML + GSAP motion graphics) and Remotion (timeline assembly) to turn raw footage into a finished MP4 - transcript, kinetic typography, karaoke subtitles, sound effects. Self-hosted, supervised from a web dashboard on port 6868.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 100 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ notivn/AIEV：notivn/AIEV helps turn media editing, captions, rendering, and tra
 | forks | 45/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

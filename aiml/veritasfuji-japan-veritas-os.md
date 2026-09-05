@@ -1,6 +1,6 @@
 # veritasfuji-japan/veritas_os
 
-[![Stars](https://img.shields.io/github/stars/veritasfuji-japan/veritas_os?style=flat-square&color=yellow)](https://github.com/veritasfuji-japan/veritas_os/stargazers) [![Forks](https://img.shields.io/github/forks/veritasfuji-japan/veritas_os?style=flat-square&color=blue)](https://github.com/veritasfuji-japan/veritas_os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/veritasfuji-japan/veritas_os?style=flat-square&color=yellow)](https://github.com/veritasfuji-japan/veritas_os/stargazers) [![Forks](https://img.shields.io/github/forks/veritasfuji-japan/veritas_os?style=flat-square&color=blue)](https://github.com/veritasfuji-japan/veritas_os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, and replayable evidence before real-world actions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ VERITAS OS 是一套面向 AI 代理的治理运行时，提供决策控制、�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

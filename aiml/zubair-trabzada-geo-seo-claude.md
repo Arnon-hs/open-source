@@ -1,6 +1,6 @@
 # zubair-trabzada/geo-seo-claude
 
-[![Stars](https://img.shields.io/github/stars/zubair-trabzada/geo-seo-claude?style=flat-square&color=yellow)](https://github.com/zubair-trabzada/geo-seo-claude/stargazers) [![Forks](https://img.shields.io/github/forks/zubair-trabzada/geo-seo-claude?style=flat-square&color=blue)](https://github.com/zubair-trabzada/geo-seo-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zubair-trabzada/geo-seo-claude?style=flat-square&color=yellow)](https://github.com/zubair-trabzada/geo-seo-claude/stargazers) [![Forks](https://img.shields.io/github/forks/zubair-trabzada/geo-seo-claude?style=flat-square&color=blue)](https://github.com/zubair-trabzada/geo-seo-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Database · Security · Education · Marketing
+AI/ML · Documents · Marketing
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ zubair-trabzada/geo-seo-claude 的生产可用性较高，因为它有最近的�
 | forks | 79/100 |
 | stars | 84/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

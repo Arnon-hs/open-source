@@ -1,6 +1,6 @@
 # tony9402/baekjoon
 
-[![Stars](https://img.shields.io/github/stars/tony9402/baekjoon?style=flat-square&color=yellow)](https://github.com/tony9402/baekjoon/stargazers) [![Forks](https://img.shields.io/github/forks/tony9402/baekjoon?style=flat-square&color=blue)](https://github.com/tony9402/baekjoon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tony9402/baekjoon?style=flat-square&color=yellow)](https://github.com/tony9402/baekjoon/stargazers) [![Forks](https://img.shields.io/github/forks/tony9402/baekjoon?style=flat-square&color=blue)](https://github.com/tony9402/baekjoon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 코딩테스트 대비 문제집(Baekjoon Online Judge)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Tony9402/Baekjoon 的生产可用性较高，理由如下：
 | forks | 77/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

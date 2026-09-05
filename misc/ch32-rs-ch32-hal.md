@@ -1,6 +1,6 @@
 # ch32-rs/ch32-hal
 
-[![Stars](https://img.shields.io/github/stars/ch32-rs/ch32-hal?style=flat-square&color=yellow)](https://github.com/ch32-rs/ch32-hal/stargazers) [![Forks](https://img.shields.io/github/forks/ch32-rs/ch32-hal?style=flat-square&color=blue)](https://github.com/ch32-rs/ch32-hal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ch32-rs/ch32-hal?style=flat-square&color=yellow)](https://github.com/ch32-rs/ch32-hal/stargazers) [![Forks](https://img.shields.io/github/forks/ch32-rs/ch32-hal?style=flat-square&color=blue)](https://github.com/ch32-rs/ch32-hal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust HAL implementation for the CH32V0, CH32V1, CH32V2, CH32V3, CH32X0, CH32L1 family, with Embassy framework support and compatible with embedded-hal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,11 +128,11 @@ ch32-rs/ch32-hal 是面向 CH32V0、CH32V1、CH32V2、CH32V3、CH32X0、CH32L1 �
 | forks | 45/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 45/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

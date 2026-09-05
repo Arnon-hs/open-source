@@ -1,6 +1,6 @@
 # savonrb/savon
 
-[![Stars](https://img.shields.io/github/stars/savonrb/savon?style=flat-square&color=yellow)](https://github.com/savonrb/savon/stargazers) [![Forks](https://img.shields.io/github/forks/savonrb/savon?style=flat-square&color=blue)](https://github.com/savonrb/savon/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/savonrb/savon?style=flat-square&color=yellow)](https://github.com/savonrb/savon/stargazers) [![Forks](https://img.shields.io/github/forks/savonrb/savon?style=flat-square&color=blue)](https://github.com/savonrb/savon/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Heavy metal SOAP client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 611 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Savon（savonrb/savon）是一个基于 Ruby 的轻量级 SOAP 客户端库，�
 | forks | 70/100 |
 | stars | 71/100 |
 | topics | 38/100 |
-| outlook | 57/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

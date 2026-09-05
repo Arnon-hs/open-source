@@ -1,6 +1,6 @@
 # PowerBeef/Vocello
 
-[![Stars](https://img.shields.io/github/stars/PowerBeef/Vocello?style=flat-square&color=yellow)](https://github.com/PowerBeef/Vocello/stargazers) [![Forks](https://img.shields.io/github/forks/PowerBeef/Vocello?style=flat-square&color=blue)](https://github.com/PowerBeef/Vocello/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PowerBeef/Vocello?style=flat-square&color=yellow)](https://github.com/PowerBeef/Vocello/stargazers) [![Forks](https://img.shields.io/github/forks/PowerBeef/Vocello?style=flat-square&color=blue)](https://github.com/PowerBeef/Vocello/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Vocello — a local, private voice studio for Apple Silicon. Write a script, pick or describe a voice, and generate speech on-device. macOS today, iPhone coming soon. (Formerly QwenVoice.)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Vocello 的生产可用性为中等。它适用于原型或内部工作流，需
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mingchen666/Reviva
 
-[![Stars](https://img.shields.io/github/stars/mingchen666/Reviva?style=flat-square&color=yellow)](https://github.com/mingchen666/Reviva/stargazers) [![Forks](https://img.shields.io/github/forks/mingchen666/Reviva?style=flat-square&color=blue)](https://github.com/mingchen666/Reviva/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mingchen666/Reviva?style=flat-square&color=yellow)](https://github.com/mingchen666/Reviva/stargazers) [![Forks](https://img.shields.io/github/forks/mingchen666/Reviva?style=flat-square&color=blue)](https://github.com/mingchen666/Reviva/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI learning workspace — ask, note, review and create around your own materials. Wiki KB, Agents, Skills,   creation tools.AI 学习工作台，围绕你的资料完成问答、笔记、复习和创作输出。本地优先，多模型，Wiki 知识库，AI Agent，创作工具。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Reviva 的生产可用性为中等（Medium）。它可以用于内部工作流�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

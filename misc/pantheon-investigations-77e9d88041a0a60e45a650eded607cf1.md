@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 32/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -72,6 +72,7 @@ Primary-source deep-dive of The Pentagon's PURSUE UAP release (Top findings)：P
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

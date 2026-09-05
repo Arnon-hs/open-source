@@ -1,6 +1,6 @@
 # zed-extensions/tsgo
 
-[![Stars](https://img.shields.io/github/stars/zed-extensions/tsgo?style=flat-square&color=yellow)](https://github.com/zed-extensions/tsgo/stargazers) [![Forks](https://img.shields.io/github/forks/zed-extensions/tsgo?style=flat-square&color=blue)](https://github.com/zed-extensions/tsgo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zed-extensions/tsgo?style=flat-square&color=yellow)](https://github.com/zed-extensions/tsgo/stargazers) [![Forks](https://img.shields.io/github/forks/zed-extensions/tsgo?style=flat-square&color=blue)](https://github.com/zed-extensions/tsgo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Extension for Zed to support TypeScript Native
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ zed-extensions/tsgo 是 Zed 的一个扩展，旨在支持 TypeScript Native。�
 | forks | 30/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

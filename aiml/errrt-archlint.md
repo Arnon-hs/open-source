@@ -1,6 +1,6 @@
 # errrt/archlint
 
-[![Stars](https://img.shields.io/github/stars/errrt/archlint?style=flat-square&color=yellow)](https://github.com/errrt/archlint/stargazers) [![Forks](https://img.shields.io/github/forks/errrt/archlint?style=flat-square&color=blue)](https://github.com/errrt/archlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/errrt/archlint?style=flat-square&color=yellow)](https://github.com/errrt/archlint/stargazers) [![Forks](https://img.shields.io/github/forks/errrt/archlint?style=flat-square&color=blue)](https://github.com/errrt/archlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ESLint for AI coding agents. Stop coding agents from breaking your architecture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ errrt/archlint：errrt/archlint helps add AI capability without starting from a 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 75/100 |
-| outlook | 64/100 |
-| quality | 47/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 42/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

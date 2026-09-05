@@ -1,6 +1,6 @@
 # eddmpython/dartlab
 
-[![Stars](https://img.shields.io/github/stars/eddmpython/dartlab?style=flat-square&color=yellow)](https://github.com/eddmpython/dartlab/stargazers) [![Forks](https://img.shields.io/github/forks/eddmpython/dartlab?style=flat-square&color=blue)](https://github.com/eddmpython/dartlab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eddmpython/dartlab?style=flat-square&color=yellow)](https://github.com/eddmpython/dartlab/stargazers) [![Forks](https://img.shields.io/github/forks/eddmpython/dartlab?style=flat-square&color=blue)](https://github.com/eddmpython/dartlab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Korean DART + SEC EDGAR filings as structured Python data for company analysis
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ To adopt eddmpython/dartlab, users can follow these steps:
 | forks | 41/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

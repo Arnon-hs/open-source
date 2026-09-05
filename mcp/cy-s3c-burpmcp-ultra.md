@@ -1,6 +1,6 @@
 # Cy-S3c/BurpMCP-Ultra
 
-[![Stars](https://img.shields.io/github/stars/Cy-S3c/BurpMCP-Ultra?style=flat-square&color=yellow)](https://github.com/Cy-S3c/BurpMCP-Ultra/stargazers) [![Forks](https://img.shields.io/github/forks/Cy-S3c/BurpMCP-Ultra?style=flat-square&color=blue)](https://github.com/Cy-S3c/BurpMCP-Ultra/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cy-S3c/BurpMCP-Ultra?style=flat-square&color=yellow)](https://github.com/Cy-S3c/BurpMCP-Ultra/stargazers) [![Forks](https://img.shields.io/github/forks/Cy-S3c/BurpMCP-Ultra?style=flat-square&color=blue)](https://github.com/Cy-S3c/BurpMCP-Ultra/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered MCP server for Burp Suite Professional — 149 tools across proxy, scanner, inline fuzzer, race conditions, guided injection, JWT/IDOR attacks, recon & OOB, with a real-time dashboard and hardened localhost security. Drive Burp from Claude Code or any MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Security
+MCP · AI/ML · Networking · Security
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ Cy‑S3c/BurpMCP‑Ultra 是一款基于 AI 的 MCP（Model Context Protocol
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

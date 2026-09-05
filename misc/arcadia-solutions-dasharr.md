@@ -1,6 +1,6 @@
 # Arcadia-Solutions/Dasharr
 
-[![Stars](https://img.shields.io/github/stars/Arcadia-Solutions/Dasharr?style=flat-square&color=yellow)](https://github.com/Arcadia-Solutions/Dasharr/stargazers) [![Forks](https://img.shields.io/github/forks/Arcadia-Solutions/Dasharr?style=flat-square&color=blue)](https://github.com/Arcadia-Solutions/Dasharr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arcadia-Solutions/Dasharr?style=flat-square&color=yellow)](https://github.com/Arcadia-Solutions/Dasharr/stargazers) [![Forks](https://img.shields.io/github/forks/Arcadia-Solutions/Dasharr?style=flat-square&color=blue)](https://github.com/Arcadia-Solutions/Dasharr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Dashboard of your indexers' usage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Arcadia‑Solutions/Dasharr 是一款基于 Rust 的轻量级仪表盘，用于�
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

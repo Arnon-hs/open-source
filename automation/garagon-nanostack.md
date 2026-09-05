@@ -1,6 +1,6 @@
 # garagon/nanostack
 
-[![Stars](https://img.shields.io/github/stars/garagon/nanostack?style=flat-square&color=yellow)](https://github.com/garagon/nanostack/stargazers) [![Forks](https://img.shields.io/github/forks/garagon/nanostack?style=flat-square&color=blue)](https://github.com/garagon/nanostack/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/garagon/nanostack?style=flat-square&color=yellow)](https://github.com/garagon/nanostack/stargazers) [![Forks](https://img.shields.io/github/forks/garagon/nanostack?style=flat-square&color=blue)](https://github.com/garagon/nanostack/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal AI coding agent team skills for the full engineering workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ garagon/nanostack 是一个轻量级的 AI 编码助理框架，提供面向完�
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

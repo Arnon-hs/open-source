@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ BushidoUK/Ransomware-Tool-Matrix：BushidoUK/Ransomware-Tool-Matrix may be usefu
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

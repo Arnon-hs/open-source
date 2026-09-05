@@ -1,6 +1,6 @@
 # acl-org/acl-anthology
 
-[![Stars](https://img.shields.io/github/stars/acl-org/acl-anthology?style=flat-square&color=yellow)](https://github.com/acl-org/acl-anthology/stargazers) [![Forks](https://img.shields.io/github/forks/acl-org/acl-anthology?style=flat-square&color=blue)](https://github.com/acl-org/acl-anthology/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/acl-org/acl-anthology?style=flat-square&color=yellow)](https://github.com/acl-org/acl-anthology/stargazers) [![Forks](https://img.shields.io/github/forks/acl-org/acl-anthology?style=flat-square&color=blue)](https://github.com/acl-org/acl-anthology/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Data and software for building the ACL Anthology.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 743 |
 | 🍴 **Forks** | 391 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ The project scores high on readiness: recent commits (as of 2026‑06‑29), a t
 | forks | 65/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

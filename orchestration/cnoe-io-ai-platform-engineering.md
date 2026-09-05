@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ cnoe-io/ai-platform-engineering：cnoe-io/ai-platform-engineering helps turn iso
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

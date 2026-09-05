@@ -1,6 +1,6 @@
 # BilkentAudio/Wwise-MCP
 
-[![Stars](https://img.shields.io/github/stars/BilkentAudio/Wwise-MCP?style=flat-square&color=yellow)](https://github.com/BilkentAudio/Wwise-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/BilkentAudio/Wwise-MCP?style=flat-square&color=blue)](https://github.com/BilkentAudio/Wwise-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BilkentAudio/Wwise-MCP?style=flat-square&color=yellow)](https://github.com/BilkentAudio/Wwise-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/BilkentAudio/Wwise-MCP?style=flat-square&color=blue)](https://github.com/BilkentAudio/Wwise-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Wwise-MCP is a Model Context Protocol (MCP) server that enables large language models (LLMs) to interact with the Wwise Authoring application. It exposes a set of tools built on a custom Python WAAPI library, allowing MCP clients such as Claude or Cursor to automate and compose complex, multi-step Wwise workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ BilkentAudio/Wwise‑MCP 为大型语言模型提供了一个标准化的 Model 
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 50/100 |
-| outlook | 49/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

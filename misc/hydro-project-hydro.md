@@ -1,6 +1,6 @@
 # hydro-project/hydro
 
-[![Stars](https://img.shields.io/github/stars/hydro-project/hydro?style=flat-square&color=yellow)](https://github.com/hydro-project/hydro/stargazers) [![Forks](https://img.shields.io/github/forks/hydro-project/hydro?style=flat-square&color=blue)](https://github.com/hydro-project/hydro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hydro-project/hydro?style=flat-square&color=yellow)](https://github.com/hydro-project/hydro/stargazers) [![Forks](https://img.shields.io/github/forks/hydro-project/hydro?style=flat-square&color=blue)](https://github.com/hydro-project/hydro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust framework for correct and performant distributed systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Hydro（hydro-project/hydro）是一套基于 Rust 的分布式系统框架，�
 | forks | 48/100 |
 | stars | 66/100 |
 | topics | 25/100 |
-| outlook | 46/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 45/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

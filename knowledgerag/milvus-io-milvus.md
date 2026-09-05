@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database
+Knowledge/RAG · AI/ML · Cloud & Storage · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ milvus-io/milvus：milvus-io/milvus helps make internal knowledge searchable and
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

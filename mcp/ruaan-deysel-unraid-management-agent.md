@@ -1,6 +1,6 @@
 # ruaan-deysel/unraid-management-agent
 
-[![Stars](https://img.shields.io/github/stars/ruaan-deysel/unraid-management-agent?style=flat-square&color=yellow)](https://github.com/ruaan-deysel/unraid-management-agent/stargazers) [![Forks](https://img.shields.io/github/forks/ruaan-deysel/unraid-management-agent?style=flat-square&color=blue)](https://github.com/ruaan-deysel/unraid-management-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruaan-deysel/unraid-management-agent?style=flat-square&color=yellow)](https://github.com/ruaan-deysel/unraid-management-agent/stargazers) [![Forks](https://img.shields.io/github/forks/ruaan-deysel/unraid-management-agent?style=flat-square&color=blue)](https://github.com/ruaan-deysel/unraid-management-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ruaan-deysel/unraid-management-agent 的生产可用性为高（High）。它有
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 88/100 |
-| outlook | 68/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

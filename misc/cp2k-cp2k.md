@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 463 |
 | 💻 **Language** | Fortran |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ cp2k/cp2k：cp2k/cp2k may be useful when its README and activity match a concret
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

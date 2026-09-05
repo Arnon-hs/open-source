@@ -1,6 +1,6 @@
 # adham90/ruby_llm-agents
 
-[![Stars](https://img.shields.io/github/stars/adham90/ruby_llm-agents?style=flat-square&color=yellow)](https://github.com/adham90/ruby_llm-agents/stargazers) [![Forks](https://img.shields.io/github/forks/adham90/ruby_llm-agents?style=flat-square&color=blue)](https://github.com/adham90/ruby_llm-agents/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adham90/ruby_llm-agents?style=flat-square&color=yellow)](https://github.com/adham90/ruby_llm-agents/stargazers) [![Forks](https://img.shields.io/github/forks/adham90/ruby_llm-agents?style=flat-square&color=blue)](https://github.com/adham90/ruby_llm-agents/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A Rails agent framework for RubyLLM — define AI agents with prompts, schemas, caching, logging, cost tracking, and a built-in dashboard for monitoring LLM usage in production.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ adham90/ruby_llm-agents 的生产可用性为中等。它适合用于 prototypin
 | forks | 24/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 67/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

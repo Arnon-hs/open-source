@@ -1,6 +1,6 @@
 # aws-samples/sample-claude-code-agent-team
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/sample-claude-code-agent-team?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-claude-code-agent-team/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-claude-code-agent-team?style=flat-square&color=blue)](https://github.com/aws-samples/sample-claude-code-agent-team/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/sample-claude-code-agent-team?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-claude-code-agent-team/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-claude-code-agent-team?style=flat-square&color=blue)](https://github.com/aws-samples/sample-claude-code-agent-team/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Team of specialized AI agents that collaborate through a spec-driven development process. Full Stack Developer parent orchestrates dynamically sized pools of specialists: Coding, DevOps, Review, and Solutions Architect agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -71,15 +71,15 @@ The aws‑sample Claude Code Agent Team provides a ready‑made set of s
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 39/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

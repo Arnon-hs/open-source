@@ -1,6 +1,6 @@
 # gpac/gpac
 
-[![Stars](https://img.shields.io/github/stars/gpac/gpac?style=flat-square&color=yellow)](https://github.com/gpac/gpac/stargazers) [![Forks](https://img.shields.io/github/forks/gpac/gpac?style=flat-square&color=blue)](https://github.com/gpac/gpac/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gpac/gpac?style=flat-square&color=yellow)](https://github.com/gpac/gpac/stargazers) [![Forks](https://img.shields.io/github/forks/gpac/gpac?style=flat-square&color=blue)](https://github.com/gpac/gpac/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 587 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ GPAC（gpac/gpac）是一个开源的超媒体框架，提供视频流媒体、�
 | forks | 69/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ytaskiran/tws
 
-[![Stars](https://img.shields.io/github/stars/ytaskiran/tws?style=flat-square&color=yellow)](https://github.com/ytaskiran/tws/stargazers) [![Forks](https://img.shields.io/github/forks/ytaskiran/tws?style=flat-square&color=blue)](https://github.com/ytaskiran/tws/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ytaskiran/tws?style=flat-square&color=yellow)](https://github.com/ytaskiran/tws/stargazers) [![Forks](https://img.shields.io/github/forks/ytaskiran/tws?style=flat-square&color=blue)](https://github.com/ytaskiran/tws/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > tmux workspace manager — organize your tmux sessions and ai agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ ytaskiran/tws：ytaskiran/tws helps add AI capability without starting from a bl
 | forks | 15/100 |
 | stars | 37/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

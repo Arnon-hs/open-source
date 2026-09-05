@@ -1,6 +1,6 @@
 # actix/actix-web
 
-[![Stars](https://img.shields.io/github/stars/actix/actix-web?style=flat-square&color=yellow)](https://github.com/actix/actix-web/stargazers) [![Forks](https://img.shields.io/github/forks/actix/actix-web?style=flat-square&color=blue)](https://github.com/actix/actix-web/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/actix/actix-web?style=flat-square&color=yellow)](https://github.com/actix/actix-web/stargazers) [![Forks](https://img.shields.io/github/forks/actix/actix-web?style=flat-square&color=blue)](https://github.com/actix/actix-web/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24.6k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Actix‑Web 为 Rust 提供了一个 **高性能、实用且易上手** 的 HTTP
 | forks | 82/100 |
 | stars | 93/100 |
 | topics | 88/100 |
-| outlook | 63/100 |
-| quality | 74/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

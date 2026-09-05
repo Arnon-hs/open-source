@@ -1,6 +1,6 @@
 # qntx/r402
 
-[![Stars](https://img.shields.io/github/stars/qntx/r402?style=flat-square&color=yellow)](https://github.com/qntx/r402/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/r402?style=flat-square&color=blue)](https://github.com/qntx/r402/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qntx/r402?style=flat-square&color=yellow)](https://github.com/qntx/r402/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/r402?style=flat-square&color=blue)](https://github.com/qntx/r402/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Rust SDK for the x402 payment protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments
+Crypto · Payments · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ qntx/r402 的生产可用性为中等（Medium）。它适合用于 prototype �
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

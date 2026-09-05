@@ -1,6 +1,6 @@
 # Evokoa/pgGraph
 
-[![Stars](https://img.shields.io/github/stars/Evokoa/pgGraph?style=flat-square&color=yellow)](https://github.com/Evokoa/pgGraph/stargazers) [![Forks](https://img.shields.io/github/forks/Evokoa/pgGraph?style=flat-square&color=blue)](https://github.com/Evokoa/pgGraph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Evokoa/pgGraph?style=flat-square&color=yellow)](https://github.com/Evokoa/pgGraph/stargazers) [![Forks](https://img.shields.io/github/forks/Evokoa/pgGraph?style=flat-square&color=blue)](https://github.com/Evokoa/pgGraph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source graph database superpowers for your existing Postgres data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 488 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Evokoa/pgGraph 为已有的 PostgreSQL 数据库注入图数据库的能力，�
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

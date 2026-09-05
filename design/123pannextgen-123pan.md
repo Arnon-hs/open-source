@@ -1,6 +1,6 @@
 # 123panNextGen/123pan
 
-[![Stars](https://img.shields.io/github/stars/123panNextGen/123pan?style=flat-square&color=yellow)](https://github.com/123panNextGen/123pan/stargazers) [![Forks](https://img.shields.io/github/forks/123panNextGen/123pan?style=flat-square&color=blue)](https://github.com/123panNextGen/123pan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/123panNextGen/123pan?style=flat-square&color=yellow)](https://github.com/123panNextGen/123pan/stargazers) [![Forks](https://img.shields.io/github/forks/123panNextGen/123pan?style=flat-square&color=blue)](https://github.com/123panNextGen/123pan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用多种方式解除流量限制，使用Python3和PyQt6制作
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Design
 | forks | 29/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

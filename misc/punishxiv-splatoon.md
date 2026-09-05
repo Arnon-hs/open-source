@@ -1,6 +1,6 @@
 # PunishXIV/Splatoon
 
-[![Stars](https://img.shields.io/github/stars/PunishXIV/Splatoon?style=flat-square&color=yellow)](https://github.com/PunishXIV/Splatoon/stargazers) [![Forks](https://img.shields.io/github/forks/PunishXIV/Splatoon?style=flat-square&color=blue)](https://github.com/PunishXIV/Splatoon/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PunishXIV/Splatoon?style=flat-square&color=yellow)](https://github.com/PunishXIV/Splatoon/stargazers) [![Forks](https://img.shields.io/github/forks/PunishXIV/Splatoon?style=flat-square&color=blue)](https://github.com/PunishXIV/Splatoon/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An accessibility tool to assist in gameplay and compensate for human imperfections.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ PunishXIV/Splatoon 在提升游戏可访问性方面具备明确价值，适合�
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

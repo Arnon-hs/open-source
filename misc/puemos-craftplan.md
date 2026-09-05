@@ -1,6 +1,6 @@
 # puemos/craftplan
 
-[![Stars](https://img.shields.io/github/stars/puemos/craftplan?style=flat-square&color=yellow)](https://github.com/puemos/craftplan/stargazers) [![Forks](https://img.shields.io/github/forks/puemos/craftplan?style=flat-square&color=blue)](https://github.com/puemos/craftplan/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puemos/craftplan?style=flat-square&color=yellow)](https://github.com/puemos/craftplan/stargazers) [![Forks](https://img.shields.io/github/forks/puemos/craftplan?style=flat-square&color=blue)](https://github.com/puemos/craftplan/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted software for managing artisanal D2C micro-businesses
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Start with a limited proof‑of‑concept deployment to verify that Craftplan’
 | forks | 44/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

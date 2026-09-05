@@ -1,6 +1,6 @@
 # jhipster/prettier-java
 
-[![Stars](https://img.shields.io/github/stars/jhipster/prettier-java?style=flat-square&color=yellow)](https://github.com/jhipster/prettier-java/stargazers) [![Forks](https://img.shields.io/github/forks/jhipster/prettier-java?style=flat-square&color=blue)](https://github.com/jhipster/prettier-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhipster/prettier-java?style=flat-square&color=yellow)](https://github.com/jhipster/prettier-java/stargazers) [![Forks](https://img.shields.io/github/forks/jhipster/prettier-java?style=flat-square&color=blue)](https://github.com/jhipster/prettier-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Prettier Java Plugin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Prettier Java 插件（jhipster/prettier-java）是一个开源项目，旨在�
 | forks | 52/100 |
 | stars | 66/100 |
 | topics | 25/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

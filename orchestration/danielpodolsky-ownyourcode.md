@@ -1,6 +1,6 @@
 # DanielPodolsky/ownyourcode
 
-[![Stars](https://img.shields.io/github/stars/DanielPodolsky/ownyourcode?style=flat-square&color=yellow)](https://github.com/DanielPodolsky/ownyourcode/stargazers) [![Forks](https://img.shields.io/github/forks/DanielPodolsky/ownyourcode?style=flat-square&color=blue)](https://github.com/DanielPodolsky/ownyourcode/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DanielPodolsky/ownyourcode?style=flat-square&color=yellow)](https://github.com/DanielPodolsky/ownyourcode/stargazers) [![Forks](https://img.shields.io/github/forks/DanielPodolsky/ownyourcode?style=flat-square&color=blue)](https://github.com/DanielPodolsky/ownyourcode/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code workflow for AI-mentored development. Work efficiently with Spec-Driven Development and the 6 Gates. Built to fight cognitive offloading — for developers using AI to grow and maintain ownership.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -142,11 +142,11 @@ DanielPodolsky/ownyourcode 是一套基于 Claude Code 工作流的 AI 辅助开
 | forks | 27/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

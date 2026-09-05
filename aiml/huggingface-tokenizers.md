@@ -1,6 +1,6 @@
 # huggingface/tokenizers
 
-[![Stars](https://img.shields.io/github/stars/huggingface/tokenizers?style=flat-square&color=yellow)](https://github.com/huggingface/tokenizers/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/tokenizers?style=flat-square&color=blue)](https://github.com/huggingface/tokenizers/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/tokenizers?style=flat-square&color=yellow)](https://github.com/huggingface/tokenizers/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/tokenizers?style=flat-square&color=blue)](https://github.com/huggingface/tokenizers/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ huggingface/tokenizers 是基于 Rust 实现的高速、最前沿的分词库，
 | forks | 76/100 |
 | stars | 86/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

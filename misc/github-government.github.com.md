@@ -1,6 +1,6 @@
 # github/government.github.com
 
-[![Stars](https://img.shields.io/github/stars/github/government.github.com?style=flat-square&color=yellow)](https://github.com/github/government.github.com/stargazers) [![Forks](https://img.shields.io/github/forks/github/government.github.com?style=flat-square&color=blue)](https://github.com/github/government.github.com/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/government.github.com?style=flat-square&color=yellow)](https://github.com/github/government.github.com/stargazers) [![Forks](https://img.shields.io/github/forks/github/government.github.com?style=flat-square&color=blue)](https://github.com/github/government.github.com/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ github/government.github.com 是一个开源项目，旨在收集、整理和展
 | forks | 75/100 |
 | stars | 70/100 |
 | topics | 38/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

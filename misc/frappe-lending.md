@@ -1,6 +1,6 @@
 # frappe/lending
 
-[![Stars](https://img.shields.io/github/stars/frappe/lending?style=flat-square&color=yellow)](https://github.com/frappe/lending/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/lending?style=flat-square&color=blue)](https://github.com/frappe/lending/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frappe/lending?style=flat-square&color=yellow)](https://github.com/frappe/lending/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/lending?style=flat-square&color=blue)](https://github.com/frappe/lending/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Lending software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Rated **Medium**: the project is stable enough for prototypes or internal tools,
 | forks | 61/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # highlight/highlight
 
-[![Stars](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&color=yellow)](https://github.com/highlight/highlight/stargazers) [![Forks](https://img.shields.io/github/forks/highlight/highlight?style=flat-square&color=blue)](https://github.com/highlight/highlight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&color=yellow)](https://github.com/highlight/highlight/stargazers) [![Forks](https://img.shields.io/github/forks/highlight/highlight?style=flat-square&color=blue)](https://github.com/highlight/highlight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 673 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Highlight 的生产可用性较高，因为它有活跃的社区、良好的采�
 | forks | 71/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 81/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 70/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

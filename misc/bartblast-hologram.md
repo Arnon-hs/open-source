@@ -1,6 +1,6 @@
 # bartblast/hologram
 
-[![Stars](https://img.shields.io/github/stars/bartblast/hologram?style=flat-square&color=yellow)](https://github.com/bartblast/hologram/stargazers) [![Forks](https://img.shields.io/github/forks/bartblast/hologram?style=flat-square&color=blue)](https://github.com/bartblast/hologram/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bartblast/hologram?style=flat-square&color=yellow)](https://github.com/bartblast/hologram/stargazers) [![Forks](https://img.shields.io/github/forks/bartblast/hologram?style=flat-square&color=blue)](https://github.com/bartblast/hologram/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ bartblast/hologram 是一套全栈 Elixir Web 框架，能够把 Elixir 编写�
 | forks | 51/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

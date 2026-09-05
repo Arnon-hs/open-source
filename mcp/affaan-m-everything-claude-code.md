@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 27.2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Security
+MCP · AI/ML · Productivity · DevTools · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ affaan-m/everything-claude-code：affaan-m/everything-claude-code helps connect 
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

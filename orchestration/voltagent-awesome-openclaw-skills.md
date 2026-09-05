@@ -1,6 +1,6 @@
 # VoltAgent/awesome-openclaw-skills
 
-[![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square&color=yellow)](https://github.com/VoltAgent/awesome-openclaw-skills/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/awesome-openclaw-skills?style=flat-square&color=blue)](https://github.com/VoltAgent/awesome-openclaw-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square&color=yellow)](https://github.com/VoltAgent/awesome-openclaw-skills/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/awesome-openclaw-skills?style=flat-square&color=blue)](https://github.com/VoltAgent/awesome-openclaw-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51.1k |
 | 🍴 **Forks** | 4.9k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ VoltAgent/awesome-openclaw-skills的价值在于，它帮助用户：
 | forks | 92/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 84/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 63/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

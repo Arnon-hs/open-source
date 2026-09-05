@@ -1,6 +1,6 @@
 # redwoodjs/sdk
 
-[![Stars](https://img.shields.io/github/stars/redwoodjs/sdk?style=flat-square&color=yellow)](https://github.com/redwoodjs/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/redwoodjs/sdk?style=flat-square&color=blue)](https://github.com/redwoodjs/sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redwoodjs/sdk?style=flat-square&color=yellow)](https://github.com/redwoodjs/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/redwoodjs/sdk?style=flat-square&color=blue)](https://github.com/redwoodjs/sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A simple framework for humans Server-first React, running on the Cloudflare platform. Simple to build. Easy to maintain.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ redwoodjs/sdk 是一套面向人类的 Server‑first React 框架，专为 Clou
 | forks | 49/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

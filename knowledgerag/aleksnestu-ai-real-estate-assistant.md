@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database · DevOps/Infra
+Knowledge/RAG · AI/ML · Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ AleksNeStu/ai-real-estate-assistant：AleksNeStu/ai-real-estate-assistant helps 
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

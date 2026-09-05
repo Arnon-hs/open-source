@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Backend
+Crypto · Trading · Automation · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ oboshto/mexc-futures-sdk：oboshto/mexc-futures-sdk helps prototype or inspect b
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

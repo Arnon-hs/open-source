@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ webinstall/webi-installers：webinstall/webi-installers may be useful when its R
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

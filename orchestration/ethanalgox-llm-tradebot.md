@@ -1,6 +1,6 @@
 # EthanAlgoX/LLM-TradeBot
 
-[![Stars](https://img.shields.io/github/stars/EthanAlgoX/LLM-TradeBot?style=flat-square&color=yellow)](https://github.com/EthanAlgoX/LLM-TradeBot/stargazers) [![Forks](https://img.shields.io/github/forks/EthanAlgoX/LLM-TradeBot?style=flat-square&color=blue)](https://github.com/EthanAlgoX/LLM-TradeBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EthanAlgoX/LLM-TradeBot?style=flat-square&color=yellow)](https://github.com/EthanAlgoX/LLM-TradeBot/stargazers) [![Forks](https://img.shields.io/github/forks/EthanAlgoX/LLM-TradeBot?style=flat-square&color=blue)](https://github.com/EthanAlgoX/LLM-TradeBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ EthanAlgoX/LLM-TradeBot 的生产可用性被评为高，因为
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

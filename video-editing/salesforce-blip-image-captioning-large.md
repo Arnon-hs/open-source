@@ -1,6 +1,6 @@
 # Salesforce/blip-image-captioning-large
 
-[![Stars](https://img.shields.io/github/stars/Salesforce/blip-image-captioning-large?style=flat-square&color=yellow)](https://huggingface.co/Salesforce/blip-image-captioning-large/stargazers) [![Forks](https://img.shields.io/github/forks/Salesforce/blip-image-captioning-large?style=flat-square&color=blue)](https://huggingface.co/Salesforce/blip-image-captioning-large/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Salesforce/blip-image-captioning-large?style=flat-square&color=yellow)](https://huggingface.co/Salesforce/blip-image-captioning-large/stargazers) [![Forks](https://img.shields.io/github/forks/Salesforce/blip-image-captioning-large?style=flat-square&color=blue)](https://huggingface.co/Salesforce/blip-image-captioning-large/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Vision language (image-to-text) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Salesforce/blip-image-captioning-large 是一个开源项目，提供了一个�
 | forks | 0/100 |
 | stars | 67/100 |
 | topics | 38/100 |
-| outlook | 38/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 39/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

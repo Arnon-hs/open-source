@@ -1,6 +1,6 @@
 # hyperfield/ai-file-sorter
 
-[![Stars](https://img.shields.io/github/stars/hyperfield/ai-file-sorter?style=flat-square&color=yellow)](https://github.com/hyperfield/ai-file-sorter/stargazers) [![Forks](https://img.shields.io/github/forks/hyperfield/ai-file-sorter?style=flat-square&color=blue)](https://github.com/hyperfield/ai-file-sorter/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperfield/ai-file-sorter?style=flat-square&color=yellow)](https://github.com/hyperfield/ai-file-sorter/stargazers) [![Forks](https://img.shields.io/github/forks/hyperfield/ai-file-sorter?style=flat-square&color=blue)](https://github.com/hyperfield/ai-file-sorter/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ hyperfield/ai-file-sorter 的生产可用性为中等（Medium）。它适合用
 | forks | 54/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 65/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # hechtcarmel/jetbrains-index-mcp-plugin
 
-[![Stars](https://img.shields.io/github/stars/hechtcarmel/jetbrains-index-mcp-plugin?style=flat-square&color=yellow)](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/hechtcarmel/jetbrains-index-mcp-plugin?style=flat-square&color=blue)](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hechtcarmel/jetbrains-index-mcp-plugin?style=flat-square&color=yellow)](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/hechtcarmel/jetbrains-index-mcp-plugin?style=flat-square&color=blue)](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A Jetbrains IDE IntelliJ plugin aimed to provide coding agents the ability to leverage intelliJ's indexing of the codebase
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 259 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ hechtcarmel/jetbrains-index-mcp-plugin 通过 Model Context Protocol（MCP）把
 | forks | 44/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

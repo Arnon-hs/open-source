@@ -1,6 +1,6 @@
 # polyaxon/polyaxon
 
-[![Stars](https://img.shields.io/github/stars/polyaxon/polyaxon?style=flat-square&color=yellow)](https://github.com/polyaxon/polyaxon/stargazers) [![Forks](https://img.shields.io/github/forks/polyaxon/polyaxon?style=flat-square&color=blue)](https://github.com/polyaxon/polyaxon/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/polyaxon/polyaxon?style=flat-square&color=yellow)](https://github.com/polyaxon/polyaxon/stargazers) [![Forks](https://img.shields.io/github/forks/polyaxon/polyaxon?style=flat-square&color=blue)](https://github.com/polyaxon/polyaxon/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI Infra / AI Orchestration / AI Control Plane
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 330 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · Data · DevOps/Infra
+Orchestration · Automation · AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ Polyaxon 在生产环境中具有高可用性，主要原因包括：
 | forks | 63/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 78/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

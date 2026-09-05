@@ -1,6 +1,6 @@
 # fanmingming/live
 
-[![Stars](https://img.shields.io/github/stars/fanmingming/live?style=flat-square&color=yellow)](https://github.com/fanmingming/live/stargazers) [![Forks](https://img.shields.io/github/forks/fanmingming/live?style=flat-square&color=blue)](https://github.com/fanmingming/live/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fanmingming/live?style=flat-square&color=yellow)](https://github.com/fanmingming/live/stargazers) [![Forks](https://img.shields.io/github/forks/fanmingming/live?style=flat-square&color=blue)](https://github.com/fanmingming/live/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.2k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -147,11 +147,11 @@ fanmingming/live 是一个 **永久免费、可直连访问** 的电视/广播�
 | forks | 91/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

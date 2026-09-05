@@ -1,6 +1,6 @@
 # edtechre/pybroker
 
-[![Stars](https://img.shields.io/github/stars/edtechre/pybroker?style=flat-square&color=yellow)](https://github.com/edtechre/pybroker/stargazers) [![Forks](https://img.shields.io/github/forks/edtechre/pybroker?style=flat-square&color=blue)](https://github.com/edtechre/pybroker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edtechre/pybroker?style=flat-square&color=yellow)](https://github.com/edtechre/pybroker/stargazers) [![Forks](https://img.shields.io/github/forks/edtechre/pybroker?style=flat-square&color=blue)](https://github.com/edtechre/pybroker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Algorithmic Trading in Python with Machine Learning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 445 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ edtechre/pybroker 的生产可用性很高，因为：
 | forks | 66/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 78/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

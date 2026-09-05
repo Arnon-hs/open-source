@@ -1,6 +1,6 @@
 # madiele/vod2pod-rss
 
-[![Stars](https://img.shields.io/github/stars/madiele/vod2pod-rss?style=flat-square&color=yellow)](https://github.com/madiele/vod2pod-rss/stargazers) [![Forks](https://img.shields.io/github/forks/madiele/vod2pod-rss?style=flat-square&color=blue)](https://github.com/madiele/vod2pod-rss/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madiele/vod2pod-rss?style=flat-square&color=yellow)](https://github.com/madiele/vod2pod-rss/stargazers) [![Forks](https://img.shields.io/github/forks/madiele/vod2pod-rss?style=flat-square&color=blue)](https://github.com/madiele/vod2pod-rss/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly and no server storage is needed!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ madiele/vod2pod-rss 的生产可用性较高，它有以下优点：
 | forks | 34/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 67/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

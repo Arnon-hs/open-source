@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 550 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -119,7 +119,7 @@ stellar/go-stellar-sdk 的生产可用性很高，因为它具有：
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

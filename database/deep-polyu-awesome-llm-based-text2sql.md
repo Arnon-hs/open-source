@@ -1,6 +1,6 @@
 # DEEP-PolyU/Awesome-LLM-based-Text2SQL
 
-[![Stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL?style=flat-square&color=yellow)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL/stargazers) [![Forks](https://img.shields.io/github/forks/DEEP-PolyU/Awesome-LLM-based-Text2SQL?style=flat-square&color=blue)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL?style=flat-square&color=yellow)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL/stargazers) [![Forks](https://img.shields.io/github/forks/DEEP-PolyU/Awesome-LLM-based-Text2SQL?style=flat-square&color=blue)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > [TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,11 +81,11 @@ DEEP‑PolyU/Awesome‑LLM‑based‑Text2SQL 是一份精选的 LLM 驱动的 T
 | forks | 53/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

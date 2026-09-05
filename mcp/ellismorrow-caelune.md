@@ -1,6 +1,6 @@
 # EllisMorrow/Caelune
 
-[![Stars](https://img.shields.io/github/stars/EllisMorrow/Caelune?style=flat-square&color=yellow)](https://github.com/EllisMorrow/Caelune/stargazers) [![Forks](https://img.shields.io/github/forks/EllisMorrow/Caelune?style=flat-square&color=blue)](https://github.com/EllisMorrow/Caelune/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EllisMorrow/Caelune?style=flat-square&color=yellow)](https://github.com/EllisMorrow/Caelune/stargazers) [![Forks](https://img.shields.io/github/forks/EllisMorrow/Caelune?style=flat-square&color=blue)](https://github.com/EllisMorrow/Caelune/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Caelune (星野) — Local-first retrieval for private Markdown, PDF, and Tika documents, with a Windows desktop app and read-only MCP server.｜本地优先的私人知识检索工具。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ Caelune 的生产可用性为中等（Medium），适合用于原型或内部工
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

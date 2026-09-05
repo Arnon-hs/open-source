@@ -1,6 +1,6 @@
 # ReviewStage/stage-cli
 
-[![Stars](https://img.shields.io/github/stars/ReviewStage/stage-cli?style=flat-square&color=yellow)](https://github.com/ReviewStage/stage-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ReviewStage/stage-cli?style=flat-square&color=blue)](https://github.com/ReviewStage/stage-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReviewStage/stage-cli?style=flat-square&color=yellow)](https://github.com/ReviewStage/stage-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ReviewStage/stage-cli?style=flat-square&color=blue)](https://github.com/ReviewStage/stage-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A viewer for reviewing local code changes in small individual chapters. Works with any AI agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ ReviewStage/stage‑cli 对于希望快速在代码审查环节加入 AI 能力�
 | forks | 24/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 38/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

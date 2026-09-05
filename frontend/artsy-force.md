@@ -1,6 +1,6 @@
 # artsy/force
 
-[![Stars](https://img.shields.io/github/stars/artsy/force?style=flat-square&color=yellow)](https://github.com/artsy/force/stargazers) [![Forks](https://img.shields.io/github/forks/artsy/force?style=flat-square&color=blue)](https://github.com/artsy/force/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artsy/force?style=flat-square&color=yellow)](https://github.com/artsy/force/stargazers) [![Forks](https://img.shields.io/github/forks/artsy/force?style=flat-square&color=blue)](https://github.com/artsy/force/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The Artsy.net website
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 637 |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ Overall, artsy/force is a mature, well‑documented UI toolkit that can be intro
 | forks | 55/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

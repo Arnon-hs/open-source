@@ -1,6 +1,6 @@
 # AIEPhoenix/ai-react-markdown
 
-[![Stars](https://img.shields.io/github/stars/AIEPhoenix/ai-react-markdown?style=flat-square&color=yellow)](https://github.com/AIEPhoenix/ai-react-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/AIEPhoenix/ai-react-markdown?style=flat-square&color=blue)](https://github.com/AIEPhoenix/ai-react-markdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AIEPhoenix/ai-react-markdown?style=flat-square&color=yellow)](https://github.com/AIEPhoenix/ai-react-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/AIEPhoenix/ai-react-markdown?style=flat-square&color=blue)](https://github.com/AIEPhoenix/ai-react-markdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A React component library for rendering AI-generated markdown — LLM streaming, LaTeX math, Mermaid diagrams, GFM, syntax highlighting, CJK-friendly typography, and cross-chunk reference coordination.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML · Communication · Documents · Frontend · Design
 
 ## 📝 Summary
 
@@ -95,15 +95,15 @@ AIEPhoenix/ai-react-markdown 是一个 React 组件库，用于渲染 AI 生成�
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

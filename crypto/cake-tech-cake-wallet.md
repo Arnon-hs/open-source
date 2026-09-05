@@ -1,6 +1,6 @@
 # cake-tech/cake_wallet
 
-[![Stars](https://img.shields.io/github/stars/cake-tech/cake_wallet?style=flat-square&color=yellow)](https://github.com/cake-tech/cake_wallet/stargazers) [![Forks](https://img.shields.io/github/forks/cake-tech/cake_wallet?style=flat-square&color=blue)](https://github.com/cake-tech/cake_wallet/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cake-tech/cake_wallet?style=flat-square&color=yellow)](https://github.com/cake-tech/cake_wallet/stargazers) [![Forks](https://img.shields.io/github/forks/cake-tech/cake_wallet?style=flat-square&color=blue)](https://github.com/cake-tech/cake_wallet/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 374 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ cake-tech/cake_wallet的生产可用性较高，因为：
 | forks | 64/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

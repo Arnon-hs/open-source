@@ -1,6 +1,6 @@
 # ScottKirvan/BojuBot
 
-[![Stars](https://img.shields.io/github/stars/ScottKirvan/BojuBot?style=flat-square&color=yellow)](https://github.com/ScottKirvan/BojuBot/stargazers) [![Forks](https://img.shields.io/github/forks/ScottKirvan/BojuBot?style=flat-square&color=blue)](https://github.com/ScottKirvan/BojuBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ScottKirvan/BojuBot?style=flat-square&color=yellow)](https://github.com/ScottKirvan/BojuBot/stargazers) [![Forks](https://img.shields.io/github/forks/ScottKirvan/BojuBot?style=flat-square&color=blue)](https://github.com/ScottKirvan/BojuBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > More than a writing assistant — BojuBot turns your Obsidian vault into a personal AI platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ BojuBot（ScottKirvan/BojuBot）不仅是写作助手，更把你的 Obsidian �
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

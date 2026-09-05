@@ -1,6 +1,6 @@
 # Ancienttwo/repo-harness
 
-[![Stars](https://img.shields.io/github/stars/Ancienttwo/repo-harness?style=flat-square&color=yellow)](https://github.com/Ancienttwo/repo-harness/stargazers) [![Forks](https://img.shields.io/github/forks/Ancienttwo/repo-harness?style=flat-square&color=blue)](https://github.com/Ancienttwo/repo-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ancienttwo/repo-harness?style=flat-square&color=yellow)](https://github.com/Ancienttwo/repo-harness/stargazers) [![Forks](https://img.shields.io/github/forks/Ancienttwo/repo-harness?style=flat-square&color=blue)](https://github.com/Ancienttwo/repo-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > File-backed workflow harness for reliable Claude Code and Codex sessions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Ancienttwo/repo-harness 在生产环境中可用性为中等（Medium）。它�
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

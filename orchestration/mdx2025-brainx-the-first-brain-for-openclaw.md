@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Database
+Orchestration · Knowledge/RAG · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -110,7 +110,7 @@ BrainX V6 的生产可用性为中等（Medium）。它适合用于原型或内�
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 604 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -35,17 +35,15 @@ google‑parfait/tensorflow-federated — это открытая платфо
 
 ### 中文
 
-google-parfait/tensorflow-federated：google-parfait/tensorflow-federated helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+google-parfait/tensorflow-federated：google-parfait/tensorflow-federated may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** google-parfait/tensorflow-federated helps add AI capability without starting from a blank model stack.
+**Value:** google-parfait/tensorflow-federated may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -64,17 +62,18 @@ google-parfait/tensorflow-federated：google-parfait/tensorflow-federated helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 46/100 |
-| adoption | 71/100 |
-| stars | 72/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 0/100 |
+| outlook | 46/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

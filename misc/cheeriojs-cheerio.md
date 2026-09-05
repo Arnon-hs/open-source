@@ -1,6 +1,6 @@
 # cheeriojs/cheerio
 
-[![Stars](https://img.shields.io/github/stars/cheeriojs/cheerio?style=flat-square&color=yellow)](https://github.com/cheeriojs/cheerio/stargazers) [![Forks](https://img.shields.io/github/forks/cheeriojs/cheerio?style=flat-square&color=blue)](https://github.com/cheeriojs/cheerio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cheeriojs/cheerio?style=flat-square&color=yellow)](https://github.com/cheeriojs/cheerio/stargazers) [![Forks](https://img.shields.io/github/forks/cheeriojs/cheerio?style=flat-square&color=blue)](https://github.com/cheeriojs/cheerio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30.4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Cheeriojs/Cheerio 在生产环境中的可用性很高，主要原因包括：
 | forks | 81/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 62/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

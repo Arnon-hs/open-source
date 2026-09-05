@@ -1,6 +1,6 @@
 # wikimedia/mediawiki
 
-[![Stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=flat-square&color=yellow)](https://github.com/wikimedia/mediawiki/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/mediawiki?style=flat-square&color=blue)](https://github.com/wikimedia/mediawiki/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=flat-square&color=yellow)](https://github.com/wikimedia/mediawiki/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/mediawiki?style=flat-square&color=blue)](https://github.com/wikimedia/mediawiki/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ wikimedia/mediawiki 是支撑 Wikipedia 等维基站点的核心协作编辑平�
 | forks | 80/100 |
 | stars | 79/100 |
 | topics | 50/100 |
-| outlook | 57/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mobitouchOS/MaIN.NET
 
-[![Stars](https://img.shields.io/github/stars/mobitouchOS/MaIN.NET?style=flat-square&color=yellow)](https://github.com/mobitouchOS/MaIN.NET/stargazers) [![Forks](https://img.shields.io/github/forks/mobitouchOS/MaIN.NET?style=flat-square&color=blue)](https://github.com/mobitouchOS/MaIN.NET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mobitouchOS/MaIN.NET?style=flat-square&color=yellow)](https://github.com/mobitouchOS/MaIN.NET/stargazers) [![Forks](https://img.shields.io/github/forks/mobitouchOS/MaIN.NET?style=flat-square&color=blue)](https://github.com/mobitouchOS/MaIN.NET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -120,15 +120,15 @@ mobitouchOS/MaIN.NET 是一个面向 .NET 的 NuGet 包，旨在让大语言模�
 | forks | 34/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

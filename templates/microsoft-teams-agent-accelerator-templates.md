@@ -1,6 +1,6 @@
 # microsoft/teams-agent-accelerator-templates
 
-[![Stars](https://img.shields.io/github/stars/microsoft/teams-agent-accelerator-templates?style=flat-square&color=yellow)](https://github.com/microsoft/teams-agent-accelerator-templates/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/teams-agent-accelerator-templates?style=flat-square&color=blue)](https://github.com/microsoft/teams-agent-accelerator-templates/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/teams-agent-accelerator-templates?style=flat-square&color=yellow)](https://github.com/microsoft/teams-agent-accelerator-templates/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/teams-agent-accelerator-templates?style=flat-square&color=blue)](https://github.com/microsoft/teams-agent-accelerator-templates/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of templates integrating Microsoft Teams with various AI agent paradigms.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Overall, the accelerator templates provide a practical shortcut to embed AI agen
 | forks | 38/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

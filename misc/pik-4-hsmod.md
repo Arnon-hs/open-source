@@ -1,6 +1,6 @@
 # Pik-4/HsMod
 
-[![Stars](https://img.shields.io/github/stars/Pik-4/HsMod?style=flat-square&color=yellow)](https://github.com/Pik-4/HsMod/stargazers) [![Forks](https://img.shields.io/github/forks/Pik-4/HsMod?style=flat-square&color=blue)](https://github.com/Pik-4/HsMod/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pik-4/HsMod?style=flat-square&color=yellow)](https://github.com/Pik-4/HsMod/stargazers) [![Forks](https://img.shields.io/github/forks/Pik-4/HsMod?style=flat-square&color=blue)](https://github.com/Pik-4/HsMod/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Hearthstone Modification Based on BepInEx
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 799 |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Pik-4/HsMod 的生产可用性为中等。它适用于原型验证或内部工�
 | forks | 57/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

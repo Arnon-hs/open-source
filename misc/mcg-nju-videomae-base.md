@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
 | 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2024-03-29 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ MCG-NJU/videomae-base：MCG-NJU/videomae-base may be useful when its README and 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

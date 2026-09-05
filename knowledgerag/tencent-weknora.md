@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · Automation · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Tencent/WeKnora：Tencent/WeKnora helps make internal knowledge searchable and u
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

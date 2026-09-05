@@ -1,6 +1,6 @@
 # AndrewDryga/emisar
 
-[![Stars](https://img.shields.io/github/stars/AndrewDryga/emisar?style=flat-square&color=yellow)](https://github.com/AndrewDryga/emisar/stargazers) [![Forks](https://img.shields.io/github/forks/AndrewDryga/emisar?style=flat-square&color=blue)](https://github.com/AndrewDryga/emisar/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AndrewDryga/emisar?style=flat-square&color=yellow)](https://github.com/AndrewDryga/emisar/stargazers) [![Forks](https://img.shields.io/github/forks/AndrewDryga/emisar?style=flat-square&color=blue)](https://github.com/AndrewDryga/emisar/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP that lets AI tools securely connect to your infrastructure, write IaaS code, debug issues, and assist during incidents - without risking production stability. Built for security teams to approve and infrastructure teams to experience like magic.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ AndrewDryga/emisar 的生产可用性非常高，特别是在一个开源项目�
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

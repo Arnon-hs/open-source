@@ -1,6 +1,6 @@
 # IgorShadurin/app.yumcut.com
 
-[![Stars](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square&color=yellow)](https://github.com/IgorShadurin/app.yumcut.com/stargazers) [![Forks](https://img.shields.io/github/forks/IgorShadurin/app.yumcut.com?style=flat-square&color=blue)](https://github.com/IgorShadurin/app.yumcut.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square&color=yellow)](https://github.com/IgorShadurin/app.yumcut.com/stargazers) [![Forks](https://img.shields.io/github/forks/IgorShadurin/app.yumcut.com?style=flat-square&color=blue)](https://github.com/IgorShadurin/app.yumcut.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > YumCut - free AI video generator to turn a prompt into ready vertical videos for TikTok, Reels and YouTube Shorts. Auto script, scenes, voiceover, subtitles and watermark. Built with Next.js. Local-first pipeline + templates, batch rendering and API hooks for creators and indie makers. Self-hosted, FFmpeg-ready, multi-language output. Low cost fast
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 855 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ IgorShadurin/app.yumcut.com：IgorShadurin/app.yumcut.com helps automate short-f
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 85/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

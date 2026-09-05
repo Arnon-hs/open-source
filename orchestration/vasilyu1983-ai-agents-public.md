@@ -1,6 +1,6 @@
 # vasilyu1983/AI-Agents-public
 
-[![Stars](https://img.shields.io/github/stars/vasilyu1983/AI-Agents-public?style=flat-square&color=yellow)](https://github.com/vasilyu1983/AI-Agents-public/stargazers) [![Forks](https://img.shields.io/github/forks/vasilyu1983/AI-Agents-public?style=flat-square&color=blue)](https://github.com/vasilyu1983/AI-Agents-public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vasilyu1983/AI-Agents-public?style=flat-square&color=yellow)](https://github.com/vasilyu1983/AI-Agents-public/stargazers) [![Forks](https://img.shields.io/github/forks/vasilyu1983/AI-Agents-public?style=flat-square&color=blue)](https://github.com/vasilyu1983/AI-Agents-public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade agent skills and Custom GPT prompts for Claude Code, Codex, and Gemini CLI. 65 skills, 28 agents, Agent Skills spec compliant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ vasilyu1983/AI-Agents-public 是一个开源项目，提供生产级别的代理
 | forks | 31/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # neopen/video-clip-agent
 
-[![Stars](https://img.shields.io/github/stars/neopen/video-clip-agent?style=flat-square&color=yellow)](https://github.com/neopen/video-clip-agent/stargazers) [![Forks](https://img.shields.io/github/forks/neopen/video-clip-agent?style=flat-square&color=blue)](https://github.com/neopen/video-clip-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neopen/video-clip-agent?style=flat-square&color=yellow)](https://github.com/neopen/video-clip-agent/stargazers) [![Forks](https://img.shields.io/github/forks/neopen/video-clip-agent?style=flat-square&color=blue)](https://github.com/neopen/video-clip-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 视频混剪智能体（PenClip）：根据用户描述，自动完成对多个视频的各种剪辑合成。利用AI技术（情绪分析、视觉分析、语音识别等）对多个视频片段内容分析、筛选过滤、拆分裁剪、添加特效和背景音乐。AI-driven video mashup agent: analyze, filter, trim, and composite multiple videos based on natural language descriptions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Video Clip Agent 利用 AI 对情绪、视觉和语音进行分析，自动完�
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

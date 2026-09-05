@@ -1,6 +1,6 @@
 # rust-lang/www.rust-lang.org
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/www.rust-lang.org?style=flat-square&color=yellow)](https://github.com/rust-lang/www.rust-lang.org/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/www.rust-lang.org?style=flat-square&color=blue)](https://github.com/rust-lang/www.rust-lang.org/network) [![Language](https://img.shields.io/badge/lang-Fluent-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/www.rust-lang.org?style=flat-square&color=yellow)](https://github.com/rust-lang/www.rust-lang.org/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/www.rust-lang.org?style=flat-square&color=blue)](https://github.com/rust-lang/www.rust-lang.org/network) [![Language](https://img.shields.io/badge/lang-Fluent-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The home of the Rust website
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 314 |
 | 💻 **Language** | Fluent |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ Rust 语言官网（www.rust-lang.org）是 Rust 语言的官方网站，提供�
 | forks | 62/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

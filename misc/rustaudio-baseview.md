@@ -1,6 +1,6 @@
 # RustAudio/baseview
 
-[![Stars](https://img.shields.io/github/stars/RustAudio/baseview?style=flat-square&color=yellow)](https://github.com/RustAudio/baseview/stargazers) [![Forks](https://img.shields.io/github/forks/RustAudio/baseview?style=flat-square&color=blue)](https://github.com/RustAudio/baseview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustAudio/baseview?style=flat-square&color=yellow)](https://github.com/RustAudio/baseview/stargazers) [![Forks](https://img.shields.io/github/forks/RustAudio/baseview?style=flat-square&color=blue)](https://github.com/RustAudio/baseview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > low-level window system interface for audio plugin UIs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,11 +127,11 @@ RustAudio/baseview 是一个面向音频插件 UI 的低层窗口系统抽象库
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

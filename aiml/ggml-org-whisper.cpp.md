@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ggml-org/whisper.cpp：ggml-org/whisper.cpp helps add AI capability without star
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

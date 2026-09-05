@@ -1,6 +1,6 @@
 # gsi-cyberjapan/gsimaps
 
-[![Stars](https://img.shields.io/github/stars/gsi-cyberjapan/gsimaps?style=flat-square&color=yellow)](https://github.com/gsi-cyberjapan/gsimaps/stargazers) [![Forks](https://img.shields.io/github/forks/gsi-cyberjapan/gsimaps?style=flat-square&color=blue)](https://github.com/gsi-cyberjapan/gsimaps/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gsi-cyberjapan/gsimaps?style=flat-square&color=yellow)](https://github.com/gsi-cyberjapan/gsimaps/stargazers) [![Forks](https://img.shields.io/github/forks/gsi-cyberjapan/gsimaps?style=flat-square&color=blue)](https://github.com/gsi-cyberjapan/gsimaps/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The source of GSI Maps (https://maps.gsi.go.jp/)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 717 |
 | 🍴 **Forks** | 681 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,11 +122,11 @@ gsi-cyberjapan/gsimaps 是日本国土地理院（GSI）官方地图服务的前
 | forks | 71/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

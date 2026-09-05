@@ -1,6 +1,6 @@
 # k0sproject/k0s
 
-[![Stars](https://img.shields.io/github/stars/k0sproject/k0s?style=flat-square&color=yellow)](https://github.com/k0sproject/k0s/stargazers) [![Forks](https://img.shields.io/github/forks/k0sproject/k0s?style=flat-square&color=blue)](https://github.com/k0sproject/k0s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k0sproject/k0s?style=flat-square&color=yellow)](https://github.com/k0sproject/k0s/stargazers) [![Forks](https://img.shields.io/github/forks/k0sproject/k0s?style=flat-square&color=blue)](https://github.com/k0sproject/k0s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > k0s - The Zero Friction Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 511 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ k0s（k0sproject/k0s）是“一键式、零摩擦”的轻量级 Kubernetes 发
 | forks | 68/100 |
 | stars | 81/100 |
 | topics | 13/100 |
-| outlook | 53/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

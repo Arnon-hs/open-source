@@ -1,6 +1,6 @@
 # ivan-magda/swift-claude-code
 
-[![Stars](https://img.shields.io/github/stars/ivan-magda/swift-claude-code?style=flat-square&color=yellow)](https://github.com/ivan-magda/swift-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/ivan-magda/swift-claude-code?style=flat-square&color=blue)](https://github.com/ivan-magda/swift-claude-code/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivan-magda/swift-claude-code?style=flat-square&color=yellow)](https://github.com/ivan-magda/swift-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/ivan-magda/swift-claude-code?style=flat-square&color=blue)](https://github.com/ivan-magda/swift-claude-code/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A Swift reimplementation of a Claude Code-style coding agent, built stage by stage to explore what makes coding agents work
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ ivan‑magda/swift‑claude‑code 用 Swift 完整复现了 Claude Code 风格�
 | forks | 26/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 48/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

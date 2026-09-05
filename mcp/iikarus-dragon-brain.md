@@ -1,6 +1,6 @@
 # iikarus/Dragon-Brain
 
-[![Stars](https://img.shields.io/github/stars/iikarus/Dragon-Brain?style=flat-square&color=yellow)](https://github.com/iikarus/Dragon-Brain/stargazers) [![Forks](https://img.shields.io/github/forks/iikarus/Dragon-Brain?style=flat-square&color=blue)](https://github.com/iikarus/Dragon-Brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iikarus/Dragon-Brain?style=flat-square&color=yellow)](https://github.com/iikarus/Dragon-Brain/stargazers) [![Forks](https://img.shields.io/github/forks/iikarus/Dragon-Brain?style=flat-square&color=blue)](https://github.com/iikarus/Dragon-Brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context Protocol). Knowledge graph (FalkorDB) + vector search (Qdrant) + CUDA GPU embeddings. Works with Claude, Gemini CLI, Cursor, Windsurf, VS Code Copilot. 30 tools, 1121 tests.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Dragon‑Brain（iikarus/Dragon‑Brain）是一套面向 AI 代理的持久化�
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

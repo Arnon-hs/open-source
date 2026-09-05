@@ -1,6 +1,6 @@
 # ok-helloworld/vibe-csa
 
-[![Stars](https://img.shields.io/github/stars/ok-helloworld/vibe-csa?style=flat-square&color=yellow)](https://github.com/ok-helloworld/vibe-csa/stargazers) [![Forks](https://img.shields.io/github/forks/ok-helloworld/vibe-csa?style=flat-square&color=blue)](https://github.com/ok-helloworld/vibe-csa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ok-helloworld/vibe-csa?style=flat-square&color=yellow)](https://github.com/ok-helloworld/vibe-csa/stargazers) [![Forks](https://img.shields.io/github/forks/ok-helloworld/vibe-csa?style=flat-square&color=blue)](https://github.com/ok-helloworld/vibe-csa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Vibe CSA (Code Security Audit)，是一款基于 AI Agent 架构的代码审计工具，采用多 Agent 并行执行架构，用“上帝视角”静态审计源代码，用“实战模拟”动态验证漏洞，保证了 Web 漏洞挖掘的全面性和准确性，输出稳定可靠的安全报告，并提供可落地整改建议。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ Vibe CSA 的生产可用性为中等（Medium），适合用于原型或内部�
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 13/100 |
-| outlook | 45/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

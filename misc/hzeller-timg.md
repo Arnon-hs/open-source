@@ -1,6 +1,6 @@
 # hzeller/timg
 
-[![Stars](https://img.shields.io/github/stars/hzeller/timg?style=flat-square&color=yellow)](https://github.com/hzeller/timg/stargazers) [![Forks](https://img.shields.io/github/forks/hzeller/timg?style=flat-square&color=blue)](https://github.com/hzeller/timg/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hzeller/timg?style=flat-square&color=yellow)](https://github.com/hzeller/timg/stargazers) [![Forks](https://img.shields.io/github/forks/hzeller/timg?style=flat-square&color=blue)](https://github.com/hzeller/timg/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal image and video viewer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ hzeller/timg 的生产可用性较高，理由如下：
 | forks | 49/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

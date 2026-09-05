@@ -1,6 +1,6 @@
 # zaydmulani09/mri
 
-[![Stars](https://img.shields.io/github/stars/zaydmulani09/mri?style=flat-square&color=yellow)](https://github.com/zaydmulani09/mri/stargazers) [![Forks](https://img.shields.io/github/forks/zaydmulani09/mri?style=flat-square&color=blue)](https://github.com/zaydmulani09/mri/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zaydmulani09/mri?style=flat-square&color=yellow)](https://github.com/zaydmulani09/mri/stargazers) [![Forks](https://img.shields.io/github/forks/zaydmulani09/mri?style=flat-square&color=blue)](https://github.com/zaydmulani09/mri/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Code intelligence engine: extracts symbols from JS/TS/Python source into structured data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ zaydmulani09/mri：zaydmulani09/mri may be useful when its README and activity m
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

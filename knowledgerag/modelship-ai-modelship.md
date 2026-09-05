@@ -1,6 +1,6 @@
 # modelship-ai/modelship
 
-[![Stars](https://img.shields.io/github/stars/modelship-ai/modelship?style=flat-square&color=yellow)](https://github.com/modelship-ai/modelship/stargazers) [![Forks](https://img.shields.io/github/forks/modelship-ai/modelship?style=flat-square&color=blue)](https://github.com/modelship-ai/modelship/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelship-ai/modelship?style=flat-square&color=yellow)](https://github.com/modelship-ai/modelship/stargazers) [![Forks](https://img.shields.io/github/forks/modelship-ai/modelship?style=flat-square&color=blue)](https://github.com/modelship-ai/modelship/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, OpenAI-compatible inference for the agentic era: reasoning LLMs, universal tool calling, and the Responses API alongside embeddings, speech, and image models — many models sharing your GPUs, one gateway. Powered by Ray Serve.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ modelship-ai/modelship 帮助内部知识变得可搜索和可使用，特别是
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

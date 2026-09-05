@@ -1,6 +1,6 @@
 # haumacher/phoneblock
 
-[![Stars](https://img.shields.io/github/stars/haumacher/phoneblock?style=flat-square&color=yellow)](https://github.com/haumacher/phoneblock/stargazers) [![Forks](https://img.shields.io/github/forks/haumacher/phoneblock?style=flat-square&color=blue)](https://github.com/haumacher/phoneblock/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haumacher/phoneblock?style=flat-square&color=yellow)](https://github.com/haumacher/phoneblock/stargazers) [![Forks](https://img.shields.io/github/forks/haumacher/phoneblock?style=flat-square&color=blue)](https://github.com/haumacher/phoneblock/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Der Spam-Filter für Dein Telefon
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ haumacher/phoneblock 是一个面向手机的垃圾来电过滤器，利用 AI/M
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

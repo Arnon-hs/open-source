@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 12.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Mobile
+Frontend · Backend · Mobile
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ expo/expo：expo/expo helps ship user-facing interfaces with less custom UI work
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

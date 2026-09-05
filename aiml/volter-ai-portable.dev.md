@@ -1,6 +1,6 @@
 # volter-ai/portable.dev
 
-[![Stars](https://img.shields.io/github/stars/volter-ai/portable.dev?style=flat-square&color=yellow)](https://github.com/volter-ai/portable.dev/stargazers) [![Forks](https://img.shields.io/github/forks/volter-ai/portable.dev?style=flat-square&color=blue)](https://github.com/volter-ai/portable.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/volter-ai/portable.dev?style=flat-square&color=yellow)](https://github.com/volter-ai/portable.dev/stargazers) [![Forks](https://img.shields.io/github/forks/volter-ai/portable.dev?style=flat-square&color=blue)](https://github.com/volter-ai/portable.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Portable — a drop in replacement /remote-control on Claude, + batteries
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Portable 的生产可用性为中等。它适合用于 prototyping 或内部工�
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 50/100 |
-| outlook | 47/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

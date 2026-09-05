@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -77,6 +77,7 @@ mytechnotalent/Go-Hacking：mytechnotalent/Go-Hacking helps teams reuse service 
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

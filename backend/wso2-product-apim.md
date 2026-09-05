@@ -1,6 +1,6 @@
 # wso2/product-apim
 
-[![Stars](https://img.shields.io/github/stars/wso2/product-apim?style=flat-square&color=yellow)](https://github.com/wso2/product-apim/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/product-apim?style=flat-square&color=blue)](https://github.com/wso2/product-apim/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wso2/product-apim?style=flat-square&color=yellow)](https://github.com/wso2/product-apim/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/product-apim?style=flat-square&color=blue)](https://github.com/wso2/product-apim/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 935 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ WSO2 API Manager 在生产环境中具有高可用性。它的强大生态系统
 | forks | 74/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

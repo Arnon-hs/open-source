@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 692 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ openseadragon/openseadragon：openseadragon/openseadragon may be useful when its
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

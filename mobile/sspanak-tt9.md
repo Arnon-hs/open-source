@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ sspanak/tt9：sspanak/tt9 may be useful when its README and activity match a con
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

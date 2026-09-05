@@ -1,6 +1,6 @@
 # yasserbdj96/hiphp
 
-[![Stars](https://img.shields.io/github/stars/yasserbdj96/hiphp?style=flat-square&color=yellow)](https://github.com/yasserbdj96/hiphp/stargazers) [![Forks](https://img.shields.io/github/forks/yasserbdj96/hiphp?style=flat-square&color=blue)](https://github.com/yasserbdj96/hiphp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yasserbdj96/hiphp?style=flat-square&color=yellow)](https://github.com/yasserbdj96/hiphp/stargazers) [![Forks](https://img.shields.io/github/forks/yasserbdj96/hiphp?style=flat-square&color=blue)](https://github.com/yasserbdj96/hiphp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80's POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ yasserbdj96/hiphp 的生产可用性很高，主要原因是：
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

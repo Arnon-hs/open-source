@@ -1,6 +1,6 @@
 # wasm-bindgen/wasm-bindgen
 
-[![Stars](https://img.shields.io/github/stars/wasm-bindgen/wasm-bindgen?style=flat-square&color=yellow)](https://github.com/wasm-bindgen/wasm-bindgen/stargazers) [![Forks](https://img.shields.io/github/forks/wasm-bindgen/wasm-bindgen?style=flat-square&color=blue)](https://github.com/wasm-bindgen/wasm-bindgen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasm-bindgen/wasm-bindgen?style=flat-square&color=yellow)](https://github.com/wasm-bindgen/wasm-bindgen/stargazers) [![Forks](https://img.shields.io/github/forks/wasm-bindgen/wasm-bindgen?style=flat-square&color=blue)](https://github.com/wasm-bindgen/wasm-bindgen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Facilitating high-level interactions between Wasm modules and JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ wasm‑bindgen 是 Rust 官方提供的工具链，帮助开发者在 WebAssembl
 | forks | 77/100 |
 | stars | 84/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

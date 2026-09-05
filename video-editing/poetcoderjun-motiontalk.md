@@ -1,6 +1,6 @@
 # PoetCoderJun/MotionTalk
 
-[![Stars](https://img.shields.io/github/stars/PoetCoderJun/MotionTalk?style=flat-square&color=yellow)](https://github.com/PoetCoderJun/MotionTalk/stargazers) [![Forks](https://img.shields.io/github/forks/PoetCoderJun/MotionTalk?style=flat-square&color=blue)](https://github.com/PoetCoderJun/MotionTalk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PoetCoderJun/MotionTalk?style=flat-square&color=yellow)](https://github.com/PoetCoderJun/MotionTalk/stargazers) [![Forks](https://img.shields.io/github/forks/PoetCoderJun/MotionTalk?style=flat-square&color=blue)](https://github.com/PoetCoderJun/MotionTalk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Turn an edited talking video into a polished motion-graphics video with one Agent Skill.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -71,14 +71,15 @@ MotionTalk автоматизирует создание анимированн�
 | forks | 0/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 17/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

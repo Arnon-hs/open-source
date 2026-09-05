@@ -1,6 +1,6 @@
 # etorreborre/specs2
 
-[![Stars](https://img.shields.io/github/stars/etorreborre/specs2?style=flat-square&color=yellow)](https://github.com/etorreborre/specs2/stargazers) [![Forks](https://img.shields.io/github/forks/etorreborre/specs2?style=flat-square&color=blue)](https://github.com/etorreborre/specs2/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/etorreborre/specs2?style=flat-square&color=yellow)](https://github.com/etorreborre/specs2/stargazers) [![Forks](https://img.shields.io/github/forks/etorreborre/specs2?style=flat-square&color=blue)](https://github.com/etorreborre/specs2/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Software Specifications for Scala
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 734 |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ etorreborre/specs2 是一套面向 Scala 的行为驱动/属性测试框架，�
 | forks | 58/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

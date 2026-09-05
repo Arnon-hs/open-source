@@ -1,6 +1,6 @@
 # dtyq/magic
 
-[![Stars](https://img.shields.io/github/stars/dtyq/magic?style=flat-square&color=yellow)](https://github.com/dtyq/magic/stargazers) [![Forks](https://img.shields.io/github/forks/dtyq/magic?style=flat-square&color=blue)](https://github.com/dtyq/magic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtyq/magic?style=flat-square&color=yellow)](https://github.com/dtyq/magic/stargazers) [![Forks](https://img.shields.io/github/forks/dtyq/magic?style=flat-square&color=blue)](https://github.com/dtyq/magic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 549 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML
+Orchestration · MCP · Automation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ dtyq/magic 有很高的生产可用性（High），因为它有活跃的维护�
 | forks | 69/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 79/100 |
-| recency | 60/100 |
+| outlook | 85/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

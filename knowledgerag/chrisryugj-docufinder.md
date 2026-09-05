@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend
+Knowledge/RAG · AI/ML · Documents · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ chrisryugj/Docufinder：chrisryugj/Docufinder helps make internal knowledge sear
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

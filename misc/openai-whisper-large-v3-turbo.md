@@ -1,6 +1,6 @@
 # openai/whisper-large-v3-turbo
 
-[![Stars](https://img.shields.io/github/stars/openai/whisper-large-v3-turbo?style=flat-square&color=yellow)](https://huggingface.co/openai/whisper-large-v3-turbo/stargazers) [![Forks](https://img.shields.io/github/forks/openai/whisper-large-v3-turbo?style=flat-square&color=blue)](https://huggingface.co/openai/whisper-large-v3-turbo/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/whisper-large-v3-turbo?style=flat-square&color=yellow)](https://huggingface.co/openai/whisper-large-v3-turbo/stargazers) [![Forks](https://img.shields.io/github/forks/openai/whisper-large-v3-turbo?style=flat-square&color=blue)](https://huggingface.co/openai/whisper-large-v3-turbo/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Speech recognition (automatic-speech-recognition) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ openai/whisper-large-v3-turbo 的价值在于它能够帮助开发者快速proto
 | forks | 0/100 |
 | stars | 75/100 |
 | topics | 38/100 |
-| outlook | 40/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 40/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

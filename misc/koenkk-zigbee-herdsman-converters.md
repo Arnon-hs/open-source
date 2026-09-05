@@ -1,6 +1,6 @@
 # Koenkk/zigbee-herdsman-converters
 
-[![Stars](https://img.shields.io/github/stars/Koenkk/zigbee-herdsman-converters?style=flat-square&color=yellow)](https://github.com/Koenkk/zigbee-herdsman-converters/stargazers) [![Forks](https://img.shields.io/github/forks/Koenkk/zigbee-herdsman-converters?style=flat-square&color=blue)](https://github.com/Koenkk/zigbee-herdsman-converters/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Koenkk/zigbee-herdsman-converters?style=flat-square&color=yellow)](https://github.com/Koenkk/zigbee-herdsman-converters/stargazers) [![Forks](https://img.shields.io/github/forks/Koenkk/zigbee-herdsman-converters?style=flat-square&color=blue)](https://github.com/Koenkk/zigbee-herdsman-converters/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of device converters to be used with zigbee-herdsman
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Koenkk/zigbee-herdsman-converters 是一个开源项目，提供了一个设备�
 | forks | 91/100 |
 | stars | 66/100 |
 | topics | 13/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # kouhxp/yapsnap
 
-[![Stars](https://img.shields.io/github/stars/kouhxp/yapsnap?style=flat-square&color=yellow)](https://github.com/kouhxp/yapsnap/stargazers) [![Forks](https://img.shields.io/github/forks/kouhxp/yapsnap?style=flat-square&color=blue)](https://github.com/kouhxp/yapsnap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kouhxp/yapsnap?style=flat-square&color=yellow)](https://github.com/kouhxp/yapsnap/stargazers) [![Forks](https://img.shields.io/github/forks/kouhxp/yapsnap?style=flat-square&color=blue)](https://github.com/kouhxp/yapsnap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Snap any video URL or audio file into plaintext. No GPU. No cloud. One command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ kouhxp/yapsnap的生产可用性非常高，主要原因是：
 | forks | 29/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

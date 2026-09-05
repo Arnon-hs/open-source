@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ komapper/komapper：komapper/komapper helps teams reuse service infrastructure i
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

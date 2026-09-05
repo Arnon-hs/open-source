@@ -1,6 +1,6 @@
 # projectdiscovery/nuclei
 
-[![Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat-square&color=yellow)](https://github.com/projectdiscovery/nuclei/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/nuclei?style=flat-square&color=blue)](https://github.com/projectdiscovery/nuclei/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat-square&color=yellow)](https://github.com/projectdiscovery/nuclei/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/nuclei?style=flat-square&color=blue)](https://github.com/projectdiscovery/nuclei/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.4k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Nuclei 的生产可用性很高，具有以下特点：
 | forks | 89/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # tmchow/illo-skill
 
-[![Stars](https://img.shields.io/github/stars/tmchow/illo-skill?style=flat-square&color=yellow)](https://github.com/tmchow/illo-skill/stargazers) [![Forks](https://img.shields.io/github/forks/tmchow/illo-skill?style=flat-square&color=blue)](https://github.com/tmchow/illo-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tmchow/illo-skill?style=flat-square&color=yellow)](https://github.com/tmchow/illo-skill/stargazers) [![Forks](https://img.shields.io/github/forks/tmchow/illo-skill?style=flat-square&color=blue)](https://github.com/tmchow/illo-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > illo skill — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. 30+ characters packs, with ability to create your own.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 249 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ tmchow/illo-skill：tmchow/illo-skill helps turn isolated prompts and tools into
 | forks | 25/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # StoneSteel27/AutomatiQ
 
-[![Stars](https://img.shields.io/github/stars/StoneSteel27/AutomatiQ?style=flat-square&color=yellow)](https://github.com/StoneSteel27/AutomatiQ/stargazers) [![Forks](https://img.shields.io/github/forks/StoneSteel27/AutomatiQ?style=flat-square&color=blue)](https://github.com/StoneSteel27/AutomatiQ/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StoneSteel27/AutomatiQ?style=flat-square&color=yellow)](https://github.com/StoneSteel27/AutomatiQ/stargazers) [![Forks](https://img.shields.io/github/forks/StoneSteel27/AutomatiQ?style=flat-square&color=blue)](https://github.com/StoneSteel27/AutomatiQ/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A tool that watches you browse, then writes HTTP-based automation scripts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ StoneSteel27/AutomatiQ 是一款基于 Python 的自动化工具，能够实时�
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

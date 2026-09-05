@@ -1,6 +1,6 @@
 # ChuckHend/pg_vectorize
 
-[![Stars](https://img.shields.io/github/stars/ChuckHend/pg_vectorize?style=flat-square&color=yellow)](https://github.com/ChuckHend/pg_vectorize/stargazers) [![Forks](https://img.shields.io/github/forks/ChuckHend/pg_vectorize?style=flat-square&color=blue)](https://github.com/ChuckHend/pg_vectorize/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChuckHend/pg_vectorize?style=flat-square&color=yellow)](https://github.com/ChuckHend/pg_vectorize/stargazers) [![Forks](https://img.shields.io/github/forks/ChuckHend/pg_vectorize?style=flat-square&color=blue)](https://github.com/ChuckHend/pg_vectorize/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Full-text and semantic search on any Postgres
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 831 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ ChuckHend/pg_vectorize 是一款基于 Rust 实现的 PostgreSQL 扩展，能够
 | forks | 40/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 46/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

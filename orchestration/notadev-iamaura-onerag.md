@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Database
+Orchestration · Knowledge/RAG · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ notadev-iamaura/OneRAG：notadev-iamaura/OneRAG helps turn isolated prompts and 
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

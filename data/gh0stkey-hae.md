@@ -1,6 +1,6 @@
 # gh0stkey/HaE
 
-[![Stars](https://img.shields.io/github/stars/gh0stkey/HaE?style=flat-square&color=yellow)](https://github.com/gh0stkey/HaE/stargazers) [![Forks](https://img.shields.io/github/forks/gh0stkey/HaE?style=flat-square&color=blue)](https://github.com/gh0stkey/HaE/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gh0stkey/HaE?style=flat-square&color=yellow)](https://github.com/gh0stkey/HaE/stargazers) [![Forks](https://img.shields.io/github/forks/gh0stkey/HaE?style=flat-square&color=blue)](https://github.com/gh0stkey/HaE/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations. 赋能白帽，高效作战！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ HaE（Highlighter & Extractor）是一款面向白帽安全团队的前端�
 | forks | 62/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

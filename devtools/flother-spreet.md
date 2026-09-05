@@ -1,6 +1,6 @@
 # flother/spreet
 
-[![Stars](https://img.shields.io/github/stars/flother/spreet?style=flat-square&color=yellow)](https://github.com/flother/spreet/stargazers) [![Forks](https://img.shields.io/github/forks/flother/spreet?style=flat-square&color=blue)](https://github.com/flother/spreet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flother/spreet?style=flat-square&color=yellow)](https://github.com/flother/spreet/stargazers) [![Forks](https://img.shields.io/github/forks/flother/spreet?style=flat-square&color=blue)](https://github.com/flother/spreet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Create a spritesheet from a set of SVG images
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ flother/spreet 是一个用 Rust 编写的工具，能够将一组 SVG 文件快
 | forks | 27/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 47/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

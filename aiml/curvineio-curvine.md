@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ CurvineIO/curvine：CurvineIO/curvine helps add AI capability without starting f
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

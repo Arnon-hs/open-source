@@ -1,6 +1,6 @@
 # introfini/mcp-server-zotero-dev
 
-[![Stars](https://img.shields.io/github/stars/introfini/mcp-server-zotero-dev?style=flat-square&color=yellow)](https://github.com/introfini/mcp-server-zotero-dev/stargazers) [![Forks](https://img.shields.io/github/forks/introfini/mcp-server-zotero-dev?style=flat-square&color=blue)](https://github.com/introfini/mcp-server-zotero-dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/introfini/mcp-server-zotero-dev?style=flat-square&color=yellow)](https://github.com/introfini/mcp-server-zotero-dev/stargazers) [![Forks](https://img.shields.io/github/forks/introfini/mcp-server-zotero-dev?style=flat-square&color=blue)](https://github.com/introfini/mcp-server-zotero-dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI assistant superpowers for Zotero plugin development. 28 tools for screenshots, DOM inspection, JavaScript execution, build integration, and debugging via Model Context Protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Overall, introfini/mcp-server-zotero-dev is production‑ready for pilots and ca
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

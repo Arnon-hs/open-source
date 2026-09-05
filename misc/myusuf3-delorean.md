@@ -1,6 +1,6 @@
 # myusuf3/delorean
 
-[![Stars](https://img.shields.io/github/stars/myusuf3/delorean?style=flat-square&color=yellow)](https://github.com/myusuf3/delorean/stargazers) [![Forks](https://img.shields.io/github/forks/myusuf3/delorean?style=flat-square&color=blue)](https://github.com/myusuf3/delorean/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/myusuf3/delorean?style=flat-square&color=yellow)](https://github.com/myusuf3/delorean/stargazers) [![Forks](https://img.shields.io/github/forks/myusuf3/delorean?style=flat-square&color=blue)](https://github.com/myusuf3/delorean/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Delorean: Time Travel Made Easy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ Delorean 的生产可用性较高，主要是因为它的最近活动、采用�
 | forks | 53/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

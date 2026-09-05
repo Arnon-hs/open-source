@@ -1,6 +1,6 @@
 # neoclide/coc.nvim
 
-[![Stars](https://img.shields.io/github/stars/neoclide/coc.nvim?style=flat-square&color=yellow)](https://github.com/neoclide/coc.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/neoclide/coc.nvim?style=flat-square&color=blue)](https://github.com/neoclide/coc.nvim/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neoclide/coc.nvim?style=flat-square&color=yellow)](https://github.com/neoclide/coc.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/neoclide/coc.nvim?style=flat-square&color=blue)](https://github.com/neoclide/coc.nvim/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.2k |
 | 🍴 **Forks** | 956 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ neoclide/coc.nvim 的生产可用性很高，因为它有活跃的维护者，�
 | forks | 75/100 |
 | stars | 94/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 83/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 72/100 |
+| production | 79/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

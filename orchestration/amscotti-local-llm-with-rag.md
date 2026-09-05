@@ -1,6 +1,6 @@
 # amscotti/local-LLM-with-RAG
 
-[![Stars](https://img.shields.io/github/stars/amscotti/local-LLM-with-RAG?style=flat-square&color=yellow)](https://github.com/amscotti/local-LLM-with-RAG/stargazers) [![Forks](https://img.shields.io/github/forks/amscotti/local-LLM-with-RAG?style=flat-square&color=blue)](https://github.com/amscotti/local-LLM-with-RAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amscotti/local-LLM-with-RAG?style=flat-square&color=yellow)](https://github.com/amscotti/local-LLM-with-RAG/stargazers) [![Forks](https://img.shields.io/github/forks/amscotti/local-LLM-with-RAG?style=flat-square&color=blue)](https://github.com/amscotti/local-LLM-with-RAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Running local Language Language Models (LLM) to perform Retrieval-Augmented Generation (RAG)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,11 +82,11 @@ amscoiti/local-LLM-with-RAG 的主要价值在于它可以帮助开发者实现�
 | forks | 43/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

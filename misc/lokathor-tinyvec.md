@@ -1,6 +1,6 @@
 # Lokathor/tinyvec
 
-[![Stars](https://img.shields.io/github/stars/Lokathor/tinyvec?style=flat-square&color=yellow)](https://github.com/Lokathor/tinyvec/stargazers) [![Forks](https://img.shields.io/github/forks/Lokathor/tinyvec?style=flat-square&color=blue)](https://github.com/Lokathor/tinyvec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lokathor/tinyvec?style=flat-square&color=yellow)](https://github.com/Lokathor/tinyvec/stargazers) [![Forks](https://img.shields.io/github/forks/Lokathor/tinyvec?style=flat-square&color=blue)](https://github.com/Lokathor/tinyvec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Just, really the littlest Vec you could need. So smol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 736 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ Lokathor/tinyvec 是一个极简的 Rust 向量实现，代码量和依赖都非
 | forks | 45/100 |
 | stars | 61/100 |
 | topics | 25/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

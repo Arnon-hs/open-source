@@ -1,6 +1,6 @@
 # resteasy/resteasy
 
-[![Stars](https://img.shields.io/github/stars/resteasy/resteasy?style=flat-square&color=yellow)](https://github.com/resteasy/resteasy/stargazers) [![Forks](https://img.shields.io/github/forks/resteasy/resteasy?style=flat-square&color=blue)](https://github.com/resteasy/resteasy/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/resteasy/resteasy?style=flat-square&color=yellow)](https://github.com/resteasy/resteasy/stargazers) [![Forks](https://img.shields.io/github/forks/resteasy/resteasy?style=flat-square&color=blue)](https://github.com/resteasy/resteasy/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An Implementation of the Jakarta RESTful Web Services Specification
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 895 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Resteasy 的生产可用性为中等。它适合用于快速原型和内部工�
 | forks | 74/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

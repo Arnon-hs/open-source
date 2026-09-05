@@ -1,6 +1,6 @@
 # mattgierhart/PRD-driven-context-engineering
 
-[![Stars](https://img.shields.io/github/stars/mattgierhart/PRD-driven-context-engineering?style=flat-square&color=yellow)](https://github.com/mattgierhart/PRD-driven-context-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/mattgierhart/PRD-driven-context-engineering?style=flat-square&color=blue)](https://github.com/mattgierhart/PRD-driven-context-engineering/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattgierhart/PRD-driven-context-engineering?style=flat-square&color=yellow)](https://github.com/mattgierhart/PRD-driven-context-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/mattgierhart/PRD-driven-context-engineering?style=flat-square&color=blue)](https://github.com/mattgierhart/PRD-driven-context-engineering/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > PRD-driven Context Engineering: A systematic approach to building AI-powered products using progressive documentation and context-aware development workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Automation · AI/ML · DevTools · Product
+Templates · Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -104,11 +104,11 @@ mattgierhart/PRD-driven-context-engineering 是一个开源项目，旨在通过
 | forks | 25/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

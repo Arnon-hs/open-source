@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Database
+Crypto · Backend · Database
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ ar-io/ar-io-node：ar-io/ar-io-node helps prototype or inspect blockchain workfl
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

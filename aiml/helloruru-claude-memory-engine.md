@@ -1,6 +1,6 @@
 # HelloRuru/claude-memory-engine
 
-[![Stars](https://img.shields.io/github/stars/HelloRuru/claude-memory-engine?style=flat-square&color=yellow)](https://github.com/HelloRuru/claude-memory-engine/stargazers) [![Forks](https://img.shields.io/github/forks/HelloRuru/claude-memory-engine?style=flat-square&color=blue)](https://github.com/HelloRuru/claude-memory-engine/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HelloRuru/claude-memory-engine?style=flat-square&color=yellow)](https://github.com/HelloRuru/claude-memory-engine/stargazers) [![Forks](https://img.shields.io/github/forks/HelloRuru/claude-memory-engine?style=flat-square&color=blue)](https://github.com/HelloRuru/claude-memory-engine/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code 的記憶系統 | A memory system built with hooks + markdown. Zero dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ HelloRuru/claude-memory-engine 是一个基于 Hook 与 Markdown 实现的 Claud
 | forks | 36/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

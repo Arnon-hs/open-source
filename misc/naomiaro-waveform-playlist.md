@@ -1,6 +1,6 @@
 # naomiaro/waveform-playlist
 
-[![Stars](https://img.shields.io/github/stars/naomiaro/waveform-playlist?style=flat-square&color=yellow)](https://github.com/naomiaro/waveform-playlist/stargazers) [![Forks](https://img.shields.io/github/forks/naomiaro/waveform-playlist?style=flat-square&color=blue)](https://github.com/naomiaro/waveform-playlist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/naomiaro/waveform-playlist?style=flat-square&color=yellow)](https://github.com/naomiaro/waveform-playlist/stargazers) [![Forks](https://img.shields.io/github/forks/naomiaro/waveform-playlist?style=flat-square&color=blue)](https://github.com/naomiaro/waveform-playlist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ naomiaro/waveform-playlist：naomiaro/waveform-playlist helps teams persist, que
 | forks | 62/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

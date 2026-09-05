@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ onestardao/WFGY：onestardao/WFGY helps make internal knowledge searchable and u
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

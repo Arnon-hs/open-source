@@ -1,6 +1,6 @@
 # arcsin1/oh-my-ppt
 
-[![Stars](https://img.shields.io/github/stars/arcsin1/oh-my-ppt?style=flat-square&color=yellow)](https://github.com/arcsin1/oh-my-ppt/stargazers) [![Forks](https://img.shields.io/github/forks/arcsin1/oh-my-ppt?style=flat-square&color=blue)](https://github.com/arcsin1/oh-my-ppt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arcsin1/oh-my-ppt?style=flat-square&color=yellow)](https://github.com/arcsin1/oh-my-ppt/stargazers) [![Forks](https://img.shields.io/github/forks/arcsin1/oh-my-ppt?style=flat-square&color=blue)](https://github.com/arcsin1/oh-my-ppt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ arcsin1/oh‑my‑ppt 是一个本地优先的 AI 幻灯片生成工具，只需
 | forks | 55/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

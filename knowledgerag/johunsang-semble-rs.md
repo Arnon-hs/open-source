@@ -1,6 +1,6 @@
 # johunsang/semble_rs
 
-[![Stars](https://img.shields.io/github/stars/johunsang/semble_rs?style=flat-square&color=yellow)](https://github.com/johunsang/semble_rs/stargazers) [![Forks](https://img.shields.io/github/forks/johunsang/semble_rs?style=flat-square&color=blue)](https://github.com/johunsang/semble_rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johunsang/semble_rs?style=flat-square&color=yellow)](https://github.com/johunsang/semble_rs/stargazers) [![Forks](https://img.shields.io/github/forks/johunsang/semble_rs?style=flat-square&color=blue)](https://github.com/johunsang/semble_rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, AI-agent-native code search in Rust — hybrid BM25 + semantic, Tree-sitter AST chunking, dependency & impact analysis. Drop-in replacement for grep/cat/read/ls in Claude Code, Codex, Cursor, Aider, OpenHands.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ johunsang/semble_rs 是一个用 Rust 编写的高速代码搜索引擎，结合
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

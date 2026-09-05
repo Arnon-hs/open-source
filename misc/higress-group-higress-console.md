@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ higress-group/higress-console：higress-group/higress-console may be useful when
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

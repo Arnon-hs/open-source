@@ -1,6 +1,6 @@
 # dynatrace-oss/dtctl
 
-[![Stars](https://img.shields.io/github/stars/dynatrace-oss/dtctl?style=flat-square&color=yellow)](https://github.com/dynatrace-oss/dtctl/stargazers) [![Forks](https://img.shields.io/github/forks/dynatrace-oss/dtctl?style=flat-square&color=blue)](https://github.com/dynatrace-oss/dtctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dynatrace-oss/dtctl?style=flat-square&color=yellow)](https://github.com/dynatrace-oss/dtctl/stargazers) [![Forks](https://img.shields.io/github/forks/dynatrace-oss/dtctl?style=flat-square&color=blue)](https://github.com/dynatrace-oss/dtctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for managing Dynatrace platform resources - built for humans and AI agents alike
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Observability
+DevTools · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ Overall, `dtctl` offers a low‑friction, production‑grade foundation for team
 | forks | 40/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ Pycortex is an open‑source Python toolkit designed for visualizing functional 
 
 ### 中文
 
-gallantlab/pycortex：gallantlab/pycortex helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+gallantlab/pycortex：gallantlab/pycortex may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** gallantlab/pycortex helps convert raw data into searchable, analyzable, or automated pipelines.
+**Value:** gallantlab/pycortex may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- organize analytics pipelines
-- process datasets
-- improve reporting workflows
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ gallantlab/pycortex：gallantlab/pycortex helps convert raw data into searchable
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 48/100 |
-| adoption | 58/100 |
-| stars | 60/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 50/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

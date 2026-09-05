@@ -1,6 +1,6 @@
 # jonatasgrosman/wav2vec2-large-xlsr-53-polish
 
-[![Stars](https://img.shields.io/github/stars/jonatasgrosman/wav2vec2-large-xlsr-53-polish?style=flat-square&color=yellow)](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-polish/stargazers) [![Forks](https://img.shields.io/github/forks/jonatasgrosman/wav2vec2-large-xlsr-53-polish?style=flat-square&color=blue)](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-polish/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonatasgrosman/wav2vec2-large-xlsr-53-polish?style=flat-square&color=yellow)](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-polish/stargazers) [![Forks](https://img.shields.io/github/forks/jonatasgrosman/wav2vec2-large-xlsr-53-polish?style=flat-square&color=blue)](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-polish/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Speech recognition (automatic-speech-recognition) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 32/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ jonatasgrosman/wav2vec2-large-xlsr-53-polish 是一个开源的语音识别模�
 | forks | 0/100 |
 | stars | 24/100 |
 | topics | 38/100 |
-| outlook | 30/100 |
-| quality | 29/100 |
-| recency | 20/100 |
+| outlook | 51/100 |
+| quality | 44/100 |
+| recency | 80/100 |
 | adoption | 17/100 |
-| production | 34/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

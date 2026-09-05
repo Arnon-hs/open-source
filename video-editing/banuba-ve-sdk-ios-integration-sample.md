@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-09-03 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Mobile
+Video Editing · Libraries & SDKs · Mobile
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ Banuba/ve-sdk-ios-integration-sample 让 iOS 应用快速集成视频编辑 SDK�
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

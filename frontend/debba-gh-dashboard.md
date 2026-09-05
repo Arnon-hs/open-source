@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-05-04 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ I Built an Open Source GitHub Dashboard Because My Repositories Were Becoming Un
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

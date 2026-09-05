@@ -1,6 +1,6 @@
 # JuneYaooo/gpt-image2-ppt-skills
 
-[![Stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&color=yellow)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&color=blue)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&color=yellow)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&color=blue)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板"抄"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ JuneYaooo/gpt-image2-ppt-skills 帮助用户在不从头开始搭建模型堆栈
 | forks | 44/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # I-am-PUID-0/DUMB
 
-[![Stars](https://img.shields.io/github/stars/I-am-PUID-0/DUMB?style=flat-square&color=yellow)](https://github.com/I-am-PUID-0/DUMB/stargazers) [![Forks](https://img.shields.io/github/forks/I-am-PUID-0/DUMB?style=flat-square&color=blue)](https://github.com/I-am-PUID-0/DUMB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/I-am-PUID-0/DUMB?style=flat-square&color=yellow)](https://github.com/I-am-PUID-0/DUMB/stargazers) [![Forks](https://img.shields.io/github/forks/I-am-PUID-0/DUMB?style=flat-square&color=blue)](https://github.com/I-am-PUID-0/DUMB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed Unlimited Media Bridge (DUMB) is an All-In-One (AIO) Docker image for building and operating a complete automated media stack from one container.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ DUMB 的生产可用性非常高，包括：
 | forks | 35/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # lojo64945-beep/AgenticDeFi-Trainer
 
-[![Stars](https://img.shields.io/github/stars/lojo64945-beep/AgenticDeFi-Trainer?style=flat-square&color=yellow)](https://github.com/lojo64945-beep/AgenticDeFi-Trainer/stargazers) [![Forks](https://img.shields.io/github/forks/lojo64945-beep/AgenticDeFi-Trainer?style=flat-square&color=blue)](https://github.com/lojo64945-beep/AgenticDeFi-Trainer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lojo64945-beep/AgenticDeFi-Trainer?style=flat-square&color=yellow)](https://github.com/lojo64945-beep/AgenticDeFi-Trainer/stargazers) [![Forks](https://img.shields.io/github/forks/lojo64945-beep/AgenticDeFi-Trainer?style=flat-square&color=blue)](https://github.com/lojo64945-beep/AgenticDeFi-Trainer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi toolkit for 2026.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ AgenticDeFi‑Trainer 为想在 2026 年实现“无人值守”DeFi 操作的�
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

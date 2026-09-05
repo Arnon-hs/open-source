@@ -1,6 +1,6 @@
 # alpacahq/alpaca-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/alpacahq/alpaca-mcp-server?style=flat-square&color=yellow)](https://github.com/alpacahq/alpaca-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/alpacahq/alpaca-mcp-server?style=flat-square&color=blue)](https://github.com/alpacahq/alpaca-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alpacahq/alpaca-mcp-server?style=flat-square&color=yellow)](https://github.com/alpacahq/alpaca-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/alpacahq/alpaca-mcp-server?style=flat-square&color=blue)](https://github.com/alpacahq/alpaca-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Alpaca’s official MCP Server lets you trade stocks, ETFs, crypto, and options, run data analysis, and build strategies in plain English directly from your favorite LLM tools and IDEs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 839 |
 | 🍴 **Forks** | 245 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Alpaca 官方的 MCP（Model‑Centric Programming）服务器让开发者可以
 | forks | 60/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 64/100 |
+| production | 78/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

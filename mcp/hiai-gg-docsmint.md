@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML
+MCP · Knowledge/RAG · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -116,7 +116,7 @@ HiAi-gg/docsmint 的生产可用性较高，具有以下特点：
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

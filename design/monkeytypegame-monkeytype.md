@@ -1,6 +1,6 @@
 # monkeytypegame/monkeytype
 
-[![Stars](https://img.shields.io/github/stars/monkeytypegame/monkeytype?style=flat-square&color=yellow)](https://github.com/monkeytypegame/monkeytype/stargazers) [![Forks](https://img.shields.io/github/forks/monkeytypegame/monkeytype?style=flat-square&color=blue)](https://github.com/monkeytypegame/monkeytype/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monkeytypegame/monkeytype?style=flat-square&color=yellow)](https://github.com/monkeytypegame/monkeytype/stargazers) [![Forks](https://img.shields.io/github/forks/monkeytypegame/monkeytype?style=flat-square&color=blue)](https://github.com/monkeytypegame/monkeytype/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.3k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Monkeytype（monkeytypegame/monkeytype）是一款以极简 UI 为核心、可�
 | forks | 88/100 |
 | stars | 92/100 |
 | topics | 25/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

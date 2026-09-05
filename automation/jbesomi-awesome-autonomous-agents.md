@@ -1,6 +1,6 @@
 # jbesomi/awesome-autonomous-agents
 
-[![Stars](https://img.shields.io/github/stars/jbesomi/awesome-autonomous-agents?style=flat-square&color=yellow)](https://github.com/jbesomi/awesome-autonomous-agents/stargazers) [![Forks](https://img.shields.io/github/forks/jbesomi/awesome-autonomous-agents?style=flat-square&color=blue)](https://github.com/jbesomi/awesome-autonomous-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jbesomi/awesome-autonomous-agents?style=flat-square&color=yellow)](https://github.com/jbesomi/awesome-autonomous-agents/stargazers) [![Forks](https://img.shields.io/github/forks/jbesomi/awesome-autonomous-agents?style=flat-square&color=blue)](https://github.com/jbesomi/awesome-autonomous-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of tools, frameworks and resources to work with autonomous agents (autoGPT)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ jbesomi/awesome-autonomous-agents 的生产可用性为中等。虽然项目提�
 | forks | 33/100 |
 | stars | 35/100 |
 | topics | 88/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

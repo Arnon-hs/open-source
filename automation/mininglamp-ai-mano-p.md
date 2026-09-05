@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ Mininglamp-AI/Mano-P：Mininglamp-AI/Mano-P helps remove repetitive manual opera
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

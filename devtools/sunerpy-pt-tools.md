@@ -1,6 +1,6 @@
 # sunerpy/pt-tools
 
-[![Stars](https://img.shields.io/github/stars/sunerpy/pt-tools?style=flat-square&color=yellow)](https://github.com/sunerpy/pt-tools/stargazers) [![Forks](https://img.shields.io/github/forks/sunerpy/pt-tools?style=flat-square&color=blue)](https://github.com/sunerpy/pt-tools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunerpy/pt-tools?style=flat-square&color=yellow)](https://github.com/sunerpy/pt-tools/stargazers) [![Forks](https://img.shields.io/github/forks/sunerpy/pt-tools?style=flat-square&color=blue)](https://github.com/sunerpy/pt-tools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > pt-tools 是一个专为PT站点设计的工具，支持通过rss订阅来下载免费种子和通过策略刷流、追剧等，帮助用户提高上传量，快速通过考核。支持docker、linux和windows等方式运行。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ Overall, `pt-tools` appears mature enough for a pilot deployment in personal or 
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

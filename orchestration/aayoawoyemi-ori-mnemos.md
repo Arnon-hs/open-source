@@ -1,6 +1,6 @@
 # aayoawoyemi/Ori-Mnemos
 
-[![Stars](https://img.shields.io/github/stars/aayoawoyemi/Ori-Mnemos?style=flat-square&color=yellow)](https://github.com/aayoawoyemi/Ori-Mnemos/stargazers) [![Forks](https://img.shields.io/github/forks/aayoawoyemi/Ori-Mnemos?style=flat-square&color=blue)](https://github.com/aayoawoyemi/Ori-Mnemos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aayoawoyemi/Ori-Mnemos?style=flat-square&color=yellow)](https://github.com/aayoawoyemi/Ori-Mnemos/stargazers) [![Forks](https://img.shields.io/github/forks/aayoawoyemi/Ori-Mnemos?style=flat-square&color=blue)](https://github.com/aayoawoyemi/Ori-Mnemos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -101,11 +101,11 @@ Ori‑Mnemos（aayoawoyemi/Ori‑Mnemos）是一款基于递归记忆框架（Re
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # JoshuaC215/agent-service-toolkit
 
-[![Stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=flat-square&color=yellow)](https://github.com/JoshuaC215/agent-service-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/JoshuaC215/agent-service-toolkit?style=flat-square&color=blue)](https://github.com/JoshuaC215/agent-service-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=flat-square&color=yellow)](https://github.com/JoshuaC215/agent-service-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/JoshuaC215/agent-service-toolkit?style=flat-square&color=blue)](https://github.com/JoshuaC215/agent-service-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 727 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ JoshuaC215/agent-service-toolkit 将零散的 Prompt 与工具封装成可复用
 | forks | 72/100 |
 | stars | 77/100 |
 | topics | 38/100 |
-| outlook | 65/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

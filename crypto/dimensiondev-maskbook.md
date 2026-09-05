@@ -1,6 +1,6 @@
 # DimensionDev/Maskbook
 
-[![Stars](https://img.shields.io/github/stars/DimensionDev/Maskbook?style=flat-square&color=yellow)](https://github.com/DimensionDev/Maskbook/stargazers) [![Forks](https://img.shields.io/github/forks/DimensionDev/Maskbook?style=flat-square&color=blue)](https://github.com/DimensionDev/Maskbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DimensionDev/Maskbook?style=flat-square&color=yellow)](https://github.com/DimensionDev/Maskbook/stargazers) [![Forks](https://img.shields.io/github/forks/DimensionDev/Maskbook?style=flat-square&color=blue)](https://github.com/DimensionDev/Maskbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The portal to the new, open Internet. ([I:b])
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Security
+Crypto · Frontend · Security
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ Maskbook 的生产可用性评估为高。其最近有活跃开发，采用率�
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

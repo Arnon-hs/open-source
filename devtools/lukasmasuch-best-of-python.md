@@ -1,6 +1,6 @@
 # lukasmasuch/best-of-python
 
-[![Stars](https://img.shields.io/github/stars/lukasmasuch/best-of-python?style=flat-square&color=yellow)](https://github.com/lukasmasuch/best-of-python/stargazers) [![Forks](https://img.shields.io/github/forks/lukasmasuch/best-of-python?style=flat-square&color=blue)](https://github.com/lukasmasuch/best-of-python/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukasmasuch/best-of-python?style=flat-square&color=yellow)](https://github.com/lukasmasuch/best-of-python/stargazers) [![Forks](https://img.shields.io/github/forks/lukasmasuch/best-of-python?style=flat-square&color=blue)](https://github.com/lukasmasuch/best-of-python/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 335 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ The project scores 82/100 and is considered “high” for OSS pilots: recent co
 | forks | 63/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

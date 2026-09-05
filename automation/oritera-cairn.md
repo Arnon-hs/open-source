@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Security
+Automation · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ oritera/Cairn：oritera/Cairn helps remove repetitive manual operations from a w
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

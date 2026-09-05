@@ -1,6 +1,6 @@
 # lionello/onedrive-cli
 
-[![Stars](https://img.shields.io/github/stars/lionello/onedrive-cli?style=flat-square&color=yellow)](https://github.com/lionello/onedrive-cli/stargazers) [![Forks](https://img.shields.io/github/forks/lionello/onedrive-cli?style=flat-square&color=blue)](https://github.com/lionello/onedrive-cli/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lionello/onedrive-cli?style=flat-square&color=yellow)](https://github.com/lionello/onedrive-cli/stargazers) [![Forks](https://img.shields.io/github/forks/lionello/onedrive-cli?style=flat-square&color=blue)](https://github.com/lionello/onedrive-cli/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Command line interface for OneDrive
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -94,15 +94,15 @@ lionello/onedrive-cli 是一个用 Nix 编写的 OneDrive 命令行工具，提�
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

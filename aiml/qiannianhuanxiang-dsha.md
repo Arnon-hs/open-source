@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Mobile
+AI/ML · Productivity · Mobile
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ qiannianhuanxiang/DSHA：qiannianhuanxiang/DSHA helps add AI capability without 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

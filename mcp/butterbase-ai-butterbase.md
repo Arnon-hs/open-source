@@ -1,6 +1,6 @@
 # butterbase-ai/butterbase
 
-[![Stars](https://img.shields.io/github/stars/butterbase-ai/butterbase?style=flat-square&color=yellow)](https://github.com/butterbase-ai/butterbase/stargazers) [![Forks](https://img.shields.io/github/forks/butterbase-ai/butterbase?style=flat-square&color=blue)](https://github.com/butterbase-ai/butterbase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/butterbase-ai/butterbase?style=flat-square&color=yellow)](https://github.com/butterbase-ai/butterbase/stargazers) [![Forks](https://img.shields.io/github/forks/butterbase-ai/butterbase?style=flat-square&color=blue)](https://github.com/butterbase-ai/butterbase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Butterbase（`butterbase-ai/butterbase`）是一个开源的后端即服务（Ba
 | forks | 54/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

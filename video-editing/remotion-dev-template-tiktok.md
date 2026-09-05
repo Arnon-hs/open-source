@@ -1,6 +1,6 @@
 # remotion-dev/template-tiktok
 
-[![Stars](https://img.shields.io/github/stars/remotion-dev/template-tiktok?style=flat-square&color=yellow)](https://github.com/remotion-dev/template-tiktok/stargazers) [![Forks](https://img.shields.io/github/forks/remotion-dev/template-tiktok?style=flat-square&color=blue)](https://github.com/remotion-dev/template-tiktok/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remotion-dev/template-tiktok?style=flat-square&color=yellow)](https://github.com/remotion-dev/template-tiktok/stargazers) [![Forks](https://img.shields.io/github/forks/remotion-dev/template-tiktok?style=flat-square&color=blue)](https://github.com/remotion-dev/template-tiktok/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Generate TikTok-style captions with Whisper.cpp
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 272 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ remotion-dev/template-tiktok：remotion-dev/template-tiktok helps turn media edi
 | forks | 46/100 |
 | stars | 52/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 65/100 |
-| recency | 80/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

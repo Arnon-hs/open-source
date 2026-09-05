@@ -1,6 +1,6 @@
 # oprogramadorreal/optimus-claude
 
-[![Stars](https://img.shields.io/github/stars/oprogramadorreal/optimus-claude?style=flat-square&color=yellow)](https://github.com/oprogramadorreal/optimus-claude/stargazers) [![Forks](https://img.shields.io/github/forks/oprogramadorreal/optimus-claude?style=flat-square&color=blue)](https://github.com/oprogramadorreal/optimus-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oprogramadorreal/optimus-claude?style=flat-square&color=yellow)](https://github.com/oprogramadorreal/optimus-claude/stargazers) [![Forks](https://img.shields.io/github/forks/oprogramadorreal/optimus-claude?style=flat-square&color=blue)](https://github.com/oprogramadorreal/optimus-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Primes your project for peak Claude Code performance
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Overall, Optimus‑Claude is a well‑maintained OSS candidate that can be pilot
 | forks | 23/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

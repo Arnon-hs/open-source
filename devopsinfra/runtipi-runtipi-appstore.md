@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ runtipi/runtipi-appstore：runtipi/runtipi-appstore helps make deployment and op
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ZJU-REAL/SDAR
 
-[![Stars](https://img.shields.io/github/stars/ZJU-REAL/SDAR?style=flat-square&color=yellow)](https://github.com/ZJU-REAL/SDAR/stargazers) [![Forks](https://img.shields.io/github/forks/ZJU-REAL/SDAR?style=flat-square&color=blue)](https://github.com/ZJU-REAL/SDAR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZJU-REAL/SDAR?style=flat-square&color=yellow)](https://github.com/ZJU-REAL/SDAR/stargazers) [![Forks](https://img.shields.io/github/forks/ZJU-REAL/SDAR?style=flat-square&color=blue)](https://github.com/ZJU-REAL/SDAR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Official code for "Self-Distilled Agentic Reinforcement Learning"
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ ZJU-REAL/SDAR 的生产可用性为中等。它可以用于 prototyping 或内�
 | forks | 35/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

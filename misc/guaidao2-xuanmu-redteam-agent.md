@@ -1,6 +1,6 @@
 # guaidao2/XuanMu-RedTeam-Agent
 
-[![Stars](https://img.shields.io/github/stars/guaidao2/XuanMu-RedTeam-Agent?style=flat-square&color=yellow)](https://github.com/guaidao2/XuanMu-RedTeam-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/guaidao2/XuanMu-RedTeam-Agent?style=flat-square&color=blue)](https://github.com/guaidao2/XuanMu-RedTeam-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guaidao2/XuanMu-RedTeam-Agent?style=flat-square&color=yellow)](https://github.com/guaidao2/XuanMu-RedTeam-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/guaidao2/XuanMu-RedTeam-Agent?style=flat-square&color=blue)](https://github.com/guaidao2/XuanMu-RedTeam-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 玄幕安全团队开源汉化和修改的无需docker可在Kali Linux上直接运行的红队AI agent。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ XuanMu‑RedTeam-Agent 是由玄幕安全团队汉化并优化的红队 AI 代�
 | forks | 29/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 47/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

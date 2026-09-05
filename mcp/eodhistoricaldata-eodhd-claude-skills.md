@@ -1,6 +1,6 @@
 # EodHistoricalData/eodhd-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/EodHistoricalData/eodhd-claude-skills?style=flat-square&color=yellow)](https://github.com/EodHistoricalData/eodhd-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/EodHistoricalData/eodhd-claude-skills?style=flat-square&color=blue)](https://github.com/EodHistoricalData/eodhd-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EodHistoricalData/eodhd-claude-skills?style=flat-square&color=yellow)](https://github.com/EodHistoricalData/eodhd-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/EodHistoricalData/eodhd-claude-skills?style=flat-square&color=blue)](https://github.com/EodHistoricalData/eodhd-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin for EODHD financial data — 150k+ tickers, 70+ exchanges, OAuth MCP server with 80 tools, 7 workflow skills, financial-analyst agent, 5 slash commands. MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ EodHistoricalData/eodhd-claude-skills 是一个开源项目，提供了一个名
 | forks | 19/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # bastgau/ha-pi-hole-v6
 
-[![Stars](https://img.shields.io/github/stars/bastgau/ha-pi-hole-v6?style=flat-square&color=yellow)](https://github.com/bastgau/ha-pi-hole-v6/stargazers) [![Forks](https://img.shields.io/github/forks/bastgau/ha-pi-hole-v6?style=flat-square&color=blue)](https://github.com/bastgau/ha-pi-hole-v6/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bastgau/ha-pi-hole-v6?style=flat-square&color=yellow)](https://github.com/bastgau/ha-pi-hole-v6/stargazers) [![Forks](https://img.shields.io/github/forks/bastgau/ha-pi-hole-v6?style=flat-square&color=blue)](https://github.com/bastgau/ha-pi-hole-v6/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🛡️ This custom integration restored compatibility between Home Assistant and Pi-hole, which was no longer supported by the native integration. Today, this integration offers additional and complementary features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 496 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,11 +122,11 @@ bastgau/ha-pi-hole-v6 是一套为 Home Assistant 定制的 Pi‑hole 集成，�
 | forks | 31/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

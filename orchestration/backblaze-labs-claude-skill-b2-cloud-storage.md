@@ -1,6 +1,6 @@
 # backblaze-labs/claude-skill-b2-cloud-storage
 
-[![Stars](https://img.shields.io/github/stars/backblaze-labs/claude-skill-b2-cloud-storage?style=flat-square&color=yellow)](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage/stargazers) [![Forks](https://img.shields.io/github/forks/backblaze-labs/claude-skill-b2-cloud-storage?style=flat-square&color=blue)](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backblaze-labs/claude-skill-b2-cloud-storage?style=flat-square&color=yellow)](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage/stargazers) [![Forks](https://img.shields.io/github/forks/backblaze-labs/claude-skill-b2-cloud-storage?style=flat-square&color=blue)](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Skill for Backblaze B2 Cloud Storage management from the terminal. Manage buckets, list and search files, audit storage usage, detect stale or large objects, review security posture, and safely clean up data using natural language. Built on the Agent Skills specification and compatible with Claude Code and other skills-based agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Security
+Orchestration · AI/ML · Cloud & Storage · Security
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ Claude Skill for Backblaze B2 Cloud Storage 是一个开源项目，允许使用
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

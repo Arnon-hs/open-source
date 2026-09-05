@@ -1,6 +1,6 @@
 # aimasteracc/tree-sitter-analyzer
 
-[![Stars](https://img.shields.io/github/stars/aimasteracc/tree-sitter-analyzer?style=flat-square&color=yellow)](https://github.com/aimasteracc/tree-sitter-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/aimasteracc/tree-sitter-analyzer?style=flat-square&color=blue)](https://github.com/aimasteracc/tree-sitter-analyzer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aimasteracc/tree-sitter-analyzer?style=flat-square&color=yellow)](https://github.com/aimasteracc/tree-sitter-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/aimasteracc/tree-sitter-analyzer?style=flat-square&color=blue)](https://github.com/aimasteracc/tree-sitter-analyzer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A scalable, multi-language code analysis framework based on Tree-sitter, usable both as a CLI tool and an MCP server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ aimasteracc/tree‑sitter-analyzer 是基于 Tree‑sitter 的可扩展多语言
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

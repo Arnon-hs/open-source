@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ can1357/llm-git：can1357/llm-git helps remove repetitive manual operations from
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

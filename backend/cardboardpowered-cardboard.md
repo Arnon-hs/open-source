@@ -1,6 +1,6 @@
 # CardboardPowered/cardboard
 
-[![Stars](https://img.shields.io/github/stars/CardboardPowered/cardboard?style=flat-square&color=yellow)](https://github.com/CardboardPowered/cardboard/stargazers) [![Forks](https://img.shields.io/github/forks/CardboardPowered/cardboard?style=flat-square&color=blue)](https://github.com/CardboardPowered/cardboard/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CardboardPowered/cardboard?style=flat-square&color=yellow)](https://github.com/CardboardPowered/cardboard/stargazers) [![Forks](https://img.shields.io/github/forks/CardboardPowered/cardboard?style=flat-square&color=blue)](https://github.com/CardboardPowered/cardboard/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The Bukkit/Spigot/Paper API implementation for Fabric
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ CardboardPowered/cardboard 是一个开源项目，旨在为Fabric提供Bukkit/S
 | forks | 48/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

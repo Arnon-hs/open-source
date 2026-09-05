@@ -1,6 +1,6 @@
 # sktime/pytorch-forecasting
 
-[![Stars](https://img.shields.io/github/stars/sktime/pytorch-forecasting?style=flat-square&color=yellow)](https://github.com/sktime/pytorch-forecasting/stargazers) [![Forks](https://img.shields.io/github/forks/sktime/pytorch-forecasting?style=flat-square&color=blue)](https://github.com/sktime/pytorch-forecasting/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sktime/pytorch-forecasting?style=flat-square&color=yellow)](https://github.com/sktime/pytorch-forecasting/stargazers) [![Forks](https://img.shields.io/github/forks/sktime/pytorch-forecasting?style=flat-square&color=blue)](https://github.com/sktime/pytorch-forecasting/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Time series forecasting with PyTorch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 870 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ sktime/pytorch-forecasting 是基于 PyTorch 的时间序列预测库，融合�
 | forks | 74/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

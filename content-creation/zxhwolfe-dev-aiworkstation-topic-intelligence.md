@@ -1,6 +1,6 @@
 # zxhwolfe-dev/aiworkstation-topic-intelligence
 
-[![Stars](https://img.shields.io/github/stars/zxhwolfe-dev/aiworkstation-topic-intelligence?style=flat-square&color=yellow)](https://github.com/zxhwolfe-dev/aiworkstation-topic-intelligence/stargazers) [![Forks](https://img.shields.io/github/forks/zxhwolfe-dev/aiworkstation-topic-intelligence?style=flat-square&color=blue)](https://github.com/zxhwolfe-dev/aiworkstation-topic-intelligence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zxhwolfe-dev/aiworkstation-topic-intelligence?style=flat-square&color=yellow)](https://github.com/zxhwolfe-dev/aiworkstation-topic-intelligence/stargazers) [![Forks](https://img.shields.io/github/forks/zxhwolfe-dev/aiworkstation-topic-intelligence?style=flat-square&color=blue)](https://github.com/zxhwolfe-dev/aiworkstation-topic-intelligence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Installable Agent Skill for finding current topics and turning one into an evidence-backed content brief.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ zxhwolfe-dev/aiworkstation-topic-intelligence：zxhwolfe-dev/aiworkstation-topic
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 64/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

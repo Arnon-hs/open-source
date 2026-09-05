@@ -1,6 +1,6 @@
 # stan-dev/math
 
-[![Stars](https://img.shields.io/github/stars/stan-dev/math?style=flat-square&color=yellow)](https://github.com/stan-dev/math/stargazers) [![Forks](https://img.shields.io/github/forks/stan-dev/math?style=flat-square&color=blue)](https://github.com/stan-dev/math/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stan-dev/math?style=flat-square&color=yellow)](https://github.com/stan-dev/math/stargazers) [![Forks](https://img.shields.io/github/forks/stan-dev/math?style=flat-square&color=blue)](https://github.com/stan-dev/math/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The Stan Math Library is a C++ template library for automatic differentiation of any order using forward, reverse, and mixed modes.  It includes a range of built-in functions for probabilistic modeling, linear algebra, and equation solving.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 820 |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Stan Math（stan-dev/math）是一个基于 C++ 模板的自动微分库，支�
 | forks | 58/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

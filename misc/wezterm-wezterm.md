@@ -1,6 +1,6 @@
 # wezterm/wezterm
 
-[![Stars](https://img.shields.io/github/stars/wezterm/wezterm?style=flat-square&color=yellow)](https://github.com/wezterm/wezterm/stargazers) [![Forks](https://img.shields.io/github/forks/wezterm/wezterm?style=flat-square&color=blue)](https://github.com/wezterm/wezterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wezterm/wezterm?style=flat-square&color=yellow)](https://github.com/wezterm/wezterm/stargazers) [![Forks](https://img.shields.io/github/forks/wezterm/wezterm?style=flat-square&color=blue)](https://github.com/wezterm/wezterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.9k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ WezTerm（`wezterm/wezterm`）是一款基于 GPU 加速的跨平台终端模拟
 | forks | 80/100 |
 | stars | 94/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

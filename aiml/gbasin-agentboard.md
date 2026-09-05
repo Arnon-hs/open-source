@@ -1,6 +1,6 @@
 # gbasin/agentboard
 
-[![Stars](https://img.shields.io/github/stars/gbasin/agentboard?style=flat-square&color=yellow)](https://github.com/gbasin/agentboard/stargazers) [![Forks](https://img.shields.io/github/forks/gbasin/agentboard?style=flat-square&color=blue)](https://github.com/gbasin/agentboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gbasin/agentboard?style=flat-square&color=yellow)](https://github.com/gbasin/agentboard/stargazers) [![Forks](https://img.shields.io/github/forks/gbasin/agentboard?style=flat-square&color=blue)](https://github.com/gbasin/agentboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Web GUI for tmux optimized for AI agent TUIs, with support for iOS safari and mac w/ keyboard shortcuts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ gbasin/agentboard 是一款基于 Web 的 tmux GUI，专为 AI 代理类 TUI 场
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

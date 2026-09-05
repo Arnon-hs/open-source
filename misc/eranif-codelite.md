@@ -1,6 +1,6 @@
 # eranif/codelite
 
-[![Stars](https://img.shields.io/github/stars/eranif/codelite?style=flat-square&color=yellow)](https://github.com/eranif/codelite/stargazers) [![Forks](https://img.shields.io/github/forks/eranif/codelite?style=flat-square&color=blue)](https://github.com/eranif/codelite/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eranif/codelite?style=flat-square&color=yellow)](https://github.com/eranif/codelite/stargazers) [![Forks](https://img.shields.io/github/forks/eranif/codelite?style=flat-square&color=blue)](https://github.com/eranif/codelite/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A multi purpose IDE specialized in C/C++/Rust/Python/PHP and Node.js. Written in C++
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Eranif 的 **codelite** 是一款用 C++ 编写的多语言 IDE，原生支持 C
 | forks | 67/100 |
 | stars | 72/100 |
 | topics | 50/100 |
-| outlook | 48/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

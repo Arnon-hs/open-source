@@ -1,6 +1,6 @@
 # ZenNotes/zennotes
 
-[![Stars](https://img.shields.io/github/stars/ZenNotes/zennotes?style=flat-square&color=yellow)](https://github.com/ZenNotes/zennotes/stargazers) [![Forks](https://img.shields.io/github/forks/ZenNotes/zennotes?style=flat-square&color=blue)](https://github.com/ZenNotes/zennotes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZenNotes/zennotes?style=flat-square&color=yellow)](https://github.com/ZenNotes/zennotes/stargazers) [![Forks](https://img.shields.io/github/forks/ZenNotes/zennotes?style=flat-square&color=blue)](https://github.com/ZenNotes/zennotes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · Documents
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ ZenNotes 在功能、社区和协议层面均具备较高的生产就绪度，�
 | forks | 48/100 |
 | stars | 68/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

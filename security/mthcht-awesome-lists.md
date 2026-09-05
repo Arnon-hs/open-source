@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | YARA |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ mthcht/awesome-lists：mthcht/awesome-lists helps catch security and privacy iss
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

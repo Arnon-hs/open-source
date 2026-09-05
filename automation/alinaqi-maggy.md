@@ -1,6 +1,6 @@
 # alinaqi/maggy
 
-[![Stars](https://img.shields.io/github/stars/alinaqi/maggy?style=flat-square&color=yellow)](https://github.com/alinaqi/maggy/stargazers) [![Forks](https://img.shields.io/github/forks/alinaqi/maggy?style=flat-square&color=blue)](https://github.com/alinaqi/maggy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alinaqi/maggy?style=flat-square&color=yellow)](https://github.com/alinaqi/maggy/stargazers) [![Forks](https://img.shields.io/github/forks/alinaqi/maggy?style=flat-square&color=blue)](https://github.com/alinaqi/maggy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > What started as an opinionated Claude Code setup kit is now an autonomous AI engineering command center
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 622 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Overall, Maggy offers a solid, battle‑tested foundation for automating AI‑au
 | forks | 43/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

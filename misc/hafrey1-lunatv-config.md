@@ -1,6 +1,6 @@
 # hafrey1/LunaTV-config
 
-[![Stars](https://img.shields.io/github/stars/hafrey1/LunaTV-config?style=flat-square&color=yellow)](https://github.com/hafrey1/LunaTV-config/stargazers) [![Forks](https://img.shields.io/github/forks/hafrey1/LunaTV-config?style=flat-square&color=blue)](https://github.com/hafrey1/LunaTV-config/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hafrey1/LunaTV-config?style=flat-square&color=yellow)](https://github.com/hafrey1/LunaTV-config/stargazers) [![Forks](https://img.shields.io/github/forks/hafrey1/LunaTV-config?style=flat-square&color=blue)](https://github.com/hafrey1/LunaTV-config/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MoonTV/LunaTV源配置，每日自动检测API状态，可在CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -126,11 +126,11 @@ hafrey1/LunaTV‑config 是 MoonTV/LunaTV 的源码配置仓库，提供每日�
 | forks | 79/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # skrun-dev/skrun
 
-[![Stars](https://img.shields.io/github/stars/skrun-dev/skrun?style=flat-square&color=yellow)](https://github.com/skrun-dev/skrun/stargazers) [![Forks](https://img.shields.io/github/forks/skrun-dev/skrun?style=flat-square&color=blue)](https://github.com/skrun-dev/skrun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skrun-dev/skrun?style=flat-square&color=yellow)](https://github.com/skrun-dev/skrun/stargazers) [![Forks](https://img.shields.io/github/forks/skrun-dev/skrun?style=flat-square&color=blue)](https://github.com/skrun-dev/skrun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy any Agent Skill as an API via POST /run. The open-source multi-model alternative to Claude Managed Agents, Microsoft Foundry & Mistral/Koyeb — works with any LLM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ skrun-dev/skrun 是一个开源框架，能够把任意 Agent Skill 通过 `PO
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 55/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

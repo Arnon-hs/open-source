@@ -1,6 +1,6 @@
 # codegraph-ai/CodeGraph
 
-[![Stars](https://img.shields.io/github/stars/codegraph-ai/CodeGraph?style=flat-square&color=yellow)](https://github.com/codegraph-ai/CodeGraph/stargazers) [![Forks](https://img.shields.io/github/forks/codegraph-ai/CodeGraph?style=flat-square&color=blue)](https://github.com/codegraph-ai/CodeGraph/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codegraph-ai/CodeGraph?style=flat-square&color=yellow)](https://github.com/codegraph-ai/CodeGraph/stargazers) [![Forks](https://img.shields.io/github/forks/codegraph-ai/CodeGraph?style=flat-square&color=blue)](https://github.com/codegraph-ai/CodeGraph/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > CodeGraph builds a semantic graph of your codebase — functions, classes, imports, call chains — and exposes it through 42 MCP tools, 38 languages, a VS Code extension, and a persistent memory layer. AI agents get structured code understanding instead of grepping through files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ CodeGraph 能自动为任意代码库构建语义图——包括函数、类、�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

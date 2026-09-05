@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ elixirs/faker：elixirs/faker helps engineers save time in daily development and
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # trickerer/Trinity-Bots
 
-[![Stars](https://img.shields.io/github/stars/trickerer/Trinity-Bots?style=flat-square&color=yellow)](https://github.com/trickerer/Trinity-Bots/stargazers) [![Forks](https://img.shields.io/github/forks/trickerer/Trinity-Bots?style=flat-square&color=blue)](https://github.com/trickerer/Trinity-Bots/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trickerer/Trinity-Bots?style=flat-square&color=yellow)](https://github.com/trickerer/Trinity-Bots/stargazers) [![Forks](https://img.shields.io/github/forks/trickerer/Trinity-Bots?style=flat-square&color=blue)](https://github.com/trickerer/Trinity-Bots/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > NPCBots for TrinityCore and AzerothCore 3.3.5
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 567 |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | PLpgSQL |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Trickerer/Trinity-Bots 是一个开源项目，旨在为 TrinityCore 和 Azeroth
 | forks | 56/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

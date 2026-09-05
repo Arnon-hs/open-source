@@ -1,6 +1,6 @@
 # l33tdawg/sage
 
-[![Stars](https://img.shields.io/github/stars/l33tdawg/sage?style=flat-square&color=yellow)](https://github.com/l33tdawg/sage/stargazers) [![Forks](https://img.shields.io/github/forks/l33tdawg/sage?style=flat-square&color=blue)](https://github.com/l33tdawg/sage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/l33tdawg/sage?style=flat-square&color=yellow)](https://github.com/l33tdawg/sage/stargazers) [![Forks](https://img.shields.io/github/forks/l33tdawg/sage?style=flat-square&color=blue)](https://github.com/l33tdawg/sage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > (S)AGE - (Sovereign) Agent Governed Experience
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ l33tdawg/sage 的生产可用性为中等。它适用于原型开发或内部工
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

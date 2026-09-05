@@ -1,6 +1,6 @@
 # getsentry/symbolic
 
-[![Stars](https://img.shields.io/github/stars/getsentry/symbolic?style=flat-square&color=yellow)](https://github.com/getsentry/symbolic/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/symbolic?style=flat-square&color=blue)](https://github.com/getsentry/symbolic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/symbolic?style=flat-square&color=yellow)](https://github.com/getsentry/symbolic/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/symbolic?style=flat-square&color=blue)](https://github.com/getsentry/symbolic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Stack trace symbolication library written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ getsentry / symbolic 是一款用 Rust 编写的堆栈追踪符号化库，�
 | forks | 49/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # medplum/medplum
 
-[![Stars](https://img.shields.io/github/stars/medplum/medplum?style=flat-square&color=yellow)](https://github.com/medplum/medplum/stargazers) [![Forks](https://img.shields.io/github/forks/medplum/medplum?style=flat-square&color=blue)](https://github.com/medplum/medplum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/medplum/medplum?style=flat-square&color=yellow)](https://github.com/medplum/medplum/stargazers) [![Forks](https://img.shields.io/github/forks/medplum/medplum?style=flat-square&color=blue)](https://github.com/medplum/medplum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 775 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Medplum（medplum/medplum）是一个基于 TypeScript 的全栈医疗平台，�
 | forks | 72/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

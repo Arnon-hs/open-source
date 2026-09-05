@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Pascal |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,6 +78,7 @@ mse-org/mseide-msegui：mse-org/mseide-msegui helps engineers save time in daily
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Backend
+Crypto · Trading · Automation · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -115,7 +115,7 @@ JKorf/HTX.Net 的生产可用性较高，理由如下：
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

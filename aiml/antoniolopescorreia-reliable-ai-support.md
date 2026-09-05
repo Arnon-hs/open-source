@@ -1,6 +1,6 @@
 # antoniolopescorreia/reliable-ai-support
 
-[![Stars](https://img.shields.io/github/stars/antoniolopescorreia/reliable-ai-support?style=flat-square&color=yellow)](https://github.com/antoniolopescorreia/reliable-ai-support/stargazers) [![Forks](https://img.shields.io/github/forks/antoniolopescorreia/reliable-ai-support?style=flat-square&color=blue)](https://github.com/antoniolopescorreia/reliable-ai-support/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antoniolopescorreia/reliable-ai-support?style=flat-square&color=yellow)](https://github.com/antoniolopescorreia/reliable-ai-support/stargazers) [![Forks](https://img.shields.io/github/forks/antoniolopescorreia/reliable-ai-support?style=flat-square&color=blue)](https://github.com/antoniolopescorreia/reliable-ai-support/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Companion repository for the Reliable AI Support blog series - an LLM-powered support agent with deterministic boundaries
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ antoniolopescorreia/reliable-ai-support：antoniolopescorreia/reliable-ai-suppor
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 55/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

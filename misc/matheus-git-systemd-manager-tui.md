@@ -1,6 +1,6 @@
 # matheus-git/systemd-manager-tui
 
-[![Stars](https://img.shields.io/github/stars/matheus-git/systemd-manager-tui?style=flat-square&color=yellow)](https://github.com/matheus-git/systemd-manager-tui/stargazers) [![Forks](https://img.shields.io/github/forks/matheus-git/systemd-manager-tui?style=flat-square&color=blue)](https://github.com/matheus-git/systemd-manager-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matheus-git/systemd-manager-tui?style=flat-square&color=yellow)](https://github.com/matheus-git/systemd-manager-tui/stargazers) [![Forks](https://img.shields.io/github/forks/matheus-git/systemd-manager-tui?style=flat-square&color=blue)](https://github.com/matheus-git/systemd-manager-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A TUI application for managing systemd services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ matheus-git/systemd-manager-tui 是一个基于 Rust 开发的终端用户界面
 | forks | 35/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

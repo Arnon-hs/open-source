@@ -1,6 +1,6 @@
 # parthbuilds-community/FitMart
 
-[![Stars](https://img.shields.io/github/stars/parthbuilds-community/FitMart?style=flat-square&color=yellow)](https://github.com/parthbuilds-community/FitMart/stargazers) [![Forks](https://img.shields.io/github/forks/parthbuilds-community/FitMart?style=flat-square&color=blue)](https://github.com/parthbuilds-community/FitMart/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/parthbuilds-community/FitMart?style=flat-square&color=yellow)](https://github.com/parthbuilds-community/FitMart/stargazers) [![Forks](https://img.shields.io/github/forks/parthbuilds-community/FitMart?style=flat-square&color=blue)](https://github.com/parthbuilds-community/FitMart/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Full-stack MERN fitness e-commerce platform with complete Admin dashboard, Razorpay payments, workout tracker, exercise library, AI chatbot, BMI and calorie calculators, nearby gym finder and transactional emails. Built for real-world use and open-source contribution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 569 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ FitMart 的价值在于帮助快速集成资金化、计费或 PSP 流程。它�
 | forks | 69/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

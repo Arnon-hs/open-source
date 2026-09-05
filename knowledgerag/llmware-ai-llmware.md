@@ -1,6 +1,6 @@
 # llmware-ai/llmware
 
-[![Stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=flat-square&color=yellow)](https://github.com/llmware-ai/llmware/stargazers) [![Forks](https://img.shields.io/github/forks/llmware-ai/llmware?style=flat-square&color=blue)](https://github.com/llmware-ai/llmware/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=flat-square&color=yellow)](https://github.com/llmware-ai/llmware/stargazers) [![Forks](https://img.shields.io/github/forks/llmware-ai/llmware?style=flat-square&color=blue)](https://github.com/llmware-ai/llmware/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Unified framework for building enterprise RAG pipelines with small, specialized models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.9k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ llmware-ai/llmware 是一个统一的开源框架，专注于使用体积小、�
 | forks | 87/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 90/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

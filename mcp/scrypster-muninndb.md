@@ -1,6 +1,6 @@
 # scrypster/muninndb
 
-[![Stars](https://img.shields.io/github/stars/scrypster/muninndb?style=flat-square&color=yellow)](https://github.com/scrypster/muninndb/stargazers) [![Forks](https://img.shields.io/github/forks/scrypster/muninndb?style=flat-square&color=blue)](https://github.com/scrypster/muninndb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scrypster/muninndb?style=flat-square&color=yellow)](https://github.com/scrypster/muninndb/stargazers) [![Forks](https://img.shields.io/github/forks/scrypster/muninndb?style=flat-square&color=blue)](https://github.com/scrypster/muninndb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The cognitive database. A new class of data storage. Not a vector store, not a graph DB, not a RAG wrapper. Ebbinghaus decay, Hebbian   learning, and Bayesian confidence are engine-native primitives. Memories evolve on their own. MCP-native. Single binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,11 +69,11 @@ Let's craft: "scrypster/muninndb 是一种基于记忆衰减、赫布学习和�
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

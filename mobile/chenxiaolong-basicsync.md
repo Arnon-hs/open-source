@@ -1,6 +1,6 @@
 # chenxiaolong/BasicSync
 
-[![Stars](https://img.shields.io/github/stars/chenxiaolong/BasicSync?style=flat-square&color=yellow)](https://github.com/chenxiaolong/BasicSync/stargazers) [![Forks](https://img.shields.io/github/forks/chenxiaolong/BasicSync?style=flat-square&color=blue)](https://github.com/chenxiaolong/BasicSync/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenxiaolong/BasicSync?style=flat-square&color=yellow)](https://github.com/chenxiaolong/BasicSync/stargazers) [![Forks](https://img.shields.io/github/forks/chenxiaolong/BasicSync?style=flat-square&color=blue)](https://github.com/chenxiaolong/BasicSync/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A simple app for running Syncthing on Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ BasicSync 是一款在 Android 设备上快速启动并运行 Syncthing 的轻�
 | forks | 29/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

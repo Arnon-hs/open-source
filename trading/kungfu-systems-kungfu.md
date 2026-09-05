@@ -1,6 +1,6 @@
 # kungfu-systems/kungfu
 
-[![Stars](https://img.shields.io/github/stars/kungfu-systems/kungfu?style=flat-square&color=yellow)](https://github.com/kungfu-systems/kungfu/stargazers) [![Forks](https://img.shields.io/github/forks/kungfu-systems/kungfu?style=flat-square&color=blue)](https://github.com/kungfu-systems/kungfu/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kungfu-systems/kungfu?style=flat-square&color=yellow)](https://github.com/kungfu-systems/kungfu/stargazers) [![Forks](https://img.shields.io/github/forks/kungfu-systems/kungfu?style=flat-square&color=blue)](https://github.com/kungfu-systems/kungfu/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Kungfu Trader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -70,11 +70,11 @@ Kungfu Trader（kungfu-systems/kungfu）是一个开源项目，主要用于研�
 | forks | 77/100 |
 | stars | 76/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

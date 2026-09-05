@@ -1,6 +1,6 @@
 # vizia/morphorm
 
-[![Stars](https://img.shields.io/github/stars/vizia/morphorm?style=flat-square&color=yellow)](https://github.com/vizia/morphorm/stargazers) [![Forks](https://img.shields.io/github/forks/vizia/morphorm?style=flat-square&color=blue)](https://github.com/vizia/morphorm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vizia/morphorm?style=flat-square&color=yellow)](https://github.com/vizia/morphorm/stargazers) [![Forks](https://img.shields.io/github/forks/vizia/morphorm?style=flat-square&color=blue)](https://github.com/vizia/morphorm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A UI layout engine written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ vizia/morphorm 是用 Rust 编写的 UI 布局引擎，提供声明式的布局�
 | forks | 25/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 47/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # google/highway
 
-[![Stars](https://img.shields.io/github/stars/google/highway?style=flat-square&color=yellow)](https://github.com/google/highway/stargazers) [![Forks](https://img.shields.io/github/forks/google/highway?style=flat-square&color=blue)](https://github.com/google/highway/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/highway?style=flat-square&color=yellow)](https://github.com/google/highway/stargazers) [![Forks](https://img.shields.io/github/forks/google/highway?style=flat-square&color=blue)](https://github.com/google/highway/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Performance-portable, length-agnostic SIMD with runtime dispatch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ google/highway 是一个面向 C++ 的高性能 SIMD 库，能够在运行时根
 | forks | 66/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

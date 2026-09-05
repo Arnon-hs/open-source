@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend · DevTools · Security
+Crypto · AI/ML · Networking · Backend · DevTools
 
 ## 📝 Summary
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Communication · Security
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ aaronsb/google-workspace-mcp：aaronsb/google-workspace-mcp helps connect AI ass
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

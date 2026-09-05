@@ -1,6 +1,6 @@
 # the-turing-way/the-turing-way
 
-[![Stars](https://img.shields.io/github/stars/the-turing-way/the-turing-way?style=flat-square&color=yellow)](https://github.com/the-turing-way/the-turing-way/stargazers) [![Forks](https://img.shields.io/github/forks/the-turing-way/the-turing-way?style=flat-square&color=blue)](https://github.com/the-turing-way/the-turing-way/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/the-turing-way/the-turing-way?style=flat-square&color=yellow)](https://github.com/the-turing-way/the-turing-way/stargazers) [![Forks](https://img.shields.io/github/forks/the-turing-way/the-turing-way?style=flat-square&color=blue)](https://github.com/the-turing-way/the-turing-way/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 751 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ The Turing Way 是一个开源项目，提供了一个可重复、可信、协�
 | forks | 72/100 |
 | stars | 71/100 |
 | topics | 38/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

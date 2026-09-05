@@ -1,6 +1,6 @@
 # fivetaku/fablize
 
-[![Stars](https://img.shields.io/github/stars/fivetaku/fablize?style=flat-square&color=yellow)](https://github.com/fivetaku/fablize/stargazers) [![Forks](https://img.shields.io/github/forks/fivetaku/fablize?style=flat-square&color=blue)](https://github.com/fivetaku/fablize/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fivetaku/fablize?style=flat-square&color=yellow)](https://github.com/fivetaku/fablize/stargazers) [![Forks](https://img.shields.io/github/forks/fivetaku/fablize?style=flat-square&color=blue)](https://github.com/fivetaku/fablize/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 756 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ fivetaku/fablize 是一个 Claude Code 插件，它把 Opus 的生成能力包�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

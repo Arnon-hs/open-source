@@ -1,6 +1,6 @@
 # Buoy-gg/buoy
 
-[![Stars](https://img.shields.io/github/stars/Buoy-gg/buoy?style=flat-square&color=yellow)](https://github.com/Buoy-gg/buoy/stargazers) [![Forks](https://img.shields.io/github/forks/Buoy-gg/buoy?style=flat-square&color=blue)](https://github.com/Buoy-gg/buoy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Buoy-gg/buoy?style=flat-square&color=yellow)](https://github.com/Buoy-gg/buoy/stargazers) [![Forks](https://img.shields.io/github/forks/Buoy-gg/buoy?style=flat-square&color=blue)](https://github.com/Buoy-gg/buoy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > In-app devtools for React Native & Expo — network inspector, AsyncStorage/MMKV browser, React Query/Redux/Zustand tools, perf benchmarks. Works in dev, staging & production. AI-agent ready via MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,11 +81,11 @@ Buoy（Buoy‑gg/buoy）提供了一套统一的 **Model Context Protocol（MCP�
 | forks | 12/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

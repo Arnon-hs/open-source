@@ -1,6 +1,6 @@
 # herdrdev/herdr
 
-[![Stars](https://img.shields.io/github/stars/herdrdev/herdr?style=flat-square&color=yellow)](https://github.com/herdrdev/herdr/stargazers) [![Forks](https://img.shields.io/github/forks/herdrdev/herdr?style=flat-square&color=blue)](https://github.com/herdrdev/herdr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/herdrdev/herdr?style=flat-square&color=yellow)](https://github.com/herdrdev/herdr/stargazers) [![Forks](https://img.shields.io/github/forks/herdrdev/herdr?style=flat-square&color=blue)](https://github.com/herdrdev/herdr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > agent multiplexer that lives in your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.4k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ herdrdev/herdr具有高的生产可用性，主要原因是：
 | forks | 80/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 85/100 |
-| recency | 60/100 |
+| outlook | 88/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

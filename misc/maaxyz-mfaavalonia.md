@@ -1,6 +1,6 @@
 # MaaXYZ/MFAAvalonia
 
-[![Stars](https://img.shields.io/github/stars/MaaXYZ/MFAAvalonia?style=flat-square&color=yellow)](https://github.com/MaaXYZ/MFAAvalonia/stargazers) [![Forks](https://img.shields.io/github/forks/MaaXYZ/MFAAvalonia?style=flat-square&color=blue)](https://github.com/MaaXYZ/MFAAvalonia/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MaaXYZ/MFAAvalonia?style=flat-square&color=yellow)](https://github.com/MaaXYZ/MFAAvalonia/stargazers) [![Forks](https://img.shields.io/github/forks/MaaXYZ/MFAAvalonia?style=flat-square&color=blue)](https://github.com/MaaXYZ/MFAAvalonia/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 Avalonia 的 MAAFramework 通用 GUI 项目 | A universal GUI project for MAAFramework based on Avalonia
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ MaaXYZ/MFAA
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

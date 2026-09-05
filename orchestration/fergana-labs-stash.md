@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · DevTools
+Orchestration · MCP · Knowledge/RAG · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Fergana-Labs/stash：Fergana-Labs/stash helps turn isolated prompts and tools in
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

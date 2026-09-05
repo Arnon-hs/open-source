@@ -1,6 +1,6 @@
 # walkinglabs/awesome-harness-engineering
 
-[![Stars](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering?style=flat-square&color=yellow)](https://github.com/walkinglabs/awesome-harness-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/walkinglabs/awesome-harness-engineering?style=flat-square&color=blue)](https://github.com/walkinglabs/awesome-harness-engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering?style=flat-square&color=yellow)](https://github.com/walkinglabs/awesome-harness-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/walkinglabs/awesome-harness-engineering?style=flat-square&color=blue)](https://github.com/walkinglabs/awesome-harness-engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🛠️ Awesome tools & guides for harness engineering.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ walkinglabs/awesome-harness-engineering 是一个收集了大量前端 UI 框架
 | forks | 56/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

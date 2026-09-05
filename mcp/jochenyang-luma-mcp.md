@@ -1,6 +1,6 @@
 # JochenYang/luma-mcp
 
-[![Stars](https://img.shields.io/github/stars/JochenYang/luma-mcp?style=flat-square&color=yellow)](https://github.com/JochenYang/luma-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JochenYang/luma-mcp?style=flat-square&color=blue)](https://github.com/JochenYang/luma-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JochenYang/luma-mcp?style=flat-square&color=yellow)](https://github.com/JochenYang/luma-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JochenYang/luma-mcp?style=flat-square&color=blue)](https://github.com/JochenYang/luma-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-Model Visual Understanding MCP Server, GLM-4.6V, DeepSeek-OCR (free), and Qwen3-VL-Flash. Provide visual processing capabilities for AI coding models that do not support image understanding.多模型视觉理解MCP服务器，GLM-4.6V、DeepSeek-OCR（免费）和Qwen3-VL-Flash等。为不支持图片理解的 AI 编码模型提供视觉处理能力。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ JochenYang/luma-mcp 是一个开源项目，提供多模型视觉理解的 MCP �
 | forks | 27/100 |
 | stars | 41/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

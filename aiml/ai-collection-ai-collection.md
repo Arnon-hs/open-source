@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 974 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML · Communication · DevTools · Design
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ ai-collection/ai-collection：ai-collection/ai-collection helps add AI capabilit
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-06 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ OrchardCMS/OrchardCore.Commerce：OrchardCMS/OrchardCore.Commerce helps integrat
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

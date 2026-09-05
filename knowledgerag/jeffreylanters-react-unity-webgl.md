@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend
+Knowledge/RAG · Games & Graphics · Frontend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ jeffreylanters/react-unity-webgl：jeffreylanters/react-unity-webgl helps make i
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

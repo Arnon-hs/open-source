@@ -1,6 +1,6 @@
 # qinshihu/itops-agent-platform
 
-[![Stars](https://img.shields.io/github/stars/qinshihu/itops-agent-platform?style=flat-square&color=yellow)](https://github.com/qinshihu/itops-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/qinshihu/itops-agent-platform?style=flat-square&color=blue)](https://github.com/qinshihu/itops-agent-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qinshihu/itops-agent-platform?style=flat-square&color=yellow)](https://github.com/qinshihu/itops-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/qinshihu/itops-agent-platform?style=flat-square&color=blue)](https://github.com/qinshihu/itops-agent-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 国内首个企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的智能运维解决方案。ITOps Agent Platform通过可视化工作流编排，将多个AI Agent组合成智能运维自动化流水线，实现服务器管理、告警处理、故障诊断、日志分析、脚本管理、定时运维任务的自动化执行， 支持国内外主流大模型，旨在 Zabbix/Prometheus 告警自动修复闭环，Docker 一键部署
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Observability · DevOps/Infra
+Orchestration · AI/ML · Frontend · Backend · Observability
 
 ## 📝 Summary
 
@@ -100,11 +100,11 @@ ITOps Agent Platform (qinshihu/itops-agent-platform) is China’s first enterpri
 | forks | 47/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

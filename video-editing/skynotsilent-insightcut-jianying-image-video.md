@@ -1,6 +1,6 @@
 # SkyNotSilent/insightcut-jianying-image-video
 
-[![Stars](https://img.shields.io/github/stars/SkyNotSilent/insightcut-jianying-image-video?style=flat-square&color=yellow)](https://github.com/SkyNotSilent/insightcut-jianying-image-video/stargazers) [![Forks](https://img.shields.io/github/forks/SkyNotSilent/insightcut-jianying-image-video?style=flat-square&color=blue)](https://github.com/SkyNotSilent/insightcut-jianying-image-video/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SkyNotSilent/insightcut-jianying-image-video?style=flat-square&color=yellow)](https://github.com/SkyNotSilent/insightcut-jianying-image-video/stargazers) [![Forks](https://img.shields.io/github/forks/SkyNotSilent/insightcut-jianying-image-video?style=flat-square&color=blue)](https://github.com/SkyNotSilent/insightcut-jianying-image-video/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 剪映 / Jianying / CapCut 可编辑图片视频工作台 · InsightCut：文稿转分镜、图片、配音、字幕和可编辑草稿，支持 MP4、素材包与剪映草稿导出。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ InsightCut 是一个基于 Python 的开源工作台，能够通过文稿自动�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

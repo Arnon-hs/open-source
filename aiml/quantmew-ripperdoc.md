@@ -1,6 +1,6 @@
 # quantmew/ripperdoc
 
-[![Stars](https://img.shields.io/github/stars/quantmew/ripperdoc?style=flat-square&color=yellow)](https://github.com/quantmew/ripperdoc/stargazers) [![Forks](https://img.shields.io/github/forks/quantmew/ripperdoc?style=flat-square&color=blue)](https://github.com/quantmew/ripperdoc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quantmew/ripperdoc?style=flat-square&color=yellow)](https://github.com/quantmew/ripperdoc/stargazers) [![Forks](https://img.shields.io/github/forks/quantmew/ripperdoc?style=flat-square&color=blue)](https://github.com/quantmew/ripperdoc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Ripperdoc is an open-source, extensible AI coding agent that runs in your terminal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Ripperdoc 是一个开源、可扩展的 AI 编码助手，能够在终端直接
 | forks | 17/100 |
 | stars | 37/100 |
 | topics | 50/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

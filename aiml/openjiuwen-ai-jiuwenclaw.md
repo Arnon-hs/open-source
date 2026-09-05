@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ openJiuwen-ai/jiuwenclaw：openJiuwen-ai/jiuwenclaw helps add AI capability with
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

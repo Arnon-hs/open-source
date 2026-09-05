@@ -1,6 +1,6 @@
 # unicity-sphere/sphere
 
-[![Stars](https://img.shields.io/github/stars/unicity-sphere/sphere?style=flat-square&color=yellow)](https://github.com/unicity-sphere/sphere/stargazers) [![Forks](https://img.shields.io/github/forks/unicity-sphere/sphere?style=flat-square&color=blue)](https://github.com/unicity-sphere/sphere/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unicity-sphere/sphere?style=flat-square&color=yellow)](https://github.com/unicity-sphere/sphere/stargazers) [![Forks](https://img.shields.io/github/forks/unicity-sphere/sphere?style=flat-square&color=blue)](https://github.com/unicity-sphere/sphere/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A Web3 wallet and agent platform for the Unicity network - dual-layer crypto wallet, DMs, group chat, and marketplace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ unicity-sphere/sphere 帮助开发者构建 Web3 工作流程、检查 blockchai
 | forks | 39/100 |
 | stars | 83/100 |
 | topics | 25/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

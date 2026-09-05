@@ -1,6 +1,6 @@
 # prime-radiant-inc/sprout
 
-[![Stars](https://img.shields.io/github/stars/prime-radiant-inc/sprout?style=flat-square&color=yellow)](https://github.com/prime-radiant-inc/sprout/stargazers) [![Forks](https://img.shields.io/github/forks/prime-radiant-inc/sprout?style=flat-square&color=blue)](https://github.com/prime-radiant-inc/sprout/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prime-radiant-inc/sprout?style=flat-square&color=yellow)](https://github.com/prime-radiant-inc/sprout/stargazers) [![Forks](https://img.shields.io/github/forks/prime-radiant-inc/sprout?style=flat-square&color=blue)](https://github.com/prime-radiant-inc/sprout/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Experimental self-improving multi-agent coding system: a root agent recursively decomposes goals and delegates to specialist subagents, learning from failures by mutating a git-backed agent genome. Supports Claude, GPT, and Gemini.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ prime-radiant-inc/sprout的生产可用性为中等（Medium），适合用于�
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

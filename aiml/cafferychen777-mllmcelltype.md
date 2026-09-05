@@ -1,6 +1,6 @@
 # cafferychen777/mLLMCelltype
 
-[![Stars](https://img.shields.io/github/stars/cafferychen777/mLLMCelltype?style=flat-square&color=yellow)](https://github.com/cafferychen777/mLLMCelltype/stargazers) [![Forks](https://img.shields.io/github/forks/cafferychen777/mLLMCelltype?style=flat-square&color=blue)](https://github.com/cafferychen777/mLLMCelltype/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cafferychen777/mLLMCelltype?style=flat-square&color=yellow)](https://github.com/cafferychen777/mLLMCelltype/stargazers) [![Forks](https://img.shields.io/github/forks/cafferychen777/mLLMCelltype?style=flat-square&color=blue)](https://github.com/cafferychen777/mLLMCelltype/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Cell type annotation for single-cell RNA-seq using multi-LLM consensus
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 641 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ cafferychen777/mLLMCelltype 通过把多个大语言模型（LLM）的预测结�
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

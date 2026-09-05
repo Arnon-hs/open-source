@@ -1,6 +1,6 @@
 # jruby/warbler
 
-[![Stars](https://img.shields.io/github/stars/jruby/warbler?style=flat-square&color=yellow)](https://github.com/jruby/warbler/stargazers) [![Forks](https://img.shields.io/github/forks/jruby/warbler?style=flat-square&color=blue)](https://github.com/jruby/warbler/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jruby/warbler?style=flat-square&color=yellow)](https://github.com/jruby/warbler/stargazers) [![Forks](https://img.shields.io/github/forks/jruby/warbler?style=flat-square&color=blue)](https://github.com/jruby/warbler/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Warbler chirpily constructs .war files of your Ruby applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 898 |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Warbler 的生产可用性为中等（Medium）。它适用于以下场景：
 | forks | 58/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # bcomnes/npm-run-all2
 
-[![Stars](https://img.shields.io/github/stars/bcomnes/npm-run-all2?style=flat-square&color=yellow)](https://github.com/bcomnes/npm-run-all2/stargazers) [![Forks](https://img.shields.io/github/forks/bcomnes/npm-run-all2?style=flat-square&color=blue)](https://github.com/bcomnes/npm-run-all2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bcomnes/npm-run-all2?style=flat-square&color=yellow)](https://github.com/bcomnes/npm-run-all2/stargazers) [![Forks](https://img.shields.io/github/forks/bcomnes/npm-run-all2?style=flat-square&color=blue)](https://github.com/bcomnes/npm-run-all2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ bcomnes/npm-run-all2 的生产可用性为中等。它适用于快速 prototypin
 | forks | 35/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

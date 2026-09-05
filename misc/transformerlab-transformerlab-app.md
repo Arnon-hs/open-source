@@ -1,6 +1,6 @@
 # transformerlab/transformerlab-app
 
-[![Stars](https://img.shields.io/github/stars/transformerlab/transformerlab-app?style=flat-square&color=yellow)](https://github.com/transformerlab/transformerlab-app/stargazers) [![Forks](https://img.shields.io/github/forks/transformerlab/transformerlab-app?style=flat-square&color=blue)](https://github.com/transformerlab/transformerlab-app/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/transformerlab/transformerlab-app?style=flat-square&color=yellow)](https://github.com/transformerlab/transformerlab-app/stargazers) [![Forks](https://img.shields.io/github/forks/transformerlab/transformerlab-app?style=flat-square&color=blue)](https://github.com/transformerlab/transformerlab-app/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 510 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ TransformerLab‑App 是一套开源的 AI 研究环境，帮助科研人员在�
 | forks | 68/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

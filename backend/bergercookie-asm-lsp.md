@@ -1,6 +1,6 @@
 # bergercookie/asm-lsp
 
-[![Stars](https://img.shields.io/github/stars/bergercookie/asm-lsp?style=flat-square&color=yellow)](https://github.com/bergercookie/asm-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/bergercookie/asm-lsp?style=flat-square&color=blue)](https://github.com/bergercookie/asm-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bergercookie/asm-lsp?style=flat-square&color=yellow)](https://github.com/bergercookie/asm-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/bergercookie/asm-lsp?style=flat-square&color=blue)](https://github.com/bergercookie/asm-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Language server for NASM/GAS/GO Assembly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 603 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ bergercookie/asm-lsp 是一个开源项目，提供了 NASM/GAS/GO 汇编语言�
 | forks | 41/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # JustasMonkev/mcp-accessibility-scanner
 
-[![Stars](https://img.shields.io/github/stars/JustasMonkev/mcp-accessibility-scanner?style=flat-square&color=yellow)](https://github.com/JustasMonkev/mcp-accessibility-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/JustasMonkev/mcp-accessibility-scanner?style=flat-square&color=blue)](https://github.com/JustasMonkev/mcp-accessibility-scanner/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JustasMonkev/mcp-accessibility-scanner?style=flat-square&color=yellow)](https://github.com/JustasMonkev/mcp-accessibility-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/JustasMonkev/mcp-accessibility-scanner?style=flat-square&color=blue)](https://github.com/JustasMonkev/mcp-accessibility-scanner/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP (Model Context Protocol) server for performing accessibility audits on webpages using axe-core.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ JustasMonkev/mcp-accessibility-scanner 是一个基于 Model Context Protocol (M
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 38/100 |
-| outlook | 48/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

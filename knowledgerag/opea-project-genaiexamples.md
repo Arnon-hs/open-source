@@ -1,6 +1,6 @@
 # opea-project/GenAIExamples
 
-[![Stars](https://img.shields.io/github/stars/opea-project/GenAIExamples?style=flat-square&color=yellow)](https://github.com/opea-project/GenAIExamples/stargazers) [![Forks](https://img.shields.io/github/forks/opea-project/GenAIExamples?style=flat-square&color=blue)](https://github.com/opea-project/GenAIExamples/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opea-project/GenAIExamples?style=flat-square&color=yellow)](https://github.com/opea-project/GenAIExamples/stargazers) [![Forks](https://img.shields.io/github/forks/opea-project/GenAIExamples?style=flat-square&color=blue)](https://github.com/opea-project/GenAIExamples/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 733 |
 | 🍴 **Forks** | 344 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ opea‑project/GenAIExamples 通过提供 ChatQnA、Copilot 等生成式 AI 示�
 | forks | 63/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

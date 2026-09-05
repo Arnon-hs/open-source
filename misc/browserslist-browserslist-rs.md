@@ -1,6 +1,6 @@
 # browserslist/browserslist-rs
 
-[![Stars](https://img.shields.io/github/stars/browserslist/browserslist-rs?style=flat-square&color=yellow)](https://github.com/browserslist/browserslist-rs/stargazers) [![Forks](https://img.shields.io/github/forks/browserslist/browserslist-rs?style=flat-square&color=blue)](https://github.com/browserslist/browserslist-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browserslist/browserslist-rs?style=flat-square&color=yellow)](https://github.com/browserslist/browserslist-rs/stargazers) [![Forks](https://img.shields.io/github/forks/browserslist/browserslist-rs?style=flat-square&color=blue)](https://github.com/browserslist/browserslist-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-ported Browserslist.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ browserslist/browserslist-rs 的价值在于，它可以帮助开发者在不同
 | forks | 30/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

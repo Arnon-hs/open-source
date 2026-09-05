@@ -1,6 +1,6 @@
 # slackapi/slack-mcp-plugin
 
-[![Stars](https://img.shields.io/github/stars/slackapi/slack-mcp-plugin?style=flat-square&color=yellow)](https://github.com/slackapi/slack-mcp-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/slackapi/slack-mcp-plugin?style=flat-square&color=blue)](https://github.com/slackapi/slack-mcp-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slackapi/slack-mcp-plugin?style=flat-square&color=yellow)](https://github.com/slackapi/slack-mcp-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/slackapi/slack-mcp-plugin?style=flat-square&color=blue)](https://github.com/slackapi/slack-mcp-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code and Cursor plugin that enables your AI tools with a Slack MCP Server and Slack Developer Skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ Slack API 的 Slack MCP Plugin 帮助连接 AI 代理与实用工具和数据之
 | forks | 35/100 |
 | stars | 41/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

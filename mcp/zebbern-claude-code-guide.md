@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 404 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ zebbern/claude-code-guide：zebbern/claude-code-guide helps connect AI assistant
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

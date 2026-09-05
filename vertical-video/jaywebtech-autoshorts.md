@@ -1,6 +1,6 @@
 # JayWebtech/autoshorts
 
-[![Stars](https://img.shields.io/github/stars/JayWebtech/autoshorts?style=flat-square&color=yellow)](https://github.com/JayWebtech/autoshorts/stargazers) [![Forks](https://img.shields.io/github/forks/JayWebtech/autoshorts?style=flat-square&color=blue)](https://github.com/JayWebtech/autoshorts/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JayWebtech/autoshorts?style=flat-square&color=yellow)](https://github.com/JayWebtech/autoshorts/stargazers) [![Forks](https://img.shields.io/github/forks/JayWebtech/autoshorts?style=flat-square&color=blue)](https://github.com/JayWebtech/autoshorts/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 638 |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ AutoShorts 的生产可用性为中等（Medium），适合用于快速 prototyp
 | forks | 54/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # 910dei184241-ui/solcex-autonomous-vanguard
 
-[![Stars](https://img.shields.io/github/stars/910dei184241-ui/solcex-autonomous-vanguard?style=flat-square&color=yellow)](https://github.com/910dei184241-ui/solcex-autonomous-vanguard/stargazers) [![Forks](https://img.shields.io/github/forks/910dei184241-ui/solcex-autonomous-vanguard?style=flat-square&color=blue)](https://github.com/910dei184241-ui/solcex-autonomous-vanguard/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/910dei184241-ui/solcex-autonomous-vanguard?style=flat-square&color=yellow)](https://github.com/910dei184241-ui/solcex-autonomous-vanguard/stargazers) [![Forks](https://img.shields.io/github/forks/910dei184241-ui/solcex-autonomous-vanguard?style=flat-square&color=blue)](https://github.com/910dei184241-ui/solcex-autonomous-vanguard/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI BD Agent for SolCex Exchange: 24/7 Cross-Chain Token Scoring & Payments 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ If these steps are completed, the project can transition from a sandbox tool to 
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

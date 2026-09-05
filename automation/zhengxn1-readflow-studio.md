@@ -1,6 +1,6 @@
 # zhengxn1/readflow-studio
 
-[![Stars](https://img.shields.io/github/stars/zhengxn1/readflow-studio?style=flat-square&color=yellow)](https://github.com/zhengxn1/readflow-studio/stargazers) [![Forks](https://img.shields.io/github/forks/zhengxn1/readflow-studio?style=flat-square&color=blue)](https://github.com/zhengxn1/readflow-studio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhengxn1/readflow-studio?style=flat-square&color=yellow)](https://github.com/zhengxn1/readflow-studio/stargazers) [![Forks](https://img.shields.io/github/forks/zhengxn1/readflow-studio?style=flat-square&color=blue)](https://github.com/zhengxn1/readflow-studio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Obsidian 阅读知识库到可编辑剪映草稿的自动化工作流
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ zhengxn1/readflow-studio：zhengxn1/readflow-studio helps remove repetitive manu
 | forks | 26/100 |
 | stars | 28/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 80/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 61/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

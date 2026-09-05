@@ -1,6 +1,6 @@
 # software-mansion-labs/legion
 
-[![Stars](https://img.shields.io/github/stars/software-mansion-labs/legion?style=flat-square&color=yellow)](https://github.com/software-mansion-labs/legion/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion-labs/legion?style=flat-square&color=blue)](https://github.com/software-mansion-labs/legion/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/software-mansion-labs/legion?style=flat-square&color=yellow)](https://github.com/software-mansion-labs/legion/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion-labs/legion?style=flat-square&color=blue)](https://github.com/software-mansion-labs/legion/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Elixir-native framework for building runtime AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Legion 是一个基于 Elixir 的原生框架，用于快速构建运行时 AI �
 | forks | 8/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 39/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

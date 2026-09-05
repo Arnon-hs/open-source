@@ -1,6 +1,6 @@
 # Agentic-Analyst/stock-analyst
 
-[![Stars](https://img.shields.io/github/stars/Agentic-Analyst/stock-analyst?style=flat-square&color=yellow)](https://github.com/Agentic-Analyst/stock-analyst/stargazers) [![Forks](https://img.shields.io/github/forks/Agentic-Analyst/stock-analyst?style=flat-square&color=blue)](https://github.com/Agentic-Analyst/stock-analyst/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agentic-Analyst/stock-analyst?style=flat-square&color=yellow)](https://github.com/Agentic-Analyst/stock-analyst/stargazers) [![Forks](https://img.shields.io/github/forks/Agentic-Analyst/stock-analyst?style=flat-square&color=blue)](https://github.com/Agentic-Analyst/stock-analyst/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > VYNN AI Agent Backend is a standalone agent execution system for financial analysis. It orchestrates LLM-based agents to scrape historical financial data, build valuation models, analyze real-time financial news, and generate structured financial reports, with a focus on modularity and reproducible execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Agentic-Analyst/stock-analyst 是一个基于 Python 的独立 AI Agent 执行�
 | forks | 15/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

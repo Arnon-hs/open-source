@@ -1,6 +1,6 @@
 # fossar/selfoss
 
-[![Stars](https://img.shields.io/github/stars/fossar/selfoss?style=flat-square&color=yellow)](https://github.com/fossar/selfoss/stargazers) [![Forks](https://img.shields.io/github/forks/fossar/selfoss?style=flat-square&color=blue)](https://github.com/fossar/selfoss/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fossar/selfoss?style=flat-square&color=yellow)](https://github.com/fossar/selfoss/stargazers) [![Forks](https://img.shields.io/github/forks/fossar/selfoss?style=flat-square&color=blue)](https://github.com/fossar/selfoss/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > multipurpose rss reader, live stream, mashup, aggregation web application
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 338 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ fossar/selfoss 是一款功能丰富的 RSS/实时流聚合平台，能够把多
 | forks | 63/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

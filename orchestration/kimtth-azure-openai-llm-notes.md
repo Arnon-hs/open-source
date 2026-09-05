@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ kimtth/azure-openai-llm-notes 是一个精心策划的 Azure OpenAI 与 LLM（�
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

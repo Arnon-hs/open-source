@@ -1,6 +1,6 @@
 # Nigh/show-me-the-story
 
-[![Stars](https://img.shields.io/github/stars/Nigh/show-me-the-story?style=flat-square&color=yellow)](https://github.com/Nigh/show-me-the-story/stargazers) [![Forks](https://img.shields.io/github/forks/Nigh/show-me-the-story?style=flat-square&color=blue)](https://github.com/Nigh/show-me-the-story/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nigh/show-me-the-story?style=flat-square&color=yellow)](https://github.com/Nigh/show-me-the-story/stargazers) [![Forks](https://img.shields.io/github/forks/Nigh/show-me-the-story?style=flat-square&color=blue)](https://github.com/Nigh/show-me-the-story/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Nigh/show-me-the-story 通过一个单一的 Go 可执行文件和配套的 Web 
 | forks | 32/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

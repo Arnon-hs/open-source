@@ -1,6 +1,6 @@
 # therealarthur/myrlin-workbook
 
-[![Stars](https://img.shields.io/github/stars/therealarthur/myrlin-workbook?style=flat-square&color=yellow)](https://github.com/therealarthur/myrlin-workbook/stargazers) [![Forks](https://img.shields.io/github/forks/therealarthur/myrlin-workbook?style=flat-square&color=blue)](https://github.com/therealarthur/myrlin-workbook/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/therealarthur/myrlin-workbook?style=flat-square&color=yellow)](https://github.com/therealarthur/myrlin-workbook/stargazers) [![Forks](https://img.shields.io/github/forks/therealarthur/myrlin-workbook?style=flat-square&color=blue)](https://github.com/therealarthur/myrlin-workbook/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Workspace manager for Claude Code sessions. Embedded terminals, project discovery, drag-and-drop organization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ therealarthur/myrlin-workbook 是一个面向 Claude Code 会话的工作空间�
 | forks | 41/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 42/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

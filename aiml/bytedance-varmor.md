@@ -1,6 +1,6 @@
 # bytedance/vArmor
 
-[![Stars](https://img.shields.io/github/stars/bytedance/vArmor?style=flat-square&color=yellow)](https://github.com/bytedance/vArmor/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/vArmor?style=flat-square&color=blue)](https://github.com/bytedance/vArmor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytedance/vArmor?style=flat-square&color=yellow)](https://github.com/bytedance/vArmor/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/vArmor?style=flat-square&color=blue)](https://github.com/bytedance/vArmor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and network proxy technologies to enforce access control from system calls to application protocols — protecting workloads including AI Agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 472 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Security
+AI/ML · Cloud & Storage · Networking · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ bytedance/vArmor 是一套云原生容器硬化系统，基于 AppArmor、BPF、
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

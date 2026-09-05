@@ -1,6 +1,6 @@
 # vstorm-co/summarization-pydantic-ai
 
-[![Stars](https://img.shields.io/github/stars/vstorm-co/summarization-pydantic-ai?style=flat-square&color=yellow)](https://github.com/vstorm-co/summarization-pydantic-ai/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/summarization-pydantic-ai?style=flat-square&color=blue)](https://github.com/vstorm-co/summarization-pydantic-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vstorm-co/summarization-pydantic-ai?style=flat-square&color=yellow)](https://github.com/vstorm-co/summarization-pydantic-ai/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/summarization-pydantic-ai?style=flat-square&color=blue)](https://github.com/vstorm-co/summarization-pydantic-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Context Management processor for Pydantic AI agents, providing LLM-powered summarization or zero-cost sliding window trimming to handle infinite/long-running conversations without context overflow. Supports flexible triggers, safe cutoffs, and custom prompts for efficient AI apps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ vstorm-co/summarization-pydantic-ai 是一款基于 Pydantic AI Agent 的上下�
 | forks | 27/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

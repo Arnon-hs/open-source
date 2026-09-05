@@ -1,6 +1,6 @@
 # ReneNulschDE/mbapi2020
 
-[![Stars](https://img.shields.io/github/stars/ReneNulschDE/mbapi2020?style=flat-square&color=yellow)](https://github.com/ReneNulschDE/mbapi2020/stargazers) [![Forks](https://img.shields.io/github/forks/ReneNulschDE/mbapi2020?style=flat-square&color=blue)](https://github.com/ReneNulschDE/mbapi2020/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReneNulschDE/mbapi2020?style=flat-square&color=yellow)](https://github.com/ReneNulschDE/mbapi2020/stargazers) [![Forks](https://img.shields.io/github/forks/ReneNulschDE/mbapi2020?style=flat-square&color=blue)](https://github.com/ReneNulschDE/mbapi2020/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ReneNulschDE/mbapi2020 是一个开源项目，用于将 Mercedes-Benz 车辆整
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter
 
-[![Stars](https://img.shields.io/github/stars/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter?style=flat-square&color=yellow)](https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter/stargazers) [![Forks](https://img.shields.io/github/forks/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter?style=flat-square&color=blue)](https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter?style=flat-square&color=yellow)](https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter/stargazers) [![Forks](https://img.shields.io/github/forks/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter?style=flat-square&color=blue)](https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Enrich your fluentd events with Kubernetes metadata
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ fluent-plugin-kubernetes_metadata_filter
 | forks | 56/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

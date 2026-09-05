@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ signal18/replication-manager：signal18/replication-manager helps teams persist,
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

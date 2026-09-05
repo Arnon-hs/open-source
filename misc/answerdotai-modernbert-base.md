@@ -1,6 +1,6 @@
 # answerdotai/ModernBERT-base
 
-[![Stars](https://img.shields.io/github/stars/answerdotai/ModernBERT-base?style=flat-square&color=yellow)](https://huggingface.co/answerdotai/ModernBERT-base/stargazers) [![Forks](https://img.shields.io/github/forks/answerdotai/ModernBERT-base?style=flat-square&color=blue)](https://huggingface.co/answerdotai/ModernBERT-base/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/answerdotai/ModernBERT-base?style=flat-square&color=yellow)](https://huggingface.co/answerdotai/ModernBERT-base/stargazers) [![Forks](https://img.shields.io/github/forks/answerdotai/ModernBERT-base?style=flat-square&color=blue)](https://huggingface.co/answerdotai/ModernBERT-base/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Masked language models (fill-mask) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ answerdotai/ModernBERT-base 是一个流行的开源模型，用于 Masked 语�
 | forks | 0/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 38/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 38/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

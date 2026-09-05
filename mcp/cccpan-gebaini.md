@@ -1,6 +1,6 @@
 # CCCpan/Gebaini
 
-[![Stars](https://img.shields.io/github/stars/CCCpan/Gebaini?style=flat-square&color=yellow)](https://github.com/CCCpan/Gebaini/stargazers) [![Forks](https://img.shields.io/github/forks/CCCpan/Gebaini?style=flat-square&color=blue)](https://github.com/CCCpan/Gebaini/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CCCpan/Gebaini?style=flat-square&color=yellow)](https://github.com/CCCpan/Gebaini/stargazers) [![Forks](https://img.shields.io/github/forks/CCCpan/Gebaini?style=flat-square&color=blue)](https://github.com/CCCpan/Gebaini/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Gebaini —— 身份证/证件 OCR 字段识别与图像矫正 + 滑动验证码自动识别,支持 finetune 微调、API 调用与 Chrome 浏览器插件,可私有化部署(百度飞桨在线运行) | 微信: chenganp | 邮箱: 345048305@qq.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -115,15 +115,15 @@ Gebaini 是一款基于 PaddlePaddle 的开源 OCR 工具，专注于身份证�
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

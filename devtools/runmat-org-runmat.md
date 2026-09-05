@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Data
 
 ## 📝 Summary
 
@@ -35,17 +35,15 @@ Runmat — это открытый runtime, позволяющий писат�
 
 ### 中文
 
-runmat-org/runmat：runmat-org/runmat helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+runmat-org/runmat：runmat-org/runmat may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** runmat-org/runmat helps engineers save time in daily development and review loops.
+**Value:** runmat-org/runmat may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- Not enough metadata yet.
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +63,18 @@ runmat-org/runmat：runmat-org/runmat helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 42/100 |
-| stars | 49/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

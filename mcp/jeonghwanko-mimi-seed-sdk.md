@@ -1,6 +1,6 @@
 # jeonghwanko/mimi-seed-sdk
 
-[![Stars](https://img.shields.io/github/stars/jeonghwanko/mimi-seed-sdk?style=flat-square&color=yellow)](https://github.com/jeonghwanko/mimi-seed-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/jeonghwanko/mimi-seed-sdk?style=flat-square&color=blue)](https://github.com/jeonghwanko/mimi-seed-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeonghwanko/mimi-seed-sdk?style=flat-square&color=yellow)](https://github.com/jeonghwanko/mimi-seed-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/jeonghwanko/mimi-seed-sdk?style=flat-square&color=blue)](https://github.com/jeonghwanko/mimi-seed-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code MCP로 연결하는 인디 개발자 앱 출시 자동화 콘솔 — CLI + MCP Server (65+ 도구)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools
+MCP · AI/ML · Backend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ jeonghwanko/mimi-seed-sdk 是一个基于 TypeScript 的 CLI + MCP Server 工具
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

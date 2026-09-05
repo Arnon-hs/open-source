@@ -1,6 +1,6 @@
 # yc-duan/fastctx
 
-[![Stars](https://img.shields.io/github/stars/yc-duan/fastctx?style=flat-square&color=yellow)](https://github.com/yc-duan/fastctx/stargazers) [![Forks](https://img.shields.io/github/forks/yc-duan/fastctx?style=flat-square&color=blue)](https://github.com/yc-duan/fastctx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yc-duan/fastctx?style=flat-square&color=yellow)](https://github.com/yc-duan/fastctx/stargazers) [![Forks](https://img.shields.io/github/forks/yc-duan/fastctx?style=flat-square&color=blue)](https://github.com/yc-duan/fastctx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, context-efficient repository tools for AI agents (MCP)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ yc-duan/fastctx 的主要价值在于帮助连接 AI 代理与真实工具和数
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

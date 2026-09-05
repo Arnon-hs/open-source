@@ -1,6 +1,6 @@
 # vinceliuice/WhiteSur-gtk-theme
 
-[![Stars](https://img.shields.io/github/stars/vinceliuice/WhiteSur-gtk-theme?style=flat-square&color=yellow)](https://github.com/vinceliuice/WhiteSur-gtk-theme/stargazers) [![Forks](https://img.shields.io/github/forks/vinceliuice/WhiteSur-gtk-theme?style=flat-square&color=blue)](https://github.com/vinceliuice/WhiteSur-gtk-theme/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinceliuice/WhiteSur-gtk-theme?style=flat-square&color=yellow)](https://github.com/vinceliuice/WhiteSur-gtk-theme/stargazers) [![Forks](https://img.shields.io/github/forks/vinceliuice/WhiteSur-gtk-theme?style=flat-square&color=blue)](https://github.com/vinceliuice/WhiteSur-gtk-theme/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MacOS like theme for all gtk based desktops
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 734 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Misc
 | forks | 72/100 |
 | stars | 84/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

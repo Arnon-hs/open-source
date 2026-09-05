@@ -1,6 +1,6 @@
 # harfbuzz/harfbuzz
 
-[![Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz?style=flat-square&color=yellow)](https://github.com/harfbuzz/harfbuzz/stargazers) [![Forks](https://img.shields.io/github/forks/harfbuzz/harfbuzz?style=flat-square&color=blue)](https://github.com/harfbuzz/harfbuzz/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz?style=flat-square&color=yellow)](https://github.com/harfbuzz/harfbuzz/stargazers) [![Forks](https://img.shields.io/github/forks/harfbuzz/harfbuzz?style=flat-square&color=blue)](https://github.com/harfbuzz/harfbuzz/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > HarfBuzz text shaping engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 767 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ HarfBuzz 的生产可用性评估为高（High），因为：
 | forks | 72/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 80/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 67/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

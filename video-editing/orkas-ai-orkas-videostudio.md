@@ -1,6 +1,6 @@
 # Orkas-AI/Orkas-VideoStudio
 
-[![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=flat-square&color=yellow)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers) [![Forks](https://img.shields.io/github/forks/Orkas-AI/Orkas-VideoStudio?style=flat-square&color=blue)](https://github.com/Orkas-AI/Orkas-VideoStudio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=flat-square&color=yellow)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers) [![Forks](https://img.shields.io/github/forks/Orkas-AI/Orkas-VideoStudio?style=flat-square&color=blue)](https://github.com/Orkas-AI/Orkas-VideoStudio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Orkas-AI/Orkas-VideoStudio 具有高生产可用性，主要原因包括：
 | forks | 29/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

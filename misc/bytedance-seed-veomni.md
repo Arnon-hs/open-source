@@ -1,6 +1,6 @@
 # ByteDance-Seed/VeOmni
 
-[![Stars](https://img.shields.io/github/stars/ByteDance-Seed/VeOmni?style=flat-square&color=yellow)](https://github.com/ByteDance-Seed/VeOmni/stargazers) [![Forks](https://img.shields.io/github/forks/ByteDance-Seed/VeOmni?style=flat-square&color=blue)](https://github.com/ByteDance-Seed/VeOmni/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ByteDance-Seed/VeOmni?style=flat-square&color=yellow)](https://github.com/ByteDance-Seed/VeOmni/stargazers) [![Forks](https://img.shields.io/github/forks/ByteDance-Seed/VeOmni?style=flat-square&color=blue)](https://github.com/ByteDance-Seed/VeOmni/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ VeOmni（ByteDance-Seed/VeOmni）是一个面向多模态模型训练的分布�
 | forks | 57/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

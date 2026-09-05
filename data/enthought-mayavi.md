@@ -1,6 +1,6 @@
 # enthought/mayavi
 
-[![Stars](https://img.shields.io/github/stars/enthought/mayavi?style=flat-square&color=yellow)](https://github.com/enthought/mayavi/stargazers) [![Forks](https://img.shields.io/github/forks/enthought/mayavi?style=flat-square&color=blue)](https://github.com/enthought/mayavi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enthought/mayavi?style=flat-square&color=yellow)](https://github.com/enthought/mayavi/stargazers) [![Forks](https://img.shields.io/github/forks/enthought/mayavi?style=flat-square&color=blue)](https://github.com/enthought/mayavi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 3D visualization of scientific data in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Enthought/mayavi 的生产可用性为中等，适合用于原型或内部工作
 | forks | 63/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

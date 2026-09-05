@@ -1,6 +1,6 @@
 # rcarmo/vibes
 
-[![Stars](https://img.shields.io/github/stars/rcarmo/vibes?style=flat-square&color=yellow)](https://github.com/rcarmo/vibes/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/vibes?style=flat-square&color=blue)](https://github.com/rcarmo/vibes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rcarmo/vibes?style=flat-square&color=yellow)](https://github.com/rcarmo/vibes/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/vibes?style=flat-square&color=blue)](https://github.com/rcarmo/vibes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A simple mobile-focused chat app to talk to an agent via the ACP protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ rcarmo/vibes 是一款面向移动端的轻量级聊天应用，使用 ACP（Age
 | forks | 17/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

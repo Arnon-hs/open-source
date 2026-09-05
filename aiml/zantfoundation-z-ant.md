@@ -1,6 +1,6 @@
 # ZantFoundation/Z-Ant
 
-[![Stars](https://img.shields.io/github/stars/ZantFoundation/Z-Ant?style=flat-square&color=yellow)](https://github.com/ZantFoundation/Z-Ant/stargazers) [![Forks](https://img.shields.io/github/forks/ZantFoundation/Z-Ant?style=flat-square&color=blue)](https://github.com/ZantFoundation/Z-Ant/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZantFoundation/Z-Ant?style=flat-square&color=yellow)](https://github.com/ZantFoundation/Z-Ant/stargazers) [![Forks](https://img.shields.io/github/forks/ZantFoundation/Z-Ant?style=flat-square&color=blue)](https://github.com/ZantFoundation/Z-Ant/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Zant simplifies the deployment and optimization of neural networks on microprocessors
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ ZantFoundation/Z-Ant 的生产可用性为中等（Medium）。它适合用于�
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

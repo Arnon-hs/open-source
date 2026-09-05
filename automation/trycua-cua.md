@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 977 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ trycua/cua：trycua/cua helps remove repetitive manual operations from a workflo
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

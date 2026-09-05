@@ -1,6 +1,6 @@
 # Future-House/paper-qa
 
-[![Stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=flat-square&color=yellow)](https://github.com/Future-House/paper-qa/stargazers) [![Forks](https://img.shields.io/github/forks/Future-House/paper-qa?style=flat-square&color=blue)](https://github.com/Future-House/paper-qa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=flat-square&color=yellow)](https://github.com/Future-House/paper-qa/stargazers) [![Forks](https://img.shields.io/github/forks/Future-House/paper-qa?style=flat-square&color=blue)](https://github.com/Future-House/paper-qa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > High accuracy RAG for answering questions from scientific documents with citations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 886 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Future‑House/paper‑qa 是一个基于高精度 RAG（检索‑增强‑生�
 | forks | 74/100 |
 | stars | 84/100 |
 | topics | 50/100 |
-| outlook | 61/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

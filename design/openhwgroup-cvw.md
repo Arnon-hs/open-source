@@ -1,6 +1,6 @@
 # openhwgroup/cvw
 
-[![Stars](https://img.shields.io/github/stars/openhwgroup/cvw?style=flat-square&color=yellow)](https://github.com/openhwgroup/cvw/stargazers) [![Forks](https://img.shields.io/github/forks/openhwgroup/cvw?style=flat-square&color=blue)](https://github.com/openhwgroup/cvw/network) [![Language](https://img.shields.io/badge/lang-SystemVerilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openhwgroup/cvw?style=flat-square&color=yellow)](https://github.com/openhwgroup/cvw/stargazers) [![Forks](https://img.shields.io/github/forks/openhwgroup/cvw?style=flat-square&color=blue)](https://github.com/openhwgroup/cvw/network) [![Language](https://img.shields.io/badge/lang-SystemVerilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 553 |
 | 🍴 **Forks** | 530 |
 | 💻 **Language** | SystemVerilog |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ CORE‑V Wally 是一款可配置的 RISC‑V 处理器，实现了 5 级流�
 | forks | 68/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ProfessionalWiki/MediaWiki-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/ProfessionalWiki/MediaWiki-MCP-Server?style=flat-square&color=yellow)](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/ProfessionalWiki/MediaWiki-MCP-Server?style=flat-square&color=blue)](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProfessionalWiki/MediaWiki-MCP-Server?style=flat-square&color=yellow)](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/ProfessionalWiki/MediaWiki-MCP-Server?style=flat-square&color=blue)](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) Server to connect your AI with any MediaWiki
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ProfessionalWiki/MediaWiki‑MCP‑Server 是一个基于 Model Context Protocol
 | forks | 35/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

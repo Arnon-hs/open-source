@@ -1,6 +1,6 @@
 # UI5/sample-app
 
-[![Stars](https://img.shields.io/github/stars/UI5/sample-app?style=flat-square&color=yellow)](https://github.com/UI5/sample-app/stargazers) [![Forks](https://img.shields.io/github/forks/UI5/sample-app?style=flat-square&color=blue)](https://github.com/UI5/sample-app/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UI5/sample-app?style=flat-square&color=yellow)](https://github.com/UI5/sample-app/stargazers) [![Forks](https://img.shields.io/github/forks/UI5/sample-app?style=flat-square&color=blue)](https://github.com/UI5/sample-app/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OpenUI5 Sample App
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ UI5/sample-app 的生产可用性为中等。它适合用于原型开发和内�
 | forks | 59/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

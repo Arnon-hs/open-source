@@ -1,6 +1,6 @@
 # GRCEngClub/claude-grc-engineering
 
-[![Stars](https://img.shields.io/github/stars/GRCEngClub/claude-grc-engineering?style=flat-square&color=yellow)](https://github.com/GRCEngClub/claude-grc-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/GRCEngClub/claude-grc-engineering?style=flat-square&color=blue)](https://github.com/GRCEngClub/claude-grc-engineering/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GRCEngClub/claude-grc-engineering?style=flat-square&color=yellow)](https://github.com/GRCEngClub/claude-grc-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/GRCEngClub/claude-grc-engineering?style=flat-square&color=blue)](https://github.com/GRCEngClub/claude-grc-engineering/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source GRC toolkit from the GRC Engineering Club. Claude Code plugins for evidence collection, SCF crosswalks, multi-framework gap reports, OSCAL workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ GRCEngClub/claude-grc-engineering 的价值在于帮助减少工作流中的重�
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

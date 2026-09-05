@@ -1,6 +1,6 @@
 # diggerhq/opencomputer
 
-[![Stars](https://img.shields.io/github/stars/diggerhq/opencomputer?style=flat-square&color=yellow)](https://github.com/diggerhq/opencomputer/stargazers) [![Forks](https://img.shields.io/github/forks/diggerhq/opencomputer?style=flat-square&color=blue)](https://github.com/diggerhq/opencomputer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diggerhq/opencomputer?style=flat-square&color=yellow)](https://github.com/diggerhq/opencomputer/stargazers) [![Forks](https://img.shields.io/github/forks/diggerhq/opencomputer?style=flat-square&color=blue)](https://github.com/diggerhq/opencomputer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Secure cloud computers for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ diggerhq/opencomputer 提供安全的云计算环境，专为 AI 代理设计，
 | forks | 31/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

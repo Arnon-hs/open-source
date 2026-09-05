@@ -1,6 +1,6 @@
 # quartz-scheduler/quartz
 
-[![Stars](https://img.shields.io/github/stars/quartz-scheduler/quartz?style=flat-square&color=yellow)](https://github.com/quartz-scheduler/quartz/stargazers) [![Forks](https://img.shields.io/github/forks/quartz-scheduler/quartz?style=flat-square&color=blue)](https://github.com/quartz-scheduler/quartz/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quartz-scheduler/quartz?style=flat-square&color=yellow)](https://github.com/quartz-scheduler/quartz/stargazers) [![Forks](https://img.shields.io/github/forks/quartz-scheduler/quartz?style=flat-square&color=blue)](https://github.com/quartz-scheduler/quartz/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Code for Quartz Scheduler
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Quartz Scheduler 的生产可用性为中等。虽然它是一个有用的工具
 | forks | 82/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

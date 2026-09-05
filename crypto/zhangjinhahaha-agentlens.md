@@ -1,6 +1,6 @@
 # ZhangJinHaHaHa/AgentLens
 
-[![Stars](https://img.shields.io/github/stars/ZhangJinHaHaHa/AgentLens?style=flat-square&color=yellow)](https://github.com/ZhangJinHaHaHa/AgentLens/stargazers) [![Forks](https://img.shields.io/github/forks/ZhangJinHaHaHa/AgentLens?style=flat-square&color=blue)](https://github.com/ZhangJinHaHaHa/AgentLens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhangJinHaHaHa/AgentLens?style=flat-square&color=yellow)](https://github.com/ZhangJinHaHaHa/AgentLens/stargazers) [![Forks](https://img.shields.io/github/forks/ZhangJinHaHaHa/AgentLens?style=flat-square&color=blue)](https://github.com/ZhangJinHaHaHa/AgentLens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Agentlens is a trusted agent trading platform.  Here, you can quickly find the Agent that meets your needs, and you can also publish your own Agent to turn it into your digital asset.  We encourage everyone to transform their areas of expertise into Agents and turn them into digital assets, allowing others to see your unique strengths.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 718 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ AgentLens（ZhangJinHaHaHa/AgentLens）是一个可信的智能体交易平台�
 | forks | 42/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

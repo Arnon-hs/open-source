@@ -1,6 +1,6 @@
 # echoVic/blade-code
 
-[![Stars](https://img.shields.io/github/stars/echoVic/blade-code?style=flat-square&color=yellow)](https://github.com/echoVic/blade-code/stargazers) [![Forks](https://img.shields.io/github/forks/echoVic/blade-code?style=flat-square&color=blue)](https://github.com/echoVic/blade-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/echoVic/blade-code?style=flat-square&color=yellow)](https://github.com/echoVic/blade-code/stargazers) [![Forks](https://img.shields.io/github/forks/echoVic/blade-code?style=flat-square&color=blue)](https://github.com/echoVic/blade-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered CLI coding agent with 20+ built-in tools, MCP support, and multi-model providers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ echoVic/blade-code 的生产可用性很高，主要原因是它最近的活动�
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

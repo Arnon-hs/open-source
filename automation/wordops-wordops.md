@@ -1,6 +1,6 @@
 # WordOps/WordOps
 
-[![Stars](https://img.shields.io/github/stars/WordOps/WordOps?style=flat-square&color=yellow)](https://github.com/WordOps/WordOps/stargazers) [![Forks](https://img.shields.io/github/forks/WordOps/WordOps?style=flat-square&color=blue)](https://github.com/WordOps/WordOps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WordOps/WordOps?style=flat-square&color=yellow)](https://github.com/WordOps/WordOps/stargazers) [![Forks](https://img.shields.io/github/forks/WordOps/WordOps?style=flat-square&color=blue)](https://github.com/WordOps/WordOps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Install and manage a high performance WordPress stack with a few keystrokes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools · Database
+Automation · Networking · Backend · DevTools · Database
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ WordOps 是一套基于 Python 的自动化工具，只需几行命令即可在�
 | forks | 59/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

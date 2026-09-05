@@ -1,6 +1,6 @@
 # uriyyo/fastapi-pagination
 
-[![Stars](https://img.shields.io/github/stars/uriyyo/fastapi-pagination?style=flat-square&color=yellow)](https://github.com/uriyyo/fastapi-pagination/stargazers) [![Forks](https://img.shields.io/github/forks/uriyyo/fastapi-pagination?style=flat-square&color=blue)](https://github.com/uriyyo/fastapi-pagination/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uriyyo/fastapi-pagination?style=flat-square&color=yellow)](https://github.com/uriyyo/fastapi-pagination/stargazers) [![Forks](https://img.shields.io/github/forks/uriyyo/fastapi-pagination?style=flat-square&color=blue)](https://github.com/uriyyo/fastapi-pagination/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > FastAPI pagination 📖
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ uriyyo/fastapi-pagination 是一个开源项目，旨在为 FastAPI 提供分页
 | forks | 55/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

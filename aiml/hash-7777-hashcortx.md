@@ -1,6 +1,6 @@
 # Hash-7777/HashCortX
 
-[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&color=yellow)](https://github.com/Hash-7777/HashCortX/stargazers) [![Forks](https://img.shields.io/github/forks/Hash-7777/HashCortX?style=flat-square&color=blue)](https://github.com/Hash-7777/HashCortX/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&color=yellow)](https://github.com/Hash-7777/HashCortX/stargazers) [![Forks](https://img.shields.io/github/forks/Hash-7777/HashCortX?style=flat-square&color=blue)](https://github.com/Hash-7777/HashCortX/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > HashCortX is an AI desktop agent UI app. Made by a pharmacist & beginner vibe coder. Modes: Code, finance, swarm & forge modes. Supports 10+ providers — your keys stay in your keychain, your files never leave your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ HashCortX 是一款面向桌面的 AI 助手 UI 应用，由药师兼入门级�
 | forks | 28/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

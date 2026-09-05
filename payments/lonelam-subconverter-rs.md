@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · Networking
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ lonelam/subconverter-rs：lonelam/subconverter-rs helps integrate monetization, 
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

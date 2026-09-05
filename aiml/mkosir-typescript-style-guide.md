@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ mkosir/typescript-style-guide：mkosir/typescript-style-guide helps add AI capab
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

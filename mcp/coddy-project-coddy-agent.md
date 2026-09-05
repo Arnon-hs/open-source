@@ -1,6 +1,6 @@
 # coddy-project/coddy-agent
 
-[![Stars](https://img.shields.io/github/stars/coddy-project/coddy-agent?style=flat-square&color=yellow)](https://github.com/coddy-project/coddy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/coddy-project/coddy-agent?style=flat-square&color=blue)](https://github.com/coddy-project/coddy-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coddy-project/coddy-agent?style=flat-square&color=yellow)](https://github.com/coddy-project/coddy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/coddy-project/coddy-agent?style=flat-square&color=blue)](https://github.com/coddy-project/coddy-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source distroless harness coding agent in Go. Has embedded WebUI. Works with any IDE via ACP and with OpenAI clients via OpenAI-compatible REST API. Supports any OpenAI-compatible providers. Can use SKILLS and MCP servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ coddy-project/coddy-agent 的生产可用性高，原因如下：
 | forks | 25/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

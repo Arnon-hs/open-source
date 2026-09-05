@@ -1,6 +1,6 @@
 # hope1026/weppy-roblox-mcp
 
-[![Stars](https://img.shields.io/github/stars/hope1026/weppy-roblox-mcp?style=flat-square&color=yellow)](https://github.com/hope1026/weppy-roblox-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/hope1026/weppy-roblox-mcp?style=flat-square&color=blue)](https://github.com/hope1026/weppy-roblox-mcp/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hope1026/weppy-roblox-mcp?style=flat-square&color=yellow)](https://github.com/hope1026/weppy-roblox-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/hope1026/weppy-roblox-mcp?style=flat-square&color=blue)](https://github.com/hope1026/weppy-roblox-mcp/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Roblox Studio MCP server & plugin for Claude Code, Cursor, Codex, and Gemini. AI-powered scripts, terrain, assets, lighting, and bidirectional project sync.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ hope1026/weppy-roblox-mcp 是一个在 Roblox Studio 中运行的 MCP（Model�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

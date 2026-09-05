@@ -1,6 +1,6 @@
 # bufbuild/hyperpb-go
 
-[![Stars](https://img.shields.io/github/stars/bufbuild/hyperpb-go?style=flat-square&color=yellow)](https://github.com/bufbuild/hyperpb-go/stargazers) [![Forks](https://img.shields.io/github/forks/bufbuild/hyperpb-go?style=flat-square&color=blue)](https://github.com/bufbuild/hyperpb-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bufbuild/hyperpb-go?style=flat-square&color=yellow)](https://github.com/bufbuild/hyperpb-go/stargazers) [![Forks](https://img.shields.io/github/forks/bufbuild/hyperpb-go?style=flat-square&color=blue)](https://github.com/bufbuild/hyperpb-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 679 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ bufbuild/hyperpb-go 是一个开源项目，提供了高性能的 Protobuf 解�
 | forks | 31/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

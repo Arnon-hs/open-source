@@ -1,6 +1,6 @@
 # kunchenguid/chrome-devtools-axi
 
-[![Stars](https://img.shields.io/github/stars/kunchenguid/chrome-devtools-axi?style=flat-square&color=yellow)](https://github.com/kunchenguid/chrome-devtools-axi/stargazers) [![Forks](https://img.shields.io/github/forks/kunchenguid/chrome-devtools-axi?style=flat-square&color=blue)](https://github.com/kunchenguid/chrome-devtools-axi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kunchenguid/chrome-devtools-axi?style=flat-square&color=yellow)](https://github.com/kunchenguid/chrome-devtools-axi/stargazers) [![Forks](https://img.shields.io/github/forks/kunchenguid/chrome-devtools-axi?style=flat-square&color=blue)](https://github.com/kunchenguid/chrome-devtools-axi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The most agent-ergonomic browser automation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ kunchenguid/chrome-devtools-axi 是一个开源项目，旨在简化浏览器自
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

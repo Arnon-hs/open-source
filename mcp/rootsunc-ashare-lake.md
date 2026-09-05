@@ -1,6 +1,6 @@
 # rootSunc/ashare-lake
 
-[![Stars](https://img.shields.io/github/stars/rootSunc/ashare-lake?style=flat-square&color=yellow)](https://github.com/rootSunc/ashare-lake/stargazers) [![Forks](https://img.shields.io/github/forks/rootSunc/ashare-lake?style=flat-square&color=blue)](https://github.com/rootSunc/ashare-lake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rootSunc/ashare-lake?style=flat-square&color=yellow)](https://github.com/rootSunc/ashare-lake/stargazers) [![Forks](https://img.shields.io/github/forks/rootSunc/ashare-lake?style=flat-square&color=blue)](https://github.com/rootSunc/ashare-lake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > ASL · 本地可日更的 A 股研究湖 · 39 数据集 · MCP 给 AI agent · 零 token 零注册 | Local A-share research lake — history for humans & agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ rootSunc/ashare-lake 帮助研究和自动化市场工作流。它可以用于�
 | forks | 31/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

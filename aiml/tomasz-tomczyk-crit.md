@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ tomasz-tomczyk/crit：tomasz-tomczyk/crit helps add AI capability without starti
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

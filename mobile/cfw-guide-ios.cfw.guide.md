@@ -1,6 +1,6 @@
 # cfw-guide/ios.cfw.guide
 
-[![Stars](https://img.shields.io/github/stars/cfw-guide/ios.cfw.guide?style=flat-square&color=yellow)](https://github.com/cfw-guide/ios.cfw.guide/stargazers) [![Forks](https://img.shields.io/github/forks/cfw-guide/ios.cfw.guide?style=flat-square&color=blue)](https://github.com/cfw-guide/ios.cfw.guide/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cfw-guide/ios.cfw.guide?style=flat-square&color=yellow)](https://github.com/cfw-guide/ios.cfw.guide/stargazers) [![Forks](https://img.shields.io/github/forks/cfw-guide/ios.cfw.guide?style=flat-square&color=blue)](https://github.com/cfw-guide/ios.cfw.guide/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A complete iOS modding guide, from stock to jailbroken.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 739 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ cfw‑guide/ios.cfw.guide 是一套完整的 iOS 越狱/改装指南，覆盖从
 | forks | 56/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

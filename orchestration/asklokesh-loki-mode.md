@@ -1,6 +1,6 @@
 # asklokesh/loki-mode
 
-[![Stars](https://img.shields.io/github/stars/asklokesh/loki-mode?style=flat-square&color=yellow)](https://github.com/asklokesh/loki-mode/stargazers) [![Forks](https://img.shields.io/github/forks/asklokesh/loki-mode?style=flat-square&color=blue)](https://github.com/asklokesh/loki-mode/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asklokesh/loki-mode?style=flat-square&color=yellow)](https://github.com/asklokesh/loki-mode/stargazers) [![Forks](https://img.shields.io/github/forks/asklokesh/loki-mode?style=flat-square&color=blue)](https://github.com/asklokesh/loki-mode/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 11 quality gates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 989 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ asklokesh/loki-mode 是一个面向全栈软件生命周期（SDLC）的多代�
 | forks | 57/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # chenzhen7/akari
 
-[![Stars](https://img.shields.io/github/stars/chenzhen7/akari?style=flat-square&color=yellow)](https://github.com/chenzhen7/akari/stargazers) [![Forks](https://img.shields.io/github/forks/chenzhen7/akari?style=flat-square&color=blue)](https://github.com/chenzhen7/akari/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenzhen7/akari?style=flat-square&color=yellow)](https://github.com/chenzhen7/akari/stargazers) [![Forks](https://img.shields.io/github/forks/chenzhen7/akari?style=flat-square&color=blue)](https://github.com/chenzhen7/akari/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Akari 是一个面向开发者团队的 AI Agent 并行开发管理平台。它基于 Git worktree 为每个会话创建完全隔离的工作区，让你能够同时启动多个 Agent（Claude Code、Kimi、Aider、Shell 等），通过统一界面查看状态、终端输出、代码 Diff，并在任务完成后统一 Review、合并回主干。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Akari 的生产可用性为中等（Medium）。它适用于prototype 或内部�
 | forks | 8/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 39/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 47/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

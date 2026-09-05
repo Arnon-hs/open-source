@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ jarnedemeulemeester/findroid：jarnedemeulemeester/findroid may be useful when i
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Giskard-AI/giskard-oss
 
-[![Stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=flat-square&color=yellow)](https://github.com/Giskard-AI/giskard-oss/stargazers) [![Forks](https://img.shields.io/github/forks/Giskard-AI/giskard-oss?style=flat-square&color=blue)](https://github.com/Giskard-AI/giskard-oss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=flat-square&color=yellow)](https://github.com/Giskard-AI/giskard-oss/stargazers) [![Forks](https://img.shields.io/github/forks/Giskard-AI/giskard-oss?style=flat-square&color=blue)](https://github.com/Giskard-AI/giskard-oss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 🐢 Open-Source Evaluation & Testing library for LLM Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 453 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Security
+Knowledge/RAG · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ Giskard‑OSS 是一款面向 LLM Agent 的开源评估与测试库，提供可�
 | forks | 66/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 85/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

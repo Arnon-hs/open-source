@@ -1,6 +1,6 @@
 # sh1zen/wisu
 
-[![Stars](https://img.shields.io/github/stars/sh1zen/wisu?style=flat-square&color=yellow)](https://github.com/sh1zen/wisu/stargazers) [![Forks](https://img.shields.io/github/forks/sh1zen/wisu?style=flat-square&color=blue)](https://github.com/sh1zen/wisu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sh1zen/wisu?style=flat-square&color=yellow)](https://github.com/sh1zen/wisu/stargazers) [![Forks](https://img.shields.io/github/forks/sh1zen/wisu?style=flat-square&color=blue)](https://github.com/sh1zen/wisu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, minimalist directory tree viewer, written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Wisu 的生产可用性为中等（Medium），适合用于原型或内部工作
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

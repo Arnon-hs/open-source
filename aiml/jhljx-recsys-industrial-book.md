@@ -1,6 +1,6 @@
 # jhljx/RecSys-Industrial-Book
 
-[![Stars](https://img.shields.io/github/stars/jhljx/RecSys-Industrial-Book?style=flat-square&color=yellow)](https://github.com/jhljx/RecSys-Industrial-Book/stargazers) [![Forks](https://img.shields.io/github/forks/jhljx/RecSys-Industrial-Book?style=flat-square&color=blue)](https://github.com/jhljx/RecSys-Industrial-Book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhljx/RecSys-Industrial-Book?style=flat-square&color=yellow)](https://github.com/jhljx/RecSys-Industrial-Book/stargazers) [![Forks](https://img.shields.io/github/forks/jhljx/RecSys-Industrial-Book?style=flat-square&color=blue)](https://github.com/jhljx/RecSys-Industrial-Book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 《推荐系统：工业架构与核心算法》开源书稿
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ jhljx/RecSys-Industrial-Book - это открытое исходное кода
 | forks | 27/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

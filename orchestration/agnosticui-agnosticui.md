@@ -1,6 +1,6 @@
 # AgnosticUI/agnosticui
 
-[![Stars](https://img.shields.io/github/stars/AgnosticUI/agnosticui?style=flat-square&color=yellow)](https://github.com/AgnosticUI/agnosticui/stargazers) [![Forks](https://img.shields.io/github/forks/AgnosticUI/agnosticui?style=flat-square&color=blue)](https://github.com/AgnosticUI/agnosticui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgnosticUI/agnosticui?style=flat-square&color=yellow)](https://github.com/AgnosticUI/agnosticui/stargazers) [![Forks](https://img.shields.io/github/forks/AgnosticUI/agnosticui?style=flat-square&color=blue)](https://github.com/AgnosticUI/agnosticui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 819 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ AgnosticUI/agnosticui（AgnosticUI Local v2）是一个基于 CLI 的 UI 组件�
 | forks | 42/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

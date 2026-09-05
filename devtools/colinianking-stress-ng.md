@@ -1,6 +1,6 @@
 # ColinIanKing/stress-ng
 
-[![Stars](https://img.shields.io/github/stars/ColinIanKing/stress-ng?style=flat-square&color=yellow)](https://github.com/ColinIanKing/stress-ng/stargazers) [![Forks](https://img.shields.io/github/forks/ColinIanKing/stress-ng?style=flat-square&color=blue)](https://github.com/ColinIanKing/stress-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ColinIanKing/stress-ng?style=flat-square&color=yellow)](https://github.com/ColinIanKing/stress-ng/stargazers) [![Forks](https://img.shields.io/github/forks/ColinIanKing/stress-ng?style=flat-square&color=blue)](https://github.com/ColinIanKing/stress-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | C |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Design
+DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ ColinIanKing/stress‑ng 是一个开源的系统压力测试工具，提供数�
 | forks | 64/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

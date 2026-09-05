@@ -1,6 +1,6 @@
 # vercel-labs/wterm
 
-[![Stars](https://img.shields.io/github/stars/vercel-labs/wterm?style=flat-square&color=yellow)](https://github.com/vercel-labs/wterm/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/wterm?style=flat-square&color=blue)](https://github.com/vercel-labs/wterm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel-labs/wterm?style=flat-square&color=yellow)](https://github.com/vercel-labs/wterm/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/wterm?style=flat-square&color=blue)](https://github.com/vercel-labs/wterm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal emulator for the web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ vercel-labs/wterm 的生产可用性为中等，适合用于原型或内部工�
 | forks | 55/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

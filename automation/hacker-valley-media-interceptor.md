@@ -1,6 +1,6 @@
 # Hacker-Valley-Media/Interceptor
 
-[![Stars](https://img.shields.io/github/stars/Hacker-Valley-Media/Interceptor?style=flat-square&color=yellow)](https://github.com/Hacker-Valley-Media/Interceptor/stargazers) [![Forks](https://img.shields.io/github/forks/Hacker-Valley-Media/Interceptor?style=flat-square&color=blue)](https://github.com/Hacker-Valley-Media/Interceptor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hacker-Valley-Media/Interceptor?style=flat-square&color=yellow)](https://github.com/Hacker-Valley-Media/Interceptor/stargazers) [![Forks](https://img.shields.io/github/forks/Hacker-Valley-Media/Interceptor?style=flat-square&color=blue)](https://github.com/Hacker-Valley-Media/Interceptor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-driven Chrome extension for full browser control via CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ Hacker‑Valley‑Media/Interceptor 是一款基于 Agent 的 Chrome 扩展，�
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

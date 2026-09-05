@@ -1,6 +1,6 @@
 # yurineko73/Godot-MCP-Native
 
-[![Stars](https://img.shields.io/github/stars/yurineko73/Godot-MCP-Native?style=flat-square&color=yellow)](https://github.com/yurineko73/Godot-MCP-Native/stargazers) [![Forks](https://img.shields.io/github/forks/yurineko73/Godot-MCP-Native?style=flat-square&color=blue)](https://github.com/yurineko73/Godot-MCP-Native/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yurineko73/Godot-MCP-Native?style=flat-square&color=yellow)](https://github.com/yurineko73/Godot-MCP-Native/stargazers) [![Forks](https://img.shields.io/github/forks/yurineko73/Godot-MCP-Native?style=flat-square&color=blue)](https://github.com/yurineko73/Godot-MCP-Native/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | GDScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ yurineko73/Godot-MCP-Native 的生产可用性较高，主要原因包括：
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

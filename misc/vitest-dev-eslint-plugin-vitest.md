@@ -1,6 +1,6 @@
 # vitest-dev/eslint-plugin-vitest
 
-[![Stars](https://img.shields.io/github/stars/vitest-dev/eslint-plugin-vitest?style=flat-square&color=yellow)](https://github.com/vitest-dev/eslint-plugin-vitest/stargazers) [![Forks](https://img.shields.io/github/forks/vitest-dev/eslint-plugin-vitest?style=flat-square&color=blue)](https://github.com/vitest-dev/eslint-plugin-vitest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vitest-dev/eslint-plugin-vitest?style=flat-square&color=yellow)](https://github.com/vitest-dev/eslint-plugin-vitest/stargazers) [![Forks](https://img.shields.io/github/forks/vitest-dev/eslint-plugin-vitest?style=flat-square&color=blue)](https://github.com/vitest-dev/eslint-plugin-vitest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > eslint plugin for vitest
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 490 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ vitest-dev/eslint-plugin-vitest 是一款专为 Vitest 设计的 ESLint 插件�
 | forks | 51/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

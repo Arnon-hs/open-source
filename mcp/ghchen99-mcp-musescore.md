@@ -1,6 +1,6 @@
 # ghchen99/mcp-musescore
 
-[![Stars](https://img.shields.io/github/stars/ghchen99/mcp-musescore?style=flat-square&color=yellow)](https://github.com/ghchen99/mcp-musescore/stargazers) [![Forks](https://img.shields.io/github/forks/ghchen99/mcp-musescore?style=flat-square&color=blue)](https://github.com/ghchen99/mcp-musescore/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghchen99/mcp-musescore?style=flat-square&color=yellow)](https://github.com/ghchen99/mcp-musescore/stargazers) [![Forks](https://img.shields.io/github/forks/ghchen99/mcp-musescore?style=flat-square&color=blue)](https://github.com/ghchen99/mcp-musescore/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides programmatic control over MuseScore!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ ghchen99/mcp-musescore 是一个基于 Model Context Protocol（MCP）的服务�
 | forks | 33/100 |
 | stars | 39/100 |
 | topics | 38/100 |
-| outlook | 49/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

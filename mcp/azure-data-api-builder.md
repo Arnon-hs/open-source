@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Database
+MCP · Cloud & Storage · Backend · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Azure/data-api-builder：Azure/data-api-builder helps connect AI assistants to r
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

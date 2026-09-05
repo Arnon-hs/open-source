@@ -1,6 +1,6 @@
 # SamurAIGPT/seedance-2-generator
 
-[![Stars](https://img.shields.io/github/stars/SamurAIGPT/seedance-2-generator?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/seedance-2-generator/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/seedance-2-generator?style=flat-square&color=blue)](https://github.com/SamurAIGPT/seedance-2-generator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SamurAIGPT/seedance-2-generator?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/seedance-2-generator/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/seedance-2-generator?style=flat-square&color=blue)](https://github.com/SamurAIGPT/seedance-2-generator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Next.js SaaS for Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini video generation — Stripe billing, credits, NextAuth, and Prisma out of the box.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ SamurAIGPT/seedance-2-generator 帮助开发者快速集成账单、支付流程
 | forks | 37/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

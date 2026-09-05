@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation · AI/ML · Productivity · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ moonlight-lupin/agent-skills：moonlight-lupin/agent-skills helps turn isolated 
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

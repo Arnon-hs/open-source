@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ MobilityData/awesome-transit：MobilityData/awesome-transit helps convert raw da
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

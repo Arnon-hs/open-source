@@ -1,6 +1,6 @@
 # bstnxbt/dflash-mlx
 
-[![Stars](https://img.shields.io/github/stars/bstnxbt/dflash-mlx?style=flat-square&color=yellow)](https://github.com/bstnxbt/dflash-mlx/stargazers) [![Forks](https://img.shields.io/github/forks/bstnxbt/dflash-mlx?style=flat-square&color=blue)](https://github.com/bstnxbt/dflash-mlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bstnxbt/dflash-mlx?style=flat-square&color=yellow)](https://github.com/bstnxbt/dflash-mlx/stargazers) [![Forks](https://img.shields.io/github/forks/bstnxbt/dflash-mlx?style=flat-square&color=blue)](https://github.com/bstnxbt/dflash-mlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless DFlash speculative decoding for MLX on Apple Silicon
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ bstnxbt/dflash-mlx 提供在 Apple Silicon 上对 MLX 模型的 **无损 DFlash 
 | forks | 43/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 45/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

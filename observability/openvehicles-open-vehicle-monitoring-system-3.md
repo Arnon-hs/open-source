@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | C |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ openvehicles/Open-Vehicle-Monitoring-System-3：openvehicles/Open-Vehicle-Monito
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

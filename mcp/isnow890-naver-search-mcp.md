@@ -1,6 +1,6 @@
 # isnow890/naver-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/isnow890/naver-search-mcp?style=flat-square&color=yellow)](https://github.com/isnow890/naver-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/isnow890/naver-search-mcp?style=flat-square&color=blue)](https://github.com/isnow890/naver-search-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isnow890/naver-search-mcp?style=flat-square&color=yellow)](https://github.com/isnow890/naver-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/isnow890/naver-search-mcp?style=flat-square&color=blue)](https://github.com/isnow890/naver-search-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Naver Search API integration. Provides comprehensive search capabilities across Naver services (web, news, blog, shopping, etc) and data trend analysis tools via DataLab API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Overall, *isnow890/naver-search-mcp* is a strong candidate for pilots and can be
 | forks | 34/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

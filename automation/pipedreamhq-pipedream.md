@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · Data
+Automation · Cloud & Storage · Backend · DevTools · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ PipedreamHQ/pipedream：PipedreamHQ/pipedream helps remove repetitive manual ope
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

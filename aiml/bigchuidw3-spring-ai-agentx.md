@@ -1,6 +1,6 @@
 # bigchuidw3/spring-ai-agentx
 
-[![Stars](https://img.shields.io/github/stars/bigchuidw3/spring-ai-agentx?style=flat-square&color=yellow)](https://github.com/bigchuidw3/spring-ai-agentx/stargazers) [![Forks](https://img.shields.io/github/forks/bigchuidw3/spring-ai-agentx?style=flat-square&color=blue)](https://github.com/bigchuidw3/spring-ai-agentx/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bigchuidw3/spring-ai-agentx?style=flat-square&color=yellow)](https://github.com/bigchuidw3/spring-ai-agentx/stargazers) [![Forks](https://img.shields.io/github/forks/bigchuidw3/spring-ai-agentx?style=flat-square&color=blue)](https://github.com/bigchuidw3/spring-ai-agentx/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 基于原生 Spring AI 的智能体（Agent）开发框架，提供 ReAct 执行引擎、分层记忆、工具调度、Human-in-the-Loop 等核心能力，形成完整的 Harness Engineering 方案，帮助开发者快速构建 AI Agent，可以快速搭建 Java 版的 Claude Code。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ bigchuidw3/spring-ai-agentx 的主要价值在于帮助开发者快速添加 AI 
 | forks | 30/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 46/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

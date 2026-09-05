@@ -1,6 +1,6 @@
 # guardian/frontend
 
-[![Stars](https://img.shields.io/github/stars/guardian/frontend?style=flat-square&color=yellow)](https://github.com/guardian/frontend/stargazers) [![Forks](https://img.shields.io/github/forks/guardian/frontend?style=flat-square&color=blue)](https://github.com/guardian/frontend/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guardian/frontend?style=flat-square&color=yellow)](https://github.com/guardian/frontend/stargazers) [![Forks](https://img.shields.io/github/forks/guardian/frontend?style=flat-square&color=blue)](https://github.com/guardian/frontend/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Guardian DotCom.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 571 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ guardian/frontend 是《卫报》面向用户的前端代码库，提供一套�
 | forks | 69/100 |
 | stars | 80/100 |
 | topics | 13/100 |
-| outlook | 53/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

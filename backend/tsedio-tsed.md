@@ -1,6 +1,6 @@
 # tsedio/tsed
 
-[![Stars](https://img.shields.io/github/stars/tsedio/tsed?style=flat-square&color=yellow)](https://github.com/tsedio/tsed/stargazers) [![Forks](https://img.shields.io/github/forks/tsedio/tsed?style=flat-square&color=blue)](https://github.com/tsedio/tsed/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tsedio/tsed?style=flat-square&color=yellow)](https://github.com/tsedio/tsed/stargazers) [![Forks](https://img.shields.io/github/forks/tsedio/tsed?style=flat-square&color=blue)](https://github.com/tsedio/tsed/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Ts.ED（tsedio/tsed）是基于 Express 的 Node.js + TypeScript 框架，提供
 | forks | 62/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

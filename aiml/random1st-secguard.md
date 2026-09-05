@@ -1,6 +1,6 @@
 # random1st/secguard
 
-[![Stars](https://img.shields.io/github/stars/random1st/secguard?style=flat-square&color=yellow)](https://github.com/random1st/secguard/stargazers) [![Forks](https://img.shields.io/github/forks/random1st/secguard?style=flat-square&color=blue)](https://github.com/random1st/secguard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/random1st/secguard?style=flat-square&color=yellow)](https://github.com/random1st/secguard/stargazers) [![Forks](https://img.shields.io/github/forks/random1st/secguard?style=flat-square&color=blue)](https://github.com/random1st/secguard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 3-level security toolkit for AI agents: regex patterns, heuristic rules, ML classification. Claude Code hooks, git pre-commit, CI/CD scanner.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ random1st/secguard - это трехуровневый инструмент бе
 | forks | 34/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

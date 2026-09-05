@@ -1,6 +1,6 @@
 # flutter/agent-plugins
 
-[![Stars](https://img.shields.io/github/stars/flutter/agent-plugins?style=flat-square&color=yellow)](https://github.com/flutter/agent-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/agent-plugins?style=flat-square&color=blue)](https://github.com/flutter/agent-plugins/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flutter/agent-plugins?style=flat-square&color=yellow)](https://github.com/flutter/agent-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/agent-plugins?style=flat-square&color=blue)](https://github.com/flutter/agent-plugins/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ flutter/agent-plugins 的生产可用性为中等（Medium）。它可以用于 
 | forks | 55/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

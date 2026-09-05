@@ -1,6 +1,6 @@
 # jamie8johnson/cqs
 
-[![Stars](https://img.shields.io/github/stars/jamie8johnson/cqs?style=flat-square&color=yellow)](https://github.com/jamie8johnson/cqs/stargazers) [![Forks](https://img.shields.io/github/forks/jamie8johnson/cqs?style=flat-square&color=blue)](https://github.com/jamie8johnson/cqs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jamie8johnson/cqs?style=flat-square&color=yellow)](https://github.com/jamie8johnson/cqs/stargazers) [![Forks](https://img.shields.io/github/forks/jamie8johnson/cqs?style=flat-square&color=blue)](https://github.com/jamie8johnson/cqs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Code intelligence and RAG for AI agents: semantic search, call graphs, impact analysis, and context assembly in single tool calls. 54 languages + L5X/L5K PLC. 72.0% R@5 / 48.7% R@1 / 87.6% R@20 on v3.v2 dual-judge eval. Daemon mode (3-19ms). Local-first, GPU-accelerated.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -142,11 +142,11 @@ jamie8johnson/cqs 是一款面向 AI 代理的代码智能与检索增强（RAG�
 | forks | 15/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

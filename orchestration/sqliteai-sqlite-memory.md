@@ -1,6 +1,6 @@
 # sqliteai/sqlite-memory
 
-[![Stars](https://img.shields.io/github/stars/sqliteai/sqlite-memory?style=flat-square&color=yellow)](https://github.com/sqliteai/sqlite-memory/stargazers) [![Forks](https://img.shields.io/github/forks/sqliteai/sqlite-memory?style=flat-square&color=blue)](https://github.com/sqliteai/sqlite-memory/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sqliteai/sqlite-memory?style=flat-square&color=yellow)](https://github.com/sqliteai/sqlite-memory/stargazers) [![Forks](https://img.shields.io/github/forks/sqliteai/sqlite-memory?style=flat-square&color=blue)](https://github.com/sqliteai/sqlite-memory/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown based AI agent memory with semantic search, hybrid retrieval, and offline-first sync between agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Database
+Orchestration · Knowledge/RAG · AI/ML · Documents · Database
 
 ## 📝 Summary
 
@@ -91,15 +91,15 @@ sqliteai/sqlite-memory 的生产可用性为中等。它适合用于原型或内
 | forks | 19/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 46/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

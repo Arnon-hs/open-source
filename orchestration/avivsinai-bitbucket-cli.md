@@ -1,6 +1,6 @@
 # avivsinai/bitbucket-cli
 
-[![Stars](https://img.shields.io/github/stars/avivsinai/bitbucket-cli?style=flat-square&color=yellow)](https://github.com/avivsinai/bitbucket-cli/stargazers) [![Forks](https://img.shields.io/github/forks/avivsinai/bitbucket-cli?style=flat-square&color=blue)](https://github.com/avivsinai/bitbucket-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avivsinai/bitbucket-cli?style=flat-square&color=yellow)](https://github.com/avivsinai/bitbucket-cli/stargazers) [![Forks](https://img.shields.io/github/forks/avivsinai/bitbucket-cli?style=flat-square&color=blue)](https://github.com/avivsinai/bitbucket-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Bitbucket CLI with gh-like ergonomics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ avivsinai/bitbucket-cli 是一款使用 Go 编写的 Bitbucket 命令行工具�
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

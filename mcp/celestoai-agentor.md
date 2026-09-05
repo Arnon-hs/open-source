@@ -1,6 +1,6 @@
 # CelestoAI/agentor
 
-[![Stars](https://img.shields.io/github/stars/CelestoAI/agentor?style=flat-square&color=yellow)](https://github.com/CelestoAI/agentor/stargazers) [![Forks](https://img.shields.io/github/forks/CelestoAI/agentor?style=flat-square&color=blue)](https://github.com/CelestoAI/agentor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CelestoAI/agentor?style=flat-square&color=yellow)](https://github.com/CelestoAI/agentor/stargazers) [![Forks](https://img.shields.io/github/forks/CelestoAI/agentor?style=flat-square&color=blue)](https://github.com/CelestoAI/agentor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open source version of Claude Managed Agents. Fastest way to build and deploy reliable AI agents, MCP tools and  agent-to-agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ CelestoAI/agentor 是 Claude Managed Agents 的开源实现，通过标准的 Mo
 | forks | 40/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

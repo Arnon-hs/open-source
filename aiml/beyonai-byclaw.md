@@ -1,6 +1,6 @@
 # beyonai/ByClaw
 
-[![Stars](https://img.shields.io/github/stars/beyonai/ByClaw?style=flat-square&color=yellow)](https://github.com/beyonai/ByClaw/stargazers) [![Forks](https://img.shields.io/github/forks/beyonai/ByClaw?style=flat-square&color=blue)](https://github.com/beyonai/ByClaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beyonai/ByClaw?style=flat-square&color=yellow)](https://github.com/beyonai/ByClaw/stargazers) [![Forks](https://img.shields.io/github/forks/beyonai/ByClaw?style=flat-square&color=blue)](https://github.com/beyonai/ByClaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The enterprise-enhanced version of OpenClaw. ByClaw serves as a secure, scalable AI Agent Operating System with multi-tenancy and compliance features, providing the trusted infrastructure for large-scale organizational AI adoption.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ ByClaw 的生产可用性为中等（Medium）。它适用于以下场景：
 | forks | 27/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 45/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 52/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

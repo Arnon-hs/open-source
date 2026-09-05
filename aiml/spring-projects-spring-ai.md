@@ -1,6 +1,6 @@
 # spring-projects/spring-ai
 
-[![Stars](https://img.shields.io/github/stars/spring-projects/spring-ai?style=flat-square&color=yellow)](https://github.com/spring-projects/spring-ai/stargazers) [![Forks](https://img.shields.io/github/forks/spring-projects/spring-ai?style=flat-square&color=blue)](https://github.com/spring-projects/spring-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-projects/spring-ai?style=flat-square&color=yellow)](https://github.com/spring-projects/spring-ai/stargazers) [![Forks](https://img.shields.io/github/forks/spring-projects/spring-ai?style=flat-square&color=blue)](https://github.com/spring-projects/spring-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An Application Framework for AI Engineering
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ spring-projects/spring-ai 的生产可用性非常高。它有强大的社区支
 | forks | 86/100 |
 | stars | 84/100 |
 | topics | 38/100 |
-| outlook | 61/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

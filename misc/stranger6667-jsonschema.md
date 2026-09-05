@@ -1,6 +1,6 @@
 # Stranger6667/jsonschema
 
-[![Stars](https://img.shields.io/github/stars/Stranger6667/jsonschema?style=flat-square&color=yellow)](https://github.com/Stranger6667/jsonschema/stargazers) [![Forks](https://img.shields.io/github/forks/Stranger6667/jsonschema?style=flat-square&color=blue)](https://github.com/Stranger6667/jsonschema/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Stranger6667/jsonschema?style=flat-square&color=yellow)](https://github.com/Stranger6667/jsonschema/stargazers) [![Forks](https://img.shields.io/github/forks/Stranger6667/jsonschema?style=flat-square&color=blue)](https://github.com/Stranger6667/jsonschema/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance JSON Schema validator for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 775 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Stranger6667/jsonschema 是用 Rust 实现的高性能 JSON Schema 验证器�
 | forks | 52/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 46/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

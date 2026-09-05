@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 555 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ FlorianBruniaux/claude-code-ultimate-guide：FlorianBruniaux/claude-code-ultimat
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

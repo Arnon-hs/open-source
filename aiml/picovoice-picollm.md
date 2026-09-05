@@ -1,6 +1,6 @@
 # Picovoice/picollm
 
-[![Stars](https://img.shields.io/github/stars/Picovoice/picollm?style=flat-square&color=yellow)](https://github.com/Picovoice/picollm/stargazers) [![Forks](https://img.shields.io/github/forks/Picovoice/picollm?style=flat-square&color=blue)](https://github.com/Picovoice/picollm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Picovoice/picollm?style=flat-square&color=yellow)](https://github.com/Picovoice/picollm/stargazers) [![Forks](https://img.shields.io/github/forks/Picovoice/picollm?style=flat-square&color=blue)](https://github.com/Picovoice/picollm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > On-device LLM Inference Powered by X-Bit Quantization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Picovoice/picollm 的生产可用性非常高。项目最近活跃，采用广�
 | forks | 35/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

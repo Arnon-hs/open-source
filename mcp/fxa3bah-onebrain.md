@@ -1,6 +1,6 @@
 # fxa3bah/OneBrain
 
-[![Stars](https://img.shields.io/github/stars/fxa3bah/OneBrain?style=flat-square&color=yellow)](https://github.com/fxa3bah/OneBrain/stargazers) [![Forks](https://img.shields.io/github/forks/fxa3bah/OneBrain?style=flat-square&color=blue)](https://github.com/fxa3bah/OneBrain/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fxa3bah/OneBrain?style=flat-square&color=yellow)](https://github.com/fxa3bah/OneBrain/stargazers) [![Forks](https://img.shields.io/github/forks/fxa3bah/OneBrain?style=flat-square&color=blue)](https://github.com/fxa3bah/OneBrain/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Unify every AI agent on ONE local shared memory over MCP. Obsidian vault + gbrain (by Garry Tan) + Ollama. 100% offline, $0 API. Orchestrate with OpenClaw or Hermes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ OneBrain 的生产可用性为中等（Medium）。它适合用于原型或内�
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

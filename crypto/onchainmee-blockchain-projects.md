@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ OnChainMee/blockchain-projects：OnChainMee/blockchain-projects helps prototype 
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

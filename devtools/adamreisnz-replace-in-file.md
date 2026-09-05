@@ -1,6 +1,6 @@
 # adamreisnz/replace-in-file
 
-[![Stars](https://img.shields.io/github/stars/adamreisnz/replace-in-file?style=flat-square&color=yellow)](https://github.com/adamreisnz/replace-in-file/stargazers) [![Forks](https://img.shields.io/github/forks/adamreisnz/replace-in-file?style=flat-square&color=blue)](https://github.com/adamreisnz/replace-in-file/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adamreisnz/replace-in-file?style=flat-square&color=yellow)](https://github.com/adamreisnz/replace-in-file/stargazers) [![Forks](https://img.shields.io/github/forks/adamreisnz/replace-in-file?style=flat-square&color=blue)](https://github.com/adamreisnz/replace-in-file/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A simple utility to quickly replace contents in one or more files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 616 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ adamreisnz/replace-in-file 是一款轻量级的文件内容替换工具，能�
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

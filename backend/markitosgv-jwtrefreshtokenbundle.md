@@ -1,6 +1,6 @@
 # markitosgv/JWTRefreshTokenBundle
 
-[![Stars](https://img.shields.io/github/stars/markitosgv/JWTRefreshTokenBundle?style=flat-square&color=yellow)](https://github.com/markitosgv/JWTRefreshTokenBundle/stargazers) [![Forks](https://img.shields.io/github/forks/markitosgv/JWTRefreshTokenBundle?style=flat-square&color=blue)](https://github.com/markitosgv/JWTRefreshTokenBundle/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/markitosgv/JWTRefreshTokenBundle?style=flat-square&color=yellow)](https://github.com/markitosgv/JWTRefreshTokenBundle/stargazers) [![Forks](https://img.shields.io/github/forks/markitosgv/JWTRefreshTokenBundle?style=flat-square&color=blue)](https://github.com/markitosgv/JWTRefreshTokenBundle/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Implements a Refresh Token system over Json Web Tokens in Symfony
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 710 |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ markitosgv/JWTRefreshTokenBundle 是一个开源项目，旨在为 Symfony 应�
 | forks | 56/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 65/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

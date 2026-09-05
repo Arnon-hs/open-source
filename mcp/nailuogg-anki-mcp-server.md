@@ -1,6 +1,6 @@
 # nailuoGG/anki-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/nailuoGG/anki-mcp-server?style=flat-square&color=yellow)](https://github.com/nailuoGG/anki-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nailuoGG/anki-mcp-server?style=flat-square&color=blue)](https://github.com/nailuoGG/anki-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nailuoGG/anki-mcp-server?style=flat-square&color=yellow)](https://github.com/nailuoGG/anki-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nailuoGG/anki-mcp-server?style=flat-square&color=blue)](https://github.com/nailuoGG/anki-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Anki via AnkiConnect
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ nailuoGG/anki-mcp-server 是一个基于 **Model Context Protocol (MCP)** 的服
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

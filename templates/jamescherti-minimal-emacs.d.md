@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Emacs Lisp |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,6 +78,7 @@ jamescherti/minimal-emacs.d：jamescherti/minimal-emacs.d helps teams reuse work
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

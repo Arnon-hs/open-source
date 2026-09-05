@@ -1,6 +1,6 @@
 # saaranshM/unsnooze
 
-[![Stars](https://img.shields.io/github/stars/saaranshM/unsnooze?style=flat-square&color=yellow)](https://github.com/saaranshM/unsnooze/stargazers) [![Forks](https://img.shields.io/github/forks/saaranshM/unsnooze?style=flat-square&color=blue)](https://github.com/saaranshM/unsnooze/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saaranshM/unsnooze?style=flat-square&color=yellow)](https://github.com/saaranshM/unsnooze/stargazers) [![Forks](https://img.shields.io/github/forks/saaranshM/unsnooze?style=flat-square&color=blue)](https://github.com/saaranshM/unsnooze/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-resume Claude Code, Codex CLI, Grok, Qwen Code, Kimi CLI, OpenCode & Antigravity when the 5-hour/weekly usage limit resets — tmux, Zellij, VS Code & desktop apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ saaranshM/unsnooze 的生产可用性为中等。它适用于以下场景：
 | forks | 12/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

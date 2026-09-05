@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-06 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ pay-rails/pay：pay-rails/pay helps integrate monetization, billing, or PSP flow
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

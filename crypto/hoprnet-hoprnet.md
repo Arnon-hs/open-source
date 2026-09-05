@@ -1,6 +1,6 @@
 # hoprnet/hoprnet
 
-[![Stars](https://img.shields.io/github/stars/hoprnet/hoprnet?style=flat-square&color=yellow)](https://github.com/hoprnet/hoprnet/stargazers) [![Forks](https://img.shields.io/github/forks/hoprnet/hoprnet?style=flat-square&color=blue)](https://github.com/hoprnet/hoprnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoprnet/hoprnet?style=flat-square&color=yellow)](https://github.com/hoprnet/hoprnet/stargazers) [![Forks](https://img.shields.io/github/forks/hoprnet/hoprnet?style=flat-square&color=blue)](https://github.com/hoprnet/hoprnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ HOPR 是一个开源的激励式混合网络（mixnet），通过去中心化的
 | forks | 50/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 42/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 44/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

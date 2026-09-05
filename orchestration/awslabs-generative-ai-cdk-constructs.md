@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ awslabs/generative-ai-cdk-constructs：awslabs/generative-ai-cdk-constructs help
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

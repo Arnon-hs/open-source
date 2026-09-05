@@ -1,6 +1,6 @@
 # moshehbenavraham/Ultimate-Agent-Directory
 
-[![Stars](https://img.shields.io/github/stars/moshehbenavraham/Ultimate-Agent-Directory?style=flat-square&color=yellow)](https://github.com/moshehbenavraham/Ultimate-Agent-Directory/stargazers) [![Forks](https://img.shields.io/github/forks/moshehbenavraham/Ultimate-Agent-Directory?style=flat-square&color=blue)](https://github.com/moshehbenavraham/Ultimate-Agent-Directory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moshehbenavraham/Ultimate-Agent-Directory?style=flat-square&color=yellow)](https://github.com/moshehbenavraham/Ultimate-Agent-Directory/stargazers) [![Forks](https://img.shields.io/github/forks/moshehbenavraham/Ultimate-Agent-Directory?style=flat-square&color=blue)](https://github.com/moshehbenavraham/Ultimate-Agent-Directory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 The most comprehensive directory of AI agent frameworks, platforms, tools, and resources - hundreds of curated entries covering open-source, no-code, enterprise, and autonomous solutions.  NEW Boilerplates!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ moshehbenavraham/Ultimate-Agent‑Directory 是一个汇集了数百种 AI Agent
 | forks | 36/100 |
 | stars | 39/100 |
 | topics | 88/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

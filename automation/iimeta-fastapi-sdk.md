@@ -1,6 +1,6 @@
 # iimeta/fastapi-sdk
 
-[![Stars](https://img.shields.io/github/stars/iimeta/fastapi-sdk?style=flat-square&color=yellow)](https://github.com/iimeta/fastapi-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/iimeta/fastapi-sdk?style=flat-square&color=blue)](https://github.com/iimeta/fastapi-sdk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iimeta/fastapi-sdk?style=flat-square&color=yellow)](https://github.com/iimeta/fastapi-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/iimeta/fastapi-sdk?style=flat-square&color=blue)](https://github.com/iimeta/fastapi-sdk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation · AI/ML · Cloud & Storage · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ iimeta/fastapi‑sdk 是一套企业级 LLM 接入框架，能够“一键”把
 | forks | 29/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

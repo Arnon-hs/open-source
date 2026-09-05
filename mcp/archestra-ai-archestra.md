@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 573 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ archestra-ai/archestra：archestra-ai/archestra helps connect AI assistants to r
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

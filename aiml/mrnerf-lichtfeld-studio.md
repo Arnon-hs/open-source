@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,25 +27,23 @@ AI/ML
 
 ### English
 
-MrNeRF/LichtFeld-Studio: MrNeRF/LichtFeld-Studio helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+MrNeRF/LichtFeld-Studio: MrNeRF/LichtFeld-Studio may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-MrNeRF/LichtFeld-Studio: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+MrNeRF/LichtFeld-Studio: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-MrNeRF/LichtFeld-Studio：MrNeRF/LichtFeld-Studio helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+MrNeRF/LichtFeld-Studio：MrNeRF/LichtFeld-Studio may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** MrNeRF/LichtFeld-Studio helps add AI capability without starting from a blank model stack.
+**Value:** MrNeRF/LichtFeld-Studio may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ MrNeRF/LichtFeld-Studio：MrNeRF/LichtFeld-Studio helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 71/100 |
-| stars | 74/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

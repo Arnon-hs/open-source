@@ -1,6 +1,6 @@
 # guohuiyuan/go-music-dl
 
-[![Stars](https://img.shields.io/github/stars/guohuiyuan/go-music-dl?style=flat-square&color=yellow)](https://github.com/guohuiyuan/go-music-dl/stargazers) [![Forks](https://img.shields.io/github/forks/guohuiyuan/go-music-dl?style=flat-square&color=blue)](https://github.com/guohuiyuan/go-music-dl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guohuiyuan/go-music-dl?style=flat-square&color=yellow)](https://github.com/guohuiyuan/go-music-dl/stargazers) [![Forks](https://img.shields.io/github/forks/guohuiyuan/go-music-dl?style=flat-square&color=blue)](https://github.com/guohuiyuan/go-music-dl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ go-music-dl 具备完整的搜索、解析、下载能力，接入门槛低，�
 | forks | 59/100 |
 | stars | 73/100 |
 | topics | 25/100 |
-| outlook | 48/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

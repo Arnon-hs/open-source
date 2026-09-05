@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 816 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ajeetdsouza/zoxide：ajeetdsouza/zoxide helps engineers save time in daily devel
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

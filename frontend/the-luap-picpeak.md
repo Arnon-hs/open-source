@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevOps/Infra
+Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ the-luap/picpeak：the-luap/picpeak helps ship user-facing interfaces with less 
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

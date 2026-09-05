@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -35,17 +35,17 @@ teng‑lin/notebooklm-py — это неофициальный Python‑API и
 
 ### 中文
 
-teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+teng-lin/notebooklm-py：teng-lin/notebooklm-py helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** teng-lin/notebooklm-py helps add AI capability without starting from a blank model stack.
+**Value:** teng-lin/notebooklm-py helps teams reuse service infrastructure instead of rebuilding common backend pieces.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 74/100 |
-| integration | 100/100 |
-| production | 62/100 |
-| outlook | 68/100 |
-| adoption | 86/100 |
-| stars | 87/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 87/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 62/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

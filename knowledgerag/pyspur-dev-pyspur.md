@@ -1,6 +1,6 @@
 # PySpur-Dev/pyspur
 
-[![Stars](https://img.shields.io/github/stars/PySpur-Dev/pyspur?style=flat-square&color=yellow)](https://github.com/PySpur-Dev/pyspur/stargazers) [![Forks](https://img.shields.io/github/forks/PySpur-Dev/pyspur?style=flat-square&color=blue)](https://github.com/PySpur-Dev/pyspur/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PySpur-Dev/pyspur?style=flat-square&color=yellow)](https://github.com/PySpur-Dev/pyspur/stargazers) [![Forks](https://img.shields.io/github/forks/PySpur-Dev/pyspur?style=flat-square&color=blue)](https://github.com/PySpur-Dev/pyspur/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > A visual playground for agentic workflows: Iterate over your agents 10x faster
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 425 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ PySpur（PySpur‑Dev/pyspur）是一个基于可视化界面的 **agent 工作�
 | forks | 66/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 87/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

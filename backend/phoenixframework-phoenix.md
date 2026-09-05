@@ -1,6 +1,6 @@
 # phoenixframework/phoenix
 
-[![Stars](https://img.shields.io/github/stars/phoenixframework/phoenix?style=flat-square&color=yellow)](https://github.com/phoenixframework/phoenix/stargazers) [![Forks](https://img.shields.io/github/forks/phoenixframework/phoenix?style=flat-square&color=blue)](https://github.com/phoenixframework/phoenix/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phoenixframework/phoenix?style=flat-square&color=yellow)](https://github.com/phoenixframework/phoenix/stargazers) [![Forks](https://img.shields.io/github/forks/phoenixframework/phoenix?style=flat-square&color=blue)](https://github.com/phoenixframework/phoenix/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Peace of mind from prototype to production
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.1k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Phoenix（phoenixframework/phoenix）是基于 Elixir 的高性能 Web 框架，
 | forks | 87/100 |
 | stars | 93/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

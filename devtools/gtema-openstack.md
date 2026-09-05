@@ -1,6 +1,6 @@
 # gtema/openstack
 
-[![Stars](https://img.shields.io/github/stars/gtema/openstack?style=flat-square&color=yellow)](https://github.com/gtema/openstack/stargazers) [![Forks](https://img.shields.io/github/forks/gtema/openstack?style=flat-square&color=blue)](https://github.com/gtema/openstack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gtema/openstack?style=flat-square&color=yellow)](https://github.com/gtema/openstack/stargazers) [![Forks](https://img.shields.io/github/forks/gtema/openstack?style=flat-square&color=blue)](https://github.com/gtema/openstack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > OpenStack SDK and CLI for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ gtema/openstack 是用 Rust 实现的 OpenStack SDK 与命令行工具，旨在�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dotnet/arcade
 
-[![Stars](https://img.shields.io/github/stars/dotnet/arcade?style=flat-square&color=yellow)](https://github.com/dotnet/arcade/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/arcade?style=flat-square&color=blue)](https://github.com/dotnet/arcade/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/arcade?style=flat-square&color=yellow)](https://github.com/dotnet/arcade/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/arcade?style=flat-square&color=blue)](https://github.com/dotnet/arcade/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Tools that provide common build infrastructure for multiple .NET Foundation projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 720 |
 | 🍴 **Forks** | 386 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ dotnet/arcade 是一套面向 .NET Foundation 项目的通用构建工具，提�
 | forks | 65/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

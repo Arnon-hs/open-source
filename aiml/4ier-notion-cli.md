@@ -1,6 +1,6 @@
 # 4ier/notion-cli
 
-[![Stars](https://img.shields.io/github/stars/4ier/notion-cli?style=flat-square&color=yellow)](https://github.com/4ier/notion-cli/stargazers) [![Forks](https://img.shields.io/github/forks/4ier/notion-cli?style=flat-square&color=blue)](https://github.com/4ier/notion-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/4ier/notion-cli?style=flat-square&color=yellow)](https://github.com/4ier/notion-cli/stargazers) [![Forks](https://img.shields.io/github/forks/4ier/notion-cli?style=flat-square&color=blue)](https://github.com/4ier/notion-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Work seamlessly with Notion from the command line. Full Notion API coverage in a single binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Overall, 4ier/notion-cli is production‑ready for a serious pilot and can be ro
 | forks | 31/100 |
 | stars | 50/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

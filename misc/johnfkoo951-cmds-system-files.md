@@ -1,6 +1,6 @@
 # johnfkoo951/cmds-system-files
 
-[![Stars](https://img.shields.io/github/stars/johnfkoo951/cmds-system-files?style=flat-square&color=yellow)](https://github.com/johnfkoo951/cmds-system-files/stargazers) [![Forks](https://img.shields.io/github/forks/johnfkoo951/cmds-system-files?style=flat-square&color=blue)](https://github.com/johnfkoo951/cmds-system-files/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johnfkoo951/cmds-system-files?style=flat-square&color=yellow)](https://github.com/johnfkoo951/cmds-system-files/stargazers) [![Forks](https://img.shields.io/github/forks/johnfkoo951/cmds-system-files?style=flat-square&color=blue)](https://github.com/johnfkoo951/cmds-system-files/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Knowledge architecture for a 10,000-note Obsidian vault — 5 system files + 7 shared rules + 8 slash commands, shared openly with humans and AI agents. Live: https://system.cmdspace.work
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ johnfkoo951/cmds‑system‑files 是一个面向 10 000 条 Obsidian 笔记�
 | forks | 47/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

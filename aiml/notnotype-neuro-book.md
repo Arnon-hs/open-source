@@ -1,6 +1,6 @@
 # notnotype/neuro-book
 
-[![Stars](https://img.shields.io/github/stars/notnotype/neuro-book?style=flat-square&color=yellow)](https://github.com/notnotype/neuro-book/stargazers) [![Forks](https://img.shields.io/github/forks/notnotype/neuro-book?style=flat-square&color=blue)](https://github.com/notnotype/neuro-book/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notnotype/neuro-book?style=flat-square&color=yellow)](https://github.com/notnotype/neuro-book/stargazers) [![Forks](https://img.shields.io/github/forks/notnotype/neuro-book?style=flat-square&color=blue)](https://github.com/notnotype/neuro-book/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 面向长篇小说创作的多 Agent 写作 IDE；把 “软件工程”，“近百年内的写作方法论”，“AI Agent” 做成了一个 IDE
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ notnotype / neuro‑book 是一款面向长篇小说创作的多 Agent 写作 ID
 | forks | 36/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

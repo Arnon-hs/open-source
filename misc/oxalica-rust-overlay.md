@@ -1,6 +1,6 @@
 # oxalica/rust-overlay
 
-[![Stars](https://img.shields.io/github/stars/oxalica/rust-overlay?style=flat-square&color=yellow)](https://github.com/oxalica/rust-overlay/stargazers) [![Forks](https://img.shields.io/github/forks/oxalica/rust-overlay?style=flat-square&color=blue)](https://github.com/oxalica/rust-overlay/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxalica/rust-overlay?style=flat-square&color=yellow)](https://github.com/oxalica/rust-overlay/stargazers) [![Forks](https://img.shields.io/github/forks/oxalica/rust-overlay?style=flat-square&color=blue)](https://github.com/oxalica/rust-overlay/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Pure and reproducible nix overlay of binary distributed rust toolchains
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ oxalica/rust-overlay 的生产可用性为中等。它适用于以下场景：
 | forks | 49/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

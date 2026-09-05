@@ -1,6 +1,6 @@
 # moonbitlang/core
 
-[![Stars](https://img.shields.io/github/stars/moonbitlang/core?style=flat-square&color=yellow)](https://github.com/moonbitlang/core/stargazers) [![Forks](https://img.shields.io/github/forks/moonbitlang/core?style=flat-square&color=blue)](https://github.com/moonbitlang/core/network) [![Language](https://img.shields.io/badge/lang-MoonBit-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moonbitlang/core?style=flat-square&color=yellow)](https://github.com/moonbitlang/core/stargazers) [![Forks](https://img.shields.io/github/forks/moonbitlang/core?style=flat-square&color=blue)](https://github.com/moonbitlang/core/network) [![Language](https://img.shields.io/badge/lang-MoonBit-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > MoonBit's Core library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | MoonBit |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,11 +78,11 @@ MoonBit的核心库在生产环境中具有一定的可用性，但需要进行�
 | forks | 55/100 |
 | stars | 65/100 |
 | topics | 25/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

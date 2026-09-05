@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ deepset-ai/haystack-core-integrations：deepset-ai/haystack-core-integrations he
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

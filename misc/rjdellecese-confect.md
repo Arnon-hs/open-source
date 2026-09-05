@@ -1,6 +1,6 @@
 # rjdellecese/confect
 
-[![Stars](https://img.shields.io/github/stars/rjdellecese/confect?style=flat-square&color=yellow)](https://github.com/rjdellecese/confect/stargazers) [![Forks](https://img.shields.io/github/forks/rjdellecese/confect?style=flat-square&color=blue)](https://github.com/rjdellecese/confect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rjdellecese/confect?style=flat-square&color=yellow)](https://github.com/rjdellecese/confect/stargazers) [![Forks](https://img.shields.io/github/forks/rjdellecese/confect?style=flat-square&color=blue)](https://github.com/rjdellecese/confect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Use Effect with Convex!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -80,11 +80,11 @@ Confect, an open-source project by rjdellecese, utilizes the Use Effect with Con
 | forks | 38/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

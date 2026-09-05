@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing
+Video Editing · Communication
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ n00bcodr/Jellyfin-Enhanced：n00bcodr/Jellyfin-Enhanced helps turn media editing
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

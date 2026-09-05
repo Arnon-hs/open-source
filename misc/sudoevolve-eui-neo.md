@@ -1,6 +1,6 @@
 # sudoevolve/EUI-NEO
 
-[![Stars](https://img.shields.io/github/stars/sudoevolve/EUI-NEO?style=flat-square&color=yellow)](https://github.com/sudoevolve/EUI-NEO/stargazers) [![Forks](https://img.shields.io/github/forks/sudoevolve/EUI-NEO?style=flat-square&color=blue)](https://github.com/sudoevolve/EUI-NEO/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sudoevolve/EUI-NEO?style=flat-square&color=yellow)](https://github.com/sudoevolve/EUI-NEO/stargazers) [![Forks](https://img.shields.io/github/forks/sudoevolve/EUI-NEO?style=flat-square&color=blue)](https://github.com/sudoevolve/EUI-NEO/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 GPUI framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ EUI‑NEO 是一个跨平台、高性能、低开销的 C++17 GUI 框架，专�
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

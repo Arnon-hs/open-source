@@ -1,6 +1,6 @@
 # maddada/Ghostex
 
-[![Stars](https://img.shields.io/github/stars/maddada/Ghostex?style=flat-square&color=yellow)](https://github.com/maddada/Ghostex/stargazers) [![Forks](https://img.shields.io/github/forks/maddada/Ghostex?style=flat-square&color=blue)](https://github.com/maddada/Ghostex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maddada/Ghostex?style=flat-square&color=yellow)](https://github.com/maddada/Ghostex/stargazers) [![Forks](https://img.shields.io/github/forks/maddada/Ghostex?style=flat-square&color=blue)](https://github.com/maddada/Ghostex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded browser & IDE. Strong agents support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 465 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Ghostex（maddada/Ghostex）是面向 macOS 的原生 Agent CLI 管理器，将 
 | forks | 35/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # OCA/l10n-italy
 
-[![Stars](https://img.shields.io/github/stars/OCA/l10n-italy?style=flat-square&color=yellow)](https://github.com/OCA/l10n-italy/stargazers) [![Forks](https://img.shields.io/github/forks/OCA/l10n-italy?style=flat-square&color=blue)](https://github.com/OCA/l10n-italy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OCA/l10n-italy?style=flat-square&color=yellow)](https://github.com/OCA/l10n-italy/stargazers) [![Forks](https://img.shields.io/github/forks/OCA/l10n-italy?style=flat-square&color=blue)](https://github.com/OCA/l10n-italy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Odoo Italian localization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 345 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ OCA/l10n-italy 是 Odoo 官方社区（OCA）维护的意大利本地化模块�
 | forks | 63/100 |
 | stars | 50/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Agions/fablr
 
-[![Stars](https://img.shields.io/github/stars/Agions/fablr?style=flat-square&color=yellow)](https://github.com/Agions/fablr/stargazers) [![Forks](https://img.shields.io/github/forks/Agions/fablr?style=flat-square&color=blue)](https://github.com/Agions/fablr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agions/fablr?style=flat-square&color=yellow)](https://github.com/Agions/fablr/stargazers) [![Forks](https://img.shields.io/github/forks/Agions/fablr?style=flat-square&color=blue)](https://github.com/Agions/fablr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🎬 剧工 (Fablr) — 开源桌面级 AI 影视/短剧解说创作工坊 (Tauri 2 + Rust + React 18)。素材拆条 + 多 Agent 剧本研磨 + 剪映草稿导出 + 5 级消重合规矩阵分发，100% 本地优先处理。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Agions/fablr 通过本地化处理和多代理剧本研磨，自动化短视频�
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

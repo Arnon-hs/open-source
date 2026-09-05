@@ -1,6 +1,6 @@
 # petalframework/petal_components
 
-[![Stars](https://img.shields.io/github/stars/petalframework/petal_components?style=flat-square&color=yellow)](https://github.com/petalframework/petal_components/stargazers) [![Forks](https://img.shields.io/github/forks/petalframework/petal_components?style=flat-square&color=blue)](https://github.com/petalframework/petal_components/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petalframework/petal_components?style=flat-square&color=yellow)](https://github.com/petalframework/petal_components/stargazers) [![Forks](https://img.shields.io/github/forks/petalframework/petal_components?style=flat-square&color=blue)](https://github.com/petalframework/petal_components/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Phoenix + Live View HEEX Components
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ petalframework/petal_components 是一个开源项目，结合了 Phoenix 和 Li
 | forks | 50/100 |
 | stars | 64/100 |
 | topics | 38/100 |
-| outlook | 61/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

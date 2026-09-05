@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ awslabs/agent-plugins：awslabs/agent-plugins helps turn isolated prompts and to
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

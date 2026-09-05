@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ Auriti-Labs/geo-optimizer-skill：Auriti-Labs/geo-optimizer-skill helps connect 
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

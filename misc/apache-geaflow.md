@@ -1,6 +1,6 @@
 # apache/geaflow
 
-[![Stars](https://img.shields.io/github/stars/apache/geaflow?style=flat-square&color=yellow)](https://github.com/apache/geaflow/stargazers) [![Forks](https://img.shields.io/github/forks/apache/geaflow?style=flat-square&color=blue)](https://github.com/apache/geaflow/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/geaflow?style=flat-square&color=yellow)](https://github.com/apache/geaflow/stargazers) [![Forks](https://img.shields.io/github/forks/apache/geaflow?style=flat-square&color=blue)](https://github.com/apache/geaflow/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Apache GeaFlow: A Streaming Graph Computing Engine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 788 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ Apache GeaFlow 的生产可用性为中等（Medium）。它适合于原型开�
 | forks | 56/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

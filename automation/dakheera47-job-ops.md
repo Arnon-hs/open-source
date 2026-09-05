@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevOps/Infra
+Automation · Productivity · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ DaKheera47/job-ops：DaKheera47/job-ops helps remove repetitive manual operation
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

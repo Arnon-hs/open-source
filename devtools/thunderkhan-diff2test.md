@@ -1,6 +1,6 @@
 # thunderkhan/diff2test
 
-[![Stars](https://img.shields.io/github/stars/thunderkhan/diff2test?style=flat-square&color=yellow)](https://github.com/thunderkhan/diff2test/stargazers) [![Forks](https://img.shields.io/github/forks/thunderkhan/diff2test?style=flat-square&color=blue)](https://github.com/thunderkhan/diff2test/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thunderkhan/diff2test?style=flat-square&color=yellow)](https://github.com/thunderkhan/diff2test/stargazers) [![Forks](https://img.shields.io/github/forks/thunderkhan/diff2test?style=flat-square&color=blue)](https://github.com/thunderkhan/diff2test/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Conservative, zero-runtime-dependency C++20 test-impact analysis for CMake/CTest.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ thunderkhan/diff2test：thunderkhan/diff2test helps engineers save time in daily
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 63/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

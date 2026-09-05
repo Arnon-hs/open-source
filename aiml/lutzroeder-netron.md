@@ -1,6 +1,6 @@
 # lutzroeder/netron
 
-[![Stars](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&color=yellow)](https://github.com/lutzroeder/netron/stargazers) [![Forks](https://img.shields.io/github/forks/lutzroeder/netron?style=flat-square&color=blue)](https://github.com/lutzroeder/netron/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&color=yellow)](https://github.com/lutzroeder/netron/stargazers) [![Forks](https://img.shields.io/github/forks/lutzroeder/netron?style=flat-square&color=blue)](https://github.com/lutzroeder/netron/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Visualizer for neural network, deep learning and machine learning models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33.2k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Netron（lutzroeder/netron）是一款开源的可视化工具，能够以交互
 | forks | 87/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

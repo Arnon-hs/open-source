@@ -1,6 +1,6 @@
 # serein431/Codex-Mate
 
-[![Stars](https://img.shields.io/github/stars/serein431/Codex-Mate?style=flat-square&color=yellow)](https://github.com/serein431/Codex-Mate/stargazers) [![Forks](https://img.shields.io/github/forks/serein431/Codex-Mate?style=flat-square&color=blue)](https://github.com/serein431/Codex-Mate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serein431/Codex-Mate?style=flat-square&color=yellow)](https://github.com/serein431/Codex-Mate/stargazers) [![Forks](https://img.shields.io/github/forks/serein431/Codex-Mate?style=flat-square&color=blue)](https://github.com/serein431/Codex-Mate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Local companion launcher and maintenance toolkit for the Codex desktop app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ serein431/Codex‑Mate 是一款面向 Codex 桌面客户端的本地伴侣启�
 | forks | 24/100 |
 | stars | 46/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

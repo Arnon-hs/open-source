@@ -1,6 +1,6 @@
 # buxuku/SmartSub
 
-[![Stars](https://img.shields.io/github/stars/buxuku/SmartSub?style=flat-square&color=yellow)](https://github.com/buxuku/SmartSub/stargazers) [![Forks](https://img.shields.io/github/forks/buxuku/SmartSub?style=flat-square&color=blue)](https://github.com/buxuku/SmartSub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buxuku/SmartSub?style=flat-square&color=yellow)](https://github.com/buxuku/SmartSub/stargazers) [![Forks](https://img.shields.io/github/forks/buxuku/SmartSub?style=flat-square&color=blue)](https://github.com/buxuku/SmartSub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles — local Whisper speech-to-text, AI dubbing & voice cloning, offline, GPU-accelerated.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 314 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing
+Video Editing · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ buxuku/SmartSub 是一款免费开源的跨平台桌面工具，集成了基于 
 | forks | 62/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 78/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

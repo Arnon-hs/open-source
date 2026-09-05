@@ -1,6 +1,6 @@
 # shopwareLabs/ai-coding-tools
 
-[![Stars](https://img.shields.io/github/stars/shopwareLabs/ai-coding-tools?style=flat-square&color=yellow)](https://github.com/shopwareLabs/ai-coding-tools/stargazers) [![Forks](https://img.shields.io/github/forks/shopwareLabs/ai-coding-tools?style=flat-square&color=blue)](https://github.com/shopwareLabs/ai-coding-tools/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shopwareLabs/ai-coding-tools?style=flat-square&color=yellow)](https://github.com/shopwareLabs/ai-coding-tools/stargazers) [![Forks](https://img.shields.io/github/forks/shopwareLabs/ai-coding-tools?style=flat-square&color=blue)](https://github.com/shopwareLabs/ai-coding-tools/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin marketplace for Shopware development. Provides MCP servers, skills, agents, hooks, and commands to integrate development tools directly into your AI coding workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · DevTools
+MCP · Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -115,15 +115,15 @@ shopwareLabs/ai-coding-tools 是面向 Shopware 开发的 Claude Code 插件市�
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

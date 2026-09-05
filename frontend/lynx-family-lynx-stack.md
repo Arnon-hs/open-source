@@ -1,6 +1,6 @@
 # lynx-family/lynx-stack
 
-[![Stars](https://img.shields.io/github/stars/lynx-family/lynx-stack?style=flat-square&color=yellow)](https://github.com/lynx-family/lynx-stack/stargazers) [![Forks](https://img.shields.io/github/forks/lynx-family/lynx-stack?style=flat-square&color=blue)](https://github.com/lynx-family/lynx-stack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lynx-family/lynx-stack?style=flat-square&color=yellow)](https://github.com/lynx-family/lynx-stack/stargazers) [![Forks](https://img.shields.io/github/forks/lynx-family/lynx-stack?style=flat-square&color=blue)](https://github.com/lynx-family/lynx-stack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The frontend framework and toolchain of Lynx
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 711 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ lynx-family/lynx‑stack 是 Lynx 的前端框架与工具链，基于 TypeScrip
 | forks | 52/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

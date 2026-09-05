@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevOps/Infra
+Orchestration · Automation · AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -114,7 +114,7 @@ The-Swarm-Corporation/swarms-cloud 是一个开源项目，允许您在生产环
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

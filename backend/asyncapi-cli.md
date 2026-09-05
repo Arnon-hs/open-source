@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 357 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ CLI‑утилита **asyncapi/cli** позволяет работать с ф�
 
 ### 中文
 
-asyncapi/cli：asyncapi/cli helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+asyncapi/cli：asyncapi/cli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** asyncapi/cli helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** asyncapi/cli helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ asyncapi/cli：asyncapi/cli helps teams reuse service infrastructure instead of 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 94/100 |
-| production | 56/100 |
-| outlook | 54/100 |
-| adoption | 55/100 |
-| stars | 52/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

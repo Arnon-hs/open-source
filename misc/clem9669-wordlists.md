@@ -1,6 +1,6 @@
 # clem9669/wordlists
 
-[![Stars](https://img.shields.io/github/stars/clem9669/wordlists?style=flat-square&color=yellow)](https://github.com/clem9669/wordlists/stargazers) [![Forks](https://img.shields.io/github/forks/clem9669/wordlists?style=flat-square&color=blue)](https://github.com/clem9669/wordlists/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clem9669/wordlists?style=flat-square&color=yellow)](https://github.com/clem9669/wordlists/stargazers) [![Forks](https://img.shields.io/github/forks/clem9669/wordlists?style=flat-square&color=blue)](https://github.com/clem9669/wordlists/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Various wordlists FR & EN - Cracking French passwords
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ clem9669/wordlists 是一个开源项目，提供各种英语和法语单词列�
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

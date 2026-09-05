@@ -1,6 +1,6 @@
 # celtera/avendish
 
-[![Stars](https://img.shields.io/github/stars/celtera/avendish?style=flat-square&color=yellow)](https://github.com/celtera/avendish/stargazers) [![Forks](https://img.shields.io/github/forks/celtera/avendish?style=flat-square&color=blue)](https://github.com/celtera/avendish/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/celtera/avendish?style=flat-square&color=yellow)](https://github.com/celtera/avendish/stargazers) [![Forks](https://img.shields.io/github/forks/celtera/avendish?style=flat-square&color=blue)](https://github.com/celtera/avendish/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > declarative polyamorous cross-system intermedia objects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ celtera/avndsh（Avendish）通过声明式的方式把原始数据包装成可�
 | forks | 31/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

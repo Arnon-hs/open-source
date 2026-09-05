@@ -1,6 +1,6 @@
 # komorebiCarry/BaiduPCS-Rust
 
-[![Stars](https://img.shields.io/github/stars/komorebiCarry/BaiduPCS-Rust?style=flat-square&color=yellow)](https://github.com/komorebiCarry/BaiduPCS-Rust/stargazers) [![Forks](https://img.shields.io/github/forks/komorebiCarry/BaiduPCS-Rust?style=flat-square&color=blue)](https://github.com/komorebiCarry/BaiduPCS-Rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/komorebiCarry/BaiduPCS-Rust?style=flat-square&color=yellow)](https://github.com/komorebiCarry/BaiduPCS-Rust/stargazers) [![Forks](https://img.shields.io/github/forks/komorebiCarry/BaiduPCS-Rust?style=flat-square&color=blue)](https://github.com/komorebiCarry/BaiduPCS-Rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 一个使用 Rust 和 Vue 3 构建的 百度网盘第三方客户端，提供多线程下载、多账号管理、自动备份与本地侧加密上传能力，并支持 Web 管理、访问密码与 TOTP 双因素认证。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ komorebiCarry/BaiduPCS‑Rust 是一款基于 Rust 后端、Vue 3 前端的百
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

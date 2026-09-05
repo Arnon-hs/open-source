@@ -1,6 +1,6 @@
 # ahwanulm/AMRouter
 
-[![Stars](https://img.shields.io/github/stars/ahwanulm/AMRouter?style=flat-square&color=yellow)](https://github.com/ahwanulm/AMRouter/stargazers) [![Forks](https://img.shields.io/github/forks/ahwanulm/AMRouter?style=flat-square&color=blue)](https://github.com/ahwanulm/AMRouter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahwanulm/AMRouter?style=flat-square&color=yellow)](https://github.com/ahwanulm/AMRouter/stargazers) [![Forks](https://img.shields.io/github/forks/ahwanulm/AMRouter?style=flat-square&color=blue)](https://github.com/ahwanulm/AMRouter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Networking · Backend
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ AMRouter 的生产可用性为中等（Medium），适合用于原型或内部�
 | forks | 40/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tulir/whatsmeow
 
-[![Stars](https://img.shields.io/github/stars/tulir/whatsmeow?style=flat-square&color=yellow)](https://github.com/tulir/whatsmeow/stargazers) [![Forks](https://img.shields.io/github/forks/tulir/whatsmeow?style=flat-square&color=blue)](https://github.com/tulir/whatsmeow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tulir/whatsmeow?style=flat-square&color=yellow)](https://github.com/tulir/whatsmeow/stargazers) [![Forks](https://img.shields.io/github/forks/tulir/whatsmeow?style=flat-square&color=blue)](https://github.com/tulir/whatsmeow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Go library for the WhatsApp web multidevice API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ tulir/whatsmeow - это открытая библиотека на языке G
 | forks | 76/100 |
 | stars | 81/100 |
 | topics | 50/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

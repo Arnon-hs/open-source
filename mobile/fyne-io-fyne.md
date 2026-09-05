@@ -1,6 +1,6 @@
 # fyne-io/fyne
 
-[![Stars](https://img.shields.io/github/stars/fyne-io/fyne?style=flat-square&color=yellow)](https://github.com/fyne-io/fyne/stargazers) [![Forks](https://img.shields.io/github/forks/fyne-io/fyne?style=flat-square&color=blue)](https://github.com/fyne-io/fyne/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fyne-io/fyne?style=flat-square&color=yellow)](https://github.com/fyne-io/fyne/stargazers) [![Forks](https://img.shields.io/github/forks/fyne-io/fyne?style=flat-square&color=blue)](https://github.com/fyne-io/fyne/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Cross platform GUI toolkit in Go inspired by Material Design
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.4k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ fyne-io/fyne 的生产可用性很高，主要原因是：
 | forks | 80/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 62/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

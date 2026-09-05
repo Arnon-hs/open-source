@@ -1,6 +1,6 @@
 # dahlia/optique
 
-[![Stars](https://img.shields.io/github/stars/dahlia/optique?style=flat-square&color=yellow)](https://github.com/dahlia/optique/stargazers) [![Forks](https://img.shields.io/github/forks/dahlia/optique?style=flat-square&color=blue)](https://github.com/dahlia/optique/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dahlia/optique?style=flat-square&color=yellow)](https://github.com/dahlia/optique/stargazers) [![Forks](https://img.shields.io/github/forks/dahlia/optique?style=flat-square&color=blue)](https://github.com/dahlia/optique/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Type-safe combinatorial CLI parser for TypeScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 681 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ dahlia/optique 是一款面向 TypeScript 的 **类型安全组合式 CLI 解析
 | forks | 23/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

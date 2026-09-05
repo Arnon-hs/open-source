@@ -1,6 +1,6 @@
 # KDE/plasma-bigscreen
 
-[![Stars](https://img.shields.io/github/stars/KDE/plasma-bigscreen?style=flat-square&color=yellow)](https://github.com/KDE/plasma-bigscreen/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/plasma-bigscreen?style=flat-square&color=blue)](https://github.com/KDE/plasma-bigscreen/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KDE/plasma-bigscreen?style=flat-square&color=yellow)](https://github.com/KDE/plasma-bigscreen/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/plasma-bigscreen?style=flat-square&color=blue)](https://github.com/KDE/plasma-bigscreen/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Plasma shell for TVs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ KDE/plasma‑bigscreen 是基于 KDE Plasma 的专为电视大屏幕打造的 Sh
 | forks | 33/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

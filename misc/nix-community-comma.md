@@ -1,6 +1,6 @@
 # nix-community/comma
 
-[![Stars](https://img.shields.io/github/stars/nix-community/comma?style=flat-square&color=yellow)](https://github.com/nix-community/comma/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/comma?style=flat-square&color=blue)](https://github.com/nix-community/comma/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nix-community/comma?style=flat-square&color=yellow)](https://github.com/nix-community/comma/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/comma?style=flat-square&color=blue)](https://github.com/nix-community/comma/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Comma（nix-community/comma）是一款用 Rust 编写的工具，能够在不�
 | forks | 45/100 |
 | stars | 69/100 |
 | topics | 25/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

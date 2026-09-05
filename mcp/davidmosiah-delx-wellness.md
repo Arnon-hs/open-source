@@ -1,6 +1,6 @@
 # davidmosiah/delx-wellness
 
-[![Stars](https://img.shields.io/github/stars/davidmosiah/delx-wellness?style=flat-square&color=yellow)](https://github.com/davidmosiah/delx-wellness/stargazers) [![Forks](https://img.shields.io/github/forks/davidmosiah/delx-wellness?style=flat-square&color=blue)](https://github.com/davidmosiah/delx-wellness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidmosiah/delx-wellness?style=flat-square&color=yellow)](https://github.com/davidmosiah/delx-wellness/stargazers) [![Forks](https://img.shields.io/github/forks/davidmosiah/delx-wellness?style=flat-square&color=blue)](https://github.com/davidmosiah/delx-wellness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Public registry for local-first wellness MCP connectors: wearables, recovery, training, nutrition and the Delx Wellness Hermes profile.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ davidmosiah/delx-wellness 是一个开源项目，提供了一个本地优先的
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

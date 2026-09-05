@@ -1,6 +1,6 @@
 # TryGhost/action-deploy-theme
 
-[![Stars](https://img.shields.io/github/stars/TryGhost/action-deploy-theme?style=flat-square&color=yellow)](https://github.com/TryGhost/action-deploy-theme/stargazers) [![Forks](https://img.shields.io/github/forks/TryGhost/action-deploy-theme?style=flat-square&color=blue)](https://github.com/TryGhost/action-deploy-theme/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TryGhost/action-deploy-theme?style=flat-square&color=yellow)](https://github.com/TryGhost/action-deploy-theme/stargazers) [![Forks](https://img.shields.io/github/forks/TryGhost/action-deploy-theme?style=flat-square&color=blue)](https://github.com/TryGhost/action-deploy-theme/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action that packages and deploys Ghost themes through the Ghost Admin API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ TryGhost/action-deploy-theme 的生产可用性很高，因为它有强大的社
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

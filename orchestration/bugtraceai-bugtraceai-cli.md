@@ -1,6 +1,6 @@
 # BugTraceAI/BugTraceAI-CLI
 
-[![Stars](https://img.shields.io/github/stars/BugTraceAI/BugTraceAI-CLI?style=flat-square&color=yellow)](https://github.com/BugTraceAI/BugTraceAI-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/BugTraceAI/BugTraceAI-CLI?style=flat-square&color=blue)](https://github.com/BugTraceAI/BugTraceAI-CLI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BugTraceAI/BugTraceAI-CLI?style=flat-square&color=yellow)](https://github.com/BugTraceAI/BugTraceAI-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/BugTraceAI/BugTraceAI-CLI?style=flat-square&color=blue)](https://github.com/BugTraceAI/BugTraceAI-CLI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI-powered security scanner — multi-agent vulnerability detection, exploitation, and validation engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ BugTraceAI/BugTraceAI-CLI 的生产可用性评分为中等（Medium），适合
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

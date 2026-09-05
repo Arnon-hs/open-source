@@ -1,6 +1,6 @@
 # mattermost/mattermost-plugin-github
 
-[![Stars](https://img.shields.io/github/stars/mattermost/mattermost-plugin-github?style=flat-square&color=yellow)](https://github.com/mattermost/mattermost-plugin-github/stargazers) [![Forks](https://img.shields.io/github/forks/mattermost/mattermost-plugin-github?style=flat-square&color=blue)](https://github.com/mattermost/mattermost-plugin-github/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattermost/mattermost-plugin-github?style=flat-square&color=yellow)](https://github.com/mattermost/mattermost-plugin-github/stargazers) [![Forks](https://img.shields.io/github/forks/mattermost/mattermost-plugin-github?style=flat-square&color=blue)](https://github.com/mattermost/mattermost-plugin-github/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub plugin for Mattermost
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Mattermost 官方提供的 GitHub 插件（`mattermost/mattermost-plugin-github`
 | forks | 56/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

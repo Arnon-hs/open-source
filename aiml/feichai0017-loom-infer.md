@@ -1,6 +1,6 @@
 # feichai0017/loom-infer
 
-[![Stars](https://img.shields.io/github/stars/feichai0017/loom-infer?style=flat-square&color=yellow)](https://github.com/feichai0017/loom-infer/stargazers) [![Forks](https://img.shields.io/github/forks/feichai0017/loom-infer?style=flat-square&color=blue)](https://github.com/feichai0017/loom-infer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feichai0017/loom-infer?style=flat-square&color=yellow)](https://github.com/feichai0017/loom-infer/stargazers) [![Forks](https://img.shields.io/github/forks/feichai0017/loom-infer?style=flat-square&color=blue)](https://github.com/feichai0017/loom-infer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-native GPU operator library for LLM inference, built with cuda-oxide
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ feichai0017/loom-infer 是一个开源项目，提供了一个基于 Rust 和 CU
 | forks | 33/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

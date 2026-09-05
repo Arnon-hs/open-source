@@ -1,6 +1,6 @@
 # landing-ai/ade-document-processing-skills
 
-[![Stars](https://img.shields.io/github/stars/landing-ai/ade-document-processing-skills?style=flat-square&color=yellow)](https://github.com/landing-ai/ade-document-processing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/ade-document-processing-skills?style=flat-square&color=blue)](https://github.com/landing-ai/ade-document-processing-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/landing-ai/ade-document-processing-skills?style=flat-square&color=yellow)](https://github.com/landing-ai/ade-document-processing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/ade-document-processing-skills?style=flat-square&color=blue)](https://github.com/landing-ai/ade-document-processing-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for LandingAI's Agentic Document Extraction (ADE) — production-ready document AI for agentic coding assistants
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ Landing‑AI 的 **ade‑document‑processing‑skills** 为 ADE（Agentic Docu
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

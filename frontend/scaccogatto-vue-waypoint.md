@@ -1,6 +1,6 @@
 # scaccogatto/vue-waypoint
 
-[![Stars](https://img.shields.io/github/stars/scaccogatto/vue-waypoint?style=flat-square&color=yellow)](https://github.com/scaccogatto/vue-waypoint/stargazers) [![Forks](https://img.shields.io/github/forks/scaccogatto/vue-waypoint?style=flat-square&color=blue)](https://github.com/scaccogatto/vue-waypoint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scaccogatto/vue-waypoint?style=flat-square&color=yellow)](https://github.com/scaccogatto/vue-waypoint/stargazers) [![Forks](https://img.shields.io/github/forks/scaccogatto/vue-waypoint?style=flat-square&color=blue)](https://github.com/scaccogatto/vue-waypoint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > trigger functions and events based on the element position on the screen
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ scaccogatto/vue-waypoint 的生产可用性非常高，理由如下：
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

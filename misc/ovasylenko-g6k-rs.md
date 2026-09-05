@@ -1,6 +1,6 @@
 # ovasylenko/g6k-rs
 
-[![Stars](https://img.shields.io/github/stars/ovasylenko/g6k-rs?style=flat-square&color=yellow)](https://github.com/ovasylenko/g6k-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ovasylenko/g6k-rs?style=flat-square&color=blue)](https://github.com/ovasylenko/g6k-rs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ovasylenko/g6k-rs?style=flat-square&color=yellow)](https://github.com/ovasylenko/g6k-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ovasylenko/g6k-rs?style=flat-square&color=blue)](https://github.com/ovasylenko/g6k-rs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Show HN: g6k-rs 是一个开源项目，基于 Rust 构建的三维数码网格�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 43/100 |
-| quality | 31/100 |
-| recency | 60/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 45/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

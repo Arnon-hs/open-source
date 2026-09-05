@@ -1,6 +1,6 @@
 # intel/pm-graph
 
-[![Stars](https://img.shields.io/github/stars/intel/pm-graph?style=flat-square&color=yellow)](https://github.com/intel/pm-graph/stargazers) [![Forks](https://img.shields.io/github/forks/intel/pm-graph?style=flat-square&color=blue)](https://github.com/intel/pm-graph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/pm-graph?style=flat-square&color=yellow)](https://github.com/intel/pm-graph/stargazers) [![Forks](https://img.shields.io/github/forks/intel/pm-graph?style=flat-square&color=blue)](https://github.com/intel/pm-graph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Suspend/Resume project provides a tool for system developers to visualize the activity between suspend and resume, allowing them to identify inefficiencies and bottlenecks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ intel/pm-graph：intel/pm-graph may be useful when its README and activity match
 | forks | 44/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 80/100 |
+| outlook | 51/100 |
+| quality | 46/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 58/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

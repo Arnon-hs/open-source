@@ -1,6 +1,6 @@
 # EvoMap/awesome-agent-swarm
 
-[![Stars](https://img.shields.io/github/stars/EvoMap/awesome-agent-swarm?style=flat-square&color=yellow)](https://github.com/EvoMap/awesome-agent-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/EvoMap/awesome-agent-swarm?style=flat-square&color=blue)](https://github.com/EvoMap/awesome-agent-swarm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvoMap/awesome-agent-swarm?style=flat-square&color=yellow)](https://github.com/EvoMap/awesome-agent-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/EvoMap/awesome-agent-swarm?style=flat-square&color=blue)](https://github.com/EvoMap/awesome-agent-swarm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of AI Agent Swarm frameworks, multi-agent orchestration, swarm intelligence, and collaborative agent systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ EvoMap/awesome-agent-swarm 的生产可用性为中等。它适合用于原型�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-06 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Trading · DevOps/Infra
+Crypto · Payments · Trading · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ bitcart/bitcart：bitcart/bitcart helps prototype or inspect blockchain workflow
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

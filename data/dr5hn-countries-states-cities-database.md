@@ -1,6 +1,6 @@
 # dr5hn/countries-states-cities-database
 
-[![Stars](https://img.shields.io/github/stars/dr5hn/countries-states-cities-database?style=flat-square&color=yellow)](https://github.com/dr5hn/countries-states-cities-database/stargazers) [![Forks](https://img.shields.io/github/forks/dr5hn/countries-states-cities-database?style=flat-square&color=blue)](https://github.com/dr5hn/countries-states-cities-database/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dr5hn/countries-states-cities-database?style=flat-square&color=yellow)](https://github.com/dr5hn/countries-states-cities-database/stargazers) [![Forks](https://img.shields.io/github/forks/dr5hn/countries-states-cities-database?style=flat-square&color=blue)](https://github.com/dr5hn/countries-states-cities-database/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ dr5hn/countries-states-cities-database 是一个全球化的地理信息库，�
 | forks | 87/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

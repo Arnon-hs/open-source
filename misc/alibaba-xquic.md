@@ -1,6 +1,6 @@
 # alibaba/xquic
 
-[![Stars](https://img.shields.io/github/stars/alibaba/xquic?style=flat-square&color=yellow)](https://github.com/alibaba/xquic/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/xquic?style=flat-square&color=blue)](https://github.com/alibaba/xquic/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/xquic?style=flat-square&color=yellow)](https://github.com/alibaba/xquic/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/xquic?style=flat-square&color=blue)](https://github.com/alibaba/xquic/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ alibaba/xquic 的生产可用性为中等（Medium）。它适合用于原型或
 | forks | 65/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

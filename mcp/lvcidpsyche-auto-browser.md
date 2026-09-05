@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevOps/Infra
+MCP · Automation · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ LvcidPsyche/auto-browser：LvcidPsyche/auto-browser helps connect AI assistants 
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

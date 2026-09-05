@@ -1,6 +1,6 @@
 # mgaitan/pytest-leak-finder
 
-[![Stars](https://img.shields.io/github/stars/mgaitan/pytest-leak-finder?style=flat-square&color=yellow)](https://github.com/mgaitan/pytest-leak-finder/stargazers) [![Forks](https://img.shields.io/github/forks/mgaitan/pytest-leak-finder?style=flat-square&color=blue)](https://github.com/mgaitan/pytest-leak-finder/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mgaitan/pytest-leak-finder?style=flat-square&color=yellow)](https://github.com/mgaitan/pytest-leak-finder/stargazers) [![Forks](https://img.shields.io/github/forks/mgaitan/pytest-leak-finder?style=flat-square&color=blue)](https://github.com/mgaitan/pytest-leak-finder/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ A tool for finding the causes of unstable Python tests 是一个开源项目，�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 43/100 |
-| quality | 31/100 |
-| recency | 60/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 47/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |

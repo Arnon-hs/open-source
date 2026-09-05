@@ -1,6 +1,6 @@
 # tenuo-ai/tenuo
 
-[![Stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=flat-square&color=yellow)](https://github.com/tenuo-ai/tenuo/stargazers) [![Forks](https://img.shields.io/github/forks/tenuo-ai/tenuo?style=flat-square&color=blue)](https://github.com/tenuo-ai/tenuo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=flat-square&color=yellow)](https://github.com/tenuo-ai/tenuo/stargazers) [![Forks](https://img.shields.io/github/forks/tenuo-ai/tenuo?style=flat-square&color=blue)](https://github.com/tenuo-ai/tenuo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance capability authorization engine for AI agents. Cryptographically attenuated warrants, task-scoped authority, verifiable offline. Rust core.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ tenuo‑ai/tenuo 是基于 Rust 实现的高性能能力授权引擎，专为 AI
 | forks | 19/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

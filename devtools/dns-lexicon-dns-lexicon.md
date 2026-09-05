@@ -1,6 +1,6 @@
 # dns-lexicon/dns-lexicon
 
-[![Stars](https://img.shields.io/github/stars/dns-lexicon/dns-lexicon?style=flat-square&color=yellow)](https://github.com/dns-lexicon/dns-lexicon/stargazers) [![Forks](https://img.shields.io/github/forks/dns-lexicon/dns-lexicon?style=flat-square&color=blue)](https://github.com/dns-lexicon/dns-lexicon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dns-lexicon/dns-lexicon?style=flat-square&color=yellow)](https://github.com/dns-lexicon/dns-lexicon/stargazers) [![Forks](https://img.shields.io/github/forks/dns-lexicon/dns-lexicon?style=flat-square&color=blue)](https://github.com/dns-lexicon/dns-lexicon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Manipulate DNS records on various DNS providers in a standardized way.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ dns‑lexicon 是一个用 Python 编写的库/CLI，提供统一的接口来读
 | forks | 39/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

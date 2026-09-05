@@ -1,6 +1,6 @@
 # Daminoup88/WattSeal
 
-[![Stars](https://img.shields.io/github/stars/Daminoup88/WattSeal?style=flat-square&color=yellow)](https://github.com/Daminoup88/WattSeal/stargazers) [![Forks](https://img.shields.io/github/forks/Daminoup88/WattSeal?style=flat-square&color=blue)](https://github.com/Daminoup88/WattSeal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Daminoup88/WattSeal?style=flat-square&color=yellow)](https://github.com/Daminoup88/WattSeal/stargazers) [![Forks](https://img.shields.io/github/forks/Daminoup88/WattSeal?style=flat-square&color=blue)](https://github.com/Daminoup88/WattSeal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time PC power consumption monitor - see watts per app & per component, track your carbon footprint & electricity cost.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ WattSeal（Daminoup88/WattSeal）是一款基于 Rust 的实时 PC 能耗监控�
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

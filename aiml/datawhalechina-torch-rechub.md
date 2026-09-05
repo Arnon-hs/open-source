@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ datawhalechina/torch-rechub：datawhalechina/torch-rechub helps add AI capabilit
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

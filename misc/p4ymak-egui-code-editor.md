@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ p4ymak/egui_code_editor：p4ymak/egui_code_editor may be useful when its README 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # LukasNiessen/terrashark
 
-[![Stars](https://img.shields.io/github/stars/LukasNiessen/terrashark?style=flat-square&color=yellow)](https://github.com/LukasNiessen/terrashark/stargazers) [![Forks](https://img.shields.io/github/forks/LukasNiessen/terrashark?style=flat-square&color=blue)](https://github.com/LukasNiessen/terrashark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LukasNiessen/terrashark?style=flat-square&color=yellow)](https://github.com/LukasNiessen/terrashark/stargazers) [![Forks](https://img.shields.io/github/forks/LukasNiessen/terrashark?style=flat-square&color=blue)](https://github.com/LukasNiessen/terrashark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform Skill for Claude Code and Codex. LLMs hallucinate a lot with Terraform - TerraShark fixes this. It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · DevOps/Infra · Design
+AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ LukasNiessen/terrashark：LukasNiessen/terrashark helps add AI capability withou
 | forks | 33/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

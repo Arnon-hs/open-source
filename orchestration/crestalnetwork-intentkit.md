@@ -1,6 +1,6 @@
 # crestalnetwork/intentkit
 
-[![Stars](https://img.shields.io/github/stars/crestalnetwork/intentkit?style=flat-square&color=yellow)](https://github.com/crestalnetwork/intentkit/stargazers) [![Forks](https://img.shields.io/github/forks/crestalnetwork/intentkit?style=flat-square&color=blue)](https://github.com/crestalnetwork/intentkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crestalnetwork/intentkit?style=flat-square&color=yellow)](https://github.com/crestalnetwork/intentkit/stargazers) [![Forks](https://img.shields.io/github/forks/crestalnetwork/intentkit?style=flat-square&color=blue)](https://github.com/crestalnetwork/intentkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 713 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ IntentKit 因其最近的活跃度、广泛的采用和强大的生态系统信�
 | forks | 71/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 80/100 |
-| recency | 60/100 |
+| outlook | 86/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

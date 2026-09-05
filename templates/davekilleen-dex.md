@@ -1,6 +1,6 @@
 # davekilleen/Dex
 
-[![Stars](https://img.shields.io/github/stars/davekilleen/Dex?style=flat-square&color=yellow)](https://github.com/davekilleen/Dex/stargazers) [![Forks](https://img.shields.io/github/forks/davekilleen/Dex?style=flat-square&color=blue)](https://github.com/davekilleen/Dex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davekilleen/Dex?style=flat-square&color=yellow)](https://github.com/davekilleen/Dex/stargazers) [![Forks](https://img.shields.io/github/forks/davekilleen/Dex?style=flat-square&color=blue)](https://github.com/davekilleen/Dex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI Chief of Staff — a personal operating system starter kit that adapts to your role. No coding required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · MCP · AI/ML
+Templates · MCP · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -90,15 +90,15 @@ davekilleen/Dex 有较高的生产可用性，主要原因是最近的活跃度�
 | forks | 52/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

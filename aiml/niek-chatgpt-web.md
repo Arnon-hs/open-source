@@ -1,6 +1,6 @@
 # Niek/chatgpt-web
 
-[![Stars](https://img.shields.io/github/stars/Niek/chatgpt-web?style=flat-square&color=yellow)](https://github.com/Niek/chatgpt-web/stargazers) [![Forks](https://img.shields.io/github/forks/Niek/chatgpt-web?style=flat-square&color=blue)](https://github.com/Niek/chatgpt-web/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Niek/chatgpt-web?style=flat-square&color=yellow)](https://github.com/Niek/chatgpt-web/stargazers) [![Forks](https://img.shields.io/github/forks/Niek/chatgpt-web?style=flat-square&color=blue)](https://github.com/Niek/chatgpt-web/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT web interface using the OpenAI API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 463 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Niek/chatgpt-web 是一个基于 Svelte 的轻量级前端实现，利用 OpenAI
 | forks | 67/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

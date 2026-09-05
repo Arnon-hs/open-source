@@ -1,6 +1,6 @@
 # erduo1998-cell/erduo-broll-loop-engineering
 
-[![Stars](https://img.shields.io/github/stars/erduo1998-cell/erduo-broll-loop-engineering?style=flat-square&color=yellow)](https://github.com/erduo1998-cell/erduo-broll-loop-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/erduo1998-cell/erduo-broll-loop-engineering?style=flat-square&color=blue)](https://github.com/erduo1998-cell/erduo-broll-loop-engineering/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erduo1998-cell/erduo-broll-loop-engineering?style=flat-square&color=yellow)](https://github.com/erduo1998-cell/erduo-broll-loop-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/erduo1998-cell/erduo-broll-loop-engineering?style=flat-square&color=blue)](https://github.com/erduo1998-cell/erduo-broll-loop-engineering/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > SRT 驱动的双后端 B-roll Agent Skill：自动路由 HyperFrames / Remotion，集成 152 张 Shotcraft 镜头卡
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ erduo1998-cell/erduo-broll-loop-engineering：erduo1998-cell/erduo-broll-loop-en
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

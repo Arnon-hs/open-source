@@ -1,6 +1,6 @@
 # costiash/claude-code-docs
 
-[![Stars](https://img.shields.io/github/stars/costiash/claude-code-docs?style=flat-square&color=yellow)](https://github.com/costiash/claude-code-docs/stargazers) [![Forks](https://img.shields.io/github/forks/costiash/claude-code-docs?style=flat-square&color=blue)](https://github.com/costiash/claude-code-docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/costiash/claude-code-docs?style=flat-square&color=yellow)](https://github.com/costiash/claude-code-docs/stargazers) [![Forks](https://img.shields.io/github/forks/costiash/claude-code-docs?style=flat-square&color=blue)](https://github.com/costiash/claude-code-docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-date. Auto-discovery Skill, Obsidian & Amber themed courses with animated protocol diagrams, quizzes, and code translations. Zero dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ Claude Code Plugin 的生产可用性较高，原因是最近的活动、采用�
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

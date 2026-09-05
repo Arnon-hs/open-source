@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Database · Security
+MCP · Backend · Libraries & SDKs · Database · Security
 
 ## 📝 Summary
 
@@ -119,7 +119,7 @@ vulnersCom/api 是一个开源项目，提供了一个 Python SDK，用于连接
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

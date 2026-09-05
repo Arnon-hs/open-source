@@ -1,6 +1,6 @@
 # josejuanqm/docky
 
-[![Stars](https://img.shields.io/github/stars/josejuanqm/docky?style=flat-square&color=yellow)](https://github.com/josejuanqm/docky/stargazers) [![Forks](https://img.shields.io/github/forks/josejuanqm/docky?style=flat-square&color=blue)](https://github.com/josejuanqm/docky/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/josejuanqm/docky?style=flat-square&color=yellow)](https://github.com/josejuanqm/docky/stargazers) [![Forks](https://img.shields.io/github/forks/josejuanqm/docky?style=flat-square&color=blue)](https://github.com/josejuanqm/docky/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Docky is a Dock replacement for macOS that elegantly replaces the system one. It brings the Dock back into reach: quieter, smarter, and native-feeling, with a configurable layout, widgets, a fullscreen Launchpad, a live window switcher, custom icons, and scripted actions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 882 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Docky 是一款 macOS 的 Dock 替代品，使用原生 Swift 编写，提供可
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 25/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

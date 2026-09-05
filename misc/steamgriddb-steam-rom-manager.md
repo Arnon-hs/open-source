@@ -1,6 +1,6 @@
 # SteamGridDB/steam-rom-manager
 
-[![Stars](https://img.shields.io/github/stars/SteamGridDB/steam-rom-manager?style=flat-square&color=yellow)](https://github.com/SteamGridDB/steam-rom-manager/stargazers) [![Forks](https://img.shields.io/github/forks/SteamGridDB/steam-rom-manager?style=flat-square&color=blue)](https://github.com/SteamGridDB/steam-rom-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteamGridDB/steam-rom-manager?style=flat-square&color=yellow)](https://github.com/SteamGridDB/steam-rom-manager/stargazers) [![Forks](https://img.shields.io/github/forks/SteamGridDB/steam-rom-manager?style=flat-square&color=blue)](https://github.com/SteamGridDB/steam-rom-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The bulk game importer and artwork manager for Steam!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ SteamGridDB/steam-rom-manager 是一款面向 Steam 的批量游戏导入和艺�
 | forks | 54/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

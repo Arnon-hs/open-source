@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Mobile · Security
+Backend · DevTools · Mobile · Security
 
 ## 📝 Summary
 
@@ -104,7 +104,7 @@ suifei/fridare 的生产可用性很高，因为它有以下特
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

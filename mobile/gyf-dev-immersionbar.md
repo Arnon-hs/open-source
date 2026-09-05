@@ -1,6 +1,6 @@
 # gyf-dev/ImmersionBar
 
-[![Stars](https://img.shields.io/github/stars/gyf-dev/ImmersionBar?style=flat-square&color=yellow)](https://github.com/gyf-dev/ImmersionBar/stargazers) [![Forks](https://img.shields.io/github/forks/gyf-dev/ImmersionBar?style=flat-square&color=blue)](https://github.com/gyf-dev/ImmersionBar/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gyf-dev/ImmersionBar?style=flat-square&color=yellow)](https://github.com/gyf-dev/ImmersionBar/stargazers) [![Forks](https://img.shields.io/github/forks/gyf-dev/ImmersionBar?style=flat-square&color=blue)](https://github.com/gyf-dev/ImmersionBar/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.5k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ImmersionBar 的生产可用性非常高，理由如下：
 | forks | 82/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

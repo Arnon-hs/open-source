@@ -1,6 +1,6 @@
 # xxzcc/Awesome-Credit-Assignment-in-LLM-RL
 
-[![Stars](https://img.shields.io/github/stars/xxzcc/Awesome-Credit-Assignment-in-LLM-RL?style=flat-square&color=yellow)](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL/stargazers) [![Forks](https://img.shields.io/github/forks/xxzcc/Awesome-Credit-Assignment-in-LLM-RL?style=flat-square&color=blue)](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xxzcc/Awesome-Credit-Assignment-in-LLM-RL?style=flat-square&color=yellow)](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL/stargazers) [![Forks](https://img.shields.io/github/forks/xxzcc/Awesome-Credit-Assignment-in-LLM-RL?style=flat-square&color=blue)](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Curated papers, taxonomy, benchmarks, and decision guides for credit assignment in reasoning and agentic LLM reinforcement learning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ xxzcc/Awesome-Credit-Assignment-in-LLM-RL 是一个开源项目，致力于为�
 | forks | 12/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

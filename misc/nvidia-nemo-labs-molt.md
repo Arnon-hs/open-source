@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/labs-molt
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/labs-molt?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/labs-molt/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/labs-molt?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/labs-molt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/labs-molt?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/labs-molt/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/labs-molt?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/labs-molt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 541 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ NVIDIA‑NeMo/labs‑molt 是一个基于 Python 的实验性工具包，适用�
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

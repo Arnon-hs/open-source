@@ -1,6 +1,6 @@
 # judge0/judge0
 
-[![Stars](https://img.shields.io/github/stars/judge0/judge0?style=flat-square&color=yellow)](https://github.com/judge0/judge0/stargazers) [![Forks](https://img.shields.io/github/forks/judge0/judge0?style=flat-square&color=blue)](https://github.com/judge0/judge0/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/judge0/judge0?style=flat-square&color=yellow)](https://github.com/judge0/judge0/stargazers) [![Forks](https://img.shields.io/github/forks/judge0/judge0?style=flat-square&color=blue)](https://github.com/judge0/judge0/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 882 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ Judge0 是一套开源的在线代码执行平台，具备高可靠性、极速�
 | forks | 74/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

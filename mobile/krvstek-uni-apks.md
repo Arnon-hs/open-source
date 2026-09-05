@@ -1,6 +1,6 @@
 # krvstek/uni-apks
 
-[![Stars](https://img.shields.io/github/stars/krvstek/uni-apks?style=flat-square&color=yellow)](https://github.com/krvstek/uni-apks/stargazers) [![Forks](https://img.shields.io/github/forks/krvstek/uni-apks?style=flat-square&color=blue)](https://github.com/krvstek/uni-apks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krvstek/uni-apks?style=flat-square&color=yellow)](https://github.com/krvstek/uni-apks/stargazers) [![Forks](https://img.shields.io/github/forks/krvstek/uni-apks?style=flat-square&color=blue)](https://github.com/krvstek/uni-apks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 📦 Pre-built APKs from various patch sources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 586 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ krvstek/uni‑apks 是一个收集并预编译各类补丁来源 APK 的开源�
 | forks | 30/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

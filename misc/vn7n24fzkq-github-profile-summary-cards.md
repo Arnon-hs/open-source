@@ -1,6 +1,6 @@
 # vn7n24fzkq/github-profile-summary-cards
 
-[![Stars](https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=flat-square&color=yellow)](https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers) [![Forks](https://img.shields.io/github/forks/vn7n24fzkq/github-profile-summary-cards?style=flat-square&color=blue)](https://github.com/vn7n24fzkq/github-profile-summary-cards/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=flat-square&color=yellow)](https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers) [![Forks](https://img.shields.io/github/forks/vn7n24fzkq/github-profile-summary-cards?style=flat-square&color=blue)](https://github.com/vn7n24fzkq/github-profile-summary-cards/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A tool to generate your GitHub summary card for profile README
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 481 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ github-profile-summary-cards 的生产可用性很高，因为它具有以下特
 | forks | 67/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

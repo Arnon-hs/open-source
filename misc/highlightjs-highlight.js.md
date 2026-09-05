@@ -1,6 +1,6 @@
 # highlightjs/highlight.js
 
-[![Stars](https://img.shields.io/github/stars/highlightjs/highlight.js?style=flat-square&color=yellow)](https://github.com/highlightjs/highlight.js/stargazers) [![Forks](https://img.shields.io/github/forks/highlightjs/highlight.js?style=flat-square&color=blue)](https://github.com/highlightjs/highlight.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/highlightjs/highlight.js?style=flat-square&color=yellow)](https://github.com/highlightjs/highlight.js/stargazers) [![Forks](https://img.shields.io/github/forks/highlightjs/highlight.js?style=flat-square&color=blue)](https://github.com/highlightjs/highlight.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript syntax highlighter with language auto-detection and zero dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24.9k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ highlightjs/highlight.js 是一款零依赖的 JavaScript 代码高亮库，能�
 | forks | 89/100 |
 | stars | 94/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

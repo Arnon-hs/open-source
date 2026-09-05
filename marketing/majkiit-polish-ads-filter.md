@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Adblock Filter List |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ MajkiIT/polish-ads-filter：MajkiIT/polish-ads-filter may be useful when its REA
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

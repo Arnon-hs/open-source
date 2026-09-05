@@ -1,6 +1,6 @@
 # softspark/ai-toolkit
 
-[![Stars](https://img.shields.io/github/stars/softspark/ai-toolkit?style=flat-square&color=yellow)](https://github.com/softspark/ai-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/softspark/ai-toolkit?style=flat-square&color=blue)](https://github.com/softspark/ai-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softspark/ai-toolkit?style=flat-square&color=yellow)](https://github.com/softspark/ai-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/softspark/ai-toolkit?style=flat-square&color=blue)](https://github.com/softspark/ai-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Professional-grade AI coding toolkit: 94 skills, 44 agents, multi-platform (Claude, Cursor, Windsurf, Copilot, Gemini, Cline, Roo Code, Aider, Augment, Antigravity, Codex CLI, opencode).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ softspark/ai‑toolkit 是一套专业级 AI 编码工具箱，内置 94 项技�
 | forks | 32/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

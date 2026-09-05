@@ -1,6 +1,6 @@
 # flycheck/flycheck
 
-[![Stars](https://img.shields.io/github/stars/flycheck/flycheck?style=flat-square&color=yellow)](https://github.com/flycheck/flycheck/stargazers) [![Forks](https://img.shields.io/github/forks/flycheck/flycheck?style=flat-square&color=blue)](https://github.com/flycheck/flycheck/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flycheck/flycheck?style=flat-square&color=yellow)](https://github.com/flycheck/flycheck/stargazers) [![Forks](https://img.shields.io/github/forks/flycheck/flycheck?style=flat-square&color=blue)](https://github.com/flycheck/flycheck/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > On the fly syntax checking for GNU Emacs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 460 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Flycheck 的生产可用性是中等的，适合用于内部开发和 prototypin
 | forks | 67/100 |
 | stars | 72/100 |
 | topics | 38/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

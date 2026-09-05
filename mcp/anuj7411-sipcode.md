@@ -1,6 +1,6 @@
 # Anuj7411/sipcode
 
-[![Stars](https://img.shields.io/github/stars/Anuj7411/sipcode?style=flat-square&color=yellow)](https://github.com/Anuj7411/sipcode/stargazers) [![Forks](https://img.shields.io/github/forks/Anuj7411/sipcode?style=flat-square&color=blue)](https://github.com/Anuj7411/sipcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anuj7411/sipcode?style=flat-square&color=yellow)](https://github.com/Anuj7411/sipcode/stargazers) [![Forks](https://img.shields.io/github/forks/Anuj7411/sipcode?style=flat-square&color=blue)](https://github.com/Anuj7411/sipcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Keep Claude Code context clean. Open-source toolkit: drift detection, re-read dedup, integrity scoring, AST-aware reads, 15 MCP tools. 62.6% measured savings, reproducible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Anuj7411/sipcode 是一个开源工具箱，旨在保持 Claude 代码上下文�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # MystikoLab/rustcast
 
-[![Stars](https://img.shields.io/github/stars/MystikoLab/rustcast?style=flat-square&color=yellow)](https://github.com/MystikoLab/rustcast/stargazers) [![Forks](https://img.shields.io/github/forks/MystikoLab/rustcast?style=flat-square&color=blue)](https://github.com/MystikoLab/rustcast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MystikoLab/rustcast?style=flat-square&color=yellow)](https://github.com/MystikoLab/rustcast/stargazers) [![Forks](https://img.shields.io/github/forks/MystikoLab/rustcast?style=flat-square&color=blue)](https://github.com/MystikoLab/rustcast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An open source alternative to raycast, in rust!!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 872 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ MystikoLab / rustcast 是用 Rust 编写的开源替代品，功能类似 Ra
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

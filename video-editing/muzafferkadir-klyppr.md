@@ -1,6 +1,6 @@
 # muzafferkadir/klyppr
 
-[![Stars](https://img.shields.io/github/stars/muzafferkadir/klyppr?style=flat-square&color=yellow)](https://github.com/muzafferkadir/klyppr/stargazers) [![Forks](https://img.shields.io/github/forks/muzafferkadir/klyppr?style=flat-square&color=blue)](https://github.com/muzafferkadir/klyppr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muzafferkadir/klyppr?style=flat-square&color=yellow)](https://github.com/muzafferkadir/klyppr/stargazers) [![Forks](https://img.shields.io/github/forks/muzafferkadir/klyppr?style=flat-square&color=blue)](https://github.com/muzafferkadir/klyppr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A web-based tool for detecting and trimming silent parts in videos using FFmpeg.wasm
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Klyppr 是一个基于网页的工具，利用 FFmpeg.wasm 自动检测并裁剪
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

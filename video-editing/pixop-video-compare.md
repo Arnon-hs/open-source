@@ -1,6 +1,6 @@
 # pixop/video-compare
 
-[![Stars](https://img.shields.io/github/stars/pixop/video-compare?style=flat-square&color=yellow)](https://github.com/pixop/video-compare/stargazers) [![Forks](https://img.shields.io/github/forks/pixop/video-compare?style=flat-square&color=blue)](https://github.com/pixop/video-compare/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pixop/video-compare?style=flat-square&color=yellow)](https://github.com/pixop/video-compare/stargazers) [![Forks](https://img.shields.io/github/forks/pixop/video-compare?style=flat-square&color=blue)](https://github.com/pixop/video-compare/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Split-screen video comparison tool using FFmpeg and SDL2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ pixop/video-compare 的生产可用性较高，因为它有：
 | forks | 46/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 70/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

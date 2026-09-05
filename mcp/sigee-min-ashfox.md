@@ -1,6 +1,6 @@
 # sigee-min/ashfox
 
-[![Stars](https://img.shields.io/github/stars/sigee-min/ashfox?style=flat-square&color=yellow)](https://github.com/sigee-min/ashfox/stargazers) [![Forks](https://img.shields.io/github/forks/sigee-min/ashfox?style=flat-square&color=blue)](https://github.com/sigee-min/ashfox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sigee-min/ashfox?style=flat-square&color=yellow)](https://github.com/sigee-min/ashfox/stargazers) [![Forks](https://img.shields.io/github/forks/sigee-min/ashfox?style=flat-square&color=blue)](https://github.com/sigee-min/ashfox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A deterministic Blockbench MCP plugin for generating and editing 3D models, UVs, textures, and animations from natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ sigee-min/ashfox 的生产可用性很高，因为它有以下特点：
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

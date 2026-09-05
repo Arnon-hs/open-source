@@ -1,6 +1,6 @@
 # BurntSushi/aho-corasick
 
-[![Stars](https://img.shields.io/github/stars/BurntSushi/aho-corasick?style=flat-square&color=yellow)](https://github.com/BurntSushi/aho-corasick/stargazers) [![Forks](https://img.shields.io/github/forks/BurntSushi/aho-corasick?style=flat-square&color=blue)](https://github.com/BurntSushi/aho-corasick/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BurntSushi/aho-corasick?style=flat-square&color=yellow)](https://github.com/BurntSushi/aho-corasick/stargazers) [![Forks](https://img.shields.io/github/forks/BurntSushi/aho-corasick?style=flat-square&color=blue)](https://github.com/BurntSushi/aho-corasick/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A fast implementation of Aho-Corasick in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ BurntSushi/aho-corasick 的价值在于，它可以提供高效的字符串匹�
 | forks | 52/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

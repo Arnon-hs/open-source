@@ -1,6 +1,6 @@
 # EgoAlpha/prompt-in-context-learning
 
-[![Stars](https://img.shields.io/github/stars/EgoAlpha/prompt-in-context-learning?style=flat-square&color=yellow)](https://github.com/EgoAlpha/prompt-in-context-learning/stargazers) [![Forks](https://img.shields.io/github/forks/EgoAlpha/prompt-in-context-learning?style=flat-square&color=blue)](https://github.com/EgoAlpha/prompt-in-context-learning/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EgoAlpha/prompt-in-context-learning?style=flat-square&color=yellow)](https://github.com/EgoAlpha/prompt-in-context-learning/stargazers) [![Forks](https://img.shields.io/github/forks/EgoAlpha/prompt-in-context-learning?style=flat-square&color=blue)](https://github.com/EgoAlpha/prompt-in-context-learning/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ EgoAlpha/prompt‑in‑context‑learning 是一个收集了最新 In‑Context 
 | forks | 57/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

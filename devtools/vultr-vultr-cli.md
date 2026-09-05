@@ -1,6 +1,6 @@
 # vultr/vultr-cli
 
-[![Stars](https://img.shields.io/github/stars/vultr/vultr-cli?style=flat-square&color=yellow)](https://github.com/vultr/vultr-cli/stargazers) [![Forks](https://img.shields.io/github/forks/vultr/vultr-cli?style=flat-square&color=blue)](https://github.com/vultr/vultr-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vultr/vultr-cli?style=flat-square&color=yellow)](https://github.com/vultr/vultr-cli/stargazers) [![Forks](https://img.shields.io/github/forks/vultr/vultr-cli?style=flat-square&color=blue)](https://github.com/vultr/vultr-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Official command line tool for Vultr services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 556 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ vultr/vultr-cli 的生产可用性很高，理由如下：
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 65/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

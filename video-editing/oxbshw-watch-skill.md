@@ -1,6 +1,6 @@
 # oxbshw/watch-skill
 
-[![Stars](https://img.shields.io/github/stars/oxbshw/watch-skill?style=flat-square&color=yellow)](https://github.com/oxbshw/watch-skill/stargazers) [![Forks](https://img.shields.io/github/forks/oxbshw/watch-skill?style=flat-square&color=blue)](https://github.com/oxbshw/watch-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxbshw/watch-skill?style=flat-square&color=yellow)](https://github.com/oxbshw/watch-skill/stargazers) [![Forks](https://img.shields.io/github/forks/oxbshw/watch-skill?style=flat-square&color=blue)](https://github.com/oxbshw/watch-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence—then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ oxbshw/watch‑skill 是一套面向 AI 代理的「视频理解 + 自检」工�
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

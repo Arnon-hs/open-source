@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · Backend
 
 ## 📝 Summary
 
@@ -114,7 +114,7 @@ Dianel555/paper-search-mcp-nodejs 是一个 Node.js 实现的 Model Context Prot
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Design
+MCP · Knowledge/RAG · AI/ML · Documents · Games & Graphics
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Glade-tool/glade-mcp-unity：Glade-tool/glade-mcp-unity helps connect AI assista
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

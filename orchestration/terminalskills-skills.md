@@ -1,6 +1,6 @@
 # TerminalSkills/skills
 
-[![Stars](https://img.shields.io/github/stars/TerminalSkills/skills?style=flat-square&color=yellow)](https://github.com/TerminalSkills/skills/stargazers) [![Forks](https://img.shields.io/github/forks/TerminalSkills/skills?style=flat-square&color=blue)](https://github.com/TerminalSkills/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TerminalSkills/skills?style=flat-square&color=yellow)](https://github.com/TerminalSkills/skills/stargazers) [![Forks](https://img.shields.io/github/forks/TerminalSkills/skills?style=flat-square&color=blue)](https://github.com/TerminalSkills/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source library of AI agent skills — SKILL.md files for Claude Code, Codex, Gemini CLI, Cursor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ TerminalSkills/skills 适合作为 **原型验证** 或 **内部自动化** 的�
 | forks | 19/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 34/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

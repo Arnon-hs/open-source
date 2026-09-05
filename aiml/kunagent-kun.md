@@ -1,6 +1,6 @@
 # KunAgent/Kun
 
-[![Stars](https://img.shields.io/github/stars/KunAgent/Kun?style=flat-square&color=yellow)](https://github.com/KunAgent/Kun/stargazers) [![Forks](https://img.shields.io/github/forks/KunAgent/Kun?style=flat-square&color=blue)](https://github.com/KunAgent/Kun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KunAgent/Kun?style=flat-square&color=yellow)](https://github.com/KunAgent/Kun/stargazers) [![Forks](https://img.shields.io/github/forks/KunAgent/Kun?style=flat-square&color=blue)](https://github.com/KunAgent/Kun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent workspace with Code and Write modes built into your application.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 432 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ KunAgent（又名 Kun）是一个嵌入式 AI 助手工作区，提供 Code 与 
 | forks | 66/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

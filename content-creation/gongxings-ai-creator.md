@@ -1,6 +1,6 @@
 # gongxings/ai-creator
 
-[![Stars](https://img.shields.io/github/stars/gongxings/ai-creator?style=flat-square&color=yellow)](https://github.com/gongxings/ai-creator/stargazers) [![Forks](https://img.shields.io/github/forks/gongxings/ai-creator?style=flat-square&color=blue)](https://github.com/gongxings/ai-creator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gongxings/ai-creator?style=flat-square&color=yellow)](https://github.com/gongxings/ai-creator/stargazers) [![Forks](https://img.shields.io/github/forks/gongxings/ai-creator?style=flat-square&color=blue)](https://github.com/gongxings/ai-creator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful AI content creation platform with AI writing, image generation, video generation, PPT generation tools, and one-click multi-platform publishing.AI创作者平台，一个功能强大的AI创作平台，提供AI写作、图片生成、视频生成、PPT生成等创作工具，并支持一键发布到多个平台。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ gongxings/ai-creator 是一个功能强大的 AI 创作平台，集成了 AI 写
 | forks | 34/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

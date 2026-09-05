@@ -1,6 +1,6 @@
 # MixItUpBot/Desktop
 
-[![Stars](https://img.shields.io/github/stars/MixItUpBot/Desktop?style=flat-square&color=yellow)](https://github.com/MixItUpBot/Desktop/stargazers) [![Forks](https://img.shields.io/github/forks/MixItUpBot/Desktop?style=flat-square&color=blue)](https://github.com/MixItUpBot/Desktop/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MixItUpBot/Desktop?style=flat-square&color=yellow)](https://github.com/MixItUpBot/Desktop/stargazers) [![Forks](https://img.shields.io/github/forks/MixItUpBot/Desktop?style=flat-square&color=blue)](https://github.com/MixItUpBot/Desktop/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > One bot. Endless possibilities. Mix It Up is your all-in-one stream bot for Twitch, YouTube, Kick, and Velora. Chat, events, games, and more. Download today!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Automation
+Content Creation · Automation · Communication
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ MixItUpBot/Desktop：MixItUpBot/Desktop helps creators research, generate, repur
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

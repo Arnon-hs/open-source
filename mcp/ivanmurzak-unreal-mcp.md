@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Games & Graphics · Backend · DevTools
 
 ## 📝 Summary
 
@@ -115,7 +115,7 @@ IvanMurzak/Unreal-MCP 帮助连接 AI 辅助工具到现实世界的工具和数
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

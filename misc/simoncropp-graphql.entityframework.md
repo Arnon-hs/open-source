@@ -1,6 +1,6 @@
 # SimonCropp/GraphQL.EntityFramework
 
-[![Stars](https://img.shields.io/github/stars/SimonCropp/GraphQL.EntityFramework?style=flat-square&color=yellow)](https://github.com/SimonCropp/GraphQL.EntityFramework/stargazers) [![Forks](https://img.shields.io/github/forks/SimonCropp/GraphQL.EntityFramework?style=flat-square&color=blue)](https://github.com/SimonCropp/GraphQL.EntityFramework/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SimonCropp/GraphQL.EntityFramework?style=flat-square&color=yellow)](https://github.com/SimonCropp/GraphQL.EntityFramework/stargazers) [![Forks](https://img.shields.io/github/forks/SimonCropp/GraphQL.EntityFramework?style=flat-square&color=blue)](https://github.com/SimonCropp/GraphQL.EntityFramework/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Adds EntityFramework Core IQueryable support to GraphQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ SimonCropp/GraphQL.EntityFramework 为 GraphQL 添加了对 Entity Framework Cor
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

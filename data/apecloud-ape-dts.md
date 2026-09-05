@@ -1,6 +1,6 @@
 # apecloud/ape-dts
 
-[![Stars](https://img.shields.io/github/stars/apecloud/ape-dts?style=flat-square&color=yellow)](https://github.com/apecloud/ape-dts/stargazers) [![Forks](https://img.shields.io/github/forks/apecloud/ape-dts?style=flat-square&color=blue)](https://github.com/apecloud/ape-dts/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apecloud/ape-dts?style=flat-square&color=yellow)](https://github.com/apecloud/ape-dts/stargazers) [![Forks](https://img.shields.io/github/forks/apecloud/ape-dts?style=flat-square&color=blue)](https://github.com/apecloud/ape-dts/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > ApeCloud's Data Transfer Suite, written in Rust. Provides ultra-fast data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka and ClickHouse, ideal for disaster recovery (DR) and migration scenarios.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 572 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ apecloud/ape‑dts 是用 Rust 编写的高性能数据同步套件，能够在 
 | forks | 49/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

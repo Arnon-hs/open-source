@@ -1,6 +1,6 @@
 # jaylfc/taOS
 
-[![Stars](https://img.shields.io/github/stars/jaylfc/taOS?style=flat-square&color=yellow)](https://github.com/jaylfc/taOS/stargazers) [![Forks](https://img.shields.io/github/forks/jaylfc/taOS?style=flat-square&color=blue)](https://github.com/jaylfc/taOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaylfc/taOS?style=flat-square&color=yellow)](https://github.com/jaylfc/taOS/stargazers) [![Forks](https://img.shields.io/github/forks/jaylfc/taOS?style=flat-square&color=blue)](https://github.com/jaylfc/taOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by choice. Offline AI memory (taOSmd), self-hosted multi-framework group chat, a full web desktop + app store, and auto-clustering across the consumer hardware you already have (Orange/Raspberry Pi, Mac mini, gaming PC).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · Communication · Productivity · Data
 
 ## 📝 Summary
 
@@ -135,15 +135,15 @@ jaylfc/taOS 是一款自托管的 AI 代理操作系统，所有记忆、聊天�
 | forks | 34/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ Stryker‑Mutator / Stryker‑Net — это открытый инстру
 
 ### 中文
 
-stryker-mutator/stryker-net：stryker-mutator/stryker-net helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+stryker-mutator/stryker-net：stryker-mutator/stryker-net may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** stryker-mutator/stryker-net helps engineers save time in daily development and review loops.
+**Value:** stryker-mutator/stryker-net may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ stryker-mutator/stryker-net：stryker-mutator/stryker-net helps engineers save t
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 53/100 |
-| adoption | 67/100 |
-| stars | 70/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

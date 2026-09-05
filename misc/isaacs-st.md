@@ -1,6 +1,6 @@
 # isaacs/st
 
-[![Stars](https://img.shields.io/github/stars/isaacs/st?style=flat-square&color=yellow)](https://github.com/isaacs/st/stargazers) [![Forks](https://img.shields.io/github/forks/isaacs/st?style=flat-square&color=blue)](https://github.com/isaacs/st/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isaacs/st?style=flat-square&color=yellow)](https://github.com/isaacs/st/stargazers) [![Forks](https://img.shields.io/github/forks/isaacs/st?style=flat-square&color=blue)](https://github.com/isaacs/st/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A node module for serving static files.  Does etags, caching, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ isaacs/st 的生产可用性为中等。由于其开源特性和较少的活动�
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

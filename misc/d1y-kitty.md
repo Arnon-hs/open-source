@@ -1,6 +1,6 @@
 # d1y/kitty
 
-[![Stars](https://img.shields.io/github/stars/d1y/kitty?style=flat-square&color=yellow)](https://github.com/d1y/kitty/stargazers) [![Forks](https://img.shields.io/github/forks/d1y/kitty?style=flat-square&color=blue)](https://github.com/d1y/kitty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d1y/kitty?style=flat-square&color=yellow)](https://github.com/d1y/kitty/stargazers) [![Forks](https://img.shields.io/github/forks/d1y/kitty?style=flat-square&color=blue)](https://github.com/d1y/kitty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 小猫影视扩展源(@d1y自用)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Misc
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

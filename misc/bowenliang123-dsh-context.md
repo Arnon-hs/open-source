@@ -1,6 +1,6 @@
 # bowenliang123/dsh-context
 
-[![Stars](https://img.shields.io/github/stars/bowenliang123/dsh-context?style=flat-square&color=yellow)](https://github.com/bowenliang123/dsh-context/stargazers) [![Forks](https://img.shields.io/github/forks/bowenliang123/dsh-context?style=flat-square&color=blue)](https://github.com/bowenliang123/dsh-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bowenliang123/dsh-context?style=flat-square&color=yellow)](https://github.com/bowenliang123/dsh-context/stargazers) [![Forks](https://img.shields.io/github/forks/bowenliang123/dsh-context?style=flat-square&color=blue)](https://github.com/bowenliang123/dsh-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 761 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ bowenliang123/dsh-context：bowenliang123/dsh-context helps add AI capability wi
 | forks | 21/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

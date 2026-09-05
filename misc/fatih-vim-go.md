@@ -1,6 +1,6 @@
 # fatih/vim-go
 
-[![Stars](https://img.shields.io/github/stars/fatih/vim-go?style=flat-square&color=yellow)](https://github.com/fatih/vim-go/stargazers) [![Forks](https://img.shields.io/github/forks/fatih/vim-go?style=flat-square&color=blue)](https://github.com/fatih/vim-go/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fatih/vim-go?style=flat-square&color=yellow)](https://github.com/fatih/vim-go/stargazers) [![Forks](https://img.shields.io/github/forks/fatih/vim-go?style=flat-square&color=blue)](https://github.com/fatih/vim-go/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Go development plugin for Vim
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Vim Script |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ fatih/vim-go 的生产可用性较高，理由如下：
 | forks | 79/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

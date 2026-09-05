@@ -1,6 +1,6 @@
 # iced-rs/iced_aw
 
-[![Stars](https://img.shields.io/github/stars/iced-rs/iced_aw?style=flat-square&color=yellow)](https://github.com/iced-rs/iced_aw/stargazers) [![Forks](https://img.shields.io/github/forks/iced-rs/iced_aw?style=flat-square&color=blue)](https://github.com/iced-rs/iced_aw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iced-rs/iced_aw?style=flat-square&color=yellow)](https://github.com/iced-rs/iced_aw/stargazers) [![Forks](https://img.shields.io/github/forks/iced-rs/iced_aw?style=flat-square&color=blue)](https://github.com/iced-rs/iced_aw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Additional widgets for the Iced GUI library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 671 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ iced-rs/iced_aw 的生产可用性为中等。虽然它对开发者非常有用�
 | forks | 56/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

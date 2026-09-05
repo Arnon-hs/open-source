@@ -1,6 +1,6 @@
 # claration/Impactor
 
-[![Stars](https://img.shields.io/github/stars/claration/Impactor?style=flat-square&color=yellow)](https://github.com/claration/Impactor/stargazers) [![Forks](https://img.shields.io/github/forks/claration/Impactor?style=flat-square&color=blue)](https://github.com/claration/Impactor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/claration/Impactor?style=flat-square&color=yellow)](https://github.com/claration/Impactor/stargazers) [![Forks](https://img.shields.io/github/forks/claration/Impactor?style=flat-square&color=blue)](https://github.com/claration/Impactor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Feature rich iOS/tvOS sideloading application written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Claration/Impactor 是一款使用 Rust 编写的功能丰富的 iOS / tvOS 越�
 | forks | 51/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

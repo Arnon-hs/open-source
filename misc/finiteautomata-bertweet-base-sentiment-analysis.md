@@ -1,6 +1,6 @@
 # finiteautomata/bertweet-base-sentiment-analysis
 
-[![Stars](https://img.shields.io/github/stars/finiteautomata/bertweet-base-sentiment-analysis?style=flat-square&color=yellow)](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis/stargazers) [![Forks](https://img.shields.io/github/forks/finiteautomata/bertweet-base-sentiment-analysis?style=flat-square&color=blue)](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finiteautomata/bertweet-base-sentiment-analysis?style=flat-square&color=yellow)](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis/stargazers) [![Forks](https://img.shields.io/github/forks/finiteautomata/bertweet-base-sentiment-analysis?style=flat-square&color=blue)](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text classification (text-classification) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ finiteautomata/bertweet-base-sentiment-analysis 的价值在于，它可以帮�
 | forks | 0/100 |
 | stars | 49/100 |
 | topics | 38/100 |
-| outlook | 35/100 |
-| quality | 37/100 |
-| recency | 20/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 36/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

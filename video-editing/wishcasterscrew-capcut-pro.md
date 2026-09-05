@@ -1,6 +1,6 @@
 # WishCasterScrew/CapCut-Pro
 
-[![Stars](https://img.shields.io/github/stars/WishCasterScrew/CapCut-Pro?style=flat-square&color=yellow)](https://github.com/WishCasterScrew/CapCut-Pro/stargazers) [![Forks](https://img.shields.io/github/forks/WishCasterScrew/CapCut-Pro?style=flat-square&color=blue)](https://github.com/WishCasterScrew/CapCut-Pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WishCasterScrew/CapCut-Pro?style=flat-square&color=yellow)](https://github.com/WishCasterScrew/CapCut-Pro/stargazers) [![Forks](https://img.shields.io/github/forks/WishCasterScrew/CapCut-Pro?style=flat-square&color=blue)](https://github.com/WishCasterScrew/CapCut-Pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Unlock all premium features of CapCut Pro: remove watermark, 4K export, AI tools, pro transitions & effects. No account required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-09-01 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Content Creation · AI/ML
+Video Editing · Content Creation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ WishCasterScrew/CapCut-Pro 无需账号即可解锁 CapCut Pro 的所有高级�
 | forks | 36/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mendrik-private/sqv
 
-[![Stars](https://img.shields.io/github/stars/mendrik-private/sqv?style=flat-square&color=yellow)](https://github.com/mendrik-private/sqv/stargazers) [![Forks](https://img.shields.io/github/forks/mendrik-private/sqv?style=flat-square&color=blue)](https://github.com/mendrik-private/sqv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mendrik-private/sqv?style=flat-square&color=yellow)](https://github.com/mendrik-private/sqv/stargazers) [![Forks](https://img.shields.io/github/forks/mendrik-private/sqv?style=flat-square&color=blue)](https://github.com/mendrik-private/sqv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > sqlite3 viewer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Overall, *sqv* can accelerate front‑end delivery for SQLite‑based interfaces
 | forks | 19/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 44/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

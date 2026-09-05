@@ -1,6 +1,6 @@
 # ikatson/rqbit
 
-[![Stars](https://img.shields.io/github/stars/ikatson/rqbit?style=flat-square&color=yellow)](https://github.com/ikatson/rqbit/stargazers) [![Forks](https://img.shields.io/github/forks/ikatson/rqbit?style=flat-square&color=blue)](https://github.com/ikatson/rqbit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ikatson/rqbit?style=flat-square&color=yellow)](https://github.com/ikatson/rqbit/stargazers) [![Forks](https://img.shields.io/github/forks/ikatson/rqbit?style=flat-square&color=blue)](https://github.com/ikatson/rqbit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A bittorrent client in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ikatson/rqbit的生产可用性为中等（Medium）。它可以用于原型开�
 | forks | 56/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Geon97/QuantumTV
 
-[![Stars](https://img.shields.io/github/stars/Geon97/QuantumTV?style=flat-square&color=yellow)](https://github.com/Geon97/QuantumTV/stargazers) [![Forks](https://img.shields.io/github/forks/Geon97/QuantumTV?style=flat-square&color=blue)](https://github.com/Geon97/QuantumTV/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Geon97/QuantumTV?style=flat-square&color=yellow)](https://github.com/Geon97/QuantumTV/stargazers) [![Forks](https://img.shields.io/github/forks/Geon97/QuantumTV?style=flat-square&color=blue)](https://github.com/Geon97/QuantumTV/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > QuantumTV 是基于 Tauri 构建的跨平台本地影视聚合播放器，前端采用 Next.js，核心逻辑由 Rust 实现。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ QuantumTV 将 Rust 的高性能核心与 Next.js 的现代前端结合，提供�
 | forks | 25/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 46/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

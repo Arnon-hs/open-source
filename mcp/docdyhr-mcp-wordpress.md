@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -99,7 +99,7 @@ docdyhr/mcp-wordpress 帮助连接 AI 代理到工具，实现模型上下文协
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Marketing
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -35,17 +35,17 @@ Open‑source 2D IDE 49Agents позволяет централизован�
 
 ### 中文
 
-49Agents/49Agents：49Agents/49Agents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+49Agents/49Agents：49Agents/49Agents helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** 49Agents/49Agents helps add AI capability without starting from a blank model stack.
+**Value:** 49Agents/49Agents helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ Open‑source 2D IDE 49Agents позволяет централизован�
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 51/100 |
-| adoption | 45/100 |
-| stars | 51/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

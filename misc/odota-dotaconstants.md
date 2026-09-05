@@ -1,6 +1,6 @@
 # odota/dotaconstants
 
-[![Stars](https://img.shields.io/github/stars/odota/dotaconstants?style=flat-square&color=yellow)](https://github.com/odota/dotaconstants/stargazers) [![Forks](https://img.shields.io/github/forks/odota/dotaconstants?style=flat-square&color=blue)](https://github.com/odota/dotaconstants/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/odota/dotaconstants?style=flat-square&color=yellow)](https://github.com/odota/dotaconstants/stargazers) [![Forks](https://img.shields.io/github/forks/odota/dotaconstants?style=flat-square&color=blue)](https://github.com/odota/dotaconstants/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > dotaconstants: Static data for Dota applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 380 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ odota/dotaconstants 是一个开源项目，提供 Dota 应用程序的静态数
 | forks | 53/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

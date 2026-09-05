@@ -1,6 +1,6 @@
 # Live-Charts/LiveCharts2
 
-[![Stars](https://img.shields.io/github/stars/Live-Charts/LiveCharts2?style=flat-square&color=yellow)](https://github.com/Live-Charts/LiveCharts2/stargazers) [![Forks](https://img.shields.io/github/forks/Live-Charts/LiveCharts2?style=flat-square&color=blue)](https://github.com/Live-Charts/LiveCharts2/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Live-Charts/LiveCharts2?style=flat-square&color=yellow)](https://github.com/Live-Charts/LiveCharts2/stargazers) [![Forks](https://img.shields.io/github/forks/Live-Charts/LiveCharts2?style=flat-square&color=blue)](https://github.com/Live-Charts/LiveCharts2/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful, interactive charts, maps, and gauges. One API for every .NET UI framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 689 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Live-Charts/LiveCharts2 的生产可用性为中等（Medium），适合用于�
 | forks | 71/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

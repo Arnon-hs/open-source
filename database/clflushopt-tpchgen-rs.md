@@ -1,6 +1,6 @@
 # clflushopt/tpchgen-rs
 
-[![Stars](https://img.shields.io/github/stars/clflushopt/tpchgen-rs?style=flat-square&color=yellow)](https://github.com/clflushopt/tpchgen-rs/stargazers) [![Forks](https://img.shields.io/github/forks/clflushopt/tpchgen-rs?style=flat-square&color=blue)](https://github.com/clflushopt/tpchgen-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clflushopt/tpchgen-rs?style=flat-square&color=yellow)](https://github.com/clflushopt/tpchgen-rs/stargazers) [![Forks](https://img.shields.io/github/forks/clflushopt/tpchgen-rs?style=flat-square&color=blue)](https://github.com/clflushopt/tpchgen-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > TPC-H benchmark data generation in pure Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ clflushopt/tpchgen‑rs 为需要 TPC‑H 数据的团队提供了一个高性�
 | forks | 45/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 43/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

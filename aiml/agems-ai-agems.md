@@ -1,6 +1,6 @@
 # agems-ai/agems
 
-[![Stars](https://img.shields.io/github/stars/agems-ai/agems?style=flat-square&color=yellow)](https://github.com/agems-ai/agems/stargazers) [![Forks](https://img.shields.io/github/forks/agems-ai/agems?style=flat-square&color=blue)](https://github.com/agems-ai/agems/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agems-ai/agems?style=flat-square&color=yellow)](https://github.com/agems-ai/agems/stargazers) [![Forks](https://img.shields.io/github/forks/agems-ai/agems?style=flat-square&color=blue)](https://github.com/agems-ai/agems/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Management System - The operating system for AI-native businesses. Build your company's org chart with AI agents and humans side by side. Agents communicate, execute tasks, use tools, hold meetings, and run your operations, all through a single platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Agent Management System（AGEMS）是面向 AI 原生企业的统一运营平台
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 33/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # verygoodplugins/mcp-automem
 
-[![Stars](https://img.shields.io/github/stars/verygoodplugins/mcp-automem?style=flat-square&color=yellow)](https://github.com/verygoodplugins/mcp-automem/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/mcp-automem?style=flat-square&color=blue)](https://github.com/verygoodplugins/mcp-automem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verygoodplugins/mcp-automem?style=flat-square&color=yellow)](https://github.com/verygoodplugins/mcp-automem/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/mcp-automem?style=flat-square&color=blue)](https://github.com/verygoodplugins/mcp-automem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > MCP client for AutoMem — give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ verygoodplugins/mcp-automem 是一个开源项目，提供了一个标准的通�
 | forks | 30/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

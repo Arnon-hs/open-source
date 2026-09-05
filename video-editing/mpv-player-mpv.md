@@ -1,6 +1,6 @@
 # mpv-player/mpv
 
-[![Stars](https://img.shields.io/github/stars/mpv-player/mpv?style=flat-square&color=yellow)](https://github.com/mpv-player/mpv/stargazers) [![Forks](https://img.shields.io/github/forks/mpv-player/mpv?style=flat-square&color=blue)](https://github.com/mpv-player/mpv/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpv-player/mpv?style=flat-square&color=yellow)](https://github.com/mpv-player/mpv/stargazers) [![Forks](https://img.shields.io/github/forks/mpv-player/mpv?style=flat-square&color=blue)](https://github.com/mpv-player/mpv/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🎥 Command line media player
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35.8k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ mpv 是一款基于 libmpv 的跨平台命令行媒体播放器，支持几乎�
 | forks | 88/100 |
 | stars | 97/100 |
 | topics | 88/100 |
-| outlook | 65/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

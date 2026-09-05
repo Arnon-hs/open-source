@@ -1,6 +1,6 @@
 # devlint/GitWand
 
-[![Stars](https://img.shields.io/github/stars/devlint/GitWand?style=flat-square&color=yellow)](https://github.com/devlint/GitWand/stargazers) [![Forks](https://img.shields.io/github/forks/devlint/GitWand?style=flat-square&color=blue)](https://github.com/devlint/GitWand/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devlint/GitWand?style=flat-square&color=yellow)](https://github.com/devlint/GitWand/stargazers) [![Forks](https://img.shields.io/github/forks/devlint/GitWand?style=flat-square&color=blue)](https://github.com/devlint/GitWand/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > GitWand automatically resolves trivial Git merge conflicts — the ones that waste your time but don't need human judgment. Think of it as PhpStorm's magic wand, everywhere.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ GitWand 是一款开源工具，能够自动化处理“毫无意义”的 Git �
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

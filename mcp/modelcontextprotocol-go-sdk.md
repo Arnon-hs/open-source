@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -72,6 +72,7 @@ modelcontextprotocol/go-sdk：modelcontextprotocol/go-sdk helps connect AI assis
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

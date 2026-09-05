@@ -1,6 +1,6 @@
 # lnbits/lnbits
 
-[![Stars](https://img.shields.io/github/stars/lnbits/lnbits?style=flat-square&color=yellow)](https://github.com/lnbits/lnbits/stargazers) [![Forks](https://img.shields.io/github/forks/lnbits/lnbits?style=flat-square&color=blue)](https://github.com/lnbits/lnbits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lnbits/lnbits?style=flat-square&color=yellow)](https://github.com/lnbits/lnbits/stargazers) [![Forks](https://img.shields.io/github/forks/lnbits/lnbits?style=flat-square&color=blue)](https://github.com/lnbits/lnbits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > LNbits, free and open-source Lightning wallet and accounts system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ LNbits 是一款免费且开源的 Lightning 网络钱包与多账户系统，�
 | forks | 65/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

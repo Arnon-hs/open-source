@@ -1,6 +1,6 @@
 # hwchase17/langchain
 
-[![Stars](https://img.shields.io/github/stars/hwchase17/langchain?style=flat-square&color=yellow)](https://github.com/hwchase17/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/hwchase17/langchain?style=flat-square&color=blue)](https://github.com/hwchase17/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwchase17/langchain?style=flat-square&color=yellow)](https://github.com/hwchase17/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/hwchase17/langchain?style=flat-square&color=blue)](https://github.com/hwchase17/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > The agent engineering platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145k |
 | 🍴 **Forks** | 24.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ hwchase17/langchain：hwchase17/langchain helps turn isolated prompts and tools 
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 88/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 81/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

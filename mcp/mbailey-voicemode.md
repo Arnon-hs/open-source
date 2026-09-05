@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ mbailey/voicemode：mbailey/voicemode helps connect AI assistants to real tools 
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

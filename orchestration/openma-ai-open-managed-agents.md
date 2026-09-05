@@ -1,6 +1,6 @@
 # openma-ai/open-managed-agents
 
-[![Stars](https://img.shields.io/github/stars/openma-ai/open-managed-agents?style=flat-square&color=yellow)](https://github.com/openma-ai/open-managed-agents/stargazers) [![Forks](https://img.shields.io/github/forks/openma-ai/open-managed-agents?style=flat-square&color=blue)](https://github.com/openma-ai/open-managed-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openma-ai/open-managed-agents?style=flat-square&color=yellow)](https://github.com/openma-ai/open-managed-agents/stargazers) [![Forks](https://img.shields.io/github/forks/openma-ai/open-managed-agents?style=flat-square&color=blue)](https://github.com/openma-ai/open-managed-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ openma-ai/open-managed-agents 是一套开源的 Claude Managed Agents API 实�
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

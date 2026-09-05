@@ -1,6 +1,6 @@
 # php/frankenphp
 
-[![Stars](https://img.shields.io/github/stars/php/frankenphp?style=flat-square&color=yellow)](https://github.com/php/frankenphp/stargazers) [![Forks](https://img.shields.io/github/forks/php/frankenphp?style=flat-square&color=blue)](https://github.com/php/frankenphp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/php/frankenphp?style=flat-square&color=yellow)](https://github.com/php/frankenphp/stargazers) [![Forks](https://img.shields.io/github/forks/php/frankenphp?style=flat-square&color=blue)](https://github.com/php/frankenphp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🧟 The modern PHP app server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.2k |
 | 🍴 **Forks** | 464 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Frankenphp 的生产可用性非常高。它有 11218 个 GitHub 星星，464 �
 | forks | 67/100 |
 | stars | 86/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

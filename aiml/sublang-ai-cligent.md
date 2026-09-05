@@ -1,6 +1,6 @@
 # sublang-ai/cligent
 
-[![Stars](https://img.shields.io/github/stars/sublang-ai/cligent?style=flat-square&color=yellow)](https://github.com/sublang-ai/cligent/stargazers) [![Forks](https://img.shields.io/github/forks/sublang-ai/cligent?style=flat-square&color=blue)](https://github.com/sublang-ai/cligent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sublang-ai/cligent?style=flat-square&color=yellow)](https://github.com/sublang-ai/cligent/stargazers) [![Forks](https://img.shields.io/github/forks/sublang-ai/cligent?style=flat-square&color=blue)](https://github.com/sublang-ai/cligent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Unified TypeScript SDK for AI agents - Claude Code, Codex, Gemini CLI, OpenCode, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ sublang-ai/cligent 的生产可用性较高，主要原因是：
 | forks | 8/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

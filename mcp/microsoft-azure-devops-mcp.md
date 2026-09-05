@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 545 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP
+MCP · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ microsoft/azure-devops-mcp：microsoft/azure-devops-mcp helps connect AI assista
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

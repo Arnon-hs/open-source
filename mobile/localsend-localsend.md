@@ -1,6 +1,6 @@
 # localsend/localsend
 
-[![Stars](https://img.shields.io/github/stars/localsend/localsend?style=flat-square&color=yellow)](https://github.com/localsend/localsend/stargazers) [![Forks](https://img.shields.io/github/forks/localsend/localsend?style=flat-square&color=blue)](https://github.com/localsend/localsend/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/localsend/localsend?style=flat-square&color=yellow)](https://github.com/localsend/localsend/stargazers) [![Forks](https://img.shields.io/github/forks/localsend/localsend?style=flat-square&color=blue)](https://github.com/localsend/localsend/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source cross-platform alternative to AirDrop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85.4k |
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ localsend/localsend 的生产可用性很高，最近有活跃的活动，采用
 | forks | 92/100 |
 | stars | 100/100 |
 | topics | 50/100 |
-| outlook | 62/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

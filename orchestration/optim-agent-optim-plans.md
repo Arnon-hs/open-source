@@ -1,6 +1,6 @@
 # Optim-Agent/optim-plans
 
-[![Stars](https://img.shields.io/github/stars/Optim-Agent/optim-plans?style=flat-square&color=yellow)](https://github.com/Optim-Agent/optim-plans/stargazers) [![Forks](https://img.shields.io/github/forks/Optim-Agent/optim-plans?style=flat-square&color=blue)](https://github.com/Optim-Agent/optim-plans/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Optim-Agent/optim-plans?style=flat-square&color=yellow)](https://github.com/Optim-Agent/optim-plans/stargazers) [![Forks](https://img.shields.io/github/forks/Optim-Agent/optim-plans?style=flat-square&color=blue)](https://github.com/Optim-Agent/optim-plans/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enforce explicit execution gates, and provide tested controller primitives for safer agent workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ Optim-Agent/optim-plans 的
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

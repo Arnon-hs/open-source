@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ ClickHouse/ai-sdk-cpp：ClickHouse/ai-sdk-cpp helps add AI capability without st
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

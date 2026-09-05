@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ AXERA-TECH/ax-llm：AXERA-TECH/ax-llm helps add AI capability without starting f
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # posit-dev/chatlas
 
-[![Stars](https://img.shields.io/github/stars/posit-dev/chatlas?style=flat-square&color=yellow)](https://github.com/posit-dev/chatlas/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/chatlas?style=flat-square&color=blue)](https://github.com/posit-dev/chatlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/posit-dev/chatlas?style=flat-square&color=yellow)](https://github.com/posit-dev/chatlas/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/chatlas?style=flat-square&color=blue)](https://github.com/posit-dev/chatlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Your friendly guide to building LLM chat apps in Python with less effort and more clarity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ posit‑dev/chatlas 是一款面向 Python 开发者的开源框架，帮助你�
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 44/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

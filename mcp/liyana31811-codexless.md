@@ -1,6 +1,6 @@
 # liyana31811/Codexless
 
-[![Stars](https://img.shields.io/github/stars/liyana31811/Codexless?style=flat-square&color=yellow)](https://github.com/liyana31811/Codexless/stargazers) [![Forks](https://img.shields.io/github/forks/liyana31811/Codexless?style=flat-square&color=blue)](https://github.com/liyana31811/Codexless/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liyana31811/Codexless?style=flat-square&color=yellow)](https://github.com/liyana31811/Codexless/stargazers) [![Forks](https://img.shields.io/github/forks/liyana31811/Codexless?style=flat-square&color=blue)](https://github.com/liyana31811/Codexless/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Let ChatGPT use Codex's local toolbox, then call Codex only when needed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ liyana31811/Codexless：liyana31811/Codexless helps connect AI assistants to rea
 | forks | 23/100 |
 | stars | 34/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

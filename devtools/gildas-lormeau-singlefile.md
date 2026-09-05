@@ -1,6 +1,6 @@
 # gildas-lormeau/SingleFile
 
-[![Stars](https://img.shields.io/github/stars/gildas-lormeau/SingleFile?style=flat-square&color=yellow)](https://github.com/gildas-lormeau/SingleFile/stargazers) [![Forks](https://img.shields.io/github/forks/gildas-lormeau/SingleFile?style=flat-square&color=blue)](https://github.com/gildas-lormeau/SingleFile/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gildas-lormeau/SingleFile?style=flat-square&color=yellow)](https://github.com/gildas-lormeau/SingleFile/stargazers) [![Forks](https://img.shields.io/github/forks/gildas-lormeau/SingleFile?style=flat-square&color=blue)](https://github.com/gildas-lormeau/SingleFile/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Web Extension for saving a faithful copy of a complete web page in a single HTML file
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ gildas-lormeau/SingleFile是一个开源项目，提供了一个Web扩展，可�
 | forks | 79/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 85/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

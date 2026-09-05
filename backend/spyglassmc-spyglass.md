@@ -1,6 +1,6 @@
 # SpyglassMC/Spyglass
 
-[![Stars](https://img.shields.io/github/stars/SpyglassMC/Spyglass?style=flat-square&color=yellow)](https://github.com/SpyglassMC/Spyglass/stargazers) [![Forks](https://img.shields.io/github/forks/SpyglassMC/Spyglass?style=flat-square&color=blue)](https://github.com/SpyglassMC/Spyglass/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SpyglassMC/Spyglass?style=flat-square&color=yellow)](https://github.com/SpyglassMC/Spyglass/stargazers) [![Forks](https://img.shields.io/github/forks/SpyglassMC/Spyglass?style=flat-square&color=blue)](https://github.com/SpyglassMC/Spyglass/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Development tools for vanilla Minecraft: Java Edition data pack developers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ SpyglassMC/Spyglass 项目有 455 个 GitHub 星标和 49 个 Forks，使用 Typ
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

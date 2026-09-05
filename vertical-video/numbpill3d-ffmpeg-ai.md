@@ -1,6 +1,6 @@
 # numbpill3d/ffmpeg-ai
 
-[![Stars](https://img.shields.io/github/stars/numbpill3d/ffmpeg-ai?style=flat-square&color=yellow)](https://github.com/numbpill3d/ffmpeg-ai/stargazers) [![Forks](https://img.shields.io/github/forks/numbpill3d/ffmpeg-ai?style=flat-square&color=blue)](https://github.com/numbpill3d/ffmpeg-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/numbpill3d/ffmpeg-ai?style=flat-square&color=yellow)](https://github.com/numbpill3d/ffmpeg-ai/stargazers) [![Forks](https://img.shields.io/github/forks/numbpill3d/ffmpeg-ai?style=flat-square&color=blue)](https://github.com/numbpill3d/ffmpeg-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, deterministic Python CLI that generates complete YouTube Shorts, TikToks, and landscape videos end-to-end using entirely free AI services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ numbpill3d/ffmpeg-ai：numbpill3d/ffmpeg-ai helps automate short-form video prod
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 62/100 |
-| recency | 80/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

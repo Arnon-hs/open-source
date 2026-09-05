@@ -1,6 +1,6 @@
 # liutaocode/TTS-arxiv-daily
 
-[![Stars](https://img.shields.io/github/stars/liutaocode/TTS-arxiv-daily?style=flat-square&color=yellow)](https://github.com/liutaocode/TTS-arxiv-daily/stargazers) [![Forks](https://img.shields.io/github/forks/liutaocode/TTS-arxiv-daily?style=flat-square&color=blue)](https://github.com/liutaocode/TTS-arxiv-daily/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liutaocode/TTS-arxiv-daily?style=flat-square&color=yellow)](https://github.com/liutaocode/TTS-arxiv-daily/stargazers) [![Forks](https://img.shields.io/github/forks/liutaocode/TTS-arxiv-daily?style=flat-square&color=blue)](https://github.com/liutaocode/TTS-arxiv-daily/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 663 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ liutaocode/TTS-arxiv-daily 是一个开源项目，利用 Github Actions 每 12 
 | forks | 41/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # affaan-m/agentshield
 
-[![Stars](https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&color=yellow)](https://github.com/affaan-m/agentshield/stargazers) [![Forks](https://img.shields.io/github/forks/affaan-m/agentshield?style=flat-square&color=blue)](https://github.com/affaan-m/agentshield/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&color=yellow)](https://github.com/affaan-m/agentshield/stargazers) [![Forks](https://img.shields.io/github/forks/affaan-m/agentshield?style=flat-square&color=blue)](https://github.com/affaan-m/agentshield/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 616 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ affaan-m/agentshield 是一款 AI Agent 安全扫描器，能够自动检测 Age
 | forks | 53/100 |
 | stars | 59/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

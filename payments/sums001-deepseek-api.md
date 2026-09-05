@@ -1,6 +1,6 @@
 # sums001/Deepseek-API
 
-[![Stars](https://img.shields.io/github/stars/sums001/Deepseek-API?style=flat-square&color=yellow)](https://github.com/sums001/Deepseek-API/stargazers) [![Forks](https://img.shields.io/github/forks/sums001/Deepseek-API?style=flat-square&color=blue)](https://github.com/sums001/Deepseek-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sums001/Deepseek-API?style=flat-square&color=yellow)](https://github.com/sums001/Deepseek-API/stargazers) [![Forks](https://img.shields.io/github/forks/sums001/Deepseek-API?style=flat-square&color=blue)](https://github.com/sums001/Deepseek-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ sums001/Deepseek-API 通过逆向工程将 Deepseek Chat（V4、R1）包装成
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

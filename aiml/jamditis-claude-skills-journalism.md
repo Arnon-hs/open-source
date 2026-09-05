@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ Open‑source проект **jamditis/claude-skills-journalism** предост�
 
 ### 中文
 
-jamditis/claude-skills-journalism：jamditis/claude-skills-journalism helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+jamditis/claude-skills-journalism：jamditis/claude-skills-journalism helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** jamditis/claude-skills-journalism helps add AI capability without starting from a blank model stack.
+**Value:** jamditis/claude-skills-journalism helps convert raw data into searchable, analyzable, or automated pipelines.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- organize analytics pipelines
+- process datasets
+- improve reporting workflows
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +65,18 @@ jamditis/claude-skills-journalism：jamditis/claude-skills-journalism helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 46/100 |
-| stars | 49/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

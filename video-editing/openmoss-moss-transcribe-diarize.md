@@ -1,6 +1,6 @@
 # OpenMOSS/MOSS-Transcribe-Diarize
 
-[![Stars](https://img.shields.io/github/stars/OpenMOSS/MOSS-Transcribe-Diarize?style=flat-square&color=yellow)](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMOSS/MOSS-Transcribe-Diarize?style=flat-square&color=blue)](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenMOSS/MOSS-Transcribe-Diarize?style=flat-square&color=yellow)](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMOSS/MOSS-Transcribe-Diarize?style=flat-square&color=blue)](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MOSS-Transcribe-Diarize 0.9B is an open-source SOTA end-to-end audio understanding model for long-form multi-speaker transcription, diarization, timestamps, and acoustic event awareness.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ OpenMOSS/MOSS-Transcribe-Diarize 在生产环境中的可用性为中等（Mediu
 | forks | 46/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

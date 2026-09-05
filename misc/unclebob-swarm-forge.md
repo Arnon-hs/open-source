@@ -1,6 +1,6 @@
 # unclebob/swarm-forge
 
-[![Stars](https://img.shields.io/github/stars/unclebob/swarm-forge?style=flat-square&color=yellow)](https://github.com/unclebob/swarm-forge/stargazers) [![Forks](https://img.shields.io/github/forks/unclebob/swarm-forge?style=flat-square&color=blue)](https://github.com/unclebob/swarm-forge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unclebob/swarm-forge?style=flat-square&color=yellow)](https://github.com/unclebob/swarm-forge/stargazers) [![Forks](https://img.shields.io/github/forks/unclebob/swarm-forge?style=flat-square&color=blue)](https://github.com/unclebob/swarm-forge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A simple tool for coordinating several AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Unclebob’s **swarm‑forge** is a lightweight, shell‑based utility that lets
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

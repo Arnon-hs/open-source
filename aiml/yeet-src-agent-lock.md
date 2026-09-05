@@ -1,6 +1,6 @@
 # yeet-src/agent-lock
 
-[![Stars](https://img.shields.io/github/stars/yeet-src/agent-lock?style=flat-square&color=yellow)](https://github.com/yeet-src/agent-lock/stargazers) [![Forks](https://img.shields.io/github/forks/yeet-src/agent-lock?style=flat-square&color=blue)](https://github.com/yeet-src/agent-lock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yeet-src/agent-lock?style=flat-square&color=yellow)](https://github.com/yeet-src/agent-lock/stargazers) [![Forks](https://img.shields.io/github/forks/yeet-src/agent-lock?style=flat-square&color=blue)](https://github.com/yeet-src/agent-lock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Confine an AI agent (Claude Code, Codex, oh-my-pi, ...) to one directory with a BPF-LSM program, and watch it live over eBPF.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -141,11 +141,11 @@ yeet-src/agent‑lock 通过 BPF‑LSM 程序将 Claude Code、Codex、oh‑my�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # rtvkiz/minimal
 
-[![Stars](https://img.shields.io/github/stars/rtvkiz/minimal?style=flat-square&color=yellow)](https://github.com/rtvkiz/minimal/stargazers) [![Forks](https://img.shields.io/github/forks/rtvkiz/minimal?style=flat-square&color=blue)](https://github.com/rtvkiz/minimal/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rtvkiz/minimal?style=flat-square&color=yellow)](https://github.com/rtvkiz/minimal/stargazers) [![Forks](https://img.shields.io/github/forks/rtvkiz/minimal?style=flat-square&color=blue)](https://github.com/rtvkiz/minimal/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal CVE Hardened container image collection
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 504 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ rtvkiz/minimal：rtvkiz/minimal helps add AI capability without starting from a 
 | forks | 34/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

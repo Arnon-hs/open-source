@@ -1,6 +1,6 @@
 # leox255/loopsy
 
-[![Stars](https://img.shields.io/github/stars/leox255/loopsy?style=flat-square&color=yellow)](https://github.com/leox255/loopsy/stargazers) [![Forks](https://img.shields.io/github/forks/leox255/loopsy?style=flat-square&color=blue)](https://github.com/leox255/loopsy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leox255/loopsy?style=flat-square&color=yellow)](https://github.com/leox255/loopsy/stargazers) [![Forks](https://img.shields.io/github/forks/leox255/loopsy?style=flat-square&color=blue)](https://github.com/leox255/loopsy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-machine AI agent communication, plus a mobile app to control any terminal on your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ leox255/loopsy 是一个跨机器的 AI 代理通信框架，并配套提供一�
 | forks | 19/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 37/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 42/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

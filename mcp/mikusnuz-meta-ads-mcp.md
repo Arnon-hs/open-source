@@ -1,6 +1,6 @@
 # mikusnuz/meta-ads-mcp
 
-[![Stars](https://img.shields.io/github/stars/mikusnuz/meta-ads-mcp?style=flat-square&color=yellow)](https://github.com/mikusnuz/meta-ads-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mikusnuz/meta-ads-mcp?style=flat-square&color=blue)](https://github.com/mikusnuz/meta-ads-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikusnuz/meta-ads-mcp?style=flat-square&color=yellow)](https://github.com/mikusnuz/meta-ads-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mikusnuz/meta-ads-mcp?style=flat-square&color=blue)](https://github.com/mikusnuz/meta-ads-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Meta Marketing API v25.0 — 135 tools for Facebook & Instagram ad campaign management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ mikusnuz/meta-ads-mcp 帮助连接 AI 助手到真实工具和数据，通过标
 | forks | 28/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

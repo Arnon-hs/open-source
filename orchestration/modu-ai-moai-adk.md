@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ modu-ai/moai-adk：modu-ai/moai-adk helps turn isolated prompts and tools into r
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

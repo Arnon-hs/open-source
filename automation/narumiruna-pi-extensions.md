@@ -1,6 +1,6 @@
 # narumiruna/pi-extensions
 
-[![Stars](https://img.shields.io/github/stars/narumiruna/pi-extensions?style=flat-square&color=yellow)](https://github.com/narumiruna/pi-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/narumiruna/pi-extensions?style=flat-square&color=blue)](https://github.com/narumiruna/pi-extensions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/narumiruna/pi-extensions?style=flat-square&color=yellow)](https://github.com/narumiruna/pi-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/narumiruna/pi-extensions?style=flat-square&color=blue)](https://github.com/narumiruna/pi-extensions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Python and more,  Chrome DevTools automation, Firecrawl web scraping, Google GenAI/Gemini grounding, Codex tools, statuslines, subagents, and S3/R2 sync.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Cloud & Storage · Backend · DevTools
 
 ## 📝 Summary
 
@@ -92,15 +92,15 @@ narumiruna/pi-extensions 的生产可用性较高，项目最近有活跃开发�
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # thystra/wp-argent-video-processor
 
-[![Stars](https://img.shields.io/github/stars/thystra/wp-argent-video-processor?style=flat-square&color=yellow)](https://github.com/thystra/wp-argent-video-processor/stargazers) [![Forks](https://img.shields.io/github/forks/thystra/wp-argent-video-processor?style=flat-square&color=blue)](https://github.com/thystra/wp-argent-video-processor/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thystra/wp-argent-video-processor?style=flat-square&color=yellow)](https://github.com/thystra/wp-argent-video-processor/stargazers) [![Forks](https://img.shields.io/github/forks/thystra/wp-argent-video-processor?style=flat-square&color=blue)](https://github.com/thystra/wp-argent-video-processor/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #selfhosted by @alan
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | mastodon |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ I'm happy to report the development and installation of a new video plugin which
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 39/100 |
-| quality | 29/100 |
-| recency | 60/100 |
+| outlook | 46/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 46/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

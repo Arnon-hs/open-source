@@ -1,6 +1,6 @@
 # microsoft/ebpf-for-windows
 
-[![Stars](https://img.shields.io/github/stars/microsoft/ebpf-for-windows?style=flat-square&color=yellow)](https://github.com/microsoft/ebpf-for-windows/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ebpf-for-windows?style=flat-square&color=blue)](https://github.com/microsoft/ebpf-for-windows/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/ebpf-for-windows?style=flat-square&color=yellow)](https://github.com/microsoft/ebpf-for-windows/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ebpf-for-windows?style=flat-square&color=blue)](https://github.com/microsoft/ebpf-for-windows/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF implementation that runs on top of Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Microsoft’s **ebpf‑for‑windows** brings the eBPF (extended Berkeley Packet
 | forks | 61/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

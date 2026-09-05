@@ -1,6 +1,6 @@
 # vitodeploy/vito
 
-[![Stars](https://img.shields.io/github/stars/vitodeploy/vito?style=flat-square&color=yellow)](https://github.com/vitodeploy/vito/stargazers) [![Forks](https://img.shields.io/github/forks/vitodeploy/vito?style=flat-square&color=blue)](https://github.com/vitodeploy/vito/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vitodeploy/vito?style=flat-square&color=yellow)](https://github.com/vitodeploy/vito/stargazers) [![Forks](https://img.shields.io/github/forks/vitodeploy/vito?style=flat-square&color=blue)](https://github.com/vitodeploy/vito/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Free and Self-Hosted  Server Management Tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 407 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ vitodeploy/vito 是一款免费且自托管的服务器管理工具，旨在帮�
 | forks | 65/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

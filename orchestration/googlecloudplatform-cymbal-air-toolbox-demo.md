@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Database
+Orchestration · MCP · Knowledge/RAG · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 

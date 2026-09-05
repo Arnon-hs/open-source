@@ -1,6 +1,6 @@
 # martijnversluis/ChordSheetJS
 
-[![Stars](https://img.shields.io/github/stars/martijnversluis/ChordSheetJS?style=flat-square&color=yellow)](https://github.com/martijnversluis/ChordSheetJS/stargazers) [![Forks](https://img.shields.io/github/forks/martijnversluis/ChordSheetJS?style=flat-square&color=blue)](https://github.com/martijnversluis/ChordSheetJS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martijnversluis/ChordSheetJS?style=flat-square&color=yellow)](https://github.com/martijnversluis/ChordSheetJS/stargazers) [![Forks](https://img.shields.io/github/forks/martijnversluis/ChordSheetJS?style=flat-square&color=blue)](https://github.com/martijnversluis/ChordSheetJS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript library for parsing and formatting chords and chord sheets
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ ChordSheetJS 的生产可用性为中等（Medium）。它适合用于原型开�
 | forks | 46/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

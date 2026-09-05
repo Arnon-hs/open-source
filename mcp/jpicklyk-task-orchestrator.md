@@ -1,6 +1,6 @@
 # jpicklyk/task-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/jpicklyk/task-orchestrator?style=flat-square&color=yellow)](https://github.com/jpicklyk/task-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/jpicklyk/task-orchestrator?style=flat-square&color=blue)](https://github.com/jpicklyk/task-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jpicklyk/task-orchestrator?style=flat-square&color=yellow)](https://github.com/jpicklyk/task-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/jpicklyk/task-orchestrator?style=flat-square&color=blue)](https://github.com/jpicklyk/task-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the server blocks the call if they don't. Works with any MCP-compatible client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ jpicklyk/task‑orchestrator 是一个基于 MCP（Multi‑Chain Protocol）的�
 | forks | 34/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

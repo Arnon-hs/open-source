@@ -1,6 +1,6 @@
 # sunjw/jstoolnpp
 
-[![Stars](https://img.shields.io/github/stars/sunjw/jstoolnpp?style=flat-square&color=yellow)](https://github.com/sunjw/jstoolnpp/stargazers) [![Forks](https://img.shields.io/github/forks/sunjw/jstoolnpp?style=flat-square&color=blue)](https://github.com/sunjw/jstoolnpp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunjw/jstoolnpp?style=flat-square&color=yellow)](https://github.com/sunjw/jstoolnpp/stargazers) [![Forks](https://img.shields.io/github/forks/sunjw/jstoolnpp?style=flat-square&color=blue)](https://github.com/sunjw/jstoolnpp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript (JSON) tool for Notepad++ (formerly JSMinNpp) and Visual Studio Code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ sunjw/jstoolnpp 的生产可用性很高，主要原因包括：
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

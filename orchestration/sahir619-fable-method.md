@@ -1,6 +1,6 @@
 # Sahir619/fable-method
 
-[![Stars](https://img.shields.io/github/stars/Sahir619/fable-method?style=flat-square&color=yellow)](https://github.com/Sahir619/fable-method/stargazers) [![Forks](https://img.shields.io/github/forks/Sahir619/fable-method?style=flat-square&color=blue)](https://github.com/Sahir619/fable-method/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sahir619/fable-method?style=flat-square&color=yellow)](https://github.com/Sahir619/fable-method/stargazers) [![Forks](https://img.shields.io/github/forks/Sahir619/fable-method?style=flat-square&color=blue)](https://github.com/Sahir619/fable-method/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Sahir619/fable-method 将 Claude Fable 5 的工作流提炼为一套可直�
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

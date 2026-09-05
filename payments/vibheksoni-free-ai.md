@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Astro |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Automation · AI/ML · Backend
+Payments · Automation · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ vibheksoni/free-ai：vibheksoni/free-ai helps integrate monetization, billing, o
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

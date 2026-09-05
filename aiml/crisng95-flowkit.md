@@ -1,6 +1,6 @@
 # crisng95/flowkit
 
-[![Stars](https://img.shields.io/github/stars/crisng95/flowkit?style=flat-square&color=yellow)](https://github.com/crisng95/flowkit/stargazers) [![Forks](https://img.shields.io/github/forks/crisng95/flowkit?style=flat-square&color=blue)](https://github.com/crisng95/flowkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crisng95/flowkit?style=flat-square&color=yellow)](https://github.com/crisng95/flowkit/stargazers) [![Forks](https://img.shields.io/github/forks/crisng95/flowkit?style=flat-square&color=blue)](https://github.com/crisng95/flowkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent can create video content better than you. No reason why you do it manually in google flow!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 508 |
 | 🍴 **Forks** | 303 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ FlowKit（crisng95/flowkit）是一个基于 Python 的开源框架，能够快�
 | forks | 62/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

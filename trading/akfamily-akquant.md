@@ -1,6 +1,6 @@
 # akfamily/akquant
 
-[![Stars](https://img.shields.io/github/stars/akfamily/akquant?style=flat-square&color=yellow)](https://github.com/akfamily/akquant/stargazers) [![Forks](https://img.shields.io/github/forks/akfamily/akquant?style=flat-square&color=blue)](https://github.com/akfamily/akquant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akfamily/akquant?style=flat-square&color=yellow)](https://github.com/akfamily/akquant/stargazers) [![Forks](https://img.shields.io/github/forks/akfamily/akquant?style=flat-square&color=blue)](https://github.com/akfamily/akquant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AKQuant is a high-performance quantitative research and trading framework built on Rust and Python! 开源量化回测框架
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ AKQuant 的生产可用性非常高，主要原因是：
 | forks | 60/100 |
 | stars | 70/100 |
 | topics | 50/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

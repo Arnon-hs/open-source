@@ -1,6 +1,6 @@
 # ron190/jsql-injection
 
-[![Stars](https://img.shields.io/github/stars/ron190/jsql-injection?style=flat-square&color=yellow)](https://github.com/ron190/jsql-injection/stargazers) [![Forks](https://img.shields.io/github/forks/ron190/jsql-injection?style=flat-square&color=blue)](https://github.com/ron190/jsql-injection/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ron190/jsql-injection?style=flat-square&color=yellow)](https://github.com/ron190/jsql-injection/stargazers) [![Forks](https://img.shields.io/github/forks/ron190/jsql-injection?style=flat-square&color=blue)](https://github.com/ron190/jsql-injection/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > jSQL Injection is a Java application for automatic SQL database injection.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 440 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ron190/jsql-injection 是一款基于 Java 的自动化 SQL 注入工具，能�
 | forks | 66/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

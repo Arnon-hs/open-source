@@ -1,6 +1,6 @@
 # mrousavy/react-native-vision-camera
 
-[![Stars](https://img.shields.io/github/stars/mrousavy/react-native-vision-camera?style=flat-square&color=yellow)](https://github.com/mrousavy/react-native-vision-camera/stargazers) [![Forks](https://img.shields.io/github/forks/mrousavy/react-native-vision-camera?style=flat-square&color=blue)](https://github.com/mrousavy/react-native-vision-camera/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrousavy/react-native-vision-camera?style=flat-square&color=yellow)](https://github.com/mrousavy/react-native-vision-camera/stargazers) [![Forks](https://img.shields.io/github/forks/mrousavy/react-native-vision-camera?style=flat-square&color=blue)](https://github.com/mrousavy/react-native-vision-camera/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 📸 A powerful, high-performance React Native Camera library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ mrousavy/react-native-vision-camera 是一款面向 React Native 的高性能�
 | forks | 78/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 72/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

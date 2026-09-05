@@ -1,6 +1,6 @@
 # ueberdosis/hocuspocus
 
-[![Stars](https://img.shields.io/github/stars/ueberdosis/hocuspocus?style=flat-square&color=yellow)](https://github.com/ueberdosis/hocuspocus/stargazers) [![Forks](https://img.shields.io/github/forks/ueberdosis/hocuspocus?style=flat-square&color=blue)](https://github.com/ueberdosis/hocuspocus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ueberdosis/hocuspocus?style=flat-square&color=yellow)](https://github.com/ueberdosis/hocuspocus/stargazers) [![Forks](https://img.shields.io/github/forks/ueberdosis/hocuspocus?style=flat-square&color=blue)](https://github.com/ueberdosis/hocuspocus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ueberdosis/hocuspocus 是基于 Yjs 的 CRDT WebSocket 后端，实现了冲突�
 | forks | 57/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

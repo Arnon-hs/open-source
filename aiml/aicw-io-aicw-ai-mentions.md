@@ -1,6 +1,6 @@
 # aicw-io/aicw-ai-mentions
 
-[![Stars](https://img.shields.io/github/stars/aicw-io/aicw-ai-mentions?style=flat-square&color=yellow)](https://github.com/aicw-io/aicw-ai-mentions/stargazers) [![Forks](https://img.shields.io/github/forks/aicw-io/aicw-ai-mentions?style=flat-square&color=blue)](https://github.com/aicw-io/aicw-ai-mentions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aicw-io/aicw-ai-mentions?style=flat-square&color=yellow)](https://github.com/aicw-io/aicw-ai-mentions/stargazers) [![Forks](https://img.shields.io/github/forks/aicw-io/aicw-ai-mentions?style=flat-square&color=blue)](https://github.com/aicw-io/aicw-ai-mentions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AICW AI Mentions (formerly AICW Rankings) is an open-source tool that helps online marketers track how often their products are mentioned in responses from popular AI chatbots.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ AICW AI Mentions（原 AICW Rankings）是一款开源工具，能够自动抓�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

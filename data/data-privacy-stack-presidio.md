@@ -1,6 +1,6 @@
 # data-privacy-stack/presidio
 
-[![Stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=flat-square&color=yellow)](https://github.com/data-privacy-stack/presidio/stargazers) [![Forks](https://img.shields.io/github/forks/data-privacy-stack/presidio?style=flat-square&color=blue)](https://github.com/data-privacy-stack/presidio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=flat-square&color=yellow)](https://github.com/data-privacy-stack/presidio/stargazers) [![Forks](https://img.shields.io/github/forks/data-privacy-stack/presidio?style=flat-square&color=blue)](https://github.com/data-privacy-stack/presidio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Presidio 有很高的生产可用性，特别是考虑到其开源性、活跃�
 | forks | 77/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

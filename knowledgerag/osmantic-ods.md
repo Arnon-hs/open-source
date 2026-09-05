@@ -1,6 +1,6 @@
 # Osmantic/ODS
 
-[![Stars](https://img.shields.io/github/stars/Osmantic/ODS?style=flat-square&color=yellow)](https://github.com/Osmantic/ODS/stargazers) [![Forks](https://img.shields.io/github/forks/Osmantic/ODS?style=flat-square&color=blue)](https://github.com/Osmantic/ODS/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Osmantic/ODS?style=flat-square&color=yellow)](https://github.com/Osmantic/ODS/stargazers) [![Forks](https://img.shields.io/github/forks/Osmantic/ODS?style=flat-square&color=blue)](https://github.com/Osmantic/ODS/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 389 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · DevOps/Infra
+Knowledge/RAG · Automation · AI/ML · Communication · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Osmantic/ODS 的生产可用性非常高，尤其是考虑到它是一个开源�
 | forks | 65/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

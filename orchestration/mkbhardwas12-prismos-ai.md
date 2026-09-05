@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Database
+Orchestration · AI/ML · Productivity · Frontend · Database
 
 ## 📝 Summary
 
@@ -111,7 +111,7 @@ mkbhardwas12/prismos-ai 帮助将孤立的提示和工具转换为可重复的�
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

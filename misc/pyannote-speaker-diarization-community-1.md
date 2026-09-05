@@ -1,6 +1,6 @@
 # pyannote/speaker-diarization-community-1
 
-[![Stars](https://img.shields.io/github/stars/pyannote/speaker-diarization-community-1?style=flat-square&color=yellow)](https://huggingface.co/pyannote/speaker-diarization-community-1/stargazers) [![Forks](https://img.shields.io/github/forks/pyannote/speaker-diarization-community-1?style=flat-square&color=blue)](https://huggingface.co/pyannote/speaker-diarization-community-1/network) [![Language](https://img.shields.io/badge/lang-pyannote-audio-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyannote/speaker-diarization-community-1?style=flat-square&color=yellow)](https://huggingface.co/pyannote/speaker-diarization-community-1/stargazers) [![Forks](https://img.shields.io/github/forks/pyannote/speaker-diarization-community-1?style=flat-square&color=blue)](https://huggingface.co/pyannote/speaker-diarization-community-1/network) [![Language](https://img.shields.io/badge/lang-pyannote-audio-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Speech recognition (automatic-speech-recognition) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 865 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | pyannote-audio |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ pyannote/speaker-diarization-community-1 是一个开源项目，提供了一个
 | forks | 0/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 37/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 38/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

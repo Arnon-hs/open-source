@@ -1,6 +1,6 @@
 # signal-sfop/sfop
 
-[![Stars](https://img.shields.io/github/stars/signal-sfop/sfop?style=flat-square&color=yellow)](https://github.com/signal-sfop/sfop/blob/main/SFOP_s%26p_paper.pdf/stargazers) [![Forks](https://img.shields.io/github/forks/signal-sfop/sfop?style=flat-square&color=blue)](https://github.com/signal-sfop/sfop/blob/main/SFOP_s%26p_paper.pdf/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/signal-sfop/sfop?style=flat-square&color=yellow)](https://github.com/signal-sfop/sfop/blob/main/SFOP_s%26p_paper.pdf/stargazers) [![Forks](https://img.shields.io/github/forks/signal-sfop/sfop?style=flat-square&color=blue)](https://github.com/signal-sfop/sfop/blob/main/SFOP_s%26p_paper.pdf/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: Crashing Through Defenses: Exploiting Segfaults and Chaining around Intel CET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 33/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ Crashing Through Defenses: Exploiting Segfaults and Chaining around Intel CET п
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 38/100 |
-| quality | 27/100 |
-| recency | 60/100 |
+| outlook | 45/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 43/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

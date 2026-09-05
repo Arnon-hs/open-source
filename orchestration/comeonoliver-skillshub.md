@@ -1,6 +1,6 @@
 # ComeOnOliver/skillshub
 
-[![Stars](https://img.shields.io/github/stars/ComeOnOliver/skillshub?style=flat-square&color=yellow)](https://github.com/ComeOnOliver/skillshub/stargazers) [![Forks](https://img.shields.io/github/forks/ComeOnOliver/skillshub?style=flat-square&color=blue)](https://github.com/ComeOnOliver/skillshub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComeOnOliver/skillshub?style=flat-square&color=yellow)](https://github.com/ComeOnOliver/skillshub/stargazers) [![Forks](https://img.shields.io/github/forks/ComeOnOliver/skillshub?style=flat-square&color=blue)](https://github.com/ComeOnOliver/skillshub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 The right skill, one API call. AI agent skills registry with token-efficient skill resolution. 5,000+ skills from 500+ top repos.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ComeOnOliver/skillshub 是一个 AI 代理技能注册中心，提供 5,000+ 来
 | forks | 29/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

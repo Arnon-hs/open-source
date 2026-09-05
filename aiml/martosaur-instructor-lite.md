@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ martosaur/instructor_lite：martosaur/instructor_lite helps add AI capability wi
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

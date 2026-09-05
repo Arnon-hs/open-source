@@ -1,6 +1,6 @@
 # tanaer/WindowsClear
 
-[![Stars](https://img.shields.io/github/stars/tanaer/WindowsClear?style=flat-square&color=yellow)](https://github.com/tanaer/WindowsClear/stargazers) [![Forks](https://img.shields.io/github/forks/tanaer/WindowsClear?style=flat-square&color=blue)](https://github.com/tanaer/WindowsClear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tanaer/WindowsClear?style=flat-square&color=yellow)](https://github.com/tanaer/WindowsClear/stargazers) [![Forks](https://img.shields.io/github/forks/tanaer/WindowsClear?style=flat-square&color=blue)](https://github.com/tanaer/WindowsClear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ The project scores a moderate 53/100. It has a healthy community signal (≈ 7
 | forks | 39/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

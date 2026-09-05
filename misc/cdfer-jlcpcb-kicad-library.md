@@ -1,6 +1,6 @@
 # CDFER/JLCPCB-Kicad-Library
 
-[![Stars](https://img.shields.io/github/stars/CDFER/JLCPCB-Kicad-Library?style=flat-square&color=yellow)](https://github.com/CDFER/JLCPCB-Kicad-Library/stargazers) [![Forks](https://img.shields.io/github/forks/CDFER/JLCPCB-Kicad-Library?style=flat-square&color=blue)](https://github.com/CDFER/JLCPCB-Kicad-Library/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CDFER/JLCPCB-Kicad-Library?style=flat-square&color=yellow)](https://github.com/CDFER/JLCPCB-Kicad-Library/stargazers) [![Forks](https://img.shields.io/github/forks/CDFER/JLCPCB-Kicad-Library?style=flat-square&color=blue)](https://github.com/CDFER/JLCPCB-Kicad-Library/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A set of symbols, footprints and 3d models of the basic components from JLCPCB's smt assembly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 527 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ CDFER/JLCPCB‑Kicad‑Library 提供 JLCPCB SMT 组装所需的常用元件符�
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

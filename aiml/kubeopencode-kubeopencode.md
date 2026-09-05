@@ -1,6 +1,6 @@
 # kubeopencode/kubeopencode
 
-[![Stars](https://img.shields.io/github/stars/kubeopencode/kubeopencode?style=flat-square&color=yellow)](https://github.com/kubeopencode/kubeopencode/stargazers) [![Forks](https://img.shields.io/github/forks/kubeopencode/kubeopencode?style=flat-square&color=blue)](https://github.com/kubeopencode/kubeopencode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeopencode/kubeopencode?style=flat-square&color=yellow)](https://github.com/kubeopencode/kubeopencode/stargazers) [![Forks](https://img.shields.io/github/forks/kubeopencode/kubeopencode?style=flat-square&color=blue)](https://github.com/kubeopencode/kubeopencode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Run OpenCode Agent on Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ kubeopencode/kubeopencode 是一个开源项目，旨在在 Kubernetes 环境下
 | forks | 33/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

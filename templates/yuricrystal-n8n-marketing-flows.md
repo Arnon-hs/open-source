@@ -1,6 +1,6 @@
 # YuriCrystal/n8n-marketing-flows
 
-[![Stars](https://img.shields.io/github/stars/YuriCrystal/n8n-marketing-flows?style=flat-square&color=yellow)](https://github.com/YuriCrystal/n8n-marketing-flows/stargazers) [![Forks](https://img.shields.io/github/forks/YuriCrystal/n8n-marketing-flows?style=flat-square&color=blue)](https://github.com/YuriCrystal/n8n-marketing-flows/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YuriCrystal/n8n-marketing-flows?style=flat-square&color=yellow)](https://github.com/YuriCrystal/n8n-marketing-flows/stargazers) [![Forks](https://img.shields.io/github/forks/YuriCrystal/n8n-marketing-flows?style=flat-square&color=blue)](https://github.com/YuriCrystal/n8n-marketing-flows/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 開源 n8n 行銷自動化模板庫 — 79 支可一鍵匯入的工作流(社群/輿情/新聞/廣告/SEO),含免費本機 Ollama 版 + 待接 key 架構範本。Free & open-source n8n marketing-automation workflow templates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Automation · Marketing
+Templates · Automation · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ YuriCrystal/n8n-marketing-flows：YuriCrystal/n8n-marketing-flows helps teams re
 | forks | 43/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

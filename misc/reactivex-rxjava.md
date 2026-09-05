@@ -1,6 +1,6 @@
 # ReactiveX/RxJava
 
-[![Stars](https://img.shields.io/github/stars/ReactiveX/RxJava?style=flat-square&color=yellow)](https://github.com/ReactiveX/RxJava/stargazers) [![Forks](https://img.shields.io/github/forks/ReactiveX/RxJava?style=flat-square&color=blue)](https://github.com/ReactiveX/RxJava/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReactiveX/RxJava?style=flat-square&color=yellow)](https://github.com/ReactiveX/RxJava/stargazers) [![Forks](https://img.shields.io/github/forks/ReactiveX/RxJava?style=flat-square&color=blue)](https://github.com/ReactiveX/RxJava/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48.2k |
 | 🍴 **Forks** | 7.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ RxJava（ReactiveX/RxJava）是面向 JVM 的 Reactive Extensions 实现，提�
 | forks | 97/100 |
 | stars | 100/100 |
 | topics | 50/100 |
-| outlook | 62/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 99/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

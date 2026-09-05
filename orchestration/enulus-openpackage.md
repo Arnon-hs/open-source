@@ -1,6 +1,6 @@
 # enulus/OpenPackage
 
-[![Stars](https://img.shields.io/github/stars/enulus/OpenPackage?style=flat-square&color=yellow)](https://github.com/enulus/OpenPackage/stargazers) [![Forks](https://img.shields.io/github/forks/enulus/OpenPackage?style=flat-square&color=blue)](https://github.com/enulus/OpenPackage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enulus/OpenPackage?style=flat-square&color=yellow)](https://github.com/enulus/OpenPackage/stargazers) [![Forks](https://img.shields.io/github/forks/enulus/OpenPackage?style=flat-square&color=blue)](https://github.com/enulus/OpenPackage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 543 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ enulus/OpenPackage 是一个开源的“全能”代理技能、规则与指令�
 | forks | 37/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

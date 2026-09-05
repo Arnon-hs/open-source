@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Database
+Database · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ gizmodata/gizmosql：gizmodata/gizmosql helps teams persist, query, and move dat
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

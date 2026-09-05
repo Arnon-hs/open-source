@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data
+Knowledge/RAG · AI/ML · Documents · Data
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ onyx-dot-app/EnterpriseRAG-Bench：onyx-dot-app/EnterpriseRAG-Bench helps make i
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Kastalien-Research/thoughtbox
 
-[![Stars](https://img.shields.io/github/stars/Kastalien-Research/thoughtbox?style=flat-square&color=yellow)](https://github.com/Kastalien-Research/thoughtbox/stargazers) [![Forks](https://img.shields.io/github/forks/Kastalien-Research/thoughtbox?style=flat-square&color=blue)](https://github.com/Kastalien-Research/thoughtbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kastalien-Research/thoughtbox?style=flat-square&color=yellow)](https://github.com/Kastalien-Research/thoughtbox/stargazers) [![Forks](https://img.shields.io/github/forks/Kastalien-Research/thoughtbox?style=flat-square&color=blue)](https://github.com/Kastalien-Research/thoughtbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Thoughtbox 已经获得了高生产可用性评分（High），原因包括：
 | forks | 31/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

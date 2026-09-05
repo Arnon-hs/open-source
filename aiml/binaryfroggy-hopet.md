@@ -1,6 +1,6 @@
 # BinaryFroggy/Hopet
 
-[![Stars](https://img.shields.io/github/stars/BinaryFroggy/Hopet?style=flat-square&color=yellow)](https://github.com/BinaryFroggy/Hopet/stargazers) [![Forks](https://img.shields.io/github/forks/BinaryFroggy/Hopet?style=flat-square&color=blue)](https://github.com/BinaryFroggy/Hopet/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BinaryFroggy/Hopet?style=flat-square&color=yellow)](https://github.com/BinaryFroggy/Hopet/stargazers) [![Forks](https://img.shields.io/github/forks/BinaryFroggy/Hopet?style=flat-square&color=blue)](https://github.com/BinaryFroggy/Hopet/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A macOS desktop AI pet that mirrors your Claude Code & Codex CLI session state in real time. 支持Claude Code和Codex CLI 的像素风AI桌面宠物，会话状态实时映射，支持导入自定义宠物素材。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ BinaryFroggy/Hopet 的生产可用性为中等（Medium），适合用于原型�
 | forks | 15/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

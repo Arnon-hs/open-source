@@ -1,6 +1,6 @@
 # enatega/food-delivery-multivendor
 
-[![Stars](https://img.shields.io/github/stars/enatega/food-delivery-multivendor?style=flat-square&color=yellow)](https://github.com/enatega/food-delivery-multivendor/stargazers) [![Forks](https://img.shields.io/github/forks/enatega/food-delivery-multivendor?style=flat-square&color=blue)](https://github.com/enatega/food-delivery-multivendor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enatega/food-delivery-multivendor?style=flat-square&color=yellow)](https://github.com/enatega/food-delivery-multivendor/stargazers) [![Forks](https://img.shields.io/github/forks/enatega/food-delivery-multivendor?style=flat-square&color=blue)](https://github.com/enatega/food-delivery-multivendor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Enatega is a fully customizable and scalable delivery management system that supports multiple business models and service verticals. It allows you to launch and manage your own ordering and logistics platform for food, groceries, home services, courier delivery, and much more, visit the Enatega product page: 🚀🛒📦🌐
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 558 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Enatega/food-delivery-multivendor 帮助团队减少对数据的定制处理，�
 | forks | 69/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

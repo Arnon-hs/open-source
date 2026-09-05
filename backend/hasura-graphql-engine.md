@@ -1,6 +1,6 @@
 # hasura/graphql-engine
 
-[![Stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&color=yellow)](https://github.com/hasura/graphql-engine/stargazers) [![Forks](https://img.shields.io/github/forks/hasura/graphql-engine?style=flat-square&color=blue)](https://github.com/hasura/graphql-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&color=yellow)](https://github.com/hasura/graphql-engine/stargazers) [![Forks](https://img.shields.io/github/forks/hasura/graphql-engine?style=flat-square&color=blue)](https://github.com/hasura/graphql-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Hasura GraphQL Engine在生产环境中具有高可用性，拥有强大的社�
 | forks | 87/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 67/100 |
+| production | 80/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

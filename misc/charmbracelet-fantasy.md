@@ -1,6 +1,6 @@
 # charmbracelet/fantasy
 
-[![Stars](https://img.shields.io/github/stars/charmbracelet/fantasy?style=flat-square&color=yellow)](https://github.com/charmbracelet/fantasy/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/fantasy?style=flat-square&color=blue)](https://github.com/charmbracelet/fantasy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charmbracelet/fantasy?style=flat-square&color=yellow)](https://github.com/charmbracelet/fantasy/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/fantasy?style=flat-square&color=blue)](https://github.com/charmbracelet/fantasy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 752 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Fantasy 为 Go 开发者提供了“一站式”接入多模型 AI 的能力，�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

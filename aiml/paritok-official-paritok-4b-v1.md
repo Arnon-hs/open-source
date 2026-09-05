@@ -1,6 +1,6 @@
 # Paritok-official/paritok-4b-v1
 
-[![Stars](https://img.shields.io/github/stars/Paritok-official/paritok-4b-v1?style=flat-square&color=yellow)](https://github.com/Paritok-official/paritok-4b-v1/stargazers) [![Forks](https://img.shields.io/github/forks/Paritok-official/paritok-4b-v1?style=flat-square&color=blue)](https://github.com/Paritok-official/paritok-4b-v1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Paritok-official/paritok-4b-v1?style=flat-square&color=yellow)](https://github.com/Paritok-official/paritok-4b-v1/stargazers) [![Forks](https://img.shields.io/github/forks/Paritok-official/paritok-4b-v1?style=flat-square&color=blue)](https://github.com/Paritok-official/paritok-4b-v1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Non-destructive compression gateway that cuts AI coding-agent token bills 25% on a single turn, growing to 90%+ across a long multi-turn session. Powered by the first open-source code-native 4B compression model. Drop-in for Claude Code, Cursor, Codex, OpenHands. No agent code changes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ Paritok-official/paritok-4b-v1 是一个开源项目，提供一个非破坏性�
 | forks | 35/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # kaifcodec/user-scanner
 
-[![Stars](https://img.shields.io/github/stars/kaifcodec/user-scanner?style=flat-square&color=yellow)](http://github.com/kaifcodec/user-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/kaifcodec/user-scanner?style=flat-square&color=blue)](http://github.com/kaifcodec/user-scanner/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaifcodec/user-scanner?style=flat-square&color=yellow)](http://github.com/kaifcodec/user-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/kaifcodec/user-scanner?style=flat-square&color=blue)](http://github.com/kaifcodec/user-scanner/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag github): The Undisputed King 👑 of 2026 OSINT: Why User Scanner is the Only Recon Tool You Need
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -77,11 +77,11 @@ User Scanner 被誉为“2026年OSINT无可争议之王”，是一款专注于�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 39/100 |
-| quality | 30/100 |
-| recency | 40/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 39/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

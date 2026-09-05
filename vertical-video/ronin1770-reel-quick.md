@@ -1,6 +1,6 @@
 # ronin1770/reel-quick
 
-[![Stars](https://img.shields.io/github/stars/ronin1770/reel-quick?style=flat-square&color=yellow)](https://github.com/ronin1770/reel-quick/stargazers) [![Forks](https://img.shields.io/github/forks/ronin1770/reel-quick?style=flat-square&color=blue)](https://github.com/ronin1770/reel-quick/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ronin1770/reel-quick?style=flat-square&color=yellow)](https://github.com/ronin1770/reel-quick/stargazers) [![Forks](https://img.shields.io/github/forks/ronin1770/reel-quick?style=flat-square&color=blue)](https://github.com/ronin1770/reel-quick/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source tool to quickly create Instagram Reels by trimming, merging, and processing videos—no login required, fast, and developer-friendly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -71,14 +71,15 @@ ronin1770/reel-quick 是一个无需登录的 Python 开源工具，旨在通过
 | forks | 12/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

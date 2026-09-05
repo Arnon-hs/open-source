@@ -1,6 +1,6 @@
 # adamzhang1987/kingdee-k3cloud-skill
 
-[![Stars](https://img.shields.io/github/stars/adamzhang1987/kingdee-k3cloud-skill?style=flat-square&color=yellow)](https://github.com/adamzhang1987/kingdee-k3cloud-skill/stargazers) [![Forks](https://img.shields.io/github/forks/adamzhang1987/kingdee-k3cloud-skill?style=flat-square&color=blue)](https://github.com/adamzhang1987/kingdee-k3cloud-skill/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adamzhang1987/kingdee-k3cloud-skill?style=flat-square&color=yellow)](https://github.com/adamzhang1987/kingdee-k3cloud-skill/stargazers) [![Forks](https://img.shields.io/github/forks/adamzhang1987/kingdee-k3cloud-skill?style=flat-square&color=blue)](https://github.com/adamzhang1987/kingdee-k3cloud-skill/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 金蝶云星空 ERP 系统的 Claude Code Skill，为 Claude Code 注入表单字段、查询模式和工作流知识，大幅减少试错次数。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ The production readiness of this project is classified as medium. While it is us
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

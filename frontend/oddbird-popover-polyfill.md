@@ -1,6 +1,6 @@
 # oddbird/popover-polyfill
 
-[![Stars](https://img.shields.io/github/stars/oddbird/popover-polyfill?style=flat-square&color=yellow)](https://github.com/oddbird/popover-polyfill/stargazers) [![Forks](https://img.shields.io/github/forks/oddbird/popover-polyfill?style=flat-square&color=blue)](https://github.com/oddbird/popover-polyfill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oddbird/popover-polyfill?style=flat-square&color=yellow)](https://github.com/oddbird/popover-polyfill/stargazers) [![Forks](https://img.shields.io/github/forks/oddbird/popover-polyfill?style=flat-square&color=blue)](https://github.com/oddbird/popover-polyfill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Polyfills the HTML popover attribute and showPopover/hidePopover/togglePopover methods onto HTMLElement, as well as the popovertarget and popovertargetaction attributes on <button> elements.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ oddbird/popover-polyfill 是一个开源项目，提供了 HTML popover 属性�
 | forks | 31/100 |
 | stars | 55/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

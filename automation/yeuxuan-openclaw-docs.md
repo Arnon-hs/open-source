@@ -1,6 +1,6 @@
 # yeuxuan/openclaw-docs
 
-[![Stars](https://img.shields.io/github/stars/yeuxuan/openclaw-docs?style=flat-square&color=yellow)](https://github.com/yeuxuan/openclaw-docs/stargazers) [![Forks](https://img.shields.io/github/forks/yeuxuan/openclaw-docs?style=flat-square&color=blue)](https://github.com/yeuxuan/openclaw-docs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yeuxuan/openclaw-docs?style=flat-square&color=yellow)](https://github.com/yeuxuan/openclaw-docs/stargazers) [![Forks](https://img.shields.io/github/forks/yeuxuan/openclaw-docs?style=flat-square&color=blue)](https://github.com/yeuxuan/openclaw-docs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > OpenClaw 中文文档站 | AI 智能体框架 源码剖析 安装教程 | WhatsApp Telegram Discord 飞书   多通道机器人
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 730 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ yeuxuan/openclaw-docs 的生产可用性为中等（Medium）。它适合用于�
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # bojieli/agentreach
 
-[![Stars](https://img.shields.io/github/stars/bojieli/agentreach?style=flat-square&color=yellow)](https://github.com/bojieli/agentreach/stargazers) [![Forks](https://img.shields.io/github/forks/bojieli/agentreach?style=flat-square&color=blue)](https://github.com/bojieli/agentreach/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bojieli/agentreach?style=flat-square&color=yellow)](https://github.com/bojieli/agentreach/stargazers) [![Forks](https://img.shields.io/github/forks/bojieli/agentreach?style=flat-square&color=blue)](https://github.com/bojieli/agentreach/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AgentReach (reach): Point your coding agent at any box you can SSH into. The server never gets your agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ AgentReach 让你的代码 Agent 能够直接通过 SSH 连接到任意机器上
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

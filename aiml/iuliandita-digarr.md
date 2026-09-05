@@ -1,6 +1,6 @@
 # iuliandita/digarr
 
-[![Stars](https://img.shields.io/github/stars/iuliandita/digarr?style=flat-square&color=yellow)](https://github.com/iuliandita/digarr/stargazers) [![Forks](https://img.shields.io/github/forks/iuliandita/digarr?style=flat-square&color=blue)](https://github.com/iuliandita/digarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iuliandita/digarr?style=flat-square&color=yellow)](https://github.com/iuliandita/digarr/stargazers) [![Forks](https://img.shields.io/github/forks/iuliandita/digarr?style=flat-square&color=blue)](https://github.com/iuliandita/digarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered music discovery for your *arr stack. Recommends artists and individual albums through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback -- approve a single album without grabbing the whole discography. Supports Lidarr, Spotify, Navidrome, Jellyfin, Plex. Self-hosted, open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ iuliandita/digarr 的生产可用性较高，因为它有
 | forks | 17/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

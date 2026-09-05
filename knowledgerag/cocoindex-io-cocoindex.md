@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 687 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ cocoindex-io/cocoindex：cocoindex-io/cocoindex helps make internal knowledge se
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

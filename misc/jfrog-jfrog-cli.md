@@ -1,6 +1,6 @@
 # jfrog/jfrog-cli
 
-[![Stars](https://img.shields.io/github/stars/jfrog/jfrog-cli?style=flat-square&color=yellow)](https://github.com/jfrog/jfrog-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jfrog/jfrog-cli?style=flat-square&color=blue)](https://github.com/jfrog/jfrog-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jfrog/jfrog-cli?style=flat-square&color=yellow)](https://github.com/jfrog/jfrog-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jfrog/jfrog-cli?style=flat-square&color=blue)](https://github.com/jfrog/jfrog-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > JFrog CLI is a client that provides a simple interface that automates access to the JFrog products.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 590 |
 | 🍴 **Forks** | 300 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ JFrog CLI（`jfrog/jfrog-cli`）是 JFrog 官方提供的命令行工具，能�
 | forks | 62/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

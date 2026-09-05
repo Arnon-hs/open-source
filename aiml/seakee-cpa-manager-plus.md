@@ -1,6 +1,6 @@
 # seakee/CPA-Manager-Plus
 
-[![Stars](https://img.shields.io/github/stars/seakee/CPA-Manager-Plus?style=flat-square&color=yellow)](https://github.com/seakee/CPA-Manager-Plus/stargazers) [![Forks](https://img.shields.io/github/forks/seakee/CPA-Manager-Plus?style=flat-square&color=blue)](https://github.com/seakee/CPA-Manager-Plus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seakee/CPA-Manager-Plus?style=flat-square&color=yellow)](https://github.com/seakee/CPA-Manager-Plus/stargazers) [![Forks](https://img.shields.io/github/forks/seakee/CPA-Manager-Plus?style=flat-square&color=blue)](https://github.com/seakee/CPA-Manager-Plus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI gateway monitoring — track requests, cost, failures, quota, and account health for CPA / CLIProxyAPI and OpenAI-compatible gateways.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ seakee/CPA-Manager-Plus 帮助用户快速添加 AI 能力，没有从零开始�
 | forks | 54/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 62/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

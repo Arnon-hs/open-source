@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents · Backend
 
 ## 📝 Summary
 
 ### English
 
-alexccastilho/gclaude-indexer: . Use it for AI/ML. 
+alexccastilho/gclaude-indexer: . Use it for AI/ML, Documents, Backend. 
 
 ### Русский
 
-alexccastilho/gclaude-indexer: open-source проект в категориях AI/ML. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+alexccastilho/gclaude-indexer: open-source проект в категориях AI/ML, Documents, Backend. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-alexccastilho/gclaude-indexer：。适合用于AI/ML。
+alexccastilho/gclaude-indexer：。适合用于AI/ML、Documents、Backend。
 
 ## 🧭 Practical evaluation
 
@@ -70,7 +70,7 @@ alexccastilho/gclaude-indexer：。适合用于AI/ML。
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

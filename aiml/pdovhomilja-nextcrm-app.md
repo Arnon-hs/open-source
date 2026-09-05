@@ -1,6 +1,6 @@
 # pdovhomilja/nextcrm-app
 
-[![Stars](https://img.shields.io/github/stars/pdovhomilja/nextcrm-app?style=flat-square&color=yellow)](https://github.com/pdovhomilja/nextcrm-app/stargazers) [![Forks](https://img.shields.io/github/forks/pdovhomilja/nextcrm-app?style=flat-square&color=blue)](https://github.com/pdovhomilja/nextcrm-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pdovhomilja/nextcrm-app?style=flat-square&color=yellow)](https://github.com/pdovhomilja/nextcrm-app/stargazers) [![Forks](https://img.shields.io/github/forks/pdovhomilja/nextcrm-app?style=flat-square&color=blue)](https://github.com/pdovhomilja/nextcrm-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 649 |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Database · Security
+AI/ML · Communication · Documents · Frontend · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ NextCRM 的生产可用性非常高。它最近有活跃的更新，GitHub 上�
 | forks | 59/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

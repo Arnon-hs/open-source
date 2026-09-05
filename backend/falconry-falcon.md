@@ -1,6 +1,6 @@
 # falconry/falcon
 
-[![Stars](https://img.shields.io/github/stars/falconry/falcon?style=flat-square&color=yellow)](https://github.com/falconry/falcon/stargazers) [![Forks](https://img.shields.io/github/forks/falconry/falcon?style=flat-square&color=blue)](https://github.com/falconry/falcon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/falconry/falcon?style=flat-square&color=yellow)](https://github.com/falconry/falcon/stargazers) [![Forks](https://img.shields.io/github/forks/falconry/falcon?style=flat-square&color=blue)](https://github.com/falconry/falcon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The no-magic web API and microservices framework for Python developers, with a focus on reliability and performance at scale.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Falconry/Falcon 的生产可用性很高，受到了强烈的采用和生态系�
 | forks | 75/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

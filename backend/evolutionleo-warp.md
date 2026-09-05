@@ -1,6 +1,6 @@
 # evolutionleo/Warp
 
-[![Stars](https://img.shields.io/github/stars/evolutionleo/Warp?style=flat-square&color=yellow)](https://github.com/evolutionleo/Warp/stargazers) [![Forks](https://img.shields.io/github/forks/evolutionleo/Warp?style=flat-square&color=blue)](https://github.com/evolutionleo/Warp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evolutionleo/Warp?style=flat-square&color=yellow)](https://github.com/evolutionleo/Warp/stargazers) [![Forks](https://img.shields.io/github/forks/evolutionleo/Warp?style=flat-square&color=blue)](https://github.com/evolutionleo/Warp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Warp is a feature-rich framework for multiplayer games, written in GameMaker and NodeJS (previously GM-Online-Framework)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Warp（evolutionleo/Warp）是一个基于 GameMaker 与 NodeJS 的多玩家游�
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # VisActor/VChart
 
-[![Stars](https://img.shields.io/github/stars/VisActor/VChart?style=flat-square&color=yellow)](https://github.com/VisActor/VChart/stargazers) [![Forks](https://img.shields.io/github/forks/VisActor/VChart?style=flat-square&color=blue)](https://github.com/VisActor/VChart/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VisActor/VChart?style=flat-square&color=yellow)](https://github.com/VisActor/VChart/stargazers) [![Forks](https://img.shields.io/github/forks/VisActor/VChart?style=flat-square&color=blue)](https://github.com/VisActor/VChart/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > VChart, more than just a cross-platform charting library, but also an expressive data storyteller.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Data
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ VisActor/VChart 是一款跨平台的图表库，除提供丰富的可视化组�
 | forks | 58/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

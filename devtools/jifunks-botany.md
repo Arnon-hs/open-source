@@ -1,6 +1,6 @@
 # jifunks/botany
 
-[![Stars](https://img.shields.io/github/stars/jifunks/botany?style=flat-square&color=yellow)](https://github.com/jifunks/botany/stargazers) [![Forks](https://img.shields.io/github/forks/jifunks/botany?style=flat-square&color=blue)](https://github.com/jifunks/botany/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jifunks/botany?style=flat-square&color=yellow)](https://github.com/jifunks/botany/stargazers) [![Forks](https://img.shields.io/github/forks/jifunks/botany?style=flat-square&color=blue)](https://github.com/jifunks/botany/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > command line virtual plant buddy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ jifunks/botany 的生产可用性较高，因为它有以下优势：
 | forks | 40/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

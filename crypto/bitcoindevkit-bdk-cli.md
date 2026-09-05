@@ -1,6 +1,6 @@
 # bitcoindevkit/bdk-cli
 
-[![Stars](https://img.shields.io/github/stars/bitcoindevkit/bdk-cli?style=flat-square&color=yellow)](https://github.com/bitcoindevkit/bdk-cli/stargazers) [![Forks](https://img.shields.io/github/forks/bitcoindevkit/bdk-cli?style=flat-square&color=blue)](https://github.com/bitcoindevkit/bdk-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitcoindevkit/bdk-cli?style=flat-square&color=yellow)](https://github.com/bitcoindevkit/bdk-cli/stargazers) [![Forks](https://img.shields.io/github/forks/bitcoindevkit/bdk-cli?style=flat-square&color=blue)](https://github.com/bitcoindevkit/bdk-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI wallet library and REPL tool to demo and test the BDK library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ bitcoindevkit/bdk‑cli 是基于 Rust 的 BDK（Bitcoin Development Kit）实�
 | forks | 49/100 |
 | stars | 45/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

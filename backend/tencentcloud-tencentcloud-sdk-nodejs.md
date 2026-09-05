@@ -1,6 +1,6 @@
 # TencentCloud/tencentcloud-sdk-nodejs
 
-[![Stars](https://img.shields.io/github/stars/TencentCloud/tencentcloud-sdk-nodejs?style=flat-square&color=yellow)](https://github.com/TencentCloud/tencentcloud-sdk-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/tencentcloud-sdk-nodejs?style=flat-square&color=blue)](https://github.com/TencentCloud/tencentcloud-sdk-nodejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentCloud/tencentcloud-sdk-nodejs?style=flat-square&color=yellow)](https://github.com/TencentCloud/tencentcloud-sdk-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/tencentcloud-sdk-nodejs?style=flat-square&color=blue)](https://github.com/TencentCloud/tencentcloud-sdk-nodejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Tencent Cloud API 3.0 SDK for NodeJS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 595 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Backend
+Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ TencentCloud/tencentcloud-sdk-nodejs 是腾讯云面向 Node.js/TypeScript 开�
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

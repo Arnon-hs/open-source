@@ -1,6 +1,6 @@
 # stevenshiau/clonezilla
 
-[![Stars](https://img.shields.io/github/stars/stevenshiau/clonezilla?style=flat-square&color=yellow)](https://github.com/stevenshiau/clonezilla/stargazers) [![Forks](https://img.shields.io/github/forks/stevenshiau/clonezilla?style=flat-square&color=blue)](https://github.com/stevenshiau/clonezilla/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stevenshiau/clonezilla?style=flat-square&color=yellow)](https://github.com/stevenshiau/clonezilla/stargazers) [![Forks](https://img.shields.io/github/forks/stevenshiau/clonezilla?style=flat-square&color=blue)](https://github.com/stevenshiau/clonezilla/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (Server Edition).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 978 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Clonezilla 的生产可用性为中等（Medium）。它适合用于原型开发
 | forks | 52/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ open-spaced-repetition/fsrs-rs：open-spaced-repetition/fsrs-rs helps remove rep
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

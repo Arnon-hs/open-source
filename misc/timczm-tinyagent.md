@@ -1,6 +1,6 @@
 # timczm/tinyagent
 
-[![Stars](https://img.shields.io/github/stars/timczm/tinyagent?style=flat-square&color=yellow)](https://github.com/timczm/tinyagent/stargazers) [![Forks](https://img.shields.io/github/forks/timczm/tinyagent?style=flat-square&color=blue)](https://github.com/timczm/tinyagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timczm/tinyagent?style=flat-square&color=yellow)](https://github.com/timczm/tinyagent/stargazers) [![Forks](https://img.shields.io/github/forks/timczm/tinyagent?style=flat-square&color=blue)](https://github.com/timczm/tinyagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The core agent loop in a small Python codebase
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -64,11 +64,11 @@ timczm/tinyagent：timczm/tinyagent may be useful when its README and activity m
 | forks | 0/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 48/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 43/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 62/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

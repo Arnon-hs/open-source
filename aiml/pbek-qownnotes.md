@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 495 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication · Documents · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ pbek/QOwnNotes：pbek/QOwnNotes helps add AI capability without starting from a 
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

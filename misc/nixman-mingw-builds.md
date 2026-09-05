@@ -1,6 +1,6 @@
 # niXman/mingw-builds
 
-[![Stars](https://img.shields.io/github/stars/niXman/mingw-builds?style=flat-square&color=yellow)](https://github.com/niXman/mingw-builds/stargazers) [![Forks](https://img.shields.io/github/forks/niXman/mingw-builds?style=flat-square&color=blue)](https://github.com/niXman/mingw-builds/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niXman/mingw-builds?style=flat-square&color=yellow)](https://github.com/niXman/mingw-builds/stargazers) [![Forks](https://img.shields.io/github/forks/niXman/mingw-builds?style=flat-square&color=blue)](https://github.com/niXman/mingw-builds/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Scripts for building the 32 and 64-bit MinGW-W64 compilers for Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ niXman/mingw-builds 的生产可用性为中等（Medium）。它适合用于原
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

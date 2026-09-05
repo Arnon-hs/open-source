@@ -1,6 +1,6 @@
 # warp-drive-data/warp-drive
 
-[![Stars](https://img.shields.io/github/stars/warp-drive-data/warp-drive?style=flat-square&color=yellow)](https://github.com/warp-drive-data/warp-drive/stargazers) [![Forks](https://img.shields.io/github/forks/warp-drive-data/warp-drive?style=flat-square&color=blue)](https://github.com/warp-drive-data/warp-drive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warp-drive-data/warp-drive?style=flat-square&color=yellow)](https://github.com/warp-drive-data/warp-drive/stargazers) [![Forks](https://img.shields.io/github/forks/warp-drive-data/warp-drive?style=flat-square&color=blue)](https://github.com/warp-drive-data/warp-drive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > WarpDrive is the lightweight data library for ambitious web apps — universal, typed, reactive, and ready to scale.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ WarpDrive 已经具有较高的生产可用性，理由如下：
 | forks | 78/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 79/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

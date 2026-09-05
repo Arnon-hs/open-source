@@ -1,6 +1,6 @@
 # focus-trap/focus-trap
 
-[![Stars](https://img.shields.io/github/stars/focus-trap/focus-trap?style=flat-square&color=yellow)](https://github.com/focus-trap/focus-trap/stargazers) [![Forks](https://img.shields.io/github/forks/focus-trap/focus-trap?style=flat-square&color=blue)](https://github.com/focus-trap/focus-trap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/focus-trap/focus-trap?style=flat-square&color=yellow)](https://github.com/focus-trap/focus-trap/stargazers) [![Forks](https://img.shields.io/github/forks/focus-trap/focus-trap?style=flat-square&color=blue)](https://github.com/focus-trap/focus-trap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Trap focus within a DOM node.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ focus‑trap 是一个轻量级的 JavaScript 库，用于在指定的 DOM 节�
 | forks | 52/100 |
 | stars | 68/100 |
 | topics | 13/100 |
-| outlook | 43/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

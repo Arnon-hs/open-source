@@ -1,6 +1,6 @@
 # alien-id/agent-id
 
-[![Stars](https://img.shields.io/github/stars/alien-id/agent-id?style=flat-square&color=yellow)](https://github.com/alien-id/agent-id/stargazers) [![Forks](https://img.shields.io/github/forks/alien-id/agent-id?style=flat-square&color=blue)](https://github.com/alien-id/agent-id/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alien-id/agent-id?style=flat-square&color=yellow)](https://github.com/alien-id/agent-id/stargazers) [![Forks](https://img.shields.io/github/forks/alien-id/agent-id?style=flat-square&color=blue)](https://github.com/alien-id/agent-id/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptographic identity for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ alien‑id/agent‑id is an open‑source JavaScript library that provides crypt
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 37/100 |
-| recency | 40/100 |
+| outlook | 56/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 44/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # uswds/uswds-site
 
-[![Stars](https://img.shields.io/github/stars/uswds/uswds-site?style=flat-square&color=yellow)](https://github.com/uswds/uswds-site/stargazers) [![Forks](https://img.shields.io/github/forks/uswds/uswds-site?style=flat-square&color=blue)](https://github.com/uswds/uswds-site/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uswds/uswds-site?style=flat-square&color=yellow)](https://github.com/uswds/uswds-site/stargazers) [![Forks](https://img.shields.io/github/forks/uswds/uswds-site?style=flat-square&color=blue)](https://github.com/uswds/uswds-site/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The U.S. Web Design System documentation website, a design system for the federal government.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 246 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ uswds/uswds-site 是美国联邦政府的官方网页设计系统（U.S. Web Des
 | forks | 58/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

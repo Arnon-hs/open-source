@@ -1,6 +1,6 @@
 # mex-memory/mex
 
-[![Stars](https://img.shields.io/github/stars/mex-memory/mex?style=flat-square&color=yellow)](https://github.com/mex-memory/mex/stargazers) [![Forks](https://img.shields.io/github/forks/mex-memory/mex?style=flat-square&color=blue)](https://github.com/mex-memory/mex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mex-memory/mex?style=flat-square&color=yellow)](https://github.com/mex-memory/mex/stargazers) [![Forks](https://img.shields.io/github/forks/mex-memory/mex?style=flat-square&color=blue)](https://github.com/mex-memory/mex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ mex-memory/mex 为 AI 编码助手提供持久化的项目记忆，采用结构�
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

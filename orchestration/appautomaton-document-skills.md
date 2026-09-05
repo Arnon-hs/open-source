@@ -1,6 +1,6 @@
 # appautomaton/document-SKILLs
 
-[![Stars](https://img.shields.io/github/stars/appautomaton/document-SKILLs?style=flat-square&color=yellow)](https://github.com/appautomaton/document-SKILLs/stargazers) [![Forks](https://img.shields.io/github/forks/appautomaton/document-SKILLs?style=flat-square&color=blue)](https://github.com/appautomaton/document-SKILLs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appautomaton/document-SKILLs?style=flat-square&color=yellow)](https://github.com/appautomaton/document-SKILLs/stargazers) [![Forks](https://img.shields.io/github/forks/appautomaton/document-SKILLs?style=flat-square&color=blue)](https://github.com/appautomaton/document-SKILLs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation — extraction, forms, formulas, tracked changes, adapted from Anthropic skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ appautomaton/document-SKILLs 是一个开源项目，提供了对 PDF、Excel、
 | forks | 26/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

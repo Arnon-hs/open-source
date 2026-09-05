@@ -1,6 +1,6 @@
 # szinn/k8s-homelab
 
-[![Stars](https://img.shields.io/github/stars/szinn/k8s-homelab?style=flat-square&color=yellow)](https://github.com/szinn/k8s-homelab/stargazers) [![Forks](https://img.shields.io/github/forks/szinn/k8s-homelab?style=flat-square&color=blue)](https://github.com/szinn/k8s-homelab/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/szinn/k8s-homelab?style=flat-square&color=yellow)](https://github.com/szinn/k8s-homelab/stargazers) [![Forks](https://img.shields.io/github/forks/szinn/k8s-homelab?style=flat-square&color=blue)](https://github.com/szinn/k8s-homelab/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > My home operations repository using k8s/gitops
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ szinn/k8s-homelab 是一个基于 Kubernetes + GitOps 的个人运维仓库，�
 | forks | 27/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

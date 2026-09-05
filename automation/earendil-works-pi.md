@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ earendil-works/pi：earendil-works/pi helps remove repetitive manual operations 
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

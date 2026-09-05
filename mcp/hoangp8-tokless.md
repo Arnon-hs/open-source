@@ -1,6 +1,6 @@
 # HoangP8/tokless
 
-[![Stars](https://img.shields.io/github/stars/HoangP8/tokless?style=flat-square&color=yellow)](https://github.com/HoangP8/tokless/stargazers) [![Forks](https://img.shields.io/github/forks/HoangP8/tokless?style=flat-square&color=blue)](https://github.com/HoangP8/tokless/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HoangP8/tokless?style=flat-square&color=yellow)](https://github.com/HoangP8/tokless/stargazers) [![Forks](https://img.shields.io/github/forks/HoangP8/tokless?style=flat-square&color=blue)](https://github.com/HoangP8/tokless/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A unified toolkit for efficient and effective coding agents (Karpathy principles, Caveman, Ponytail, RTK, CodeGraph, Context-Mode). Minimal setup under 30 seconds. Any OS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ HoangP8/tokless 可以通过以下方式接入：
 | forks | 25/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

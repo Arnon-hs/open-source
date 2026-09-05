@@ -1,6 +1,6 @@
 # productdevbook/etiket
 
-[![Stars](https://img.shields.io/github/stars/productdevbook/etiket?style=flat-square&color=yellow)](https://github.com/productdevbook/etiket/stargazers) [![Forks](https://img.shields.io/github/forks/productdevbook/etiket?style=flat-square&color=blue)](https://github.com/productdevbook/etiket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/productdevbook/etiket?style=flat-square&color=yellow)](https://github.com/productdevbook/etiket/stargazers) [![Forks](https://img.shields.io/github/forks/productdevbook/etiket?style=flat-square&color=blue)](https://github.com/productdevbook/etiket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ productdevbook/etiket 具有高生产可用性。该项目最近有活动，社�
 | forks | 30/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

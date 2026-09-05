@@ -1,6 +1,6 @@
 # ldclabs/anda-brain
 
-[![Stars](https://img.shields.io/github/stars/ldclabs/anda-brain?style=flat-square&color=yellow)](https://github.com/ldclabs/anda-brain/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/anda-brain?style=flat-square&color=blue)](https://github.com/ldclabs/anda-brain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldclabs/anda-brain?style=flat-square&color=yellow)](https://github.com/ldclabs/anda-brain/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/anda-brain?style=flat-square&color=blue)](https://github.com/ldclabs/anda-brain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 A native graph-based memory system for autonomous AI agents, featuring bio-inspired sleep-based memory consolidation and powered by KIP & AndaDB.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ ldclabs/anda-brain 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

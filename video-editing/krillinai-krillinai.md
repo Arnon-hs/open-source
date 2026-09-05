@@ -1,6 +1,6 @@
 # krillinai/KrillinAI
 
-[![Stars](https://img.shields.io/github/stars/krillinai/KrillinAI?style=flat-square&color=yellow)](https://github.com/krillinai/KrillinAI/stargazers) [![Forks](https://img.shields.io/github/forks/krillinai/KrillinAI?style=flat-square&color=blue)](https://github.com/krillinai/KrillinAI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krillinai/KrillinAI?style=flat-square&color=yellow)](https://github.com/krillinai/KrillinAI/stargazers) [![Forks](https://img.shields.io/github/forks/krillinai/KrillinAI?style=flat-square&color=blue)](https://github.com/krillinai/KrillinAI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 982 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ KrillinAI 的生产可用性较高，理由如下：
 | forks | 75/100 |
 | stars | 86/100 |
 | topics | 63/100 |
-| outlook | 69/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

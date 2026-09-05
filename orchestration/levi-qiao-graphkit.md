@@ -1,6 +1,6 @@
 # levi-qiao/graphkit
 
-[![Stars](https://img.shields.io/github/stars/levi-qiao/graphkit?style=flat-square&color=yellow)](https://github.com/levi-qiao/graphkit/stargazers) [![Forks](https://img.shields.io/github/forks/levi-qiao/graphkit?style=flat-square&color=blue)](https://github.com/levi-qiao/graphkit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/levi-qiao/graphkit?style=flat-square&color=yellow)](https://github.com/levi-qiao/graphkit/stargazers) [![Forks](https://img.shields.io/github/forks/levi-qiao/graphkit?style=flat-square&color=blue)](https://github.com/levi-qiao/graphkit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Graph engineering made concrete: run long coding tasks as a graph of agent nodes (executor + clean-context supervisor, more roles planned), not one drifting loop. 从 loop engineering 到 graph engineering。Claude Code skill · MIT · EN/中文
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ levi-qiao/graphkit 帮助将孤立的提示和工具转变为可重复的代理�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

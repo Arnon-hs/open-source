@@ -1,6 +1,6 @@
 # web-infra-dev/midscene
 
-[![Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=flat-square&color=yellow)](https://github.com/web-infra-dev/midscene/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/midscene?style=flat-square&color=blue)](https://github.com/web-infra-dev/midscene/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=flat-square&color=yellow)](https://github.com/web-infra-dev/midscene/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/midscene?style=flat-square&color=blue)](https://github.com/web-infra-dev/midscene/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered, vision-driven UI automation for every platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13k |
 | 🍴 **Forks** | 966 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ web‑infra‑dev/midscene 是一款基于 AI 与视觉识别的跨平台 UI 自
 | forks | 75/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 55/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

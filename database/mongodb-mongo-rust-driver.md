@@ -1,6 +1,6 @@
 # mongodb/mongo-rust-driver
 
-[![Stars](https://img.shields.io/github/stars/mongodb/mongo-rust-driver?style=flat-square&color=yellow)](https://github.com/mongodb/mongo-rust-driver/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/mongo-rust-driver?style=flat-square&color=blue)](https://github.com/mongodb/mongo-rust-driver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mongodb/mongo-rust-driver?style=flat-square&color=yellow)](https://github.com/mongodb/mongo-rust-driver/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/mongo-rust-driver?style=flat-square&color=blue)](https://github.com/mongodb/mongo-rust-driver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The official MongoDB Rust Driver
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ mongodb/mongo-rust-driver 是 MongoDB 官方提供的 Rust 语言驱动，实现
 | forks | 57/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 47/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

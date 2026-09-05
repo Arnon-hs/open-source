@@ -1,6 +1,6 @@
 # webcoyote/clodpod
 
-[![Stars](https://img.shields.io/github/stars/webcoyote/clodpod?style=flat-square&color=yellow)](https://github.com/webcoyote/clodpod/stargazers) [![Forks](https://img.shields.io/github/forks/webcoyote/clodpod?style=flat-square&color=blue)](https://github.com/webcoyote/clodpod/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webcoyote/clodpod?style=flat-square&color=yellow)](https://github.com/webcoyote/clodpod/stargazers) [![Forks](https://img.shields.io/github/forks/webcoyote/clodpod?style=flat-square&color=blue)](https://github.com/webcoyote/clodpod/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Run AI agents isolated inside an macOS virtual machine. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ webcoyote/clodpod 是一个在 macOS 虚拟机中隔离运行 AI 代理的工具
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 38/100 |
-| outlook | 42/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

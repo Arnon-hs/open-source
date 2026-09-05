@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -37,17 +37,17 @@ The Qualcomm AI Hub apps are an open-source collection of advanced machine learn
 
 ### 中文
 
-qualcomm/ai-hub-apps：qualcomm/ai-hub-apps helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+qualcomm/ai-hub-apps：qualcomm/ai-hub-apps helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** qualcomm/ai-hub-apps helps add AI capability without starting from a blank model stack.
+**Value:** qualcomm/ai-hub-apps helps teams reuse service infrastructure instead of rebuilding common backend pieces.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -67,17 +67,18 @@ qualcomm/ai-hub-apps：qualcomm/ai-hub-apps helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 54/100 |
-| stars | 56/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

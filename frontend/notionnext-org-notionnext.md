@@ -1,6 +1,6 @@
 # notionnext-org/NotionNext
 
-[![Stars](https://img.shields.io/github/stars/notionnext-org/NotionNext?style=flat-square&color=yellow)](https://github.com/notionnext-org/NotionNext/stargazers) [![Forks](https://img.shields.io/github/forks/notionnext-org/NotionNext?style=flat-square&color=blue)](https://github.com/notionnext-org/NotionNext/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notionnext-org/NotionNext?style=flat-square&color=yellow)](https://github.com/notionnext-org/NotionNext/stargazers) [![Forks](https://img.shields.io/github/forks/notionnext-org/NotionNext?style=flat-square&color=blue)](https://github.com/notionnext-org/NotionNext/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.4k |
 | 🍴 **Forks** | 14.6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ NotionNext 是一个基于 Next.js 与 Notion API 的静态博客框架，支持
 | forks | 100/100 |
 | stars | 86/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 74/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

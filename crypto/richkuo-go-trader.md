@@ -1,6 +1,6 @@
 # richkuo/go-trader
 
-[![Stars](https://img.shields.io/github/stars/richkuo/go-trader?style=flat-square&color=yellow)](https://github.com/richkuo/go-trader/stargazers) [![Forks](https://img.shields.io/github/forks/richkuo/go-trader?style=flat-square&color=blue)](https://github.com/richkuo/go-trader/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/richkuo/go-trader?style=flat-square&color=yellow)](https://github.com/richkuo/go-trader/stargazers) [![Forks](https://img.shields.io/github/forks/richkuo/go-trader?style=flat-square&color=blue)](https://github.com/richkuo/go-trader/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Crypto trading bot — backtesting, paper trading, live trading with risk management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ richkuo/go-trader 是一款用 Go 编写的加密货币交易机器人，支持�
 | forks | 49/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # syahiidkamil/Software-Engineer-AI-Agent-Atlas
 
-[![Stars](https://img.shields.io/github/stars/syahiidkamil/Software-Engineer-AI-Agent-Atlas?style=flat-square&color=yellow)](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas/stargazers) [![Forks](https://img.shields.io/github/forks/syahiidkamil/Software-Engineer-AI-Agent-Atlas?style=flat-square&color=blue)](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syahiidkamil/Software-Engineer-AI-Agent-Atlas?style=flat-square&color=yellow)](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas/stargazers) [![Forks](https://img.shields.io/github/forks/syahiidkamil/Software-Engineer-AI-Agent-Atlas?style=flat-square&color=blue)](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > ATLAS: a senior-engineer layer for Claude Code. Explore with wireframes & prototypes, clarify the essentials, capture it in HTML spec doc then let Claude Code's native plan/goal/workflow loop build. Fewer tokens, less ceremony, faster to what people pictured. KISS/YAGNI/DRY, context decides. No overengineering. Clean architecture that works.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ ATLAS 是面向 Claude Code 的高级工程师层，能够把线框图、原型�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

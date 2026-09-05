@@ -1,6 +1,6 @@
 # dlt-hub/dlt
 
-[![Stars](https://img.shields.io/github/stars/dlt-hub/dlt?style=flat-square&color=yellow)](https://github.com/dlt-hub/dlt/stargazers) [![Forks](https://img.shields.io/github/forks/dlt-hub/dlt?style=flat-square&color=blue)](https://github.com/dlt-hub/dlt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dlt-hub/dlt?style=flat-square&color=yellow)](https://github.com/dlt-hub/dlt/stargazers) [![Forks](https://img.shields.io/github/forks/dlt-hub/dlt?style=flat-square&color=blue)](https://github.com/dlt-hub/dlt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 530 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ dlt（data load tool）是一个开源的 Python 库，旨在让数据加载和�
 | forks | 68/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

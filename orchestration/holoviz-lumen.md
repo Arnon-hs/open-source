@@ -1,6 +1,6 @@
 # holoviz/lumen
 
-[![Stars](https://img.shields.io/github/stars/holoviz/lumen?style=flat-square&color=yellow)](https://github.com/holoviz/lumen/stargazers) [![Forks](https://img.shields.io/github/forks/holoviz/lumen?style=flat-square&color=blue)](https://github.com/holoviz/lumen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holoviz/lumen?style=flat-square&color=yellow)](https://github.com/holoviz/lumen/stargazers) [![Forks](https://img.shields.io/github/forks/holoviz/lumen?style=flat-square&color=blue)](https://github.com/holoviz/lumen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Illuminate your data. Agent framework turning natural language into SQL, charts, dashboards and reports.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ holoviz/lumen 的生产可用性较高，主要原因是
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

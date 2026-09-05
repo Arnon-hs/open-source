@@ -1,6 +1,6 @@
 # 0xNyk/awesome-hermes-agent
 
-[![Stars](https://img.shields.io/github/stars/0xNyk/awesome-hermes-agent?style=flat-square&color=yellow)](https://github.com/0xNyk/awesome-hermes-agent/stargazers) [![Forks](https://img.shields.io/github/forks/0xNyk/awesome-hermes-agent?style=flat-square&color=blue)](https://github.com/0xNyk/awesome-hermes-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xNyk/awesome-hermes-agent?style=flat-square&color=yellow)](https://github.com/0xNyk/awesome-hermes-agent/stargazers) [![Forks](https://img.shields.io/github/forks/0xNyk/awesome-hermes-agent?style=flat-square&color=blue)](https://github.com/0xNyk/awesome-hermes-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 326 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ Here's a brief summary of the open-source project:
 | forks | 63/100 |
 | stars | 78/100 |
 | topics | 75/100 |
-| outlook | 68/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

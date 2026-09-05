@@ -1,6 +1,6 @@
 # grouzen/framework-tool-tui
 
-[![Stars](https://img.shields.io/github/stars/grouzen/framework-tool-tui?style=flat-square&color=yellow)](https://github.com/grouzen/framework-tool-tui/stargazers) [![Forks](https://img.shields.io/github/forks/grouzen/framework-tool-tui?style=flat-square&color=blue)](https://github.com/grouzen/framework-tool-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grouzen/framework-tool-tui?style=flat-square&color=yellow)](https://github.com/grouzen/framework-tool-tui/stargazers) [![Forks](https://img.shields.io/github/forks/grouzen/framework-tool-tui?style=flat-square&color=blue)](https://github.com/grouzen/framework-tool-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A TUI for controlling and monitoring Framework Computers hardware built in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 336 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ grouzen/framework‑tool‑tui 为 Framework 电脑的硬件提供了基于终�
 | forks | 29/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

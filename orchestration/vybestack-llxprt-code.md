@@ -1,6 +1,6 @@
 # vybestack/llxprt-code
 
-[![Stars](https://img.shields.io/github/stars/vybestack/llxprt-code?style=flat-square&color=yellow)](https://github.com/vybestack/llxprt-code/stargazers) [![Forks](https://img.shields.io/github/forks/vybestack/llxprt-code?style=flat-square&color=blue)](https://github.com/vybestack/llxprt-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vybestack/llxprt-code?style=flat-square&color=yellow)](https://github.com/vybestack/llxprt-code/stargazers) [![Forks](https://img.shields.io/github/forks/vybestack/llxprt-code?style=flat-square&color=blue)](https://github.com/vybestack/llxprt-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 695 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ vybestack/llxprt‑code 是一款开源的多供应商 AI 助手 CLI 开发工�
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

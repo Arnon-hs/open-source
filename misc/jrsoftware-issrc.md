@@ -1,6 +1,6 @@
 # jrsoftware/issrc
 
-[![Stars](https://img.shields.io/github/stars/jrsoftware/issrc?style=flat-square&color=yellow)](https://github.com/jrsoftware/issrc/stargazers) [![Forks](https://img.shields.io/github/forks/jrsoftware/issrc?style=flat-square&color=blue)](https://github.com/jrsoftware/issrc/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jrsoftware/issrc?style=flat-square&color=yellow)](https://github.com/jrsoftware/issrc/stargazers) [![Forks](https://img.shields.io/github/forks/jrsoftware/issrc?style=flat-square&color=blue)](https://github.com/jrsoftware/issrc/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Inno Setup（仓库 jrsoftware/issrc）是由 Jordan Russell 与 Martijn�
 | forks | 76/100 |
 | stars | 79/100 |
 | topics | 25/100 |
-| outlook | 47/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

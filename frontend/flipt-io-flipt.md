@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 288 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Observability
+Frontend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ flipt-io/flipt：flipt-io/flipt helps ship user-facing interfaces with less cust
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

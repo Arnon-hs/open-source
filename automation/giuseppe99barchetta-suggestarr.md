@@ -1,6 +1,6 @@
 # giuseppe99barchetta/SuggestArr
 
-[![Stars](https://img.shields.io/github/stars/giuseppe99barchetta/SuggestArr?style=flat-square&color=yellow)](https://github.com/giuseppe99barchetta/SuggestArr/stargazers) [![Forks](https://img.shields.io/github/forks/giuseppe99barchetta/SuggestArr?style=flat-square&color=blue)](https://github.com/giuseppe99barchetta/SuggestArr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giuseppe99barchetta/SuggestArr?style=flat-square&color=yellow)](https://github.com/giuseppe99barchetta/SuggestArr/stargazers) [![Forks](https://img.shields.io/github/forks/giuseppe99barchetta/SuggestArr?style=flat-square&color=blue)](https://github.com/giuseppe99barchetta/SuggestArr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Giuseppe99barchetta 的 **SuggestArr** 能自动根据 Jellyfin、Plex 或 Emby 
 | forks | 34/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # sni/thruk
 
-[![Stars](https://img.shields.io/github/stars/sni/thruk?style=flat-square&color=yellow)](https://github.com/sni/thruk/stargazers) [![Forks](https://img.shields.io/github/forks/sni/thruk?style=flat-square&color=blue)](https://github.com/sni/thruk/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sni/thruk?style=flat-square&color=yellow)](https://github.com/sni/thruk/stargazers) [![Forks](https://img.shields.io/github/forks/sni/thruk?style=flat-square&color=blue)](https://github.com/sni/thruk/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Thruk is a multibackend monitoring webinterface for Naemon, Nagios, Icinga and Shinken using the Livestatus API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ sni/thruk 的生产可用性较高，最近有活跃开发活动，广泛采用�
 | forks | 55/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

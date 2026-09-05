@@ -1,6 +1,6 @@
 # freeCodeCamp/awesome-quincy-larson-emails
 
-[![Stars](https://img.shields.io/github/stars/freeCodeCamp/awesome-quincy-larson-emails?style=flat-square&color=yellow)](https://github.com/freeCodeCamp/awesome-quincy-larson-emails/stargazers) [![Forks](https://img.shields.io/github/forks/freeCodeCamp/awesome-quincy-larson-emails?style=flat-square&color=blue)](https://github.com/freeCodeCamp/awesome-quincy-larson-emails/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freeCodeCamp/awesome-quincy-larson-emails?style=flat-square&color=yellow)](https://github.com/freeCodeCamp/awesome-quincy-larson-emails/stargazers) [![Forks](https://img.shields.io/github/forks/freeCodeCamp/awesome-quincy-larson-emails?style=flat-square&color=blue)](https://github.com/freeCodeCamp/awesome-quincy-larson-emails/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ freeCodeCamp/awesome-quincy-larson-emails 是一份开源项目，收集了每�
 | forks | 55/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

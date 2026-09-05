@@ -1,6 +1,6 @@
 # rust-lang/measureme
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/measureme?style=flat-square&color=yellow)](https://github.com/rust-lang/measureme/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/measureme?style=flat-square&color=blue)](https://github.com/rust-lang/measureme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/measureme?style=flat-square&color=yellow)](https://github.com/rust-lang/measureme/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/measureme?style=flat-square&color=blue)](https://github.com/rust-lang/measureme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Support crate for rustc's self-profiling feature
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ rust-lang/measureme 的生产可用性为中等。它可以用于 prototyping �
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

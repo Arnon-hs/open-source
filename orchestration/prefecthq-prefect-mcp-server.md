@@ -1,6 +1,6 @@
 # PrefectHQ/prefect-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect-mcp-server?style=flat-square&color=yellow)](https://github.com/PrefectHQ/prefect-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/PrefectHQ/prefect-mcp-server?style=flat-square&color=blue)](https://github.com/PrefectHQ/prefect-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect-mcp-server?style=flat-square&color=yellow)](https://github.com/PrefectHQ/prefect-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/PrefectHQ/prefect-mcp-server?style=flat-square&color=blue)](https://github.com/PrefectHQ/prefect-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Prefect MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Prefect MCP Server（`PrefectHQ/prefect-mcp-server`）是一个基于 Python
 | forks | 38/100 |
 | stars | 35/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

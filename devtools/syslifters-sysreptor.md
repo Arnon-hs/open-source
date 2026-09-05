@@ -1,6 +1,6 @@
 # Syslifters/sysreptor
 
-[![Stars](https://img.shields.io/github/stars/Syslifters/sysreptor?style=flat-square&color=yellow)](https://github.com/Syslifters/sysreptor/stargazers) [![Forks](https://img.shields.io/github/forks/Syslifters/sysreptor?style=flat-square&color=blue)](https://github.com/Syslifters/sysreptor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Syslifters/sysreptor?style=flat-square&color=yellow)](https://github.com/Syslifters/sysreptor/stargazers) [![Forks](https://img.shields.io/github/forks/Syslifters/sysreptor?style=flat-square&color=blue)](https://github.com/Syslifters/sysreptor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database · Security
+DevTools · Security
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Syslifters/sysreptor 的生产可用性较高，原因如下：
 | forks | 61/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

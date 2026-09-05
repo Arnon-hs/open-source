@@ -1,6 +1,6 @@
 # rak7777/mythic-mcp-proxy
 
-[![Stars](https://img.shields.io/github/stars/rak7777/mythic-mcp-proxy?style=flat-square&color=yellow)](https://github.com/rak7777/mythic-mcp-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/rak7777/mythic-mcp-proxy?style=flat-square&color=blue)](https://github.com/rak7777/mythic-mcp-proxy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rak7777/mythic-mcp-proxy?style=flat-square&color=yellow)](https://github.com/rak7777/mythic-mcp-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/rak7777/mythic-mcp-proxy?style=flat-square&color=blue)](https://github.com/rak7777/mythic-mcp-proxy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Mythos Router 2026: Zero-Drift Local Reasoning Protocol with Adaptive Claude Opus 4.8
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML · Networking · DevTools
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Mythic MCP Proxy（rak7777/mythic-mcp-proxy）实现了 Mythos Router 2026
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

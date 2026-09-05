@@ -1,6 +1,6 @@
 # sudo-tee/opencode.nvim
 
-[![Stars](https://img.shields.io/github/stars/sudo-tee/opencode.nvim?style=flat-square&color=yellow)](https://github.com/sudo-tee/opencode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/sudo-tee/opencode.nvim?style=flat-square&color=blue)](https://github.com/sudo-tee/opencode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sudo-tee/opencode.nvim?style=flat-square&color=yellow)](https://github.com/sudo-tee/opencode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/sudo-tee/opencode.nvim?style=flat-square&color=blue)](https://github.com/sudo-tee/opencode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > neovim frontend for opencode - a terminal-based AI coding agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 806 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ AI/ML
 | forks | 44/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 43/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

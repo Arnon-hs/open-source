@@ -1,6 +1,6 @@
 # google-bert/bert-base-uncased
 
-[![Stars](https://img.shields.io/github/stars/google-bert/bert-base-uncased?style=flat-square&color=yellow)](https://huggingface.co/google-bert/bert-base-uncased/stargazers) [![Forks](https://img.shields.io/github/forks/google-bert/bert-base-uncased?style=flat-square&color=blue)](https://huggingface.co/google-bert/bert-base-uncased/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-bert/bert-base-uncased?style=flat-square&color=yellow)](https://huggingface.co/google-bert/bert-base-uncased/stargazers) [![Forks](https://img.shields.io/github/forks/google-bert/bert-base-uncased?style=flat-square&color=blue)](https://huggingface.co/google-bert/bert-base-uncased/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Masked language models (fill-mask) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ google-bert/bert-base-uncased 的价值在于，它可以帮助开发者快速�
 | forks | 0/100 |
 | stars | 73/100 |
 | topics | 38/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 42/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

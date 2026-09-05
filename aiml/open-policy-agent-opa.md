@@ -1,6 +1,6 @@
 # open-policy-agent/opa
 
-[![Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=flat-square&color=yellow)](https://github.com/open-policy-agent/opa/stargazers) [![Forks](https://img.shields.io/github/forks/open-policy-agent/opa?style=flat-square&color=blue)](https://github.com/open-policy-agent/opa/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=flat-square&color=yellow)](https://github.com/open-policy-agent/opa/stargazers) [![Forks](https://img.shields.io/github/forks/open-policy-agent/opa?style=flat-square&color=blue)](https://github.com/open-policy-agent/opa/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.7k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Cloud & Storage · Security
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ Open Policy Agent（OPA）是一个开源的通用策略引擎，提供统一的
 | forks | 80/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

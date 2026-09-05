@@ -1,6 +1,6 @@
 # jakobdylanc/llmcord
 
-[![Stars](https://img.shields.io/github/stars/jakobdylanc/llmcord?style=flat-square&color=yellow)](https://github.com/jakobdylanc/llmcord/stargazers) [![Forks](https://img.shields.io/github/forks/jakobdylanc/llmcord?style=flat-square&color=blue)](https://github.com/jakobdylanc/llmcord/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jakobdylanc/llmcord?style=flat-square&color=yellow)](https://github.com/jakobdylanc/llmcord/stargazers) [![Forks](https://img.shields.io/github/forks/jakobdylanc/llmcord?style=flat-square&color=blue)](https://github.com/jakobdylanc/llmcord/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Make Discord your LLM frontend - Supports any OpenAI compatible API (OpenRouter, Ollama and more)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 811 |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ jakobdylanc/llmcord 的生产可用性较高，主要原因是：
 | forks | 57/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

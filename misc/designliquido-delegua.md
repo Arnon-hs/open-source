@@ -1,6 +1,6 @@
 # DesignLiquido/delegua
 
-[![Stars](https://img.shields.io/github/stars/DesignLiquido/delegua?style=flat-square&color=yellow)](https://github.com/DesignLiquido/delegua/stargazers) [![Forks](https://img.shields.io/github/forks/DesignLiquido/delegua?style=flat-square&color=blue)](https://github.com/DesignLiquido/delegua/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DesignLiquido/delegua?style=flat-square&color=yellow)](https://github.com/DesignLiquido/delegua/stargazers) [![Forks](https://img.shields.io/github/forks/DesignLiquido/delegua?style=flat-square&color=blue)](https://github.com/DesignLiquido/delegua/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Linguagem de programação 100% em português baseada em TypeScript, independente de sistema operacional e dispositivo, e suporte a múltiplos dialetos.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 488 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ DesignLiquido/delegua 的生产可用性为中等（Medium）。它适合用于�
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

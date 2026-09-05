@@ -1,6 +1,6 @@
 # BryceWG/BiBi-Keyboard
 
-[![Stars](https://img.shields.io/github/stars/BryceWG/BiBi-Keyboard?style=flat-square&color=yellow)](https://github.com/BryceWG/BiBi-Keyboard/stargazers) [![Forks](https://img.shields.io/github/forks/BryceWG/BiBi-Keyboard?style=flat-square&color=blue)](https://github.com/BryceWG/BiBi-Keyboard/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BryceWG/BiBi-Keyboard?style=flat-square&color=yellow)](https://github.com/BryceWG/BiBi-Keyboard/stargazers) [![Forks](https://img.shields.io/github/forks/BryceWG/BiBi-Keyboard?style=flat-square&color=blue)](https://github.com/BryceWG/BiBi-Keyboard/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用  An LLM ASR voice input method keyboard application for the Android platform based on Kotlin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ BryceWG/BiBi‑Keyboard 为 Android 开发者提供了一套开箱即用的 **LL
 | forks | 43/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

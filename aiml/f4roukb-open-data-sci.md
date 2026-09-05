@@ -1,6 +1,6 @@
 # f4roukb/open-data-sci
 
-[![Stars](https://img.shields.io/github/stars/f4roukb/open-data-sci?style=flat-square&color=yellow)](https://github.com/f4roukb/open-data-sci/stargazers) [![Forks](https://img.shields.io/github/forks/f4roukb/open-data-sci?style=flat-square&color=blue)](https://github.com/f4roukb/open-data-sci/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f4roukb/open-data-sci?style=flat-square&color=yellow)](https://github.com/f4roukb/open-data-sci/stargazers) [![Forks](https://img.shields.io/github/forks/f4roukb/open-data-sci?style=flat-square&color=blue)](https://github.com/f4roukb/open-data-sci/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Data science and Machine Learning AI agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ f4roukb/open-data-sci 的生产可用性为中等（Medium）。它可以用于�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 35/100 |
-| recency | 40/100 |
+| outlook | 55/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 46/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

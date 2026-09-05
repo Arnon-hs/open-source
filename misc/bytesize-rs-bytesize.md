@@ -1,6 +1,6 @@
 # bytesize-rs/bytesize
 
-[![Stars](https://img.shields.io/github/stars/bytesize-rs/bytesize?style=flat-square&color=yellow)](https://github.com/bytesize-rs/bytesize/stargazers) [![Forks](https://img.shields.io/github/forks/bytesize-rs/bytesize?style=flat-square&color=blue)](https://github.com/bytesize-rs/bytesize/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytesize-rs/bytesize?style=flat-square&color=yellow)](https://github.com/bytesize-rs/bytesize/stargazers) [![Forks](https://img.shields.io/github/forks/bytesize-rs/bytesize?style=flat-square&color=blue)](https://github.com/bytesize-rs/bytesize/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic wrapper for byte count representations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ bytesize-rs/bytesize 的生产可用性为中等（Medium），意味着它可�
 | forks | 42/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 50/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

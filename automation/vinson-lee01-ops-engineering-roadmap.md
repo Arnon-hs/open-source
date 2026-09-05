@@ -1,6 +1,6 @@
 # vinson-lee01/ops-engineering-roadmap
 
-[![Stars](https://img.shields.io/github/stars/vinson-lee01/ops-engineering-roadmap?style=flat-square&color=yellow)](https://github.com/vinson-lee01/ops-engineering-roadmap/stargazers) [![Forks](https://img.shields.io/github/forks/vinson-lee01/ops-engineering-roadmap?style=flat-square&color=blue)](https://github.com/vinson-lee01/ops-engineering-roadmap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinson-lee01/ops-engineering-roadmap?style=flat-square&color=yellow)](https://github.com/vinson-lee01/ops-engineering-roadmap/stargazers) [![Forks](https://img.shields.io/github/forks/vinson-lee01/ops-engineering-roadmap?style=flat-square&color=blue)](https://github.com/vinson-lee01/ops-engineering-roadmap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🔧 DevOps/SRE 工程师从零基础到架构师完整学习路线图 | Linux · Docker · K8s · CI/CD · Prometheus · 云原生 | CN+EN Bilingual | 500+ Resources | Zero to Architect — Complete learning path for DevOps & SRE engineers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 376 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Database · Observability · DevOps/Infra · Education
+Automation · Cloud & Storage · Database · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -113,11 +113,11 @@ Overall, *ops‑engineering‑roadmap* is a high‑readiness OSS asset that not 
 | forks | 25/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

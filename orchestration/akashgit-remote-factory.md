@@ -1,6 +1,6 @@
 # akashgit/remote-factory
 
-[![Stars](https://img.shields.io/github/stars/akashgit/remote-factory?style=flat-square&color=yellow)](https://github.com/akashgit/remote-factory/stargazers) [![Forks](https://img.shields.io/github/forks/akashgit/remote-factory?style=flat-square&color=blue)](https://github.com/akashgit/remote-factory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akashgit/remote-factory?style=flat-square&color=yellow)](https://github.com/akashgit/remote-factory/stargazers) [![Forks](https://img.shields.io/github/forks/akashgit/remote-factory?style=flat-square&color=blue)](https://github.com/akashgit/remote-factory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Domain-agnostic multi-agent software design and evolution harness
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ akashgit/remote‑factory 是一个面向领域无关的多代理软件设计与
 | forks | 29/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 50/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

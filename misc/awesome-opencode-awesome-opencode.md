@@ -1,6 +1,6 @@
 # awesome-opencode/awesome-opencode
 
-[![Stars](https://img.shields.io/github/stars/awesome-opencode/awesome-opencode?style=flat-square&color=yellow)](https://github.com/awesome-opencode/awesome-opencode/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-opencode/awesome-opencode?style=flat-square&color=blue)](https://github.com/awesome-opencode/awesome-opencode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awesome-opencode/awesome-opencode?style=flat-square&color=yellow)](https://github.com/awesome-opencode/awesome-opencode/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-opencode/awesome-opencode?style=flat-square&color=blue)](https://github.com/awesome-opencode/awesome-opencode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 585 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ awesome‑opencode 是一个精选的插件、主题、agent、项目和资源�
 | forks | 69/100 |
 | stars | 83/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

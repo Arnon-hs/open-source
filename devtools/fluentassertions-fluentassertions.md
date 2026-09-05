@@ -1,6 +1,6 @@
 # fluentassertions/fluentassertions
 
-[![Stars](https://img.shields.io/github/stars/fluentassertions/fluentassertions?style=flat-square&color=yellow)](https://github.com/fluentassertions/fluentassertions/stargazers) [![Forks](https://img.shields.io/github/forks/fluentassertions/fluentassertions?style=flat-square&color=blue)](https://github.com/fluentassertions/fluentassertions/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluentassertions/fluentassertions?style=flat-square&color=yellow)](https://github.com/fluentassertions/fluentassertions/stargazers) [![Forks](https://img.shields.io/github/forks/fluentassertions/fluentassertions?style=flat-square&color=blue)](https://github.com/fluentassertions/fluentassertions/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 726 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ fluentassertions/fluentassertions 是一个开源项目，提供了一个非常�
 | forks | 72/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

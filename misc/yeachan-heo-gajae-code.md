@@ -1,6 +1,6 @@
 # Yeachan-Heo/gajae-code
 
-[![Stars](https://img.shields.io/github/stars/Yeachan-Heo/gajae-code?style=flat-square&color=yellow)](https://github.com/Yeachan-Heo/gajae-code/stargazers) [![Forks](https://img.shields.io/github/forks/Yeachan-Heo/gajae-code?style=flat-square&color=blue)](https://github.com/Yeachan-Heo/gajae-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yeachan-Heo/gajae-code?style=flat-square&color=yellow)](https://github.com/Yeachan-Heo/gajae-code/stargazers) [![Forks](https://img.shields.io/github/forks/Yeachan-Heo/gajae-code?style=flat-square&color=blue)](https://github.com/Yeachan-Heo/gajae-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Gajae Code MVP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Yeachan-Heo/gajae-code 是一个基于 TypeScript 实现的 MVP（最小可行�
 | forks | 54/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

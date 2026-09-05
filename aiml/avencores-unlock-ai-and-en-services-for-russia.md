@@ -1,6 +1,6 @@
 # AvenCores/Unlock_AI_and_EN_Services_for_Russia
 
-[![Stars](https://img.shields.io/github/stars/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=flat-square&color=yellow)](https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/stargazers) [![Forks](https://img.shields.io/github/forks/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=flat-square&color=blue)](https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=flat-square&color=yellow)](https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/stargazers) [![Forks](https://img.shields.io/github/forks/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=flat-square&color=blue)](https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🛡 Разблокировка зарубежных AI-сервисов (и не только) для России 🌍
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ AvenCores/Unlock_AI_and_EN_Services_for_Russia 是一个开源项目，旨在帮
 | forks | 26/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

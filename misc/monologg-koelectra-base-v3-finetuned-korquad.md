@@ -1,6 +1,6 @@
 # monologg/koelectra-base-v3-finetuned-korquad
 
-[![Stars](https://img.shields.io/github/stars/monologg/koelectra-base-v3-finetuned-korquad?style=flat-square&color=yellow)](https://huggingface.co/monologg/koelectra-base-v3-finetuned-korquad/stargazers) [![Forks](https://img.shields.io/github/forks/monologg/koelectra-base-v3-finetuned-korquad?style=flat-square&color=blue)](https://huggingface.co/monologg/koelectra-base-v3-finetuned-korquad/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monologg/koelectra-base-v3-finetuned-korquad?style=flat-square&color=yellow)](https://huggingface.co/monologg/koelectra-base-v3-finetuned-korquad/stargazers) [![Forks](https://img.shields.io/github/forks/monologg/koelectra-base-v3-finetuned-korquad?style=flat-square&color=blue)](https://huggingface.co/monologg/koelectra-base-v3-finetuned-korquad/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Question answering (question-answering) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 31/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ monologg/koelectra-base-v3-finetuned-korquad 的主要价值在于帮助开发�
 | forks | 0/100 |
 | stars | 18/100 |
 | topics | 38/100 |
-| outlook | 29/100 |
-| quality | 27/100 |
-| recency | 20/100 |
+| outlook | 50/100 |
+| quality | 42/100 |
+| recency | 80/100 |
 | adoption | 13/100 |
-| production | 33/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

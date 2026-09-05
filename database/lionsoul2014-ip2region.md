@@ -1,6 +1,6 @@
 # lionsoul2014/ip2region
 
-[![Stars](https://img.shields.io/github/stars/lionsoul2014/ip2region?style=flat-square&color=yellow)](https://github.com/lionsoul2014/ip2region/stargazers) [![Forks](https://img.shields.io/github/forks/lionsoul2014/ip2region?style=flat-square&color=blue)](https://github.com/lionsoul2014/ip2region/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lionsoul2014/ip2region?style=flat-square&color=yellow)](https://github.com/lionsoul2014/ip2region/stargazers) [![Forks](https://img.shields.io/github/forks/lionsoul2014/ip2region?style=flat-square&color=blue)](https://github.com/lionsoul2014/ip2region/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.4k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ lionsoul2014/ip2region 是一个离线的 IP‑to‑Region 定位库，支持 IP
 | forks | 87/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 86/100 |
-| recency | 60/100 |
+| outlook | 85/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

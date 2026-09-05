@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Observability · Security
+MCP · AI/ML · Networking · Observability · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ luckyPipewrench/pipelock：luckyPipewrench/pipelock helps connect AI assistants 
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

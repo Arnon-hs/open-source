@@ -1,6 +1,6 @@
 # vargHQ/sdk
 
-[![Stars](https://img.shields.io/github/stars/vargHQ/sdk?style=flat-square&color=yellow)](https://github.com/vargHQ/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/vargHQ/sdk?style=flat-square&color=blue)](https://github.com/vargHQ/sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vargHQ/sdk?style=flat-square&color=yellow)](https://github.com/vargHQ/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/vargHQ/sdk?style=flat-square&color=blue)](https://github.com/vargHQ/sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · AI/ML · Backend
+Content Creation · AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ vargHQ/sdk：vargHQ/sdk helps creators research, generate, repurpose, and publis
 | forks | 34/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

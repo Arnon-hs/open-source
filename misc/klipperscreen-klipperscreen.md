@@ -1,6 +1,6 @@
 # KlipperScreen/KlipperScreen
 
-[![Stars](https://img.shields.io/github/stars/KlipperScreen/KlipperScreen?style=flat-square&color=yellow)](https://github.com/KlipperScreen/KlipperScreen/stargazers) [![Forks](https://img.shields.io/github/forks/KlipperScreen/KlipperScreen?style=flat-square&color=blue)](https://github.com/KlipperScreen/KlipperScreen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KlipperScreen/KlipperScreen?style=flat-square&color=yellow)](https://github.com/KlipperScreen/KlipperScreen/stargazers) [![Forks](https://img.shields.io/github/forks/KlipperScreen/KlipperScreen?style=flat-square&color=blue)](https://github.com/KlipperScreen/KlipperScreen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > GUI for Klipper
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 476 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ KlipperScreen 是为 Klipper 3D 打印固件提供的图形化用户界面（GUI
 | forks | 67/100 |
 | stars | 67/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

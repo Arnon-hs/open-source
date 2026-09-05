@@ -1,6 +1,6 @@
 # deveshctl/layerx
 
-[![Stars](https://img.shields.io/github/stars/deveshctl/layerx?style=flat-square&color=yellow)](https://github.com/deveshctl/layerx/stargazers) [![Forks](https://img.shields.io/github/forks/deveshctl/layerx?style=flat-square&color=blue)](https://github.com/deveshctl/layerx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deveshctl/layerx?style=flat-square&color=yellow)](https://github.com/deveshctl/layerx/stargazers) [![Forks](https://img.shields.io/github/forks/deveshctl/layerx?style=flat-square&color=blue)](https://github.com/deveshctl/layerx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a single static binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ LayerX Image Inspector（deveshctl/layerx）是一款开源的终端工具，用
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

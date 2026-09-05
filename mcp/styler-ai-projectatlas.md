@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · DevTools · Database
+MCP · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ styler-ai/ProjectAtlas：styler-ai/ProjectAtlas helps connect AI assistants to r
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

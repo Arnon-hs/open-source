@@ -1,6 +1,6 @@
 # HugoBlox/hugo-theme-academic-cv
 
-[![Stars](https://img.shields.io/github/stars/HugoBlox/hugo-theme-academic-cv?style=flat-square&color=yellow)](https://github.com/HugoBlox/hugo-theme-academic-cv/stargazers) [![Forks](https://img.shields.io/github/forks/HugoBlox/hugo-theme-academic-cv?style=flat-square&color=blue)](https://github.com/HugoBlox/hugo-theme-academic-cv/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HugoBlox/hugo-theme-academic-cv?style=flat-square&color=yellow)](https://github.com/HugoBlox/hugo-theme-academic-cv/stargazers) [![Forks](https://img.shields.io/github/forks/HugoBlox/hugo-theme-academic-cv?style=flat-square&color=blue)](https://github.com/HugoBlox/hugo-theme-academic-cv/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🎓 Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 👇
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 6.5k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates
+Templates · Documents
 
 ## 📝 Summary
 
@@ -119,15 +119,15 @@ HugoBlox/hugo-theme-academic-cv 是一个基于 Hugo 的开源项目，提供了
 | forks | 95/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 63/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

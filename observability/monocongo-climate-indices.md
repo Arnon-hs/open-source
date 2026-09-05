@@ -1,6 +1,6 @@
 # monocongo/climate_indices
 
-[![Stars](https://img.shields.io/github/stars/monocongo/climate_indices?style=flat-square&color=yellow)](https://github.com/monocongo/climate_indices/stargazers) [![Forks](https://img.shields.io/github/forks/monocongo/climate_indices?style=flat-square&color=blue)](https://github.com/monocongo/climate_indices/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monocongo/climate_indices?style=flat-square&color=yellow)](https://github.com/monocongo/climate_indices/stargazers) [![Forks](https://img.shields.io/github/forks/monocongo/climate_indices?style=flat-square&color=blue)](https://github.com/monocongo/climate_indices/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Climate indices for drought monitoring
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 393 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ monocongo/climate_indices 的生产可用性很高，因为它有以下优势：
 | forks | 56/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

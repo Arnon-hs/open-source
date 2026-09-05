@@ -1,6 +1,6 @@
 # open-compass/VLMEvalKit
 
-[![Stars](https://img.shields.io/github/stars/open-compass/VLMEvalKit?style=flat-square&color=yellow)](https://github.com/open-compass/VLMEvalKit/stargazers) [![Forks](https://img.shields.io/github/forks/open-compass/VLMEvalKit?style=flat-square&color=blue)](https://github.com/open-compass/VLMEvalKit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-compass/VLMEvalKit?style=flat-square&color=yellow)](https://github.com/open-compass/VLMEvalKit/stargazers) [![Forks](https://img.shields.io/github/forks/open-compass/VLMEvalKit?style=flat-square&color=blue)](https://github.com/open-compass/VLMEvalKit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 693 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ open‑compass/VLMEvalKit 是一套开源的 **大规模多模态模型（LMM）
 | forks | 71/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 85/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

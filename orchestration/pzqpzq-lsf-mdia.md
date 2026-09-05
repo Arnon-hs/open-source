@@ -1,6 +1,6 @@
 # pzqpzq/LSF_MDia
 
-[![Stars](https://img.shields.io/github/stars/pzqpzq/LSF_MDia?style=flat-square&color=yellow)](https://github.com/pzqpzq/LSF_MDia/stargazers) [![Forks](https://img.shields.io/github/forks/pzqpzq/LSF_MDia?style=flat-square&color=blue)](https://github.com/pzqpzq/LSF_MDia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pzqpzq/LSF_MDia?style=flat-square&color=yellow)](https://github.com/pzqpzq/LSF_MDia/stargazers) [![Forks](https://img.shields.io/github/forks/pzqpzq/LSF_MDia?style=flat-square&color=blue)](https://github.com/pzqpzq/LSF_MDia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > [ICML 2026] Let LLMs invent and evolve languages for efficient reasoning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ pzqpzq/LSF_MDia 是一个开源项目，用于让大语言模型（LLM）发明�
 | forks | 30/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

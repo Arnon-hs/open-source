@@ -1,6 +1,6 @@
 # SirAllap/agentglass
 
-[![Stars](https://img.shields.io/github/stars/SirAllap/agentglass?style=flat-square&color=yellow)](https://github.com/SirAllap/agentglass/stargazers) [![Forks](https://img.shields.io/github/forks/SirAllap/agentglass?style=flat-square&color=blue)](https://github.com/SirAllap/agentglass/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SirAllap/agentglass?style=flat-square&color=yellow)](https://github.com/SirAllap/agentglass/stargazers) [![Forks](https://img.shields.io/github/forks/SirAllap/agentglass?style=flat-square&color=blue)](https://github.com/SirAllap/agentglass/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ SirAllap/agentglass 是一个开源项目，提供实时的 Mission-Control 面�
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

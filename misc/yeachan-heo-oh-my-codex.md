@@ -1,6 +1,6 @@
 # Yeachan-Heo/oh-my-codex
 
-[![Stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=flat-square&color=yellow)](https://github.com/Yeachan-Heo/oh-my-codex/stargazers) [![Forks](https://img.shields.io/github/forks/Yeachan-Heo/oh-my-codex?style=flat-square&color=blue)](https://github.com/Yeachan-Heo/oh-my-codex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=flat-square&color=yellow)](https://github.com/Yeachan-Heo/oh-my-codex/stargazers) [![Forks](https://img.shields.io/github/forks/Yeachan-Heo/oh-my-codex?style=flat-square&color=blue)](https://github.com/Yeachan-Heo/oh-my-codex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31.9k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Oh My codeX 在生产环境中的可用性非常高，主要原因是其最近�
 | forks | 85/100 |
 | stars | 96/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

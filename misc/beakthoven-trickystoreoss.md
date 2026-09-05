@@ -1,6 +1,6 @@
 # beakthoven/TrickyStoreOSS
 
-[![Stars](https://img.shields.io/github/stars/beakthoven/TrickyStoreOSS?style=flat-square&color=yellow)](https://github.com/beakthoven/TrickyStoreOSS/stargazers) [![Forks](https://img.shields.io/github/forks/beakthoven/TrickyStoreOSS?style=flat-square&color=blue)](https://github.com/beakthoven/TrickyStoreOSS/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beakthoven/TrickyStoreOSS?style=flat-square&color=yellow)](https://github.com/beakthoven/TrickyStoreOSS/stargazers) [![Forks](https://img.shields.io/github/forks/beakthoven/TrickyStoreOSS?style=flat-square&color=blue)](https://github.com/beakthoven/TrickyStoreOSS/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Open source alternative to proprietary Tricky Store module
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ beakthoven/TrickyStoreOSS 的生产可用性为中等（Medium）。它适合用
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

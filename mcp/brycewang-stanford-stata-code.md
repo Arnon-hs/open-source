@@ -1,6 +1,6 @@
 # brycewang-stanford/stata-code
 
-[![Stars](https://img.shields.io/github/stars/brycewang-stanford/stata-code?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/stata-code/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/stata-code?style=flat-square&color=blue)](https://github.com/brycewang-stanford/stata-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brycewang-stanford/stata-code?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/stata-code/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/stata-code?style=flat-square&color=blue)](https://github.com/brycewang-stanford/stata-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-native Stata bridge for empirical research — run DiD/IV/RDD and publication-ready tables from Claude Code, Jupyter, or VS Code on one token-economy result schema, with StatsPAI cross-validation. | 面向实证研究的智能体 Stata 桥接器——在 Claude Code、Jupyter、VS Code 中用一套省 token 的结果格式跑 DiD/IV/RDD 与出版级表格，并支持 StatsPAI 跨栈交叉验证。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ brycewang-stanford/stata-code 的价值在于，它帮助连接 AI 辅助工具�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

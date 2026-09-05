@@ -1,6 +1,6 @@
 # johnlindquist/mdflow
 
-[![Stars](https://img.shields.io/github/stars/johnlindquist/mdflow?style=flat-square&color=yellow)](https://github.com/johnlindquist/mdflow/stargazers) [![Forks](https://img.shields.io/github/forks/johnlindquist/mdflow?style=flat-square&color=blue)](https://github.com/johnlindquist/mdflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johnlindquist/mdflow?style=flat-square&color=yellow)](https://github.com/johnlindquist/mdflow/stargazers) [![Forks](https://img.shields.io/github/forks/johnlindquist/mdflow?style=flat-square&color=blue)](https://github.com/johnlindquist/mdflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-backend CLI for executable markdown prompts. Run .md files against Claude, Codex, Gemini, or Copilot.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 593 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -85,14 +85,15 @@ johnlindquist/mdflow 的生产可用性为中等。它适合用于原型开发�
 | forks | 41/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

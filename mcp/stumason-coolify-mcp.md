@@ -1,6 +1,6 @@
 # StuMason/coolify-mcp
 
-[![Stars](https://img.shields.io/github/stars/StuMason/coolify-mcp?style=flat-square&color=yellow)](https://github.com/StuMason/coolify-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/StuMason/coolify-mcp?style=flat-square&color=blue)](https://github.com/StuMason/coolify-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StuMason/coolify-mcp?style=flat-square&color=yellow)](https://github.com/StuMason/coolify-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/StuMason/coolify-mcp?style=flat-square&color=blue)](https://github.com/StuMason/coolify-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Coolify — 38 optimized tools for managing self-hosted PaaS through AI assistants
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ StuMason/coolify-mcp 是为 Coolify 构建的 MCP（Model Context Protocol）服
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sponge-b0b/arid
 
-[![Stars](https://img.shields.io/github/stars/sponge-b0b/arid?style=flat-square&color=yellow)](https://github.com/sponge-b0b/arid/stargazers) [![Forks](https://img.shields.io/github/forks/sponge-b0b/arid?style=flat-square&color=blue)](https://github.com/sponge-b0b/arid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sponge-b0b/arid?style=flat-square&color=yellow)](https://github.com/sponge-b0b/arid/stargazers) [![Forks](https://img.shields.io/github/forks/sponge-b0b/arid?style=flat-square&color=blue)](https://github.com/sponge-b0b/arid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Python duplicate-code checker written in Rust. A focused replacement for Pylint R0801 that complements Ruff.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -62,11 +62,11 @@ sponge-b0b/arid：。适合用于Misc。
 | forks | 0/100 |
 | stars | 13/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 40/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 35/100 |
+| recency | 80/100 |
 | adoption | 9/100 |
-| production | 59/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · Communication · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ miroslavpejic85/mirotalksfu：miroslavpejic85/mirotalksfu helps add AI capabilit
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

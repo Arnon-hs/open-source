@@ -1,6 +1,6 @@
 # voglster/lumbergh
 
-[![Stars](https://img.shields.io/github/stars/voglster/lumbergh?style=flat-square&color=yellow)](https://github.com/voglster/lumbergh/stargazers) [![Forks](https://img.shields.io/github/forks/voglster/lumbergh?style=flat-square&color=blue)](https://github.com/voglster/lumbergh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voglster/lumbergh?style=flat-square&color=yellow)](https://github.com/voglster/lumbergh/stargazers) [![Forks](https://img.shields.io/github/forks/voglster/lumbergh?style=flat-square&color=blue)](https://github.com/voglster/lumbergh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted web dashboard for supervising multiple Claude Code AI sessions in tmux. Live terminals, real-time git diffs, file browser, todo lists, prompt templates, and mobile PWA support. Micromanage your AI interns from any device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · AI/ML · Frontend · DevTools
+Templates · AI/ML · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ voglster/lumbergh 在生产环境中有较高的可用性。它具有以下特�
 | forks | 25/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

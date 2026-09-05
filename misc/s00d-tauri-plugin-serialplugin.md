@@ -1,6 +1,6 @@
 # s00d/tauri-plugin-serialplugin
 
-[![Stars](https://img.shields.io/github/stars/s00d/tauri-plugin-serialplugin?style=flat-square&color=yellow)](https://github.com/s00d/tauri-plugin-serialplugin/stargazers) [![Forks](https://img.shields.io/github/forks/s00d/tauri-plugin-serialplugin?style=flat-square&color=blue)](https://github.com/s00d/tauri-plugin-serialplugin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s00d/tauri-plugin-serialplugin?style=flat-square&color=yellow)](https://github.com/s00d/tauri-plugin-serialplugin/stargazers) [![Forks](https://img.shields.io/github/forks/s00d/tauri-plugin-serialplugin?style=flat-square&color=blue)](https://github.com/s00d/tauri-plugin-serialplugin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ The s00d/tauri-plugin-serialplugin is an open-source project that enables serial
 | forks | 28/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 47/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

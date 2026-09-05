@@ -1,6 +1,6 @@
 # ckeditor/ckeditor5
 
-[![Stars](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=flat-square&color=yellow)](https://github.com/ckeditor/ckeditor5/stargazers) [![Forks](https://img.shields.io/github/forks/ckeditor/ckeditor5?style=flat-square&color=blue)](https://github.com/ckeditor/ckeditor5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=flat-square&color=yellow)](https://github.com/ckeditor/ckeditor5/stargazers) [![Forks](https://img.shields.io/github/forks/ckeditor/ckeditor5?style=flat-square&color=blue)](https://github.com/ckeditor/ckeditor5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ CKEditor5 的生产可用性很高，因为它具有：
 | forks | 89/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ThingsPanel/thingspanel-backend-community
 
-[![Stars](https://img.shields.io/github/stars/ThingsPanel/thingspanel-backend-community?style=flat-square&color=yellow)](https://github.com/ThingsPanel/thingspanel-backend-community/stargazers) [![Forks](https://img.shields.io/github/forks/ThingsPanel/thingspanel-backend-community?style=flat-square&color=blue)](https://github.com/ThingsPanel/thingspanel-backend-community/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThingsPanel/thingspanel-backend-community?style=flat-square&color=yellow)](https://github.com/ThingsPanel/thingspanel-backend-community/stargazers) [![Forks](https://img.shields.io/github/forks/ThingsPanel/thingspanel-backend-community?style=flat-square&color=blue)](https://github.com/ThingsPanel/thingspanel-backend-community/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 548 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ ThingsPanel /thingspanel‑backend‑community 是一款基于 Go 语言实现
 | forks | 56/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 44/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

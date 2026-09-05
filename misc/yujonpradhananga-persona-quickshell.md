@@ -1,6 +1,6 @@
 # Yujonpradhananga/Persona-Quickshell
 
-[![Stars](https://img.shields.io/github/stars/Yujonpradhananga/Persona-Quickshell?style=flat-square&color=yellow)](https://github.com/Yujonpradhananga/Persona-Quickshell/stargazers) [![Forks](https://img.shields.io/github/forks/Yujonpradhananga/Persona-Quickshell?style=flat-square&color=blue)](https://github.com/Yujonpradhananga/Persona-Quickshell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yujonpradhananga/Persona-Quickshell?style=flat-square&color=yellow)](https://github.com/Yujonpradhananga/Persona-Quickshell/stargazers) [![Forks](https://img.shields.io/github/forks/Yujonpradhananga/Persona-Quickshell?style=flat-square&color=blue)](https://github.com/Yujonpradhananga/Persona-Quickshell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Persona 3 Reload Quickshell theme for Hyprland
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 465 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Persona‑Quickshell 是一款基于 QML 的 Quickshell 主题，专为在 Hyprl
 | forks | 30/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

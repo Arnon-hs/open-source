@@ -1,6 +1,6 @@
 # odoo/documentation
 
-[![Stars](https://img.shields.io/github/stars/odoo/documentation?style=flat-square&color=yellow)](https://github.com/odoo/documentation/stargazers) [![Forks](https://img.shields.io/github/forks/odoo/documentation?style=flat-square&color=blue)](https://github.com/odoo/documentation/network) [![Language](https://img.shields.io/badge/lang-reStructuredText-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/odoo/documentation?style=flat-square&color=yellow)](https://github.com/odoo/documentation/stargazers) [![Forks](https://img.shields.io/github/forks/odoo/documentation?style=flat-square&color=blue)](https://github.com/odoo/documentation/network) [![Language](https://img.shields.io/badge/lang-reStructuredText-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Odoo documentation sources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 11.9k |
 | 💻 **Language** | reStructuredText |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Odoo 文档源代码的价值在于，它可以作为 Odoo 的参考文档来源
 | forks | 100/100 |
 | stars | 66/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

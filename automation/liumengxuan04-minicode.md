@@ -1,6 +1,6 @@
 # LiuMengxuan04/MiniCode
 
-[![Stars](https://img.shields.io/github/stars/LiuMengxuan04/MiniCode?style=flat-square&color=yellow)](https://github.com/LiuMengxuan04/MiniCode/stargazers) [![Forks](https://img.shields.io/github/forks/LiuMengxuan04/MiniCode?style=flat-square&color=blue)](https://github.com/LiuMengxuan04/MiniCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LiuMengxuan04/MiniCode?style=flat-square&color=yellow)](https://github.com/LiuMengxuan04/MiniCode/stargazers) [![Forks](https://img.shields.io/github/forks/LiuMengxuan04/MiniCode?style=flat-square&color=blue)](https://github.com/LiuMengxuan04/MiniCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation. Multi-language support: TypeScript , Python and Rust implementations available now.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ LiuMengxuan04/MiniCode 是一款轻量级的终端编码助理，采用 Claude C
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

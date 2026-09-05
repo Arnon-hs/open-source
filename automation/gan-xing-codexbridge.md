@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools
+Automation · AI/ML · Communication · Backend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Gan-Xing/CodexBridge：Gan-Xing/CodexBridge helps remove repetitive manual opera
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # namiml/nami-apple
 
-[![Stars](https://img.shields.io/github/stars/namiml/nami-apple?style=flat-square&color=yellow)](https://github.com/namiml/nami-apple/stargazers) [![Forks](https://img.shields.io/github/forks/namiml/nami-apple?style=flat-square&color=blue)](https://github.com/namiml/nami-apple/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/namiml/nami-apple?style=flat-square&color=yellow)](https://github.com/namiml/nami-apple/stargazers) [![Forks](https://img.shields.io/github/forks/namiml/nami-apple?style=flat-square&color=blue)](https://github.com/namiml/nami-apple/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A/B test native no-code paywalls, onboarding flows and more for Apple platforms
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Mobile · Product
+Payments · Libraries & SDKs · Mobile · Product
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ namiml/nami-apple 是一套面向 Apple 生态（iOS、macOS、watchOS 等）的
 | forks | 24/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

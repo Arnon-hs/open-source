@@ -1,6 +1,6 @@
 # wslyvh/paperweight
 
-[![Stars](https://img.shields.io/github/stars/wslyvh/paperweight?style=flat-square&color=yellow)](https://github.com/wslyvh/paperweight/stargazers) [![Forks](https://img.shields.io/github/forks/wslyvh/paperweight?style=flat-square&color=blue)](https://github.com/wslyvh/paperweight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wslyvh/paperweight?style=flat-square&color=yellow)](https://github.com/wslyvh/paperweight/stargazers) [![Forks](https://img.shields.io/github/forks/wslyvh/paperweight?style=flat-square&color=blue)](https://github.com/wslyvh/paperweight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ wslyvh/paperweight：wslyvh/paperweight may be useful when its README and activi
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # jiaqi/jmxterm
 
-[![Stars](https://img.shields.io/github/stars/jiaqi/jmxterm?style=flat-square&color=yellow)](https://github.com/jiaqi/jmxterm/stargazers) [![Forks](https://img.shields.io/github/forks/jiaqi/jmxterm?style=flat-square&color=blue)](https://github.com/jiaqi/jmxterm/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiaqi/jmxterm?style=flat-square&color=yellow)](https://github.com/jiaqi/jmxterm/stargazers) [![Forks](https://img.shields.io/github/forks/jiaqi/jmxterm?style=flat-square&color=blue)](https://github.com/jiaqi/jmxterm/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive command line JMX client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 557 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ jiaqi/jmxterm - это интерактивный командный линей�
 | forks | 55/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

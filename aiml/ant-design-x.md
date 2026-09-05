@@ -1,6 +1,6 @@
 # ant-design/x
 
-[![Stars](https://img.shields.io/github/stars/ant-design/x?style=flat-square&color=yellow)](https://github.com/ant-design/x/stargazers) [![Forks](https://img.shields.io/github/forks/ant-design/x?style=flat-square&color=blue)](https://github.com/ant-design/x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ant-design/x?style=flat-square&color=yellow)](https://github.com/ant-design/x/stargazers) [![Forks](https://img.shields.io/github/forks/ant-design/x?style=flat-square&color=blue)](https://github.com/ant-design/x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Craft AI-driven interface effortlessly🤖
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML · Communication · Frontend · Design
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ ant-design/x 的生产可用性非常高，主要原因包括：
 | forks | 76/100 |
 | stars | 78/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # milesgranger/cramjam
 
-[![Stars](https://img.shields.io/github/stars/milesgranger/cramjam?style=flat-square&color=yellow)](https://github.com/milesgranger/cramjam/stargazers) [![Forks](https://img.shields.io/github/forks/milesgranger/cramjam?style=flat-square&color=blue)](https://github.com/milesgranger/cramjam/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milesgranger/cramjam?style=flat-square&color=yellow)](https://github.com/milesgranger/cramjam/stargazers) [![Forks](https://img.shields.io/github/forks/milesgranger/cramjam?style=flat-square&color=blue)](https://github.com/milesgranger/cramjam/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Your go-to for easy access to a plethora of compression algorithms, all neatly bundled in one simple installation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ milesgranger/cramjam：milesgranger/cramjam may be useful when its README and ac
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

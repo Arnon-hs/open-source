@@ -1,6 +1,6 @@
 # santosomar/AI-agents-for-cybersecurity
 
-[![Stars](https://img.shields.io/github/stars/santosomar/AI-agents-for-cybersecurity?style=flat-square&color=yellow)](https://github.com/santosomar/AI-agents-for-cybersecurity/stargazers) [![Forks](https://img.shields.io/github/forks/santosomar/AI-agents-for-cybersecurity?style=flat-square&color=blue)](https://github.com/santosomar/AI-agents-for-cybersecurity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/santosomar/AI-agents-for-cybersecurity?style=flat-square&color=yellow)](https://github.com/santosomar/AI-agents-for-cybersecurity/stargazers) [![Forks](https://img.shields.io/github/forks/santosomar/AI-agents-for-cybersecurity?style=flat-square&color=blue)](https://github.com/santosomar/AI-agents-for-cybersecurity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains resources and materials for courses and presentations related to AI Agents and Agentic Systems for Cybersecurity Operations by Omar Santos.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ The project is considered production-ready due to its recent activity, strong ad
 | forks | 48/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

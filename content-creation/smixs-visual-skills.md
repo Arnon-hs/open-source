@@ -1,6 +1,6 @@
 # smixs/visual-skills
 
-[![Stars](https://img.shields.io/github/stars/smixs/visual-skills?style=flat-square&color=yellow)](https://github.com/smixs/visual-skills/stargazers) [![Forks](https://img.shields.io/github/forks/smixs/visual-skills?style=flat-square&color=blue)](https://github.com/smixs/visual-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smixs/visual-skills?style=flat-square&color=yellow)](https://github.com/smixs/visual-skills/stargazers) [![Forks](https://img.shields.io/github/forks/smixs/visual-skills?style=flat-square&color=blue)](https://github.com/smixs/visual-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2.5, Kling 3.0 Turbo/Omni, Veo 3.1, Nano Banana 2, GPT Image 2.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · AI/ML
+Content Creation · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -95,15 +95,15 @@ smixs/visual-skills 的价值在于，它可以帮助开发者在不从头开始
 | forks | 30/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

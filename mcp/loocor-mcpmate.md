@@ -1,6 +1,6 @@
 # loocor/mcpmate
 
-[![Stars](https://img.shields.io/github/stars/loocor/mcpmate?style=flat-square&color=yellow)](https://github.com/loocor/mcpmate/stargazers) [![Forks](https://img.shields.io/github/forks/loocor/mcpmate?style=flat-square&color=blue)](https://github.com/loocor/mcpmate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/loocor/mcpmate?style=flat-square&color=yellow)](https://github.com/loocor/mcpmate/stargazers) [![Forks](https://img.shields.io/github/forks/loocor/mcpmate?style=flat-square&color=blue)](https://github.com/loocor/mcpmate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCPMate is a progressive MCP management center for organizing servers, clients, profiles, capabilities, and runtime visibility in one local workspace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ MCPMate 是一个渐进式的 MCP（Model Context Protocol）管理中心，能�
 | forks | 21/100 |
 | stars | 31/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

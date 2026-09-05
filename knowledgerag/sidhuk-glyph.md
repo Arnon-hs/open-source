@@ -1,6 +1,6 @@
 # SidhuK/Glyph
 
-[![Stars](https://img.shields.io/github/stars/SidhuK/Glyph?style=flat-square&color=yellow)](https://github.com/SidhuK/Glyph/stargazers) [![Forks](https://img.shields.io/github/forks/SidhuK/Glyph?style=flat-square&color=blue)](https://github.com/SidhuK/Glyph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SidhuK/Glyph?style=flat-square&color=yellow)](https://github.com/SidhuK/Glyph/stargazers) [![Forks](https://img.shields.io/github/forks/SidhuK/Glyph?style=flat-square&color=blue)](https://github.com/SidhuK/Glyph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 📝 Glyph is a private desktop workspace for notes, documents, and ideas, with Markdown editing and built-in AI tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -118,15 +118,15 @@ Glyph 能快速为内部知识提供结构化、可搜索的入口，并通过 A
 | forks | 34/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

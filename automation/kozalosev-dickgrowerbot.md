@@ -1,6 +1,6 @@
 # kozalosev/DickGrowerBot
 
-[![Stars](https://img.shields.io/github/stars/kozalosev/DickGrowerBot?style=flat-square&color=yellow)](https://github.com/kozalosev/DickGrowerBot/stargazers) [![Forks](https://img.shields.io/github/forks/kozalosev/DickGrowerBot?style=flat-square&color=blue)](https://github.com/kozalosev/DickGrowerBot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kozalosev/DickGrowerBot?style=flat-square&color=yellow)](https://github.com/kozalosev/DickGrowerBot/stargazers) [![Forks](https://img.shields.io/github/forks/kozalosev/DickGrowerBot?style=flat-square&color=blue)](https://github.com/kozalosev/DickGrowerBot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Who has the biggest dick ever? A game bot for Telegram
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ kozalosev/DickGrowerBot 的生产可用性为中等。由于其依赖于手动�
 | forks | 41/100 |
 | stars | 45/100 |
 | topics | 38/100 |
-| outlook | 47/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

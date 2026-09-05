@@ -1,6 +1,6 @@
 # phuetz/code-buddy
 
-[![Stars](https://img.shields.io/github/stars/phuetz/code-buddy?style=flat-square&color=yellow)](https://github.com/phuetz/code-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/phuetz/code-buddy?style=flat-square&color=blue)](https://github.com/phuetz/code-buddy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phuetz/code-buddy?style=flat-square&color=yellow)](https://github.com/phuetz/code-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/phuetz/code-buddy?style=flat-square&color=blue)](https://github.com/phuetz/code-buddy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source multi-provider AI coding agent: terminal TUI, Electron desktop cockpit (Cowork), and a 24/7 autonomous multi-AI fleet that runs free-first on local Ollama. 15 LLM providers (Claude, GPT, Gemini, Grok), ~110 tools, voice + vision companion, MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ phuetz/code‑buddy 是一个开源的多供应商 AI 编码助手，提供终�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

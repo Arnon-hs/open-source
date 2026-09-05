@@ -1,6 +1,6 @@
 # jherrodthomas/robotics-skills-suite
 
-[![Stars](https://img.shields.io/github/stars/jherrodthomas/robotics-skills-suite?style=flat-square&color=yellow)](https://github.com/jherrodthomas/robotics-skills-suite/stargazers) [![Forks](https://img.shields.io/github/forks/jherrodthomas/robotics-skills-suite?style=flat-square&color=blue)](https://github.com/jherrodthomas/robotics-skills-suite/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jherrodthomas/robotics-skills-suite?style=flat-square&color=yellow)](https://github.com/jherrodthomas/robotics-skills-suite/stargazers) [![Forks](https://img.shields.io/github/forks/jherrodthomas/robotics-skills-suite?style=flat-square&color=blue)](https://github.com/jherrodthomas/robotics-skills-suite/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 261 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ jherrodthomas/robotics-skills-suite 是一个开源项目，旨在为工业机�
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

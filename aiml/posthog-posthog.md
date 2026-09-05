@@ -1,6 +1,6 @@
 # PostHog/posthog
 
-[![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=flat-square&color=yellow)](https://github.com/PostHog/posthog/stargazers) [![Forks](https://img.shields.io/github/forks/PostHog/posthog?style=flat-square&color=blue)](https://github.com/PostHog/posthog/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=flat-square&color=yellow)](https://github.com/PostHog/posthog/stargazers) [![Forks](https://img.shields.io/github/forks/PostHog/posthog?style=flat-square&color=blue)](https://github.com/PostHog/posthog/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35.1k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Product
+AI/ML · Frontend · DevTools · Data · Product
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ PostHog 是一站式的开发者平台，提供产品分析、会话回放、错
 | forks | 87/100 |
 | stars | 97/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

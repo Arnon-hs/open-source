@@ -1,6 +1,6 @@
 # united-manufacturing-hub/united-manufacturing-hub
 
-[![Stars](https://img.shields.io/github/stars/united-manufacturing-hub/united-manufacturing-hub?style=flat-square&color=yellow)](https://github.com/united-manufacturing-hub/united-manufacturing-hub/stargazers) [![Forks](https://img.shields.io/github/forks/united-manufacturing-hub/united-manufacturing-hub?style=flat-square&color=blue)](https://github.com/united-manufacturing-hub/united-manufacturing-hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/united-manufacturing-hub/united-manufacturing-hub?style=flat-square&color=yellow)](https://github.com/united-manufacturing-hub/united-manufacturing-hub/stargazers) [![Forks](https://img.shields.io/github/forks/united-manufacturing-hub/united-manufacturing-hub?style=flat-square&color=blue)](https://github.com/united-manufacturing-hub/united-manufacturing-hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The data platform for manufacturing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ united-manufacturing-hub/united-manufacturing-hub 是一个数据平台，专为
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 25/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

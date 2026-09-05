@@ -1,6 +1,6 @@
 # techlore/Plexus-app
 
-[![Stars](https://img.shields.io/github/stars/techlore/Plexus-app?style=flat-square&color=yellow)](https://github.com/techlore/Plexus-app/stargazers) [![Forks](https://img.shields.io/github/forks/techlore/Plexus-app?style=flat-square&color=blue)](https://github.com/techlore/Plexus-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/techlore/Plexus-app?style=flat-square&color=yellow)](https://github.com/techlore/Plexus-app/stargazers) [![Forks](https://img.shields.io/github/forks/techlore/Plexus-app?style=flat-square&color=blue)](https://github.com/techlore/Plexus-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Remove the fear of Android app compatibility on de-Googled devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ techlore/Plexus-app 的生产可用性非常高，项目有:
 | forks | 36/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

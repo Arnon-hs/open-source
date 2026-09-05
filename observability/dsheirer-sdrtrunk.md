@@ -1,6 +1,6 @@
 # DSheirer/sdrtrunk
 
-[![Stars](https://img.shields.io/github/stars/DSheirer/sdrtrunk?style=flat-square&color=yellow)](https://github.com/DSheirer/sdrtrunk/stargazers) [![Forks](https://img.shields.io/github/forks/DSheirer/sdrtrunk?style=flat-square&color=blue)](https://github.com/DSheirer/sdrtrunk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DSheirer/sdrtrunk?style=flat-square&color=yellow)](https://github.com/DSheirer/sdrtrunk/stargazers) [![Forks](https://img.shields.io/github/forks/DSheirer/sdrtrunk?style=flat-square&color=blue)](https://github.com/DSheirer/sdrtrunk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 353 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ DSheirer/sdrtrunk 是一款基于 Java 的跨平台开源工具，能够利用�
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

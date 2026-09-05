@@ -1,6 +1,6 @@
 # apis3445/TestingDojo
 
-[![Stars](https://img.shields.io/github/stars/apis3445/TestingDojo?style=flat-square&color=yellow)](https://github.com/apis3445/TestingDojo/stargazers) [![Forks](https://img.shields.io/github/forks/apis3445/TestingDojo?style=flat-square&color=blue)](https://github.com/apis3445/TestingDojo/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apis3445/TestingDojo?style=flat-square&color=yellow)](https://github.com/apis3445/TestingDojo/stargazers) [![Forks](https://img.shields.io/github/forks/apis3445/TestingDojo?style=flat-square&color=blue)](https://github.com/apis3445/TestingDojo/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag automation): Solution to Challenge 3 - Visual Testing with API Mocking
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -65,14 +65,15 @@ Solution to Challenge 3 - Visual Testing with API Mocking：Solution to Challeng
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 40/100 |
-| recency | 80/100 |
+| outlook | 49/100 |
+| quality | 35/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 54/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

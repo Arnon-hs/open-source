@@ -1,6 +1,6 @@
 # kanbn/kan
 
-[![Stars](https://img.shields.io/github/stars/kanbn/kan?style=flat-square&color=yellow)](https://github.com/kanbn/kan/stargazers) [![Forks](https://img.shields.io/github/forks/kanbn/kan?style=flat-square&color=blue)](https://github.com/kanbn/kan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanbn/kan?style=flat-square&color=yellow)](https://github.com/kanbn/kan/stargazers) [![Forks](https://img.shields.io/github/forks/kanbn/kan?style=flat-square&color=blue)](https://github.com/kanbn/kan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The open source Trello alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ kanbn/kan 是一款基于 TypeScript 的开源看板系统，提供 Trello 的�
 | forks | 65/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # r-lib/roxygen2
 
-[![Stars](https://img.shields.io/github/stars/r-lib/roxygen2?style=flat-square&color=yellow)](https://github.com/r-lib/roxygen2/stargazers) [![Forks](https://img.shields.io/github/forks/r-lib/roxygen2?style=flat-square&color=blue)](https://github.com/r-lib/roxygen2/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r-lib/roxygen2?style=flat-square&color=yellow)](https://github.com/r-lib/roxygen2/stargazers) [![Forks](https://img.shields.io/github/forks/r-lib/roxygen2?style=flat-square&color=blue)](https://github.com/r-lib/roxygen2/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Generate R package documentation from inline R comments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 649 |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | R |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ roxygen2 是 R 生态中生成包文档的事实标准，适合在 **原型** �
 | forks | 59/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 54/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

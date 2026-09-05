@@ -1,6 +1,6 @@
 # letscontrolit/ESPEasy
 
-[![Stars](https://img.shields.io/github/stars/letscontrolit/ESPEasy?style=flat-square&color=yellow)](https://github.com/letscontrolit/ESPEasy/stargazers) [![Forks](https://img.shields.io/github/forks/letscontrolit/ESPEasy?style=flat-square&color=blue)](https://github.com/letscontrolit/ESPEasy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/letscontrolit/ESPEasy?style=flat-square&color=yellow)](https://github.com/letscontrolit/ESPEasy/stargazers) [![Forks](https://img.shields.io/github/forks/letscontrolit/ESPEasy?style=flat-square&color=blue)](https://github.com/letscontrolit/ESPEasy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Easy MultiSensor device based on ESP8266/ESP32
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ ESPEasy 的生产可用性为中等（Medium）。它适合于内部项目和原
 | forks | 84/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

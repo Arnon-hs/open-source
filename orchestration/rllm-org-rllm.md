@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 552 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ rllm-org/rllm：rllm-org/rllm helps turn isolated prompts and tools into repeata
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

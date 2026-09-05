@@ -1,6 +1,6 @@
 # d4rken-org/permission-pilot
 
-[![Stars](https://img.shields.io/github/stars/d4rken-org/permission-pilot?style=flat-square&color=yellow)](https://github.com/d4rken-org/permission-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/d4rken-org/permission-pilot?style=flat-square&color=blue)](https://github.com/d4rken-org/permission-pilot/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d4rken-org/permission-pilot?style=flat-square&color=yellow)](https://github.com/d4rken-org/permission-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/d4rken-org/permission-pilot?style=flat-square&color=blue)](https://github.com/d4rken-org/permission-pilot/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Android permission explorer 🧑‍✈️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 645 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ d4rken-org/permission-pilot 是一个开源项目，用于 Android 权限的探�
 | forks | 47/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

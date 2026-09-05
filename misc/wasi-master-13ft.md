@@ -1,6 +1,6 @@
 # wasi-master/13ft
 
-[![Stars](https://img.shields.io/github/stars/wasi-master/13ft?style=flat-square&color=yellow)](https://github.com/wasi-master/13ft/stargazers) [![Forks](https://img.shields.io/github/forks/wasi-master/13ft?style=flat-square&color=blue)](https://github.com/wasi-master/13ft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasi-master/13ft?style=flat-square&color=yellow)](https://github.com/wasi-master/13ft/stargazers) [![Forks](https://img.shields.io/github/forks/wasi-master/13ft?style=flat-square&color=blue)](https://github.com/wasi-master/13ft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > My own custom 12ft.io replacement
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ wasi-master/13ft 是作者自研的 12ft.io 替代方案，提供基于 Python �
 | forks | 59/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

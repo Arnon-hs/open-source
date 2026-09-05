@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML · Frontend · DevTools · Design
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ guanyang/antigravity-skills：guanyang/antigravity-skills helps add AI capabilit
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

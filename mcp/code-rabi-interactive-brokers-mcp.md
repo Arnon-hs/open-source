@@ -1,6 +1,6 @@
 # code-rabi/interactive-brokers-mcp
 
-[![Stars](https://img.shields.io/github/stars/code-rabi/interactive-brokers-mcp?style=flat-square&color=yellow)](https://github.com/code-rabi/interactive-brokers-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/code-rabi/interactive-brokers-mcp?style=flat-square&color=blue)](https://github.com/code-rabi/interactive-brokers-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/code-rabi/interactive-brokers-mcp?style=flat-square&color=yellow)](https://github.com/code-rabi/interactive-brokers-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/code-rabi/interactive-brokers-mcp?style=flat-square&color=blue)](https://github.com/code-rabi/interactive-brokers-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive Brokers MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ The *interactive‑brokers‑mcp* project provides a Model Context Protocol (MCP
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

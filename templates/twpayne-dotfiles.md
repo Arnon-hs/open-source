@@ -1,6 +1,6 @@
 # twpayne/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/twpayne/dotfiles?style=flat-square&color=yellow)](https://github.com/twpayne/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/twpayne/dotfiles?style=flat-square&color=blue)](https://github.com/twpayne/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twpayne/dotfiles?style=flat-square&color=yellow)](https://github.com/twpayne/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/twpayne/dotfiles?style=flat-square&color=blue)](https://github.com/twpayne/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > My dotfiles, managed with https://chezmoi.io.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go Template |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ The production readiness of twpayne/dotfiles is moderate, scoring 60/100. While 
 | forks | 37/100 |
 | stars | 57/100 |
 | topics | 25/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

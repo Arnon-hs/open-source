@@ -1,6 +1,6 @@
 # risesoft-y9/DataFlow-Engine
 
-[![Stars](https://img.shields.io/github/stars/risesoft-y9/DataFlow-Engine?style=flat-square&color=yellow)](https://github.com/risesoft-y9/DataFlow-Engine/stargazers) [![Forks](https://img.shields.io/github/forks/risesoft-y9/DataFlow-Engine?style=flat-square&color=blue)](https://github.com/risesoft-y9/DataFlow-Engine/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/risesoft-y9/DataFlow-Engine?style=flat-square&color=yellow)](https://github.com/risesoft-y9/DataFlow-Engine/stargazers) [![Forks](https://img.shields.io/github/forks/risesoft-y9/DataFlow-Engine?style=flat-square&color=blue)](https://github.com/risesoft-y9/DataFlow-Engine/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 数据流引擎是一款面向数据集成、数据同步、数据交换、数据共享、任务配置、任务调度的底层数据驱动引擎。数据流引擎采用管执分离、多流层、插件库等体系应对大规模数据任务、数据高频上报、数据高频采集、异构数据兼容的实际数据问题。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 693 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ DataFlow‑Engine 是一款面向数据集成、同步、交换与共享的底�
 | forks | 51/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

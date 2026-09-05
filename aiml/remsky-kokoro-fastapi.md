@@ -1,6 +1,6 @@
 # remsky/Kokoro-FastAPI
 
-[![Stars](https://img.shields.io/github/stars/remsky/Kokoro-FastAPI?style=flat-square&color=yellow)](https://github.com/remsky/Kokoro-FastAPI/stargazers) [![Forks](https://img.shields.io/github/forks/remsky/Kokoro-FastAPI?style=flat-square&color=blue)](https://github.com/remsky/Kokoro-FastAPI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remsky/Kokoro-FastAPI?style=flat-square&color=yellow)](https://github.com/remsky/Kokoro-FastAPI/stargazers) [![Forks](https://img.shields.io/github/forks/remsky/Kokoro-FastAPI?style=flat-square&color=blue)](https://github.com/remsky/Kokoro-FastAPI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support, handling, and auto-stitching
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 858 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Database · DevOps/Infra
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ remsky/Kokoro-FastAPI 的生产可用性很高，理由如下：
 | forks | 73/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 84/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

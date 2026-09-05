@@ -1,6 +1,6 @@
 # channy/korea-devculture
 
-[![Stars](https://img.shields.io/github/stars/channy/korea-devculture?style=flat-square&color=yellow)](https://github.com/channy/korea-devculture/stargazers) [![Forks](https://img.shields.io/github/forks/channy/korea-devculture?style=flat-square&color=blue)](https://github.com/channy/korea-devculture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/channy/korea-devculture?style=flat-square&color=yellow)](https://github.com/channy/korea-devculture/stargazers) [![Forks](https://img.shields.io/github/forks/channy/korea-devculture?style=flat-square&color=blue)](https://github.com/channy/korea-devculture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 국내 IT 기업 소프트웨어 개발 문화 - 본 레포지터리는 국내 IT 기업의 소프트웨어 개발 문화에 대한 다양한 자료를 정리하고 있습니다.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ The *channy/korea-devculture* repository aggregates a wide range of resources th
 | forks | 36/100 |
 | stars | 56/100 |
 | topics | 38/100 |
-| outlook | 49/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

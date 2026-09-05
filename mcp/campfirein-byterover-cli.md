@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 447 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools
+MCP · Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ campfirein/byterover-cli：campfirein/byterover-cli helps connect AI assistants 
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

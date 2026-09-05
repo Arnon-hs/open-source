@@ -1,6 +1,6 @@
 # Francis1998/nexus-llm-router
 
-[![Stars](https://img.shields.io/github/stars/Francis1998/nexus-llm-router?style=flat-square&color=yellow)](https://github.com/Francis1998/nexus-llm-router/stargazers) [![Forks](https://img.shields.io/github/forks/Francis1998/nexus-llm-router?style=flat-square&color=blue)](https://github.com/Francis1998/nexus-llm-router/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Francis1998/nexus-llm-router?style=flat-square&color=yellow)](https://github.com/Francis1998/nexus-llm-router/stargazers) [![Forks](https://img.shields.io/github/forks/Francis1998/nexus-llm-router?style=flat-square&color=blue)](https://github.com/Francis1998/nexus-llm-router/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Intelligent multi-LLM router with task-aware routing strategies, cost optimization, and production safety controls — drop-in OpenAI-compatible API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Francis1998/nexus-llm-router 可以帮助开发者快速添加 AI 能力，而�
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

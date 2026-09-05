@@ -1,6 +1,6 @@
 # denizgursoy/gotouch
 
-[![Stars](https://img.shields.io/github/stars/denizgursoy/gotouch?style=flat-square&color=yellow)](https://github.com/denizgursoy/gotouch/stargazers) [![Forks](https://img.shields.io/github/forks/denizgursoy/gotouch?style=flat-square&color=blue)](https://github.com/denizgursoy/gotouch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denizgursoy/gotouch?style=flat-square&color=yellow)](https://github.com/denizgursoy/gotouch/stargazers) [![Forks](https://img.shields.io/github/forks/denizgursoy/gotouch?style=flat-square&color=blue)](https://github.com/denizgursoy/gotouch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Language Agnostic Customizable Boilerplate Project Creator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · DevTools
+Templates · Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ denizgursoy/gotouch 是一个语言无关、可高度定制的脚手架生成器
 | forks | 23/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

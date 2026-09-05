@@ -1,6 +1,6 @@
 # study8677/awesome-architecture
 
-[![Stars](https://img.shields.io/github/stars/study8677/awesome-architecture?style=flat-square&color=yellow)](https://github.com/study8677/awesome-architecture/stargazers) [![Forks](https://img.shields.io/github/forks/study8677/awesome-architecture?style=flat-square&color=blue)](https://github.com/study8677/awesome-architecture/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/study8677/awesome-architecture?style=flat-square&color=yellow)](https://github.com/study8677/awesome-architecture/stargazers) [![Forks](https://img.shields.io/github/forks/study8677/awesome-architecture?style=flat-square&color=blue)](https://github.com/study8677/awesome-architecture/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ study8677/awesome-architecture 是一套“架构优先”的系统设计资源�
 | forks | 55/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

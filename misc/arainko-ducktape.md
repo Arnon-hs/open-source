@@ -1,6 +1,6 @@
 # arainko/ducktape
 
-[![Stars](https://img.shields.io/github/stars/arainko/ducktape?style=flat-square&color=yellow)](https://github.com/arainko/ducktape/stargazers) [![Forks](https://img.shields.io/github/forks/arainko/ducktape?style=flat-square&color=blue)](https://github.com/arainko/ducktape/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arainko/ducktape?style=flat-square&color=yellow)](https://github.com/arainko/ducktape/stargazers) [![Forks](https://img.shields.io/github/forks/arainko/ducktape?style=flat-square&color=blue)](https://github.com/arainko/ducktape/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic and customizable compile time transformations between similar case classes and sealed traits/enums, essentially a thing that glues your code. Scala 3 only. Or is it duct 🤔
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ arainko/ducktape的主要价值在于，它可以帮助开发者快速添加AI�
 | forks | 24/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

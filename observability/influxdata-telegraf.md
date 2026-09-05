@@ -1,6 +1,6 @@
 # influxdata/telegraf
 
-[![Stars](https://img.shields.io/github/stars/influxdata/telegraf?style=flat-square&color=yellow)](https://github.com/influxdata/telegraf/stargazers) [![Forks](https://img.shields.io/github/forks/influxdata/telegraf?style=flat-square&color=blue)](https://github.com/influxdata/telegraf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/influxdata/telegraf?style=flat-square&color=yellow)](https://github.com/influxdata/telegraf/stargazers) [![Forks](https://img.shields.io/github/forks/influxdata/telegraf?style=flat-square&color=blue)](https://github.com/influxdata/telegraf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.7k |
 | 🍴 **Forks** | 5.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Influxdata/telegraf 在生产环境中具有较高的可靠性，主要原因是
 | forks | 94/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 86/100 |
-| recency | 60/100 |
+| outlook | 86/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 69/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

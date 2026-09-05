@@ -1,6 +1,6 @@
 # prevalentWare/opencode-goal-plugin
 
-[![Stars](https://img.shields.io/github/stars/prevalentWare/opencode-goal-plugin?style=flat-square&color=yellow)](https://github.com/prevalentWare/opencode-goal-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/prevalentWare/opencode-goal-plugin?style=flat-square&color=blue)](https://github.com/prevalentWare/opencode-goal-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prevalentWare/opencode-goal-plugin?style=flat-square&color=yellow)](https://github.com/prevalentWare/opencode-goal-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/prevalentWare/opencode-goal-plugin?style=flat-square&color=blue)](https://github.com/prevalentWare/opencode-goal-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode goal plugin for Codex-style goal mode, /goal slash commands, persistent objectives, and AI coding agent focus.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ prevalentWare/opencode-goal-plugin 是一款面向 Codex‑style “goal mode”
 | forks | 23/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

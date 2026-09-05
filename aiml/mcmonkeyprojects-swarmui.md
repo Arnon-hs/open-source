@@ -1,6 +1,6 @@
 # mcmonkeyprojects/SwarmUI
 
-[![Stars](https://img.shields.io/github/stars/mcmonkeyprojects/SwarmUI?style=flat-square&color=yellow)](https://github.com/mcmonkeyprojects/SwarmUI/stargazers) [![Forks](https://img.shields.io/github/forks/mcmonkeyprojects/SwarmUI?style=flat-square&color=blue)](https://github.com/mcmonkeyprojects/SwarmUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcmonkeyprojects/SwarmUI?style=flat-square&color=yellow)](https://github.com/mcmonkeyprojects/SwarmUI/stargazers) [![Forks](https://img.shields.io/github/forks/mcmonkeyprojects/SwarmUI?style=flat-square&color=blue)](https://github.com/mcmonkeyprojects/SwarmUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 423 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ SwarmUI 的生产可用性较高，主要原因是：
 | forks | 66/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

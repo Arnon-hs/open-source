@@ -1,6 +1,6 @@
 # dynaroars/phd-cs-us
 
-[![Stars](https://img.shields.io/github/stars/dynaroars/phd-cs-us?style=flat-square&color=yellow)](https://github.com/dynaroars/phd-cs-us/stargazers) [![Forks](https://img.shields.io/github/forks/dynaroars/phd-cs-us?style=flat-square&color=blue)](https://github.com/dynaroars/phd-cs-us/network) [![Language](https://img.shields.io/badge/lang-Typst-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dynaroars/phd-cs-us?style=flat-square&color=yellow)](https://github.com/dynaroars/phd-cs-us/stargazers) [![Forks](https://img.shields.io/github/forks/dynaroars/phd-cs-us?style=flat-square&color=blue)](https://github.com/dynaroars/phd-cs-us/network) [![Language](https://img.shields.io/badge/lang-Typst-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A open-source guide that demystifies how U.S. universities evaluate and admit students into Computer Science PhD programs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Typst |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ dynaroars/phd-cs-us 的生产可用性为中等（Medium）：适用于原型或
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

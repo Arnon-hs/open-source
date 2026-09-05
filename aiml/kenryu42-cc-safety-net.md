@@ -1,6 +1,6 @@
 # kenryu42/cc-safety-net
 
-[![Stars](https://img.shields.io/github/stars/kenryu42/cc-safety-net?style=flat-square&color=yellow)](https://github.com/kenryu42/cc-safety-net/stargazers) [![Forks](https://img.shields.io/github/forks/kenryu42/cc-safety-net?style=flat-square&color=blue)](https://github.com/kenryu42/cc-safety-net/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenryu42/cc-safety-net?style=flat-square&color=yellow)](https://github.com/kenryu42/cc-safety-net/stargazers) [![Forks](https://img.shields.io/github/forks/kenryu42/cc-safety-net?style=flat-square&color=blue)](https://github.com/kenryu42/cc-safety-net/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI, Copilot CLI, Kimi Code and Pi.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ kenryu42/cc-safety-net 是一个基于 CLI 的编码助手钩子，能够在 Git
 | forks | 45/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

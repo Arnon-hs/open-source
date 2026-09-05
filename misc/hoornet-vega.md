@@ -1,6 +1,6 @@
 # hoornet/vega
 
-[![Stars](https://img.shields.io/github/stars/hoornet/vega?style=flat-square&color=yellow)](https://github.com/hoornet/vega/stargazers) [![Forks](https://img.shields.io/github/forks/hoornet/vega?style=flat-square&color=blue)](https://github.com/hoornet/vega/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoornet/vega?style=flat-square&color=yellow)](https://github.com/hoornet/vega/stargazers) [![Forks](https://img.shields.io/github/forks/hoornet/vega?style=flat-square&color=blue)](https://github.com/hoornet/vega/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): I built the cross-platform Nostr desktop client I always wanted
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ I built the cross-platform Nostr desktop client I always wanted 是一个开源�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 39/100 |
-| quality | 30/100 |
-| recency | 40/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 41/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # pgEdge/pgedge-postgres-mcp
 
-[![Stars](https://img.shields.io/github/stars/pgEdge/pgedge-postgres-mcp?style=flat-square&color=yellow)](https://github.com/pgEdge/pgedge-postgres-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/pgEdge/pgedge-postgres-mcp?style=flat-square&color=blue)](https://github.com/pgEdge/pgedge-postgres-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgEdge/pgedge-postgres-mcp?style=flat-square&color=yellow)](https://github.com/pgEdge/pgedge-postgres-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/pgEdge/pgedge-postgres-mcp?style=flat-square&color=blue)](https://github.com/pgEdge/pgedge-postgres-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > pgEdge MCP Server.  A PostgreSQL MCP server with a Natural Language Agent CLI and Web UI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ pgEdge/pgedge-postgres-mcp 的生产可用性较高，GitHub 有 184 个星标�
 | forks | 32/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

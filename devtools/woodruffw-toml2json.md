@@ -1,6 +1,6 @@
 # woodruffw/toml2json
 
-[![Stars](https://img.shields.io/github/stars/woodruffw/toml2json?style=flat-square&color=yellow)](https://github.com/woodruffw/toml2json/stargazers) [![Forks](https://img.shields.io/github/forks/woodruffw/toml2json?style=flat-square&color=blue)](https://github.com/woodruffw/toml2json/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/woodruffw/toml2json?style=flat-square&color=yellow)](https://github.com/woodruffw/toml2json/stargazers) [![Forks](https://img.shields.io/github/forks/woodruffw/toml2json?style=flat-square&color=blue)](https://github.com/woodruffw/toml2json/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A very small CLI for converting TOML to JSON
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Woodruffw/toml2json - это малоразмерный CLI для преобр�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

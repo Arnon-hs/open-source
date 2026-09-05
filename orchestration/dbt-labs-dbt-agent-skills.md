@@ -1,6 +1,6 @@
 # dbt-labs/dbt-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/dbt-labs/dbt-agent-skills?style=flat-square&color=yellow)](https://github.com/dbt-labs/dbt-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dbt-labs/dbt-agent-skills?style=flat-square&color=blue)](https://github.com/dbt-labs/dbt-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbt-labs/dbt-agent-skills?style=flat-square&color=yellow)](https://github.com/dbt-labs/dbt-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dbt-labs/dbt-agent-skills?style=flat-square&color=blue)](https://github.com/dbt-labs/dbt-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ dbt‑labs/dbt-agent-skills 汇聚了一套专为 dbt 设计的 Agent Skills，�
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

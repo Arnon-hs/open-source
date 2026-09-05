@@ -1,6 +1,6 @@
 # laravel-zero/laravel-zero
 
-[![Stars](https://img.shields.io/github/stars/laravel-zero/laravel-zero?style=flat-square&color=yellow)](https://github.com/laravel-zero/laravel-zero/stargazers) [![Forks](https://img.shields.io/github/forks/laravel-zero/laravel-zero?style=flat-square&color=blue)](https://github.com/laravel-zero/laravel-zero/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel-zero/laravel-zero?style=flat-square&color=yellow)](https://github.com/laravel-zero/laravel-zero/stargazers) [![Forks](https://img.shields.io/github/forks/laravel-zero/laravel-zero?style=flat-square&color=blue)](https://github.com/laravel-zero/laravel-zero/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A PHP framework for console artisans
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 209 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Laravel Zero 是一个基于 Laravel 的轻量级 PHP 框架，专注于构建�
 | forks | 58/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

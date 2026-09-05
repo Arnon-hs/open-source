@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 356 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing
+Video Editing · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ LaoFeng-mouse/flyingmouse-format：LaoFeng-mouse/flyingmouse-format helps teams 
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

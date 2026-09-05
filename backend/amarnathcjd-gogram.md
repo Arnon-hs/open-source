@@ -1,6 +1,6 @@
 # AmarnathCJD/gogram
 
-[![Stars](https://img.shields.io/github/stars/AmarnathCJD/gogram?style=flat-square&color=yellow)](https://github.com/AmarnathCJD/gogram/stargazers) [![Forks](https://img.shields.io/github/forks/AmarnathCJD/gogram?style=flat-square&color=blue)](https://github.com/AmarnathCJD/gogram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmarnathCJD/gogram?style=flat-square&color=yellow)](https://github.com/AmarnathCJD/gogram/stargazers) [![Forks](https://img.shields.io/github/forks/AmarnathCJD/gogram?style=flat-square&color=blue)](https://github.com/AmarnathCJD/gogram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Full-native implementation of MTProto protocol on Golang.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 416 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ AmarnathCJD/gogram 的生产可用性很高，项目有最近的活动、广泛�
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

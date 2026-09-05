@@ -1,6 +1,6 @@
 # lxc/incus
 
-[![Stars](https://img.shields.io/github/stars/lxc/incus?style=flat-square&color=yellow)](https://github.com/lxc/incus/stargazers) [![Forks](https://img.shields.io/github/forks/lxc/incus?style=flat-square&color=blue)](https://github.com/lxc/incus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lxc/incus?style=flat-square&color=yellow)](https://github.com/lxc/incus/stargazers) [![Forks](https://img.shields.io/github/forks/lxc/incus?style=flat-square&color=blue)](https://github.com/lxc/incus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful system container and virtual machine manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 459 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ lxc/incus 是一款基于 Go 实现的高性能系统容器与虚拟机管理器
 | forks | 67/100 |
 | stars | 80/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

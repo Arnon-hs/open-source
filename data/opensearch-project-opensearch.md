@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ opensearch-project/OpenSearch：opensearch-project/OpenSearch helps convert raw 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # d3/d3-hierarchy
 
-[![Stars](https://img.shields.io/github/stars/d3/d3-hierarchy?style=flat-square&color=yellow)](https://github.com/d3/d3-hierarchy/stargazers) [![Forks](https://img.shields.io/github/forks/d3/d3-hierarchy?style=flat-square&color=blue)](https://github.com/d3/d3-hierarchy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d3/d3-hierarchy?style=flat-square&color=yellow)](https://github.com/d3/d3-hierarchy/stargazers) [![Forks](https://img.shields.io/github/forks/d3/d3-hierarchy?style=flat-square&color=blue)](https://github.com/d3/d3-hierarchy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 2D layout algorithms for visualizing hierarchical data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 315 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ d3/d3-hierarchy：d3/d3-hierarchy may be useful when its README and activity mat
 | forks | 62/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 80/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 61/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

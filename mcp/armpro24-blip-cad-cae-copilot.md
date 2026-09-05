@@ -1,6 +1,6 @@
 # armpro24-blip/cad-cae-copilot
 
-[![Stars](https://img.shields.io/github/stars/armpro24-blip/cad-cae-copilot?style=flat-square&color=yellow)](https://github.com/armpro24-blip/cad-cae-copilot/stargazers) [![Forks](https://img.shields.io/github/forks/armpro24-blip/cad-cae-copilot?style=flat-square&color=blue)](https://github.com/armpro24-blip/cad-cae-copilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/armpro24-blip/cad-cae-copilot?style=flat-square&color=yellow)](https://github.com/armpro24-blip/cad-cae-copilot/stargazers) [![Forks](https://img.shields.io/github/forks/armpro24-blip/cad-cae-copilot?style=flat-square&color=blue)](https://github.com/armpro24-blip/cad-cae-copilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > CAD/CAE Copilot — an AI-native CAD/CAE/CAX workbench for AI agents. Text-to-CAD, text-to-CAE, real build123d/OpenCASCADE geometry, editable parameters, stable topology pointers, deterministic critique, and MCP server tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ CAD/CAE Copilot 的
 | forks | 29/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

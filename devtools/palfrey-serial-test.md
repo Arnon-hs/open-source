@@ -1,6 +1,6 @@
 # palfrey/serial_test
 
-[![Stars](https://img.shields.io/github/stars/palfrey/serial_test?style=flat-square&color=yellow)](https://github.com/palfrey/serial_test/stargazers) [![Forks](https://img.shields.io/github/forks/palfrey/serial_test?style=flat-square&color=blue)](https://github.com/palfrey/serial_test/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/palfrey/serial_test?style=flat-square&color=yellow)](https://github.com/palfrey/serial_test/stargazers) [![Forks](https://img.shields.io/github/forks/palfrey/serial_test?style=flat-square&color=blue)](https://github.com/palfrey/serial_test/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Allows for the creation of serialised Rust tests
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ palfrey/serial_test 的生产可用性为中等（Medium）。它适用于原型
 | forks | 36/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

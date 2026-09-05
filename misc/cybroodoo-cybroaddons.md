@@ -1,6 +1,6 @@
 # CybroOdoo/CybroAddons
 
-[![Stars](https://img.shields.io/github/stars/CybroOdoo/CybroAddons?style=flat-square&color=yellow)](https://github.com/CybroOdoo/CybroAddons/stargazers) [![Forks](https://img.shields.io/github/forks/CybroOdoo/CybroAddons?style=flat-square&color=blue)](https://github.com/CybroOdoo/CybroAddons/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CybroOdoo/CybroAddons?style=flat-square&color=yellow)](https://github.com/CybroOdoo/CybroAddons/stargazers) [![Forks](https://img.shields.io/github/forks/CybroOdoo/CybroAddons?style=flat-square&color=blue)](https://github.com/CybroOdoo/CybroAddons/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 744 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ CybroOdoo/CybroAddons 的生产可用性为中等。它适合用于 prototyping 
 | forks | 72/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

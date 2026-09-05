@@ -1,6 +1,6 @@
 # php/php-src
 
-[![Stars](https://img.shields.io/github/stars/php/php-src?style=flat-square&color=yellow)](https://github.com/php/php-src/stargazers) [![Forks](https://img.shields.io/github/forks/php/php-src?style=flat-square&color=blue)](https://github.com/php/php-src/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/php/php-src?style=flat-square&color=yellow)](https://github.com/php/php-src/stargazers) [![Forks](https://img.shields.io/github/forks/php/php-src?style=flat-square&color=blue)](https://github.com/php/php-src/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The PHP Interpreter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40.2k |
 | 🍴 **Forks** | 8.1k |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ php/php-src 是 PHP 语言的官方解释器源码仓库，核心用 C 语言实
 | forks | 98/100 |
 | stars | 98/100 |
 | topics | 0/100 |
-| outlook | 57/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

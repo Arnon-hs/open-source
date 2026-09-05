@@ -1,6 +1,6 @@
 # SteamClientHomebrew/Millennium
 
-[![Stars](https://img.shields.io/github/stars/SteamClientHomebrew/Millennium?style=flat-square&color=yellow)](https://github.com/SteamClientHomebrew/Millennium/stargazers) [![Forks](https://img.shields.io/github/forks/SteamClientHomebrew/Millennium?style=flat-square&color=blue)](https://github.com/SteamClientHomebrew/Millennium/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteamClientHomebrew/Millennium?style=flat-square&color=yellow)](https://github.com/SteamClientHomebrew/Millennium/stargazers) [![Forks](https://img.shields.io/github/forks/SteamClientHomebrew/Millennium?style=flat-square&color=blue)](https://github.com/SteamClientHomebrew/Millennium/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ SteamClientHomebrew/Millennium 是一套开源的低代码 modding 框架，专�
 | forks | 53/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 83/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 57/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # aquasecurity/trivy-db
 
-[![Stars](https://img.shields.io/github/stars/aquasecurity/trivy-db?style=flat-square&color=yellow)](https://github.com/aquasecurity/trivy-db/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/trivy-db?style=flat-square&color=blue)](https://github.com/aquasecurity/trivy-db/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquasecurity/trivy-db?style=flat-square&color=yellow)](https://github.com/aquasecurity/trivy-db/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/trivy-db?style=flat-square&color=blue)](https://github.com/aquasecurity/trivy-db/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ aquasecurity/trivy-db 是 Trivy 漏洞扫描器使用的离线漏洞与漏洞数
 | forks | 57/100 |
 | stars | 54/100 |
 | topics | 13/100 |
-| outlook | 40/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

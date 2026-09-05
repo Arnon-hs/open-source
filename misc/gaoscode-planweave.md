@@ -1,6 +1,6 @@
 # GaosCode/PlanWeave
 
-[![Stars](https://img.shields.io/github/stars/GaosCode/PlanWeave?style=flat-square&color=yellow)](https://github.com/GaosCode/PlanWeave/stargazers) [![Forks](https://img.shields.io/github/forks/GaosCode/PlanWeave?style=flat-square&color=blue)](https://github.com/GaosCode/PlanWeave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GaosCode/PlanWeave?style=flat-square&color=yellow)](https://github.com/GaosCode/PlanWeave/stargazers) [![Forks](https://img.shields.io/github/forks/GaosCode/PlanWeave?style=flat-square&color=blue)](https://github.com/GaosCode/PlanWeave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > PlanWeave is a file-backed loop engineering system for long-running coding agents. It turns fuzzy plans into claimable tasks, routes them through implementation and review agents, records every run, and keeps the loop recoverable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ PlanWeave 的生产可用性为中等。它适用于以下场景：
 | forks | 30/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

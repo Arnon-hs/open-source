@@ -1,6 +1,6 @@
 # aizuda/snail-ai
 
-[![Stars](https://img.shields.io/github/stars/aizuda/snail-ai?style=flat-square&color=yellow)](https://github.com/aizuda/snail-ai/stargazers) [![Forks](https://img.shields.io/github/forks/aizuda/snail-ai?style=flat-square&color=blue)](https://github.com/aizuda/snail-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aizuda/snail-ai?style=flat-square&color=yellow)](https://github.com/aizuda/snail-ai/stargazers) [![Forks](https://img.shields.io/github/forks/aizuda/snail-ai?style=flat-square&color=blue)](https://github.com/aizuda/snail-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Snail AI 企业级 AI Agent 平台 - 让 AI 更智能，让开发更高效
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Snail AI 的生产可用性为中等水平。它可以用来开发内部工作�
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 43/100 |
-| recency | 60/100 |
+| outlook | 57/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 51/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

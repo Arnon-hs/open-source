@@ -1,6 +1,6 @@
 # Azure/azure-iot-cli-extension
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-iot-cli-extension?style=flat-square&color=yellow)](https://github.com/Azure/azure-iot-cli-extension/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-iot-cli-extension?style=flat-square&color=blue)](https://github.com/Azure/azure-iot-cli-extension/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-iot-cli-extension?style=flat-square&color=yellow)](https://github.com/Azure/azure-iot-cli-extension/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-iot-cli-extension?style=flat-square&color=blue)](https://github.com/Azure/azure-iot-cli-extension/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Azure IoT extension for Azure CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools
+Automation · Cloud & Storage · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Azure/azure-iot-cli-extension 是 Azure CLI 的官方 IoT 扩展，提供一套�
 | forks | 47/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

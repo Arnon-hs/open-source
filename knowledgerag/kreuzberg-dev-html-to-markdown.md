@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ kreuzberg-dev/html-to-markdown：kreuzberg-dev/html-to-markdown helps make inter
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend · Database
+Orchestration · Knowledge/RAG · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # AcademySoftwareFoundation/openexr
 
-[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/openexr?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/openexr/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/openexr?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/openexr/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/openexr?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/openexr/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/openexr?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/openexr/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 679 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ OpenEXR 是由 Academy Software Foundation 维护的开源实现，提供了电�
 | forks | 71/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

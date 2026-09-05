@@ -1,6 +1,6 @@
 # falcondev-oss/github-actions-cache-server
 
-[![Stars](https://img.shields.io/github/stars/falcondev-oss/github-actions-cache-server?style=flat-square&color=yellow)](https://github.com/falcondev-oss/github-actions-cache-server/stargazers) [![Forks](https://img.shields.io/github/forks/falcondev-oss/github-actions-cache-server?style=flat-square&color=blue)](https://github.com/falcondev-oss/github-actions-cache-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/falcondev-oss/github-actions-cache-server?style=flat-square&color=yellow)](https://github.com/falcondev-oss/github-actions-cache-server/stargazers) [![Forks](https://img.shields.io/github/forks/falcondev-oss/github-actions-cache-server?style=flat-square&color=blue)](https://github.com/falcondev-oss/github-actions-cache-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' action
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ The project has a high production readiness score, thanks to recent activity, ad
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

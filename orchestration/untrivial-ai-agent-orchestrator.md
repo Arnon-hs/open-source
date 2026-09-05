@@ -1,6 +1,6 @@
 # Untrivial-ai/agent-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/Untrivial-ai/agent-orchestrator?style=flat-square&color=yellow)](https://github.com/Untrivial-ai/agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Untrivial-ai/agent-orchestrator?style=flat-square&color=blue)](https://github.com/Untrivial-ai/agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Untrivial-ai/agent-orchestrator?style=flat-square&color=yellow)](https://github.com/Untrivial-ai/agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Untrivial-ai/agent-orchestrator?style=flat-square&color=blue)](https://github.com/Untrivial-ai/agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Untrivial-ai/agent-orchestrator 帮助将孤立的提示和工具转化为可重
 | forks | 77/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 82/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 70/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

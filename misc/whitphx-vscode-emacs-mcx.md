@@ -1,6 +1,6 @@
 # whitphx/vscode-emacs-mcx
 
-[![Stars](https://img.shields.io/github/stars/whitphx/vscode-emacs-mcx?style=flat-square&color=yellow)](https://github.com/whitphx/vscode-emacs-mcx/stargazers) [![Forks](https://img.shields.io/github/forks/whitphx/vscode-emacs-mcx?style=flat-square&color=blue)](https://github.com/whitphx/vscode-emacs-mcx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/whitphx/vscode-emacs-mcx?style=flat-square&color=yellow)](https://github.com/whitphx/vscode-emacs-mcx/stargazers) [![Forks](https://img.shields.io/github/forks/whitphx/vscode-emacs-mcx?style=flat-square&color=blue)](https://github.com/whitphx/vscode-emacs-mcx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Emacs Keymap - VSCode emacs keybinding with multi cursor support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 530 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ The production readiness of whitphx/vscode-emacs-mcx is moderate,
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

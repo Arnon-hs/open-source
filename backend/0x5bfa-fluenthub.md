@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend · DevTools · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ FluentHub — это современный клиент GitHub для Windows
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

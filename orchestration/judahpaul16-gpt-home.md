@@ -1,6 +1,6 @@
 # judahpaul16/gpt-home
 
-[![Stars](https://img.shields.io/github/stars/judahpaul16/gpt-home?style=flat-square&color=yellow)](https://github.com/judahpaul16/gpt-home/stargazers) [![Forks](https://img.shields.io/github/forks/judahpaul16/gpt-home?style=flat-square&color=blue)](https://github.com/judahpaul16/gpt-home/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/judahpaul16/gpt-home?style=flat-square&color=yellow)](https://github.com/judahpaul16/gpt-home/stargazers) [![Forks](https://img.shields.io/github/forks/judahpaul16/gpt-home?style=flat-square&color=blue)](https://github.com/judahpaul16/gpt-home/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT at home! A better alternative to commercial smart home assistants, built on the Raspberry Pi using LiteLLM and LangGraph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 644 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevOps/Infra
+Orchestration · Automation · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -98,11 +98,11 @@ judahpaul16/gpt-home 在生产环境中有很高的可用性。它的 GitHub 星
 | forks | 46/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 63/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # MicrosoftDocs/memdocs
 
-[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/memdocs?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/memdocs/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/memdocs?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/memdocs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/memdocs?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/memdocs/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/memdocs?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/memdocs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Enable Public Contributions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ MicrosoftDocs / memdocs 是微软官方文档团队维护的前端组件库�
 | forks | 76/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 45/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

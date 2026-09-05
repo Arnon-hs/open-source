@@ -1,6 +1,6 @@
 # pineforge-4pass/pineforge-engine
 
-[![Stars](https://img.shields.io/github/stars/pineforge-4pass/pineforge-engine?style=flat-square&color=yellow)](https://github.com/pineforge-4pass/pineforge-engine/stargazers) [![Forks](https://img.shields.io/github/forks/pineforge-4pass/pineforge-engine?style=flat-square&color=blue)](https://github.com/pineforge-4pass/pineforge-engine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pineforge-4pass/pineforge-engine?style=flat-square&color=yellow)](https://github.com/pineforge-4pass/pineforge-engine/stargazers) [![Forks](https://img.shields.io/github/forks/pineforge-4pass/pineforge-engine?style=flat-square&color=blue)](https://github.com/pineforge-4pass/pineforge-engine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Deterministic PineScript v6 backtest runtime. Validated trade-for-trade against TradingView.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Backend
+Crypto · Trading · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ pineforge-4pass/pineforge-engine 的价值在于它可以帮助开发者：
 | forks | 39/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

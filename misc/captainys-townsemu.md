@@ -1,6 +1,6 @@
 # captainys/TOWNSEMU
 
-[![Stars](https://img.shields.io/github/stars/captainys/TOWNSEMU?style=flat-square&color=yellow)](https://github.com/captainys/TOWNSEMU/stargazers) [![Forks](https://img.shields.io/github/forks/captainys/TOWNSEMU?style=flat-square&color=blue)](https://github.com/captainys/TOWNSEMU/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/captainys/TOWNSEMU?style=flat-square&color=yellow)](https://github.com/captainys/TOWNSEMU/stargazers) [![Forks](https://img.shields.io/github/forks/captainys/TOWNSEMU?style=flat-square&color=blue)](https://github.com/captainys/TOWNSEMU/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > FM Towns Emulator "Tsugaru"
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ captainys/TOWNSEMU 是一个开源项目，提供了 FM Towns Emulator "Tsugaru"
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

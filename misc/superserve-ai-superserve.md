@@ -1,6 +1,6 @@
 # superserve-ai/superserve
 
-[![Stars](https://img.shields.io/github/stars/superserve-ai/superserve?style=flat-square&color=yellow)](https://github.com/superserve-ai/superserve/stargazers) [![Forks](https://img.shields.io/github/forks/superserve-ai/superserve?style=flat-square&color=blue)](https://github.com/superserve-ai/superserve/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superserve-ai/superserve?style=flat-square&color=yellow)](https://github.com/superserve-ai/superserve/stargazers) [![Forks](https://img.shields.io/github/forks/superserve-ai/superserve?style=flat-square&color=blue)](https://github.com/superserve-ai/superserve/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Sandbox infrastructure for AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Superserve（superserve‑ai/superserve）是一套基于 TypeScript 的沙箱�
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

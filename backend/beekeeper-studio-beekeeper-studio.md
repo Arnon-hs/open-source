@@ -1,6 +1,6 @@
 # beekeeper-studio/beekeeper-studio
 
-[![Stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=flat-square&color=yellow)](https://github.com/beekeeper-studio/beekeeper-studio/stargazers) [![Forks](https://img.shields.io/github/forks/beekeeper-studio/beekeeper-studio?style=flat-square&color=blue)](https://github.com/beekeeper-studio/beekeeper-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=flat-square&color=yellow)](https://github.com/beekeeper-studio/beekeeper-studio/stargazers) [![Forks](https://img.shields.io/github/forks/beekeeper-studio/beekeeper-studio?style=flat-square&color=blue)](https://github.com/beekeeper-studio/beekeeper-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.8k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Beekeeper Studio 是一款跨平台的可视化 SQL 客户端，支持 MySQL�
 | forks | 80/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

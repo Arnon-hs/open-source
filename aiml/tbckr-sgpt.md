@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ SGPT is a lightweight command‑line utility that lets developers interact with 
 
 ### 中文
 
-tbckr/sgpt：tbckr/sgpt helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tbckr/sgpt：tbckr/sgpt helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** tbckr/sgpt helps add AI capability without starting from a blank model stack.
+**Value:** tbckr/sgpt helps teams reuse service infrastructure instead of rebuilding common backend pieces.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ tbckr/sgpt：tbckr/sgpt helps add AI capability without starting from a blank mo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 51/100 |
-| stars | 56/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

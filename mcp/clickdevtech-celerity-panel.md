@@ -1,6 +1,6 @@
 # ClickDevTech/CELERITY-panel
 
-[![Stars](https://img.shields.io/github/stars/ClickDevTech/CELERITY-panel?style=flat-square&color=yellow)](https://github.com/ClickDevTech/CELERITY-panel/stargazers) [![Forks](https://img.shields.io/github/forks/ClickDevTech/CELERITY-panel?style=flat-square&color=blue)](https://github.com/ClickDevTech/CELERITY-panel/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClickDevTech/CELERITY-panel?style=flat-square&color=yellow)](https://github.com/ClickDevTech/CELERITY-panel/stargazers) [![Forks](https://img.shields.io/github/forks/ClickDevTech/CELERITY-panel?style=flat-square&color=blue)](https://github.com/ClickDevTech/CELERITY-panel/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted web panel for Hysteria 2 & Xray VLESS proxy servers. Features cascade network topology (Forward/Reverse Chain), SSH auto-setup, server groups, load balancing, ACL traffic filtering, API with scopes, webhooks, S3 backups, MCP integration, and subscriptions for Clash/Sing-box/Hiddify.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database · DevOps/Infra
+MCP · AI/ML · Cloud & Storage · Networking · Backend
 
 ## 📝 Summary
 
@@ -107,11 +107,11 @@ ClickDevTech/CELERITY‑panel 是一款自托管的 Web 控制面板，专为 Hy
 | forks | 37/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

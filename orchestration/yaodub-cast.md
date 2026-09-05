@@ -1,6 +1,6 @@
 # yaodub/cast
 
-[![Stars](https://img.shields.io/github/stars/yaodub/cast?style=flat-square&color=yellow)](https://github.com/yaodub/cast/stargazers) [![Forks](https://img.shields.io/github/forks/yaodub/cast?style=flat-square&color=blue)](https://github.com/yaodub/cast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaodub/cast?style=flat-square&color=yellow)](https://github.com/yaodub/cast/stargazers) [![Forks](https://img.shields.io/github/forks/yaodub/cast?style=flat-square&color=blue)](https://github.com/yaodub/cast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Your agent team, on your machine. Open-source harness for multi-user Claude agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ yaodub/cast 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

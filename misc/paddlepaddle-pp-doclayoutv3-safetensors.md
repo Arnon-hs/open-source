@@ -1,6 +1,6 @@
 # PaddlePaddle/PP-DocLayoutV3_safetensors
 
-[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PP-DocLayoutV3_safetensors?style=flat-square&color=yellow)](https://huggingface.co/PaddlePaddle/PP-DocLayoutV3_safetensors/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/PP-DocLayoutV3_safetensors?style=flat-square&color=blue)](https://huggingface.co/PaddlePaddle/PP-DocLayoutV3_safetensors/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PP-DocLayoutV3_safetensors?style=flat-square&color=yellow)](https://huggingface.co/PaddlePaddle/PP-DocLayoutV3_safetensors/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/PP-DocLayoutV3_safetensors?style=flat-square&color=blue)](https://huggingface.co/PaddlePaddle/PP-DocLayoutV3_safetensors/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Object detection (object-detection) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ PaddlePaddle/PP-DocLayoutV3_safetensors 的生产可用性目前为早期或不�
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 39/100 |
-| quality | 37/100 |
-| recency | 40/100 |
+| outlook | 53/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 41/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

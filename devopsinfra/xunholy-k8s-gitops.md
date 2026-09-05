@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ xunholy/k8s-gitops：xunholy/k8s-gitops helps make deployment and operations mor
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

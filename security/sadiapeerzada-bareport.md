@@ -1,6 +1,6 @@
 # sadiapeerzada/Bareport
 
-[![Stars](https://img.shields.io/github/stars/sadiapeerzada/Bareport?style=flat-square&color=yellow)](https://github.com/sadiapeerzada/Bareport/stargazers) [![Forks](https://img.shields.io/github/forks/sadiapeerzada/Bareport?style=flat-square&color=blue)](https://github.com/sadiapeerzada/Bareport/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sadiapeerzada/Bareport?style=flat-square&color=yellow)](https://github.com/sadiapeerzada/Bareport/stargazers) [![Forks](https://img.shields.io/github/forks/sadiapeerzada/Bareport?style=flat-square&color=blue)](https://github.com/sadiapeerzada/Bareport/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A zero-dependency network security assessment tool, built entirely on the Go standard library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-30 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ sadiapeerzada/Bareport：sadiapeerzada/Bareport helps catch security and privacy
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # TryCaspian/caspian-sdk
 
-[![Stars](https://img.shields.io/github/stars/TryCaspian/caspian-sdk?style=flat-square&color=yellow)](https://github.com/TryCaspian/caspian-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/TryCaspian/caspian-sdk?style=flat-square&color=blue)](https://github.com/TryCaspian/caspian-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TryCaspian/caspian-sdk?style=flat-square&color=yellow)](https://github.com/TryCaspian/caspian-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/TryCaspian/caspian-sdk?style=flat-square&color=blue)](https://github.com/TryCaspian/caspian-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -93,15 +93,15 @@ TryCaspian/caspian-sdk 的价值在于，它帮助开发者快速添加 AI 能�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

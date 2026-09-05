@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Database · DevOps/Infra
+Automation · AI/ML · Backend · DevTools · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ xpf0000/FlyEnv：xpf0000/FlyEnv helps remove repetitive manual operations from a
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

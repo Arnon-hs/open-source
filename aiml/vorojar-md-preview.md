@@ -1,6 +1,6 @@
 # vorojar/md-preview
 
-[![Stars](https://img.shields.io/github/stars/vorojar/md-preview?style=flat-square&color=yellow)](https://github.com/vorojar/md-preview/stargazers) [![Forks](https://img.shields.io/github/forks/vorojar/md-preview?style=flat-square&color=blue)](https://github.com/vorojar/md-preview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vorojar/md-preview?style=flat-square&color=yellow)](https://github.com/vorojar/md-preview/stargazers) [![Forks](https://img.shields.io/github/forks/vorojar/md-preview?style=flat-square&color=blue)](https://github.com/vorojar/md-preview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Native Markdown previewer for AI-generated docs. Fast desktop and Android builds with Open File, recent files, search, offline Mermaid/KaTeX, and no Electron.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Mobile
+AI/ML · Documents · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ vorojar/md-preview 能在 **几分钟内为 AI 生成的 Markdown 文档提供�
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

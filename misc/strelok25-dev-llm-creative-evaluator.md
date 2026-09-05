@@ -1,6 +1,6 @@
 # strelok25-dev/llm-creative-evaluator
 
-[![Stars](https://img.shields.io/github/stars/strelok25-dev/llm-creative-evaluator?style=flat-square&color=yellow)](https://github.com/strelok25-dev/llm-creative-evaluator/stargazers) [![Forks](https://img.shields.io/github/forks/strelok25-dev/llm-creative-evaluator?style=flat-square&color=blue)](https://github.com/strelok25-dev/llm-creative-evaluator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strelok25-dev/llm-creative-evaluator?style=flat-square&color=yellow)](https://github.com/strelok25-dev/llm-creative-evaluator/stargazers) [![Forks](https://img.shields.io/github/forks/strelok25-dev/llm-creative-evaluator?style=flat-square&color=blue)](https://github.com/strelok25-dev/llm-creative-evaluator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Automated LLM pipeline for creative evaluation with Pydantic validation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -64,11 +64,11 @@ strelok25-dev/llm-creative-evaluator：strelok25-dev/llm-creative-evaluator may 
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 38/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 28/100 |
+| recency | 60/100 |
 | adoption | 5/100 |
-| production | 58/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

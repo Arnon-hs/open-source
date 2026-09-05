@@ -1,6 +1,6 @@
 # tombelieber/claude-view
 
-[![Stars](https://img.shields.io/github/stars/tombelieber/claude-view?style=flat-square&color=yellow)](https://github.com/tombelieber/claude-view/stargazers) [![Forks](https://img.shields.io/github/forks/tombelieber/claude-view?style=flat-square&color=blue)](https://github.com/tombelieber/claude-view/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tombelieber/claude-view?style=flat-square&color=yellow)](https://github.com/tombelieber/claude-view/stargazers) [![Forks](https://img.shields.io/github/forks/tombelieber/claude-view?style=flat-square&color=blue)](https://github.com/tombelieber/claude-view/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 10 Claude sessions running. What are they doing? Live dashboard — monitor, cost tracking, search, sub-agent visibility.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ tombelieber/claude-view 是一个开源项目，旨在连接人工智能助手�
 | forks | 25/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

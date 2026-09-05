@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 26/100 |
-| 🗓️ **Last push** | 2026-04-11 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -71,7 +71,7 @@ robertnowell/rabbitholes：robertnowell/rabbitholes may be useful when its READM
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

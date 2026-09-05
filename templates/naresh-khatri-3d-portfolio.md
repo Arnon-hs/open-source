@@ -1,6 +1,6 @@
 # Naresh-Khatri/3d-portfolio
 
-[![Stars](https://img.shields.io/github/stars/Naresh-Khatri/3d-portfolio?style=flat-square&color=yellow)](https://github.com/Naresh-Khatri/3d-portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/Naresh-Khatri/3d-portfolio?style=flat-square&color=blue)](https://github.com/Naresh-Khatri/3d-portfolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Naresh-Khatri/3d-portfolio?style=flat-square&color=yellow)](https://github.com/Naresh-Khatri/3d-portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/Naresh-Khatri/3d-portfolio?style=flat-square&color=blue)](https://github.com/Naresh-Khatri/3d-portfolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Naresh-Khatri/3d-portfolio 帮助开发者添加 AI 能力，无需从零开始�
 | forks | 60/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

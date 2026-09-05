@@ -1,6 +1,6 @@
 # MontFerret/ferret
 
-[![Stars](https://img.shields.io/github/stars/MontFerret/ferret?style=flat-square&color=yellow)](https://github.com/MontFerret/ferret/stargazers) [![Forks](https://img.shields.io/github/forks/MontFerret/ferret?style=flat-square&color=blue)](https://github.com/MontFerret/ferret/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MontFerret/ferret?style=flat-square&color=yellow)](https://github.com/MontFerret/ferret/stargazers) [![Forks](https://img.shields.io/github/forks/MontFerret/ferret?style=flat-square&color=blue)](https://github.com/MontFerret/ferret/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative web scraping
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 320 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ MontFerret/ferret 是一款基于声明式语法的 Web 抓取框架，使用 Go
 | forks | 63/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 85/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

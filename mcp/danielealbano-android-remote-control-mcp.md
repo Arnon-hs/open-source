@@ -1,6 +1,6 @@
 # danielealbano/android-remote-control-mcp
 
-[![Stars](https://img.shields.io/github/stars/danielealbano/android-remote-control-mcp?style=flat-square&color=yellow)](https://github.com/danielealbano/android-remote-control-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/danielealbano/android-remote-control-mcp?style=flat-square&color=blue)](https://github.com/danielealbano/android-remote-control-mcp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielealbano/android-remote-control-mcp?style=flat-square&color=yellow)](https://github.com/danielealbano/android-remote-control-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/danielealbano/android-remote-control-mcp?style=flat-square&color=blue)](https://github.com/danielealbano/android-remote-control-mcp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP Server for Android running on the phone, optmized for token usage, supports also files downloads and cloudflare (free) and ngrok automated tunnelling.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ danielealbano/android-remote-control-mcp 是一款运行在 Android 设备上的
 | forks | 34/100 |
 | stars | 40/100 |
 | topics | 50/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

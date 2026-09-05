@@ -1,6 +1,6 @@
 # casosorg/casos
 
-[![Stars](https://img.shields.io/github/stars/casosorg/casos?style=flat-square&color=yellow)](https://github.com/casosorg/casos/stargazers) [![Forks](https://img.shields.io/github/forks/casosorg/casos?style=flat-square&color=blue)](https://github.com/casosorg/casos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/casosorg/casos?style=flat-square&color=yellow)](https://github.com/casosorg/casos/stargazers) [![Forks](https://img.shields.io/github/forks/casosorg/casos?style=flat-square&color=blue)](https://github.com/casosorg/casos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ CasOS 是一个基于 Kubernetes 的云操作系统，能够让开发者在不�
 | forks | 49/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

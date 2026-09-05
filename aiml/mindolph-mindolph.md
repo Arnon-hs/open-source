@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Documents · Productivity · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ mindolph/Mindolph：mindolph/Mindolph helps add AI capability without starting f
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

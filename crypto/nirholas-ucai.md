@@ -1,6 +1,6 @@
 # nirholas/UCAI
 
-[![Stars](https://img.shields.io/github/stars/nirholas/UCAI?style=flat-square&color=yellow)](https://github.com/nirholas/UCAI/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/UCAI?style=flat-square&color=blue)](https://github.com/nirholas/UCAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/UCAI?style=flat-square&color=yellow)](https://github.com/nirholas/UCAI/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/UCAI?style=flat-square&color=blue)](https://github.com/nirholas/UCAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Universal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for connecting AI agents to blockchain. MCP server generator for smart contracts. Claude + Uniswap, Aave, ERC20, NFTs, DeFi. Python CLI, Web3 integration, transaction simulation. Polygon, Arbitrum, Base, Ethereum EVM chains. Claude, GPT, LLM tooling, Solidity, OpenAI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ nirholas/UCAI 的生产可用性非常高，主要原因是：
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

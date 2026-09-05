@@ -1,6 +1,6 @@
 # Fingel/gelly
 
-[![Stars](https://img.shields.io/github/stars/Fingel/gelly?style=flat-square&color=yellow)](https://github.com/Fingel/gelly/stargazers) [![Forks](https://img.shields.io/github/forks/Fingel/gelly?style=flat-square&color=blue)](https://github.com/Fingel/gelly/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fingel/gelly?style=flat-square&color=yellow)](https://github.com/Fingel/gelly/stargazers) [![Forks](https://img.shields.io/github/forks/Fingel/gelly?style=flat-square&color=blue)](https://github.com/Fingel/gelly/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A native music client for Jellyfin and Navidrome/Subsonic
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Fingel/gelly 是一款用 Rust 编写的本地音乐客户端，能够同时连�
 | forks | 21/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

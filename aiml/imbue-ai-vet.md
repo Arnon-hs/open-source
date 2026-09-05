@@ -1,6 +1,6 @@
 # imbue-ai/vet
 
-[![Stars](https://img.shields.io/github/stars/imbue-ai/vet?style=flat-square&color=yellow)](https://github.com/imbue-ai/vet/stargazers) [![Forks](https://img.shields.io/github/forks/imbue-ai/vet?style=flat-square&color=blue)](https://github.com/imbue-ai/vet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imbue-ai/vet?style=flat-square&color=yellow)](https://github.com/imbue-ai/vet/stargazers) [![Forks](https://img.shields.io/github/forks/imbue-ai/vet?style=flat-square&color=blue)](https://github.com/imbue-ai/vet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Find issues worth your attention.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ imbue-ai/vet 是一个帮助快速发现值得关注的 AI 任务的工具库。
 | forks | 25/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 50/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Aura-Industry/AuraOS
 
-[![Stars](https://img.shields.io/github/stars/Aura-Industry/AuraOS?style=flat-square&color=yellow)](https://github.com/Aura-Industry/AuraOS/stargazers) [![Forks](https://img.shields.io/github/forks/Aura-Industry/AuraOS?style=flat-square&color=blue)](https://github.com/Aura-Industry/AuraOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aura-Industry/AuraOS?style=flat-square&color=yellow)](https://github.com/Aura-Industry/AuraOS/stargazers) [![Forks](https://img.shields.io/github/forks/Aura-Industry/AuraOS?style=flat-square&color=blue)](https://github.com/Aura-Industry/AuraOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source suite of software for working with your agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Aura-Industry/AuraOS 是一套开源软件套件，提供统一的 **Model Conte
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

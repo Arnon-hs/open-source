@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ SORMAS-Foundation/SORMAS-Project：SORMAS-Foundation/SORMAS-Project helps make p
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

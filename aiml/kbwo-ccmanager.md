@@ -1,6 +1,6 @@
 # kbwo/ccmanager
 
-[![Stars](https://img.shields.io/github/stars/kbwo/ccmanager?style=flat-square&color=yellow)](https://github.com/kbwo/ccmanager/stargazers) [![Forks](https://img.shields.io/github/forks/kbwo/ccmanager?style=flat-square&color=blue)](https://github.com/kbwo/ccmanager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kbwo/ccmanager?style=flat-square&color=yellow)](https://github.com/kbwo/ccmanager/stargazers) [![Forks](https://img.shields.io/github/forks/kbwo/ccmanager?style=flat-square&color=blue)](https://github.com/kbwo/ccmanager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ kbwo/ccmanager 是一款面向 Claude Code、Gemini CLI、Codex CLI、Cursor Age
 | forks | 49/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

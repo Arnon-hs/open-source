@@ -1,6 +1,6 @@
 # sv-number/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/sv-number/mcp-server?style=flat-square&color=yellow)](https://github.com/sv-number/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/sv-number/mcp-server?style=flat-square&color=blue)](https://github.com/sv-number/mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sv-number/mcp-server?style=flat-square&color=yellow)](https://github.com/sv-number/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/sv-number/mcp-server?style=flat-square&color=blue)](https://github.com/sv-number/mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 534 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ sv-number/mcp-server 是一个高生产可用性的开源项目，具有最近�
 | forks | 0/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

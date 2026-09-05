@@ -1,6 +1,6 @@
 # tackler-ng/tackler
 
-[![Stars](https://img.shields.io/github/stars/tackler-ng/tackler?style=flat-square&color=yellow)](https://github.com/tackler-ng/tackler/stargazers) [![Forks](https://img.shields.io/github/forks/tackler-ng/tackler?style=flat-square&color=blue)](https://github.com/tackler-ng/tackler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tackler-ng/tackler?style=flat-square&color=yellow)](https://github.com/tackler-ng/tackler/stargazers) [![Forks](https://img.shields.io/github/forks/tackler-ng/tackler?style=flat-square&color=blue)](https://github.com/tackler-ng/tackler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ tackler-ng/tackler 的
 | forks | 26/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 51/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

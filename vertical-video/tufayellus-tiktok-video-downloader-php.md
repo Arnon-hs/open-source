@@ -1,6 +1,6 @@
 # TufayelLUS/TikTok-Video-Downloader-PHP
 
-[![Stars](https://img.shields.io/github/stars/TufayelLUS/TikTok-Video-Downloader-PHP?style=flat-square&color=yellow)](https://github.com/TufayelLUS/TikTok-Video-Downloader-PHP/stargazers) [![Forks](https://img.shields.io/github/forks/TufayelLUS/TikTok-Video-Downloader-PHP?style=flat-square&color=blue)](https://github.com/TufayelLUS/TikTok-Video-Downloader-PHP/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TufayelLUS/TikTok-Video-Downloader-PHP?style=flat-square&color=yellow)](https://github.com/TufayelLUS/TikTok-Video-Downloader-PHP/stargazers) [![Forks](https://img.shields.io/github/forks/TufayelLUS/TikTok-Video-Downloader-PHP?style=flat-square&color=blue)](https://github.com/TufayelLUS/TikTok-Video-Downloader-PHP/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A simple but effective one page TikTok video downloader(watermark free) script developed by Tufayel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 340 |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ TufayelLUS/TikTok-Video-Downloader-PHP 是一个简单高效的 TikTok 视频下
 | forks | 55/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

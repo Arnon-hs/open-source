@@ -1,6 +1,6 @@
 # longyangxi/OpenOffice
 
-[![Stars](https://img.shields.io/github/stars/longyangxi/OpenOffice?style=flat-square&color=yellow)](https://github.com/longyangxi/OpenOffice/stargazers) [![Forks](https://img.shields.io/github/forks/longyangxi/OpenOffice?style=flat-square&color=blue)](https://github.com/longyangxi/OpenOffice/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/longyangxi/OpenOffice?style=flat-square&color=yellow)](https://github.com/longyangxi/OpenOffice/stargazers) [![Forks](https://img.shields.io/github/forks/longyangxi/OpenOffice?style=flat-square&color=blue)](https://github.com/longyangxi/OpenOffice/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A visible workspace for AI agents to collaborate as a single team.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ longyangxi/OpenOffice 的生产可用性很高，因为它有强烈的活跃度�
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

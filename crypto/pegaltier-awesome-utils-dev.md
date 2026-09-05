@@ -1,6 +1,6 @@
 # pegaltier/awesome-utils-dev
 
-[![Stars](https://img.shields.io/github/stars/pegaltier/awesome-utils-dev?style=flat-square&color=yellow)](https://github.com/pegaltier/awesome-utils-dev/stargazers) [![Forks](https://img.shields.io/github/forks/pegaltier/awesome-utils-dev?style=flat-square&color=blue)](https://github.com/pegaltier/awesome-utils-dev/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pegaltier/awesome-utils-dev?style=flat-square&color=yellow)](https://github.com/pegaltier/awesome-utils-dev/stargazers) [![Forks](https://img.shields.io/github/forks/pegaltier/awesome-utils-dev?style=flat-square&color=blue)](https://github.com/pegaltier/awesome-utils-dev/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Mobile · Marketing
+Crypto · Productivity · Frontend · Backend · Mobile
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ pegaltier/awesome-utils-dev 具有高生产可用性，主要原因是：
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

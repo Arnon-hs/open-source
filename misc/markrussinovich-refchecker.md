@@ -1,6 +1,6 @@
 # markrussinovich/refchecker
 
-[![Stars](https://img.shields.io/github/stars/markrussinovich/refchecker?style=flat-square&color=yellow)](https://github.com/markrussinovich/refchecker/stargazers) [![Forks](https://img.shields.io/github/forks/markrussinovich/refchecker?style=flat-square&color=blue)](https://github.com/markrussinovich/refchecker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/markrussinovich/refchecker?style=flat-square&color=yellow)](https://github.com/markrussinovich/refchecker/stargazers) [![Forks](https://img.shields.io/github/forks/markrussinovich/refchecker?style=flat-square&color=blue)](https://github.com/markrussinovich/refchecker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A tool that validates academic paper references
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ markrussinovich/refchecker 的生产可用性为中等（Medium）。它适合�
 | forks | 43/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # maton-ai/api-gateway-skill
 
-[![Stars](https://img.shields.io/github/stars/maton-ai/api-gateway-skill?style=flat-square&color=yellow)](https://github.com/maton-ai/api-gateway-skill/stargazers) [![Forks](https://img.shields.io/github/forks/maton-ai/api-gateway-skill?style=flat-square&color=blue)](https://github.com/maton-ai/api-gateway-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maton-ai/api-gateway-skill?style=flat-square&color=yellow)](https://github.com/maton-ai/api-gateway-skill/stargazers) [![Forks](https://img.shields.io/github/forks/maton-ai/api-gateway-skill?style=flat-square&color=blue)](https://github.com/maton-ai/api-gateway-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > API gateway with managed auth. Connect your AI to Slack, HubSpot, Salesforce, Google Workspace, Shopify, and more with a single API key.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Communication · Backend · Security
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ maton-ai/api-gateway-skill 在生产环境中有中等的可用性，适合用�
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

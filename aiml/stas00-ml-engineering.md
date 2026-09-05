@@ -1,6 +1,6 @@
 # stas00/ml-engineering
 
-[![Stars](https://img.shields.io/github/stars/stas00/ml-engineering?style=flat-square&color=yellow)](https://github.com/stas00/ml-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/stas00/ml-engineering?style=flat-square&color=blue)](https://github.com/stas00/ml-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stas00/ml-engineering?style=flat-square&color=yellow)](https://github.com/stas00/ml-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/stas00/ml-engineering?style=flat-square&color=blue)](https://github.com/stas00/ml-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Machine Learning Engineering Open Book
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ stas00/ml-engineering 是一个面向机器学习工程的「Open Book」资源�
 | forks | 77/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # holasoymalva/my-little-office
 
-[![Stars](https://img.shields.io/github/stars/holasoymalva/my-little-office?style=flat-square&color=yellow)](https://github.com/holasoymalva/my-little-office/stargazers) [![Forks](https://img.shields.io/github/forks/holasoymalva/my-little-office?style=flat-square&color=blue)](https://github.com/holasoymalva/my-little-office/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holasoymalva/my-little-office?style=flat-square&color=yellow)](https://github.com/holasoymalva/my-little-office/stargazers) [![Forks](https://img.shields.io/github/forks/holasoymalva/my-little-office?style=flat-square&color=blue)](https://github.com/holasoymalva/my-little-office/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ holasoymalva/my-little-office：。适合用于Misc。
 | forks | 0/100 |
 | stars | 19/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 37/100 |
-| recency | 80/100 |
+| outlook | 54/100 |
+| quality | 42/100 |
+| recency | 100/100 |
 | adoption | 14/100 |
-| production | 51/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 70/100 |

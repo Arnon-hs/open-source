@@ -1,6 +1,6 @@
 # SamurAIGPT/AI-Youtube-Shorts-Generator
 
-[![Stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&color=blue)](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&color=blue)](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 760 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ SamurAIGPT/AI-Youtube-Shorts-Generator 是一个开源项目，旨在替代 Opus
 | forks | 72/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

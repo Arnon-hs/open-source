@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ buildkite/elastic-ci-stack-for-aws：buildkite/elastic-ci-stack-for-aws helps tu
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

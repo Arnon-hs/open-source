@@ -1,6 +1,6 @@
 # cedya77/aiometadata
 
-[![Stars](https://img.shields.io/github/stars/cedya77/aiometadata?style=flat-square&color=yellow)](https://github.com/cedya77/aiometadata/stargazers) [![Forks](https://img.shields.io/github/forks/cedya77/aiometadata?style=flat-square&color=blue)](https://github.com/cedya77/aiometadata/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cedya77/aiometadata?style=flat-square&color=yellow)](https://github.com/cedya77/aiometadata/stargazers) [![Forks](https://img.shields.io/github/forks/cedya77/aiometadata?style=flat-square&color=blue)](https://github.com/cedya77/aiometadata/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > my space for aiometadata
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 401 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ To adopt cedya77/aiometadata, developers should follow a careful evaluation proc
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

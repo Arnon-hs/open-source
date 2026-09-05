@@ -1,6 +1,6 @@
 # rust-diplomat/diplomat
 
-[![Stars](https://img.shields.io/github/stars/rust-diplomat/diplomat?style=flat-square&color=yellow)](https://github.com/rust-diplomat/diplomat/stargazers) [![Forks](https://img.shields.io/github/forks/rust-diplomat/diplomat?style=flat-square&color=blue)](https://github.com/rust-diplomat/diplomat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-diplomat/diplomat?style=flat-square&color=yellow)](https://github.com/rust-diplomat/diplomat/stargazers) [![Forks](https://img.shields.io/github/forks/rust-diplomat/diplomat?style=flat-square&color=blue)](https://github.com/rust-diplomat/diplomat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Rust tool for generating FFI definitions allowing many other languages to call Rust code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 861 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ In short, `diplomat` can accelerate Web3 and blockchain prototyping by exposing 
 | forks | 47/100 |
 | stars | 62/100 |
 | topics | 13/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

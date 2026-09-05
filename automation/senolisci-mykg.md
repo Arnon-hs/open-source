@@ -1,6 +1,6 @@
 # SenolIsci/mykg
 
-[![Stars](https://img.shields.io/github/stars/SenolIsci/mykg?style=flat-square&color=yellow)](https://github.com/SenolIsci/mykg/stargazers) [![Forks](https://img.shields.io/github/forks/SenolIsci/mykg?style=flat-square&color=blue)](https://github.com/SenolIsci/mykg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SenolIsci/mykg?style=flat-square&color=yellow)](https://github.com/SenolIsci/mykg/stargazers) [![Forks](https://img.shields.io/github/forks/SenolIsci/mykg?style=flat-square&color=blue)](https://github.com/SenolIsci/mykg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Knowledge graph extractor: Markdown (or any format) → knowledge graph with RDFS/OWL ontology
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ SenolIsci / mykg 是一个开源的知识图谱抽取工具，可将 Markdow
 | forks | 26/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

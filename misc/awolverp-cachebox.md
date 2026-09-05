@@ -1,6 +1,6 @@
 # awolverp/cachebox
 
-[![Stars](https://img.shields.io/github/stars/awolverp/cachebox?style=flat-square&color=yellow)](https://github.com/awolverp/cachebox/stargazers) [![Forks](https://img.shields.io/github/forks/awolverp/cachebox?style=flat-square&color=blue)](https://github.com/awolverp/cachebox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awolverp/cachebox?style=flat-square&color=yellow)](https://github.com/awolverp/cachebox/stargazers) [![Forks](https://img.shields.io/github/forks/awolverp/cachebox?style=flat-square&color=blue)](https://github.com/awolverp/cachebox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest memoizing and caching Python library written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ awolverp/cachebox 的生产可用性很高，主要原因是：
 | forks | 28/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

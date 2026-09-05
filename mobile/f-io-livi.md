@@ -1,6 +1,6 @@
 # f-io/LIVI
 
-[![Stars](https://img.shields.io/github/stars/f-io/LIVI?style=flat-square&color=yellow)](https://github.com/f-io/LIVI/stargazers) [![Forks](https://img.shields.io/github/forks/f-io/LIVI?style=flat-square&color=blue)](https://github.com/f-io/LIVI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f-io/LIVI?style=flat-square&color=yellow)](https://github.com/f-io/LIVI/stargazers) [![Forks](https://img.shields.io/github/forks/f-io/LIVI?style=flat-square&color=blue)](https://github.com/f-io/LIVI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > CarPlay & Android Auto head unit for Linux (ARM/x64), macOS (ARM/x64) and Windows (x64). Full AA protocol implementation (wired + wireless). Hardware-accelerated video (zero-copy) and low-latency audio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 393 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ f‑io/LIVI 是一套在 Linux（ARM/x64）、macOS（ARM/x64）和 Windows（x6
 | forks | 41/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

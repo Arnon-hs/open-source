@@ -1,6 +1,6 @@
 # norika1207-lab/Code-Duo
 
-[![Stars](https://img.shields.io/github/stars/norika1207-lab/Code-Duo?style=flat-square&color=yellow)](https://github.com/norika1207-lab/Code-Duo/stargazers) [![Forks](https://img.shields.io/github/forks/norika1207-lab/Code-Duo?style=flat-square&color=blue)](https://github.com/norika1207-lab/Code-Duo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/norika1207-lab/Code-Duo?style=flat-square&color=yellow)](https://github.com/norika1207-lab/Code-Duo/stargazers) [![Forks](https://img.shields.io/github/forks/norika1207-lab/Code-Duo?style=flat-square&color=blue)](https://github.com/norika1207-lab/Code-Duo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Two AI coding agents — Claude & Codex — in one window. Stream every step, cross-review, watch the cost, and catch the AI that claims it did the work but didn't. Subscription-driven, no API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Code-Duo 的生产可用性为中等，适合用于原型或内部工作流程�
 | forks | 23/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

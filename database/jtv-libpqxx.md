@@ -1,6 +1,6 @@
 # jtv/libpqxx
 
-[![Stars](https://img.shields.io/github/stars/jtv/libpqxx?style=flat-square&color=yellow)](https://github.com/jtv/libpqxx/stargazers) [![Forks](https://img.shields.io/github/forks/jtv/libpqxx?style=flat-square&color=blue)](https://github.com/jtv/libpqxx/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtv/libpqxx?style=flat-square&color=yellow)](https://github.com/jtv/libpqxx/stargazers) [![Forks](https://img.shields.io/github/forks/jtv/libpqxx?style=flat-square&color=blue)](https://github.com/jtv/libpqxx/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The official C++ client API for PostgreSQL.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ jtv/libpqxx 的生产可用性较高，理由如下：
 | forks | 62/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

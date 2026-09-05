@@ -1,6 +1,6 @@
 # paoloronco/n8n-templates
 
-[![Stars](https://img.shields.io/github/stars/paoloronco/n8n-templates?style=flat-square&color=yellow)](https://github.com/paoloronco/n8n-templates/stargazers) [![Forks](https://img.shields.io/github/forks/paoloronco/n8n-templates?style=flat-square&color=blue)](https://github.com/paoloronco/n8n-templates/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paoloronco/n8n-templates?style=flat-square&color=yellow)](https://github.com/paoloronco/n8n-templates/stargazers) [![Forks](https://img.shields.io/github/forks/paoloronco/n8n-templates?style=flat-square&color=blue)](https://github.com/paoloronco/n8n-templates/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of ready-to-use n8n templates for automations, data fetching, notifications, and integrations. Includes free workflows, detailed guides, and modular components for building powerful automations quickly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ paoloronco/n8n-templates：paoloronco/n8n-templates helps teams reuse working wo
 | forks | 0/100 |
 | stars | 18/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 13/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

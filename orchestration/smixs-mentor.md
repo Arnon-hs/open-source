@@ -1,6 +1,6 @@
 # smixs/mentor
 
-[![Stars](https://img.shields.io/github/stars/smixs/mentor?style=flat-square&color=yellow)](https://github.com/smixs/mentor/stargazers) [![Forks](https://img.shields.io/github/forks/smixs/mentor?style=flat-square&color=blue)](https://github.com/smixs/mentor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smixs/mentor?style=flat-square&color=yellow)](https://github.com/smixs/mentor/stargazers) [![Forks](https://img.shields.io/github/forks/smixs/mentor?style=flat-square&color=blue)](https://github.com/smixs/mentor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -91,15 +91,15 @@ smixs/mentor 是一个会话见解技能，适用于 AI 编码代理。它可以
 | forks | 0/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,31 +21,29 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
 ### English
 
-MaaAssistantArknights/MaaAssistantArknights: MaaAssistantArknights/MaaAssistantArknights helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MaaAssistantArknights/MaaAssistantArknights: MaaAssistantArknights/MaaAssistantArknights may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-MaaAssistantArknights/MaaAssistantArknights: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MaaAssistantArknights/MaaAssistantArknights: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-MaaAssistantArknights/MaaAssistantArknights：MaaAssistantArknights/MaaAssistantArknights helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MaaAssistantArknights/MaaAssistantArknights：MaaAssistantArknights/MaaAssistantArknights may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** MaaAssistantArknights/MaaAssistantArknights helps add AI capability without starting from a blank model stack.
+**Value:** MaaAssistantArknights/MaaAssistantArknights may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ MaaAssistantArknights/MaaAssistantArknights：MaaAssistantArknights/MaaAssistant
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 90/100 |
-| stars | 92/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 38/100 |
+| outlook | 58/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

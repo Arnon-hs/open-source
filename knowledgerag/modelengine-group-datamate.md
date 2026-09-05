@@ -1,6 +1,6 @@
 # ModelEngine-Group/DataMate
 
-[![Stars](https://img.shields.io/github/stars/ModelEngine-Group/DataMate?style=flat-square&color=yellow)](https://github.com/ModelEngine-Group/DataMate/stargazers) [![Forks](https://img.shields.io/github/forks/ModelEngine-Group/DataMate?style=flat-square&color=blue)](https://github.com/ModelEngine-Group/DataMate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ModelEngine-Group/DataMate?style=flat-square&color=yellow)](https://github.com/ModelEngine-Group/DataMate/stargazers) [![Forks](https://img.shields.io/github/forks/ModelEngine-Group/DataMate?style=flat-square&color=blue)](https://github.com/ModelEngine-Group/DataMate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > DataMate is an enterprise-level data processing platform designed for model fine-tuning and RAG retrieval.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ DataMate 是一款面向企业的全链路数据处理平台，专注于模型�
 | forks | 41/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

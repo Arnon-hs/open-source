@@ -1,6 +1,6 @@
 # databricks/cli
 
-[![Stars](https://img.shields.io/github/stars/databricks/cli?style=flat-square&color=yellow)](https://github.com/databricks/cli/stargazers) [![Forks](https://img.shields.io/github/forks/databricks/cli?style=flat-square&color=blue)](https://github.com/databricks/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/databricks/cli?style=flat-square&color=yellow)](https://github.com/databricks/cli/stargazers) [![Forks](https://img.shields.io/github/forks/databricks/cli?style=flat-square&color=blue)](https://github.com/databricks/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Databricks CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data
+DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Databricks CLI 为 Databricks 工作空间提供一套轻量级的命令行工
 | forks | 56/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

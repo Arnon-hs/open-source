@@ -1,6 +1,6 @@
 # korotovsky/slack-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/korotovsky/slack-mcp-server?style=flat-square&color=yellow)](https://github.com/korotovsky/slack-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/korotovsky/slack-mcp-server?style=flat-square&color=blue)](https://github.com/korotovsky/slack-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/korotovsky/slack-mcp-server?style=flat-square&color=yellow)](https://github.com/korotovsky/slack-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/korotovsky/slack-mcp-server?style=flat-square&color=blue)](https://github.com/korotovsky/slack-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ korotovsky/slack-mcp-server 是一款基于 Go 实现的 MCP（Model Context�
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 56/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

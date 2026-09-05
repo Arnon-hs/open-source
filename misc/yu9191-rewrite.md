@@ -1,6 +1,6 @@
 # Yu9191/Rewrite
 
-[![Stars](https://img.shields.io/github/stars/Yu9191/Rewrite?style=flat-square&color=yellow)](https://github.com/Yu9191/Rewrite/stargazers) [![Forks](https://img.shields.io/github/forks/Yu9191/Rewrite?style=flat-square&color=blue)](https://github.com/Yu9191/Rewrite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yu9191/Rewrite?style=flat-square&color=yellow)](https://github.com/Yu9191/Rewrite/stargazers) [![Forks](https://img.shields.io/github/forks/Yu9191/Rewrite?style=flat-square&color=blue)](https://github.com/Yu9191/Rewrite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Yu9191/Rewrite 是一个基于 JavaScript 的代码改写工具，适合在项�
 | forks | 43/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 46/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

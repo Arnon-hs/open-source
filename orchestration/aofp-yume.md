@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · Productivity · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ aofp/yume：aofp/yume helps turn isolated prompts and tools into repeatable agen
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

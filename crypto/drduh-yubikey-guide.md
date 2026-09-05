@@ -1,6 +1,6 @@
 # drduh/YubiKey-Guide
 
-[![Stars](https://img.shields.io/github/stars/drduh/YubiKey-Guide?style=flat-square&color=yellow)](https://github.com/drduh/YubiKey-Guide/stargazers) [![Forks](https://img.shields.io/github/forks/drduh/YubiKey-Guide?style=flat-square&color=blue)](https://github.com/drduh/YubiKey-Guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drduh/YubiKey-Guide?style=flat-square&color=yellow)](https://github.com/drduh/YubiKey-Guide/stargazers) [![Forks](https://img.shields.io/github/forks/drduh/YubiKey-Guide?style=flat-square&color=blue)](https://github.com/drduh/YubiKey-Guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ drduh/YubiKey-Guide 帮助用户在 Web3 流程中构建安全的工作流程，
 | forks | 77/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 83/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

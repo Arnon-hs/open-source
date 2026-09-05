@@ -1,6 +1,6 @@
 # pab1it0/prometheus-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/pab1it0/prometheus-mcp-server?style=flat-square&color=yellow)](https://github.com/pab1it0/prometheus-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/pab1it0/prometheus-mcp-server?style=flat-square&color=blue)](https://github.com/pab1it0/prometheus-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pab1it0/prometheus-mcp-server?style=flat-square&color=yellow)](https://github.com/pab1it0/prometheus-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/pab1it0/prometheus-mcp-server?style=flat-square&color=blue)](https://github.com/pab1it0/prometheus-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that enables AI agents and LLMs to query and analyze Prometheus metrics through standardized interfaces.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Observability
+MCP · AI/ML · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ pab1it0/prometheus-mcp-server 帮助连接 AI 助手到现实工具和数据通�
 | forks | 50/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 67/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

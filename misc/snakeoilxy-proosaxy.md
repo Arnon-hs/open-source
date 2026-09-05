@@ -1,6 +1,6 @@
 # SnakeOilXY/ProosaXY
 
-[![Stars](https://img.shields.io/github/stars/SnakeOilXY/ProosaXY?style=flat-square&color=yellow)](https://github.com/SnakeOilXY/ProosaXY/stargazers) [![Forks](https://img.shields.io/github/forks/SnakeOilXY/ProosaXY?style=flat-square&color=blue)](https://github.com/SnakeOilXY/ProosaXY/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SnakeOilXY/ProosaXY?style=flat-square&color=yellow)](https://github.com/SnakeOilXY/ProosaXY/stargazers) [![Forks](https://img.shields.io/github/forks/SnakeOilXY/ProosaXY?style=flat-square&color=blue)](https://github.com/SnakeOilXY/ProosaXY/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Low cost CoreXY conversion mod for Prusa MK3/S
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ SnakeOilXY/ProosaXY 是一个面向 Prusa MK3/S 打印机的低成本 CoreXY �
 | forks | 30/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 51/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

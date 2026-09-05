@@ -1,6 +1,6 @@
 # gossipcat-ai/gossipcat-ai
 
-[![Stars](https://img.shields.io/github/stars/gossipcat-ai/gossipcat-ai?style=flat-square&color=yellow)](https://github.com/gossipcat-ai/gossipcat-ai/stargazers) [![Forks](https://img.shields.io/github/forks/gossipcat-ai/gossipcat-ai?style=flat-square&color=blue)](https://github.com/gossipcat-ai/gossipcat-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gossipcat-ai/gossipcat-ai?style=flat-square&color=yellow)](https://github.com/gossipcat-ai/gossipcat-ai/stargazers) [![Forks](https://img.shields.io/github/forks/gossipcat-ai/gossipcat-ai?style=flat-square&color=blue)](https://github.com/gossipcat-ai/gossipcat-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent code review mesh — orchestrates AI agents from multiple providers to review code in parallel, cross-review each other's findings, and build accuracy profiles over time. Agents that catch real bugs get picked more often. Agents that hallucinate get deprioritized. MCP server for Claude Code, Cursor, and other IDEs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ gossipcat‑ai/gossipcat‑ai 是一个多代理代码审查网格（Multi‑age
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # wenet-ec/edge-core
 
-[![Stars](https://img.shields.io/github/stars/wenet-ec/edge-core?style=flat-square&color=yellow)](https://github.com/wenet-ec/edge-core/stargazers) [![Forks](https://img.shields.io/github/forks/wenet-ec/edge-core?style=flat-square&color=blue)](https://github.com/wenet-ec/edge-core/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wenet-ec/edge-core?style=flat-square&color=yellow)](https://github.com/wenet-ec/edge-core/stargazers) [![Forks](https://img.shields.io/github/forks/wenet-ec/edge-core?style=flat-square&color=blue)](https://github.com/wenet-ec/edge-core/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source distributed machine control plane — WireGuard mesh, SSH proxy, remote execution, Prometheus metrics, all over one REST API/MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Observability
+MCP · Automation · AI/ML · Networking · Backend
 
 ## 📝 Summary
 
@@ -110,11 +110,11 @@ wenet-ec/edge‑core 是一套开源的分布式机器控制平面，提供基�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # sentence-transformers/all-mpnet-base-v2
 
-[![Stars](https://img.shields.io/github/stars/sentence-transformers/all-mpnet-base-v2?style=flat-square&color=yellow)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2/stargazers) [![Forks](https://img.shields.io/github/forks/sentence-transformers/all-mpnet-base-v2?style=flat-square&color=blue)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sentence-transformers/all-mpnet-base-v2?style=flat-square&color=yellow)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2/stargazers) [![Forks](https://img.shields.io/github/forks/sentence-transformers/all-mpnet-base-v2?style=flat-square&color=blue)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Embeddings and similarity (sentence-similarity) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ sentence-transformers/all-mpnet-base-v2 的生产可用性为 Early 或 Unclear�
 | forks | 0/100 |
 | stars | 67/100 |
 | topics | 38/100 |
-| outlook | 38/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 39/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

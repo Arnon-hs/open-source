@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Data
+Payments · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ openmeterio/openmeter：openmeterio/openmeter helps integrate monetization, bill
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

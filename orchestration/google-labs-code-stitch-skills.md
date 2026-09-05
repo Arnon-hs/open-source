@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 635 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · MCP
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ google-labs-code/stitch-skills：google-labs-code/stitch-skills helps turn isola
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

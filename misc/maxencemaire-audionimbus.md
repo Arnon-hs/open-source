@@ -1,6 +1,6 @@
 # MaxenceMaire/audionimbus
 
-[![Stars](https://img.shields.io/github/stars/MaxenceMaire/audionimbus?style=flat-square&color=yellow)](https://github.com/MaxenceMaire/audionimbus/stargazers) [![Forks](https://img.shields.io/github/forks/MaxenceMaire/audionimbus?style=flat-square&color=blue)](https://github.com/MaxenceMaire/audionimbus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MaxenceMaire/audionimbus?style=flat-square&color=yellow)](https://github.com/MaxenceMaire/audionimbus/stargazers) [![Forks](https://img.shields.io/github/forks/MaxenceMaire/audionimbus?style=flat-square&color=blue)](https://github.com/MaxenceMaire/audionimbus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Steam Audio in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 202 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ MaxenceMaire/audionimbus 是一款开源项目，基于 Rust 编写，旨在将 
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 50/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # xmarre/ComfyUI-Spectrum-MiniMax-H3
 
-[![Stars](https://img.shields.io/github/stars/xmarre/ComfyUI-Spectrum-MiniMax-H3?style=flat-square&color=yellow)](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3/stargazers) [![Forks](https://img.shields.io/github/forks/xmarre/ComfyUI-Spectrum-MiniMax-H3?style=flat-square&color=blue)](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xmarre/ComfyUI-Spectrum-MiniMax-H3?style=flat-square&color=yellow)](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3/stargazers) [![Forks](https://img.shields.io/github/forks/xmarre/ComfyUI-Spectrum-MiniMax-H3?style=flat-square&color=blue)](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Spectrum-based acceleration for ComfyUI’s native MiniMax H3 audio-video model. Forecasts post-transformer features with Chebyshev ridge regression to skip selected transformer evaluations, with adaptive scheduling, sampler-aware safeguards, CPU/VRAM history storage, and native fallbacks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ xmarre/ComfyUI-Spectrum-MiniMax-H3 是一个开源项目，用于加速 ComfyUI 
 | forks | 33/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 57/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

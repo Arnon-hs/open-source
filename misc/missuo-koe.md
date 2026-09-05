@@ -1,6 +1,6 @@
 # missuo/koe
 
-[![Stars](https://img.shields.io/github/stars/missuo/koe?style=flat-square&color=yellow)](https://github.com/missuo/koe/stargazers) [![Forks](https://img.shields.io/github/forks/missuo/koe?style=flat-square&color=blue)](https://github.com/missuo/koe/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/missuo/koe?style=flat-square&color=yellow)](https://github.com/missuo/koe/stargazers) [![Forks](https://img.shields.io/github/forks/missuo/koe?style=flat-square&color=blue)](https://github.com/missuo/koe/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A zero-GUI macOS voice input tool. Press a hotkey, speak, and the corrected text is pasted into whatever app you're using.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 393 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ missuo/koe 的生产可用性为中等，适合用于原型或内部工作流程
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

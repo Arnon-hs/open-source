@@ -1,6 +1,6 @@
 # Agents365-ai/dsclaude
 
-[![Stars](https://img.shields.io/github/stars/Agents365-ai/dsclaude?style=flat-square&color=yellow)](https://github.com/Agents365-ai/dsclaude/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/dsclaude?style=flat-square&color=blue)](https://github.com/Agents365-ai/dsclaude/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agents365-ai/dsclaude?style=flat-square&color=yellow)](https://github.com/Agents365-ai/dsclaude/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/dsclaude?style=flat-square&color=blue)](https://github.com/Agents365-ai/dsclaude/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code & Desktop launchers for 11+ third-party LLM backends (DeepSeek, Qwen, Kimi, GLM, MiniMax, Doubao, LongCat, TokenHub, SiliconFlow, MiMo) via Anthropic-compatible API — plus Codex setup, vision tools, and MCP server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Agents365-ai/dsclaude 在生产环境下的可用性为中等（Medium），适�
 | forks | 21/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # notepad-plus-plus/notepad-plus-plus
 
-[![Stars](https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=flat-square&color=yellow)](https://github.com/notepad-plus-plus/notepad-plus-plus/stargazers) [![Forks](https://img.shields.io/github/forks/notepad-plus-plus/notepad-plus-plus?style=flat-square&color=blue)](https://github.com/notepad-plus-plus/notepad-plus-plus/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=flat-square&color=yellow)](https://github.com/notepad-plus-plus/notepad-plus-plus/stargazers) [![Forks](https://img.shields.io/github/forks/notepad-plus-plus/notepad-plus-plus?style=flat-square&color=blue)](https://github.com/notepad-plus-plus/notepad-plus-plus/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Notepad++ official repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.5k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Notepad++（官方仓库）是基于 C++ 开发的 Windows 文本编辑器，拥
 | forks | 93/100 |
 | stars | 95/100 |
 | topics | 50/100 |
-| outlook | 61/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

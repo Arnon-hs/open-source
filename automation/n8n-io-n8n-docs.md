@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ n8n-io/n8n-docs：n8n-io/n8n-docs helps remove repetitive manual operations from
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend
+Automation · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ wppconnect-team/wppconnect：wppconnect-team/wppconnect helps remove repetitive 
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

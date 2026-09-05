@@ -1,6 +1,6 @@
 # alondmnt/joplin-plugin-jarvis
 
-[![Stars](https://img.shields.io/github/stars/alondmnt/joplin-plugin-jarvis?style=flat-square&color=yellow)](https://github.com/alondmnt/joplin-plugin-jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/alondmnt/joplin-plugin-jarvis?style=flat-square&color=blue)](https://github.com/alondmnt/joplin-plugin-jarvis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alondmnt/joplin-plugin-jarvis?style=flat-square&color=yellow)](https://github.com/alondmnt/joplin-plugin-jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/alondmnt/joplin-plugin-jarvis?style=flat-square&color=blue)](https://github.com/alondmnt/joplin-plugin-jarvis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Joplin (note-taking) assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ alondmnt/joplin-plugin-jarvis 是一个开源项目，旨在为 Joplin（笔记-
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

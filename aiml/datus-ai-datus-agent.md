@@ -1,6 +1,6 @@
 # Datus-ai/Datus-agent
 
-[![Stars](https://img.shields.io/github/stars/Datus-ai/Datus-agent?style=flat-square&color=yellow)](https://github.com/Datus-ai/Datus-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Datus-ai/Datus-agent?style=flat-square&color=blue)](https://github.com/Datus-ai/Datus-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Datus-ai/Datus-agent?style=flat-square&color=yellow)](https://github.com/Datus-ai/Datus-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Datus-ai/Datus-agent?style=flat-square&color=blue)](https://github.com/Datus-ai/Datus-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The Future of Data Engineering — A CLI SQL client for the modern data stack, enabling AI-native context engineering for data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Datus‑ai/Datus‑agent 是面向现代数据栈的 CLI SQL 客户端，内置 
 | forks | 58/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

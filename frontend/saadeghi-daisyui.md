@@ -1,6 +1,6 @@
 # saadeghi/daisyui
 
-[![Stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=flat-square&color=yellow)](https://github.com/saadeghi/daisyui/stargazers) [![Forks](https://img.shields.io/github/forks/saadeghi/daisyui?style=flat-square&color=blue)](https://github.com/saadeghi/daisyui/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=flat-square&color=yellow)](https://github.com/saadeghi/daisyui/stargazers) [![Forks](https://img.shields.io/github/forks/saadeghi/daisyui?style=flat-square&color=blue)](https://github.com/saadeghi/daisyui/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41.2k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ saadeghi/daisyui 是基于 Tailwind CSS 的最流行、免费且开源的 UI 组
 | forks | 80/100 |
 | stars | 98/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

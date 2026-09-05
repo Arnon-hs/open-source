@@ -1,6 +1,6 @@
 # Andriiklymiuk/corgi
 
-[![Stars](https://img.shields.io/github/stars/Andriiklymiuk/corgi?style=flat-square&color=yellow)](https://github.com/Andriiklymiuk/corgi/stargazers) [![Forks](https://img.shields.io/github/forks/Andriiklymiuk/corgi?style=flat-square&color=blue)](https://github.com/Andriiklymiuk/corgi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Andriiklymiuk/corgi?style=flat-square&color=yellow)](https://github.com/Andriiklymiuk/corgi/stargazers) [![Forks](https://img.shields.io/github/forks/Andriiklymiuk/corgi?style=flat-square&color=blue)](https://github.com/Andriiklymiuk/corgi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Run your whole local stack from one file — repos, databases, env, every service. Let AI agents plan, build, and review work across it. Then run the same stack in CI, so your e2e finally tests all the repos together.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ Andriiklymiuk/corgi 帮助您在现有的模型栈上添加 AI 能力，无需�
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 50/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

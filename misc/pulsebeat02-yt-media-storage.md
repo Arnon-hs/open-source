@@ -1,6 +1,6 @@
 # PulseBeat02/yt-media-storage
 
-[![Stars](https://img.shields.io/github/stars/PulseBeat02/yt-media-storage?style=flat-square&color=yellow)](https://github.com/PulseBeat02/yt-media-storage/stargazers) [![Forks](https://img.shields.io/github/forks/PulseBeat02/yt-media-storage?style=flat-square&color=blue)](https://github.com/PulseBeat02/yt-media-storage/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PulseBeat02/yt-media-storage?style=flat-square&color=yellow)](https://github.com/PulseBeat02/yt-media-storage/stargazers) [![Forks](https://img.shields.io/github/forks/PulseBeat02/yt-media-storage?style=flat-square&color=blue)](https://github.com/PulseBeat02/yt-media-storage/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Encodes files into uploadable media
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 873 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ PulseBeat02/yt-media-storage 是一个 C++ 编写的开源工具，能够将任�
 | forks | 51/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 48/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

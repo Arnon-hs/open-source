@@ -1,6 +1,6 @@
 # dotnet/EntityFramework.Docs
 
-[![Stars](https://img.shields.io/github/stars/dotnet/EntityFramework.Docs?style=flat-square&color=yellow)](https://github.com/dotnet/EntityFramework.Docs/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/EntityFramework.Docs?style=flat-square&color=blue)](https://github.com/dotnet/EntityFramework.Docs/network) [![Language](https://img.shields.io/badge/lang-Mermaid-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/EntityFramework.Docs?style=flat-square&color=yellow)](https://github.com/dotnet/EntityFramework.Docs/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/EntityFramework.Docs?style=flat-square&color=blue)](https://github.com/dotnet/EntityFramework.Docs/network) [![Language](https://img.shields.io/badge/lang-Mermaid-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation for Entity Framework Core and Entity Framework 6
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Mermaid |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ dotnet/EntityFramework.Docs 帮助开发者在不从零开始模型栈的情况�
 | forks | 82/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 67/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ GlassHaven/Haven：GlassHaven/Haven may be useful when its README and activity m
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

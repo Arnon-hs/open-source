@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Security
+Automation · AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ marcusquinn/aidevops：marcusquinn/aidevops helps remove repetitive manual opera
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

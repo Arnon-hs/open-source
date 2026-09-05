@@ -1,6 +1,6 @@
 # jdereg/java-util
 
-[![Stars](https://img.shields.io/github/stars/jdereg/java-util?style=flat-square&color=yellow)](https://github.com/jdereg/java-util/stargazers) [![Forks](https://img.shields.io/github/forks/jdereg/java-util?style=flat-square&color=blue)](https://github.com/jdereg/java-util/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jdereg/java-util?style=flat-square&color=yellow)](https://github.com/jdereg/java-util/stargazers) [![Forks](https://img.shields.io/github/forks/jdereg/java-util?style=flat-square&color=blue)](https://github.com/jdereg/java-util/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Java utilities: DeepEquals, GraphComparator, Converter, LRUCache, CompactMap/Set, CaseInsensitiveMap, UniqueIdGenerator, FastReader/Writer, and more. Zero dependencies, JDK 8-24.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ jdereg/java-util 的生产可用性为中等。它适用于原型开发或内部
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

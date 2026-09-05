@@ -1,6 +1,6 @@
 # Xnhyacinth/Awesome-LLM-Long-Context-Modeling
 
-[![Stars](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=flat-square&color=yellow)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) [![Forks](https://img.shields.io/github/forks/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=flat-square&color=blue)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=flat-square&color=yellow)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) [![Forks](https://img.shields.io/github/forks/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=flat-square&color=blue)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Xnhyacinth/Awesome-LLM-Long-Context-Modeling 是一个精选集合，收录了�
 | forks | 49/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

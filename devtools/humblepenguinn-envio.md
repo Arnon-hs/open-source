@@ -1,6 +1,6 @@
 # humblepenguinn/envio
 
-[![Stars](https://img.shields.io/github/stars/humblepenguinn/envio?style=flat-square&color=yellow)](https://github.com/humblepenguinn/envio/stargazers) [![Forks](https://img.shields.io/github/forks/humblepenguinn/envio?style=flat-square&color=blue)](https://github.com/humblepenguinn/envio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/humblepenguinn/envio?style=flat-square&color=yellow)](https://github.com/humblepenguinn/envio/stargazers) [![Forks](https://img.shields.io/github/forks/humblepenguinn/envio?style=flat-square&color=blue)](https://github.com/humblepenguinn/envio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A secure command-line tool for managing environment variables
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 943 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ humblepenguinn/envio 是一款基于 Rust 实现的安全命令行工具，用�
 | forks | 32/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 56/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

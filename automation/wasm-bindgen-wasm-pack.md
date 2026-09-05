@@ -1,6 +1,6 @@
 # wasm-bindgen/wasm-pack
 
-[![Stars](https://img.shields.io/github/stars/wasm-bindgen/wasm-pack?style=flat-square&color=yellow)](https://github.com/wasm-bindgen/wasm-pack/stargazers) [![Forks](https://img.shields.io/github/forks/wasm-bindgen/wasm-pack?style=flat-square&color=blue)](https://github.com/wasm-bindgen/wasm-pack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasm-bindgen/wasm-pack?style=flat-square&color=yellow)](https://github.com/wasm-bindgen/wasm-pack/stargazers) [![Forks](https://img.shields.io/github/forks/wasm-bindgen/wasm-pack?style=flat-square&color=blue)](https://github.com/wasm-bindgen/wasm-pack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 📦✨ your favorite rust -> wasm workflow tool!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 480 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ wasm-bindgen/wasm-pack 是 Rust 开发者构建、打包并发布 WebAssembly（
 | forks | 67/100 |
 | stars | 82/100 |
 | topics | 88/100 |
-| outlook | 63/100 |
-| quality | 68/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

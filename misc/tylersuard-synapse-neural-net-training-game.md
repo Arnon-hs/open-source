@@ -1,6 +1,6 @@
 # Tylersuard/Synapse_neural_net_training_game
 
-[![Stars](https://img.shields.io/github/stars/Tylersuard/Synapse_neural_net_training_game?style=flat-square&color=yellow)](https://github.com/Tylersuard/Synapse_neural_net_training_game/tree/main/stargazers) [![Forks](https://img.shields.io/github/forks/Tylersuard/Synapse_neural_net_training_game?style=flat-square&color=blue)](https://github.com/Tylersuard/Synapse_neural_net_training_game/tree/main/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tylersuard/Synapse_neural_net_training_game?style=flat-square&color=yellow)](https://github.com/Tylersuard/Synapse_neural_net_training_game/tree/main/stargazers) [![Forks](https://img.shields.io/github/forks/Tylersuard/Synapse_neural_net_training_game?style=flat-square&color=blue)](https://github.com/Tylersuard/Synapse_neural_net_training_game/tree/main/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 31/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ I made a game that teaches you how AI works 是一个交互式小游戏，帮助
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 33/100 |
-| quality | 26/100 |
-| recency | 40/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 38/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

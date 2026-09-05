@@ -1,6 +1,6 @@
 # Dictionarry-Hub/profilarr
 
-[![Stars](https://img.shields.io/github/stars/Dictionarry-Hub/profilarr?style=flat-square&color=yellow)](https://github.com/Dictionarry-Hub/profilarr/stargazers) [![Forks](https://img.shields.io/github/forks/Dictionarry-Hub/profilarr?style=flat-square&color=blue)](https://github.com/Dictionarry-Hub/profilarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dictionarry-Hub/profilarr?style=flat-square&color=yellow)](https://github.com/Dictionarry-Hub/profilarr/stargazers) [![Forks](https://img.shields.io/github/forks/Dictionarry-Hub/profilarr?style=flat-square&color=blue)](https://github.com/Dictionarry-Hub/profilarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Configuration Management Platform for Radarr/Sonarr
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Dictionarry-Hub/profilarr：Dictionarry-Hub/profilarr helps teams persist, query
 | forks | 44/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

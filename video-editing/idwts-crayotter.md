@@ -1,6 +1,6 @@
 # idwts/Crayotter
 
-[![Stars](https://img.shields.io/github/stars/idwts/Crayotter?style=flat-square&color=yellow)](https://github.com/idwts/Crayotter/stargazers) [![Forks](https://img.shields.io/github/forks/idwts/Crayotter?style=flat-square&color=blue)](https://github.com/idwts/Crayotter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idwts/Crayotter?style=flat-square&color=yellow)](https://github.com/idwts/Crayotter/stargazers) [![Forks](https://img.shields.io/github/forks/idwts/Crayotter?style=flat-square&color=blue)](https://github.com/idwts/Crayotter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🦦 Crayotter: A Multimodal AI-Agent for Video-Editing, Video-Composing, and Video Production. Powered by Multimodal LLMs for autonomous Text-to-Video agentic framework. | 基于多模态大模型 (Multimodal LLMs) 的 AI 剪辑智能体，支持从文字需求到视频成品的端到端全自动生产与创作。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ idwts/Crayotter：idwts/Crayotter helps remove repetitive manual operations from
 | forks | 25/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

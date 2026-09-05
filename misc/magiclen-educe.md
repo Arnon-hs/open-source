@@ -1,6 +1,6 @@
 # magiclen/educe
 
-[![Stars](https://img.shields.io/github/stars/magiclen/educe?style=flat-square&color=yellow)](https://github.com/magiclen/educe/stargazers) [![Forks](https://img.shields.io/github/forks/magiclen/educe?style=flat-square&color=blue)](https://github.com/magiclen/educe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magiclen/educe?style=flat-square&color=yellow)](https://github.com/magiclen/educe/stargazers) [![Forks](https://img.shields.io/github/forks/magiclen/educe?style=flat-square&color=blue)](https://github.com/magiclen/educe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > This crate offers procedural macros designed to facilitate the swift implementation of Rust's built-in traits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ magiclen/educe 在生产环境中使用时，需要进行手动检查和验证�
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 13/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

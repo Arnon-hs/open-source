@@ -1,6 +1,6 @@
 # kumo-ai/kumo-coding-agent
 
-[![Stars](https://img.shields.io/github/stars/kumo-ai/kumo-coding-agent?style=flat-square&color=yellow)](https://github.com/kumo-ai/kumo-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/kumo-ai/kumo-coding-agent?style=flat-square&color=blue)](https://github.com/kumo-ai/kumo-coding-agent/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kumo-ai/kumo-coding-agent?style=flat-square&color=yellow)](https://github.com/kumo-ai/kumo-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/kumo-ai/kumo-coding-agent?style=flat-square&color=blue)](https://github.com/kumo-ai/kumo-coding-agent/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Kumo Coding Agent — context docs, skills, and self-maintenance for building ML models with the Kumo SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Libraries & SDKs · Data
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ Kumo Coding Agent 是一个基于 Kumo SDK 的 AI 编程助手，提供上下文
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

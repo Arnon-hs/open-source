@@ -1,6 +1,6 @@
 # arthurpanhku/DragonMCP
 
-[![Stars](https://img.shields.io/github/stars/arthurpanhku/DragonMCP?style=flat-square&color=yellow)](https://github.com/arthurpanhku/DragonMCP/stargazers) [![Forks](https://img.shields.io/github/forks/arthurpanhku/DragonMCP?style=flat-square&color=blue)](https://github.com/arthurpanhku/DragonMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arthurpanhku/DragonMCP?style=flat-square&color=yellow)](https://github.com/arthurpanhku/DragonMCP/stargazers) [![Forks](https://img.shields.io/github/forks/arthurpanhku/DragonMCP?style=flat-square&color=blue)](https://github.com/arthurpanhku/DragonMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > DragonMCP is a Model Context Protocol (MCP) server designed for AI Agents to interact with local life services in Greater China (Mainland China, HKSAR) and Asia.  DragonMCP 是一个专为 AI Agent 设计的 Model Context Protocol (MCP) 服务器，旨在提供中国内地、中国香港及亚洲地区的本地生活服务接口。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ DragonMCP 的生产可用性为中等（Medium），适合用于原型开发或�
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

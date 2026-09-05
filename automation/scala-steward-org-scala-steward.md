@@ -1,6 +1,6 @@
 # scala-steward-org/scala-steward
 
-[![Stars](https://img.shields.io/github/stars/scala-steward-org/scala-steward?style=flat-square&color=yellow)](https://github.com/scala-steward-org/scala-steward/stargazers) [![Forks](https://img.shields.io/github/forks/scala-steward-org/scala-steward?style=flat-square&color=blue)](https://github.com/scala-steward-org/scala-steward/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scala-steward-org/scala-steward?style=flat-square&color=yellow)](https://github.com/scala-steward-org/scala-steward/stargazers) [![Forks](https://img.shields.io/github/forks/scala-steward-org/scala-steward?style=flat-square&color=blue)](https://github.com/scala-steward-org/scala-steward/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > :robot: A bot that helps you keep your projects up-to-date
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 516 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools
+Automation · Cloud & Storage · DevTools
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Scala Steward 是一个自动化机器人（:robot:），专门帮助 Scala �
 | forks | 68/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

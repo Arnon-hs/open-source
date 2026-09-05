@@ -1,6 +1,6 @@
 # writerslogic/scrivener-mcp
 
-[![Stars](https://img.shields.io/github/stars/writerslogic/scrivener-mcp?style=flat-square&color=yellow)](https://github.com/writerslogic/scrivener-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/writerslogic/scrivener-mcp?style=flat-square&color=blue)](https://github.com/writerslogic/scrivener-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/writerslogic/scrivener-mcp?style=flat-square&color=yellow)](https://github.com/writerslogic/scrivener-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/writerslogic/scrivener-mcp?style=flat-square&color=blue)](https://github.com/writerslogic/scrivener-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The definitive MCP server for Scrivener. Connect your novels, screenplays, and manuscripts to Claude, ChatGPT, and other AI assistants. 60+ tools for document management, writing analysis, content enhancement, semantic search, and character/plot tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -123,15 +123,15 @@ writerslogic/scrivener-mcp 是面向 Scrivener 的官方 MCP（Message‑Control
 | forks | 28/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

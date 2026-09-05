@@ -1,6 +1,6 @@
 # JanDeDobbeleer/oh-my-posh
 
-[![Stars](https://img.shields.io/github/stars/JanDeDobbeleer/oh-my-posh?style=flat-square&color=yellow)](https://github.com/JanDeDobbeleer/oh-my-posh/stargazers) [![Forks](https://img.shields.io/github/forks/JanDeDobbeleer/oh-my-posh?style=flat-square&color=blue)](https://github.com/JanDeDobbeleer/oh-my-posh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JanDeDobbeleer/oh-my-posh?style=flat-square&color=yellow)](https://github.com/JanDeDobbeleer/oh-my-posh/stargazers) [![Forks](https://img.shields.io/github/forks/JanDeDobbeleer/oh-my-posh?style=flat-square&color=blue)](https://github.com/JanDeDobbeleer/oh-my-posh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The most customisable and low-latency cross platform/shell prompt renderer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.9k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ oh‑my‑posh 是一款跨平台、跨 Shell 的提示符渲染器，拥有极�
 | forks | 86/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 62/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

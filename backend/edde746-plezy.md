@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ edde746/plezy：edde746/plezy helps teams reuse service infrastructure instead o
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # FriesI23/mhabit
 
-[![Stars](https://img.shields.io/github/stars/FriesI23/mhabit?style=flat-square&color=yellow)](https://github.com/FriesI23/mhabit/stargazers) [![Forks](https://img.shields.io/github/forks/FriesI23/mhabit?style=flat-square&color=blue)](https://github.com/FriesI23/mhabit/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FriesI23/mhabit?style=flat-square&color=yellow)](https://github.com/FriesI23/mhabit/stargazers) [![Forks](https://img.shields.io/github/forks/FriesI23/mhabit?style=flat-square&color=blue)](https://github.com/FriesI23/mhabit/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ FriesI23/mhabit 是一款基于 Dart 的移动端微习惯管理应用，提供�
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

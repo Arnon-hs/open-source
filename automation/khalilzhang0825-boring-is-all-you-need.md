@@ -1,6 +1,6 @@
 # Khalilzhang0825/boring-is-all-you-need
 
-[![Stars](https://img.shields.io/github/stars/Khalilzhang0825/boring-is-all-you-need?style=flat-square&color=yellow)](https://github.com/Khalilzhang0825/boring-is-all-you-need/stargazers) [![Forks](https://img.shields.io/github/forks/Khalilzhang0825/boring-is-all-you-need?style=flat-square&color=blue)](https://github.com/Khalilzhang0825/boring-is-all-you-need/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Khalilzhang0825/boring-is-all-you-need?style=flat-square&color=yellow)](https://github.com/Khalilzhang0825/boring-is-all-you-need/stargazers) [![Forks](https://img.shields.io/github/forks/Khalilzhang0825/boring-is-all-you-need?style=flat-square&color=blue)](https://github.com/Khalilzhang0825/boring-is-all-you-need/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, fail-closed safety hooks, risk-based review, checkpoint commits, and release evidence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Khalilzhang0825/boring-is-all-you-need 是一个开源项目，旨在替代Codex
 | forks | 8/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

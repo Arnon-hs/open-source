@@ -1,6 +1,6 @@
 # Josverl/micropython-stubs
 
-[![Stars](https://img.shields.io/github/stars/Josverl/micropython-stubs?style=flat-square&color=yellow)](https://github.com/Josverl/micropython-stubs/stargazers) [![Forks](https://img.shields.io/github/forks/Josverl/micropython-stubs?style=flat-square&color=blue)](https://github.com/Josverl/micropython-stubs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Josverl/micropython-stubs?style=flat-square&color=yellow)](https://github.com/Josverl/micropython-stubs/stargazers) [![Forks](https://img.shields.io/github/forks/Josverl/micropython-stubs?style=flat-square&color=blue)](https://github.com/Josverl/micropython-stubs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Josverl/micropython-stubs 是一个开源项目，提供了微软Python各个端
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

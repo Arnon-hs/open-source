@@ -1,6 +1,6 @@
 # handmux/handmux
 
-[![Stars](https://img.shields.io/github/stars/handmux/handmux?style=flat-square&color=yellow)](https://github.com/handmux/handmux/stargazers) [![Forks](https://img.shields.io/github/forks/handmux/handmux?style=flat-square&color=blue)](https://github.com/handmux/handmux/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/handmux/handmux?style=flat-square&color=yellow)](https://github.com/handmux/handmux/stargazers) [![Forks](https://img.shields.io/github/forks/handmux/handmux?style=flat-square&color=blue)](https://github.com/handmux/handmux/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A mobile vibe-coding cockpit — built on tmux: drive your live session, Claude Code / Codex — anything a terminal can run — from your phone. 移动 Vibe Coding 驾驶舱 —— 基于 tmux 实现，可在手机上驱动你的会话、Claude Code / Codex、任何终端能实现的东西。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ handmux/handmux的生产可用性为中等（Medium），适合于内部
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # trezor/trezor-firmware
 
-[![Stars](https://img.shields.io/github/stars/trezor/trezor-firmware?style=flat-square&color=yellow)](https://github.com/trezor/trezor-firmware/stargazers) [![Forks](https://img.shields.io/github/forks/trezor/trezor-firmware?style=flat-square&color=blue)](https://github.com/trezor/trezor-firmware/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trezor/trezor-firmware?style=flat-square&color=yellow)](https://github.com/trezor/trezor-firmware/stargazers) [![Forks](https://img.shields.io/github/forks/trezor/trezor-firmware?style=flat-square&color=blue)](https://github.com/trezor/trezor-firmware/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > :lock: Trezor Firmware Monorepo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 766 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Trezor Firmware 是 Trezor 官方的固件单体仓库（monorepo），提供�
 | forks | 72/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

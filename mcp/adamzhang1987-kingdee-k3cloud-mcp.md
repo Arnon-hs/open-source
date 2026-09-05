@@ -1,6 +1,6 @@
 # adamzhang1987/kingdee-k3cloud-mcp
 
-[![Stars](https://img.shields.io/github/stars/adamzhang1987/kingdee-k3cloud-mcp?style=flat-square&color=yellow)](https://github.com/adamzhang1987/kingdee-k3cloud-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/adamzhang1987/kingdee-k3cloud-mcp?style=flat-square&color=blue)](https://github.com/adamzhang1987/kingdee-k3cloud-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adamzhang1987/kingdee-k3cloud-mcp?style=flat-square&color=yellow)](https://github.com/adamzhang1987/kingdee-k3cloud-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/adamzhang1987/kingdee-k3cloud-mcp?style=flat-square&color=blue)](https://github.com/adamzhang1987/kingdee-k3cloud-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 金蝶云星空 K3Cloud MCP Server，让 AI 助手（Claude Desktop、Claude Code、Cursor、Cline、Cherry Studio、Openclaw 等任意支持 MCP 协议的客户端）通过自然语言查询和操作金蝶 ERP 系统。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Overall, the server is a strong OSS candidate for pilots and can be hardened for
 | forks | 21/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

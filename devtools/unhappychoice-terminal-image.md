@@ -1,6 +1,6 @@
 # unhappychoice/terminal_image
 
-[![Stars](https://img.shields.io/github/stars/unhappychoice/terminal_image?style=flat-square&color=yellow)](https://github.com/unhappychoice/terminal_image/stargazers) [![Forks](https://img.shields.io/github/forks/unhappychoice/terminal_image?style=flat-square&color=blue)](https://github.com/unhappychoice/terminal_image/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unhappychoice/terminal_image?style=flat-square&color=yellow)](https://github.com/unhappychoice/terminal_image/stargazers) [![Forks](https://img.shields.io/github/forks/unhappychoice/terminal_image?style=flat-square&color=blue)](https://github.com/unhappychoice/terminal_image/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > :desktop_computer: Show high resolution images on your terminal !
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ unhappychoice/terminal_image 是一个用 Ruby 编写的 CLI/SDK 工具，能够
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

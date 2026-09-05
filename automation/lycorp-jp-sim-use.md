@@ -1,6 +1,6 @@
 # lycorp-jp/sim-use
 
-[![Stars](https://img.shields.io/github/stars/lycorp-jp/sim-use?style=flat-square&color=yellow)](https://github.com/lycorp-jp/sim-use/stargazers) [![Forks](https://img.shields.io/github/forks/lycorp-jp/sim-use?style=flat-square&color=blue)](https://github.com/lycorp-jp/sim-use/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lycorp-jp/sim-use?style=flat-square&color=yellow)](https://github.com/lycorp-jp/sim-use/stargazers) [![Forks](https://img.shields.io/github/forks/lycorp-jp/sim-use?style=flat-square&color=blue)](https://github.com/lycorp-jp/sim-use/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ lycorp-jp/sim-use 是一个开源项目，允许为您的 AI 代理在 iOS Simul
 | forks | 32/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

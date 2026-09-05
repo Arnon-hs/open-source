@@ -1,6 +1,6 @@
 # Kommunicate-io/Kommunicate-Android-Chat-SDK
 
-[![Stars](https://img.shields.io/github/stars/Kommunicate-io/Kommunicate-Android-Chat-SDK?style=flat-square&color=yellow)](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/Kommunicate-io/Kommunicate-Android-Chat-SDK?style=flat-square&color=blue)](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kommunicate-io/Kommunicate-Android-Chat-SDK?style=flat-square&color=yellow)](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/Kommunicate-io/Kommunicate-Android-Chat-SDK?style=flat-square&color=blue)](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Kommunicate Android AI Agent SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML · Communication · Frontend · Libraries & SDKs · Mobile
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Kommunicate-Android-Chat-SDK 的生产可用性为中等（Medium）。它适合
 | forks | 43/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

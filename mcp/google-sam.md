@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Security
+MCP · AI/ML · Networking · Security
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ google/sam：google/sam helps connect AI assistants to real tools and data throu
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # PostHog/context-mill
 
-[![Stars](https://img.shields.io/github/stars/PostHog/context-mill?style=flat-square&color=yellow)](https://github.com/PostHog/context-mill/stargazers) [![Forks](https://img.shields.io/github/forks/PostHog/context-mill?style=flat-square&color=blue)](https://github.com/PostHog/context-mill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PostHog/context-mill?style=flat-square&color=yellow)](https://github.com/PostHog/context-mill/stargazers) [![Forks](https://img.shields.io/github/forks/PostHog/context-mill?style=flat-square&color=blue)](https://github.com/PostHog/context-mill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > PostHog context and skill assembly for AI agents and LLM tasks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ PostHog/context-mill 的生产可用性为中等（Medium）。它适合用于�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # p-m-p/slider
 
-[![Stars](https://img.shields.io/github/stars/p-m-p/slider?style=flat-square&color=yellow)](https://github.com/p-m-p/slider/stargazers) [![Forks](https://img.shields.io/github/forks/p-m-p/slider?style=flat-square&color=blue)](https://github.com/p-m-p/slider/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/p-m-p/slider?style=flat-square&color=yellow)](https://github.com/p-m-p/slider/stargazers) [![Forks](https://img.shields.io/github/forks/p-m-p/slider?style=flat-square&color=blue)](https://github.com/p-m-p/slider/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, light weight content slider
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 890 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ p-m-p/slider 的生产可用性较高，因为它有以下优势：
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

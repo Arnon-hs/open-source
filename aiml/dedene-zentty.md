@@ -1,6 +1,6 @@
 # dedene/zentty
 
-[![Stars](https://img.shields.io/github/stars/dedene/zentty?style=flat-square&color=yellow)](https://github.com/dedene/zentty/stargazers) [![Forks](https://img.shields.io/github/forks/dedene/zentty?style=flat-square&color=blue)](https://github.com/dedene/zentty/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dedene/zentty?style=flat-square&color=yellow)](https://github.com/dedene/zentty/stargazers) [![Forks](https://img.shields.io/github/forks/dedene/zentty?style=flat-square&color=blue)](https://github.com/dedene/zentty/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A native macOS terminal for agent-driven development, built on Ghostty.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ zentty 在原型阶段和内部研发工作流中提供了“即装即用”的 
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

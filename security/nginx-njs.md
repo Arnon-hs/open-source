@@ -1,6 +1,6 @@
 # nginx/njs
 
-[![Stars](https://img.shields.io/github/stars/nginx/njs?style=flat-square&color=yellow)](https://github.com/nginx/njs/stargazers) [![Forks](https://img.shields.io/github/forks/nginx/njs?style=flat-square&color=blue)](https://github.com/nginx/njs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nginx/njs?style=flat-square&color=yellow)](https://github.com/nginx/njs/stargazers) [![Forks](https://img.shields.io/github/forks/nginx/njs?style=flat-square&color=blue)](https://github.com/nginx/njs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A subset of JavaScript language to use in nginx
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ nginx/njs 是为 nginx 设计的轻量级 JavaScript 子集实现，允许在 ng
 | forks | 59/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

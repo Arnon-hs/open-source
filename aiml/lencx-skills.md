@@ -1,6 +1,6 @@
 # lencx/skills
 
-[![Stars](https://img.shields.io/github/stars/lencx/skills?style=flat-square&color=yellow)](https://github.com/lencx/skills/stargazers) [![Forks](https://img.shields.io/github/forks/lencx/skills?style=flat-square&color=blue)](https://github.com/lencx/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lencx/skills?style=flat-square&color=yellow)](https://github.com/lencx/skills/stargazers) [![Forks](https://img.shields.io/github/forks/lencx/skills?style=flat-square&color=blue)](https://github.com/lencx/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 💡 A curated collection of skills for AI agents — turning tacit knowledge into reliable execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ lencx/skills 提供了一套精选的 AI Agent 技能库，能够快速为项目
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

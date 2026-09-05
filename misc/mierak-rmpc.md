@@ -1,6 +1,6 @@
 # mierak/rmpc
 
-[![Stars](https://img.shields.io/github/stars/mierak/rmpc?style=flat-square&color=yellow)](https://github.com/mierak/rmpc/stargazers) [![Forks](https://img.shields.io/github/forks/mierak/rmpc?style=flat-square&color=blue)](https://github.com/mierak/rmpc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mierak/rmpc?style=flat-square&color=yellow)](https://github.com/mierak/rmpc/stargazers) [![Forks](https://img.shields.io/github/forks/mierak/rmpc?style=flat-square&color=blue)](https://github.com/mierak/rmpc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ mierak/rmpc 是一款基于终端的现代化 MPD 客户端，使用 Rust 编写
 | forks | 49/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # chainguard-dev/apko
 
-[![Stars](https://img.shields.io/github/stars/chainguard-dev/apko?style=flat-square&color=yellow)](https://github.com/chainguard-dev/apko/stargazers) [![Forks](https://img.shields.io/github/forks/chainguard-dev/apko?style=flat-square&color=blue)](https://github.com/chainguard-dev/apko/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chainguard-dev/apko?style=flat-square&color=yellow)](https://github.com/chainguard-dev/apko/stargazers) [![Forks](https://img.shields.io/github/forks/chainguard-dev/apko?style=flat-square&color=blue)](https://github.com/chainguard-dev/apko/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Build OCI images from APK packages directly without Dockerfile
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ chainguard-dev/apko 在 GitHub 上有 1657 个星标和 222 个 fork，最近更
 | forks | 59/100 |
 | stars | 69/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

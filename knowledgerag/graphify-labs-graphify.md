@@ -1,6 +1,6 @@
 # Graphify-Labs/graphify
 
-[![Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat-square&color=yellow)](https://github.com/Graphify-Labs/graphify/stargazers) [![Forks](https://img.shields.io/github/forks/Graphify-Labs/graphify?style=flat-square&color=blue)](https://github.com/Graphify-Labs/graphify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat-square&color=yellow)](https://github.com/Graphify-Labs/graphify/stargazers) [![Forks](https://img.shields.io/github/forks/Graphify-Labs/graphify?style=flat-square&color=blue)](https://github.com/Graphify-Labs/graphify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77.2k |
 | 🍴 **Forks** | 7.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ Graphify（Graphify‑Labs/graphify）是一款 AI 编码助理插件，能够�
 | forks | 97/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 85/100 |
-| recency | 40/100 |
+| outlook | 88/100 |
+| quality | 95/100 |
+| recency | 80/100 |
 | adoption | 99/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

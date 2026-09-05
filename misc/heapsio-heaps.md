@@ -1,6 +1,6 @@
 # HeapsIO/heaps
 
-[![Stars](https://img.shields.io/github/stars/HeapsIO/heaps?style=flat-square&color=yellow)](https://github.com/HeapsIO/heaps/stargazers) [![Forks](https://img.shields.io/github/forks/HeapsIO/heaps?style=flat-square&color=blue)](https://github.com/HeapsIO/heaps/network) [![Language](https://img.shields.io/badge/lang-Haxe-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HeapsIO/heaps?style=flat-square&color=yellow)](https://github.com/HeapsIO/heaps/stargazers) [![Forks](https://img.shields.io/github/forks/HeapsIO/heaps?style=flat-square&color=blue)](https://github.com/HeapsIO/heaps/network) [![Language](https://img.shields.io/badge/lang-Haxe-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Heaps : Haxe Game Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 372 |
 | 💻 **Language** | Haxe |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Heaps 是一套基于 Haxe 的跨平台游戏开发框架，提供渲染、输�
 | forks | 64/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

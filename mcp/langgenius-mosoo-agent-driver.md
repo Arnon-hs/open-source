@@ -1,6 +1,6 @@
 # langgenius/mosoo-agent-driver
 
-[![Stars](https://img.shields.io/github/stars/langgenius/mosoo-agent-driver?style=flat-square&color=yellow)](https://github.com/langgenius/mosoo-agent-driver/stargazers) [![Forks](https://img.shields.io/github/forks/langgenius/mosoo-agent-driver?style=flat-square&color=blue)](https://github.com/langgenius/mosoo-agent-driver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langgenius/mosoo-agent-driver?style=flat-square&color=yellow)](https://github.com/langgenius/mosoo-agent-driver/stargazers) [![Forks](https://img.shields.io/github/forks/langgenius/mosoo-agent-driver?style=flat-square&color=blue)](https://github.com/langgenius/mosoo-agent-driver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime-neutral driver for Claude Code, Codex, and ACP. Compatible with Claude Managed Agents (CMA) API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ langgenius/mosoo-agent-driver 在生产可用性方面表现出色，评分为83
 | forks | 19/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

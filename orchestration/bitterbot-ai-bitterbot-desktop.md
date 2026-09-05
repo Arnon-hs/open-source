@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 424 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Networking · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Bitterbot-AI/bitterbot-desktop：Bitterbot-AI/bitterbot-desktop helps turn isola
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

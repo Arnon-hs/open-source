@@ -1,6 +1,6 @@
 # dropbox/dropbox-sdk-js
 
-[![Stars](https://img.shields.io/github/stars/dropbox/dropbox-sdk-js?style=flat-square&color=yellow)](https://github.com/dropbox/dropbox-sdk-js/stargazers) [![Forks](https://img.shields.io/github/forks/dropbox/dropbox-sdk-js?style=flat-square&color=blue)](https://github.com/dropbox/dropbox-sdk-js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dropbox/dropbox-sdk-js?style=flat-square&color=yellow)](https://github.com/dropbox/dropbox-sdk-js/stargazers) [![Forks](https://img.shields.io/github/forks/dropbox/dropbox-sdk-js?style=flat-square&color=blue)](https://github.com/dropbox/dropbox-sdk-js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The Official Dropbox API V2 SDK for Javascript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 969 |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Dropbox API V2 SDK for Javascript 是一个开源项目，提供了一个官方�
 | forks | 64/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 82/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

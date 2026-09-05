@@ -1,6 +1,6 @@
 # hackclub/dinosaurs
 
-[![Stars](https://img.shields.io/github/stars/hackclub/dinosaurs?style=flat-square&color=yellow)](https://github.com/hackclub/dinosaurs/stargazers) [![Forks](https://img.shields.io/github/forks/hackclub/dinosaurs?style=flat-square&color=blue)](https://github.com/hackclub/dinosaurs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hackclub/dinosaurs?style=flat-square&color=yellow)](https://github.com/hackclub/dinosaurs/stargazers) [![Forks](https://img.shields.io/github/forks/hackclub/dinosaurs?style=flat-square&color=blue)](https://github.com/hackclub/dinosaurs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🦕 A collection of Orpheus (Hack Club's mascot) drawings! Look at them at rawr.hackclub.com :)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ hackclub/dinosaurs 是 Hack Club 的 mascot Orpheus 的一系列绘画作品的�
 | forks | 61/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

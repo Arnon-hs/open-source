@@ -1,6 +1,6 @@
 # ekzhang/jax-js
 
-[![Stars](https://img.shields.io/github/stars/ekzhang/jax-js?style=flat-square&color=yellow)](https://github.com/ekzhang/jax-js/stargazers) [![Forks](https://img.shields.io/github/forks/ekzhang/jax-js?style=flat-square&color=blue)](https://github.com/ekzhang/jax-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ekzhang/jax-js?style=flat-square&color=yellow)](https://github.com/ekzhang/jax-js/stargazers) [![Forks](https://img.shields.io/github/forks/ekzhang/jax-js?style=flat-square&color=blue)](https://github.com/ekzhang/jax-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > JAX in JavaScript – ML library for the web, running on WebGPU & Wasm
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 842 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML · Games & Graphics
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ ekzhang/jax‑js 是一个在浏览器中运行的 JAX 实现，基于 WebGPU �
 | forks | 43/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

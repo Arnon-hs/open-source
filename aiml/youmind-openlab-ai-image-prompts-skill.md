@@ -1,6 +1,6 @@
 # YouMind-OpenLab/ai-image-prompts-skill
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/ai-image-prompts-skill?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/ai-image-prompts-skill/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/ai-image-prompts-skill?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/ai-image-prompts-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/ai-image-prompts-skill?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/ai-image-prompts-skill/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/ai-image-prompts-skill?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/ai-image-prompts-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 610 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ YouMind-OpenLab/ai-image-prompts-skill 提供了超过 10,000 条精选的 AI �
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

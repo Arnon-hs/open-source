@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Automation · Design
+Crypto · Automation · Libraries & SDKs · Design
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ digital-asset/daml：digital-asset/daml helps prototype or inspect blockchain wo
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

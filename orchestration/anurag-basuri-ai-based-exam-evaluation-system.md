@@ -1,6 +1,6 @@
 # Anurag-Basuri/AI-Based-Exam-Evaluation-System
 
-[![Stars](https://img.shields.io/github/stars/Anurag-Basuri/AI-Based-Exam-Evaluation-System?style=flat-square&color=yellow)](https://github.com/Anurag-Basuri/AI-Based-Exam-Evaluation-System/stargazers) [![Forks](https://img.shields.io/github/forks/Anurag-Basuri/AI-Based-Exam-Evaluation-System?style=flat-square&color=blue)](https://github.com/Anurag-Basuri/AI-Based-Exam-Evaluation-System/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anurag-Basuri/AI-Based-Exam-Evaluation-System?style=flat-square&color=yellow)](https://github.com/Anurag-Basuri/AI-Based-Exam-Evaluation-System/stargazers) [![Forks](https://img.shields.io/github/forks/Anurag-Basuri/AI-Based-Exam-Evaluation-System?style=flat-square&color=blue)](https://github.com/Anurag-Basuri/AI-Based-Exam-Evaluation-System/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A production-grade, microservice-driven exam management platform that uses LangGraph AI agents to generate exams from classroom materials and strict-RAG evaluation to grade subjective answers — all within a real-time, glassmorphic dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Anurag-Basuri/AI-Based-Exam-Evaluation-System 是一个基于 LangGraph AI 代�
 | forks | 15/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

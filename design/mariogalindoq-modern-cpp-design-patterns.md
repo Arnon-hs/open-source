@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patte
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

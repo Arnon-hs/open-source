@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · DevTools
+Knowledge/RAG · Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ winstonkoh87/Athena-Public：winstonkoh87/Athena-Public helps make internal know
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ SethRobinson/aitools_client：SethRobinson/aitools_client helps add AI capabilit
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

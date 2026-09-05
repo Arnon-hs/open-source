@@ -1,6 +1,6 @@
 # leanprover/lean4
 
-[![Stars](https://img.shields.io/github/stars/leanprover/lean4?style=flat-square&color=yellow)](https://github.com/leanprover/lean4/stargazers) [![Forks](https://img.shields.io/github/forks/leanprover/lean4?style=flat-square&color=blue)](https://github.com/leanprover/lean4/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leanprover/lean4?style=flat-square&color=yellow)](https://github.com/leanprover/lean4/stargazers) [![Forks](https://img.shields.io/github/forks/leanprover/lean4?style=flat-square&color=blue)](https://github.com/leanprover/lean4/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Lean 4 programming language and theorem prover
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 832 |
 | 💻 **Language** | Lean |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Lean 4 是一门函数式编程语言兼交互式定理证明器，提供了�
 | forks | 73/100 |
 | stars | 83/100 |
 | topics | 25/100 |
-| outlook | 48/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

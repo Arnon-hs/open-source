@@ -1,6 +1,6 @@
 # kpanuragh/xdebug-mcp
 
-[![Stars](https://img.shields.io/github/stars/kpanuragh/xdebug-mcp?style=flat-square&color=yellow)](https://github.com/kpanuragh/xdebug-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kpanuragh/xdebug-mcp?style=flat-square&color=blue)](https://github.com/kpanuragh/xdebug-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kpanuragh/xdebug-mcp?style=flat-square&color=yellow)](https://github.com/kpanuragh/xdebug-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kpanuragh/xdebug-mcp?style=flat-square&color=blue)](https://github.com/kpanuragh/xdebug-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for PHP Xdebug debugging - enables AI-assisted PHP debugging through the Model Context Protocol with Unix socket and TCP support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ kpanuragh/xdebug-mcp 的生产可用性为中等（Medium）。它适合用于�
 | forks | 23/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # aa0101181514/tw-legal-rag
 
-[![Stars](https://img.shields.io/github/stars/aa0101181514/tw-legal-rag?style=flat-square&color=yellow)](https://github.com/aa0101181514/tw-legal-rag/stargazers) [![Forks](https://img.shields.io/github/forks/aa0101181514/tw-legal-rag?style=flat-square&color=blue)](https://github.com/aa0101181514/tw-legal-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aa0101181514/tw-legal-rag?style=flat-square&color=yellow)](https://github.com/aa0101181514/tw-legal-rag/stargazers) [![Forks](https://img.shields.io/github/forks/aa0101181514/tw-legal-rag?style=flat-square&color=blue)](https://github.com/aa0101181514/tw-legal-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (Claude/ChatGPT), and run a bundle-level citation check. Bring your own LLM; retrieval-only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 231 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ tw-legal-rag 的生产可用性较高，主要原因是：
 | forks | 40/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

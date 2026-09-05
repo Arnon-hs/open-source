@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · DevTools · Data · Product
+Crypto · Networking · DevTools · Libraries & SDKs · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Lonero-Team/Decentralized-Internet：Lonero-Team/Decentralized-Internet helps pr
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

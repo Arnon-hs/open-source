@@ -1,6 +1,6 @@
 # nikoSchoinas/routeweiler-python-sdk
 
-[![Stars](https://img.shields.io/github/stars/nikoSchoinas/routeweiler-python-sdk?style=flat-square&color=yellow)](https://github.com/nikoSchoinas/routeweiler-python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/nikoSchoinas/routeweiler-python-sdk?style=flat-square&color=blue)](https://github.com/nikoSchoinas/routeweiler-python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikoSchoinas/routeweiler-python-sdk?style=flat-square&color=yellow)](https://github.com/nikoSchoinas/routeweiler-python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/nikoSchoinas/routeweiler-python-sdk?style=flat-square&color=blue)](https://github.com/nikoSchoinas/routeweiler-python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The financial operating system for AI agents. A single HTTP client that intercepts '402 Payment Required', routes across x402, L402, and MPP, persists credentials as recoverable assets, enforces per-envelope budgets, and emits a structured trace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments
+Crypto · Payments · Networking · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ nikoSchoinas/routeweiler-python-sdk 是一个开源项目，提供了一个HTTP�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # royalpinto007/casebook-mcp
 
-[![Stars](https://img.shields.io/github/stars/royalpinto007/casebook-mcp?style=flat-square&color=yellow)](https://github.com/royalpinto007/casebook-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/royalpinto007/casebook-mcp?style=flat-square&color=blue)](https://github.com/royalpinto007/casebook-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/royalpinto007/casebook-mcp?style=flat-square&color=yellow)](https://github.com/royalpinto007/casebook-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/royalpinto007/casebook-mcp?style=flat-square&color=blue)](https://github.com/royalpinto007/casebook-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A remote MCP server that turns AgentPostmortem, a public registry of documented AI-agent failures, into tools any agent can query. Ships with a companion investigator agent that drafts postmortems grounded in real precedents.
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,46 +27,51 @@ MCP · AI/ML
 
 ### English
 
-royalpinto007/casebook-mcp: . Use it for MCP, AI/ML. 
+royalpinto007/casebook-mcp: royalpinto007/casebook-mcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-royalpinto007/casebook-mcp: open-source проект в категориях MCP, AI/ML. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+royalpinto007/casebook-mcp: open-source проект в категориях MCP, AI/ML. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-royalpinto007/casebook-mcp：。适合用于MCP、AI/ML。
+royalpinto007/casebook-mcp：royalpinto007/casebook-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** royalpinto007/casebook-mcp helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 1 forks
+- updated 2026-08-06
+- primary language: TypeScript
+- 7 topics
 
-**Risks:** No metadata risk notes yet.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| forks | 0/100 |
+| forks | 8/100 |
 | stars | 0/100 |
 | topics | 88/100 |
-| outlook | 55/100 |
-| quality | 39/100 |
-| recency | 60/100 |
-| adoption | 0/100 |
-| production | 51/100 |
+| outlook | 48/100 |
+| quality | 35/100 |
+| recency | 40/100 |
+| adoption | 2/100 |
+| production | 45/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

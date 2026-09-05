@@ -1,6 +1,6 @@
 # Rinava/MarkSight
 
-[![Stars](https://img.shields.io/github/stars/Rinava/MarkSight?style=flat-square&color=yellow)](https://github.com/Rinava/MarkSight/stargazers) [![Forks](https://img.shields.io/github/forks/Rinava/MarkSight?style=flat-square&color=blue)](https://github.com/Rinava/MarkSight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rinava/MarkSight?style=flat-square&color=yellow)](https://github.com/Rinava/MarkSight/stargazers) [![Forks](https://img.shields.io/github/forks/Rinava/MarkSight?style=flat-square&color=blue)](https://github.com/Rinava/MarkSight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Browser-only Markdown editor that packages any document into a Claude Agent Skill (SKILL.md / .skill bundle) in one click — and exposes an MCP server for Claude Code. Live preview, GFM tables, Mermaid, Prism, HTML/PDF export. No account, 100% local. Next.js + React.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML · Documents · Frontend
 
 ## 📝 Summary
 
@@ -114,11 +114,11 @@ Rinava/MarkSight 的生产可用性很高，主要原因是：
 | forks | 27/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

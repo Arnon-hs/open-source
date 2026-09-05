@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend
+Orchestration · MCP · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ iamtouchskyer/memex：iamtouchskyer/memex helps turn isolated prompts and tools 
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

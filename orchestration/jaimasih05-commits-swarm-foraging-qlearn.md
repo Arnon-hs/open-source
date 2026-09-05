@@ -1,6 +1,6 @@
 # jaimasih05-commits/swarm-foraging-qlearn
 
-[![Stars](https://img.shields.io/github/stars/jaimasih05-commits/swarm-foraging-qlearn?style=flat-square&color=yellow)](https://github.com/jaimasih05-commits/swarm-foraging-qlearn/stargazers) [![Forks](https://img.shields.io/github/forks/jaimasih05-commits/swarm-foraging-qlearn?style=flat-square&color=blue)](https://github.com/jaimasih05-commits/swarm-foraging-qlearn/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaimasih05-commits/swarm-foraging-qlearn?style=flat-square&color=yellow)](https://github.com/jaimasih05-commits/swarm-foraging-qlearn/stargazers) [![Forks](https://img.shields.io/github/forks/jaimasih05-commits/swarm-foraging-qlearn?style=flat-square&color=blue)](https://github.com/jaimasih05-commits/swarm-foraging-qlearn/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ Overall, *swarm‑foraging‑qlearn* is well‑suited for internal prototypes, r
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

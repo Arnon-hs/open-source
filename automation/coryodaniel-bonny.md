@@ -1,6 +1,6 @@
 # coryodaniel/bonny
 
-[![Stars](https://img.shields.io/github/stars/coryodaniel/bonny?style=flat-square&color=yellow)](https://github.com/coryodaniel/bonny/stargazers) [![Forks](https://img.shields.io/github/forks/coryodaniel/bonny?style=flat-square&color=blue)](https://github.com/coryodaniel/bonny/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coryodaniel/bonny?style=flat-square&color=yellow)](https://github.com/coryodaniel/bonny/stargazers) [![Forks](https://img.shields.io/github/forks/coryodaniel/bonny?style=flat-square&color=blue)](https://github.com/coryodaniel/bonny/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The Elixir based Kubernetes Development Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Bonny 是一个基于 Elixir 的 Kubernetes 开发框架，旨在把繁琐的手
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

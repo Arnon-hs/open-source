@@ -1,6 +1,6 @@
 # marcominerva/SqlDatabaseVectorSearch
 
-[![Stars](https://img.shields.io/github/stars/marcominerva/SqlDatabaseVectorSearch?style=flat-square&color=yellow)](https://github.com/marcominerva/SqlDatabaseVectorSearch/stargazers) [![Forks](https://img.shields.io/github/forks/marcominerva/SqlDatabaseVectorSearch?style=flat-square&color=blue)](https://github.com/marcominerva/SqlDatabaseVectorSearch/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcominerva/SqlDatabaseVectorSearch?style=flat-square&color=yellow)](https://github.com/marcominerva/SqlDatabaseVectorSearch/stargazers) [![Forks](https://img.shields.io/github/forks/marcominerva/SqlDatabaseVectorSearch?style=flat-square&color=blue)](https://github.com/marcominerva/SqlDatabaseVectorSearch/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A Blazor Web App and Minimal API for performing RAG (Retrieval Augmented Generation) and vector search using the native VECTOR type in Azure SQL Database and Azure OpenAI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Backend · Database
+Orchestration · Knowledge/RAG · AI/ML · Cloud & Storage · Backend
 
 ## 📝 Summary
 
@@ -135,11 +135,11 @@ marcominerva/SqlDatabaseVectorSearch 在 **原型验证** 与 **内部业务流�
 | forks | 39/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

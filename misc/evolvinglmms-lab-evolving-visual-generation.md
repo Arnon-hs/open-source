@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/Evolving-Visual-Generation
 
-[![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/Evolving-Visual-Generation?style=flat-square&color=yellow)](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation/stargazers) [![Forks](https://img.shields.io/github/forks/EvolvingLMMs-Lab/Evolving-Visual-Generation?style=flat-square&color=blue)](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/Evolving-Visual-Generation?style=flat-square&color=yellow)](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation/stargazers) [![Forks](https://img.shields.io/github/forks/EvolvingLMMs-Lab/Evolving-Visual-Generation?style=flat-square&color=blue)](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > [Roadmap] Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,11 +122,11 @@ EvolvingLMMs-Lab/Evolving-Visual-Generation 旨在探索“从原子映射到代
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 44/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 43/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

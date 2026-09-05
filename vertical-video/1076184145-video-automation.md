@@ -1,6 +1,6 @@
 # 1076184145/video-automation
 
-[![Stars](https://img.shields.io/github/stars/1076184145/video-automation?style=flat-square&color=yellow)](https://github.com/1076184145/video-automation/stargazers) [![Forks](https://img.shields.io/github/forks/1076184145/video-automation?style=flat-square&color=blue)](https://github.com/1076184145/video-automation/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1076184145/video-automation?style=flat-square&color=yellow)](https://github.com/1076184145/video-automation/stargazers) [![Forks](https://img.shields.io/github/forks/1076184145/video-automation?style=flat-square&color=blue)](https://github.com/1076184145/video-automation/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 本地AI工具，把直播/录播视频自动转成抖音、B站、YouTube Shorts，支持智能剪辑、字幕、AI封面生成
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Vertical Video · Video Editing · Automation · AI/ML
 | forks | 15/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

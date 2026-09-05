@@ -1,6 +1,6 @@
 # FelixIsaac/whatsapp-mcp-extended
 
-[![Stars](https://img.shields.io/github/stars/FelixIsaac/whatsapp-mcp-extended?style=flat-square&color=yellow)](https://github.com/FelixIsaac/whatsapp-mcp-extended/stargazers) [![Forks](https://img.shields.io/github/forks/FelixIsaac/whatsapp-mcp-extended?style=flat-square&color=blue)](https://github.com/FelixIsaac/whatsapp-mcp-extended/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FelixIsaac/whatsapp-mcp-extended?style=flat-square&color=yellow)](https://github.com/FelixIsaac/whatsapp-mcp-extended/stargazers) [![Forks](https://img.shields.io/github/forks/FelixIsaac/whatsapp-mcp-extended?style=flat-square&color=blue)](https://github.com/FelixIsaac/whatsapp-mcp-extended/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Actively maintained WhatsApp MCP — 26 tools, webhooks, anti-ban, Docker, self-healing. Drop-in for abandoned lharries/whatsapp-mcp.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ FelixIsaac/whatsapp-mcp-extended 具有高生产可用性，最近有活动，�
 | forks | 31/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

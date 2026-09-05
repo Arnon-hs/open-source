@@ -1,6 +1,6 @@
 # gokayfem/ComfyUI-fal-API
 
-[![Stars](https://img.shields.io/github/stars/gokayfem/ComfyUI-fal-API?style=flat-square&color=yellow)](https://github.com/gokayfem/ComfyUI-fal-API/stargazers) [![Forks](https://img.shields.io/github/forks/gokayfem/ComfyUI-fal-API?style=flat-square&color=blue)](https://github.com/gokayfem/ComfyUI-fal-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gokayfem/ComfyUI-fal-API?style=flat-square&color=yellow)](https://github.com/gokayfem/ComfyUI-fal-API/stargazers) [![Forks](https://img.shields.io/github/forks/gokayfem/ComfyUI-fal-API?style=flat-square&color=blue)](https://github.com/gokayfem/ComfyUI-fal-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready ComfyUI custom nodes for 1,400+ fal.ai models, auto-updated image, video, audio, LLM and VLM APIs with native media, caching and cost controls.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ gokayfem/ComfyUI-fal-API 是一个开源项目，提供了高达 1,400 多个 fa
 | forks | 44/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

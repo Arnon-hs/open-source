@@ -1,6 +1,6 @@
 # apify/apify-sdk-python
 
-[![Stars](https://img.shields.io/github/stars/apify/apify-sdk-python?style=flat-square&color=yellow)](https://github.com/apify/apify-sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/apify/apify-sdk-python?style=flat-square&color=blue)](https://github.com/apify/apify-sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apify/apify-sdk-python?style=flat-square&color=yellow)](https://github.com/apify/apify-sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/apify/apify-sdk-python?style=flat-square&color=blue)](https://github.com/apify/apify-sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Apify SDK for Python—The official library for building Apify Actors: serverless cloud programs for web scraping, browser automation, data processing, and AI agents. Manages the Actor lifecycle, storages (datasets, key-value stores, request queues), events, proxies, and pay-per-event monetization. Built on top of the the Apify API Client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Data
+Automation · Cloud & Storage · Networking · Libraries & SDKs · Data
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ Apify SDK for Python 是官方的 Python 客户端库，用于快速构建
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dgtlmoon/changedetection.io
 
-[![Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&color=yellow)](https://github.com/dgtlmoon/changedetection.io/stargazers) [![Forks](https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&color=blue)](https://github.com/dgtlmoon/changedetection.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&color=yellow)](https://github.com/dgtlmoon/changedetection.io/stargazers) [![Forks](https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&color=blue)](https://github.com/dgtlmoon/changedetection.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31.4k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ dgtlmoon/changedetection.io 是一款开源且易用的网页变更监控工具�
 | forks | 81/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 76/100 |
-| recency | 20/100 |
+| outlook | 91/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

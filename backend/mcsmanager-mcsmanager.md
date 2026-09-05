@@ -1,6 +1,6 @@
 # MCSManager/MCSManager
 
-[![Stars](https://img.shields.io/github/stars/MCSManager/MCSManager?style=flat-square&color=yellow)](https://github.com/MCSManager/MCSManager/stargazers) [![Forks](https://img.shields.io/github/forks/MCSManager/MCSManager?style=flat-square&color=blue)](https://github.com/MCSManager/MCSManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MCSManager/MCSManager?style=flat-square&color=yellow)](https://github.com/MCSManager/MCSManager/stargazers) [![Forks](https://img.shields.io/github/forks/MCSManager/MCSManager?style=flat-square&color=blue)](https://github.com/MCSManager/MCSManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 534 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ MCSManager/MCSManager 的生产可用性非常高。它拥有强大的采用和�
 | forks | 68/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

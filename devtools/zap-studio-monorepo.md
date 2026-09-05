@@ -1,6 +1,6 @@
 # zap-studio/monorepo
 
-[![Stars](https://img.shields.io/github/stars/zap-studio/monorepo?style=flat-square&color=yellow)](https://github.com/zap-studio/monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/zap-studio/monorepo?style=flat-square&color=blue)](https://github.com/zap-studio/monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zap-studio/monorepo?style=flat-square&color=yellow)](https://github.com/zap-studio/monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/zap-studio/monorepo?style=flat-square&color=blue)](https://github.com/zap-studio/monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Type-safe, framework-agnostic and composable TypeScript libraries for the web.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ zap-studio/monorepo 的生产可用性为中等（Medium）。它适合用于原
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

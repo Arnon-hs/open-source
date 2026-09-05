@@ -1,6 +1,6 @@
 # KevinKE93/Dev_Agent_OPC
 
-[![Stars](https://img.shields.io/github/stars/KevinKE93/Dev_Agent_OPC?style=flat-square&color=yellow)](https://github.com/KevinKE93/Dev_Agent_OPC/stargazers) [![Forks](https://img.shields.io/github/forks/KevinKE93/Dev_Agent_OPC?style=flat-square&color=blue)](https://github.com/KevinKE93/Dev_Agent_OPC/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KevinKE93/Dev_Agent_OPC?style=flat-square&color=yellow)](https://github.com/KevinKE93/Dev_Agent_OPC/stargazers) [![Forks](https://img.shields.io/github/forks/KevinKE93/Dev_Agent_OPC?style=flat-square&color=blue)](https://github.com/KevinKE93/Dev_Agent_OPC/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A automatic dev agent from idea → spec → design → plan → build → test → review → ship and included many roly and responsibility. Add many feature and modified for OPC or small business team. Based on @addyosmani agent-skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Design
+Orchestration · Automation · AI/ML · DevOps/Infra · Design
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ KevinKE93/Dev_Agent_OPC 是一个全链路自动化开发代理，能够把「�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Snownamida/touch-grass
 
-[![Stars](https://img.shields.io/github/stars/Snownamida/touch-grass?style=flat-square&color=yellow)](https://github.com/Snownamida/touch-grass/stargazers) [![Forks](https://img.shields.io/github/forks/Snownamida/touch-grass?style=flat-square&color=blue)](https://github.com/Snownamida/touch-grass/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Snownamida/touch-grass?style=flat-square&color=yellow)](https://github.com/Snownamida/touch-grass/stargazers) [![Forks](https://img.shields.io/github/forks/Snownamida/touch-grass?style=flat-square&color=blue)](https://github.com/Snownamida/touch-grass/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 咋还在刷 🌱 安卓短视频防沉迷：自己采样生成页面识别规则，刷短视频自动计时，超额全屏拦截请你去摸草。纯本地运行，不联网。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Snownamida/touch-grass：Snownamida/touch-grass helps automate short-form video 
 | forks | 17/100 |
 | stars | 40/100 |
 | topics | 88/100 |
-| outlook | 71/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

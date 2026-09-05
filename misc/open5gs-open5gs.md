@@ -1,6 +1,6 @@
 # open5gs/open5gs
 
-[![Stars](https://img.shields.io/github/stars/open5gs/open5gs?style=flat-square&color=yellow)](https://github.com/open5gs/open5gs/stargazers) [![Forks](https://img.shields.io/github/forks/open5gs/open5gs?style=flat-square&color=blue)](https://github.com/open5gs/open5gs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open5gs/open5gs?style=flat-square&color=yellow)](https://github.com/open5gs/open5gs/stargazers) [![Forks](https://img.shields.io/github/forks/open5gs/open5gs?style=flat-square&color=blue)](https://github.com/open5gs/open5gs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Open5GS 是用 C 语言实现的开源 5G Core 与 EPC（LTE 核心网）软件�
 | forks | 76/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

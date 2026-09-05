@@ -1,6 +1,6 @@
 # ksylvan/fabric-mcp
 
-[![Stars](https://img.shields.io/github/stars/ksylvan/fabric-mcp?style=flat-square&color=yellow)](https://github.com/ksylvan/fabric-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ksylvan/fabric-mcp?style=flat-square&color=blue)](https://github.com/ksylvan/fabric-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ksylvan/fabric-mcp?style=flat-square&color=yellow)](https://github.com/ksylvan/fabric-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ksylvan/fabric-mcp?style=flat-square&color=blue)](https://github.com/ksylvan/fabric-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Fabric MCP Server: Seamlessly integrate Fabric AI capabilities into MCP-enabled tools like IDEs and chat interfaces.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ Fabric MCP（ksylvan/fabric-mcp）是一款基于 Model Context Protocol（MCP
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 50/100 |
-| outlook | 46/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

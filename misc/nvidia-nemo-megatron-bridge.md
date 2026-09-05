@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Megatron-Bridge
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Megatron-Bridge?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/Megatron-Bridge/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/Megatron-Bridge?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/Megatron-Bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Megatron-Bridge?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/Megatron-Bridge/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/Megatron-Bridge?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/Megatron-Bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Training library for Megatron-based models with bidirectional Hugging Face conversion capability
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 775 |
 | 🍴 **Forks** | 400 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ NVIDIA-NeMo/Megatron-Bridge 的价值在于，它帮助开发者快速添加 AI 
 | forks | 65/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

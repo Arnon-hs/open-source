@@ -1,6 +1,6 @@
 # jazzband/django-axes
 
-[![Stars](https://img.shields.io/github/stars/jazzband/django-axes?style=flat-square&color=yellow)](https://github.com/jazzband/django-axes/stargazers) [![Forks](https://img.shields.io/github/forks/jazzband/django-axes?style=flat-square&color=blue)](https://github.com/jazzband/django-axes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jazzband/django-axes?style=flat-square&color=yellow)](https://github.com/jazzband/django-axes/stargazers) [![Forks](https://img.shields.io/github/forks/jazzband/django-axes?style=flat-square&color=blue)](https://github.com/jazzband/django-axes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Keep track of failed login attempts in Django-powered sites.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 365 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ jazzband/django-axes 的生产可用性非常高，主要原因是：
 | forks | 64/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # schemahero/schemahero
 
-[![Stars](https://img.shields.io/github/stars/schemahero/schemahero?style=flat-square&color=yellow)](https://github.com/schemahero/schemahero/stargazers) [![Forks](https://img.shields.io/github/forks/schemahero/schemahero?style=flat-square&color=blue)](https://github.com/schemahero/schemahero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schemahero/schemahero?style=flat-square&color=yellow)](https://github.com/schemahero/schemahero/stargazers) [![Forks](https://img.shields.io/github/forks/schemahero/schemahero?style=flat-square&color=blue)](https://github.com/schemahero/schemahero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes operator for declarative database schema management (gitops for database schemas)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ schemahero 是一个基于 Kubernetes Operator 的声明式数据库模式管理
 | forks | 50/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

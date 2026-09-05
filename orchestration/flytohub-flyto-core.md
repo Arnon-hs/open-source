@@ -1,6 +1,6 @@
 # flytohub/flyto-core
 
-[![Stars](https://img.shields.io/github/stars/flytohub/flyto-core?style=flat-square&color=yellow)](https://github.com/flytohub/flyto-core/stargazers) [![Forks](https://img.shields.io/github/forks/flytohub/flyto-core?style=flat-square&color=blue)](https://github.com/flytohub/flyto-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flytohub/flyto-core?style=flat-square&color=yellow)](https://github.com/flytohub/flyto-core/stargazers) [![Forks](https://img.shields.io/github/forks/flytohub/flyto-core?style=flat-square&color=blue)](https://github.com/flytohub/flyto-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source execution engine for AI agents. 412 modules, MCP-native, triggers, queue, versioning, metering.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ flytohub/flyto‑core 是一款面向 AI 代理的开源执行引擎，内置 41
 | forks | 42/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

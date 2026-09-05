@@ -1,6 +1,6 @@
 # instructa/browser-echo
 
-[![Stars](https://img.shields.io/github/stars/instructa/browser-echo?style=flat-square&color=yellow)](https://github.com/instructa/browser-echo/stargazers) [![Forks](https://img.shields.io/github/forks/instructa/browser-echo?style=flat-square&color=blue)](https://github.com/instructa/browser-echo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/instructa/browser-echo?style=flat-square&color=yellow)](https://github.com/instructa/browser-echo/stargazers) [![Forks](https://img.shields.io/github/forks/instructa/browser-echo?style=flat-square&color=blue)](https://github.com/instructa/browser-echo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Stream browser logs to terminal, zero setup, perfect for Ai Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ instructa/browser-echo 是一款零配置的 TypeScript 工具，能够实时把
 | forks | 29/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

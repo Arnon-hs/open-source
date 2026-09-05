@@ -1,6 +1,6 @@
 # Kaelio/ktx
 
-[![Stars](https://img.shields.io/github/stars/Kaelio/ktx?style=flat-square&color=yellow)](https://github.com/Kaelio/ktx/stargazers) [![Forks](https://img.shields.io/github/forks/Kaelio/ktx?style=flat-square&color=blue)](https://github.com/Kaelio/ktx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kaelio/ktx?style=flat-square&color=yellow)](https://github.com/Kaelio/ktx/stargazers) [![Forks](https://img.shields.io/github/forks/Kaelio/ktx?style=flat-square&color=blue)](https://github.com/Kaelio/ktx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query data accurately and with full context of your company
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Kaelio/ktx：Kaelio/ktx helps turn isolated prompts and tools into repeatable ag
 | forks | 47/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

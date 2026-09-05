@@ -1,6 +1,6 @@
 # nuxt/scripts
 
-[![Stars](https://img.shields.io/github/stars/nuxt/scripts?style=flat-square&color=yellow)](https://github.com/nuxt/scripts/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/scripts?style=flat-square&color=blue)](https://github.com/nuxt/scripts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt/scripts?style=flat-square&color=yellow)](https://github.com/nuxt/scripts/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/scripts?style=flat-square&color=blue)](https://github.com/nuxt/scripts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Third-Party Scripts Meets Nuxt Developer Experience.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 578 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ nuxt/scripts 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 49/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

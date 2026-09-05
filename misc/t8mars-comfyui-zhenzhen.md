@@ -1,6 +1,6 @@
 # T8mars/Comfyui-zhenzhen
 
-[![Stars](https://img.shields.io/github/stars/T8mars/Comfyui-zhenzhen?style=flat-square&color=yellow)](https://github.com/T8mars/Comfyui-zhenzhen/stargazers) [![Forks](https://img.shields.io/github/forks/T8mars/Comfyui-zhenzhen?style=flat-square&color=blue)](https://github.com/T8mars/Comfyui-zhenzhen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/T8mars/Comfyui-zhenzhen?style=flat-square&color=yellow)](https://github.com/T8mars/Comfyui-zhenzhen/stargazers) [![Forks](https://img.shields.io/github/forks/T8mars/Comfyui-zhenzhen?style=flat-square&color=blue)](https://github.com/T8mars/Comfyui-zhenzhen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > https://ai.t8star.org/register?aff=dP7j Comfyui的各种平价API调用节点，支持seedance2.0（满血版，支持真人，不排队）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 565 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ T8mars/Comfyui‑zhenzhen 为 ComfyUI 提供了一套「平价」的 API 调用�
 | forks | 41/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

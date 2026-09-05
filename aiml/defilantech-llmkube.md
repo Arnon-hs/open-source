@@ -1,6 +1,6 @@
 # defilantech/LLMKube
 
-[![Stars](https://img.shields.io/github/stars/defilantech/LLMKube?style=flat-square&color=yellow)](https://github.com/defilantech/LLMKube/stargazers) [![Forks](https://img.shields.io/github/forks/defilantech/LLMKube?style=flat-square&color=blue)](https://github.com/defilantech/LLMKube/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/defilantech/LLMKube?style=flat-square&color=yellow)](https://github.com/defilantech/LLMKube/stargazers) [![Forks](https://img.shields.io/github/forks/defilantech/LLMKube?style=flat-square&color=blue)](https://github.com/defilantech/LLMKube/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU, autoscaling, air-gapped, production-ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML · Games & Graphics · DevOps/Infra
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ defilantech/LLMKube 是一款基于 Go 实现的 Kubernetes Operator，能够在
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

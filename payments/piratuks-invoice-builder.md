@@ -1,6 +1,6 @@
 # piratuks/invoice-builder
 
-[![Stars](https://img.shields.io/github/stars/piratuks/invoice-builder?style=flat-square&color=yellow)](https://github.com/piratuks/invoice-builder/stargazers) [![Forks](https://img.shields.io/github/forks/piratuks/invoice-builder?style=flat-square&color=blue)](https://github.com/piratuks/invoice-builder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/piratuks/invoice-builder?style=flat-square&color=yellow)](https://github.com/piratuks/invoice-builder/stargazers) [![Forks](https://img.shields.io/github/forks/piratuks/invoice-builder?style=flat-square&color=blue)](https://github.com/piratuks/invoice-builder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 463 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Payments · Database
+Payments · Documents · Productivity · Database
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ piratuks/invoice-builder 的生产可用性为中等。它适用于原型或内�
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

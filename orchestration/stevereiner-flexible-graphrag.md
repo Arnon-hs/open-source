@@ -1,6 +1,6 @@
 # stevereiner/flexible-graphrag
 
-[![Stars](https://img.shields.io/github/stars/stevereiner/flexible-graphrag?style=flat-square&color=yellow)](https://github.com/stevereiner/flexible-graphrag/stargazers) [![Forks](https://img.shields.io/github/forks/stevereiner/flexible-graphrag?style=flat-square&color=blue)](https://github.com/stevereiner/flexible-graphrag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stevereiner/flexible-graphrag?style=flat-square&color=yellow)](https://github.com/stevereiner/flexible-graphrag/stargazers) [![Forks](https://img.shields.io/github/forks/stevereiner/flexible-graphrag?style=flat-square&color=blue)](https://github.com/stevereiner/flexible-graphrag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Python, LlamaIndex, LangChain, Docker Compose: 8 PG Graph, 3 RDF Graph, 10 Vector, OpenSearch, Elasticsearch, Alfresco DBs. 13 data sources (9 auto-sync), KG auto-building, Ontologies, LLMs, Docling or LlamaParse doc processing, GraphRAG, RAG only, Hybrid Search, AI Chat. TypeScript React, Vue, Angular frontends, FastAPI REST backend, MCP Server🌟!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -125,11 +125,11 @@ Overall, flexible‑graphrag is mature enough for a pilot in production environm
 | forks | 36/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

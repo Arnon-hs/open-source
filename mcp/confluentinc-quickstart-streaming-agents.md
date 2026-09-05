@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML
+MCP · Knowledge/RAG · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ confluentinc/quickstart-streaming-agents：confluentinc/quickstart-streaming-age
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tonkotsuboy/github-upload-image-to-pr
 
-[![Stars](https://img.shields.io/github/stars/tonkotsuboy/github-upload-image-to-pr?style=flat-square&color=yellow)](https://github.com/tonkotsuboy/github-upload-image-to-pr/stargazers) [![Forks](https://img.shields.io/github/forks/tonkotsuboy/github-upload-image-to-pr?style=flat-square&color=blue)](https://github.com/tonkotsuboy/github-upload-image-to-pr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonkotsuboy/github-upload-image-to-pr?style=flat-square&color=yellow)](https://github.com/tonkotsuboy/github-upload-image-to-pr/stargazers) [![Forks](https://img.shields.io/github/forks/tonkotsuboy/github-upload-image-to-pr?style=flat-square&color=blue)](https://github.com/tonkotsuboy/github-upload-image-to-pr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skill(e.g., Claude Code, Codex): Upload local images to a GitHub PR and embed them in the description or comments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ tonkotsuboy/github-upload-image-to-pr 是一个 AI Agent 技能插件，能够�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 13/100 |
-| outlook | 43/100 |
-| quality | 39/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

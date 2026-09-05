@@ -1,6 +1,6 @@
 # jacobdjwilson/awesome-annual-security-reports
 
-[![Stars](https://img.shields.io/github/stars/jacobdjwilson/awesome-annual-security-reports?style=flat-square&color=yellow)](https://github.com/jacobdjwilson/awesome-annual-security-reports/stargazers) [![Forks](https://img.shields.io/github/forks/jacobdjwilson/awesome-annual-security-reports?style=flat-square&color=blue)](https://github.com/jacobdjwilson/awesome-annual-security-reports/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jacobdjwilson/awesome-annual-security-reports?style=flat-square&color=yellow)](https://github.com/jacobdjwilson/awesome-annual-security-reports/stargazers) [![Forks](https://img.shields.io/github/forks/jacobdjwilson/awesome-annual-security-reports?style=flat-square&color=blue)](https://github.com/jacobdjwilson/awesome-annual-security-reports/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of annual cyber security reports
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ jacobdjwilson/awesome-annual-security-reports 的价值在于帮助开发者加�
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

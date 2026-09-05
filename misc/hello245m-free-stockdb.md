@@ -1,6 +1,6 @@
 # hello245m/free-stockdb
 
-[![Stars](https://img.shields.io/github/stars/hello245m/free-stockdb?style=flat-square&color=yellow)](https://github.com/hello245m/free-stockdb/stargazers) [![Forks](https://img.shields.io/github/forks/hello245m/free-stockdb?style=flat-square&color=blue)](https://github.com/hello245m/free-stockdb/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hello245m/free-stockdb?style=flat-square&color=yellow)](https://github.com/hello245m/free-stockdb/stargazers) [![Forks](https://img.shields.io/github/forks/hello245m/free-stockdb?style=flat-square&color=blue)](https://github.com/hello245m/free-stockdb/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 每日更新！免费股票日k、分时k线数据，etf分钟数据，截至到2026-07月最新数据，含全沪京深7000+股票
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ hello245m/free-stockdb 的生产可用性为中等，适合用于原型设计和
 | forks | 47/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

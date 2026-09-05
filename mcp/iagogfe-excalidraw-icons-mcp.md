@@ -1,6 +1,6 @@
 # iagogfe/excalidraw-icons-mcp
 
-[![Stars](https://img.shields.io/github/stars/iagogfe/excalidraw-icons-mcp?style=flat-square&color=yellow)](https://github.com/iagogfe/excalidraw-icons-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/iagogfe/excalidraw-icons-mcp?style=flat-square&color=blue)](https://github.com/iagogfe/excalidraw-icons-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iagogfe/excalidraw-icons-mcp?style=flat-square&color=yellow)](https://github.com/iagogfe/excalidraw-icons-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/iagogfe/excalidraw-icons-mcp?style=flat-square&color=blue)](https://github.com/iagogfe/excalidraw-icons-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Excalidraw MCP server with real vendor-icon search & insertion (AWS/Azure/GCP/OCI/Kubernetes) for AI-built architecture diagrams — live canvas, 31 tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevOps/Infra · Design
+MCP · AI/ML · Cloud & Storage · DevOps/Infra · Design
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ iagogfe/excalidraw-icons-mcp 是一个开源项目，提供了基于 Excalidraw 
 | forks | 8/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

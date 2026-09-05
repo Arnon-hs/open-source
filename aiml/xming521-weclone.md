@@ -1,6 +1,6 @@
 # xming521/WeClone
 
-[![Stars](https://img.shields.io/github/stars/xming521/WeClone?style=flat-square&color=yellow)](https://github.com/xming521/WeClone/stargazers) [![Forks](https://img.shields.io/github/forks/xming521/WeClone?style=flat-square&color=blue)](https://github.com/xming521/WeClone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xming521/WeClone?style=flat-square&color=yellow)](https://github.com/xming521/WeClone/stargazers) [![Forks](https://img.shields.io/github/forks/xming521/WeClone?style=flat-square&color=blue)](https://github.com/xming521/WeClone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Observability
+AI/ML · Communication · Observability
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ xming521/WeClone：xming521/WeClone helps remove repetitive manual operations fr
 | forks | 80/100 |
 | stars | 91/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

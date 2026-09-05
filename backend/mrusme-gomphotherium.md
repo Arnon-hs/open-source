@@ -1,6 +1,6 @@
 # mrusme/gomphotherium
 
-[![Stars](https://img.shields.io/github/stars/mrusme/gomphotherium?style=flat-square&color=yellow)](https://github.com/mrusme/gomphotherium/stargazers) [![Forks](https://img.shields.io/github/forks/mrusme/gomphotherium?style=flat-square&color=blue)](https://github.com/mrusme/gomphotherium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrusme/gomphotherium?style=flat-square&color=yellow)](https://github.com/mrusme/gomphotherium/stargazers) [![Forks](https://img.shields.io/github/forks/mrusme/gomphotherium?style=flat-square&color=blue)](https://github.com/mrusme/gomphotherium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Gomphotherium (/ˌɡɒmfəˈθɪəriəm/; "welded beast"), a command line Mastodon  client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ mrusme/gomphotherium 的生产可用性非常高，具有以下特点：
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

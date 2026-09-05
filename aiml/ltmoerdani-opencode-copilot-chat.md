@@ -1,6 +1,6 @@
 # ltmoerdani/opencode-copilot-chat
 
-[![Stars](https://img.shields.io/github/stars/ltmoerdani/opencode-copilot-chat?style=flat-square&color=yellow)](https://github.com/ltmoerdani/opencode-copilot-chat/stargazers) [![Forks](https://img.shields.io/github/forks/ltmoerdani/opencode-copilot-chat?style=flat-square&color=blue)](https://github.com/ltmoerdani/opencode-copilot-chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ltmoerdani/opencode-copilot-chat?style=flat-square&color=yellow)](https://github.com/ltmoerdani/opencode-copilot-chat/stargazers) [![Forks](https://img.shields.io/github/forks/ltmoerdani/opencode-copilot-chat?style=flat-square&color=blue)](https://github.com/ltmoerdani/opencode-copilot-chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Use 30+ AI models (DeepSeek, Kimi, GLM, Claude, GPT-5.5, Gemini, Grok) in GitHub Copilot Chat — free via BYOK. No Copilot Pro needed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ ltmoerdani/opencode‑copilot‑chat 为团队提供“一键即用”的多模�
 | forks | 28/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

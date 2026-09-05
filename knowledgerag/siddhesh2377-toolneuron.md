@@ -1,6 +1,6 @@
 # Siddhesh2377/ToolNeuron
 
-[![Stars](https://img.shields.io/github/stars/Siddhesh2377/ToolNeuron?style=flat-square&color=yellow)](https://github.com/Siddhesh2377/ToolNeuron/stargazers) [![Forks](https://img.shields.io/github/forks/Siddhesh2377/ToolNeuron?style=flat-square&color=blue)](https://github.com/Siddhesh2377/ToolNeuron/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Siddhesh2377/ToolNeuron?style=flat-square&color=yellow)](https://github.com/Siddhesh2377/ToolNeuron/stargazers) [![Forks](https://img.shields.io/github/forks/Siddhesh2377/ToolNeuron?style=flat-square&color=blue)](https://github.com/Siddhesh2377/ToolNeuron/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > On-device AI for Android — LLM chat (GGUF/llama.cpp), vision models (VLM), image generation (Stable Diffusion), tool calling, AI personas, RAG knowledge packs, TTS/STT. Fully offline, zero subscriptions, open-source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 393 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Mobile
+Knowledge/RAG · AI/ML · Communication · Mobile
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ ToolNeuron 为 Android 端提供了一站式离线 AI 能力，能够在支付�
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

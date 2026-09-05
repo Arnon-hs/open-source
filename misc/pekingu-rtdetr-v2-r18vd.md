@@ -1,6 +1,6 @@
 # PekingU/rtdetr_v2_r18vd
 
-[![Stars](https://img.shields.io/github/stars/PekingU/rtdetr_v2_r18vd?style=flat-square&color=yellow)](https://huggingface.co/PekingU/rtdetr_v2_r18vd/stargazers) [![Forks](https://img.shields.io/github/forks/PekingU/rtdetr_v2_r18vd?style=flat-square&color=blue)](https://huggingface.co/PekingU/rtdetr_v2_r18vd/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PekingU/rtdetr_v2_r18vd?style=flat-square&color=yellow)](https://huggingface.co/PekingU/rtdetr_v2_r18vd/stargazers) [![Forks](https://img.shields.io/github/forks/PekingU/rtdetr_v2_r18vd?style=flat-square&color=blue)](https://huggingface.co/PekingU/rtdetr_v2_r18vd/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Object detection (object-detection) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 32/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ PekingU/rtdetr_v2_r18vd 是一个基于 Hugging Face 的对象检测（object-de
 | forks | 0/100 |
 | stars | 19/100 |
 | topics | 38/100 |
-| outlook | 30/100 |
-| quality | 27/100 |
-| recency | 20/100 |
+| outlook | 51/100 |
+| quality | 42/100 |
+| recency | 80/100 |
 | adoption | 14/100 |
-| production | 33/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # mysticaltech/terraform-hcloud-kube-hetzner
 
-[![Stars](https://img.shields.io/github/stars/mysticaltech/terraform-hcloud-kube-hetzner?style=flat-square&color=yellow)](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/stargazers) [![Forks](https://img.shields.io/github/forks/mysticaltech/terraform-hcloud-kube-hetzner?style=flat-square&color=blue)](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mysticaltech/terraform-hcloud-kube-hetzner?style=flat-square&color=yellow)](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/stargazers) [![Forks](https://img.shields.io/github/forks/mysticaltech/terraform-hcloud-kube-hetzner?style=flat-square&color=blue)](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 552 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ mysticaltech/terraform-hcloud-kube-hetzner 是一个基于 Terraform 的一键�
 | forks | 69/100 |
 | stars | 76/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

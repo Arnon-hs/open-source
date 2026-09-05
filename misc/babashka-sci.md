@@ -1,6 +1,6 @@
 # babashka/sci
 
-[![Stars](https://img.shields.io/github/stars/babashka/sci?style=flat-square&color=yellow)](https://github.com/babashka/sci/stargazers) [![Forks](https://img.shields.io/github/forks/babashka/sci?style=flat-square&color=blue)](https://github.com/babashka/sci/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/babashka/sci?style=flat-square&color=yellow)](https://github.com/babashka/sci/stargazers) [![Forks](https://img.shields.io/github/forks/babashka/sci?style=flat-square&color=blue)](https://github.com/babashka/sci/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Babashka/Sci 的生产可用性为中等。它适合用于原型或内部流程�
 | forks | 50/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

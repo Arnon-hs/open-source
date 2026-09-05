@@ -1,6 +1,6 @@
 # anshulforyou/grandma
 
-[![Stars](https://img.shields.io/github/stars/anshulforyou/grandma?style=flat-square&color=yellow)](https://github.com/anshulforyou/grandma/stargazers) [![Forks](https://img.shields.io/github/forks/anshulforyou/grandma?style=flat-square&color=blue)](https://github.com/anshulforyou/grandma/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anshulforyou/grandma?style=flat-square&color=yellow)](https://github.com/anshulforyou/grandma/stargazers) [![Forks](https://img.shields.io/github/forks/anshulforyou/grandma?style=flat-square&color=blue)](https://github.com/anshulforyou/grandma/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A memory layer for Claude Code that learns as you work. Persistent, per-context memory as plain markdown in your own git repo. No server, no telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ anshulforyou/grandma 是一个开源项目，用于为 Claude Code 添加持久�
 | forks | 25/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

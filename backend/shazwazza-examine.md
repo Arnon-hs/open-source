@@ -1,6 +1,6 @@
 # Shazwazza/Examine
 
-[![Stars](https://img.shields.io/github/stars/Shazwazza/Examine?style=flat-square&color=yellow)](https://github.com/Shazwazza/Examine/stargazers) [![Forks](https://img.shields.io/github/forks/Shazwazza/Examine?style=flat-square&color=blue)](https://github.com/Shazwazza/Examine/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shazwazza/Examine?style=flat-square&color=yellow)](https://github.com/Shazwazza/Examine/stargazers) [![Forks](https://img.shields.io/github/forks/Shazwazza/Examine?style=flat-square&color=blue)](https://github.com/Shazwazza/Examine/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A .NET indexing and search engine powered by Lucene.Net
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Shazwazza/Examine 的生产可用性较高，主要原因是:
 | forks | 53/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

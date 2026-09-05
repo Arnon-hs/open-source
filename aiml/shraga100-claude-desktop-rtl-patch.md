@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -35,17 +35,15 @@ The **claude-desktop-rtl-patch** provides a simple CSS modification that adds ri
 
 ### 中文
 
-shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** shraga100/claude-desktop-rtl-patch helps add AI capability without starting from a blank model stack.
+**Value:** shraga100/claude-desktop-rtl-patch may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch helps ad
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 43/100 |
-| adoption | 29/100 |
-| stars | 31/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 31/100 |
 | topics | 75/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

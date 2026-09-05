@@ -1,6 +1,6 @@
 # aws/aws-secretsmanager-agent
 
-[![Stars](https://img.shields.io/github/stars/aws/aws-secretsmanager-agent?style=flat-square&color=yellow)](https://github.com/aws/aws-secretsmanager-agent/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-secretsmanager-agent?style=flat-square&color=blue)](https://github.com/aws/aws-secretsmanager-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/aws-secretsmanager-agent?style=flat-square&color=yellow)](https://github.com/aws/aws-secretsmanager-agent/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-secretsmanager-agent?style=flat-square&color=blue)](https://github.com/aws/aws-secretsmanager-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 656 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -134,15 +134,15 @@ AWS Secrets Manager Agent 为本地计算环境提供了一个轻量级的 HTTP 
 | forks | 40/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

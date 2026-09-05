@@ -1,6 +1,6 @@
 # d4rken-org/capod
 
-[![Stars](https://img.shields.io/github/stars/d4rken-org/capod?style=flat-square&color=yellow)](https://github.com/d4rken-org/capod/stargazers) [![Forks](https://img.shields.io/github/forks/d4rken-org/capod?style=flat-square&color=blue)](https://github.com/d4rken-org/capod/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d4rken-org/capod?style=flat-square&color=yellow)](https://github.com/d4rken-org/capod/stargazers) [![Forks](https://img.shields.io/github/forks/d4rken-org/capod?style=flat-square&color=blue)](https://github.com/d4rken-org/capod/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A companion app for AirPods on Android.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ d4rken-org/capod 的生产可用性为中等，适合用于原型开发或内部
 | forks | 55/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

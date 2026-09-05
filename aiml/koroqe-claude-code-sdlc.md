@@ -1,6 +1,6 @@
 # Koroqe/claude-code-sdlc
 
-[![Stars](https://img.shields.io/github/stars/Koroqe/claude-code-sdlc?style=flat-square&color=yellow)](https://github.com/Koroqe/claude-code-sdlc/stargazers) [![Forks](https://img.shields.io/github/forks/Koroqe/claude-code-sdlc?style=flat-square&color=blue)](https://github.com/Koroqe/claude-code-sdlc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Koroqe/claude-code-sdlc?style=flat-square&color=yellow)](https://github.com/Koroqe/claude-code-sdlc/stargazers) [![Forks](https://img.shields.io/github/forks/Koroqe/claude-code-sdlc?style=flat-square&color=blue)](https://github.com/Koroqe/claude-code-sdlc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Turn Claude Code into a full dev team — 13 AI agents, documentation-first pipeline, TDD enforcement
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ Koroqe/claude-code-sdlc 通过在 Claude Code 上构建 13 个 AI 代理、文�
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

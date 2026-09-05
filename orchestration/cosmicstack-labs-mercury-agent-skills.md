@@ -1,6 +1,6 @@
 # cosmicstack-labs/mercury-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent-skills?style=flat-square&color=yellow)](https://github.com/cosmicstack-labs/mercury-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent-skills?style=flat-square&color=blue)](https://github.com/cosmicstack-labs/mercury-agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent-skills?style=flat-square&color=yellow)](https://github.com/cosmicstack-labs/mercury-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent-skills?style=flat-square&color=blue)](https://github.com/cosmicstack-labs/mercury-agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -129,11 +129,11 @@ cosmicstack‑labs/mercury-agent-skills 提供了一套经过精选、可直接�
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 46/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

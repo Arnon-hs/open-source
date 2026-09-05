@@ -1,6 +1,6 @@
 # 1Panel-dev/CordysCRM
 
-[![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM?style=flat-square&color=yellow)](https://github.com/1Panel-dev/CordysCRM/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/CordysCRM?style=flat-square&color=blue)](https://github.com/1Panel-dev/CordysCRM/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM?style=flat-square&color=yellow)](https://github.com/1Panel-dev/CordysCRM/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/CordysCRM?style=flat-square&color=blue)](https://github.com/1Panel-dev/CordysCRM/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 467 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Cordys 是飞致云打造的下一代开源 AI CRM 系统，深度融合信息�
 | forks | 67/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

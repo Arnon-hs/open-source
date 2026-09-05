@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG
+Knowledge/RAG · Documents
 
 ## 📝 Summary
 
@@ -73,7 +73,7 @@ Why PDF extraction for RAG breaks, and one approach to make it verifiable：Why 
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

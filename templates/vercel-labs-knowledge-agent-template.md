@@ -1,6 +1,6 @@
 # vercel-labs/knowledge-agent-template
 
-[![Stars](https://img.shields.io/github/stars/vercel-labs/knowledge-agent-template?style=flat-square&color=yellow)](https://github.com/vercel-labs/knowledge-agent-template/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/knowledge-agent-template?style=flat-square&color=blue)](https://github.com/vercel-labs/knowledge-agent-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel-labs/knowledge-agent-template?style=flat-square&color=yellow)](https://github.com/vercel-labs/knowledge-agent-template/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/knowledge-agent-template?style=flat-square&color=blue)](https://github.com/vercel-labs/knowledge-agent-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 761 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ vercel‑labs/knowledge-agent-template 是一个基于文件系统的知识库�
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

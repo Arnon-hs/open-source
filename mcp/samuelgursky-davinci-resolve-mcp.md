@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,6 +78,7 @@ samuelgursky/davinci-resolve-mcp：samuelgursky/davinci-resolve-mcp helps connec
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

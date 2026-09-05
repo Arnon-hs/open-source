@@ -1,6 +1,6 @@
 # Lyellr88/MARM-Systems
 
-[![Stars](https://img.shields.io/github/stars/Lyellr88/MARM-Systems?style=flat-square&color=yellow)](https://github.com/Lyellr88/MARM-Systems/stargazers) [![Forks](https://img.shields.io/github/forks/Lyellr88/MARM-Systems?style=flat-square&color=blue)](https://github.com/Lyellr88/MARM-Systems/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lyellr88/MARM-Systems?style=flat-square&color=yellow)](https://github.com/Lyellr88/MARM-Systems/stargazers) [![Forks](https://img.shields.io/github/forks/Lyellr88/MARM-Systems?style=flat-square&color=blue)](https://github.com/Lyellr88/MARM-Systems/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Stop re-explaining yourself to AI. MARM offers persistent memory, cross-agent context sharing, write queues, swarm-ready presets, and compaction for clean recall. Includes a live web dashboard for managing memories, logs, and sessions. MCP connects over HTTP & STDIO and works with major LLMs like Claude, Codex, Grok, Gemini, and other models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Lyellr88/MARM-Systems 为大模型提供持久记忆、跨代理上下文共享�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 63/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

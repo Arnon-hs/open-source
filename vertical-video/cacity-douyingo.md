@@ -1,6 +1,6 @@
 # cacity/DouyinGo
 
-[![Stars](https://img.shields.io/github/stars/cacity/DouyinGo?style=flat-square&color=yellow)](https://github.com/cacity/DouyinGo/stargazers) [![Forks](https://img.shields.io/github/forks/cacity/DouyinGo?style=flat-square&color=blue)](https://github.com/cacity/DouyinGo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cacity/DouyinGo?style=flat-square&color=yellow)](https://github.com/cacity/DouyinGo/stargazers) [![Forks](https://img.shields.io/github/forks/cacity/DouyinGo?style=flat-square&color=blue)](https://github.com/cacity/DouyinGo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight Douyin (TikTok China) video downloader with PyQt5 GUI   轻量级抖音视频下载器 - 支持无水印下载、图片集下载。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Vertical Video
+Vertical Video · Productivity
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ cacity/DouyinGo：cacity/DouyinGo helps automate short-form video production and
 | forks | 27/100 |
 | stars | 37/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

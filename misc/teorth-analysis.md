@@ -1,6 +1,6 @@
 # teorth/analysis
 
-[![Stars](https://img.shields.io/github/stars/teorth/analysis?style=flat-square&color=yellow)](https://github.com/teorth/analysis/stargazers) [![Forks](https://img.shields.io/github/forks/teorth/analysis?style=flat-square&color=blue)](https://github.com/teorth/analysis/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teorth/analysis?style=flat-square&color=yellow)](https://github.com/teorth/analysis/stargazers) [![Forks](https://img.shields.io/github/forks/teorth/analysis?style=flat-square&color=blue)](https://github.com/teorth/analysis/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A Lean companion to Analysis I
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Lean |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,11 +75,11 @@ teorth/analysis 是一个开源项目，旨在作为分析第一学期的 Lean c
 | forks | 60/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

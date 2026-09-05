@@ -1,6 +1,6 @@
 # xemle/home-gallery
 
-[![Stars](https://img.shields.io/github/stars/xemle/home-gallery?style=flat-square&color=yellow)](https://github.com/xemle/home-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/xemle/home-gallery?style=flat-square&color=blue)](https://github.com/xemle/home-gallery/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xemle/home-gallery?style=flat-square&color=yellow)](https://github.com/xemle/home-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/xemle/home-gallery?style=flat-square&color=blue)](https://github.com/xemle/home-gallery/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ xemle/home‑gallery 是一款自托管的开源 Web 相册，除了提供移动
 | forks | 50/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

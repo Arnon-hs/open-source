@@ -1,6 +1,6 @@
 # TousstNicolas/JLC2KiCad_lib
 
-[![Stars](https://img.shields.io/github/stars/TousstNicolas/JLC2KiCad_lib?style=flat-square&color=yellow)](https://github.com/TousstNicolas/JLC2KiCad_lib/stargazers) [![Forks](https://img.shields.io/github/forks/TousstNicolas/JLC2KiCad_lib?style=flat-square&color=blue)](https://github.com/TousstNicolas/JLC2KiCad_lib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TousstNicolas/JLC2KiCad_lib?style=flat-square&color=yellow)](https://github.com/TousstNicolas/JLC2KiCad_lib/stargazers) [![Forks](https://img.shields.io/github/forks/TousstNicolas/JLC2KiCad_lib?style=flat-square&color=blue)](https://github.com/TousstNicolas/JLC2KiCad_lib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > JLC2KICAD_lib is a python script that generate a component library (schematic, footprint and 3D model ) for KiCad from the JLCPCB/easyEDA library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ TousstNicolas/JLC2KiCad_lib 是一个 Python 脚本，用于从 JLCPCB/easyEDA �
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

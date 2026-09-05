@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 374 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ shakacode/react-webpack-rails-tutorial：shakacode/react-webpack-rails-tutorial 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

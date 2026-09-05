@@ -1,6 +1,6 @@
 # khoj-ai/khoj
 
-[![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square&color=yellow)](https://github.com/khoj-ai/khoj/stargazers) [![Forks](https://img.shields.io/github/forks/khoj-ai/khoj?style=flat-square&color=blue)](https://github.com/khoj-ai/khoj/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square&color=yellow)](https://github.com/khoj-ai/khoj/stargazers) [![Forks](https://img.shields.io/github/forks/khoj-ai/khoj?style=flat-square&color=blue)](https://github.com/khoj-ai/khoj/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35.3k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · Automation · AI/ML · Communication · Productivity
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ khoj‑ai/khoj 将内部文档、网页、代码库等知识资产统一索引�
 | forks | 84/100 |
 | stars | 97/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 91/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # prof18/feed-flow
 
-[![Stars](https://img.shields.io/github/stars/prof18/feed-flow?style=flat-square&color=yellow)](https://github.com/prof18/feed-flow/stargazers) [![Forks](https://img.shields.io/github/forks/prof18/feed-flow?style=flat-square&color=blue)](https://github.com/prof18/feed-flow/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prof18/feed-flow?style=flat-square&color=yellow)](https://github.com/prof18/feed-flow/stargazers) [![Forks](https://img.shields.io/github/forks/prof18/feed-flow?style=flat-square&color=blue)](https://github.com/prof18/feed-flow/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 958 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ FeedFlow 是一款跨平台的极简 RSS 阅读器，支持 Android、iOS、macO
 | forks | 43/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

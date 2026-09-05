@@ -1,6 +1,6 @@
 # FalkorDB/FalkorDB-MCPServer
 
-[![Stars](https://img.shields.io/github/stars/FalkorDB/FalkorDB-MCPServer?style=flat-square&color=yellow)](https://github.com/FalkorDB/FalkorDB-MCPServer/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/FalkorDB-MCPServer?style=flat-square&color=blue)](https://github.com/FalkorDB/FalkorDB-MCPServer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FalkorDB/FalkorDB-MCPServer?style=flat-square&color=yellow)](https://github.com/FalkorDB/FalkorDB-MCPServer/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/FalkorDB-MCPServer?style=flat-square&color=blue)](https://github.com/FalkorDB/FalkorDB-MCPServer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > FalkorDB-MCPServer is an MCP (Model Context Protocol) server that connects LLMs to FalkorDB
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ FalkorDB‑MCPServer 是一个实现 Model Context Protocol（MCP）的服务器
 | forks | 31/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 48/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

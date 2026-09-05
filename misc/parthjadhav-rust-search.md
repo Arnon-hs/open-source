@@ -1,6 +1,6 @@
 # ParthJadhav/Rust_Search
 
-[![Stars](https://img.shields.io/github/stars/ParthJadhav/Rust_Search?style=flat-square&color=yellow)](https://github.com/ParthJadhav/Rust_Search/stargazers) [![Forks](https://img.shields.io/github/forks/ParthJadhav/Rust_Search?style=flat-square&color=blue)](https://github.com/ParthJadhav/Rust_Search/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ParthJadhav/Rust_Search?style=flat-square&color=yellow)](https://github.com/ParthJadhav/Rust_Search/stargazers) [![Forks](https://img.shields.io/github/forks/ParthJadhav/Rust_Search?style=flat-square&color=blue)](https://github.com/ParthJadhav/Rust_Search/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Blazingly fast file search library built in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,11 +123,11 @@ ParthJadhav/Rust_Search 是一个用 Rust 编写的超高速文件搜索库，�
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 46/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

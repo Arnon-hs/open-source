@@ -1,6 +1,6 @@
 # simulink/skills
 
-[![Stars](https://img.shields.io/github/stars/simulink/skills?style=flat-square&color=yellow)](https://github.com/simulink/skills/stargazers) [![Forks](https://img.shields.io/github/forks/simulink/skills?style=flat-square&color=blue)](https://github.com/simulink/skills/network) [![Language](https://img.shields.io/badge/lang-MATLAB-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simulink/skills?style=flat-square&color=yellow)](https://github.com/simulink/skills/stargazers) [![Forks](https://img.shields.io/github/forks/simulink/skills?style=flat-square&color=blue)](https://github.com/simulink/skills/network) [![Language](https://img.shields.io/badge/lang-MATLAB-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of skills for AI agents by Guy on Simulink.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | MATLAB |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ simulink/skills 的生产可用性为中等（Medium）。它适用于内部工�
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 46/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

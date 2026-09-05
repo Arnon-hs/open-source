@@ -1,6 +1,6 @@
 # a2x/cs2-dumper
 
-[![Stars](https://img.shields.io/github/stars/a2x/cs2-dumper?style=flat-square&color=yellow)](https://github.com/a2x/cs2-dumper/stargazers) [![Forks](https://img.shields.io/github/forks/a2x/cs2-dumper?style=flat-square&color=blue)](https://github.com/a2x/cs2-dumper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a2x/cs2-dumper?style=flat-square&color=yellow)](https://github.com/a2x/cs2-dumper/stargazers) [![Forks](https://img.shields.io/github/forks/a2x/cs2-dumper?style=flat-square&color=blue)](https://github.com/a2x/cs2-dumper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Counter-Strike: 2 Offset Dumper
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ a2x/cs2-dumper 的生产可用性为中等。虽然它可以在开发和调
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

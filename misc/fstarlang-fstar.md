@@ -1,6 +1,6 @@
 # FStarLang/FStar
 
-[![Stars](https://img.shields.io/github/stars/FStarLang/FStar?style=flat-square&color=yellow)](https://github.com/FStarLang/FStar/stargazers) [![Forks](https://img.shields.io/github/forks/FStarLang/FStar?style=flat-square&color=blue)](https://github.com/FStarLang/FStar/network) [![Language](https://img.shields.io/badge/lang-F*-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FStarLang/FStar?style=flat-square&color=yellow)](https://github.com/FStarLang/FStar/stargazers) [![Forks](https://img.shields.io/github/forks/FStarLang/FStar?style=flat-square&color=blue)](https://github.com/FStarLang/FStar/network) [![Language](https://img.shields.io/badge/lang-F*-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Proof-oriented Programming Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | F* |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ FStar 是由 FStarLang 社区维护的面向证明的函数式编程语言，旨
 | forks | 60/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

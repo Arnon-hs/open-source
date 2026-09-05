@@ -1,6 +1,6 @@
 # invertase/melos
 
-[![Stars](https://img.shields.io/github/stars/invertase/melos?style=flat-square&color=yellow)](https://github.com/invertase/melos/stargazers) [![Forks](https://img.shields.io/github/forks/invertase/melos?style=flat-square&color=blue)](https://github.com/invertase/melos/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/invertase/melos?style=flat-square&color=yellow)](https://github.com/invertase/melos/stargazers) [![Forks](https://img.shields.io/github/forks/invertase/melos?style=flat-square&color=blue)](https://github.com/invertase/melos/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🌋  A tool for managing Dart projects with multiple packages. With IntelliJ and Vscode IDE support. Supports automated versioning, changelogs & publishing via Conventional Commits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ invertase/melos 是一款面向 Dart 生态的 monorepo 管理工具，能够统
 | forks | 60/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

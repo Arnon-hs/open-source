@@ -1,6 +1,6 @@
 # openmc-dev/openmc
 
-[![Stars](https://img.shields.io/github/stars/openmc-dev/openmc?style=flat-square&color=yellow)](https://github.com/openmc-dev/openmc/stargazers) [![Forks](https://img.shields.io/github/forks/openmc-dev/openmc?style=flat-square&color=blue)](https://github.com/openmc-dev/openmc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openmc-dev/openmc?style=flat-square&color=yellow)](https://github.com/openmc-dev/openmc/stargazers) [![Forks](https://img.shields.io/github/forks/openmc-dev/openmc?style=flat-square&color=blue)](https://github.com/openmc-dev/openmc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > OpenMC Monte Carlo Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 658 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ OpenMC Monte Carlo Code 的生产可用性很高，主要原因包括：
 | forks | 70/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

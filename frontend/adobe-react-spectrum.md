@@ -1,6 +1,6 @@
 # adobe/react-spectrum
 
-[![Stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=flat-square&color=yellow)](https://github.com/adobe/react-spectrum/stargazers) [![Forks](https://img.shields.io/github/forks/adobe/react-spectrum?style=flat-square&color=blue)](https://github.com/adobe/react-spectrum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=flat-square&color=yellow)](https://github.com/adobe/react-spectrum/stargazers) [![Forks](https://img.shields.io/github/forks/adobe/react-spectrum?style=flat-square&color=blue)](https://github.com/adobe/react-spectrum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.7k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Adobe React Spectrum 的生产可用性很高，主要原因是：
 | forks | 80/100 |
 | stars | 89/100 |
 | topics | 75/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

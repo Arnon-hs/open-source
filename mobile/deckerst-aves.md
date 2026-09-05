@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ deckerst/aves：deckerst/aves may be useful when its README and activity match a
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

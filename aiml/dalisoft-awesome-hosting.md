@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Product
+AI/ML · Cloud & Storage · Backend · Database · Product
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ dalisoft/awesome-hosting：dalisoft/awesome-hosting helps add AI capability with
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

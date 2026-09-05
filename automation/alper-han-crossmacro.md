@@ -1,6 +1,6 @@
 # alper-han/CrossMacro
 
-[![Stars](https://img.shields.io/github/stars/alper-han/CrossMacro?style=flat-square&color=yellow)](https://github.com/alper-han/CrossMacro/stargazers) [![Forks](https://img.shields.io/github/forks/alper-han/CrossMacro?style=flat-square&color=blue)](https://github.com/alper-han/CrossMacro/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alper-han/CrossMacro?style=flat-square&color=yellow)](https://github.com/alper-han/CrossMacro/stargazers) [![Forks](https://img.shields.io/github/forks/alper-han/CrossMacro?style=flat-square&color=blue)](https://github.com/alper-han/CrossMacro/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform desktop automation app with macro recording, playback, scheduling, text expansion, CLI tools, and Wayland/X11-aware Linux support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 272 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ alper-han/CrossMacro：alper-han/CrossMacro helps remove repetitive manual opera
 | forks | 23/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

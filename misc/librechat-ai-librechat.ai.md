@@ -1,6 +1,6 @@
 # LibreChat-AI/librechat.ai
 
-[![Stars](https://img.shields.io/github/stars/LibreChat-AI/librechat.ai?style=flat-square&color=yellow)](https://github.com/LibreChat-AI/librechat.ai/stargazers) [![Forks](https://img.shields.io/github/forks/LibreChat-AI/librechat.ai?style=flat-square&color=blue)](https://github.com/LibreChat-AI/librechat.ai/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LibreChat-AI/librechat.ai?style=flat-square&color=yellow)](https://github.com/LibreChat-AI/librechat.ai/stargazers) [![Forks](https://img.shields.io/github/forks/LibreChat-AI/librechat.ai?style=flat-square&color=blue)](https://github.com/LibreChat-AI/librechat.ai/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > librechat.ai
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 575 |
 | 🍴 **Forks** | 407 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ LibreChat‑AI/librechat.ai 为团队提供即插即用的对话式 AI 能力，
 | forks | 65/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

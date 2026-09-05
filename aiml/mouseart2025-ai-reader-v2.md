@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML · Frontend · Backend · Data · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ mouseart2025/AI-Reader-V2：mouseart2025/AI-Reader-V2 helps add AI capability wi
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

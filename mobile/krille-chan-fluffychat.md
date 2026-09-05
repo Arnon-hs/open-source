@@ -1,6 +1,6 @@
 # krille-chan/fluffychat
 
-[![Stars](https://img.shields.io/github/stars/krille-chan/fluffychat?style=flat-square&color=yellow)](https://github.com/krille-chan/fluffychat/stargazers) [![Forks](https://img.shields.io/github/forks/krille-chan/fluffychat?style=flat-square&color=blue)](https://github.com/krille-chan/fluffychat/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krille-chan/fluffychat?style=flat-square&color=yellow)](https://github.com/krille-chan/fluffychat/stargazers) [![Forks](https://img.shields.io/github/forks/krille-chan/fluffychat?style=flat-square&color=blue)](https://github.com/krille-chan/fluffychat/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The cutest instant messenger in the [matrix]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 581 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ FluffyChat 是基于 Matrix 协议的轻量级即时通讯客户端，界面可�
 | forks | 69/100 |
 | stars | 74/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

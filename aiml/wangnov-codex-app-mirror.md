@@ -1,6 +1,6 @@
 # Wangnov/codex-app-mirror
 
-[![Stars](https://img.shields.io/github/stars/Wangnov/codex-app-mirror?style=flat-square&color=yellow)](https://github.com/Wangnov/codex-app-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/Wangnov/codex-app-mirror?style=flat-square&color=blue)](https://github.com/Wangnov/codex-app-mirror/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wangnov/codex-app-mirror?style=flat-square&color=yellow)](https://github.com/Wangnov/codex-app-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/Wangnov/codex-app-mirror?style=flat-square&color=blue)](https://github.com/Wangnov/codex-app-mirror/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 原样镜像官方 Codex 桌面应用:每 15 分钟探测、SHA256 可校验、国内直连下载、 Mac 可增量更新 | Verbatim, verifiable mirror of the official Codex desktop app — probed every 15 min, with a Sparkle delta-update feed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Wangnov/codex‑app‑mirror 是一个低成本、可靠的国内 Codex 客户�
 | forks | 44/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

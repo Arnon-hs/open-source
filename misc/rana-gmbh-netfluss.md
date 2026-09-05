@@ -1,6 +1,6 @@
 # rana-gmbh/NetFluss
 
-[![Stars](https://img.shields.io/github/stars/rana-gmbh/NetFluss?style=flat-square&color=yellow)](https://github.com/rana-gmbh/NetFluss/stargazers) [![Forks](https://img.shields.io/github/forks/rana-gmbh/NetFluss?style=flat-square&color=blue)](https://github.com/rana-gmbh/NetFluss/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rana-gmbh/NetFluss?style=flat-square&color=yellow)](https://github.com/rana-gmbh/NetFluss/stargazers) [![Forks](https://img.shields.io/github/forks/rana-gmbh/NetFluss?style=flat-square&color=blue)](https://github.com/rana-gmbh/NetFluss/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A light-weight & open-source menubar app that shows current upload & download speed plus the top apps using bandwidth
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 397 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ NetFluss 的生产可用性为中等，适合用于原型开发或内部工作�
 | forks | 29/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

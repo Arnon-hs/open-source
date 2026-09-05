@@ -1,6 +1,6 @@
 # YurunChen/repo-docs-skills
 
-[![Stars](https://img.shields.io/github/stars/YurunChen/repo-docs-skills?style=flat-square&color=yellow)](https://github.com/YurunChen/repo-docs-skills/stargazers) [![Forks](https://img.shields.io/github/forks/YurunChen/repo-docs-skills?style=flat-square&color=blue)](https://github.com/YurunChen/repo-docs-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YurunChen/repo-docs-skills?style=flat-square&color=yellow)](https://github.com/YurunChen/repo-docs-skills/stargazers) [![Forks](https://img.shields.io/github/forks/YurunChen/repo-docs-skills?style=flat-square&color=blue)](https://github.com/YurunChen/repo-docs-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ YurunChen/repo‑docs‑skills 是一个面向代码代理的活文档库，能�
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 53/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

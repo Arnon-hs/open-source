@@ -1,6 +1,6 @@
 # opensearch-project/k-NN
 
-[![Stars](https://img.shields.io/github/stars/opensearch-project/k-NN?style=flat-square&color=yellow)](https://github.com/opensearch-project/k-NN/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/k-NN?style=flat-square&color=blue)](https://github.com/opensearch-project/k-NN/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensearch-project/k-NN?style=flat-square&color=yellow)](https://github.com/opensearch-project/k-NN/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/k-NN?style=flat-square&color=blue)](https://github.com/opensearch-project/k-NN/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🆕 Find the k-nearest neighbors (k-NN) for your vector data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ opensearch-project/k‑NN 是 OpenSearch 的官方插件，能够在向量数据
 | forks | 58/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

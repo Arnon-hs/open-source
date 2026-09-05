@@ -1,6 +1,6 @@
 # CloudCannon/pagefind
 
-[![Stars](https://img.shields.io/github/stars/CloudCannon/pagefind?style=flat-square&color=yellow)](https://github.com/CloudCannon/pagefind/stargazers) [![Forks](https://img.shields.io/github/forks/CloudCannon/pagefind?style=flat-square&color=blue)](https://github.com/CloudCannon/pagefind/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CloudCannon/pagefind?style=flat-square&color=yellow)](https://github.com/CloudCannon/pagefind/stargazers) [![Forks](https://img.shields.io/github/forks/CloudCannon/pagefind?style=flat-square&color=blue)](https://github.com/CloudCannon/pagefind/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Static low-bandwidth search at scale
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ CloudCannon/pagefind：CloudCannon/pagefind may be useful when its README and ac
 | forks | 58/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # argoproj/argo-workflows
 
-[![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=flat-square&color=yellow)](https://github.com/argoproj/argo-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj/argo-workflows?style=flat-square&color=blue)](https://github.com/argoproj/argo-workflows/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=flat-square&color=yellow)](https://github.com/argoproj/argo-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj/argo-workflows?style=flat-square&color=blue)](https://github.com/argoproj/argo-workflows/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Workflow Engine for Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.8k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · Data · DevOps/Infra
+Orchestration · Automation · AI/ML · Cloud & Storage · Data
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ Argo Workflows 在生产环境中的可用性很高，理由如下：
 | forks | 89/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 80/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 64/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

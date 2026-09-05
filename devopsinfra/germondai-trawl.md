@@ -1,6 +1,6 @@
 # germondai/trawl
 
-[![Stars](https://img.shields.io/github/stars/germondai/trawl?style=flat-square&color=yellow)](https://github.com/germondai/trawl/stargazers) [![Forks](https://img.shields.io/github/forks/germondai/trawl?style=flat-square&color=blue)](https://github.com/germondai/trawl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/germondai/trawl?style=flat-square&color=yellow)](https://github.com/germondai/trawl/stargazers) [![Forks](https://img.shields.io/github/forks/germondai/trawl?style=flat-square&color=blue)](https://github.com/germondai/trawl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ germondai/trawl 在生产环境中具有高可用性，理由如下：
 | forks | 24/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ra2web/ra2web.github.io
 
-[![Stars](https://img.shields.io/github/stars/ra2web/ra2web.github.io?style=flat-square&color=yellow)](https://github.com/ra2web/ra2web.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/ra2web/ra2web.github.io?style=flat-square&color=blue)](https://github.com/ra2web/ra2web.github.io/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ra2web/ra2web.github.io?style=flat-square&color=yellow)](https://github.com/ra2web/ra2web.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/ra2web/ra2web.github.io?style=flat-square&color=blue)](https://github.com/ra2web/ra2web.github.io/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 网页红警一键部署包/chronodivide asssets。网页红井预览版测试站点，帮助各类爱好者一键搭建自己的网页版“红警”站点，助力营销和知识分享
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 493 |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ra2web/ra2web.github.io 的生产可用性为中等。它适合用于原型或�
 | forks | 61/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

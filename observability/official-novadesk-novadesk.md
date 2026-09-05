@@ -1,6 +1,6 @@
 # Official-Novadesk/novadesk
 
-[![Stars](https://img.shields.io/github/stars/Official-Novadesk/novadesk?style=flat-square&color=yellow)](https://github.com/Official-Novadesk/novadesk/stargazers) [![Forks](https://img.shields.io/github/forks/Official-Novadesk/novadesk?style=flat-square&color=blue)](https://github.com/Official-Novadesk/novadesk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Official-Novadesk/novadesk?style=flat-square&color=yellow)](https://github.com/Official-Novadesk/novadesk/stargazers) [![Forks](https://img.shields.io/github/forks/Official-Novadesk/novadesk?style=flat-square&color=blue)](https://github.com/Official-Novadesk/novadesk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Create Windows Widget using javascript with ease and lot of possibilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Official-Novadesk/novadesk：Official-Novadesk/novadesk helps make production be
 | forks | 12/100 |
 | stars | 17/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 52/100 |
-| recency | 80/100 |
+| outlook | 53/100 |
+| quality | 47/100 |
+| recency | 60/100 |
 | adoption | 15/100 |
-| production | 56/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

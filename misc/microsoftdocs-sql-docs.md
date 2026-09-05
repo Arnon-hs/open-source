@@ -1,6 +1,6 @@
 # MicrosoftDocs/sql-docs
 
-[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/sql-docs?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/sql-docs/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/sql-docs?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/sql-docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/sql-docs?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/sql-docs/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/sql-docs?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/sql-docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) ,  SQL Server Data Tools (SSDT) etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ MicrosoftDocs/sql-docs 是 Microsoft 官方维护的 SQL Server 系列技术文�
 | forks | 87/100 |
 | stars | 66/100 |
 | topics | 25/100 |
-| outlook | 49/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

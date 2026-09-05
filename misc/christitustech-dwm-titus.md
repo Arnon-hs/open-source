@@ -1,6 +1,6 @@
 # ChrisTitusTech/dwm-titus
 
-[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/dwm-titus?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/dwm-titus/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/dwm-titus?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/dwm-titus/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/dwm-titus?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/dwm-titus/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/dwm-titus?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/dwm-titus/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > My DWM configuration with everything pre-patched
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Misc
 | forks | 50/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

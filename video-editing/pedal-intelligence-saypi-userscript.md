@@ -1,6 +1,6 @@
 # Pedal-Intelligence/saypi-userscript
 
-[![Stars](https://img.shields.io/github/stars/Pedal-Intelligence/saypi-userscript?style=flat-square&color=yellow)](https://github.com/Pedal-Intelligence/saypi-userscript/stargazers) [![Forks](https://img.shields.io/github/forks/Pedal-Intelligence/saypi-userscript?style=flat-square&color=blue)](https://github.com/Pedal-Intelligence/saypi-userscript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pedal-Intelligence/saypi-userscript?style=flat-square&color=yellow)](https://github.com/Pedal-Intelligence/saypi-userscript/stargazers) [![Forks](https://img.shields.io/github/forks/Pedal-Intelligence/saypi-userscript?style=flat-square&color=blue)](https://github.com/Pedal-Intelligence/saypi-userscript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-grade browser extension bringing multilingual voice interaction to AI chatbots (Pi, Claude, ChatGPT). Features real-time speech detection with Silero VAD, accurate transcription via OpenAI Whisper, and ElevenLabs TTS. Built with TypeScript, XState, and modern web standards. Progressive enhancement across Chrome, Firefox, and Safari
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · AI/ML
+Video Editing · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ Pedal‑Intelligence/sayui‑userscript 是一款企业级浏览器扩展（Chro
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

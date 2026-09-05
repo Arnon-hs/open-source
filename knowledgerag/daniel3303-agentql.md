@@ -1,6 +1,6 @@
 # daniel3303/AgentQL
 
-[![Stars](https://img.shields.io/github/stars/daniel3303/AgentQL?style=flat-square&color=yellow)](https://github.com/daniel3303/AgentQL/stargazers) [![Forks](https://img.shields.io/github/forks/daniel3303/AgentQL?style=flat-square&color=blue)](https://github.com/daniel3303/AgentQL/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daniel3303/AgentQL?style=flat-square&color=yellow)](https://github.com/daniel3303/AgentQL/stargazers) [![Forks](https://img.shields.io/github/forks/daniel3303/AgentQL?style=flat-square&color=blue)](https://github.com/daniel3303/AgentQL/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Reusable .NET library that translates EF Core models into LLM-friendly schema descriptions and provides safe SQL query execution for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ daniel3303/AgentQL的生产可用性为中等（Medium），适合用于原型�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

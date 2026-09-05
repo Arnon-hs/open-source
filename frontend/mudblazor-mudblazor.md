@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ MudBlazor — это открытая библиотека компоненто�
 
 ### 中文
 
-MudBlazor/MudBlazor：MudBlazor/MudBlazor helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MudBlazor/MudBlazor：MudBlazor/MudBlazor may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** MudBlazor/MudBlazor helps ship user-facing interfaces with less custom UI work.
+**Value:** MudBlazor/MudBlazor may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- build product UI faster
-- reuse interface components
-- improve frontend delivery
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ MudBlazor/MudBlazor：MudBlazor/MudBlazor helps ship user-facing interfaces with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 84/100 |
-| stars | 85/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

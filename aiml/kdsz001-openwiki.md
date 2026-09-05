@@ -1,6 +1,6 @@
 # kdsz001/OpenWiki
 
-[![Stars](https://img.shields.io/github/stars/kdsz001/OpenWiki?style=flat-square&color=yellow)](https://github.com/kdsz001/OpenWiki/stargazers) [![Forks](https://img.shields.io/github/forks/kdsz001/OpenWiki?style=flat-square&color=blue)](https://github.com/kdsz001/OpenWiki/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kdsz001/OpenWiki?style=flat-square&color=yellow)](https://github.com/kdsz001/OpenWiki/stargazers) [![Forks](https://img.shields.io/github/forks/kdsz001/OpenWiki?style=flat-square&color=blue)](https://github.com/kdsz001/OpenWiki/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > OpenWiki — Mac desktop AI knowledge management tool. Capture clipboard, build personal wiki, get AI insights.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 496 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML · Productivity · Frontend · Database
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ OpenWiki 是一款运行在 macOS 桌面的 AI 知识管理工具，能够实时
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

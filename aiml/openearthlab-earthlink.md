@@ -1,6 +1,6 @@
 # OpenEarthLab/EarthLink
 
-[![Stars](https://img.shields.io/github/stars/OpenEarthLab/EarthLink?style=flat-square&color=yellow)](https://github.com/OpenEarthLab/EarthLink/stargazers) [![Forks](https://img.shields.io/github/forks/OpenEarthLab/EarthLink?style=flat-square&color=blue)](https://github.com/OpenEarthLab/EarthLink/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenEarthLab/EarthLink?style=flat-square&color=yellow)](https://github.com/OpenEarthLab/EarthLink/stargazers) [![Forks](https://img.shields.io/github/forks/OpenEarthLab/EarthLink?style=flat-square&color=blue)](https://github.com/OpenEarthLab/EarthLink/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > EarthLink: A Self-Evolving AI Agent System for Climate Science
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ OpenEarthLab/EarthLink 的生产可用性为中等。虽然它非常适合用于
 | forks | 8/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 37/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

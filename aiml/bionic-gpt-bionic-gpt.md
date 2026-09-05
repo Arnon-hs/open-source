@@ -1,6 +1,6 @@
 # bionic-gpt/bionic-gpt
 
-[![Stars](https://img.shields.io/github/stars/bionic-gpt/bionic-gpt?style=flat-square&color=yellow)](https://github.com/bionic-gpt/bionic-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/bionic-gpt/bionic-gpt?style=flat-square&color=blue)](https://github.com/bionic-gpt/bionic-gpt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bionic-gpt/bionic-gpt?style=flat-square&color=yellow)](https://github.com/bionic-gpt/bionic-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/bionic-gpt/bionic-gpt?style=flat-square&color=blue)](https://github.com/bionic-gpt/bionic-gpt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Bionic 的生产可用性为中等。它适合用于原型开发或内部工作�
 | forks | 59/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

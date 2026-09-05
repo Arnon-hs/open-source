@@ -1,6 +1,6 @@
 # FunplayAI/funplay-unity-mcp
 
-[![Stars](https://img.shields.io/github/stars/FunplayAI/funplay-unity-mcp?style=flat-square&color=yellow)](https://github.com/FunplayAI/funplay-unity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/FunplayAI/funplay-unity-mcp?style=flat-square&color=blue)](https://github.com/FunplayAI/funplay-unity-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FunplayAI/funplay-unity-mcp?style=flat-square&color=yellow)](https://github.com/FunplayAI/funplay-unity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/FunplayAI/funplay-unity-mcp?style=flat-square&color=blue)](https://github.com/FunplayAI/funplay-unity-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input simulation, screenshots, and play mode automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ FunplayAI/funplay-unity-mcp 是面向 Unity 编辑器的最先进的 MCP（Model
 | forks | 26/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

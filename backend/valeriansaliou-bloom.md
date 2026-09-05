@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Backend · DevOps/Infra
+Backend · Database
 
 ## 📝 Summary
 
 ### English
 
-valeriansaliou/bloom: valeriansaliou/bloom helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+valeriansaliou/bloom: valeriansaliou/bloom helps teams persist, query, and move data with less custom plumbing.. Use it for manage persistence; speed up data access. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-valeriansaliou/bloom: open-source проект в категориях Backend, DevOps/Infra. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+valeriansaliou/bloom: open-source проект в категориях Database. Практическое применение: manage persistence; speed up data access. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-valeriansaliou/bloom：valeriansaliou/bloom helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+valeriansaliou/bloom：valeriansaliou/bloom helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** valeriansaliou/bloom helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** valeriansaliou/bloom helps teams persist, query, and move data with less custom plumbing.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- manage persistence
+- speed up data access
+- prototype database-backed apps
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ valeriansaliou/bloom：valeriansaliou/bloom helps teams reuse service infrastruc
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 56/100 |
-| stars | 61/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

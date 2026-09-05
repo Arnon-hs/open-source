@@ -1,6 +1,6 @@
 # janosh/matterviz
 
-[![Stars](https://img.shields.io/github/stars/janosh/matterviz?style=flat-square&color=yellow)](https://github.com/janosh/matterviz/stargazers) [![Forks](https://img.shields.io/github/forks/janosh/matterviz?style=flat-square&color=blue)](https://github.com/janosh/matterviz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janosh/matterviz?style=flat-square&color=yellow)](https://github.com/janosh/matterviz/stargazers) [![Forks](https://img.shields.io/github/forks/janosh/matterviz?style=flat-square&color=blue)](https://github.com/janosh/matterviz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive browser visualizations for materials science: crystal structures/molecules, trajectories, convex hulls, phase diagrams, Fermi surfaces, bands+DOS, Brillouin zones, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ janosh/matterviz 是一个基于浏览器的交互式可视化库，专注于材
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ d4rkc0d3r/d4rkAvatarOptimizer：d4rkc0d3r/d4rkAvatarOptimizer may be useful when
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

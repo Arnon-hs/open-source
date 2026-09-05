@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · DevOps/Infra
+Knowledge/RAG · AI/ML · Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ xr843/fojin：xr843/fojin helps make internal knowledge searchable and usable by
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

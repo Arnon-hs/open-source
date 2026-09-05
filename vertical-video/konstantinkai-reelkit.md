@@ -1,6 +1,6 @@
 # KonstantinKai/reelkit
 
-[![Stars](https://img.shields.io/github/stars/KonstantinKai/reelkit?style=flat-square&color=yellow)](https://github.com/KonstantinKai/reelkit/stargazers) [![Forks](https://img.shields.io/github/forks/KonstantinKai/reelkit?style=flat-square&color=blue)](https://github.com/KonstantinKai/reelkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KonstantinKai/reelkit?style=flat-square&color=yellow)](https://github.com/KonstantinKai/reelkit/stargazers) [![Forks](https://img.shields.io/github/forks/KonstantinKai/reelkit?style=flat-square&color=blue)](https://github.com/KonstantinKai/reelkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Single-item slider for TikTok/Instagram Reels-style experiences. Virtualized, touch-first, zero dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ KonstantinKai/reelkit：KonstantinKai/reelkit helps automate short-form video pr
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 63/100 |
-| recency | 80/100 |
+| outlook | 57/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 65/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

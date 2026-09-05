@@ -1,6 +1,6 @@
 # extendr/extendr
 
-[![Stars](https://img.shields.io/github/stars/extendr/extendr?style=flat-square&color=yellow)](https://github.com/extendr/extendr/stargazers) [![Forks](https://img.shields.io/github/forks/extendr/extendr?style=flat-square&color=blue)](https://github.com/extendr/extendr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/extendr/extendr?style=flat-square&color=yellow)](https://github.com/extendr/extendr/stargazers) [![Forks](https://img.shields.io/github/forks/extendr/extendr?style=flat-square&color=blue)](https://github.com/extendr/extendr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > R extension library for rust designed to be familiar to R users.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ extendr/extendr 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 44/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

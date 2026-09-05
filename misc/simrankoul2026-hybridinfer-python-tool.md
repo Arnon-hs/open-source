@@ -1,6 +1,6 @@
 # SimranKoul2026/HybridInfer-Python-tool
 
-[![Stars](https://img.shields.io/github/stars/SimranKoul2026/HybridInfer-Python-tool?style=flat-square&color=yellow)](https://github.com/SimranKoul2026/HybridInfer-Python-tool/stargazers) [![Forks](https://img.shields.io/github/forks/SimranKoul2026/HybridInfer-Python-tool?style=flat-square&color=blue)](https://github.com/SimranKoul2026/HybridInfer-Python-tool/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SimranKoul2026/HybridInfer-Python-tool?style=flat-square&color=yellow)](https://github.com/SimranKoul2026/HybridInfer-Python-tool/stargazers) [![Forks](https://img.shields.io/github/forks/SimranKoul2026/HybridInfer-Python-tool?style=flat-square&color=blue)](https://github.com/SimranKoul2026/HybridInfer-Python-tool/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-09-02 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ HybridInfer 是一个本地优先的 LLM 路由器，失败时自动切换到云
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

@@ -1,6 +1,6 @@
 # dev-family/admiral
 
-[![Stars](https://img.shields.io/github/stars/dev-family/admiral?style=flat-square&color=yellow)](https://github.com/dev-family/admiral/stargazers) [![Forks](https://img.shields.io/github/forks/dev-family/admiral?style=flat-square&color=blue)](https://github.com/dev-family/admiral/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dev-family/admiral?style=flat-square&color=yellow)](https://github.com/dev-family/admiral/stargazers) [![Forks](https://img.shields.io/github/forks/dev-family/admiral?style=flat-square&color=blue)](https://github.com/dev-family/admiral/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Admiral is a frontend framework for creating back office in React. It provides out-of-the-box components and tools that make developing an admin interface easy and fast.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 249 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Admiral 的生产可用性非常高，考虑到以下几点：
 | forks | 38/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # fengshao1227/ccg-workflow
 
-[![Stars](https://img.shields.io/github/stars/fengshao1227/ccg-workflow?style=flat-square&color=yellow)](https://github.com/fengshao1227/ccg-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/fengshao1227/ccg-workflow?style=flat-square&color=blue)](https://github.com/fengshao1227/ccg-workflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fengshao1227/ccg-workflow?style=flat-square&color=yellow)](https://github.com/fengshao1227/ccg-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/fengshao1227/ccg-workflow?style=flat-square&color=blue)](https://github.com/fengshao1227/ccg-workflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 425 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ Overall, **ccg‑workflow** is a production‑grade, open‑source solution for 
 | forks | 66/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 85/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

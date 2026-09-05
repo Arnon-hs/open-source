@@ -1,6 +1,6 @@
 # dan-online/autopulse
 
-[![Stars](https://img.shields.io/github/stars/dan-online/autopulse?style=flat-square&color=yellow)](https://github.com/dan-online/autopulse/stargazers) [![Forks](https://img.shields.io/github/forks/dan-online/autopulse?style=flat-square&color=blue)](https://github.com/dan-online/autopulse/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dan-online/autopulse?style=flat-square&color=yellow)](https://github.com/dan-online/autopulse/stargazers) [![Forks](https://img.shields.io/github/forks/dan-online/autopulse?style=flat-square&color=blue)](https://github.com/dan-online/autopulse/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ dan-online/autopulse 是一款基于 Rust 的轻量级后台服务，能够自�
 | forks | 28/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

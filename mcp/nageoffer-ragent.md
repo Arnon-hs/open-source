@@ -1,6 +1,6 @@
 # nageoffer/ragent
 
-[![Stars](https://img.shields.io/github/stars/nageoffer/ragent?style=flat-square&color=yellow)](https://github.com/nageoffer/ragent/stargazers) [![Forks](https://img.shields.io/github/forks/nageoffer/ragent?style=flat-square&color=blue)](https://github.com/nageoffer/ragent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nageoffer/ragent?style=flat-square&color=yellow)](https://github.com/nageoffer/ragent/stargazers) [![Forks](https://img.shields.io/github/forks/nageoffer/ragent?style=flat-square&color=blue)](https://github.com/nageoffer/ragent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 402 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ nageoffer/ragent 是一套企业级 Agentic RAG（检索增强生成）智能体
 | forks | 65/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

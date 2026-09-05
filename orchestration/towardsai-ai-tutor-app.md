@@ -1,6 +1,6 @@
 # towardsai/ai-tutor-app
 
-[![Stars](https://img.shields.io/github/stars/towardsai/ai-tutor-app?style=flat-square&color=yellow)](https://github.com/towardsai/ai-tutor-app/stargazers) [![Forks](https://img.shields.io/github/forks/towardsai/ai-tutor-app?style=flat-square&color=blue)](https://github.com/towardsai/ai-tutor-app/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/towardsai/ai-tutor-app?style=flat-square&color=yellow)](https://github.com/towardsai/ai-tutor-app/stargazers) [![Forks](https://img.shields.io/github/forks/towardsai/ai-tutor-app?style=flat-square&color=blue)](https://github.com/towardsai/ai-tutor-app/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic RAG tutor for applied AI, LLMs, RAG, and Python: a LangGraph agent (FastAPI + Next.js) grounded in a curated course and library corpus.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ towardsai/ai-tutor-app 帮助将孤立的提示和工具转换为可重复的代
 | forks | 12/100 |
 | stars | 27/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

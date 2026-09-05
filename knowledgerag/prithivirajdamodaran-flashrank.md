@@ -1,6 +1,6 @@
 # PrithivirajDamodaran/FlashRank
 
-[![Stars](https://img.shields.io/github/stars/PrithivirajDamodaran/FlashRank?style=flat-square&color=yellow)](https://github.com/PrithivirajDamodaran/FlashRank/stargazers) [![Forks](https://img.shields.io/github/forks/PrithivirajDamodaran/FlashRank?style=flat-square&color=blue)](https://github.com/PrithivirajDamodaran/FlashRank/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrithivirajDamodaran/FlashRank?style=flat-square&color=yellow)](https://github.com/PrithivirajDamodaran/FlashRank/stargazers) [![Forks](https://img.shields.io/github/forks/PrithivirajDamodaran/FlashRank?style=flat-square&color=blue)](https://github.com/PrithivirajDamodaran/FlashRank/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Lite & Super-fast re-ranking for your search & retrieval pipelines.  Supports SoTA Listwise and Pairwise reranking based on LLMs and  cross-encoders and more.  Created by Prithivi Da, open for PRs & Collaborations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 992 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ PrithivirajDamodaran/FlashRank 的价值在于，它能帮助企业内部知识�
 | forks | 46/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

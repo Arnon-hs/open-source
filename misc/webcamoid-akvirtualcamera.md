@@ -1,6 +1,6 @@
 # webcamoid/akvirtualcamera
 
-[![Stars](https://img.shields.io/github/stars/webcamoid/akvirtualcamera?style=flat-square&color=yellow)](https://github.com/webcamoid/akvirtualcamera/stargazers) [![Forks](https://img.shields.io/github/forks/webcamoid/akvirtualcamera?style=flat-square&color=blue)](https://github.com/webcamoid/akvirtualcamera/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webcamoid/akvirtualcamera?style=flat-square&color=yellow)](https://github.com/webcamoid/akvirtualcamera/stargazers) [![Forks](https://img.shields.io/github/forks/webcamoid/akvirtualcamera?style=flat-square&color=blue)](https://github.com/webcamoid/akvirtualcamera/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > akvirtualcamera, virtual camera for Mac and Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 537 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ webcamoid/akvirtualcamera 是一款跨平台（Mac 与 Windows）的虚拟摄像
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 45/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

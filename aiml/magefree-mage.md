@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 895 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ magefree/mage：magefree/mage helps add AI capability without starting from a bl
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

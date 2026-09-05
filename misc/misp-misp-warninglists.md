@@ -1,6 +1,6 @@
 # MISP/misp-warninglists
 
-[![Stars](https://img.shields.io/github/stars/MISP/misp-warninglists?style=flat-square&color=yellow)](https://github.com/MISP/misp-warninglists/stargazers) [![Forks](https://img.shields.io/github/forks/MISP/misp-warninglists?style=flat-square&color=blue)](https://github.com/MISP/misp-warninglists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MISP/misp-warninglists?style=flat-square&color=yellow)](https://github.com/MISP/misp-warninglists/stargazers) [![Forks](https://img.shields.io/github/forks/MISP/misp-warninglists?style=flat-square&color=blue)](https://github.com/MISP/misp-warninglists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Warning lists to inform users of MISP about potential false-positives or other information in indicators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 642 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ MISP/misp-warninglists 的生产可用性很高。该项目有强烈的采用和
 | forks | 57/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

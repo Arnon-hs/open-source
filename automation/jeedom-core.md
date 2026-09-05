@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ jeedom/core：jeedom/core helps remove repetitive manual operations from a workf
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

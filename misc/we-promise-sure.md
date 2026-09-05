@@ -1,6 +1,6 @@
 # we-promise/sure
 
-[![Stars](https://img.shields.io/github/stars/we-promise/sure?style=flat-square&color=yellow)](https://github.com/we-promise/sure/stargazers) [![Forks](https://img.shields.io/github/forks/we-promise/sure?style=flat-square&color=blue)](https://github.com/we-promise/sure/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/we-promise/sure?style=flat-square&color=yellow)](https://github.com/we-promise/sure/stargazers) [![Forks](https://img.shields.io/github/forks/we-promise/sure?style=flat-square&color=blue)](https://github.com/we-promise/sure/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The personal finance app for everyone (by everyone)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ we‑promise/sure 是一个功能完整、社区认可的个人理财平台，�
 | forks | 29/100 |
 | stars | 83/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # bruin-data/bruin
 
-[![Stars](https://img.shields.io/github/stars/bruin-data/bruin?style=flat-square&color=yellow)](https://github.com/bruin-data/bruin/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/bruin?style=flat-square&color=blue)](https://github.com/bruin-data/bruin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bruin-data/bruin?style=flat-square&color=yellow)](https://github.com/bruin-data/bruin/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/bruin?style=flat-square&color=blue)](https://github.com/bruin-data/bruin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ bruin-data/bruin 是一个基于 SQL 与 Python 的开源数据管道框架，�
 | forks | 47/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

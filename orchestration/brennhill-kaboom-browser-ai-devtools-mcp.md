@@ -1,6 +1,6 @@
 # brennhill/Kaboom-Browser-AI-Devtools-MCP
 
-[![Stars](https://img.shields.io/github/stars/brennhill/Kaboom-Browser-AI-Devtools-MCP?style=flat-square&color=yellow)](https://github.com/brennhill/Kaboom-Browser-AI-Devtools-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/brennhill/Kaboom-Browser-AI-Devtools-MCP?style=flat-square&color=blue)](https://github.com/brennhill/Kaboom-Browser-AI-Devtools-MCP/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brennhill/Kaboom-Browser-AI-Devtools-MCP?style=flat-square&color=yellow)](https://github.com/brennhill/Kaboom-Browser-AI-Devtools-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/brennhill/Kaboom-Browser-AI-Devtools-MCP?style=flat-square&color=blue)](https://github.com/brennhill/Kaboom-Browser-AI-Devtools-MCP/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Kaboom AI DevTools — Browser DevTools for AI coding assistants via MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML
+Orchestration · MCP · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ Kaboom AI DevTools 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 17/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

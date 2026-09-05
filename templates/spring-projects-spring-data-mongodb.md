@@ -1,6 +1,6 @@
 # spring-projects/spring-data-mongodb
 
-[![Stars](https://img.shields.io/github/stars/spring-projects/spring-data-mongodb?style=flat-square&color=yellow)](https://github.com/spring-projects/spring-data-mongodb/stargazers) [![Forks](https://img.shields.io/github/forks/spring-projects/spring-data-mongodb?style=flat-square&color=blue)](https://github.com/spring-projects/spring-data-mongodb/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-projects/spring-data-mongodb?style=flat-square&color=yellow)](https://github.com/spring-projects/spring-data-mongodb/stargazers) [![Forks](https://img.shields.io/github/forks/spring-projects/spring-data-mongodb?style=flat-square&color=blue)](https://github.com/spring-projects/spring-data-mongodb/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Provides support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Data · Database
+Templates · Productivity · Data · Database
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Spring Data MongoDB 是一个为 Java 开发者提供的开源项目，旨在提
 | forks | 76/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

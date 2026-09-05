@@ -1,6 +1,6 @@
 # piotr-agier/google-drive-mcp
 
-[![Stars](https://img.shields.io/github/stars/piotr-agier/google-drive-mcp?style=flat-square&color=yellow)](https://github.com/piotr-agier/google-drive-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/piotr-agier/google-drive-mcp?style=flat-square&color=blue)](https://github.com/piotr-agier/google-drive-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/piotr-agier/google-drive-mcp?style=flat-square&color=yellow)](https://github.com/piotr-agier/google-drive-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/piotr-agier/google-drive-mcp?style=flat-square&color=blue)](https://github.com/piotr-agier/google-drive-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides secure integration with Google Drive, Docs, Sheets, Slides and Calendar. It allows Claude Desktop and other MCP clients to manage files in Google Drive through a standardized interface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Communication · Backend
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ piotr-agier/google-drive-mcp 是一个基于 Model Context Protocol (MCP) 的服
 | forks | 50/100 |
 | stars | 48/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # 9527qingfeng/hantang-nihaixia-follower
 
-[![Stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower?style=flat-square&color=yellow)](https://github.com/9527qingfeng/hantang-nihaixia-follower/stargazers) [![Forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower?style=flat-square&color=blue)](https://github.com/9527qingfeng/hantang-nihaixia-follower/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower?style=flat-square&color=yellow)](https://github.com/9527qingfeng/hantang-nihaixia-follower/stargazers) [![Forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower?style=flat-square&color=blue)](https://github.com/9527qingfeng/hantang-nihaixia-follower/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 倪海厦外门弟子，自学中医，为往圣继绝学，主要以倪海厦倪师人纪天纪为主，专攻中医经方，后期还有李可、胡希恕等中医老前辈授课内容。内含倪师人纪中医系列(非视频语音转文字，皆是倪师自编中医教材课本讲义)  自学顺序：针灸，黄帝内经，神农本草经，伤寒论，金匮要略五部教学课本PDF（请配合B站视频学习，搜索倪海夏即可）  自学中医笔记正在手打中...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 412 |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ The project has a medium level of production readiness, making it suitable for p
 | forks | 54/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

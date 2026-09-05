@@ -1,6 +1,6 @@
 # the911fund/skill-of-skills
 
-[![Stars](https://img.shields.io/github/stars/the911fund/skill-of-skills?style=flat-square&color=yellow)](https://github.com/the911fund/skill-of-skills/stargazers) [![Forks](https://img.shields.io/github/forks/the911fund/skill-of-skills?style=flat-square&color=blue)](https://github.com/the911fund/skill-of-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/the911fund/skill-of-skills?style=flat-square&color=yellow)](https://github.com/the911fund/skill-of-skills/stargazers) [![Forks](https://img.shields.io/github/forks/the911fund/skill-of-skills?style=flat-square&color=blue)](https://github.com/the911fund/skill-of-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ the911fund/skill-of-skills 的生产可用性较高，主要原因是：
 | forks | 26/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

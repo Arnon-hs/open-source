@@ -1,6 +1,6 @@
 # Roboparty/roboto_origin
 
-[![Stars](https://img.shields.io/github/stars/Roboparty/roboto_origin?style=flat-square&color=yellow)](https://github.com/Roboparty/roboto_origin/stargazers) [![Forks](https://img.shields.io/github/forks/Roboparty/roboto_origin?style=flat-square&color=blue)](https://github.com/Roboparty/roboto_origin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Roboparty/roboto_origin?style=flat-square&color=yellow)](https://github.com/Roboparty/roboto_origin/stargazers) [![Forks](https://img.shields.io/github/forks/Roboparty/roboto_origin?style=flat-square&color=blue)](https://github.com/Roboparty/roboto_origin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Roboto_origin 是一款全开源的 DIY 人形机器人原型机，代码、机�
 | forks | 61/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # dj-bolt/django-bolt
 
-[![Stars](https://img.shields.io/github/stars/dj-bolt/django-bolt?style=flat-square&color=yellow)](https://github.com/dj-bolt/django-bolt/stargazers) [![Forks](https://img.shields.io/github/forks/dj-bolt/django-bolt?style=flat-square&color=blue)](https://github.com/dj-bolt/django-bolt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dj-bolt/django-bolt?style=flat-square&color=yellow)](https://github.com/dj-bolt/django-bolt/stargazers) [![Forks](https://img.shields.io/github/forks/dj-bolt/django-bolt?style=flat-square&color=blue)](https://github.com/dj-bolt/django-bolt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ dj-bolt/django-bolt 的生产可用性很高。它有一个
 | forks | 47/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

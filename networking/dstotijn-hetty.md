@@ -27,55 +27,50 @@ Networking · Security
 
 ### English
 
-dstotijn/hetty: dstotijn/hetty may be useful when its README and activity match a concrete workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dstotijn/hetty: . Use it for Networking, Security. 
 
 ### Русский
 
-dstotijn/hetty: open-source проект в категориях Networking, Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dstotijn/hetty: open-source проект в категориях Networking, Security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-dstotijn/hetty：dstotijn/hetty may be useful when its README and activity match a concrete workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dstotijn/hetty：。适合用于Networking、Security。
 
 ## 🧭 Practical evaluation
 
-**Value:** dstotijn/hetty may be useful when its README and activity match a concrete workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 12029 GitHub stars
-- 780 forks
-- updated 2026-09-05
-- primary language: Go
-- 6 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 84/100 |
-| integration | 46/100 |
-| production | 75/100 |
-| outlook | 79/100 |
-| adoption | 83/100 |
-| categoryMatchCount | 200/100 |
-| stars | 87/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| stars | 87/100 |
 | topics | 75/100 |
+| outlook | 79/100 |
+| quality | 84/100 |
+| recency | 100/100 |
+| adoption | 83/100 |
+| production | 75/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ViryaZheng/promptly-prompt
 
-[![Stars](https://img.shields.io/github/stars/ViryaZheng/promptly-prompt?style=flat-square&color=yellow)](https://github.com/ViryaZheng/promptly-prompt/stargazers) [![Forks](https://img.shields.io/github/forks/ViryaZheng/promptly-prompt?style=flat-square&color=blue)](https://github.com/ViryaZheng/promptly-prompt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ViryaZheng/promptly-prompt?style=flat-square&color=yellow)](https://github.com/ViryaZheng/promptly-prompt/stargazers) [![Forks](https://img.shields.io/github/forks/ViryaZheng/promptly-prompt?style=flat-square&color=blue)](https://github.com/ViryaZheng/promptly-prompt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill that forces AI to understand before executing. Three disciplines: cognition check, requirement understanding, method search.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ ViryaZheng/promptly-prompt 是一个针对 Claude 的 Code skill，实现“�
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

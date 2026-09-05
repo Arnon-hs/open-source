@@ -1,6 +1,6 @@
 # Leeroo-AI/kapso
 
-[![Stars](https://img.shields.io/github/stars/Leeroo-AI/kapso?style=flat-square&color=yellow)](https://github.com/Leeroo-AI/kapso/stargazers) [![Forks](https://img.shields.io/github/forks/Leeroo-AI/kapso?style=flat-square&color=blue)](https://github.com/Leeroo-AI/kapso/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leeroo-AI/kapso?style=flat-square&color=yellow)](https://github.com/Leeroo-AI/kapso/stargazers) [![Forks](https://img.shields.io/github/forks/Leeroo-AI/kapso?style=flat-square&color=blue)](https://github.com/Leeroo-AI/kapso/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A Knowledge-grounded framework for Autonomous ML/AI Program Synthesis and Optimization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Leeroo‑AI/kapso 是一个基于知识的框架，能够自动生成和优化�
 | forks | 24/100 |
 | stars | 42/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # squidKid-deluxe/QTradeX-Algo-Trading-SDK
 
-[![Stars](https://img.shields.io/github/stars/squidKid-deluxe/QTradeX-Algo-Trading-SDK?style=flat-square&color=yellow)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/squidKid-deluxe/QTradeX-Algo-Trading-SDK?style=flat-square&color=blue)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/squidKid-deluxe/QTradeX-Algo-Trading-SDK?style=flat-square&color=yellow)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/squidKid-deluxe/QTradeX-Algo-Trading-SDK?style=flat-square&color=blue)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered SDK featuring algorithmic trading, backtesting, deployment on 100+ exchanges, and multiple optimization engines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Data
+Crypto · Trading · Automation · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -104,11 +104,11 @@ squidKid-deluxe/QTradeX-Algo-Trading-SDK 是一个基于 AI 的 SDK，提供算�
 | forks | 31/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

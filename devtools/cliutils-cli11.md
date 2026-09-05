@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ CLIUtils/CLI11：CLIUtils/CLI11 helps engineers save time in daily development a
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

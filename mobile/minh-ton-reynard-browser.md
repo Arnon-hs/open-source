@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ minh-ton/reynard-browser：minh-ton/reynard-browser may be useful when its READM
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

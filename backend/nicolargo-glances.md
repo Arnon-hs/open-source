@@ -1,6 +1,6 @@
 # nicolargo/glances
 
-[![Stars](https://img.shields.io/github/stars/nicolargo/glances?style=flat-square&color=yellow)](https://github.com/nicolargo/glances/stargazers) [![Forks](https://img.shields.io/github/forks/nicolargo/glances?style=flat-square&color=blue)](https://github.com/nicolargo/glances/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicolargo/glances?style=flat-square&color=yellow)](https://github.com/nicolargo/glances/stargazers) [![Forks](https://img.shields.io/github/forks/nicolargo/glances?style=flat-square&color=blue)](https://github.com/nicolargo/glances/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33.2k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Glances 有很高的生产可用性，主要原因是：
 | forks | 81/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 86/100 |
-| recency | 60/100 |
+| outlook | 86/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 74/100 |
+| production | 80/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

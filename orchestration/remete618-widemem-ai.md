@@ -1,6 +1,6 @@
 # remete618/widemem-ai
 
-[![Stars](https://img.shields.io/github/stars/remete618/widemem-ai?style=flat-square&color=yellow)](https://github.com/remete618/widemem-ai/stargazers) [![Forks](https://img.shields.io/github/forks/remete618/widemem-ai?style=flat-square&color=blue)](https://github.com/remete618/widemem-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remete618/widemem-ai?style=flat-square&color=yellow)](https://github.com/remete618/widemem-ai/stargazers) [![Forks](https://img.shields.io/github/forks/remete618/widemem-ai?style=flat-square&color=blue)](https://github.com/remete618/widemem-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ remete618/widemem‑ai 是一款面向下一代 AI 的记忆层实现，具备�
 | forks | 27/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

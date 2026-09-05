@@ -1,6 +1,6 @@
 # abcamus/obsidian-sync-vault-ce
 
-[![Stars](https://img.shields.io/github/stars/abcamus/obsidian-sync-vault-ce?style=flat-square&color=yellow)](https://github.com/abcamus/obsidian-sync-vault-ce/stargazers) [![Forks](https://img.shields.io/github/forks/abcamus/obsidian-sync-vault-ce?style=flat-square&color=blue)](https://github.com/abcamus/obsidian-sync-vault-ce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abcamus/obsidian-sync-vault-ce?style=flat-square&color=yellow)](https://github.com/abcamus/obsidian-sync-vault-ce/stargazers) [![Forks](https://img.shields.io/github/forks/abcamus/obsidian-sync-vault-ce?style=flat-square&color=blue)](https://github.com/abcamus/obsidian-sync-vault-ce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Professional cloud sync & VFS for Obsidian. Features zero-space VFS, 4K streaming, MCP AI engine, and P2P collaboration. Supports Baidu/Aliyun/Quark/WebDAV/S3.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools
+MCP · Cloud & Storage · Networking · Backend · DevTools
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ abcamus/obsidian‑sync‑vault‑ce 为 Obsidian 提供专业级的云同步与
 | forks | 26/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

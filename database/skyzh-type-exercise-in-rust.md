@@ -1,6 +1,6 @@
 # skyzh/type-exercise-in-rust
 
-[![Stars](https://img.shields.io/github/stars/skyzh/type-exercise-in-rust?style=flat-square&color=yellow)](https://github.com/skyzh/type-exercise-in-rust/stargazers) [![Forks](https://img.shields.io/github/forks/skyzh/type-exercise-in-rust?style=flat-square&color=blue)](https://github.com/skyzh/type-exercise-in-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skyzh/type-exercise-in-rust?style=flat-square&color=yellow)](https://github.com/skyzh/type-exercise-in-rust/stargazers) [![Forks](https://img.shields.io/github/forks/skyzh/type-exercise-in-rust?style=flat-square&color=blue)](https://github.com/skyzh/type-exercise-in-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Learn advanced Rust techniques by building an expression evaluation framework for a database system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Here's a brief summary of the project:
 | forks | 45/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 63/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

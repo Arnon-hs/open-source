@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-09-02 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · MCP
+Payments · MCP · Security
 
 ## 📝 Summary
 
@@ -73,7 +73,7 @@ MCPay 可实现消费授权和按调用计费，帮助 MCP 工具快速集成计
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

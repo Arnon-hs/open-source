@@ -1,6 +1,6 @@
 # compartmentdev/compartment
 
-[![Stars](https://img.shields.io/github/stars/compartmentdev/compartment?style=flat-square&color=yellow)](https://github.com/compartmentdev/compartment/stargazers) [![Forks](https://img.shields.io/github/forks/compartmentdev/compartment?style=flat-square&color=blue)](https://github.com/compartmentdev/compartment/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/compartmentdev/compartment?style=flat-square&color=yellow)](https://github.com/compartmentdev/compartment/stargazers) [![Forks](https://img.shields.io/github/forks/compartmentdev/compartment?style=flat-square&color=blue)](https://github.com/compartmentdev/compartment/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Compartment is a self-hosted application deployment system for teams that want to ship and share internal, private, or public web apps without building their own platform stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Compartment 已经有较高的生产可用性，具有以下特点：
 | forks | 19/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

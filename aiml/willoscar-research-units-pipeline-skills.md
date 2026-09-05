@@ -1,6 +1,6 @@
 # WILLOSCAR/research-units-pipeline-skills
 
-[![Stars](https://img.shields.io/github/stars/WILLOSCAR/research-units-pipeline-skills?style=flat-square&color=yellow)](https://github.com/WILLOSCAR/research-units-pipeline-skills/stargazers) [![Forks](https://img.shields.io/github/forks/WILLOSCAR/research-units-pipeline-skills?style=flat-square&color=blue)](https://github.com/WILLOSCAR/research-units-pipeline-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WILLOSCAR/research-units-pipeline-skills?style=flat-square&color=yellow)](https://github.com/WILLOSCAR/research-units-pipeline-skills/stargazers) [![Forks](https://img.shields.io/github/forks/WILLOSCAR/research-units-pipeline-skills?style=flat-square&color=blue)](https://github.com/WILLOSCAR/research-units-pipeline-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Research pipelines as semantic execution units: each skill declares inputs/outputs, acceptance criteria, and guardrails. Evidence-first methodology prevents hollow writing through structured intermediate artifacts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ WILLOSCAR/research-units-pipeline-skills是一款开源项目，旨在帮助开�
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

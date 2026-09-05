@@ -1,6 +1,6 @@
 # lscambo13/ElegantFin
 
-[![Stars](https://img.shields.io/github/stars/lscambo13/ElegantFin?style=flat-square&color=yellow)](https://github.com/lscambo13/ElegantFin/stargazers) [![Forks](https://img.shields.io/github/forks/lscambo13/ElegantFin?style=flat-square&color=blue)](https://github.com/lscambo13/ElegantFin/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lscambo13/ElegantFin?style=flat-square&color=yellow)](https://github.com/lscambo13/ElegantFin/stargazers) [![Forks](https://img.shields.io/github/forks/lscambo13/ElegantFin?style=flat-square&color=blue)](https://github.com/lscambo13/ElegantFin/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ElegantFin（lscambo13/ElegantFin）是一款受 Jellyseerr 启发的 Jellyfin �
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

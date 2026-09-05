@@ -1,6 +1,6 @@
 # Mercor-Intelligence/archipelago
 
-[![Stars](https://img.shields.io/github/stars/Mercor-Intelligence/archipelago?style=flat-square&color=yellow)](https://github.com/Mercor-Intelligence/archipelago/stargazers) [![Forks](https://img.shields.io/github/forks/Mercor-Intelligence/archipelago?style=flat-square&color=blue)](https://github.com/Mercor-Intelligence/archipelago/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mercor-Intelligence/archipelago?style=flat-square&color=yellow)](https://github.com/Mercor-Intelligence/archipelago/stargazers) [![Forks](https://img.shields.io/github/forks/Mercor-Intelligence/archipelago?style=flat-square&color=blue)](https://github.com/Mercor-Intelligence/archipelago/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Harness for running and evaluating AI agents against RL environments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Mercor‑Intelligence/archipelago 是一个用于在强化学习（RL）环境�
 | forks | 43/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

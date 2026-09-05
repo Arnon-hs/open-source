@@ -1,6 +1,6 @@
 # VirtusLab/cellar
 
-[![Stars](https://img.shields.io/github/stars/VirtusLab/cellar?style=flat-square&color=yellow)](https://github.com/VirtusLab/cellar/stargazers) [![Forks](https://img.shields.io/github/forks/VirtusLab/cellar?style=flat-square&color=blue)](https://github.com/VirtusLab/cellar/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VirtusLab/cellar?style=flat-square&color=yellow)](https://github.com/VirtusLab/cellar/stargazers) [![Forks](https://img.shields.io/github/forks/VirtusLab/cellar?style=flat-square&color=blue)](https://github.com/VirtusLab/cellar/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for coding agents and developers to query the public API of any Maven JVM dependency — get symbol signatures, list packages, search by name, and inspect dependency trees. Powered by Coursier and tasty-query.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ VirtusLab/cellar 的生产可用性为中等（Medium）。它适用于原型开
 | forks | 26/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

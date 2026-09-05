@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Security
+Orchestration · MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
 ### English
 
-omarmohelal/SecHelix: . Use it for Orchestration, MCP, AI/ML, Security. 
+omarmohelal/SecHelix: . Use it for Orchestration, MCP, AI/ML, DevTools, Security. 
 
 ### Русский
 
-omarmohelal/SecHelix: open-source проект в категориях Orchestration, MCP, AI/ML, Security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+omarmohelal/SecHelix: open-source проект в категориях Orchestration, MCP, AI/ML, DevTools, Security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-omarmohelal/SecHelix：。适合用于Orchestration、MCP、AI/ML、Security。
+omarmohelal/SecHelix：。适合用于Orchestration、MCP、AI/ML、DevTools、Security。
 
 ## 🧭 Practical evaluation
 
@@ -70,7 +70,7 @@ omarmohelal/SecHelix：。适合用于Orchestration、MCP、AI/ML、Security。
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

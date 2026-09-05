@@ -1,6 +1,6 @@
 # INCY-DEV/incy-platforms
 
-[![Stars](https://img.shields.io/github/stars/INCY-DEV/incy-platforms?style=flat-square&color=yellow)](https://github.com/INCY-DEV/incy-platforms/stargazers) [![Forks](https://img.shields.io/github/forks/INCY-DEV/incy-platforms?style=flat-square&color=blue)](https://github.com/INCY-DEV/incy-platforms/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/INCY-DEV/incy-platforms?style=flat-square&color=yellow)](https://github.com/INCY-DEV/incy-platforms/stargazers) [![Forks](https://img.shields.io/github/forks/INCY-DEV/incy-platforms?style=flat-square&color=blue)](https://github.com/INCY-DEV/incy-platforms/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > INCY downloads and release info
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ INCY‑DEV/incy‑platforms 是一个用于获取、管理和发布数据的开�
 | forks | 24/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 37/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 41/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

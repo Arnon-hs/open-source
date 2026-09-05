@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data
+Knowledge/RAG · AI/ML · Documents · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ ScrapeGraphAI/Scrapegraph-ai：ScrapeGraphAI/Scrapegraph-ai helps make internal 
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

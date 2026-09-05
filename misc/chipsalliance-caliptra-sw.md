@@ -1,6 +1,6 @@
 # chipsalliance/caliptra-sw
 
-[![Stars](https://img.shields.io/github/stars/chipsalliance/caliptra-sw?style=flat-square&color=yellow)](https://github.com/chipsalliance/caliptra-sw/stargazers) [![Forks](https://img.shields.io/github/forks/chipsalliance/caliptra-sw?style=flat-square&color=blue)](https://github.com/chipsalliance/caliptra-sw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chipsalliance/caliptra-sw?style=flat-square&color=yellow)](https://github.com/chipsalliance/caliptra-sw/stargazers) [![Forks](https://img.shields.io/github/forks/chipsalliance/caliptra-sw?style=flat-square&color=blue)](https://github.com/chipsalliance/caliptra-sw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Caliptra software (ROM, FMC, runtime firmware), and libraries/tools needed to build and test
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ chipsalliance/caliptra‑sw 是 Caliptra 平台的软件栈，包含 ROM、FMC�
 | forks | 50/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

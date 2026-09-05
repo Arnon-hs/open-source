@@ -1,6 +1,6 @@
 # Ubuntu-123/changeloggenie-prototype
 
-[![Stars](https://img.shields.io/github/stars/Ubuntu-123/changeloggenie-prototype?style=flat-square&color=yellow)](https://github.com/Ubuntu-123/changeloggenie-prototype/stargazers) [![Forks](https://img.shields.io/github/forks/Ubuntu-123/changeloggenie-prototype?style=flat-square&color=blue)](https://github.com/Ubuntu-123/changeloggenie-prototype/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ubuntu-123/changeloggenie-prototype?style=flat-square&color=yellow)](https://github.com/Ubuntu-123/changeloggenie-prototype/stargazers) [![Forks](https://img.shields.io/github/forks/Ubuntu-123/changeloggenie-prototype?style=flat-square&color=blue)](https://github.com/Ubuntu-123/changeloggenie-prototype/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight CLI and GitHub Action for generating technical Markdown changelogs from GitHub commits, with optional local AI-assisted output
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Documents · Backend · DevTools
 
 ## 📝 Summary
 
@@ -66,15 +66,15 @@ Ubuntu-123/changeloggenie-prototype：Ubuntu-123/changeloggenie-prototype helps 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 67/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # NevermindNilas/TheAnimeScripter
 
-[![Stars](https://img.shields.io/github/stars/NevermindNilas/TheAnimeScripter?style=flat-square&color=yellow)](https://github.com/NevermindNilas/TheAnimeScripter/stargazers) [![Forks](https://img.shields.io/github/forks/NevermindNilas/TheAnimeScripter?style=flat-square&color=blue)](https://github.com/NevermindNilas/TheAnimeScripter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NevermindNilas/TheAnimeScripter?style=flat-square&color=yellow)](https://github.com/NevermindNilas/TheAnimeScripter/stargazers) [![Forks](https://img.shields.io/github/forks/NevermindNilas/TheAnimeScripter?style=flat-square&color=blue)](https://github.com/NevermindNilas/TheAnimeScripter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance tool for video upscaling, interpolation, depth estimation, and more. Available as a CLI and Adobe Extension.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ NevermindNilas/TheAnimeScripter 的生产可用性较高，主要原因是：
 | forks | 27/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

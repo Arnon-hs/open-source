@@ -1,6 +1,6 @@
 # vertexproject/synapse
 
-[![Stars](https://img.shields.io/github/stars/vertexproject/synapse?style=flat-square&color=yellow)](https://github.com/vertexproject/synapse/stargazers) [![Forks](https://img.shields.io/github/forks/vertexproject/synapse?style=flat-square&color=blue)](https://github.com/vertexproject/synapse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vertexproject/synapse?style=flat-square&color=yellow)](https://github.com/vertexproject/synapse/stargazers) [![Forks](https://img.shields.io/github/forks/vertexproject/synapse?style=flat-square&color=blue)](https://github.com/vertexproject/synapse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Synapse Central Intelligence System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Synapse的生产可用性为中等（Medium）。它可以用于Prototype或内�
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

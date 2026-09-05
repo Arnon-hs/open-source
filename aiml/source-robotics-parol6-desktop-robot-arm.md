@@ -1,6 +1,6 @@
 # Source-Robotics/PAROL6-Desktop-robot-arm
 
-[![Stars](https://img.shields.io/github/stars/Source-Robotics/PAROL6-Desktop-robot-arm?style=flat-square&color=yellow)](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm/stargazers) [![Forks](https://img.shields.io/github/forks/Source-Robotics/PAROL6-Desktop-robot-arm?style=flat-square&color=blue)](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Source-Robotics/PAROL6-Desktop-robot-arm?style=flat-square&color=yellow)](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm/stargazers) [![Forks](https://img.shields.io/github/forks/Source-Robotics/PAROL6-Desktop-robot-arm?style=flat-square&color=blue)](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > BOM, STL files and instructions for PAROL6 3D printed robot arm
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 342 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Source-Robotics/PAROL6-Desktop-robot-arm 是一个开源项目，提供了 BOM�
 | forks | 63/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

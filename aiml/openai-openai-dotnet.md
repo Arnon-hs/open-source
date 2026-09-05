@@ -1,6 +1,6 @@
 # openai/openai-dotnet
 
-[![Stars](https://img.shields.io/github/stars/openai/openai-dotnet?style=flat-square&color=yellow)](https://github.com/openai/openai-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-dotnet?style=flat-square&color=blue)](https://github.com/openai/openai-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/openai-dotnet?style=flat-square&color=yellow)](https://github.com/openai/openai-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-dotnet?style=flat-square&color=blue)](https://github.com/openai/openai-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The official .NET library for the OpenAI API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 407 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ openai/openai-dotnet 是 OpenAI API 的官方 .NET 库，提供了将 AI 能力�
 | forks | 65/100 |
 | stars | 73/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

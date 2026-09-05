@@ -1,6 +1,6 @@
 # arifozgun/OpenGem
 
-[![Stars](https://img.shields.io/github/stars/arifozgun/OpenGem?style=flat-square&color=yellow)](https://github.com/arifozgun/OpenGem/stargazers) [![Forks](https://img.shields.io/github/forks/arifozgun/OpenGem?style=flat-square&color=blue)](https://github.com/arifozgun/OpenGem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arifozgun/OpenGem?style=flat-square&color=yellow)](https://github.com/arifozgun/OpenGem/stargazers) [![Forks](https://img.shields.io/github/forks/arifozgun/OpenGem?style=flat-square&color=blue)](https://github.com/arifozgun/OpenGem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Free, Open-Source AI API Gateway with Gemini, OpenAI & Anthropic Compatibility in 1 file
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Networking · Backend · DevTools
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ OpenGem 是一个仅用单文件实现的免费开源 AI API 网关，兼容 Gem
 | forks | 28/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

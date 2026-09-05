@@ -1,6 +1,6 @@
 # PCGen/pcgen
 
-[![Stars](https://img.shields.io/github/stars/PCGen/pcgen?style=flat-square&color=yellow)](https://github.com/PCGen/pcgen/stargazers) [![Forks](https://img.shields.io/github/forks/PCGen/pcgen?style=flat-square&color=blue)](https://github.com/PCGen/pcgen/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PCGen/pcgen?style=flat-square&color=yellow)](https://github.com/PCGen/pcgen/stargazers) [![Forks](https://img.shields.io/github/forks/PCGen/pcgen?style=flat-square&color=blue)](https://github.com/PCGen/pcgen/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Main code and data development for pcgen program release
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 467 |
 | 🍴 **Forks** | 350 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ PCGen/pcgen的生产可用性为中等（Medium）。它适用于内部开发和
 | forks | 64/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

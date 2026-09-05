@@ -1,6 +1,6 @@
 # jaydenseric/apollo-upload-client
 
-[![Stars](https://img.shields.io/github/stars/jaydenseric/apollo-upload-client?style=flat-square&color=yellow)](https://github.com/jaydenseric/apollo-upload-client/stargazers) [![Forks](https://img.shields.io/github/forks/jaydenseric/apollo-upload-client?style=flat-square&color=blue)](https://github.com/jaydenseric/apollo-upload-client/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaydenseric/apollo-upload-client?style=flat-square&color=yellow)](https://github.com/jaydenseric/apollo-upload-client/stargazers) [![Forks](https://img.shields.io/github/forks/jaydenseric/apollo-upload-client?style=flat-square&color=blue)](https://github.com/jaydenseric/apollo-upload-client/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request if the GraphQL variables contain files (by default FileList, File, or Blob instances), or else fetches a regular GraphQL POST or GET request (depending on the config and GraphQL operation).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Mobile
+Frontend · Backend · Mobile
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ jaydenseric/apollo-upload-client 是一个终止 Apollo Link 的开源项目，�
 | forks | 55/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

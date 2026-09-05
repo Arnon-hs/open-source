@@ -1,6 +1,6 @@
 # datawhalechina/easy-data-x-ai
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-data-x-ai?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-data-x-ai/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-data-x-ai?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-data-x-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-data-x-ai?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-data-x-ai/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-data-x-ai?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-data-x-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 《Easy Data x AI》是一门面向所有 AI 爱好者的数据与 AI 基础入门课程。通过双轨学习路径，从数据驱动视角学习构建 AI Agent。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Orchestration · AI/ML · Data · Database · Education
 | forks | 31/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

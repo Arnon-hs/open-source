@@ -1,6 +1,6 @@
 # hi-godot/godot-ai
 
-[![Stars](https://img.shields.io/github/stars/hi-godot/godot-ai?style=flat-square&color=yellow)](https://github.com/hi-godot/godot-ai/stargazers) [![Forks](https://img.shields.io/github/forks/hi-godot/godot-ai?style=flat-square&color=blue)](https://github.com/hi-godot/godot-ai/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hi-godot/godot-ai?style=flat-square&color=yellow)](https://github.com/hi-godot/godot-ai/stargazers) [![Forks](https://img.shields.io/github/forks/hi-godot/godot-ai?style=flat-square&color=blue)](https://github.com/hi-godot/godot-ai/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 795 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | GDScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Games & Graphics
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ hi-godot/godot-ai 的生产可用性非常高，主要原因是：
 | forks | 43/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

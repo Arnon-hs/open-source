@@ -1,6 +1,6 @@
 # argmaxinc/whisperkit-coreml
 
-[![Stars](https://img.shields.io/github/stars/argmaxinc/whisperkit-coreml?style=flat-square&color=yellow)](https://huggingface.co/argmaxinc/whisperkit-coreml/stargazers) [![Forks](https://img.shields.io/github/forks/argmaxinc/whisperkit-coreml?style=flat-square&color=blue)](https://huggingface.co/argmaxinc/whisperkit-coreml/network) [![Language](https://img.shields.io/badge/lang-whisperkit-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argmaxinc/whisperkit-coreml?style=flat-square&color=yellow)](https://huggingface.co/argmaxinc/whisperkit-coreml/stargazers) [![Forks](https://img.shields.io/github/forks/argmaxinc/whisperkit-coreml?style=flat-square&color=blue)](https://huggingface.co/argmaxinc/whisperkit-coreml/network) [![Language](https://img.shields.io/badge/lang-whisperkit-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Speech recognition (automatic-speech-recognition) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | whisperkit |
-| 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ argmaxinc/whisperkit-coreml 的价值在于提供一个现成的、基于 Huggin
 | forks | 0/100 |
 | stars | 49/100 |
 | topics | 38/100 |
-| outlook | 35/100 |
-| quality | 37/100 |
-| recency | 20/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 37/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

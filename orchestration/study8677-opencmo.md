@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Marketing
+Orchestration · AI/ML · Libraries & SDKs · Marketing
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ study8677/OpenCMO：study8677/OpenCMO helps turn isolated prompts and tools into
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

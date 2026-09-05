@@ -1,6 +1,6 @@
 # vouchdev/vouch
 
-[![Stars](https://img.shields.io/github/stars/vouchdev/vouch?style=flat-square&color=yellow)](https://github.com/vouchdev/vouch/stargazers) [![Forks](https://img.shields.io/github/forks/vouchdev/vouch?style=flat-square&color=blue)](https://github.com/vouchdev/vouch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vouchdev/vouch?style=flat-square&color=yellow)](https://github.com/vouchdev/vouch/stargazers) [![Forks](https://img.shields.io/github/forks/vouchdev/vouch?style=flat-square&color=blue)](https://github.com/vouchdev/vouch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A git-native, review-gated knowledge base for AI agents: they propose writes, you approve them. Every claim cites a source, every change is a diff in your repo. MCP + CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ vouchdev/vouch 已具备进入生产环境的技术准备度，适合作为“AI
 | forks | 40/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

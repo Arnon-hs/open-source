@@ -1,6 +1,6 @@
 # yantrikos/yantrikdb-mcp
 
-[![Stars](https://img.shields.io/github/stars/yantrikos/yantrikdb-mcp?style=flat-square&color=yellow)](https://github.com/yantrikos/yantrikdb-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/yantrikos/yantrikdb-mcp?style=flat-square&color=blue)](https://github.com/yantrikos/yantrikdb-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yantrikos/yantrikdb-mcp?style=flat-square&color=yellow)](https://github.com/yantrikos/yantrikdb-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/yantrikos/yantrikdb-mcp?style=flat-square&color=blue)](https://github.com/yantrikos/yantrikdb-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent cognitive memory for AI agents — drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contradiction detection, knowledge graph, autonomous consolidation. Backed by the YantrikDB Rust engine. Install: pip install yantrikdb-mcp.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ yantrikos/yantrikdb-mcp 为 AI 代理提供持久化的认知记忆层，作为 
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

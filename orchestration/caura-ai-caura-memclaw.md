@@ -1,6 +1,6 @@
 # caura-ai/caura-memclaw
 
-[![Stars](https://img.shields.io/github/stars/caura-ai/caura-memclaw?style=flat-square&color=yellow)](https://github.com/caura-ai/caura-memclaw/stargazers) [![Forks](https://img.shields.io/github/forks/caura-ai/caura-memclaw?style=flat-square&color=blue)](https://github.com/caura-ai/caura-memclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caura-ai/caura-memclaw?style=flat-square&color=yellow)](https://github.com/caura-ai/caura-memclaw/stargazers) [![Forks](https://img.shields.io/github/forks/caura-ai/caura-memclaw?style=flat-square&color=blue)](https://github.com/caura-ai/caura-memclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ caura‑ai/caura‑memclaw 为 AI 代理舰队提供受治理的共享记忆层�
 | forks | 29/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

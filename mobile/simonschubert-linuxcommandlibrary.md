@@ -1,6 +1,6 @@
 # SimonSchubert/LinuxCommandLibrary
 
-[![Stars](https://img.shields.io/github/stars/SimonSchubert/LinuxCommandLibrary?style=flat-square&color=yellow)](https://github.com/SimonSchubert/LinuxCommandLibrary/stargazers) [![Forks](https://img.shields.io/github/forks/SimonSchubert/LinuxCommandLibrary?style=flat-square&color=blue)](https://github.com/SimonSchubert/LinuxCommandLibrary/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SimonSchubert/LinuxCommandLibrary?style=flat-square&color=yellow)](https://github.com/SimonSchubert/LinuxCommandLibrary/stargazers) [![Forks](https://img.shields.io/github/forks/SimonSchubert/LinuxCommandLibrary?style=flat-square&color=blue)](https://github.com/SimonSchubert/LinuxCommandLibrary/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ SimonSchubert/LinuxCommandLibrary 帮助团队通过减少自定义管道来持�
 | forks | 54/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

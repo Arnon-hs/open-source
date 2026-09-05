@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML
+MCP · Knowledge/RAG · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ moyangzhan/langchain4j-aideepin：moyangzhan/langchain4j-aideepin helps connect 
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # quarto-dev/quarto-cli
 
-[![Stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=flat-square&color=yellow)](https://github.com/quarto-dev/quarto-cli/stargazers) [![Forks](https://img.shields.io/github/forks/quarto-dev/quarto-cli?style=flat-square&color=blue)](https://github.com/quarto-dev/quarto-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=flat-square&color=yellow)](https://github.com/quarto-dev/quarto-cli/stargazers) [![Forks](https://img.shields.io/github/forks/quarto-dev/quarto-cli?style=flat-square&color=blue)](https://github.com/quarto-dev/quarto-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source scientific and technical publishing system built on Pandoc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 447 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ quarto-dev/quarto-cli 的生产可用性为中等（Medium），适合用于原�
 | forks | 66/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

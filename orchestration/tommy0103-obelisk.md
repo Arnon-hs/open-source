@@ -1,6 +1,6 @@
 # tommy0103/obelisk
 
-[![Stars](https://img.shields.io/github/stars/tommy0103/obelisk?style=flat-square&color=yellow)](https://github.com/tommy0103/obelisk/stargazers) [![Forks](https://img.shields.io/github/forks/tommy0103/obelisk?style=flat-square&color=blue)](https://github.com/tommy0103/obelisk/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tommy0103/obelisk?style=flat-square&color=yellow)](https://github.com/tommy0103/obelisk/stargazers) [![Forks](https://img.shields.io/github/forks/tommy0103/obelisk?style=flat-square&color=blue)](https://github.com/tommy0103/obelisk/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Every past session, subagent, and workflow -- queryable by your agent, browsable by you
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Obelisk 的生产可用性为中等（Medium）。它适合用于原型开发或
 | forks | 29/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

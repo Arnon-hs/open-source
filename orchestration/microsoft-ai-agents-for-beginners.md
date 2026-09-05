@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 20.6k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ microsoft/ai-agents-for-beginners：microsoft/ai-agents-for-beginners helps turn
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

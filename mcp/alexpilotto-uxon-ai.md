@@ -1,6 +1,6 @@
 # alexpilotto/uxon-ai
 
-[![Stars](https://img.shields.io/github/stars/alexpilotto/uxon-ai?style=flat-square&color=yellow)](https://github.com/alexpilotto/uxon-ai/stargazers) [![Forks](https://img.shields.io/github/forks/alexpilotto/uxon-ai?style=flat-square&color=blue)](https://github.com/alexpilotto/uxon-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexpilotto/uxon-ai?style=flat-square&color=yellow)](https://github.com/alexpilotto/uxon-ai/stargazers) [![Forks](https://img.shields.io/github/forks/alexpilotto/uxon-ai?style=flat-square&color=blue)](https://github.com/alexpilotto/uxon-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > UXON is an MCP server and API that lets AI agents and developers create landing pages, run A/B experiments, and track conversions across domains.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Marketing
+MCP · Automation · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -100,11 +100,11 @@ UXON 的生产可用性很高，最近有活动，采用度和生态系统信号
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

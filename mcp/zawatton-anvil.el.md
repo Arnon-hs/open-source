@@ -1,6 +1,6 @@
 # zawatton/anvil.el
 
-[![Stars](https://img.shields.io/github/stars/zawatton/anvil.el?style=flat-square&color=yellow)](https://github.com/zawatton/anvil.el/stargazers) [![Forks](https://img.shields.io/github/forks/zawatton/anvil.el?style=flat-square&color=blue)](https://github.com/zawatton/anvil.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zawatton/anvil.el?style=flat-square&color=yellow)](https://github.com/zawatton/anvil.el/stargazers) [![Forks](https://img.shields.io/github/forks/zawatton/anvil.el?style=flat-square&color=blue)](https://github.com/zawatton/anvil.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server written in Elisp — a token-efficient workbench for AI agents. Drives files, org-mode, Elisp & SQLite from any MCP client   (Claude, GPT, local LLMs) through Emacs primitives instead of sed/grep round-trips.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Database
+MCP · AI/ML · Database
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ zawatton/anvil.el 是用 Emacs Lisp 编写的 MCP（Model Context Protocol�
 | forks | 25/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

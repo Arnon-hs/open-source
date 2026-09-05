@@ -1,6 +1,6 @@
 # GNOME/gnome-shell
 
-[![Stars](https://img.shields.io/github/stars/GNOME/gnome-shell?style=flat-square&color=yellow)](https://github.com/GNOME/gnome-shell/stargazers) [![Forks](https://img.shields.io/github/forks/GNOME/gnome-shell?style=flat-square&color=blue)](https://github.com/GNOME/gnome-shell/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GNOME/gnome-shell?style=flat-square&color=yellow)](https://github.com/GNOME/gnome-shell/stargazers) [![Forks](https://img.shields.io/github/forks/GNOME/gnome-shell?style=flat-square&color=blue)](https://github.com/GNOME/gnome-shell/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-shell
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 949 |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ GNOME/gnome-shell 提供了一个功能完整且可高度定制的桌面 UI 框�
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

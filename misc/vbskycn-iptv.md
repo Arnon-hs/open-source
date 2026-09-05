@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 859 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ vbskycn/iptv：vbskycn/iptv may be useful when its README and activity match a c
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

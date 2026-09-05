@@ -1,6 +1,6 @@
 # builderz-labs/marketing-dashboard
 
-[![Stars](https://img.shields.io/github/stars/builderz-labs/marketing-dashboard?style=flat-square&color=yellow)](https://github.com/builderz-labs/marketing-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/builderz-labs/marketing-dashboard?style=flat-square&color=blue)](https://github.com/builderz-labs/marketing-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/builderz-labs/marketing-dashboard?style=flat-square&color=yellow)](https://github.com/builderz-labs/marketing-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/builderz-labs/marketing-dashboard?style=flat-square&color=blue)](https://github.com/builderz-labs/marketing-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first marketing operations control center for CRM, outreach, content, analytics, approvals, automations, and agent workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ builderz-labs/marketing-dashboard 的生产可用性很高，受到了强烈的�
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

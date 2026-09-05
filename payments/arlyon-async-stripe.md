@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ arlyon/async-stripe：arlyon/async-stripe helps integrate monetization, billing,
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

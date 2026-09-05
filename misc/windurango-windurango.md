@@ -1,6 +1,6 @@
 # WinDurango/WinDurango
 
-[![Stars](https://img.shields.io/github/stars/WinDurango/WinDurango?style=flat-square&color=yellow)](https://github.com/WinDurango/WinDurango/stargazers) [![Forks](https://img.shields.io/github/forks/WinDurango/WinDurango?style=flat-square&color=blue)](https://github.com/WinDurango/WinDurango/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WinDurango/WinDurango?style=flat-square&color=yellow)](https://github.com/WinDurango/WinDurango/stargazers) [![Forks](https://img.shields.io/github/forks/WinDurango/WinDurango?style=flat-square&color=blue)](https://github.com/WinDurango/WinDurango/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The world's first Xbox One compatibility layer for Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ WinDurango/WinDurango 的生产可用性为中等。它适合用于原型和内�
 | forks | 44/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # primitive-bench/primitive-bench
 
-[![Stars](https://img.shields.io/github/stars/primitive-bench/primitive-bench?style=flat-square&color=yellow)](https://github.com/primitive-bench/primitive-bench/stargazers) [![Forks](https://img.shields.io/github/forks/primitive-bench/primitive-bench?style=flat-square&color=blue)](https://github.com/primitive-bench/primitive-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/primitive-bench/primitive-bench?style=flat-square&color=yellow)](https://github.com/primitive-bench/primitive-bench/stargazers) [![Forks](https://img.shields.io/github/forks/primitive-bench/primitive-bench?style=flat-square&color=blue)](https://github.com/primitive-bench/primitive-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The marketplace for verifiable AI outcomes: state a task, get a fixed price upfront, and Primitive Bench routes across tools to complete it, refunded if the outcome isn't delivered. This repo is the open verification layer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ PrimitiveBench 提供了一种可验证的 AI 结果市场，能够将零散�
 | forks | 17/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

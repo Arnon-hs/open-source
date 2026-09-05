@@ -1,6 +1,6 @@
 # FROWNINGdev/django-orm-lens
 
-[![Stars](https://img.shields.io/github/stars/FROWNINGdev/django-orm-lens?style=flat-square&color=yellow)](https://github.com/FROWNINGdev/django-orm-lens/stargazers) [![Forks](https://img.shields.io/github/forks/FROWNINGdev/django-orm-lens?style=flat-square&color=blue)](https://github.com/FROWNINGdev/django-orm-lens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FROWNINGdev/django-orm-lens?style=flat-square&color=yellow)](https://github.com/FROWNINGdev/django-orm-lens/stargazers) [![Forks](https://img.shields.io/github/forks/FROWNINGdev/django-orm-lens?style=flat-square&color=blue)](https://github.com/FROWNINGdev/django-orm-lens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Live sidebar, ER diagrams, CLI, and MCP server for Django models. VS Code + PyPI + MCP Registry + Glama. Zero-dep parser, no DB required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · AI/ML · Backend · DevTools · Data
 
 ## 📝 Summary
 
@@ -108,11 +108,11 @@ FROWNINGdev/django-orm-lens 的生产可用性很高，理由如下：
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

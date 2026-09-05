@@ -1,6 +1,6 @@
 # lpalbou/mlx-gen
 
-[![Stars](https://img.shields.io/github/stars/lpalbou/mlx-gen?style=flat-square&color=yellow)](https://github.com/lpalbou/mlx-gen/stargazers) [![Forks](https://img.shields.io/github/forks/lpalbou/mlx-gen?style=flat-square&color=blue)](https://github.com/lpalbou/mlx-gen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lpalbou/mlx-gen?style=flat-square&color=yellow)](https://github.com/lpalbou/mlx-gen/stargazers) [![Forks](https://img.shields.io/github/forks/lpalbou/mlx-gen?style=flat-square&color=blue)](https://github.com/lpalbou/mlx-gen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Generative image and video runtimes for Apple Silicon (MLX): text/image-to-image, instruction editing, masked edit, text/image/reference-to-video, video editing, and restoration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ lpalbou/mlx-gen 让你能在 Apple Silicon 上使用 MLX 快速生成和编辑�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

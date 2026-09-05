@@ -1,6 +1,6 @@
 # mithun50/openclaw-termux
 
-[![Stars](https://img.shields.io/github/stars/mithun50/openclaw-termux?style=flat-square&color=yellow)](https://github.com/mithun50/openclaw-termux/stargazers) [![Forks](https://img.shields.io/github/forks/mithun50/openclaw-termux?style=flat-square&color=blue)](https://github.com/mithun50/openclaw-termux/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mithun50/openclaw-termux?style=flat-square&color=yellow)](https://github.com/mithun50/openclaw-termux/stargazers) [![Forks](https://img.shields.io/github/forks/mithun50/openclaw-termux?style=flat-square&color=blue)](https://github.com/mithun50/openclaw-termux/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, and one-tap setup. Also available as a Termux CLI package.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ mithun50/openclaw-termux 是一个开源项目，允许在 Android 设备上运�
 | forks | 60/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

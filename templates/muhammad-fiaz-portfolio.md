@@ -1,6 +1,6 @@
 # muhammad-fiaz/portfolio
 
-[![Stars](https://img.shields.io/github/stars/muhammad-fiaz/portfolio?style=flat-square&color=yellow)](https://github.com/muhammad-fiaz/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/muhammad-fiaz/portfolio?style=flat-square&color=blue)](https://github.com/muhammad-fiaz/portfolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muhammad-fiaz/portfolio?style=flat-square&color=yellow)](https://github.com/muhammad-fiaz/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/muhammad-fiaz/portfolio?style=flat-square&color=blue)](https://github.com/muhammad-fiaz/portfolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to my portfolio repository! This open-source project, built with Next.js and TypeScript, creates a dynamic and responsive portfolio. Explore the code to perfect your showcase of skills!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 230 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Frontend · DevTools
+Templates · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ To adopt this project, developers can follow these steps:
 | forks | 45/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

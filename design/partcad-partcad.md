@@ -1,6 +1,6 @@
 # partcad/partcad
 
-[![Stars](https://img.shields.io/github/stars/partcad/partcad?style=flat-square&color=yellow)](https://github.com/partcad/partcad/stargazers) [![Forks](https://img.shields.io/github/forks/partcad/partcad?style=flat-square&color=blue)](https://github.com/partcad/partcad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/partcad/partcad?style=flat-square&color=yellow)](https://github.com/partcad/partcad/stargazers) [![Forks](https://img.shields.io/github/forks/partcad/partcad?style=flat-square&color=blue)](https://github.com/partcad/partcad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Package manager for things. Start designing modular hardware! PartCAD is the standard for documenting manufacturable physical products (a.k.a. Digital Thread or TDP). It comes with a set of tools to maintain product information and to facilitate efficient and effective workflows at all product lifecycle phases, boosted by AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 476 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ PartCAD 的生产可用性很高，主要原因是：
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

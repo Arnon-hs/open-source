@@ -1,6 +1,6 @@
 # simonw/sqlite-utils
 
-[![Stars](https://img.shields.io/github/stars/simonw/sqlite-utils?style=flat-square&color=yellow)](https://github.com/simonw/sqlite-utils/stargazers) [![Forks](https://img.shields.io/github/forks/simonw/sqlite-utils?style=flat-square&color=blue)](https://github.com/simonw/sqlite-utils/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonw/sqlite-utils?style=flat-square&color=yellow)](https://github.com/simonw/sqlite-utils/stargazers) [![Forks](https://img.shields.io/github/forks/simonw/sqlite-utils?style=flat-square&color=blue)](https://github.com/simonw/sqlite-utils/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Python CLI utility and library for manipulating SQLite databases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ simonw/sqlite-utils：simonw/sqlite-utils helps engineers save time in daily dev
 | forks | 54/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

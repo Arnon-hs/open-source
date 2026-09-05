@@ -1,6 +1,6 @@
 # heygen-com/hyperframes-community-skills
 
-[![Stars](https://img.shields.io/github/stars/heygen-com/hyperframes-community-skills?style=flat-square&color=yellow)](https://github.com/heygen-com/hyperframes-community-skills/stargazers) [![Forks](https://img.shields.io/github/forks/heygen-com/hyperframes-community-skills?style=flat-square&color=blue)](https://github.com/heygen-com/hyperframes-community-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heygen-com/hyperframes-community-skills?style=flat-square&color=yellow)](https://github.com/heygen-com/hyperframes-community-skills/stargazers) [![Forks](https://img.shields.io/github/forks/heygen-com/hyperframes-community-skills?style=flat-square&color=blue)](https://github.com/heygen-com/hyperframes-community-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Community-maintained skills for specialized HyperFrames workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ heygen-com/hyperframes-community-skills 将孤立的提示和工具转化为可�
 | forks | 8/100 |
 | stars | 23/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 19/100 |
-| production | 66/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

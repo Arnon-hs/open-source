@@ -1,6 +1,6 @@
 # spytensor/openmozi
 
-[![Stars](https://img.shields.io/github/stars/spytensor/openmozi?style=flat-square&color=yellow)](https://github.com/spytensor/openmozi/stargazers) [![Forks](https://img.shields.io/github/forks/spytensor/openmozi?style=flat-square&color=blue)](https://github.com/spytensor/openmozi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spytensor/openmozi?style=flat-square&color=yellow)](https://github.com/spytensor/openmozi/stargazers) [![Forks](https://img.shields.io/github/forks/spytensor/openmozi?style=flat-square&color=blue)](https://github.com/spytensor/openmozi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A custom Agent OS built to be hackable, heavily inspired by OpenClaw.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ While the spytensor/openmozi project has a medium production readiness score, it
 | forks | 0/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 59/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

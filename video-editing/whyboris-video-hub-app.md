@@ -1,6 +1,6 @@
 # whyboris/Video-Hub-App
 
-[![Stars](https://img.shields.io/github/stars/whyboris/Video-Hub-App?style=flat-square&color=yellow)](https://github.com/whyboris/Video-Hub-App/stargazers) [![Forks](https://img.shields.io/github/forks/whyboris/Video-Hub-App?style=flat-square&color=blue)](https://github.com/whyboris/Video-Hub-App/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/whyboris/Video-Hub-App?style=flat-square&color=yellow)](https://github.com/whyboris/Video-Hub-App/stargazers) [![Forks](https://img.shields.io/github/forks/whyboris/Video-Hub-App?style=flat-square&color=blue)](https://github.com/whyboris/Video-Hub-App/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Official repository for Video Hub App
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 704 |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing
+Video Editing · Frontend
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ Video‑Hub‑App 是 whyboris 官方维护的开源视频管理平台，使用 
 | forks | 58/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

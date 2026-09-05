@@ -1,6 +1,6 @@
 # Hommy-master/capcut-mate
 
-[![Stars](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square&color=yellow)](https://github.com/Hommy-master/capcut-mate/stargazers) [![Forks](https://img.shields.io/github/forks/Hommy-master/capcut-mate?style=flat-square&color=blue)](https://github.com/Hommy-master/capcut-mate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square&color=yellow)](https://github.com/Hommy-master/capcut-mate/stargazers) [![Forks](https://img.shields.io/github/forks/Hommy-master/capcut-mate?style=flat-square&color=blue)](https://github.com/Hommy-master/capcut-mate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 开源剪映小助手｜剪映API | 扣子插件 | Open-source CapCut automation toolkit to generate & download draft files.  | skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Hommy‑master/capcut‑mate 是一套开源的 CapCut（剪映）自动化工�
 | forks | 59/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 67/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

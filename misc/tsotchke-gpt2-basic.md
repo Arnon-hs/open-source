@@ -1,6 +1,6 @@
 # tsotchke/gpt2-basic
 
-[![Stars](https://img.shields.io/github/stars/tsotchke/gpt2-basic?style=flat-square&color=yellow)](https://github.com/tsotchke/gpt2-basic/stargazers) [![Forks](https://img.shields.io/github/forks/tsotchke/gpt2-basic?style=flat-square&color=blue)](https://github.com/tsotchke/gpt2-basic/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tsotchke/gpt2-basic?style=flat-square&color=yellow)](https://github.com/tsotchke/gpt2-basic/stargazers) [![Forks](https://img.shields.io/github/forks/tsotchke/gpt2-basic?style=flat-square&color=blue)](https://github.com/tsotchke/gpt2-basic/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: GPT2-BASIC: Portable Machine Intelligence in BASIC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 30/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ GPT2‑BASIC 是一个用 BASIC 语言实现的轻量级 GPT‑2 推理引擎，
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 31/100 |
-| quality | 22/100 |
-| recency | 40/100 |
+| outlook | 45/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 36/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

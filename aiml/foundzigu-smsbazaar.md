@@ -1,6 +1,6 @@
 # FoundZiGu/SMSBazaar
 
-[![Stars](https://img.shields.io/github/stars/FoundZiGu/SMSBazaar?style=flat-square&color=yellow)](https://github.com/FoundZiGu/SMSBazaar/stargazers) [![Forks](https://img.shields.io/github/forks/FoundZiGu/SMSBazaar?style=flat-square&color=blue)](https://github.com/FoundZiGu/SMSBazaar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FoundZiGu/SMSBazaar?style=flat-square&color=yellow)](https://github.com/FoundZiGu/SMSBazaar/stargazers) [![Forks](https://img.shields.io/github/forks/FoundZiGu/SMSBazaar?style=flat-square&color=blue)](https://github.com/FoundZiGu/SMSBazaar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OPENAI(ChatGPT) 短信接码价格和库存对比看板
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ FoundZiGu/SMSBazaar 的生产可用性为中等（Medium）。它适合用于原
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

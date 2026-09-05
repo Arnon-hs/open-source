@@ -1,6 +1,6 @@
 # EdoardoBambini/IAGA-Sentinel
 
-[![Stars](https://img.shields.io/github/stars/EdoardoBambini/IAGA-Sentinel?style=flat-square&color=yellow)](https://github.com/EdoardoBambini/IAGA-Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/EdoardoBambini/IAGA-Sentinel?style=flat-square&color=blue)](https://github.com/EdoardoBambini/IAGA-Sentinel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EdoardoBambini/IAGA-Sentinel?style=flat-square&color=yellow)](https://github.com/EdoardoBambini/IAGA-Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/EdoardoBambini/IAGA-Sentinel?style=flat-square&color=blue)](https://github.com/EdoardoBambini/IAGA-Sentinel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > IAGA Sentinel sits next to your AI agents and answers the one question the agent itself cannot.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ IAGA‑Sentinel 是一个用 Rust 编写的轻量级服务，能够在 AI 代理
 | forks | 21/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

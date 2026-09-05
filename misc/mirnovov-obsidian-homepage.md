@@ -1,6 +1,6 @@
 # mirnovov/obsidian-homepage
 
-[![Stars](https://img.shields.io/github/stars/mirnovov/obsidian-homepage?style=flat-square&color=yellow)](https://github.com/mirnovov/obsidian-homepage/stargazers) [![Forks](https://img.shields.io/github/forks/mirnovov/obsidian-homepage?style=flat-square&color=blue)](https://github.com/mirnovov/obsidian-homepage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mirnovov/obsidian-homepage?style=flat-square&color=yellow)](https://github.com/mirnovov/obsidian-homepage/stargazers) [![Forks](https://img.shields.io/github/forks/mirnovov/obsidian-homepage?style=flat-square&color=blue)](https://github.com/mirnovov/obsidian-homepage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 664 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ mirnovov/obsidian‑homepage 是一款 Obsidian 插件，能够在启动时自�
 | forks | 36/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 41/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Kjudeh/whatsapp-ai-receptionist
 
-[![Stars](https://img.shields.io/github/stars/Kjudeh/whatsapp-ai-receptionist?style=flat-square&color=yellow)](https://github.com/Kjudeh/whatsapp-ai-receptionist/stargazers) [![Forks](https://img.shields.io/github/forks/Kjudeh/whatsapp-ai-receptionist?style=flat-square&color=blue)](https://github.com/Kjudeh/whatsapp-ai-receptionist/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kjudeh/whatsapp-ai-receptionist?style=flat-square&color=yellow)](https://github.com/Kjudeh/whatsapp-ai-receptionist/stargazers) [![Forks](https://img.shields.io/github/forks/Kjudeh/whatsapp-ai-receptionist?style=flat-square&color=blue)](https://github.com/Kjudeh/whatsapp-ai-receptionist/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ Kjudeh/whatsapp-ai-receptionist：Kjudeh/whatsapp-ai-receptionist helps teams re
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 88/100 |
-| outlook | 71/100 |
-| quality | 49/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 44/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 63/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 50/100 |
 | sourceTrust | 70/100 |

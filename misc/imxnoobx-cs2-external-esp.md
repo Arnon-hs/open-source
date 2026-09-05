@@ -1,6 +1,6 @@
 # IMXNOOBX/cs2-external-esp
 
-[![Stars](https://img.shields.io/github/stars/IMXNOOBX/cs2-external-esp?style=flat-square&color=yellow)](https://github.com/IMXNOOBX/cs2-external-esp/stargazers) [![Forks](https://img.shields.io/github/forks/IMXNOOBX/cs2-external-esp?style=flat-square&color=blue)](https://github.com/IMXNOOBX/cs2-external-esp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IMXNOOBX/cs2-external-esp?style=flat-square&color=yellow)](https://github.com/IMXNOOBX/cs2-external-esp/stargazers) [![Forks](https://img.shields.io/github/forks/IMXNOOBX/cs2-external-esp?style=flat-square&color=blue)](https://github.com/IMXNOOBX/cs2-external-esp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Simple external ESP for Counter-Strike 2, after many years, the codebase has been modernized for clarity and ease of use, with a redesigned interface, noticeable performance improvements, and several new quality-of-life features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 530 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ IMXNOOBX/cs2-external-esp 是一个开源项目，专为 Counter-Strike 2 设计
 | forks | 53/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

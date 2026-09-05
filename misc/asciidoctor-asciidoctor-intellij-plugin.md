@@ -1,6 +1,6 @@
 # asciidoctor/asciidoctor-intellij-plugin
 
-[![Stars](https://img.shields.io/github/stars/asciidoctor/asciidoctor-intellij-plugin?style=flat-square&color=yellow)](https://github.com/asciidoctor/asciidoctor-intellij-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/asciidoctor/asciidoctor-intellij-plugin?style=flat-square&color=blue)](https://github.com/asciidoctor/asciidoctor-intellij-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asciidoctor/asciidoctor-intellij-plugin?style=flat-square&color=yellow)](https://github.com/asciidoctor/asciidoctor-intellij-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/asciidoctor/asciidoctor-intellij-plugin?style=flat-square&color=blue)](https://github.com/asciidoctor/asciidoctor-intellij-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ asciidoctor/asciidoctor‑intellij‑plugin 是一款在 IntelliJ 系列 IDE（I
 | forks | 55/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

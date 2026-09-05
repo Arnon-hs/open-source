@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 24.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ FlowiseAI/Flowise：FlowiseAI/Flowise helps turn isolated prompts and tools into
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

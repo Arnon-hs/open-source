@@ -1,6 +1,6 @@
 # LyoSU/capka
 
-[![Stars](https://img.shields.io/github/stars/LyoSU/capka?style=flat-square&color=yellow)](https://github.com/LyoSU/capka/stargazers) [![Forks](https://img.shields.io/github/forks/LyoSU/capka?style=flat-square&color=blue)](https://github.com/LyoSU/capka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LyoSU/capka?style=flat-square&color=yellow)](https://github.com/LyoSU/capka/stargazers) [![Forks](https://img.shields.io/github/forks/LyoSU/capka?style=flat-square&color=blue)](https://github.com/LyoSU/capka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Capka AI — An open-source, self-hosted sandbox for AI agents. A community-driven alternative to Claude's Cowork
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Capka AI（LyoSU/capka）是一个开源、可自托管的 AI 代理沙箱，提
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mmprotest/villani-code
 
-[![Stars](https://img.shields.io/github/stars/mmprotest/villani-code?style=flat-square&color=yellow)](https://github.com/mmprotest/villani-code/stargazers) [![Forks](https://img.shields.io/github/forks/mmprotest/villani-code?style=flat-square&color=blue)](https://github.com/mmprotest/villani-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmprotest/villani-code?style=flat-square&color=yellow)](https://github.com/mmprotest/villani-code/stargazers) [![Forks](https://img.shields.io/github/forks/mmprotest/villani-code?style=flat-square&color=blue)](https://github.com/mmprotest/villani-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Some tools help. Some tools assist. Villani Code intervenes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ mmprotest/villani-code 提供了一套即插即用的 AI 工具链，能够在�
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

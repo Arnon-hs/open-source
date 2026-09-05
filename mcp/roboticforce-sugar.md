@@ -1,6 +1,6 @@
 # roboticforce/sugar
 
-[![Stars](https://img.shields.io/github/stars/roboticforce/sugar?style=flat-square&color=yellow)](https://github.com/roboticforce/sugar/stargazers) [![Forks](https://img.shields.io/github/forks/roboticforce/sugar?style=flat-square&color=blue)](https://github.com/roboticforce/sugar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roboticforce/sugar?style=flat-square&color=yellow)](https://github.com/roboticforce/sugar/stargazers) [![Forks](https://img.shields.io/github/forks/roboticforce/sugar?style=flat-square&color=blue)](https://github.com/roboticforce/sugar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory for AI coding agents. Local-first, cross-session context, global knowledge, and optional autonomous task execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Backend
+MCP · Knowledge/RAG · Automation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -92,11 +92,11 @@ roboticforce/sugar 的生产可用性非常高。它最近有活跃的维护者�
 | forks | 29/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 406 |
 | 💻 **Language** | OCaml |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ ocaml/opam：ocaml/opam helps remove repetitive manual operations from a workflo
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

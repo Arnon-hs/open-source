@@ -1,6 +1,6 @@
 # shanggqm/codexU
 
-[![Stars](https://img.shields.io/github/stars/shanggqm/codexU?style=flat-square&color=yellow)](https://github.com/shanggqm/codexU/stargazers) [![Forks](https://img.shields.io/github/forks/shanggqm/codexU?style=flat-square&color=blue)](https://github.com/shanggqm/codexU/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shanggqm/codexU?style=flat-square&color=yellow)](https://github.com/shanggqm/codexU/stargazers) [![Forks](https://img.shields.io/github/forks/shanggqm/codexU?style=flat-square&color=blue)](https://github.com/shanggqm/codexU/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > macOS desktop widget for OpenAI Codex usage, quota tracking, token usage, and today task board
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ shanggqm/codexU 的生产可用性为中等。它适合用于 prototyping 或内
 | forks | 32/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

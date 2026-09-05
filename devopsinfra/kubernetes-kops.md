@@ -1,6 +1,6 @@
 # kubernetes/kops
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/kops?style=flat-square&color=yellow)](https://github.com/kubernetes/kops/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/kops?style=flat-square&color=blue)](https://github.com/kubernetes/kops/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/kops?style=flat-square&color=yellow)](https://github.com/kubernetes/kops/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/kops?style=flat-square&color=blue)](https://github.com/kubernetes/kops/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.6k |
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ kubernetes/kops 已经获得了足够的生产可用性，适合用于生产环�
 | forks | 92/100 |
 | stars | 90/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 62/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

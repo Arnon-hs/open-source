@@ -1,6 +1,6 @@
 # crate-ci/cargo-release
 
-[![Stars](https://img.shields.io/github/stars/crate-ci/cargo-release?style=flat-square&color=yellow)](https://github.com/crate-ci/cargo-release/stargazers) [![Forks](https://img.shields.io/github/forks/crate-ci/cargo-release?style=flat-square&color=blue)](https://github.com/crate-ci/cargo-release/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crate-ci/cargo-release?style=flat-square&color=yellow)](https://github.com/crate-ci/cargo-release/stargazers) [![Forks](https://img.shields.io/github/forks/crate-ci/cargo-release?style=flat-square&color=blue)](https://github.com/crate-ci/cargo-release/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Cargo subcommand `release`: everything about releasing a rust crate.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ crate‑ci/cargo‑release 提供了 Cargo 子命令 `release`，能够一键完
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

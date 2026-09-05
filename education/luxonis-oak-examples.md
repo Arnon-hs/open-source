@@ -1,6 +1,6 @@
 # luxonis/oak-examples
 
-[![Stars](https://img.shields.io/github/stars/luxonis/oak-examples?style=flat-square&color=yellow)](https://github.com/luxonis/oak-examples/stargazers) [![Forks](https://img.shields.io/github/forks/luxonis/oak-examples?style=flat-square&color=blue)](https://github.com/luxonis/oak-examples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luxonis/oak-examples?style=flat-square&color=yellow)](https://github.com/luxonis/oak-examples/stargazers) [![Forks](https://img.shields.io/github/forks/luxonis/oak-examples?style=flat-square&color=blue)](https://github.com/luxonis/oak-examples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Example projects we've done with OAK cameras
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 965 |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Luxonis/Oak-Examples 的主要价值在于提供了可用的代码示例，帮�
 | forks | 65/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

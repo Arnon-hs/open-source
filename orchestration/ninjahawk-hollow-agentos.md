@@ -1,6 +1,6 @@
 # ninjahawk/hollow-agentOS
 
-[![Stars](https://img.shields.io/github/stars/ninjahawk/hollow-agentOS?style=flat-square&color=yellow)](https://github.com/ninjahawk/hollow-agentOS/stargazers) [![Forks](https://img.shields.io/github/forks/ninjahawk/hollow-agentOS?style=flat-square&color=blue)](https://github.com/ninjahawk/hollow-agentOS/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ninjahawk/hollow-agentOS?style=flat-square&color=yellow)](https://github.com/ninjahawk/hollow-agentOS/stargazers) [![Forks](https://img.shields.io/github/forks/ninjahawk/hollow-agentOS?style=flat-square&color=blue)](https://github.com/ninjahawk/hollow-agentOS/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Show HN: Hollow 是一个本地化的多代理操作系统，能够自动生成�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 32/100 |
-| quality | 21/100 |
-| recency | 20/100 |
+| outlook | 53/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 32/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

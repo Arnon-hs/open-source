@@ -1,6 +1,6 @@
 # pac4j/play-pac4j
 
-[![Stars](https://img.shields.io/github/stars/pac4j/play-pac4j?style=flat-square&color=yellow)](https://github.com/pac4j/play-pac4j/stargazers) [![Forks](https://img.shields.io/github/forks/pac4j/play-pac4j?style=flat-square&color=blue)](https://github.com/pac4j/play-pac4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pac4j/play-pac4j?style=flat-square&color=yellow)](https://github.com/pac4j/play-pac4j/stargazers) [![Forks](https://img.shields.io/github/forks/pac4j/play-pac4j?style=flat-square&color=blue)](https://github.com/pac4j/play-pac4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Security library for Play framework 2/3 in Java and Scala: OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -70,11 +70,11 @@ pac4j/play-pac4j 是一款针对 Play Framework 2/3（Java/Scala）的安全库�
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

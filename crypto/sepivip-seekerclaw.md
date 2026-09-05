@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Automation · AI/ML · Mobile
+Crypto · Automation · AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ sepivip/SeekerClaw：sepivip/SeekerClaw helps prototype or inspect blockchain wo
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

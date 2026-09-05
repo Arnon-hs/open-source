@@ -1,6 +1,6 @@
 # NangoHQ/nango
 
-[![Stars](https://img.shields.io/github/stars/NangoHQ/nango?style=flat-square&color=yellow)](https://github.com/NangoHQ/nango/stargazers) [![Forks](https://img.shields.io/github/forks/NangoHQ/nango?style=flat-square&color=blue)](https://github.com/NangoHQ/nango/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NangoHQ/nango?style=flat-square&color=yellow)](https://github.com/NangoHQ/nango/stargazers) [![Forks](https://img.shields.io/github/forks/NangoHQ/nango?style=flat-square&color=blue)](https://github.com/NangoHQ/nango/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Build product integrations with AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 722 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Product
+Backend · Security · Product
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Nango（NangoHQ/nango）是一套基于 TypeScript 的开源框架，帮助开�
 | forks | 71/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 86/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 61/100 |
+| production | 80/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

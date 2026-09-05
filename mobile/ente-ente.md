@@ -1,6 +1,6 @@
 # ente/ente
 
-[![Stars](https://img.shields.io/github/stars/ente/ente?style=flat-square&color=yellow)](https://github.com/ente/ente/stargazers) [![Forks](https://img.shields.io/github/forks/ente/ente?style=flat-square&color=blue)](https://github.com/ente/ente/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ente/ente?style=flat-square&color=yellow)](https://github.com/ente/ente/stargazers) [![Forks](https://img.shields.io/github/forks/ente/ente?style=flat-square&color=blue)](https://github.com/ente/ente/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 💚 End-to-end encrypted cloud for everything.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.3k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Ente（GitHub `ente/ente`）是一款使用端到端加密的全平台云存�
 | forks | 81/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

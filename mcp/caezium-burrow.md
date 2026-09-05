@@ -1,6 +1,6 @@
 # caezium/Burrow
 
-[![Stars](https://img.shields.io/github/stars/caezium/Burrow?style=flat-square&color=yellow)](https://github.com/caezium/Burrow/stargazers) [![Forks](https://img.shields.io/github/forks/caezium/Burrow?style=flat-square&color=blue)](https://github.com/caezium/Burrow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caezium/Burrow?style=flat-square&color=yellow)](https://github.com/caezium/Burrow/stargazers) [![Forks](https://img.shields.io/github/forks/caezium/Burrow?style=flat-square&color=blue)](https://github.com/caezium/Burrow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > 🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents. Coming to Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 741 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ caezium/Burrow 是一款免费、开源的原生 macOS GUI 前端，专为 Mole 
 | forks | 54/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

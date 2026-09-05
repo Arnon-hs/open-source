@@ -1,6 +1,6 @@
 # yamanoku/baseline-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/yamanoku/baseline-mcp-server?style=flat-square&color=yellow)](https://github.com/yamanoku/baseline-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/yamanoku/baseline-mcp-server?style=flat-square&color=blue)](https://github.com/yamanoku/baseline-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yamanoku/baseline-mcp-server?style=flat-square&color=yellow)](https://github.com/yamanoku/baseline-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/yamanoku/baseline-mcp-server?style=flat-square&color=blue)](https://github.com/yamanoku/baseline-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 特定のWeb APIに関するBaselineの状況を提供するModel Context Protocolサーバー
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ yamanoku/baseline-mcp-server 是一个基于 Model Context Protocol 的 TypeScri
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

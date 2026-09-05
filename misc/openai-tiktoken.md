@@ -1,6 +1,6 @@
 # openai/tiktoken
 
-[![Stars](https://img.shields.io/github/stars/openai/tiktoken?style=flat-square&color=yellow)](https://github.com/openai/tiktoken/stargazers) [![Forks](https://img.shields.io/github/forks/openai/tiktoken?style=flat-square&color=blue)](https://github.com/openai/tiktoken/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/tiktoken?style=flat-square&color=yellow)](https://github.com/openai/tiktoken/stargazers) [![Forks](https://img.shields.io/github/forks/openai/tiktoken?style=flat-square&color=blue)](https://github.com/openai/tiktoken/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ openai/tiktoken：openai/tiktoken may be useful when its README and activity mat
 | forks | 80/100 |
 | stars | 91/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

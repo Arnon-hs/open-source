@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ mike-bronner/laravel-model-caching：mike-bronner/laravel-model-caching may be u
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

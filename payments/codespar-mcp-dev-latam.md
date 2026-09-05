@@ -1,6 +1,6 @@
 # codespar/mcp-dev-latam
 
-[![Stars](https://img.shields.io/github/stars/codespar/mcp-dev-latam?style=flat-square&color=yellow)](https://github.com/codespar/mcp-dev-latam/stargazers) [![Forks](https://img.shields.io/github/forks/codespar/mcp-dev-latam?style=flat-square&color=blue)](https://github.com/codespar/mcp-dev-latam/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codespar/mcp-dev-latam?style=flat-square&color=yellow)](https://github.com/codespar/mcp-dev-latam/stargazers) [![Forks](https://img.shields.io/github/forks/codespar/mcp-dev-latam?style=flat-square&color=blue)](https://github.com/codespar/mcp-dev-latam/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source MCP servers for Latin American commerce — Pix, NF-e, banking, fiscal, logistics, and messaging across Brazil, Mexico, Argentina, Colombia, Chile, and Peru. MIT, on npm.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 253 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · MCP · AI/ML
+Payments · MCP · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ codespar/mcp-dev-latam：codespar/mcp-dev-latam helps integrate monetization, bi
 | forks | 41/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

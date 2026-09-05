@@ -1,6 +1,6 @@
 # ethstaker/eth-docker
 
-[![Stars](https://img.shields.io/github/stars/ethstaker/eth-docker?style=flat-square&color=yellow)](https://github.com/ethstaker/eth-docker/stargazers) [![Forks](https://img.shields.io/github/forks/ethstaker/eth-docker?style=flat-square&color=blue)](https://github.com/ethstaker/eth-docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ethstaker/eth-docker?style=flat-square&color=yellow)](https://github.com/ethstaker/eth-docker/stargazers) [![Forks](https://img.shields.io/github/forks/ethstaker/eth-docker?style=flat-square&color=blue)](https://github.com/ethstaker/eth-docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Docker automation for Ethereum nodes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 566 |
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ethstaker/eth-docker 的生产可用性为中等（Medium）。它适合用于�
 | forks | 61/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

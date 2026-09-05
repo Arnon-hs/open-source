@@ -1,6 +1,6 @@
 # rllm-team/rllm
 
-[![Stars](https://img.shields.io/github/stars/rllm-team/rllm?style=flat-square&color=yellow)](https://github.com/rllm-team/rllm/stargazers) [![Forks](https://img.shields.io/github/forks/rllm-team/rllm?style=flat-square&color=blue)](https://github.com/rllm-team/rllm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rllm-team/rllm?style=flat-square&color=yellow)](https://github.com/rllm-team/rllm/stargazers) [![Forks](https://img.shields.io/github/forks/rllm-team/rllm?style=flat-square&color=blue)](https://github.com/rllm-team/rllm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Pytorch Library for Relational Table Learning with LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 442 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ rllm-team/rllm 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

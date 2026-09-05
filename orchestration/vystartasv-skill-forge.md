@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-05-04 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ Managing 150+ AI Agent Skills at Scale — What Broke, What I Built：Managing 1
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

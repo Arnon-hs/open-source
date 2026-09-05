@@ -1,6 +1,6 @@
 # Phantom-VK/NoRefund
 
-[![Stars](https://img.shields.io/github/stars/Phantom-VK/NoRefund?style=flat-square&color=yellow)](https://github.com/Phantom-VK/NoRefund/stargazers) [![Forks](https://img.shields.io/github/forks/Phantom-VK/NoRefund?style=flat-square&color=blue)](https://github.com/Phantom-VK/NoRefund/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Phantom-VK/NoRefund?style=flat-square&color=yellow)](https://github.com/Phantom-VK/NoRefund/stargazers) [![Forks](https://img.shields.io/github/forks/Phantom-VK/NoRefund?style=flat-square&color=blue)](https://github.com/Phantom-VK/NoRefund/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Offline token counter and LLM cost calculator for PDF, DOCX and PPTX files. Real tokenizers, context-window fit, API cost estimates. Nothing leaves your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -67,15 +67,15 @@ Phantom-VK/NoRefund：Phantom-VK/NoRefund helps add AI capability without starti
 | forks | 0/100 |
 | stars | 13/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 9/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

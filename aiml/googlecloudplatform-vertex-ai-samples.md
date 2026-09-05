@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Cloud & Storage · Backend
 
 ## 📝 Summary
 
@@ -105,7 +105,7 @@ GoogleCloudPlatform/vertex-ai-samples 是一个开源项目，提供了使用 Go
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

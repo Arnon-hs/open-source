@@ -1,6 +1,6 @@
 # ntthanh2603/gemini-web-to-api
 
-[![Stars](https://img.shields.io/github/stars/ntthanh2603/gemini-web-to-api?style=flat-square&color=yellow)](https://github.com/ntthanh2603/gemini-web-to-api/stargazers) [![Forks](https://img.shields.io/github/forks/ntthanh2603/gemini-web-to-api?style=flat-square&color=blue)](https://github.com/ntthanh2603/gemini-web-to-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ntthanh2603/gemini-web-to-api?style=flat-square&color=yellow)](https://github.com/ntthanh2603/gemini-web-to-api/stargazers) [![Forks](https://img.shields.io/github/forks/ntthanh2603/gemini-web-to-api?style=flat-square&color=blue)](https://github.com/ntthanh2603/gemini-web-to-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > ✨Reverse-engineered API for Gemini web app. It can be used as a genuine API key from OpenAI, Gemini, and Claude.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · Networking · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ ntthanh2603/gemini-web-to-api：ntthanh2603/gemini-web-to-api helps remove repet
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

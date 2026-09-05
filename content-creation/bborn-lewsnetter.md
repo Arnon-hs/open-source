@@ -1,6 +1,6 @@
 # bborn/lewsnetter
 
-[![Stars](https://img.shields.io/github/stars/bborn/lewsnetter?style=flat-square&color=yellow)](https://github.com/bborn/lewsnetter/stargazers) [![Forks](https://img.shields.io/github/forks/bborn/lewsnetter?style=flat-square&color=blue)](https://github.com/bborn/lewsnetter/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bborn/lewsnetter?style=flat-square&color=yellow)](https://github.com/bborn/lewsnetter/stargazers) [![Forks](https://img.shields.io/github/forks/bborn/lewsnetter?style=flat-square&color=blue)](https://github.com/bborn/lewsnetter/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ bborn/lewsnetter 能在几天内帮助团队实现邮件营销与支付通知的
 | forks | 40/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 44/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

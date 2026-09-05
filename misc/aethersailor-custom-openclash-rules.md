@@ -1,6 +1,6 @@
 # Aethersailor/Custom_OpenClash_Rules
 
-[![Stars](https://img.shields.io/github/stars/Aethersailor/Custom_OpenClash_Rules?style=flat-square&color=yellow)](https://github.com/Aethersailor/Custom_OpenClash_Rules/stargazers) [![Forks](https://img.shields.io/github/forks/Aethersailor/Custom_OpenClash_Rules?style=flat-square&color=blue)](https://github.com/Aethersailor/Custom_OpenClash_Rules/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aethersailor/Custom_OpenClash_Rules?style=flat-square&color=yellow)](https://github.com/Aethersailor/Custom_OpenClash_Rules/stargazers) [![Forks](https://img.shields.io/github/forks/Aethersailor/Custom_OpenClash_Rules?style=flat-square&color=blue)](https://github.com/Aethersailor/Custom_OpenClash_Rules/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 实例配置，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Aethersailor/Custom_OpenClash_Rules 的主要价值在于，它能够帮助用�
 | forks | 78/100 |
 | stars | 81/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

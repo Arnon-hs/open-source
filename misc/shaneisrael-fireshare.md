@@ -1,6 +1,6 @@
 # ShaneIsrael/fireshare
 
-[![Stars](https://img.shields.io/github/stars/ShaneIsrael/fireshare?style=flat-square&color=yellow)](https://github.com/ShaneIsrael/fireshare/stargazers) [![Forks](https://img.shields.io/github/forks/ShaneIsrael/fireshare?style=flat-square&color=blue)](https://github.com/ShaneIsrael/fireshare/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShaneIsrael/fireshare?style=flat-square&color=yellow)](https://github.com/ShaneIsrael/fireshare/stargazers) [![Forks](https://img.shields.io/github/forks/ShaneIsrael/fireshare?style=flat-square&color=blue)](https://github.com/ShaneIsrael/fireshare/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Self host your media and share with unique links
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ShaneIsrael/fireshare 是一款基于 JavaScript 的自托管媒体分享工具�
 | forks | 49/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

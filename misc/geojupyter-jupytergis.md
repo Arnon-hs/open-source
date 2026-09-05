@@ -1,6 +1,6 @@
 # geojupyter/jupytergis
 
-[![Stars](https://img.shields.io/github/stars/geojupyter/jupytergis?style=flat-square&color=yellow)](https://github.com/geojupyter/jupytergis/stargazers) [![Forks](https://img.shields.io/github/forks/geojupyter/jupytergis?style=flat-square&color=blue)](https://github.com/geojupyter/jupytergis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geojupyter/jupytergis?style=flat-square&color=yellow)](https://github.com/geojupyter/jupytergis/stargazers) [![Forks](https://img.shields.io/github/forks/geojupyter/jupytergis?style=flat-square&color=blue)](https://github.com/geojupyter/jupytergis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > JupyterGIS - Collaborative GIS editor in Jupyter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,11 +131,11 @@ JupyterGIS 适合作为 **原型/内部工作流** 的 GIS 编辑层，能够显
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Coolver/home-assistant-vibecode-agent
 
-[![Stars](https://img.shields.io/github/stars/Coolver/home-assistant-vibecode-agent?style=flat-square&color=yellow)](https://github.com/Coolver/home-assistant-vibecode-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Coolver/home-assistant-vibecode-agent?style=flat-square&color=blue)](https://github.com/Coolver/home-assistant-vibecode-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coolver/home-assistant-vibecode-agent?style=flat-square&color=yellow)](https://github.com/Coolver/home-assistant-vibecode-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Coolver/home-assistant-vibecode-agent?style=flat-square&color=blue)](https://github.com/Coolver/home-assistant-vibecode-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak themes, modify configs, and deploy changes using natural language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Coolver/home-assistant‑vibecode‑agent 是一款基于 Model Context Prot
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

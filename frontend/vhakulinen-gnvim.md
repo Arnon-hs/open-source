@@ -1,6 +1,6 @@
 # vhakulinen/gnvim
 
-[![Stars](https://img.shields.io/github/stars/vhakulinen/gnvim?style=flat-square&color=yellow)](https://github.com/vhakulinen/gnvim/stargazers) [![Forks](https://img.shields.io/github/forks/vhakulinen/gnvim?style=flat-square&color=blue)](https://github.com/vhakulinen/gnvim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vhakulinen/gnvim?style=flat-square&color=yellow)](https://github.com/vhakulinen/gnvim/stargazers) [![Forks](https://img.shields.io/github/forks/vhakulinen/gnvim?style=flat-square&color=blue)](https://github.com/vhakulinen/gnvim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > GUI for neovim, without any web bloat
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ gnvim 是一款基于 Rust 的 Neovim GUI 客户端，摒弃了传统 Web UI �
 | forks | 46/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

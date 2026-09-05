@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools
+Orchestration · Automation · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Open-ACP/OpenACP：Open-ACP/OpenACP helps turn isolated prompts and tools into r
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

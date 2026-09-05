@@ -1,6 +1,6 @@
 # tangxiangru/AutoR
 
-[![Stars](https://img.shields.io/github/stars/tangxiangru/AutoR?style=flat-square&color=yellow)](https://github.com/tangxiangru/AutoR/stargazers) [![Forks](https://img.shields.io/github/forks/tangxiangru/AutoR?style=flat-square&color=blue)](https://github.com/tangxiangru/AutoR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tangxiangru/AutoR?style=flat-square&color=yellow)](https://github.com/tangxiangru/AutoR/stargazers) [![Forks](https://img.shields.io/github/forks/tangxiangru/AutoR?style=flat-square&color=blue)](https://github.com/tangxiangru/AutoR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI handles execution, humans own the direction, and every run becomes an inspectable research artifact on disk.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 808 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ tangxiangru/AutoR 的生产可用性高，受到了强烈的采用和生态系�
 | forks | 35/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

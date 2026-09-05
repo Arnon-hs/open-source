@@ -1,6 +1,6 @@
 # TSchonleber/brainctl
 
-[![Stars](https://img.shields.io/github/stars/TSchonleber/brainctl?style=flat-square&color=yellow)](https://github.com/TSchonleber/brainctl/stargazers) [![Forks](https://img.shields.io/github/forks/TSchonleber/brainctl?style=flat-square&color=blue)](https://github.com/TSchonleber/brainctl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TSchonleber/brainctl?style=flat-square&color=yellow)](https://github.com/TSchonleber/brainctl/stargazers) [![Forks](https://img.shields.io/github/forks/TSchonleber/brainctl?style=flat-square&color=blue)](https://github.com/TSchonleber/brainctl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A cognitive memory system for AI agents. Single SQLite file. MCP server included.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ TSchonleber/brainctl 是一个面向 AI 代理的认知记忆系统，所有数�
 | forks | 26/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 35/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

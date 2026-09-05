@@ -1,6 +1,6 @@
 # Olen/home-assistant-openplantbook
 
-[![Stars](https://img.shields.io/github/stars/Olen/home-assistant-openplantbook?style=flat-square&color=yellow)](https://github.com/Olen/home-assistant-openplantbook/stargazers) [![Forks](https://img.shields.io/github/forks/Olen/home-assistant-openplantbook?style=flat-square&color=blue)](https://github.com/Olen/home-assistant-openplantbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Olen/home-assistant-openplantbook?style=flat-square&color=yellow)](https://github.com/Olen/home-assistant-openplantbook/stargazers) [![Forks](https://img.shields.io/github/forks/Olen/home-assistant-openplantbook?style=flat-square&color=blue)](https://github.com/Olen/home-assistant-openplantbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Integration to search and fetch data from Openplantbook.io
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Olen/home-assistant-openplantbook 是一款 Home Assistant 插件，能够在 Op
 | forks | 27/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

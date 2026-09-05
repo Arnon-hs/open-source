@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ UnicomAI/wanwu：UnicomAI/wanwu helps connect AI assistants to real tools and da
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

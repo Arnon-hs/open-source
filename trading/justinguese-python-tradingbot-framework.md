@@ -1,6 +1,6 @@
 # JustinGuese/python_tradingbot_framework
 
-[![Stars](https://img.shields.io/github/stars/JustinGuese/python_tradingbot_framework?style=flat-square&color=yellow)](https://github.com/JustinGuese/python_tradingbot_framework/stargazers) [![Forks](https://img.shields.io/github/forks/JustinGuese/python_tradingbot_framework?style=flat-square&color=blue)](https://github.com/JustinGuese/python_tradingbot_framework/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JustinGuese/python_tradingbot_framework?style=flat-square&color=yellow)](https://github.com/JustinGuese/python_tradingbot_framework/stargazers) [![Forks](https://img.shields.io/github/forks/JustinGuese/python_tradingbot_framework?style=flat-square&color=blue)](https://github.com/JustinGuese/python_tradingbot_framework/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Python algorithmic trading bot framework for Kubernetes: backtesting, hyperparameter optimization, 150+ technical analysis indicators (RSI, MACD, Bollinger Bands, ADX), portfolio management, PostgreSQL integration, Helm deployment, CronJob scheduling. Minimal overhead, production-ready, Yahoo Finance data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ JustinGuese/python_tradingbot_framework 是一个开源的 Python 算法交易�
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

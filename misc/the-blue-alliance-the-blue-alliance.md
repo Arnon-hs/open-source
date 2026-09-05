@@ -1,6 +1,6 @@
 # the-blue-alliance/the-blue-alliance
 
-[![Stars](https://img.shields.io/github/stars/the-blue-alliance/the-blue-alliance?style=flat-square&color=yellow)](https://github.com/the-blue-alliance/the-blue-alliance/stargazers) [![Forks](https://img.shields.io/github/forks/the-blue-alliance/the-blue-alliance?style=flat-square&color=blue)](https://github.com/the-blue-alliance/the-blue-alliance/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/the-blue-alliance/the-blue-alliance?style=flat-square&color=yellow)](https://github.com/the-blue-alliance/the-blue-alliance/stargazers) [![Forks](https://img.shields.io/github/forks/the-blue-alliance/the-blue-alliance?style=flat-square&color=blue)](https://github.com/the-blue-alliance/the-blue-alliance/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A webapp for accessing information about the FIRST Robotics Competition.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ the‑blue‑alliance（TBA）是一个开源的 Web 应用，提供 FIRST Robot
 | forks | 58/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 47/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

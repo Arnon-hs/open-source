@@ -1,6 +1,6 @@
 # dandavison/delta
 
-[![Stars](https://img.shields.io/github/stars/dandavison/delta?style=flat-square&color=yellow)](https://github.com/dandavison/delta/stargazers) [![Forks](https://img.shields.io/github/forks/dandavison/delta?style=flat-square&color=blue)](https://github.com/dandavison/delta/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dandavison/delta?style=flat-square&color=yellow)](https://github.com/dandavison/delta/stargazers) [![Forks](https://img.shields.io/github/forks/dandavison/delta?style=flat-square&color=blue)](https://github.com/dandavison/delta/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31.6k |
 | 🍴 **Forks** | 556 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ dandavison/delta 的生产可用性很高，因为它有强大的社区支持、
 | forks | 69/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 85/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

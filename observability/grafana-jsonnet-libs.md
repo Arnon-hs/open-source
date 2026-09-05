@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Jsonnet |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ grafana/jsonnet-libs：grafana/jsonnet-libs helps make production behavior easie
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

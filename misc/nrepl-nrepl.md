@@ -1,6 +1,6 @@
 # nrepl/nrepl
 
-[![Stars](https://img.shields.io/github/stars/nrepl/nrepl?style=flat-square&color=yellow)](https://github.com/nrepl/nrepl/stargazers) [![Forks](https://img.shields.io/github/forks/nrepl/nrepl?style=flat-square&color=blue)](https://github.com/nrepl/nrepl/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nrepl/nrepl?style=flat-square&color=yellow)](https://github.com/nrepl/nrepl/stargazers) [![Forks](https://img.shields.io/github/forks/nrepl/nrepl?style=flat-square&color=blue)](https://github.com/nrepl/nrepl/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 894 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ nrepl/nrepl的生产可用性很高，理由如下：
 | forks | 51/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 61/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

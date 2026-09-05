@@ -1,6 +1,6 @@
 # Vinist123/zhuling
 
-[![Stars](https://img.shields.io/github/stars/Vinist123/zhuling?style=flat-square&color=yellow)](https://github.com/Vinist123/zhuling/stargazers) [![Forks](https://img.shields.io/github/forks/Vinist123/zhuling?style=flat-square&color=blue)](https://github.com/Vinist123/zhuling/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vinist123/zhuling?style=flat-square&color=yellow)](https://github.com/Vinist123/zhuling/stargazers) [![Forks](https://img.shields.io/github/forks/Vinist123/zhuling?style=flat-square&color=blue)](https://github.com/Vinist123/zhuling/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ZhuLing — Zero-config AI Agent framework for Java. One YAML to launch Agents on Spring AI + DDD, with MCP tools, full observability and a ReAct core.  Ai Agent 快速开发框架
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Vinist123/zhuling 帮助将孤立的提示和工具转换为可重复的代理�
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Runfusion/Fusion
 
-[![Stars](https://img.shields.io/github/stars/Runfusion/Fusion?style=flat-square&color=yellow)](https://github.com/Runfusion/Fusion/stargazers) [![Forks](https://img.shields.io/github/forks/Runfusion/Fusion?style=flat-square&color=blue)](https://github.com/Runfusion/Fusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Runfusion/Fusion?style=flat-square&color=yellow)](https://github.com/Runfusion/Fusion/stargazers) [![Forks](https://img.shields.io/github/forks/Runfusion/Fusion?style=flat-square&color=blue)](https://github.com/Runfusion/Fusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Multi node agent orchestrator - build faster and better
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 460 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Runfusion/Fusion 是一个面向多节点的 Agent 编排平台，旨在帮助�
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

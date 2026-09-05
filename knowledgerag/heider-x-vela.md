@@ -1,6 +1,6 @@
 # heider-x/vela
 
-[![Stars](https://img.shields.io/github/stars/heider-x/vela?style=flat-square&color=yellow)](https://github.com/heider-x/vela/stargazers) [![Forks](https://img.shields.io/github/forks/heider-x/vela?style=flat-square&color=blue)](https://github.com/heider-x/vela/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heider-x/vela?style=flat-square&color=yellow)](https://github.com/heider-x/vela/stargazers) [![Forks](https://img.shields.io/github/forks/heider-x/vela?style=flat-square&color=blue)](https://github.com/heider-x/vela/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered IDE for novel writing — local LLM + RAG, privacy-first, BYOK. For web fiction authors and creative writers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend
+Knowledge/RAG · AI/ML · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ heider-x/vela 是一款面向网络小说作者和创意写手的 AI 驱动 IDE�
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

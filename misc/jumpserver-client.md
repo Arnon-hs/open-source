@@ -1,6 +1,6 @@
 # jumpserver/client
 
-[![Stars](https://img.shields.io/github/stars/jumpserver/client?style=flat-square&color=yellow)](https://github.com/jumpserver/client/stargazers) [![Forks](https://img.shields.io/github/forks/jumpserver/client?style=flat-square&color=blue)](https://github.com/jumpserver/client/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jumpserver/client?style=flat-square&color=yellow)](https://github.com/jumpserver/client/stargazers) [![Forks](https://img.shields.io/github/forks/jumpserver/client?style=flat-square&color=blue)](https://github.com/jumpserver/client/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > JumpServer Client, support macOS, Windows, Linux. Developed by Tauri
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ JumpServer Client 是基于 Tauri 构建的跨平台客户端，支持 macOS�
 | forks | 41/100 |
 | stars | 50/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

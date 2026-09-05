@@ -1,6 +1,6 @@
 # alfredxw/nova
 
-[![Stars](https://img.shields.io/github/stars/alfredxw/nova?style=flat-square&color=yellow)](https://github.com/alfredxw/nova/stargazers) [![Forks](https://img.shields.io/github/forks/alfredxw/nova?style=flat-square&color=blue)](https://github.com/alfredxw/nova/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alfredxw/nova?style=flat-square&color=yellow)](https://github.com/alfredxw/nova/stargazers) [![Forks](https://img.shields.io/github/forks/alfredxw/nova?style=flat-square&color=blue)](https://github.com/alfredxw/nova/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-native fiction workspace where powerful agents plan, write, revise, and orchestrate long-form novels and interactive stories. 一个基于 AI 小说 Agent 的全自动小说创作 IDE，支持 Skills、自动化、以及分支故事互动
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ AlfredXW / Nova 是一个 AI 原生的小说创作工作台，内部集成�
 | forks | 42/100 |
 | stars | 52/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

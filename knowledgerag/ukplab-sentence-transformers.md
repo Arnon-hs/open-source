@@ -1,6 +1,6 @@
 # UKPLab/sentence-transformers
 
-[![Stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=flat-square&color=yellow)](https://github.com/UKPLab/sentence-transformers/stargazers) [![Forks](https://img.shields.io/github/forks/UKPLab/sentence-transformers?style=flat-square&color=blue)](https://github.com/UKPLab/sentence-transformers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=flat-square&color=yellow)](https://github.com/UKPLab/sentence-transformers/stargazers) [![Forks](https://img.shields.io/github/forks/UKPLab/sentence-transformers?style=flat-square&color=blue)](https://github.com/UKPLab/sentence-transformers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > State-of-the-Art Embeddings, Retrieval, and Reranking
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ UKPLab/sentence-transformers：UKPLab/sentence-transformers helps make internal 
 | forks | 86/100 |
 | stars | 91/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

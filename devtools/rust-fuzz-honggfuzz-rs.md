@@ -1,6 +1,6 @@
 # rust-fuzz/honggfuzz-rs
 
-[![Stars](https://img.shields.io/github/stars/rust-fuzz/honggfuzz-rs?style=flat-square&color=yellow)](https://github.com/rust-fuzz/honggfuzz-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-fuzz/honggfuzz-rs?style=flat-square&color=blue)](https://github.com/rust-fuzz/honggfuzz-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-fuzz/honggfuzz-rs?style=flat-square&color=yellow)](https://github.com/rust-fuzz/honggfuzz-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-fuzz/honggfuzz-rs?style=flat-square&color=blue)](https://github.com/rust-fuzz/honggfuzz-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Fuzz your Rust code with Google-developed Honggfuzz !
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ rust‑fuzz/honggfuzz‑rs 是一个基于 Google 开源的 Honggfuzz 引擎的 
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

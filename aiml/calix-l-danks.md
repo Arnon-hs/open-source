@@ -1,6 +1,6 @@
 # Calix-L/DanKS
 
-[![Stars](https://img.shields.io/github/stars/Calix-L/DanKS?style=flat-square&color=yellow)](https://github.com/Calix-L/DanKS/stargazers) [![Forks](https://img.shields.io/github/forks/Calix-L/DanKS?style=flat-square&color=blue)](https://github.com/Calix-L/DanKS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Calix-L/DanKS?style=flat-square&color=yellow)](https://github.com/Calix-L/DanKS/stargazers) [![Forks](https://img.shields.io/github/forks/Calix-L/DanKS?style=flat-square&color=blue)](https://github.com/Calix-L/DanKS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > RL‑Empowered Small‑Scale Competitive Guandan Agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ Calix-L/DanKS：。适合用于AI/ML。
 | forks | 12/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 80/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 100/100 |
 | adoption | 35/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

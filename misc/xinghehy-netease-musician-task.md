@@ -1,6 +1,6 @@
 # XingHehy/netease-musician-task
 
-[![Stars](https://img.shields.io/github/stars/XingHehy/netease-musician-task?style=flat-square&color=yellow)](https://github.com/XingHehy/netease-musician-task/stargazers) [![Forks](https://img.shields.io/github/forks/XingHehy/netease-musician-task?style=flat-square&color=blue)](https://github.com/XingHehy/netease-musician-task/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XingHehy/netease-musician-task?style=flat-square&color=yellow)](https://github.com/XingHehy/netease-musician-task/stargazers) [![Forks](https://img.shields.io/github/forks/XingHehy/netease-musician-task?style=flat-square&color=blue)](https://github.com/XingHehy/netease-musician-task/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 网易云音乐自动签到发布动态、自动完成音乐人任务，支持自动登录、多用户、docker一键部署、WebHook通知
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ XingHehy/netease-musician-task 是一个开源项目，旨在帮助网易云音�
 | forks | 40/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

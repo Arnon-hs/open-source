@@ -1,6 +1,6 @@
 # dtolnay/dyn-clone
 
-[![Stars](https://img.shields.io/github/stars/dtolnay/dyn-clone?style=flat-square&color=yellow)](https://github.com/dtolnay/dyn-clone/stargazers) [![Forks](https://img.shields.io/github/forks/dtolnay/dyn-clone?style=flat-square&color=blue)](https://github.com/dtolnay/dyn-clone/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtolnay/dyn-clone?style=flat-square&color=yellow)](https://github.com/dtolnay/dyn-clone/stargazers) [![Forks](https://img.shields.io/github/forks/dtolnay/dyn-clone?style=flat-square&color=blue)](https://github.com/dtolnay/dyn-clone/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Clone trait that is object-safe
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 755 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ dtolnay/dyn-clone 提供了一个对象安全的 Clone 特性，使得在 AI 相
 | forks | 35/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

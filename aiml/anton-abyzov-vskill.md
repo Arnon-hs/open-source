@@ -1,6 +1,6 @@
 # anton-abyzov/vskill
 
-[![Stars](https://img.shields.io/github/stars/anton-abyzov/vskill?style=flat-square&color=yellow)](https://github.com/anton-abyzov/vskill/stargazers) [![Forks](https://img.shields.io/github/forks/anton-abyzov/vskill?style=flat-square&color=blue)](https://github.com/anton-abyzov/vskill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anton-abyzov/vskill?style=flat-square&color=yellow)](https://github.com/anton-abyzov/vskill/stargazers) [![Forks](https://img.shields.io/github/forks/anton-abyzov/vskill?style=flat-square&color=blue)](https://github.com/anton-abyzov/vskill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Secure multi-platform AI skill installer — scan before you install. 49 agents, 12 plugins, 41 expert skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ anton-abyzov/vskill 帮助用户快速添加 AI 能力，而无需从零开始�
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ahmed-bhs/doctrine-doctor
 
-[![Stars](https://img.shields.io/github/stars/ahmed-bhs/doctrine-doctor?style=flat-square&color=yellow)](https://github.com/ahmed-bhs/doctrine-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/ahmed-bhs/doctrine-doctor?style=flat-square&color=blue)](https://github.com/ahmed-bhs/doctrine-doctor/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahmed-bhs/doctrine-doctor?style=flat-square&color=yellow)](https://github.com/ahmed-bhs/doctrine-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/ahmed-bhs/doctrine-doctor?style=flat-square&color=blue)](https://github.com/ahmed-bhs/doctrine-doctor/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🩺⚡ Runtime Doctrine ORM analysis integrated into Symfony Web Profiler. Detect N+1 queries, security vulnerabilities, and performance issues during query execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ahmed-bhs/doctrine-doctor 是一个开源项目，旨在集成到 Symfony Web Pr
 | forks | 23/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

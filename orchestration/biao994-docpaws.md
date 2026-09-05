@@ -1,6 +1,6 @@
 # biao994/DocPaws
 
-[![Stars](https://img.shields.io/github/stars/biao994/DocPaws?style=flat-square&color=yellow)](https://github.com/biao994/DocPaws/stargazers) [![Forks](https://img.shields.io/github/forks/biao994/DocPaws?style=flat-square&color=blue)](https://github.com/biao994/DocPaws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/biao994/DocPaws?style=flat-square&color=yellow)](https://github.com/biao994/DocPaws/stargazers) [![Forks](https://img.shields.io/github/forks/biao994/DocPaws?style=flat-square&color=blue)](https://github.com/biao994/DocPaws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 工程化 RAG 文档助手：知识库、PDF 索引、Agent 工具编排、scope 检索、引用溯源与拒答阈值。FastAPI + Vue3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · Documents · Frontend
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ biao994/DocPaws 是一个基于 FastAPI + Vue3 的工程化 RAG（检索增强�
 | forks | 12/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

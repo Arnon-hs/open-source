@@ -1,6 +1,6 @@
 # okx/go-wallet-sdk
 
-[![Stars](https://img.shields.io/github/stars/okx/go-wallet-sdk?style=flat-square&color=yellow)](https://github.com/okx/go-wallet-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/okx/go-wallet-sdk?style=flat-square&color=blue)](https://github.com/okx/go-wallet-sdk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/okx/go-wallet-sdk?style=flat-square&color=yellow)](https://github.com/okx/go-wallet-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/okx/go-wallet-sdk?style=flat-square&color=blue)](https://github.com/okx/go-wallet-sdk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-chain golang signature sdk, supports bitcoin, ethereum, solana, ton, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 570 |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ okx/go-wallet-sdk 是一套基于 Go 语言的多链签名 SDK，已实现比特
 | forks | 60/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

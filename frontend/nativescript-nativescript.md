@@ -1,6 +1,6 @@
 # NativeScript/NativeScript
 
-[![Stars](https://img.shields.io/github/stars/NativeScript/NativeScript?style=flat-square&color=yellow)](https://github.com/NativeScript/NativeScript/stargazers) [![Forks](https://img.shields.io/github/forks/NativeScript/NativeScript?style=flat-square&color=blue)](https://github.com/NativeScript/NativeScript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NativeScript/NativeScript?style=flat-square&color=yellow)](https://github.com/NativeScript/NativeScript/stargazers) [![Forks](https://img.shields.io/github/forks/NativeScript/NativeScript?style=flat-square&color=blue)](https://github.com/NativeScript/NativeScript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ NativeScript 是一个基于 TypeScript 的跨平台移动开发框架，支持�
 | forks | 81/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

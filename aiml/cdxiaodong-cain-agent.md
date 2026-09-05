@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · Cloud & Storage · DevTools · Libraries & SDKs · Security
 
 ## 📝 Summary
 
@@ -102,7 +102,7 @@ cdxiaodong/cain-agent 帮助开发者快速添加 AI 能力，而无需从头开
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · AI/ML · DevTools · Observability
+Templates · AI/ML · Cloud & Storage · DevTools · Observability
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ arconia-io/arconia：arconia-io/arconia helps teams reuse working workflows and 
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

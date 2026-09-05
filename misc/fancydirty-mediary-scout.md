@@ -1,6 +1,6 @@
 # fancydirty/mediary-scout
 
-[![Stars](https://img.shields.io/github/stars/fancydirty/mediary-scout?style=flat-square&color=yellow)](https://github.com/fancydirty/mediary-scout/stargazers) [![Forks](https://img.shields.io/github/forks/fancydirty/mediary-scout?style=flat-square&color=blue)](https://github.com/fancydirty/mediary-scout/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fancydirty/mediary-scout?style=flat-square&color=yellow)](https://github.com/fancydirty/mediary-scout/stargazers) [![Forks](https://img.shields.io/github/forks/fancydirty/mediary-scout?style=flat-square&color=blue)](https://github.com/fancydirty/mediary-scout/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-driven media library for your cloud drives (Quark 夸克 / 115 / 光鸭 GuangYa / 123网盘 / 天翼 Tianyi)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ fancydirty/mediary-scout
 | forks | 46/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

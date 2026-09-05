@@ -1,6 +1,6 @@
 # JuneYaooo/capsule-cinema
 
-[![Stars](https://img.shields.io/github/stars/JuneYaooo/capsule-cinema?style=flat-square&color=yellow)](https://github.com/JuneYaooo/capsule-cinema/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/capsule-cinema?style=flat-square&color=blue)](https://github.com/JuneYaooo/capsule-cinema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuneYaooo/capsule-cinema?style=flat-square&color=yellow)](https://github.com/JuneYaooo/capsule-cinema/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/capsule-cinema?style=flat-square&color=blue)](https://github.com/JuneYaooo/capsule-cinema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Reusable AI video production recipes for agents—storyboard, generate, edit, subtitle, and QA short videos with Codex, Claude Code, OpenClaw, and more.  |  面向 AI Agent 的可复用视频生产配方：完成短视频分镜、生成、剪辑、字幕和质检，支持Codex、Claude Code、OpenClaw 等 Agent。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ JuneYaooo/capsule-cinema：JuneYaooo/capsule-cinema helps automate short-form vi
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 62/100 |
-| recency | 80/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

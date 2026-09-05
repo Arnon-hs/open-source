@@ -1,6 +1,6 @@
 # sweetwisdom/onlyoffice-web-local
 
-[![Stars](https://img.shields.io/github/stars/sweetwisdom/onlyoffice-web-local?style=flat-square&color=yellow)](https://github.com/sweetwisdom/onlyoffice-web-local/stargazers) [![Forks](https://img.shields.io/github/forks/sweetwisdom/onlyoffice-web-local?style=flat-square&color=blue)](https://github.com/sweetwisdom/onlyoffice-web-local/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sweetwisdom/onlyoffice-web-local?style=flat-square&color=yellow)](https://github.com/sweetwisdom/onlyoffice-web-local/stargazers) [![Forks](https://img.shields.io/github/forks/sweetwisdom/onlyoffice-web-local?style=flat-square&color=blue)](https://github.com/sweetwisdom/onlyoffice-web-local/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > vue-office, Perform common file preview and editing via the web.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ sweetwisdom/onlyoffice‑web‑local — это открытый набор ко
 | forks | 49/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # dprint/dprint
 
-[![Stars](https://img.shields.io/github/stars/dprint/dprint?style=flat-square&color=yellow)](https://github.com/dprint/dprint/stargazers) [![Forks](https://img.shields.io/github/forks/dprint/dprint?style=flat-square&color=blue)](https://github.com/dprint/dprint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dprint/dprint?style=flat-square&color=yellow)](https://github.com/dprint/dprint/stargazers) [![Forks](https://img.shields.io/github/forks/dprint/dprint?style=flat-square&color=blue)](https://github.com/dprint/dprint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ dprint 是用 Rust 编写的可插件化、可配置的代码格式化平台，�
 | forks | 51/100 |
 | stars | 77/100 |
 | topics | 13/100 |
-| outlook | 54/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

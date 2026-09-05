@@ -1,6 +1,6 @@
 # authpass/authpass
 
-[![Stars](https://img.shields.io/github/stars/authpass/authpass?style=flat-square&color=yellow)](https://github.com/authpass/authpass/stargazers) [![Forks](https://img.shields.io/github/forks/authpass/authpass?style=flat-square&color=blue)](https://github.com/authpass/authpass/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/authpass/authpass?style=flat-square&color=yellow)](https://github.com/authpass/authpass/stargazers) [![Forks](https://img.shields.io/github/forks/authpass/authpass?style=flat-square&color=blue)](https://github.com/authpass/authpass/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ AuthPass 的生产可用性较高，主要原因是：
 | forks | 61/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 76/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

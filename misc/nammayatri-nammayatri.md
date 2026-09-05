@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 370 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ nammayatri/nammayatri：nammayatri/nammayatri may be useful when its README and 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

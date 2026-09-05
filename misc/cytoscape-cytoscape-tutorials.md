@@ -1,6 +1,6 @@
 # cytoscape/cytoscape-tutorials
 
-[![Stars](https://img.shields.io/github/stars/cytoscape/cytoscape-tutorials?style=flat-square&color=yellow)](https://github.com/cytoscape/cytoscape-tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/cytoscape/cytoscape-tutorials?style=flat-square&color=blue)](https://github.com/cytoscape/cytoscape-tutorials/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cytoscape/cytoscape-tutorials?style=flat-square&color=yellow)](https://github.com/cytoscape/cytoscape-tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/cytoscape/cytoscape-tutorials?style=flat-square&color=blue)](https://github.com/cytoscape/cytoscape-tutorials/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of modular Cytoscape tutorials for online presentation using reveal.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ cytoscape/cytoscape-tutorials 是一个开源项目，旨在通过reveal.js提�
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

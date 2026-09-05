@@ -1,6 +1,6 @@
 # automagik-dev/omni
 
-[![Stars](https://img.shields.io/github/stars/automagik-dev/omni?style=flat-square&color=yellow)](https://github.com/automagik-dev/omni/stargazers) [![Forks](https://img.shields.io/github/forks/automagik-dev/omni?style=flat-square&color=blue)](https://github.com/automagik-dev/omni/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/automagik-dev/omni?style=flat-square&color=yellow)](https://github.com/automagik-dev/omni/stargazers) [![Forks](https://img.shields.io/github/forks/automagik-dev/omni?style=flat-square&color=blue)](https://github.com/automagik-dev/omni/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ automagik-dev/omni 是一个开源项目，提供了一种通用事件驱动的�
 | forks | 27/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

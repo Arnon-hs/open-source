@@ -1,6 +1,6 @@
 # yyeongjin/secret_mcp
 
-[![Stars](https://img.shields.io/github/stars/yyeongjin/secret_mcp?style=flat-square&color=yellow)](https://github.com/yyeongjin/secret_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/yyeongjin/secret_mcp?style=flat-square&color=blue)](https://github.com/yyeongjin/secret_mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yyeongjin/secret_mcp?style=flat-square&color=yellow)](https://github.com/yyeongjin/secret_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/yyeongjin/secret_mcp?style=flat-square&color=blue)](https://github.com/yyeongjin/secret_mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A bilingual MCP server that analyzes GDWEB references independently and generates implementation-ready DESIGN_INDEX documents for LLM-driven frontend development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Design
+MCP · Documents · Design
 
 ## 📝 Summary
 
@@ -65,15 +65,15 @@ yyeongjin/secret_mcp：yyeongjin/secret_mcp helps connect AI assistants to real 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 26/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

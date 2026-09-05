@@ -1,6 +1,6 @@
 # vladelaina/Catime
 
-[![Stars](https://img.shields.io/github/stars/vladelaina/Catime?style=flat-square&color=yellow)](https://github.com/vladelaina/Catime/stargazers) [![Forks](https://img.shields.io/github/forks/vladelaina/Catime?style=flat-square&color=blue)](https://github.com/vladelaina/Catime/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vladelaina/Catime?style=flat-square&color=yellow)](https://github.com/vladelaina/Catime/stargazers) [![Forks](https://img.shields.io/github/forks/vladelaina/Catime?style=flat-square&color=blue)](https://github.com/vladelaina/Catime/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -141,11 +141,11 @@ Catime 是一款体积仅 995 KB、完全用纯 C 实现的轻量计时器，�
 | forks | 56/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

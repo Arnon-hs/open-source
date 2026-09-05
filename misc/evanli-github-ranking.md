@@ -1,6 +1,6 @@
 # EvanLi/Github-Ranking
 
-[![Stars](https://img.shields.io/github/stars/EvanLi/Github-Ranking?style=flat-square&color=yellow)](https://github.com/EvanLi/Github-Ranking/stargazers) [![Forks](https://img.shields.io/github/forks/EvanLi/Github-Ranking?style=flat-square&color=blue)](https://github.com/EvanLi/Github-Ranking/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvanLi/Github-Ranking?style=flat-square&color=yellow)](https://github.com/EvanLi/Github-Ranking/stargazers) [![Forks](https://img.shields.io/github/forks/EvanLi/Github-Ranking?style=flat-square&color=blue)](https://github.com/EvanLi/Github-Ranking/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.5k |
 | 🍴 **Forks** | 674 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ EvanLi/Github-Ranking 在生产环境中的可用性评估为高（High）。该
 | forks | 71/100 |
 | stars | 86/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

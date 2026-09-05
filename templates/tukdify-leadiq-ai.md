@@ -1,6 +1,6 @@
 # Tukdify/LeadIQ-AI
 
-[![Stars](https://img.shields.io/github/stars/Tukdify/LeadIQ-AI?style=flat-square&color=yellow)](https://github.com/Tukdify/LeadIQ-AI/stargazers) [![Forks](https://img.shields.io/github/forks/Tukdify/LeadIQ-AI?style=flat-square&color=blue)](https://github.com/Tukdify/LeadIQ-AI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tukdify/LeadIQ-AI?style=flat-square&color=yellow)](https://github.com/Tukdify/LeadIQ-AI/stargazers) [![Forks](https://img.shields.io/github/forks/Tukdify/LeadIQ-AI?style=flat-square&color=blue)](https://github.com/Tukdify/LeadIQ-AI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered Lead Qualification & Routing System built with n8n, Gemini and Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-09-01 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Tukdify/LeadIQ‑AI 是基于 n8n、Gemini 和 Python 的 AI 驱动的潜在客�
 | forks | 0/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 18/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

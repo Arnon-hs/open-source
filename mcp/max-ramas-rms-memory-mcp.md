@@ -1,6 +1,6 @@
 # max-ramas/rms-memory-mcp
 
-[![Stars](https://img.shields.io/github/stars/max-ramas/rms-memory-mcp?style=flat-square&color=yellow)](https://github.com/max-ramas/rms-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/max-ramas/rms-memory-mcp?style=flat-square&color=blue)](https://github.com/max-ramas/rms-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/max-ramas/rms-memory-mcp?style=flat-square&color=yellow)](https://github.com/max-ramas/rms-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/max-ramas/rms-memory-mcp?style=flat-square&color=blue)](https://github.com/max-ramas/rms-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent, local, cross-IDE memory for AI agents — markdown source of truth, LanceDB-powered semantic search, zero cloud dependency
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ max-ramas/rms-memory-mcp 是一个开源项目，提供了一个持久化、局�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

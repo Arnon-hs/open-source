@@ -1,6 +1,6 @@
 # panpf/sketch
 
-[![Stars](https://img.shields.io/github/stars/panpf/sketch?style=flat-square&color=yellow)](https://github.com/panpf/sketch/stargazers) [![Forks](https://img.shields.io/github/forks/panpf/sketch?style=flat-square&color=blue)](https://github.com/panpf/sketch/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/panpf/sketch?style=flat-square&color=yellow)](https://github.com/panpf/sketch/stargazers) [![Forks](https://img.shields.io/github/forks/panpf/sketch?style=flat-square&color=blue)](https://github.com/panpf/sketch/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Image loading library designed for Compose Multiplatform and Android View. Supports loading Image, GIF, SVG, Video thumbnails from the network, local, resources, and photo albums.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 323 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ panpf/sketch 的生产可用性较高，因为它有最近的活动、广泛的�
 | forks | 63/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

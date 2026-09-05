@@ -1,6 +1,6 @@
 # pocke/rbs_rails
 
-[![Stars](https://img.shields.io/github/stars/pocke/rbs_rails?style=flat-square&color=yellow)](https://github.com/pocke/rbs_rails/stargazers) [![Forks](https://img.shields.io/github/forks/pocke/rbs_rails?style=flat-square&color=blue)](https://github.com/pocke/rbs_rails/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pocke/rbs_rails?style=flat-square&color=yellow)](https://github.com/pocke/rbs_rails/stargazers) [![Forks](https://img.shields.io/github/forks/pocke/rbs_rails?style=flat-square&color=blue)](https://github.com/pocke/rbs_rails/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ pocke/rbs_rails 是一个面向 Ruby on Rails 应用的 AI/ML 辅助库，提供
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

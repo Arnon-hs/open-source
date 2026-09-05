@@ -1,6 +1,6 @@
 # Zulko/moviepy
 
-[![Stars](https://img.shields.io/github/stars/Zulko/moviepy?style=flat-square&color=yellow)](https://github.com/Zulko/moviepy/stargazers) [![Forks](https://img.shields.io/github/forks/Zulko/moviepy?style=flat-square&color=blue)](https://github.com/Zulko/moviepy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zulko/moviepy?style=flat-square&color=yellow)](https://github.com/Zulko/moviepy/stargazers) [![Forks](https://img.shields.io/github/forks/Zulko/moviepy?style=flat-square&color=blue)](https://github.com/Zulko/moviepy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Video editing with Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.9k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Zulko/moviepy 将视频编辑、字幕添加、渲染和转码转化为可重复
 | forks | 83/100 |
 | stars | 89/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

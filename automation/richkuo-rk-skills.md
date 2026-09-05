@@ -1,6 +1,6 @@
 # richkuo/rk-skills
 
-[![Stars](https://img.shields.io/github/stars/richkuo/rk-skills?style=flat-square&color=yellow)](https://github.com/richkuo/rk-skills/stargazers) [![Forks](https://img.shields.io/github/forks/richkuo/rk-skills?style=flat-square&color=blue)](https://github.com/richkuo/rk-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/richkuo/rk-skills?style=flat-square&color=yellow)](https://github.com/richkuo/rk-skills/stargazers) [![Forks](https://img.shields.io/github/forks/richkuo/rk-skills?style=flat-square&color=blue)](https://github.com/richkuo/rk-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code workflow skills — GitHub issue/PR/release automation and Fable-driven planning. Install via npx or as a Claude Code plugin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -70,11 +70,11 @@ richkuo/rk-skills 是一套基于 Claude Code 的工作流技能库，能够自�
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

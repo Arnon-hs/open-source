@@ -1,6 +1,6 @@
 # rheinwerk-verlag/pganonymize
 
-[![Stars](https://img.shields.io/github/stars/rheinwerk-verlag/pganonymize?style=flat-square&color=yellow)](https://github.com/rheinwerk-verlag/pganonymize/stargazers) [![Forks](https://img.shields.io/github/forks/rheinwerk-verlag/pganonymize?style=flat-square&color=blue)](https://github.com/rheinwerk-verlag/pganonymize/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rheinwerk-verlag/pganonymize?style=flat-square&color=yellow)](https://github.com/rheinwerk-verlag/pganonymize/stargazers) [![Forks](https://img.shields.io/github/forks/rheinwerk-verlag/pganonymize?style=flat-square&color=blue)](https://github.com/rheinwerk-verlag/pganonymize/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A commandline tool for anonymizing PostgreSQL databases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ rheinwerk-verlag/pganonymize 的生产可用性高，因为它有强大的社区
 | forks | 37/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

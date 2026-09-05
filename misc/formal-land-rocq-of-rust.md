@@ -1,6 +1,6 @@
 # formal-land/rocq-of-rust
 
-[![Stars](https://img.shields.io/github/stars/formal-land/rocq-of-rust?style=flat-square&color=yellow)](https://github.com/formal-land/rocq-of-rust/stargazers) [![Forks](https://img.shields.io/github/forks/formal-land/rocq-of-rust?style=flat-square&color=blue)](https://github.com/formal-land/rocq-of-rust/network) [![Language](https://img.shields.io/badge/lang-Rocq%20Prover-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/formal-land/rocq-of-rust?style=flat-square&color=yellow)](https://github.com/formal-land/rocq-of-rust/stargazers) [![Forks](https://img.shields.io/github/forks/formal-land/rocq-of-rust?style=flat-square&color=blue)](https://github.com/formal-land/rocq-of-rust/network) [![Language](https://img.shields.io/badge/lang-Rocq%20Prover-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Formal verification tool for Rust: check 100% of execution cases of your programs to make safer applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rocq Prover |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ formal-land/rocq-of-rust 的生产可用性为中等（Medium）。它适合用�
 | forks | 41/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

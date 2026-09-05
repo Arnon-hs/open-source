@@ -1,6 +1,6 @@
 # miuda-ai/active-call
 
-[![Stars](https://img.shields.io/github/stars/miuda-ai/active-call?style=flat-square&color=yellow)](https://github.com/miuda-ai/active-call/stargazers) [![Forks](https://img.shields.io/github/forks/miuda-ai/active-call?style=flat-square&color=blue)](https://github.com/miuda-ai/active-call/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miuda-ai/active-call?style=flat-square&color=yellow)](https://github.com/miuda-ai/active-call/stargazers) [![Forks](https://img.shields.io/github/forks/miuda-ai/active-call?style=flat-square&color=blue)](https://github.com/miuda-ai/active-call/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A SIP/WebRTC voice agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ miuda‑ai/active‑call 是基于 SIP 与 WebRTC 的语音代理，提供即插
 | forks | 36/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 43/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 43/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

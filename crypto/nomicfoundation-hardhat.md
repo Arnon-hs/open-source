@@ -1,6 +1,6 @@
 # NomicFoundation/hardhat
 
-[![Stars](https://img.shields.io/github/stars/NomicFoundation/hardhat?style=flat-square&color=yellow)](https://github.com/NomicFoundation/hardhat/stargazers) [![Forks](https://img.shields.io/github/forks/NomicFoundation/hardhat?style=flat-square&color=blue)](https://github.com/NomicFoundation/hardhat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NomicFoundation/hardhat?style=flat-square&color=yellow)](https://github.com/NomicFoundation/hardhat/stargazers) [![Forks](https://img.shields.io/github/forks/NomicFoundation/hardhat?style=flat-square&color=blue)](https://github.com/NomicFoundation/hardhat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ NomicFoundation/hardhat 的接入方式包括以下几步：
 | forks | 81/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 82/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

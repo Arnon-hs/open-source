@@ -1,6 +1,6 @@
 # XS-MLVP/UCAgent
 
-[![Stars](https://img.shields.io/github/stars/XS-MLVP/UCAgent?style=flat-square&color=yellow)](https://github.com/XS-MLVP/UCAgent/stargazers) [![Forks](https://img.shields.io/github/forks/XS-MLVP/UCAgent?style=flat-square&color=blue)](https://github.com/XS-MLVP/UCAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XS-MLVP/UCAgent?style=flat-square&color=yellow)](https://github.com/XS-MLVP/UCAgent/stargazers) [![Forks](https://img.shields.io/github/forks/XS-MLVP/UCAgent?style=flat-square&color=blue)](https://github.com/XS-MLVP/UCAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > UnityChip Verification AI-Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ XS-MLVP/UCAgent 是一个用于 UnityChip 验证的 AI‑Agent，实现了在已
 | forks | 39/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

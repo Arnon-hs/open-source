@@ -1,6 +1,6 @@
 # ros-claw/rosclaw
 
-[![Stars](https://img.shields.io/github/stars/ros-claw/rosclaw?style=flat-square&color=yellow)](https://github.com/ros-claw/rosclaw/stargazers) [![Forks](https://img.shields.io/github/forks/ros-claw/rosclaw?style=flat-square&color=blue)](https://github.com/ros-claw/rosclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ros-claw/rosclaw?style=flat-square&color=yellow)](https://github.com/ros-claw/rosclaw/stargazers) [![Forks](https://img.shields.io/github/forks/ros-claw/rosclaw?style=flat-square&color=blue)](https://github.com/ros-claw/rosclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ros‑claw/rosclaw 是一套自我进化的运行时基础设施，面向 Physic
 | forks | 36/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

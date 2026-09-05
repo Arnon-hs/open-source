@@ -1,6 +1,6 @@
 # ronisarkarexe/story-spark-ai
 
-[![Stars](https://img.shields.io/github/stars/ronisarkarexe/story-spark-ai?style=flat-square&color=yellow)](https://github.com/ronisarkarexe/story-spark-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ronisarkarexe/story-spark-ai?style=flat-square&color=blue)](https://github.com/ronisarkarexe/story-spark-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ronisarkarexe/story-spark-ai?style=flat-square&color=yellow)](https://github.com/ronisarkarexe/story-spark-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ronisarkarexe/story-spark-ai?style=flat-square&color=blue)](https://github.com/ronisarkarexe/story-spark-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > StorySparkAI is an open-source platform designed for creative minds to generate and share multiple story variations from a single prompt.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ StorySparkAI 是一个开源平台，能够基于单一提示生成并共享多�
 | forks | 76/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

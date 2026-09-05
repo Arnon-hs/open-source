@@ -1,6 +1,6 @@
 # MauroPello/stop-the-slop
 
-[![Stars](https://img.shields.io/github/stars/MauroPello/stop-the-slop?style=flat-square&color=yellow)](https://github.com/MauroPello/stop-the-slop/stargazers) [![Forks](https://img.shields.io/github/forks/MauroPello/stop-the-slop?style=flat-square&color=blue)](https://github.com/MauroPello/stop-the-slop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MauroPello/stop-the-slop?style=flat-square&color=yellow)](https://github.com/MauroPello/stop-the-slop/stargazers) [![Forks](https://img.shields.io/github/forks/MauroPello/stop-the-slop?style=flat-square&color=blue)](https://github.com/MauroPello/stop-the-slop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🚫 Spot AI-generated YouTube scripts and content farms in real-time. Open-source browser extension for Chrome & Firefox with thumbnail badges and sentence heatmaps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-30 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -66,15 +66,15 @@ MauroPello/stop-the-slop：MauroPello/stop-the-slop helps add AI capability with
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

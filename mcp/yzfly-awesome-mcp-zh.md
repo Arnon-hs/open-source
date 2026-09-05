@@ -1,6 +1,6 @@
 # yzfly/Awesome-MCP-ZH
 
-[![Stars](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square&color=yellow)](https://github.com/yzfly/Awesome-MCP-ZH/stargazers) [![Forks](https://img.shields.io/github/forks/yzfly/Awesome-MCP-ZH?style=flat-square&color=blue)](https://github.com/yzfly/Awesome-MCP-ZH/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square&color=yellow)](https://github.com/yzfly/Awesome-MCP-ZH/stargazers) [![Forks](https://img.shields.io/github/forks/yzfly/Awesome-MCP-ZH?style=flat-square&color=blue)](https://github.com/yzfly/Awesome-MCP-ZH/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 621 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ yzfly/Awesome‑MCP‑ZH 汇聚了国内外的 Model Context Protocol（MCP�
 | forks | 70/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

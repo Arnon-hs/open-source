@@ -1,6 +1,6 @@
 # clawbench-dev/clawbench
 
-[![Stars](https://img.shields.io/github/stars/clawbench-dev/clawbench?style=flat-square&color=yellow)](https://github.com/clawbench-dev/clawbench/stargazers) [![Forks](https://img.shields.io/github/forks/clawbench-dev/clawbench?style=flat-square&color=blue)](https://github.com/clawbench-dev/clawbench/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clawbench-dev/clawbench?style=flat-square&color=yellow)](https://github.com/clawbench-dev/clawbench/stargazers) [![Forks](https://img.shields.io/github/forks/clawbench-dev/clawbench?style=flat-square&color=blue)](https://github.com/clawbench-dev/clawbench/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 为移动端打造的 AI 工作台 — 在手机、平板上完整集成主流AI智能体。单文件，零依赖，一键部署。 | Mobile-first AI workstation — full integration of mainstream AI agents on phone & tablet. Single binary, zero dependencies, one-click deploy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ clawbench-dev/clawbench 的生产可用性为中等（Medium）。它适合用�
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 49/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

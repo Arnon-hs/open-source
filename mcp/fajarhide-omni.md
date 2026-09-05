@@ -1,6 +1,6 @@
 # fajarhide/omni
 
-[![Stars](https://img.shields.io/github/stars/fajarhide/omni?style=flat-square&color=yellow)](https://github.com/fajarhide/omni/stargazers) [![Forks](https://img.shields.io/github/forks/fajarhide/omni?style=flat-square&color=blue)](https://github.com/fajarhide/omni/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fajarhide/omni?style=flat-square&color=yellow)](https://github.com/fajarhide/omni/stargazers) [![Forks](https://img.shields.io/github/forks/fajarhide/omni?style=flat-square&color=blue)](https://github.com/fajarhide/omni/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A smart context filter that removes noise, refines and enhances responses, also slashes token usage by up to 90%.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ fajarhide/omni 是一款基于 Rust 实现的智能上下文过滤器，能够�
 | forks | 33/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

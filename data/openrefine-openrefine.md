@@ -1,6 +1,6 @@
 # OpenRefine/OpenRefine
 
-[![Stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=flat-square&color=yellow)](https://github.com/OpenRefine/OpenRefine/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRefine/OpenRefine?style=flat-square&color=blue)](https://github.com/OpenRefine/OpenRefine/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=flat-square&color=yellow)](https://github.com/OpenRefine/OpenRefine/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRefine/OpenRefine?style=flat-square&color=blue)](https://github.com/OpenRefine/OpenRefine/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > OpenRefine is a free, open source power tool for working with messy data and improving it
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ OpenRefine/OpenRefine 的生产可用性很高，原因包括：
 | forks | 83/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

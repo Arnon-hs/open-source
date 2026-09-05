@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 369 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · Mobile
+Automation · DevTools · Mobile · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ rorkai/App-Store-Connect-CLI：rorkai/App-Store-Connect-CLI helps remove repetit
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

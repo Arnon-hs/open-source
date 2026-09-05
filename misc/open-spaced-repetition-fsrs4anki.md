@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs4anki
 
-[![Stars](https://img.shields.io/github/stars/open-spaced-repetition/fsrs4anki?style=flat-square&color=yellow)](https://github.com/open-spaced-repetition/fsrs4anki/stargazers) [![Forks](https://img.shields.io/github/forks/open-spaced-repetition/fsrs4anki?style=flat-square&color=blue)](https://github.com/open-spaced-repetition/fsrs4anki/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-spaced-repetition/fsrs4anki?style=flat-square&color=yellow)](https://github.com/open-spaced-repetition/fsrs4anki/stargazers) [![Forks](https://img.shields.io/github/forks/open-spaced-repetition/fsrs4anki?style=flat-square&color=blue)](https://github.com/open-spaced-repetition/fsrs4anki/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag showdev): Spaced Repetition Under the Hood: How We Decide When to Show a Word Again
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ Spaced Repetition Under the Hood: How We Decide When to Show a Word Again 是一
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 43/100 |
-| quality | 35/100 |
-| recency | 60/100 |
+| outlook | 50/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 48/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

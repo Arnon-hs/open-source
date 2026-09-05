@@ -1,6 +1,6 @@
 # KhaledSaeed18/node-express-boilerplate
 
-[![Stars](https://img.shields.io/github/stars/KhaledSaeed18/node-express-boilerplate?style=flat-square&color=yellow)](https://github.com/KhaledSaeed18/node-express-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/KhaledSaeed18/node-express-boilerplate?style=flat-square&color=blue)](https://github.com/KhaledSaeed18/node-express-boilerplate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KhaledSaeed18/node-express-boilerplate?style=flat-square&color=yellow)](https://github.com/KhaledSaeed18/node-express-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/KhaledSaeed18/node-express-boilerplate?style=flat-square&color=blue)](https://github.com/KhaledSaeed18/node-express-boilerplate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in AI agent instructions so every major coding tool understands the codebase from day one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · AI/ML · Backend · Database · DevOps/Infra
+Templates · AI/ML · Backend · DevTools · Database
 
 ## 📝 Summary
 
@@ -102,11 +102,11 @@ KhaledSaeed18/node‑express‑boilerplate 是一套面向生产环境的 Expres
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

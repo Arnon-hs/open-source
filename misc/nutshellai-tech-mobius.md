@@ -1,6 +1,6 @@
 # nutshellai-tech/mobius
 
-[![Stars](https://img.shields.io/github/stars/nutshellai-tech/mobius?style=flat-square&color=yellow)](https://github.com/nutshellai-tech/mobius/stargazers) [![Forks](https://img.shields.io/github/forks/nutshellai-tech/mobius?style=flat-square&color=blue)](https://github.com/nutshellai-tech/mobius/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nutshellai-tech/mobius?style=flat-square&color=yellow)](https://github.com/nutshellai-tech/mobius/stargazers) [![Forks](https://img.shields.io/github/forks/nutshellai-tech/mobius?style=flat-square&color=blue)](https://github.com/nutshellai-tech/mobius/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ Mobius AI 的生产可用性为中等。它适用于原型化或内部工作流�
 | forks | 24/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # serde-rs/json
 
-[![Stars](https://img.shields.io/github/stars/serde-rs/json?style=flat-square&color=yellow)](https://github.com/serde-rs/json/stargazers) [![Forks](https://img.shields.io/github/forks/serde-rs/json?style=flat-square&color=blue)](https://github.com/serde-rs/json/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serde-rs/json?style=flat-square&color=yellow)](https://github.com/serde-rs/json/stargazers) [![Forks](https://img.shields.io/github/forks/serde-rs/json?style=flat-square&color=blue)](https://github.com/serde-rs/json/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Strongly typed JSON library for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 648 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ serde‑rs/json 是 Rust 生态中最流行的强类型 JSON 序列化/反序列
 | forks | 70/100 |
 | stars | 80/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 607 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · Database
+Automation · Cloud & Storage · Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ encoredev/encore：encoredev/encore helps remove repetitive manual operations fr
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

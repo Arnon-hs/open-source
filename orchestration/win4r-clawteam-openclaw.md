@@ -1,6 +1,6 @@
 # win4r/ClawTeam-OpenClaw
 
-[![Stars](https://img.shields.io/github/stars/win4r/ClawTeam-OpenClaw?style=flat-square&color=yellow)](https://github.com/win4r/ClawTeam-OpenClaw/stargazers) [![Forks](https://img.shields.io/github/forks/win4r/ClawTeam-OpenClaw?style=flat-square&color=blue)](https://github.com/win4r/ClawTeam-OpenClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/win4r/ClawTeam-OpenClaw?style=flat-square&color=yellow)](https://github.com/win4r/ClawTeam-OpenClaw/stargazers) [![Forks](https://img.shields.io/github/forks/win4r/ClawTeam-OpenClaw?style=flat-square&color=blue)](https://github.com/win4r/ClawTeam-OpenClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ ClawTeam‑OpenClaw 是 ClawTeam 的官方分支，全面适配 OpenClaw，提�
 | forks | 63/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

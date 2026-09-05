@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 620 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ unkeyed/unkey：unkeyed/unkey helps teams reuse service infrastructure instead o
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

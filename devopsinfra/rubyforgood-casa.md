@@ -1,6 +1,6 @@
 # rubyforgood/casa
 
-[![Stars](https://img.shields.io/github/stars/rubyforgood/casa?style=flat-square&color=yellow)](https://github.com/rubyforgood/casa/stargazers) [![Forks](https://img.shields.io/github/forks/rubyforgood/casa?style=flat-square&color=blue)](https://github.com/rubyforgood/casa/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rubyforgood/casa?style=flat-square&color=yellow)](https://github.com/rubyforgood/casa/stargazers) [![Forks](https://img.shields.io/github/forks/rubyforgood/casa?style=flat-square&color=blue)](https://github.com/rubyforgood/casa/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Volunteer management system for nonprofit CASA, which serves foster youth in counties across America.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 538 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ rubyforgood/casa 是一款面向非营利组织 CASA 的志愿者管理系统，
 | forks | 68/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

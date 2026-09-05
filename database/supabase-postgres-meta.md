@@ -1,6 +1,6 @@
 # supabase/postgres-meta
 
-[![Stars](https://img.shields.io/github/stars/supabase/postgres-meta?style=flat-square&color=yellow)](https://github.com/supabase/postgres-meta/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/postgres-meta?style=flat-square&color=blue)](https://github.com/supabase/postgres-meta/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase/postgres-meta?style=flat-square&color=yellow)](https://github.com/supabase/postgres-meta/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/postgres-meta?style=flat-square&color=blue)](https://github.com/supabase/postgres-meta/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ supabase/postgres-meta 在生产环境中具有较高的可用性。其 GitHub r
 | forks | 58/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

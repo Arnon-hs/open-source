@@ -1,6 +1,6 @@
 # AbubakrChan/product-launch-motion
 
-[![Stars](https://img.shields.io/github/stars/AbubakrChan/product-launch-motion?style=flat-square&color=yellow)](https://github.com/AbubakrChan/product-launch-motion/stargazers) [![Forks](https://img.shields.io/github/forks/AbubakrChan/product-launch-motion?style=flat-square&color=blue)](https://github.com/AbubakrChan/product-launch-motion/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AbubakrChan/product-launch-motion?style=flat-square&color=yellow)](https://github.com/AbubakrChan/product-launch-motion/stargazers) [![Forks](https://img.shields.io/github/forks/AbubakrChan/product-launch-motion?style=flat-square&color=blue)](https://github.com/AbubakrChan/product-launch-motion/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill for product launch motion design — make launch videos, promos and demo reels from code. HTML/CSS/GSAP compositions, word-locked voiceover sync, real camera moves, film grade, broadcast-loudness mastering. A director's discipline, not a template.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ AbubakrChan/product-launch-motion 通过 HTML/CSS/GSAP 以及语音同步，快�
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

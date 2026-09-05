@@ -1,6 +1,6 @@
 # KyuRish/mcp-dashboards
 
-[![Stars](https://img.shields.io/github/stars/KyuRish/mcp-dashboards?style=flat-square&color=yellow)](https://github.com/KyuRish/mcp-dashboards/stargazers) [![Forks](https://img.shields.io/github/forks/KyuRish/mcp-dashboards?style=flat-square&color=blue)](https://github.com/KyuRish/mcp-dashboards/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KyuRish/mcp-dashboards?style=flat-square&color=yellow)](https://github.com/KyuRish/mcp-dashboards/stargazers) [![Forks](https://img.shields.io/github/forks/KyuRish/mcp-dashboards?style=flat-square&color=blue)](https://github.com/KyuRish/mcp-dashboards/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your data into interactive dashboards inside any AI client - MCP Apps powered
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ KyuRish/mcp-dashboards 是一个基于 Model Context Protocol（MCP）的开源�
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

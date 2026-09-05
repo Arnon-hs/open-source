@@ -1,6 +1,6 @@
 # yuzono/tachiyomi-extensions
 
-[![Stars](https://img.shields.io/github/stars/yuzono/tachiyomi-extensions?style=flat-square&color=yellow)](https://github.com/yuzono/tachiyomi-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/yuzono/tachiyomi-extensions?style=flat-square&color=blue)](https://github.com/yuzono/tachiyomi-extensions/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuzono/tachiyomi-extensions?style=flat-square&color=yellow)](https://github.com/yuzono/tachiyomi-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/yuzono/tachiyomi-extensions?style=flat-square&color=blue)](https://github.com/yuzono/tachiyomi-extensions/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Source code of extensions for Komikku / Mihon & forks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 747 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ yuzono/tachiyomi-extensions 是一个开源项目，提供 Komikku / Mihon 和�
 | forks | 46/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

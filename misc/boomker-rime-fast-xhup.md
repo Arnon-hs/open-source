@@ -1,6 +1,6 @@
 # boomker/rime-fast-xhup
 
-[![Stars](https://img.shields.io/github/stars/boomker/rime-fast-xhup?style=flat-square&color=yellow)](https://github.com/boomker/rime-fast-xhup/stargazers) [![Forks](https://img.shields.io/github/forks/boomker/rime-fast-xhup?style=flat-square&color=blue)](https://github.com/boomker/rime-fast-xhup/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boomker/rime-fast-xhup?style=flat-square&color=yellow)](https://github.com/boomker/rime-fast-xhup/stargazers) [![Forks](https://img.shields.io/github/forks/boomker/rime-fast-xhup?style=flat-square&color=blue)](https://github.com/boomker/rime-fast-xhup/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 基于小鹤双拼加鹤形辅助码的 Rime 配置方案，内附多种特色功能：词条置顶，强制删词，隐藏词条，词条降频，手动造词(中英)，全码唯一自动顶词上屏(单字和部分词)， 长词优先(成语短语简拼)，英文大小写多格式输入，中英自动加空格，上屏历史回溯，快捷启动与切换App应用，多格式日期星期时间输入，长期更新 800W 词库
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ boomker/rime-fast-xhup 的价值在于，它可以帮助开发者快速构建用
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

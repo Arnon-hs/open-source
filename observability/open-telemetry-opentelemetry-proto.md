@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-proto
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-proto?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-proto/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-proto?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-proto/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-proto?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-proto/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-proto?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-proto/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTelemetry protocol (OTLP) specification and Protobuf definitions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 800 |
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ open-telemetry/opentelemetry-proto 是一个开源项目，提供 OpenTelemetry 
 | forks | 63/100 |
 | stars | 62/100 |
 | topics | 13/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

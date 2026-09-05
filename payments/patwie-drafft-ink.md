@@ -1,6 +1,6 @@
 # PatWie/drafft-ink
 
-[![Stars](https://img.shields.io/github/stars/PatWie/drafft-ink?style=flat-square&color=yellow)](https://github.com/PatWie/drafft-ink/stargazers) [![Forks](https://img.shields.io/github/forks/PatWie/drafft-ink?style=flat-square&color=blue)](https://github.com/PatWie/drafft-ink/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PatWie/drafft-ink?style=flat-square&color=yellow)](https://github.com/PatWie/drafft-ink/stargazers) [![Forks](https://img.shields.io/github/forks/PatWie/drafft-ink?style=flat-square&color=blue)](https://github.com/PatWie/drafft-ink/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Effortlessly self-host whiteboards. High-performance, cross-platform digital whiteboard with live collaboration built in Rust & WebGPU. Zero subscription, AGPLv3-licensed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Although drafft‑ink is fundamentally a whiteboard tool, the project’s “Pay
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

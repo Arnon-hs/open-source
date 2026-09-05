@@ -1,6 +1,6 @@
 # julien040/anyquery
 
-[![Stars](https://img.shields.io/github/stars/julien040/anyquery?style=flat-square&color=yellow)](https://github.com/julien040/anyquery/stargazers) [![Forks](https://img.shields.io/github/forks/julien040/anyquery?style=flat-square&color=blue)](https://github.com/julien040/anyquery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/julien040/anyquery?style=flat-square&color=yellow)](https://github.com/julien040/anyquery/stargazers) [![Forks](https://img.shields.io/github/forks/julien040/anyquery?style=flat-square&color=blue)](https://github.com/julien040/anyquery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ julien040/anyquery 的价值在于它帮助连接 AI 助手和真实工具和数
 | forks | 52/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

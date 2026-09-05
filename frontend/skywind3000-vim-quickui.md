@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Vim Script |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ skywind3000/vim-quickui：skywind3000/vim-quickui helps ship user-facing interfa
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

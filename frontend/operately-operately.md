@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ operately/operately：operately/operately helps ship user-facing interfaces with
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

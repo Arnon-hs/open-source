@@ -1,6 +1,6 @@
 # frankwuzp/iptv-cn
 
-[![Stars](https://img.shields.io/github/stars/frankwuzp/iptv-cn?style=flat-square&color=yellow)](https://github.com/frankwuzp/iptv-cn/stargazers) [![Forks](https://img.shields.io/github/forks/frankwuzp/iptv-cn?style=flat-square&color=blue)](https://github.com/frankwuzp/iptv-cn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frankwuzp/iptv-cn?style=flat-square&color=yellow)](https://github.com/frankwuzp/iptv-cn/stargazers) [![Forks](https://img.shields.io/github/forks/frankwuzp/iptv-cn?style=flat-square&color=blue)](https://github.com/frankwuzp/iptv-cn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Chinese IPTV lists (ipv4)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Here's a brief summary of the open-source project:
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

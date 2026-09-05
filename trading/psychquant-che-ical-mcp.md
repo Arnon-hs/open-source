@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · MCP · Automation · AI/ML · Backend
+Trading · MCP · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ PsychQuant/che-ical-mcp：PsychQuant/che-ical-mcp helps research and automate ma
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

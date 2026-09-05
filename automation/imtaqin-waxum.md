@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Communication · Backend
 
 ## 📝 Summary
 
@@ -113,7 +113,7 @@ Waxum 的生产可用性被评估为中等（Medium），适合用于原型或�
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # microsoft/ghqr
 
-[![Stars](https://img.shields.io/github/stars/microsoft/ghqr?style=flat-square&color=yellow)](https://github.com/microsoft/ghqr/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ghqr?style=flat-square&color=blue)](https://github.com/microsoft/ghqr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/ghqr?style=flat-square&color=yellow)](https://github.com/microsoft/ghqr/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ghqr?style=flat-square&color=blue)](https://github.com/microsoft/ghqr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Quick Review: Evaluate your enterprise and organizations against GitHub best practices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ GitHub Quick Review（`microsoft/ghqr`）是一款用 Go 编写的开源工具�
 | forks | 37/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

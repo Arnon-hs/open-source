@@ -1,6 +1,6 @@
 # Automations-Project/VSCode-Airtable-Formula
 
-[![Stars](https://img.shields.io/github/stars/Automations-Project/VSCode-Airtable-Formula?style=flat-square&color=yellow)](https://github.com/Automations-Project/VSCode-Airtable-Formula/stargazers) [![Forks](https://img.shields.io/github/forks/Automations-Project/VSCode-Airtable-Formula?style=flat-square&color=blue)](https://github.com/Automations-Project/VSCode-Airtable-Formula/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Automations-Project/VSCode-Airtable-Formula?style=flat-square&color=yellow)](https://github.com/Automations-Project/VSCode-Airtable-Formula/stargazers) [![Forks](https://img.shields.io/github/forks/Automations-Project/VSCode-Airtable-Formula?style=flat-square&color=blue)](https://github.com/Automations-Project/VSCode-Airtable-Formula/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > VS Code extension and MCP server for Airtable, formula editor, schema tools, and 60+ automation utilities for bases, views, and fields.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Automations-Project/VSCode-Airtable-Formula 是一个开源项目，旨在为 Ai
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

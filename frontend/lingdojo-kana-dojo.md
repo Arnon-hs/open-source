@@ -1,6 +1,6 @@
 # lingdojo/kana-dojo
 
-[![Stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat-square&color=yellow)](https://github.com/lingdojo/kana-dojo/stargazers) [![Forks](https://img.shields.io/github/forks/lingdojo/kana-dojo?style=flat-square&color=blue)](https://github.com/lingdojo/kana-dojo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat-square&color=yellow)](https://github.com/lingdojo/kana-dojo/stargazers) [![Forks](https://img.shields.io/github/forks/lingdojo/kana-dojo?style=flat-square&color=blue)](https://github.com/lingdojo/kana-dojo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ lingdojo/kana-dojo：lingdojo/kana-dojo helps ship user-facing interfaces with l
 | forks | 85/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

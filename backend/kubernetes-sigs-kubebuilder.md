@@ -1,6 +1,6 @@
 # kubernetes-sigs/kubebuilder
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/kubebuilder?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/kubebuilder/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/kubebuilder?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/kubebuilder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/kubebuilder?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/kubebuilder/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/kubebuilder?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/kubebuilder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Kubebuilder - SDK for building Kubernetes APIs using CRDs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevOps/Infra
+Backend · Libraries & SDKs · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ Kubebuilder（kubernetes‑sigs/kubebuilder）是一个基于 Go 的 SDK，帮�
 | forks | 80/100 |
 | stars | 84/100 |
 | topics | 13/100 |
-| outlook | 54/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 57/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

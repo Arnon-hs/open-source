@@ -1,6 +1,6 @@
 # latex3/latex3
 
-[![Stars](https://img.shields.io/github/stars/latex3/latex3?style=flat-square&color=yellow)](https://github.com/latex3/latex3/stargazers) [![Forks](https://img.shields.io/github/forks/latex3/latex3?style=flat-square&color=blue)](https://github.com/latex3/latex3/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/latex3/latex3?style=flat-square&color=yellow)](https://github.com/latex3/latex3/stargazers) [![Forks](https://img.shields.io/github/forks/latex3/latex3?style=flat-square&color=blue)](https://github.com/latex3/latex3/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The expl3 (LaTeX3) Development Repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ LaTeX3 的生产可用性为中等。由于它是一个开源项目，需要手�
 | forks | 58/100 |
 | stars | 71/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 8.9k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ discourse/discourse：discourse/discourse helps teams persist, query, and move d
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

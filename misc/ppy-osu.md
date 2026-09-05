@@ -1,6 +1,6 @@
 # ppy/osu
 
-[![Stars](https://img.shields.io/github/stars/ppy/osu?style=flat-square&color=yellow)](https://github.com/ppy/osu/stargazers) [![Forks](https://img.shields.io/github/forks/ppy/osu?style=flat-square&color=blue)](https://github.com/ppy/osu/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ppy/osu?style=flat-square&color=yellow)](https://github.com/ppy/osu/stargazers) [![Forks](https://img.shields.io/github/forks/ppy/osu?style=flat-square&color=blue)](https://github.com/ppy/osu/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > rhythm is just a *click* away!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.7k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ ppy/osu 的生产可用性非常高。它有 18714 个 GitHub 星星，2752 个 
 | forks | 86/100 |
 | stars | 91/100 |
 | topics | 88/100 |
-| outlook | 67/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # PJDude/dude
 
-[![Stars](https://img.shields.io/github/stars/PJDude/dude?style=flat-square&color=yellow)](https://github.com/PJDude/dude/stargazers) [![Forks](https://img.shields.io/github/forks/PJDude/dude?style=flat-square&color=blue)](https://github.com/PJDude/dude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PJDude/dude?style=flat-square&color=yellow)](https://github.com/PJDude/dude/stargazers) [![Forks](https://img.shields.io/github/forks/PJDude/dude?style=flat-square&color=blue)](https://github.com/PJDude/dude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Duplicates Detector is a cross-platform GUI utility for finding duplicate files, allowing you to delete or link them to save space. Duplicate files are displayed and processed on two synchronized panels for efficient and convenient operation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Duplicates Detector（项目名：PJDude/dude）是一款跨平台的图形化�
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # nexscope-ai/Amazon-Skills
 
-[![Stars](https://img.shields.io/github/stars/nexscope-ai/Amazon-Skills?style=flat-square&color=yellow)](https://github.com/nexscope-ai/Amazon-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/nexscope-ai/Amazon-Skills?style=flat-square&color=blue)](https://github.com/nexscope-ai/Amazon-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nexscope-ai/Amazon-Skills?style=flat-square&color=yellow)](https://github.com/nexscope-ai/Amazon-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/nexscope-ai/Amazon-Skills?style=flat-square&color=blue)](https://github.com/nexscope-ai/Amazon-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ nexscope-ai/Amazon-Skills 的生产可用性较高，理由
 | forks | 46/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

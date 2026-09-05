@@ -1,6 +1,6 @@
 # wonderwhy-er/DesktopCommanderMCP
 
-[![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=yellow)](https://github.com/wonderwhy-er/DesktopCommanderMCP/stargazers) [![Forks](https://img.shields.io/github/forks/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=blue)](https://github.com/wonderwhy-er/DesktopCommanderMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=yellow)](https://github.com/wonderwhy-er/DesktopCommanderMCP/stargazers) [![Forks](https://img.shields.io/github/forks/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=blue)](https://github.com/wonderwhy-er/DesktopCommanderMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Wonderwhy-er/DesktopCommanderMCP 的生产可用性非常高，具有以下特�
 | forks | 76/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 60/100 |
+| outlook | 88/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 72/100 |
+| production | 79/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

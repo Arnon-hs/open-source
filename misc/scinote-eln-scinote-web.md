@@ -1,6 +1,6 @@
 # scinote-eln/scinote-web
 
-[![Stars](https://img.shields.io/github/stars/scinote-eln/scinote-web?style=flat-square&color=yellow)](https://github.com/scinote-eln/scinote-web/stargazers) [![Forks](https://img.shields.io/github/forks/scinote-eln/scinote-web?style=flat-square&color=blue)](https://github.com/scinote-eln/scinote-web/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scinote-eln/scinote-web?style=flat-square&color=yellow)](https://github.com/scinote-eln/scinote-web/stargazers) [![Forks](https://img.shields.io/github/forks/scinote-eln/scinote-web?style=flat-square&color=blue)](https://github.com/scinote-eln/scinote-web/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open source electronic lab notebook (ELN) that helps you manage your laboratory work and stores all your experimental data in one place.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ scinote‑eln / scinote‑web 是一款开源的电子实验室笔记本（ELN�
 | forks | 51/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

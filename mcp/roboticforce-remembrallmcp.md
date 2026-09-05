@@ -1,6 +1,6 @@
 # roboticforce/remembrallmcp
 
-[![Stars](https://img.shields.io/github/stars/roboticforce/remembrallmcp?style=flat-square&color=yellow)](https://github.com/roboticforce/remembrallmcp/stargazers) [![Forks](https://img.shields.io/github/forks/roboticforce/remembrallmcp?style=flat-square&color=blue)](https://github.com/roboticforce/remembrallmcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roboticforce/remembrallmcp?style=flat-square&color=yellow)](https://github.com/roboticforce/remembrallmcp/stargazers) [![Forks](https://img.shields.io/github/forks/roboticforce/remembrallmcp?style=flat-square&color=blue)](https://github.com/roboticforce/remembrallmcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Whole-codebase knowledge for AI coding agents. A field-aware code graph (functions, classes, methods, fields, references) plus persistent memory. Rust, Postgres + pgvector, MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ roboticforce/remembrallmcp 为 AI 编码助手提供了完整的代码库知识�
 | forks | 0/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

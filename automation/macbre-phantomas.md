@@ -1,6 +1,6 @@
 # macbre/phantomas
 
-[![Stars](https://img.shields.io/github/stars/macbre/phantomas?style=flat-square&color=yellow)](https://github.com/macbre/phantomas/stargazers) [![Forks](https://img.shields.io/github/forks/macbre/phantomas?style=flat-square&color=blue)](https://github.com/macbre/phantomas/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/macbre/phantomas?style=flat-square&color=yellow)](https://github.com/macbre/phantomas/stargazers) [![Forks](https://img.shields.io/github/forks/macbre/phantomas?style=flat-square&color=blue)](https://github.com/macbre/phantomas/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Headless Chromium-based web performance metrics collector and monitoring tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ macbre/phantomas 的生产可用性很高，因为它有:
 | forks | 53/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

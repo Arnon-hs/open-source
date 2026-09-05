@@ -1,6 +1,6 @@
 # nikhilkagita04/continuum
 
-[![Stars](https://img.shields.io/github/stars/nikhilkagita04/continuum?style=flat-square&color=yellow)](https://github.com/nikhilkagita04/continuum/stargazers) [![Forks](https://img.shields.io/github/forks/nikhilkagita04/continuum?style=flat-square&color=blue)](https://github.com/nikhilkagita04/continuum/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikhilkagita04/continuum?style=flat-square&color=yellow)](https://github.com/nikhilkagita04/continuum/stargazers) [![Forks](https://img.shields.io/github/forks/nikhilkagita04/continuum?style=flat-square&color=blue)](https://github.com/nikhilkagita04/continuum/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Your whole desktop context — everything you've seen, read, typed, and heard — as a single MCP your agent can use to understand you and how you work. Open source, local-first, on-device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Continuum（nikhilkagita04/continuum）把桌面上的所有上下文——浏�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

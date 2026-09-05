@@ -1,6 +1,6 @@
 # SysAdminDoc/OpenCut
 
-[![Stars](https://img.shields.io/github/stars/SysAdminDoc/OpenCut?style=flat-square&color=yellow)](https://github.com/SysAdminDoc/OpenCut/stargazers) [![Forks](https://img.shields.io/github/forks/SysAdminDoc/OpenCut?style=flat-square&color=blue)](https://github.com/SysAdminDoc/OpenCut/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SysAdminDoc/OpenCut?style=flat-square&color=yellow)](https://github.com/SysAdminDoc/OpenCut/stargazers) [![Forks](https://img.shields.io/github/forks/SysAdminDoc/OpenCut?style=flat-square&color=blue)](https://github.com/SysAdminDoc/OpenCut/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCut for Premiere Pro. Local AI video editing automation for Adobe Premiere Pro: silence and filler cuts, captions, audio repair, and social export. Runs on your own machine, no subscription and no API keys for the core features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ SysAdminDoc/OpenCut：SysAdminDoc/OpenCut helps turn media editing, captions, re
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

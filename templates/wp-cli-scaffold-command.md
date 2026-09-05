@@ -1,6 +1,6 @@
 # wp-cli/scaffold-command
 
-[![Stars](https://img.shields.io/github/stars/wp-cli/scaffold-command?style=flat-square&color=yellow)](https://github.com/wp-cli/scaffold-command/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/scaffold-command?style=flat-square&color=blue)](https://github.com/wp-cli/scaffold-command/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wp-cli/scaffold-command?style=flat-square&color=yellow)](https://github.com/wp-cli/scaffold-command/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/scaffold-command?style=flat-square&color=blue)](https://github.com/wp-cli/scaffold-command/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Generates code for post types, taxonomies, blocks, plugins, child themes, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Gherkin |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ wp‑cli/scaffold‑command 是一个 WP‑CLI 扩展插件，能够一键生成
 | forks | 48/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

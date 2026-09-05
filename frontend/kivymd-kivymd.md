@@ -1,6 +1,6 @@
 # kivymd/KivyMD
 
-[![Stars](https://img.shields.io/github/stars/kivymd/KivyMD?style=flat-square&color=yellow)](https://github.com/kivymd/KivyMD/stargazers) [![Forks](https://img.shields.io/github/forks/kivymd/KivyMD?style=flat-square&color=blue)](https://github.com/kivymd/KivyMD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kivymd/KivyMD?style=flat-square&color=yellow)](https://github.com/kivymd/KivyMD/stargazers) [![Forks](https://img.shields.io/github/forks/kivymd/KivyMD?style=flat-square&color=blue)](https://github.com/kivymd/KivyMD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 688 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ kivymd/KivyMD：kivymd/KivyMD helps ship user-facing interfaces with less custom
 | forks | 71/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 77/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

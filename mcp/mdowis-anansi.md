@@ -1,6 +1,6 @@
 # mdowis/anansi
 
-[![Stars](https://img.shields.io/github/stars/mdowis/anansi?style=flat-square&color=yellow)](https://github.com/mdowis/anansi/stargazers) [![Forks](https://img.shields.io/github/forks/mdowis/anansi?style=flat-square&color=blue)](https://github.com/mdowis/anansi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mdowis/anansi?style=flat-square&color=yellow)](https://github.com/mdowis/anansi/stargazers) [![Forks](https://img.shields.io/github/forks/mdowis/anansi?style=flat-square&color=blue)](https://github.com/mdowis/anansi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A self-healing web scraper built for hostile sites: selectors repair themselves, browser rendering kicks in when needed, and Chrome TLS fingerprinting evades bot detection. Ships with an MCP server so any LLM can drive a full crawl through conversation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ mdowis/anansi 的价值在于，它帮助连接 AI 助手和真实工具和数�
 | forks | 32/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

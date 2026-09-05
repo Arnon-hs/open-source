@@ -1,6 +1,6 @@
 # arkflow-rs/arkflow
 
-[![Stars](https://img.shields.io/github/stars/arkflow-rs/arkflow?style=flat-square&color=yellow)](https://github.com/arkflow-rs/arkflow/stargazers) [![Forks](https://img.shields.io/github/forks/arkflow-rs/arkflow?style=flat-square&color=blue)](https://github.com/arkflow-rs/arkflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arkflow-rs/arkflow?style=flat-square&color=yellow)](https://github.com/arkflow-rs/arkflow/stargazers) [![Forks](https://img.shields.io/github/forks/arkflow-rs/arkflow?style=flat-square&color=blue)](https://github.com/arkflow-rs/arkflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > High performance Rust stream processing engine seamlessly integrates AI capabilities, providing powerful real-time data processing and intelligent analysis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ arkflow‑rs/arkflow 是一款基于 Rust 的高性能流处理引擎，能够�
 | forks | 42/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

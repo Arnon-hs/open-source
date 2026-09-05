@@ -1,6 +1,6 @@
 # graphql-hive/graphql-yoga
 
-[![Stars](https://img.shields.io/github/stars/graphql-hive/graphql-yoga?style=flat-square&color=yellow)](https://github.com/graphql-hive/graphql-yoga/stargazers) [![Forks](https://img.shields.io/github/forks/graphql-hive/graphql-yoga?style=flat-square&color=blue)](https://github.com/graphql-hive/graphql-yoga/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graphql-hive/graphql-yoga?style=flat-square&color=yellow)](https://github.com/graphql-hive/graphql-yoga/stargazers) [![Forks](https://img.shields.io/github/forks/graphql-hive/graphql-yoga?style=flat-square&color=blue)](https://github.com/graphql-hive/graphql-yoga/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 589 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Overall, GraphQL‑Yoga offers a robust, easy‑to‑adopt GraphQL server that i
 | forks | 69/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

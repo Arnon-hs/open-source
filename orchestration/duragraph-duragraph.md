@@ -1,6 +1,6 @@
 # Duragraph/duragraph
 
-[![Stars](https://img.shields.io/github/stars/Duragraph/duragraph?style=flat-square&color=yellow)](https://github.com/Duragraph/duragraph/stargazers) [![Forks](https://img.shields.io/github/forks/Duragraph/duragraph?style=flat-square&color=blue)](https://github.com/Duragraph/duragraph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Duragraph/duragraph?style=flat-square&color=yellow)](https://github.com/Duragraph/duragraph/stargazers) [![Forks](https://img.shields.io/github/forks/Duragraph/duragraph?style=flat-square&color=blue)](https://github.com/Duragraph/duragraph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, enterprise-ready AI workflow orchestration with event sourcing, CQRS, fault tolerance, and observability. Single-binary control plane, Python + Go SDKs, embedded Postgres + NATS for zero-config dev.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Duragraph/duragraph 具有很高的生产可用性，特别是考虑到它是一
 | forks | 0/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

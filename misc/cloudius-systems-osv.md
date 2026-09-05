@@ -1,6 +1,6 @@
 # cloudius-systems/osv
 
-[![Stars](https://img.shields.io/github/stars/cloudius-systems/osv?style=flat-square&color=yellow)](https://github.com/cloudius-systems/osv/stargazers) [![Forks](https://img.shields.io/github/forks/cloudius-systems/osv?style=flat-square&color=blue)](https://github.com/cloudius-systems/osv/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudius-systems/osv?style=flat-square&color=yellow)](https://github.com/cloudius-systems/osv/stargazers) [![Forks](https://img.shields.io/github/forks/cloudius-systems/osv?style=flat-square&color=blue)](https://github.com/cloudius-systems/osv/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > OSv, a new operating system for the cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 609 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ cloudius‑systems/osv 是一款专为云环境设计的轻量级操作系统，
 | forks | 70/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

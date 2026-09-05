@@ -1,6 +1,6 @@
 # FacebookAI/xlm-roberta-base
 
-[![Stars](https://img.shields.io/github/stars/FacebookAI/xlm-roberta-base?style=flat-square&color=yellow)](https://huggingface.co/FacebookAI/xlm-roberta-base/stargazers) [![Forks](https://img.shields.io/github/forks/FacebookAI/xlm-roberta-base?style=flat-square&color=blue)](https://huggingface.co/FacebookAI/xlm-roberta-base/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FacebookAI/xlm-roberta-base?style=flat-square&color=yellow)](https://huggingface.co/FacebookAI/xlm-roberta-base/stargazers) [![Forks](https://img.shields.io/github/forks/FacebookAI/xlm-roberta-base?style=flat-square&color=blue)](https://huggingface.co/FacebookAI/xlm-roberta-base/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Masked language models (fill-mask) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 875 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ FacebookAI/xlm-roberta-base 的生产可用性为早期或不明确。由于项�
 | forks | 0/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 37/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 38/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

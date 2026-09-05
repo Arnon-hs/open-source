@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Communication
 
 ## 📝 Summary
 
@@ -73,7 +73,7 @@ Keanu Reviews – GitHub → Slack PR Bot：Keanu Reviews – GitHub → Slack P
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

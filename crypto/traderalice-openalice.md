@@ -1,6 +1,6 @@
 # TraderAlice/OpenAlice
 
-[![Stars](https://img.shields.io/github/stars/TraderAlice/OpenAlice?style=flat-square&color=yellow)](https://github.com/TraderAlice/OpenAlice/stargazers) [![Forks](https://img.shields.io/github/forks/TraderAlice/OpenAlice?style=flat-square&color=blue)](https://github.com/TraderAlice/OpenAlice/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TraderAlice/OpenAlice?style=flat-square&color=yellow)](https://github.com/TraderAlice/OpenAlice/stargazers) [![Forks](https://img.shields.io/github/forks/TraderAlice/OpenAlice?style=flat-square&color=blue)](https://github.com/TraderAlice/OpenAlice/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 972 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ TraderAlice/OpenAlice 的价值在于：
 | forks | 75/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

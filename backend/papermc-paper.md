@@ -1,6 +1,6 @@
 # PaperMC/Paper
 
-[![Stars](https://img.shields.io/github/stars/PaperMC/Paper?style=flat-square&color=yellow)](https://github.com/PaperMC/Paper/stargazers) [![Forks](https://img.shields.io/github/forks/PaperMC/Paper?style=flat-square&color=blue)](https://github.com/PaperMC/Paper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaperMC/Paper?style=flat-square&color=yellow)](https://github.com/PaperMC/Paper/stargazers) [![Forks](https://img.shields.io/github/forks/PaperMC/Paper?style=flat-square&color=blue)](https://github.com/PaperMC/Paper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.5k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ PaperMC/Paper 的生产可用性很高，因为它有以下特点：
 | forks | 89/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

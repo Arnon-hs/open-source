@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 593 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-05 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ stripe/stripe-dotnet：stripe/stripe-dotnet helps integrate monetization, billin
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

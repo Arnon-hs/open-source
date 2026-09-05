@@ -1,6 +1,6 @@
 # TianhangZhuzth/Compute-Royale
 
-[![Stars](https://img.shields.io/github/stars/TianhangZhuzth/Compute-Royale?style=flat-square&color=yellow)](https://github.com/TianhangZhuzth/Compute-Royale/stargazers) [![Forks](https://img.shields.io/github/forks/TianhangZhuzth/Compute-Royale?style=flat-square&color=blue)](https://github.com/TianhangZhuzth/Compute-Royale/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TianhangZhuzth/Compute-Royale?style=flat-square&color=yellow)](https://github.com/TianhangZhuzth/Compute-Royale/stargazers) [![Forks](https://img.shields.io/github/forks/TianhangZhuzth/Compute-Royale?style=flat-square&color=blue)](https://github.com/TianhangZhuzth/Compute-Royale/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Compute-Royale 在生产环境中具有中等可用性（Medium）。它适合�
 | forks | 43/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

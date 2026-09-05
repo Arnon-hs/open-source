@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Orchestration · Knowledge/RAG · AI/ML · DevTools
+Templates · Orchestration · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ lbedner/aegis-stack：lbedner/aegis-stack helps teams reuse working workflows an
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

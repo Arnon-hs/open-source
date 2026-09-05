@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration
+Orchestration · Documents
 
 ## 📝 Summary
 
@@ -101,7 +101,7 @@ jakubkrehel/skills 的主要价值在于，它可以帮助开发者协调多代�
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

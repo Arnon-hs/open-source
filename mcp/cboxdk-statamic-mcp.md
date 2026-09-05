@@ -1,6 +1,6 @@
 # cboxdk/statamic-mcp
 
-[![Stars](https://img.shields.io/github/stars/cboxdk/statamic-mcp?style=flat-square&color=yellow)](https://github.com/cboxdk/statamic-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/cboxdk/statamic-mcp?style=flat-square&color=blue)](https://github.com/cboxdk/statamic-mcp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cboxdk/statamic-mcp?style=flat-square&color=yellow)](https://github.com/cboxdk/statamic-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/cboxdk/statamic-mcp?style=flat-square&color=blue)](https://github.com/cboxdk/statamic-mcp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP (Model Context Protocol) server for Statamic CMS v6 — gives AI assistants structured access to content, blueprints, assets, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ cboxdk/statamic-mcp 是一个用于 Statamic CMS v6 的 MCP (模型上下文协�
 | forks | 26/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

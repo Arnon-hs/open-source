@@ -1,6 +1,6 @@
 # pppscn/SmsForwarder
 
-[![Stars](https://img.shields.io/github/stars/pppscn/SmsForwarder?style=flat-square&color=yellow)](https://github.com/pppscn/SmsForwarder/stargazers) [![Forks](https://img.shields.io/github/forks/pppscn/SmsForwarder?style=flat-square&color=blue)](https://github.com/pppscn/SmsForwarder/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pppscn/SmsForwarder?style=flat-square&color=yellow)](https://github.com/pppscn/SmsForwarder/stargazers) [![Forks](https://img.shields.io/github/forks/pppscn/SmsForwarder?style=flat-square&color=blue)](https://github.com/pppscn/SmsForwarder/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.2k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · Mobile
+Automation · AI/ML · Communication · Backend · Mobile
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ Automation · Backend · Mobile
 | forks | 88/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 87/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 69/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

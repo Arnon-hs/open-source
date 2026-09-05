@@ -1,6 +1,6 @@
 # wado-lang/wado
 
-[![Stars](https://img.shields.io/github/stars/wado-lang/wado?style=flat-square&color=yellow)](https://github.com/wado-lang/wado/stargazers) [![Forks](https://img.shields.io/github/forks/wado-lang/wado?style=flat-square&color=blue)](https://github.com/wado-lang/wado/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wado-lang/wado?style=flat-square&color=yellow)](https://github.com/wado-lang/wado/stargazers) [![Forks](https://img.shields.io/github/forks/wado-lang/wado?style=flat-square&color=blue)](https://github.com/wado-lang/wado/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The Wado Programming Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ Production readiness is classified as medium, indicating that Wado is suitable f
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 46/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

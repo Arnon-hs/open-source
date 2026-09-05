@@ -1,6 +1,6 @@
 # ilyasergey/langlib
 
-[![Stars](https://img.shields.io/github/stars/ilyasergey/langlib?style=flat-square&color=yellow)](https://github.com/ilyasergey/langlib/stargazers) [![Forks](https://img.shields.io/github/forks/ilyasergey/langlib?style=flat-square&color=blue)](https://github.com/ilyasergey/langlib/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilyasergey/langlib?style=flat-square&color=yellow)](https://github.com/ilyasergey/langlib/stargazers) [![Forks](https://img.shields.io/github/forks/ilyasergey/langlib?style=flat-square&color=blue)](https://github.com/ilyasergey/langlib/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-09-01 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ LangLib 是一个用于形式化描述特异性编程语言的库，适合用于
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

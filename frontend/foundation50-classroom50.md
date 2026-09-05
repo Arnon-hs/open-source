@@ -1,6 +1,6 @@
 # foundation50/classroom50
 
-[![Stars](https://img.shields.io/github/stars/foundation50/classroom50?style=flat-square&color=yellow)](https://github.com/foundation50/classroom50/stargazers) [![Forks](https://img.shields.io/github/forks/foundation50/classroom50?style=flat-square&color=blue)](https://github.com/foundation50/classroom50/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foundation50/classroom50?style=flat-square&color=yellow)](https://github.com/foundation50/classroom50/stargazers) [![Forks](https://img.shields.io/github/forks/foundation50/classroom50?style=flat-square&color=blue)](https://github.com/foundation50/classroom50/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The free, open-source alternative to GitHub Classroom
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ foundation50/classroom50 是一个免费、开源的 GitHub Classroom 替代方�
 | forks | 17/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

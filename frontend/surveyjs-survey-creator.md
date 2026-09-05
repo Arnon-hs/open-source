@@ -1,6 +1,6 @@
 # surveyjs/survey-creator
 
-[![Stars](https://img.shields.io/github/stars/surveyjs/survey-creator?style=flat-square&color=yellow)](https://github.com/surveyjs/survey-creator/stargazers) [![Forks](https://img.shields.io/github/forks/surveyjs/survey-creator?style=flat-square&color=blue)](https://github.com/surveyjs/survey-creator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/surveyjs/survey-creator?style=flat-square&color=yellow)](https://github.com/surveyjs/survey-creator/stargazers) [![Forks](https://img.shields.io/github/forks/surveyjs/survey-creator?style=flat-square&color=blue)](https://github.com/surveyjs/survey-creator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 460 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ surveyjs/survey-creator 的生产可用性很高。项目最近有活动，拥�
 | forks | 67/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # zhongyu09/openchatbi
 
-[![Stars](https://img.shields.io/github/stars/zhongyu09/openchatbi?style=flat-square&color=yellow)](https://github.com/zhongyu09/openchatbi/stargazers) [![Forks](https://img.shields.io/github/forks/zhongyu09/openchatbi?style=flat-square&color=blue)](https://github.com/zhongyu09/openchatbi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhongyu09/openchatbi?style=flat-square&color=yellow)](https://github.com/zhongyu09/openchatbi/stargazers) [![Forks](https://img.shields.io/github/forks/zhongyu09/openchatbi?style=flat-square&color=blue)](https://github.com/zhongyu09/openchatbi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > OpenChatBI is an intelligent chat-based BI tool powered by large language models, designed to help users query, analyze, and visualize data through natural language conversations. It uses LangGraph and LangChain to build chat agent and workflows that support natural language to SQL conversion and data analysis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 591 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data · Database
+Orchestration · AI/ML · Communication · Data · Database
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ OpenChatBI（zhongyu09/openchatbi）是一款基于大语言模型的智能聊�
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

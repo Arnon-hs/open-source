@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ geekjourneyx/md2wechat-skill：geekjourneyx/md2wechat-skill helps turn isolated 
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

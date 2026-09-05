@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ asheshgoplani/agent-deck：asheshgoplani/agent-deck helps connect AI assistants 
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

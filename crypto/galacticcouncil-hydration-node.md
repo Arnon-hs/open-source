@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ galacticcouncil/hydration-node：galacticcouncil/hydration-node helps prototype 
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

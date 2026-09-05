@@ -1,6 +1,6 @@
 # yukkcat/chatgpt2api
 
-[![Stars](https://img.shields.io/github/stars/yukkcat/chatgpt2api?style=flat-square&color=yellow)](https://github.com/yukkcat/chatgpt2api/stargazers) [![Forks](https://img.shields.io/github/forks/yukkcat/chatgpt2api?style=flat-square&color=blue)](https://github.com/yukkcat/chatgpt2api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yukkcat/chatgpt2api?style=flat-square&color=yellow)](https://github.com/yukkcat/chatgpt2api/stargazers) [![Forks](https://img.shields.io/github/forks/yukkcat/chatgpt2api?style=flat-square&color=blue)](https://github.com/yukkcat/chatgpt2api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ yukkcat/chatgpt2api 的生产可用性较高，理由如下：
 | forks | 52/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

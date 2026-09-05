@@ -1,6 +1,6 @@
 # neurosyncapp/neurosync
 
-[![Stars](https://img.shields.io/github/stars/neurosyncapp/neurosync?style=flat-square&color=yellow)](https://github.com/neurosyncapp/neurosync/stargazers) [![Forks](https://img.shields.io/github/forks/neurosyncapp/neurosync?style=flat-square&color=blue)](https://github.com/neurosyncapp/neurosync/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neurosyncapp/neurosync?style=flat-square&color=yellow)](https://github.com/neurosyncapp/neurosync/stargazers) [![Forks](https://img.shields.io/github/forks/neurosyncapp/neurosync?style=flat-square&color=blue)](https://github.com/neurosyncapp/neurosync/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Namespace, live presence, and reputation layer for AI agents on Solana.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Neurosync（`neurosyncapp/neurosync`）在 Solana 上为 AI 代理提供命名�
 | forks | 0/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

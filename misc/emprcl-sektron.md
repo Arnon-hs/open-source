@@ -1,6 +1,6 @@
 # emprcl/sektron
 
-[![Stars](https://img.shields.io/github/stars/emprcl/sektron?style=flat-square&color=yellow)](https://github.com/emprcl/sektron/stargazers) [![Forks](https://img.shields.io/github/forks/emprcl/sektron?style=flat-square&color=blue)](https://github.com/emprcl/sektron/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emprcl/sektron?style=flat-square&color=yellow)](https://github.com/emprcl/sektron/stargazers) [![Forks](https://img.shields.io/github/forks/emprcl/sektron?style=flat-square&color=blue)](https://github.com/emprcl/sektron/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ Sektron 是一个在终端中运行的 MIDI 步骤序列器（step sequencer）�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 40/100 |
-| quality | 31/100 |
-| recency | 60/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 45/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

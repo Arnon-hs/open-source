@@ -1,6 +1,6 @@
 # kinopio-club/kinopio-client
 
-[![Stars](https://img.shields.io/github/stars/kinopio-club/kinopio-client?style=flat-square&color=yellow)](https://github.com/kinopio-club/kinopio-client/stargazers) [![Forks](https://img.shields.io/github/forks/kinopio-club/kinopio-client?style=flat-square&color=blue)](https://github.com/kinopio-club/kinopio-client/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kinopio-club/kinopio-client?style=flat-square&color=yellow)](https://github.com/kinopio-club/kinopio-client/stargazers) [![Forks](https://img.shields.io/github/forks/kinopio-club/kinopio-client?style=flat-square&color=blue)](https://github.com/kinopio-club/kinopio-client/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Kinopio is a creative thinking tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 880 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Kinopio‑club/kinopio-client 是一个基于 Vue 的创意思维工具，能够
 | forks | 46/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

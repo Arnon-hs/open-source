@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ alibaba/rtp-llm：alibaba/rtp-llm helps add AI capability without starting from 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

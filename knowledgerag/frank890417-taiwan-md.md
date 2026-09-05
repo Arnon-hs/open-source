@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ frank890417/taiwan-md：frank890417/taiwan-md helps make internal knowledge sear
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

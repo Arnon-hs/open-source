@@ -1,6 +1,6 @@
 # thobiasn/tori-cli
 
-[![Stars](https://img.shields.io/github/stars/thobiasn/tori-cli?style=flat-square&color=yellow)](https://github.com/thobiasn/tori-cli/stargazers) [![Forks](https://img.shields.io/github/forks/thobiasn/tori-cli?style=flat-square&color=blue)](https://github.com/thobiasn/tori-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thobiasn/tori-cli?style=flat-square&color=yellow)](https://github.com/thobiasn/tori-cli/stargazers) [![Forks](https://img.shields.io/github/forks/thobiasn/tori-cli?style=flat-square&color=blue)](https://github.com/thobiasn/tori-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Docker server monitoring without the stack. Metrics, logs, and alerts from your terminal. Single binary, zero exposed ports, SSH-only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ thobiasn/tori-cli 是一款基于单一 Go 二进制文件的 Docker 服务器�
 | forks | 26/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # danbao/auto-ssl
 
-[![Stars](https://img.shields.io/github/stars/danbao/auto-ssl?style=flat-square&color=yellow)](https://github.com/danbao/auto-ssl/stargazers) [![Forks](https://img.shields.io/github/forks/danbao/auto-ssl?style=flat-square&color=blue)](https://github.com/danbao/auto-ssl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danbao/auto-ssl?style=flat-square&color=yellow)](https://github.com/danbao/auto-ssl/stargazers) [![Forks](https://img.shields.io/github/forks/danbao/auto-ssl?style=flat-square&color=blue)](https://github.com/danbao/auto-ssl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ The main benefit is the elimination of repetitive, error‑prone steps when obta
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

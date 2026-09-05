@@ -1,6 +1,6 @@
 # simonmysun/ell
 
-[![Stars](https://img.shields.io/github/stars/simonmysun/ell?style=flat-square&color=yellow)](https://github.com/simonmysun/ell/stargazers) [![Forks](https://img.shields.io/github/forks/simonmysun/ell?style=flat-square&color=blue)](https://github.com/simonmysun/ell/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonmysun/ell?style=flat-square&color=yellow)](https://github.com/simonmysun/ell/stargazers) [![Forks](https://img.shields.io/github/forks/simonmysun/ell?style=flat-square&color=blue)](https://github.com/simonmysun/ell/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A command-line interface for LLMs written in Bash.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ simonmysun/ell 的主要价值在于它可以帮助开发者快速添加 AI 能�
 | forks | 33/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

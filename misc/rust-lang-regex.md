@@ -1,6 +1,6 @@
 # rust-lang/regex
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/regex?style=flat-square&color=yellow)](https://github.com/rust-lang/regex/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/regex?style=flat-square&color=blue)](https://github.com/rust-lang/regex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/regex?style=flat-square&color=yellow)](https://github.com/rust-lang/regex/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/regex?style=flat-square&color=blue)](https://github.com/rust-lang/regex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 514 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ rust-lang/regex 的生产可用性非常高。它具有强大的社区支持、�
 | forks | 68/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

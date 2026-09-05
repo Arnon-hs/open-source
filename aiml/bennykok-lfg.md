@@ -1,6 +1,6 @@
 # BennyKok/lfg
 
-[![Stars](https://img.shields.io/github/stars/BennyKok/lfg?style=flat-square&color=yellow)](https://github.com/BennyKok/lfg/stargazers) [![Forks](https://img.shields.io/github/forks/BennyKok/lfg?style=flat-square&color=blue)](https://github.com/BennyKok/lfg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BennyKok/lfg?style=flat-square&color=yellow)](https://github.com/BennyKok/lfg/stargazers) [![Forks](https://img.shields.io/github/forks/BennyKok/lfg?style=flat-square&color=blue)](https://github.com/BennyKok/lfg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > lfg — run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ BennyKok/lfg 的价值在于，它可以帮助开发者快速构建 AI 功能、
 | forks | 32/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

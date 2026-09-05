@@ -1,6 +1,6 @@
 # Furyton/awesome-language-model-analysis
 
-[![Stars](https://img.shields.io/github/stars/Furyton/awesome-language-model-analysis?style=flat-square&color=yellow)](https://github.com/Furyton/awesome-language-model-analysis/stargazers) [![Forks](https://img.shields.io/github/forks/Furyton/awesome-language-model-analysis?style=flat-square&color=blue)](https://github.com/Furyton/awesome-language-model-analysis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Furyton/awesome-language-model-analysis?style=flat-square&color=yellow)](https://github.com/Furyton/awesome-language-model-analysis/stargazers) [![Forks](https://img.shields.io/github/forks/Furyton/awesome-language-model-analysis?style=flat-square&color=blue)](https://github.com/Furyton/awesome-language-model-analysis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > This paper list focuses on the theoretical and empirical analysis of language models, especially large language models (LLMs). The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through theoretical analysis, empirical analysis, or a combination of both.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Furyton/awesome-language-model-analysis 可以通过以下方式接入：
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # advplyr/audiobookshelf
 
-[![Stars](https://img.shields.io/github/stars/advplyr/audiobookshelf?style=flat-square&color=yellow)](https://github.com/advplyr/audiobookshelf/stargazers) [![Forks](https://img.shields.io/github/forks/advplyr/audiobookshelf?style=flat-square&color=blue)](https://github.com/advplyr/audiobookshelf/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/advplyr/audiobookshelf?style=flat-square&color=yellow)](https://github.com/advplyr/audiobookshelf/stargazers) [![Forks](https://img.shields.io/github/forks/advplyr/audiobookshelf?style=flat-square&color=blue)](https://github.com/advplyr/audiobookshelf/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted audiobook and podcast server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.7k |
 | 🍴 **Forks** | 969 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ advplyr/audiobookshelf 是一款自托管的有声书与播客服务器，基于
 | forks | 75/100 |
 | stars | 87/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

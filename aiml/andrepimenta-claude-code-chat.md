@@ -1,6 +1,6 @@
 # andrepimenta/claude-code-chat
 
-[![Stars](https://img.shields.io/github/stars/andrepimenta/claude-code-chat?style=flat-square&color=yellow)](https://github.com/andrepimenta/claude-code-chat/stargazers) [![Forks](https://img.shields.io/github/forks/andrepimenta/claude-code-chat?style=flat-square&color=blue)](https://github.com/andrepimenta/claude-code-chat/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andrepimenta/claude-code-chat?style=flat-square&color=yellow)](https://github.com/andrepimenta/claude-code-chat/stargazers) [![Forks](https://img.shields.io/github/forks/andrepimenta/claude-code-chat?style=flat-square&color=blue)](https://github.com/andrepimenta/claude-code-chat/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful Claude Code Chat Interface for VS Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ Overall, *claude-code-chat* is a solid foundation for internal prototypes or dev
 | forks | 55/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

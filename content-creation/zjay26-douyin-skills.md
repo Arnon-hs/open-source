@@ -1,6 +1,6 @@
 # zJay26/douyin-skills
 
-[![Stars](https://img.shields.io/github/stars/zJay26/douyin-skills?style=flat-square&color=yellow)](https://github.com/zJay26/douyin-skills/stargazers) [![Forks](https://img.shields.io/github/forks/zJay26/douyin-skills?style=flat-square&color=blue)](https://github.com/zJay26/douyin-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zJay26/douyin-skills?style=flat-square&color=yellow)](https://github.com/zJay26/douyin-skills/stargazers) [![Forks](https://img.shields.io/github/forks/zJay26/douyin-skills?style=flat-square&color=blue)](https://github.com/zJay26/douyin-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first Agent Skills for safe social-web workflows—starting with Douyin and designed around reusable browser adapters.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ zJay26/douyin-skills — это коллекция локальных AI-аге�
 | forks | 19/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

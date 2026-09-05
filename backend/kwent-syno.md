@@ -1,6 +1,6 @@
 # kwent/syno
 
-[![Stars](https://img.shields.io/github/stars/kwent/syno?style=flat-square&color=yellow)](https://github.com/kwent/syno/stargazers) [![Forks](https://img.shields.io/github/forks/kwent/syno?style=flat-square&color=blue)](https://github.com/kwent/syno/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kwent/syno?style=flat-square&color=yellow)](https://github.com/kwent/syno/stargazers) [![Forks](https://img.shields.io/github/forks/kwent/syno?style=flat-square&color=blue)](https://github.com/kwent/syno/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ kwent/syno 是一个基于 Node.js 的轻量级封装库和命令行工具，提
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

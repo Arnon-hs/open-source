@@ -1,6 +1,6 @@
 # tylerebowers/Schwabdev
 
-[![Stars](https://img.shields.io/github/stars/tylerebowers/Schwabdev?style=flat-square&color=yellow)](https://github.com/tylerebowers/Schwabdev/stargazers) [![Forks](https://img.shields.io/github/forks/tylerebowers/Schwabdev?style=flat-square&color=blue)](https://github.com/tylerebowers/Schwabdev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tylerebowers/Schwabdev?style=flat-square&color=yellow)](https://github.com/tylerebowers/Schwabdev/stargazers) [![Forks](https://img.shields.io/github/forks/tylerebowers/Schwabdev?style=flat-square&color=blue)](https://github.com/tylerebowers/Schwabdev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An easy and lightweight wrapper for using the Charles Schwab API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 847 |
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ tylerbowers/Schwabdev 具有较高的生产可用性，其 GitHub 星星数为 8
 | forks | 61/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 67/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

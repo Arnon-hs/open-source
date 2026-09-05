@@ -1,6 +1,6 @@
 # Fioooooooo/FylloCode
 
-[![Stars](https://img.shields.io/github/stars/Fioooooooo/FylloCode?style=flat-square&color=yellow)](https://github.com/Fioooooooo/FylloCode/stargazers) [![Forks](https://img.shields.io/github/forks/Fioooooooo/FylloCode?style=flat-square&color=blue)](https://github.com/Fioooooooo/FylloCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fioooooooo/FylloCode?style=flat-square&color=yellow)](https://github.com/Fioooooooo/FylloCode/stargazers) [![Forks](https://img.shields.io/github/forks/Fioooooooo/FylloCode?style=flat-square&color=blue)](https://github.com/Fioooooooo/FylloCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Coding Agent 的团队治理层：让全队的 Agent 遵守同一套持续进化的规则，全程可追溯
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Fioooooooo/FylloCode 是面向 Coding Agent 的团队治理层，提供一套可
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

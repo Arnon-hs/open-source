@@ -1,6 +1,6 @@
 # TiltedLunar123/SIEMForge
 
-[![Stars](https://img.shields.io/github/stars/TiltedLunar123/SIEMForge?style=flat-square&color=yellow)](https://github.com/TiltedLunar123/SIEMForge/stargazers) [![Forks](https://img.shields.io/github/forks/TiltedLunar123/SIEMForge?style=flat-square&color=blue)](https://github.com/TiltedLunar123/SIEMForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TiltedLunar123/SIEMForge?style=flat-square&color=yellow)](https://github.com/TiltedLunar123/SIEMForge/stargazers) [![Forks](https://img.shields.io/github/forks/TiltedLunar123/SIEMForge?style=flat-square&color=blue)](https://github.com/TiltedLunar123/SIEMForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Portable SIEM detection toolkit with Sigma rules, Sysmon config, and Wazuh custom rules mapped to MITRE ATT&CK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,15 +66,15 @@ TiltedLunar123/SIEMForge：TiltedLunar123/SIEMForge may be useful when its READM
 | forks | 8/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 49/100 |
-| recency | 80/100 |
+| outlook | 51/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 7/100 |
-| production | 57/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

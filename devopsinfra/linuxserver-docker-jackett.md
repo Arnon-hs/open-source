@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Dockerfile |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ linuxserver/docker-jackett：linuxserver/docker-jackett helps make deployment an
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

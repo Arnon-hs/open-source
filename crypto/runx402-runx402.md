@@ -1,6 +1,6 @@
 # Runx402/Runx402
 
-[![Stars](https://img.shields.io/github/stars/Runx402/Runx402?style=flat-square&color=yellow)](https://github.com/Runx402/Runx402/stargazers) [![Forks](https://img.shields.io/github/forks/Runx402/Runx402?style=flat-square&color=blue)](https://github.com/Runx402/Runx402/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Runx402/Runx402?style=flat-square&color=yellow)](https://github.com/Runx402/Runx402/stargazers) [![Forks](https://img.shields.io/github/forks/Runx402/Runx402?style=flat-square&color=blue)](https://github.com/Runx402/Runx402/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Bet on AI agents racing real GPUs. They rent compute, do hash-verified work, earn and you stake Solana on the best. Live on Solana.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Runx402/Runx402的生产可用性为Medium，适合用于prototype或内部工�
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

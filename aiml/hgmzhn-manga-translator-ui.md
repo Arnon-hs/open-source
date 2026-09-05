@@ -1,6 +1,6 @@
 # hgmzhn/manga-translator-ui
 
-[![Stars](https://img.shields.io/github/stars/hgmzhn/manga-translator-ui?style=flat-square&color=yellow)](https://github.com/hgmzhn/manga-translator-ui/stargazers) [![Forks](https://img.shields.io/github/forks/hgmzhn/manga-translator-ui?style=flat-square&color=blue)](https://github.com/hgmzhn/manga-translator-ui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hgmzhn/manga-translator-ui?style=flat-square&color=yellow)](https://github.com/hgmzhn/manga-translator-ui/stargazers) [![Forks](https://img.shields.io/github/forks/hgmzhn/manga-translator-ui?style=flat-square&color=blue)](https://github.com/hgmzhn/manga-translator-ui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 manga-image-translator 的开源漫画翻译工具。支持日/韩/美漫自动翻译，内置 OpenAI、Gemini 等 5 种翻译引擎，并提供可视化编辑器自由调整文本样式。一键安装，开箱即用。如果喜欢，欢迎点亮 ⭐ Star 支持！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ hgmzhn/manga-translator-ui 是基于 manga-image-translator 的开源漫画翻�
 | forks | 52/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

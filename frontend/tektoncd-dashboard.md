@@ -1,6 +1,6 @@
 # tektoncd/dashboard
 
-[![Stars](https://img.shields.io/github/stars/tektoncd/dashboard?style=flat-square&color=yellow)](https://github.com/tektoncd/dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/tektoncd/dashboard?style=flat-square&color=blue)](https://github.com/tektoncd/dashboard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tektoncd/dashboard?style=flat-square&color=yellow)](https://github.com/tektoncd/dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/tektoncd/dashboard?style=flat-square&color=blue)](https://github.com/tektoncd/dashboard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A dashboard for Tekton!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 951 |
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ tektoncd/dashboard 是 Tekton 官方提供的前端仪表盘，帮助用户快�
 | forks | 62/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

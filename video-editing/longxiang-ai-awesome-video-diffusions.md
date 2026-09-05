@@ -1,6 +1,6 @@
 # longxiang-ai/awesome-video-diffusions
 
-[![Stars](https://img.shields.io/github/stars/longxiang-ai/awesome-video-diffusions?style=flat-square&color=yellow)](https://github.com/longxiang-ai/awesome-video-diffusions/stargazers) [![Forks](https://img.shields.io/github/forks/longxiang-ai/awesome-video-diffusions?style=flat-square&color=blue)](https://github.com/longxiang-ai/awesome-video-diffusions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/longxiang-ai/awesome-video-diffusions?style=flat-square&color=yellow)](https://github.com/longxiang-ai/awesome-video-diffusions/stargazers) [![Forks](https://img.shields.io/github/forks/longxiang-ai/awesome-video-diffusions?style=flat-square&color=blue)](https://github.com/longxiang-ai/awesome-video-diffusions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A curated and auto-updated collection of video diffusion / video generation papers from arXiv, covering text-to-video, image-to-video, controllable generation, world models, video editing, and 16+ research categories.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ longxiang-ai/awesome-video-diffusions 提供了一个持续更新的视频扩散
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

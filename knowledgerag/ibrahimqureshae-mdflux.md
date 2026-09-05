@@ -1,6 +1,6 @@
 # ibrahimqureshae/mdflux
 
-[![Stars](https://img.shields.io/github/stars/ibrahimqureshae/mdflux?style=flat-square&color=yellow)](https://github.com/ibrahimqureshae/mdflux/stargazers) [![Forks](https://img.shields.io/github/forks/ibrahimqureshae/mdflux?style=flat-square&color=blue)](https://github.com/ibrahimqureshae/mdflux/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ibrahimqureshae/mdflux?style=flat-square&color=yellow)](https://github.com/ibrahimqureshae/mdflux/stargazers) [![Forks](https://img.shields.io/github/forks/ibrahimqureshae/mdflux?style=flat-square&color=blue)](https://github.com/ibrahimqureshae/mdflux/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ ibrahimqureshae/mdflux 是一个开源项目，旨在将任何文档转换为清
 | forks | 21/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

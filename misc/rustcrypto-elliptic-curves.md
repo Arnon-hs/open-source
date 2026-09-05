@@ -1,6 +1,6 @@
 # RustCrypto/elliptic-curves
 
-[![Stars](https://img.shields.io/github/stars/RustCrypto/elliptic-curves?style=flat-square&color=yellow)](https://github.com/RustCrypto/elliptic-curves/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/elliptic-curves?style=flat-square&color=blue)](https://github.com/RustCrypto/elliptic-curves/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustCrypto/elliptic-curves?style=flat-square&color=yellow)](https://github.com/RustCrypto/elliptic-curves/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/elliptic-curves?style=flat-square&color=blue)](https://github.com/RustCrypto/elliptic-curves/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of pure Rust elliptic curve implementations: NIST P-224, P-256, P-384, P-521, secp256k1, SM2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 862 |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -138,11 +138,11 @@ RustCrypto/elliptic‑curves 提供了纯 Rust 实现的多种主流椭圆曲线
 | forks | 61/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

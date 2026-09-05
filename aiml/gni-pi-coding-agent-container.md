@@ -1,6 +1,6 @@
 # gni/pi-coding-agent-container
 
-[![Stars](https://img.shields.io/github/stars/gni/pi-coding-agent-container?style=flat-square&color=yellow)](https://github.com/gni/pi-coding-agent-container/stargazers) [![Forks](https://img.shields.io/github/forks/gni/pi-coding-agent-container?style=flat-square&color=blue)](https://github.com/gni/pi-coding-agent-container/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gni/pi-coding-agent-container?style=flat-square&color=yellow)](https://github.com/gni/pi-coding-agent-container/stargazers) [![Forks](https://img.shields.io/github/forks/gni/pi-coding-agent-container?style=flat-square&color=blue)](https://github.com/gni/pi-coding-agent-container/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > pi-coding-agent docker compose
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | C |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ The project is at a **medium** readiness level: it is actively maintained (last 
 | forks | 31/100 |
 | stars | 33/100 |
 | topics | 50/100 |
-| outlook | 42/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 44/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # open-agent-ai-security/praxen
 
-[![Stars](https://img.shields.io/github/stars/open-agent-ai-security/praxen?style=flat-square&color=yellow)](https://github.com/open-agent-ai-security/praxen/stargazers) [![Forks](https://img.shields.io/github/forks/open-agent-ai-security/praxen?style=flat-square&color=blue)](https://github.com/open-agent-ai-security/praxen/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-agent-ai-security/praxen?style=flat-square&color=yellow)](https://github.com/open-agent-ai-security/praxen/stargazers) [![Forks](https://img.shields.io/github/forks/open-agent-ai-security/praxen?style=flat-square&color=blue)](https://github.com/open-agent-ai-security/praxen/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Praxen — agent behavior verifier. Compares an AI agent's declared policy against the available evidence; reports where observed behavior diverges from declared intent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Praxen 的生产可用性为中等。它适合用于原型或内部工作流程�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

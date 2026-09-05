@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · MCP · Backend
+Video Editing · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ jordanrendric/claude-video-vision：jordanrendric/claude-video-vision helps turn
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

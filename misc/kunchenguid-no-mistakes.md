@@ -1,6 +1,6 @@
 # kunchenguid/no-mistakes
 
-[![Stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes?style=flat-square&color=yellow)](https://github.com/kunchenguid/no-mistakes/stargazers) [![Forks](https://img.shields.io/github/forks/kunchenguid/no-mistakes?style=flat-square&color=blue)](https://github.com/kunchenguid/no-mistakes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes?style=flat-square&color=yellow)](https://github.com/kunchenguid/no-mistakes/stargazers) [![Forks](https://img.shields.io/github/forks/kunchenguid/no-mistakes?style=flat-square&color=blue)](https://github.com/kunchenguid/no-mistakes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > git push no-mistakes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ kunchenguid/no-mistakes 是一个帮助前端团队在提交代码时避免常�
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

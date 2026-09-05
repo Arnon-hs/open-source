@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -80,6 +80,7 @@ tukuaiai/tradecat：tukuaiai/tradecat helps prototype or inspect blockchain work
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

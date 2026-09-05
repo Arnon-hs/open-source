@@ -1,6 +1,6 @@
 # CNWU16/vedic-astro-skills
 
-[![Stars](https://img.shields.io/github/stars/CNWU16/vedic-astro-skills?style=flat-square&color=yellow)](https://github.com/CNWU16/vedic-astro-skills/stargazers) [![Forks](https://img.shields.io/github/forks/CNWU16/vedic-astro-skills?style=flat-square&color=blue)](https://github.com/CNWU16/vedic-astro-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CNWU16/vedic-astro-skills?style=flat-square&color=yellow)](https://github.com/CNWU16/vedic-astro-skills/stargazers) [![Forks](https://img.shields.io/github/forks/CNWU16/vedic-astro-skills?style=flat-square&color=blue)](https://github.com/CNWU16/vedic-astro-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🔱 Vedic/Jyotish AI analysis toolkit | 吠陀占星AI分析工具包 — Core引擎 + Career事业 + Love感情 | Antigravity & Claude Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ CNWU16/vedic-astro-skills 是一个开源项目，提供了吠陀占星AI分析�
 | forks | 43/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

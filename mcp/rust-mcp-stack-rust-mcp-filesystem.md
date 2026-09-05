@@ -1,6 +1,6 @@
 # rust-mcp-stack/rust-mcp-filesystem
 
-[![Stars](https://img.shields.io/github/stars/rust-mcp-stack/rust-mcp-filesystem?style=flat-square&color=yellow)](https://github.com/rust-mcp-stack/rust-mcp-filesystem/stargazers) [![Forks](https://img.shields.io/github/forks/rust-mcp-stack/rust-mcp-filesystem?style=flat-square&color=blue)](https://github.com/rust-mcp-stack/rust-mcp-filesystem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-mcp-stack/rust-mcp-filesystem?style=flat-square&color=yellow)](https://github.com/rust-mcp-stack/rust-mcp-filesystem/stargazers) [![Forks](https://img.shields.io/github/forks/rust-mcp-stack/rust-mcp-filesystem?style=flat-square&color=blue)](https://github.com/rust-mcp-stack/rust-mcp-filesystem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ rust-mcp-stack/rust-mcp-filesystem 的生产可用性为 中等（Medium）。�
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

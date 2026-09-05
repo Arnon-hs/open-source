@@ -1,6 +1,6 @@
 # flonat/flonat-research
 
-[![Stars](https://img.shields.io/github/stars/flonat/flonat-research?style=flat-square&color=yellow)](https://github.com/flonat/flonat-research/stargazers) [![Forks](https://img.shields.io/github/forks/flonat/flonat-research?style=flat-square&color=blue)](https://github.com/flonat/flonat-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flonat/flonat-research?style=flat-square&color=yellow)](https://github.com/flonat/flonat-research/stargazers) [![Forks](https://img.shields.io/github/forks/flonat/flonat-research?style=flat-square&color=blue)](https://github.com/flonat/flonat-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Shareable Claude Code + Codex infrastructure for PhD researchers — skills, agents, hooks, and rules for academic workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ flonat/flonat‑research 提供面向博士研究者的可共享 Claude Code +
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

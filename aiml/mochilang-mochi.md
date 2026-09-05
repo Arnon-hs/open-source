@@ -1,6 +1,6 @@
 # mochilang/mochi
 
-[![Stars](https://img.shields.io/github/stars/mochilang/mochi?style=flat-square&color=yellow)](https://github.com/mochilang/mochi/stargazers) [![Forks](https://img.shields.io/github/forks/mochilang/mochi?style=flat-square&color=blue)](https://github.com/mochilang/mochi/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mochilang/mochi?style=flat-square&color=yellow)](https://github.com/mochilang/mochi/stargazers) [![Forks](https://img.shields.io/github/forks/mochilang/mochi?style=flat-square&color=blue)](https://github.com/mochilang/mochi/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Mochi is a small, fast, embeddable programming language designed for agents, data, and AI. It combines functional syntax, stream-first semantics, and native support for datasets, graphs, and simulation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Scheme |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Mochi 通过内置的函数式语法、流优先（stream‑first）语义以及
 | forks | 29/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 47/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

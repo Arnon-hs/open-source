@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · DevOps/Infra
+Automation · Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ CloakHQ/CloakBrowser-Manager：CloakHQ/CloakBrowser-Manager helps remove repetit
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

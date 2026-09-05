@@ -1,6 +1,6 @@
 # ColeMurray/background-agents
 
-[![Stars](https://img.shields.io/github/stars/ColeMurray/background-agents?style=flat-square&color=yellow)](https://github.com/ColeMurray/background-agents/stargazers) [![Forks](https://img.shields.io/github/forks/ColeMurray/background-agents?style=flat-square&color=blue)](https://github.com/ColeMurray/background-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ColeMurray/background-agents?style=flat-square&color=yellow)](https://github.com/ColeMurray/background-agents/stargazers) [![Forks](https://img.shields.io/github/forks/ColeMurray/background-agents?style=flat-square&color=blue)](https://github.com/ColeMurray/background-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source background agents coding system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ ColeMurray/background‑agents 是一个基于 TypeScript 的开源后台代理�
 | forks | 60/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

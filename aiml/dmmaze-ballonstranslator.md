@@ -1,6 +1,6 @@
 # dmMaze/BallonsTranslator
 
-[![Stars](https://img.shields.io/github/stars/dmMaze/BallonsTranslator?style=flat-square&color=yellow)](https://github.com/dmMaze/BallonsTranslator/stargazers) [![Forks](https://img.shields.io/github/forks/dmMaze/BallonsTranslator?style=flat-square&color=blue)](https://github.com/dmMaze/BallonsTranslator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmMaze/BallonsTranslator?style=flat-square&color=yellow)](https://github.com/dmMaze/BallonsTranslator/stargazers) [![Forks](https://img.shields.io/github/forks/dmMaze/BallonsTranslator?style=flat-square&color=blue)](https://github.com/dmMaze/BallonsTranslator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ dmMaze/BallonsTranslator 具有高生产可用性，主要原因包括：
 | forks | 63/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

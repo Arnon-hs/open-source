@@ -1,6 +1,6 @@
 # ALEEEHU/World-Simulator
 
-[![Stars](https://img.shields.io/github/stars/ALEEEHU/World-Simulator?style=flat-square&color=yellow)](https://github.com/ALEEEHU/World-Simulator/stargazers) [![Forks](https://img.shields.io/github/forks/ALEEEHU/World-Simulator?style=flat-square&color=blue)](https://github.com/ALEEEHU/World-Simulator/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ALEEEHU/World-Simulator?style=flat-square&color=yellow)](https://github.com/ALEEEHU/World-Simulator/stargazers) [![Forks](https://img.shields.io/github/forks/ALEEEHU/World-Simulator?style=flat-square&color=blue)](https://github.com/ALEEEHU/World-Simulator/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > [IEEE TPAMI 2026] Simulating the Real World: Survey & Resources, which contains our survey "Simulating the Real World: A Unified Survey of Multimodal Generative Models" (IEEE TPAMI, 2026) and Awesome-Text2X-Resources. Watch this repository for the latest updates! 🔥
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ ALEEEHU/World-Simulator 帮助开发者在不从零开始建立模型堆栈的�
 | forks | 29/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

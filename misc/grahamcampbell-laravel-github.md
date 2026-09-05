@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ GrahamCampbell/Laravel-GitHub：GrahamCampbell/Laravel-GitHub may be useful when
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

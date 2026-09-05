@@ -1,6 +1,6 @@
 # 0x2E/fusion
 
-[![Stars](https://img.shields.io/github/stars/0x2E/fusion?style=flat-square&color=yellow)](https://github.com/0x2E/fusion/stargazers) [![Forks](https://img.shields.io/github/forks/0x2E/fusion?style=flat-square&color=blue)](https://github.com/0x2E/fusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0x2E/fusion?style=flat-square&color=yellow)](https://github.com/0x2E/fusion/stargazers) [![Forks](https://img.shields.io/github/forks/0x2E/fusion?style=flat-square&color=blue)](https://github.com/0x2E/fusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, self-hosted friendly RSS reader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Overall, 0x2E/fusion is ready for a serious pilot and, after the small proof‑o
 | forks | 48/100 |
 | stars | 71/100 |
 | topics | 50/100 |
-| outlook | 57/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

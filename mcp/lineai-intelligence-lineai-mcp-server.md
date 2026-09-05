@@ -1,6 +1,6 @@
 # lineai-intelligence/lineai-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/lineai-intelligence/lineai-mcp-server?style=flat-square&color=yellow)](https://github.com/lineai-intelligence/lineai-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/lineai-intelligence/lineai-mcp-server?style=flat-square&color=blue)](https://github.com/lineai-intelligence/lineai-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lineai-intelligence/lineai-mcp-server?style=flat-square&color=yellow)](https://github.com/lineai-intelligence/lineai-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/lineai-intelligence/lineai-mcp-server?style=flat-square&color=blue)](https://github.com/lineai-intelligence/lineai-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP Server to utilize Lineai's rich software dependency data in your AI programming assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Lineai-MCP-Server 的生产可用性为中等。它适合用于原型或内部�
 | forks | 30/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

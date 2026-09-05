@@ -1,6 +1,6 @@
 # PaddlePaddle/en_PP-OCRv5_mobile_rec
 
-[![Stars](https://img.shields.io/github/stars/PaddlePaddle/en_PP-OCRv5_mobile_rec?style=flat-square&color=yellow)](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/en_PP-OCRv5_mobile_rec?style=flat-square&color=blue)](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec/network) [![Language](https://img.shields.io/badge/lang-PaddleOCR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaddlePaddle/en_PP-OCRv5_mobile_rec?style=flat-square&color=yellow)](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/en_PP-OCRv5_mobile_rec?style=flat-square&color=blue)](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec/network) [![Language](https://img.shields.io/badge/lang-PaddleOCR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Vision language (image-to-text) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PaddleOCR |
-| 📈 **Score** | 30/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ PaddlePaddle/en_PP-OCRv5_mobile_rec是一个基于PaddlePaddle的开源模型，
 | forks | 0/100 |
 | stars | 10/100 |
 | topics | 38/100 |
-| outlook | 28/100 |
-| quality | 24/100 |
-| recency | 20/100 |
+| outlook | 49/100 |
+| quality | 39/100 |
+| recency | 80/100 |
 | adoption | 7/100 |
-| production | 32/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

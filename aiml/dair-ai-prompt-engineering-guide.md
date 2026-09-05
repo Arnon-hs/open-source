@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
@@ -72,6 +72,7 @@ dair-ai/Prompt-Engineering-Guide：dair-ai/Prompt-Engineering-Guide helps add AI
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

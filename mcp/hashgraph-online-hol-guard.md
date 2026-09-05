@@ -1,6 +1,6 @@
 # hashgraph-online/hol-guard
 
-[![Stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=flat-square&color=yellow)](https://github.com/hashgraph-online/hol-guard/stargazers) [![Forks](https://img.shields.io/github/forks/hashgraph-online/hol-guard?style=flat-square&color=blue)](https://github.com/hashgraph-online/hol-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=flat-square&color=yellow)](https://github.com/hashgraph-online/hol-guard/stargazers) [![Forks](https://img.shields.io/github/forks/hashgraph-online/hol-guard?style=flat-square&color=blue)](https://github.com/hashgraph-online/hol-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > AI antivirus for developer agents: protect Codex, Claude Code, Cursor, Gemini, OpenCode, plugins, skills, MCP servers, and AI harnesses before tools run.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · DevTools · Security
+MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ hashgraph-online/hol-guard 是一款面向开发者代理的 AI 防病毒系统�
 | forks | 23/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

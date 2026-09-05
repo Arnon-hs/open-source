@@ -1,6 +1,6 @@
 # fmagent-project/FM-Agent
 
-[![Stars](https://img.shields.io/github/stars/fmagent-project/FM-Agent?style=flat-square&color=yellow)](https://github.com/fmagent-project/FM-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/fmagent-project/FM-Agent?style=flat-square&color=blue)](https://github.com/fmagent-project/FM-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fmagent-project/FM-Agent?style=flat-square&color=yellow)](https://github.com/fmagent-project/FM-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/fmagent-project/FM-Agent?style=flat-square&color=blue)](https://github.com/fmagent-project/FM-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ fmagent-project/FM-Agent 的生产可用性为中等。它适合用于原型或�
 | forks | 40/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

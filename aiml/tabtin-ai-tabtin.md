@@ -1,6 +1,6 @@
 # tabtin-ai/TabTin
 
-[![Stars](https://img.shields.io/github/stars/tabtin-ai/TabTin?style=flat-square&color=yellow)](https://github.com/tabtin-ai/TabTin/stargazers) [![Forks](https://img.shields.io/github/forks/tabtin-ai/TabTin?style=flat-square&color=blue)](https://github.com/tabtin-ai/TabTin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tabtin-ai/TabTin?style=flat-square&color=yellow)](https://github.com/tabtin-ai/TabTin/stargazers) [![Forks](https://img.shields.io/github/forks/tabtin-ai/TabTin?style=flat-square&color=blue)](https://github.com/tabtin-ai/TabTin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A workspace where people and multiple AI agents work together.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ tabtin-ai/TabTin：tabtin-ai/TabTin helps add AI capability without starting fro
 | forks | 26/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

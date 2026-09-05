@@ -1,6 +1,6 @@
 # productdevbook/port-killer
 
-[![Stars](https://img.shields.io/github/stars/productdevbook/port-killer?style=flat-square&color=yellow)](https://github.com/productdevbook/port-killer/stargazers) [![Forks](https://img.shields.io/github/forks/productdevbook/port-killer?style=flat-square&color=blue)](https://github.com/productdevbook/port-killer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/productdevbook/port-killer?style=flat-square&color=yellow)](https://github.com/productdevbook/port-killer/stargazers) [![Forks](https://img.shields.io/github/forks/productdevbook/port-killer?style=flat-square&color=blue)](https://github.com/productdevbook/port-killer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ productdevbook/port-killer 已经获得了强大的生态系统信号，包括 4
 | forks | 57/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

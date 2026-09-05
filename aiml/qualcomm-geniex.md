@@ -1,6 +1,6 @@
 # qualcomm/GenieX
 
-[![Stars](https://img.shields.io/github/stars/qualcomm/GenieX?style=flat-square&color=yellow)](https://github.com/qualcomm/GenieX/stargazers) [![Forks](https://img.shields.io/github/forks/qualcomm/GenieX?style=flat-square&color=blue)](https://github.com/qualcomm/GenieX/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qualcomm/GenieX?style=flat-square&color=yellow)](https://github.com/qualcomm/GenieX/stargazers) [![Forks](https://img.shields.io/github/forks/qualcomm/GenieX?style=flat-square&color=blue)](https://github.com/qualcomm/GenieX/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Mobile · DevOps/Infra
+AI/ML · Libraries & SDKs · Mobile · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ GenieX 通过统一的运行时框架，让前沿的大语言模型（LLM）和�
 | forks | 75/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 67/100 |
+| production | 81/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

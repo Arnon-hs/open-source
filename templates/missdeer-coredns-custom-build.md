@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Go Template |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ missdeer/coredns_custom_build：missdeer/coredns_custom_build helps teams reuse 
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

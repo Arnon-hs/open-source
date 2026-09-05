@@ -1,6 +1,6 @@
 # fronalabs/frona
 
-[![Stars](https://img.shields.io/github/stars/fronalabs/frona?style=flat-square&color=yellow)](https://github.com/fronalabs/frona/stargazers) [![Forks](https://img.shields.io/github/forks/fronalabs/frona?style=flat-square&color=blue)](https://github.com/fronalabs/frona/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fronalabs/frona?style=flat-square&color=yellow)](https://github.com/fronalabs/frona/stargazers) [![Forks](https://img.shields.io/github/forks/fronalabs/frona?style=flat-square&color=blue)](https://github.com/fronalabs/frona/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Frona is a personal AI assistant. You create autonomous agents, give them tools, and talk to them through a chat interface. Agents act on their own. They browse the web, run code, develop applications, search the internet, make phone calls, and delegate work to each other. You give them a task and they figure out how to get it done.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ Frona 是一款开源的个人 AI 助手，用户可以创建具备工具链的�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 46/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

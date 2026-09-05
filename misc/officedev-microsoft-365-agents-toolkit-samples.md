@@ -1,6 +1,6 @@
 # OfficeDev/microsoft-365-agents-toolkit-samples
 
-[![Stars](https://img.shields.io/github/stars/OfficeDev/microsoft-365-agents-toolkit-samples?style=flat-square&color=yellow)](https://github.com/OfficeDev/microsoft-365-agents-toolkit-samples/stargazers) [![Forks](https://img.shields.io/github/forks/OfficeDev/microsoft-365-agents-toolkit-samples?style=flat-square&color=blue)](https://github.com/OfficeDev/microsoft-365-agents-toolkit-samples/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OfficeDev/microsoft-365-agents-toolkit-samples?style=flat-square&color=yellow)](https://github.com/OfficeDev/microsoft-365-agents-toolkit-samples/stargazers) [![Forks](https://img.shields.io/github/forks/OfficeDev/microsoft-365-agents-toolkit-samples?style=flat-square&color=blue)](https://github.com/OfficeDev/microsoft-365-agents-toolkit-samples/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Scenario-focused sample applications that help you get started with building Microsoft Teams App.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ OfficeDev 的 *microsoft-365-agents-toolkit-samples* 提供了一系列面向�
 | forks | 62/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

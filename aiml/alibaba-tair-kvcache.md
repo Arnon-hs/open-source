@@ -1,6 +1,6 @@
 # alibaba/tair-kvcache
 
-[![Stars](https://img.shields.io/github/stars/alibaba/tair-kvcache?style=flat-square&color=yellow)](https://github.com/alibaba/tair-kvcache/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/tair-kvcache?style=flat-square&color=blue)](https://github.com/alibaba/tair-kvcache/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/tair-kvcache?style=flat-square&color=yellow)](https://github.com/alibaba/tair-kvcache/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/tair-kvcache?style=flat-square&color=blue)](https://github.com/alibaba/tair-kvcache/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Alibaba Cloud's high-performance KVCache system for LLM inference, with components for global cache management, inference simulation(HiSim), and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Alibaba Cloud 的 **tair‑kvcache** 是面向大模型推理的高性能 KVCach
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 42/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

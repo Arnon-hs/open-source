@@ -1,6 +1,6 @@
 # alchaincyf/nuwa-skill
 
-[![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square&color=yellow)](https://github.com/alchaincyf/nuwa-skill/stargazers) [![Forks](https://img.shields.io/github/forks/alchaincyf/nuwa-skill?style=flat-square&color=blue)](https://github.com/alchaincyf/nuwa-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square&color=yellow)](https://github.com/alchaincyf/nuwa-skill/stargazers) [![Forks](https://img.shields.io/github/forks/alchaincyf/nuwa-skill?style=flat-square&color=blue)](https://github.com/alchaincyf/nuwa-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.5k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Nuwa‑Skill scores high for pilot‑grade production: recent commits (last upda
 | forks | 89/100 |
 | stars | 94/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

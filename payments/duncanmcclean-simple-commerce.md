@@ -1,6 +1,6 @@
 # duncanmcclean/simple-commerce
 
-[![Stars](https://img.shields.io/github/stars/duncanmcclean/simple-commerce?style=flat-square&color=yellow)](https://github.com/duncanmcclean/simple-commerce/stargazers) [![Forks](https://img.shields.io/github/forks/duncanmcclean/simple-commerce?style=flat-square&color=blue)](https://github.com/duncanmcclean/simple-commerce/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duncanmcclean/simple-commerce?style=flat-square&color=yellow)](https://github.com/duncanmcclean/simple-commerce/stargazers) [![Forks](https://img.shields.io/github/forks/duncanmcclean/simple-commerce?style=flat-square&color=blue)](https://github.com/duncanmcclean/simple-commerce/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, yet powerful e-commerce addon for Statamic.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ With those checks in place, *duncanmcclean/simple‑commerce* can be a solid, lo
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 44/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

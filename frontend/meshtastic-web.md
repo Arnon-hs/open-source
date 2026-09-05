@@ -1,6 +1,6 @@
 # meshtastic/web
 
-[![Stars](https://img.shields.io/github/stars/meshtastic/web?style=flat-square&color=yellow)](https://github.com/meshtastic/web/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/web?style=flat-square&color=blue)](https://github.com/meshtastic/web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meshtastic/web?style=flat-square&color=yellow)](https://github.com/meshtastic/web/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/web?style=flat-square&color=blue)](https://github.com/meshtastic/web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Meshtastic Web Client/JS Monorepo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 810 |
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Meshtastic Web 是 Meshtastic 生态的前端单体仓库，提供基于 TypeS
 | forks | 62/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Product
+Automation · AI/ML · Productivity · Backend · Product
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Taskosaur/Taskosaur：Taskosaur/Taskosaur helps remove repetitive manual operati
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

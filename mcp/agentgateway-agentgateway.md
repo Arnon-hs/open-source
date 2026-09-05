@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 443 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevOps/Infra
+MCP · AI/ML · Networking · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistant
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

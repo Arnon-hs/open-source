@@ -1,6 +1,6 @@
 # leemysw/feishu-docx
 
-[![Stars](https://img.shields.io/github/stars/leemysw/feishu-docx?style=flat-square&color=yellow)](https://github.com/leemysw/feishu-docx/stargazers) [![Forks](https://img.shields.io/github/forks/leemysw/feishu-docx?style=flat-square&color=blue)](https://github.com/leemysw/feishu-docx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leemysw/feishu-docx?style=flat-square&color=yellow)](https://github.com/leemysw/feishu-docx/stargazers) [![Forks](https://img.shields.io/github/forks/leemysw/feishu-docx?style=flat-square&color=blue)](https://github.com/leemysw/feishu-docx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Feishu/Lark Docs、Sheet、Bitable <-> Markdown | AI Agent-friendly knowledge base exporter and writer with OAuth 2.0, CLI, TUI & Claude Skills support - 飞书文档 <写入/导出> Markdown | AI Agent 友好型导出-写入工具
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents · Security
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ leemysw/feishu‑docx 是一款基于 OAuth 2.0 的开源工具，能够在飞
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

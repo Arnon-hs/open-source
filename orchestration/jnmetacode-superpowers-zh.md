@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ jnMetaCode/superpowers-zh：jnMetaCode/superpowers-zh helps turn isolated prompt
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

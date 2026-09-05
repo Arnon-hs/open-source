@@ -1,6 +1,6 @@
 # getsentry/sentry-javascript
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-javascript?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-javascript/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-javascript?style=flat-square&color=blue)](https://github.com/getsentry/sentry-javascript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-javascript?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-javascript/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-javascript?style=flat-square&color=blue)](https://github.com/getsentry/sentry-javascript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Official Sentry SDKs for JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.7k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Observability
+Frontend · Libraries & SDKs · Observability
 
 ## 📝 Summary
 
@@ -123,15 +123,15 @@ getsentry/sentry-javascript 是 Sentry 官方发布的 JavaScript/TypeScript SDK
 | forks | 81/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 87/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

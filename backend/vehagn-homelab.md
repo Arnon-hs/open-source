@@ -1,6 +1,6 @@
 # vehagn/homelab
 
-[![Stars](https://img.shields.io/github/stars/vehagn/homelab?style=flat-square&color=yellow)](https://github.com/vehagn/homelab/stargazers) [![Forks](https://img.shields.io/github/forks/vehagn/homelab?style=flat-square&color=blue)](https://github.com/vehagn/homelab/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vehagn/homelab?style=flat-square&color=yellow)](https://github.com/vehagn/homelab/stargazers) [![Forks](https://img.shields.io/github/forks/vehagn/homelab?style=flat-square&color=blue)](https://github.com/vehagn/homelab/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ vehagn/homelab 的生产可用性很高，主要原因是其最近的活跃度�
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

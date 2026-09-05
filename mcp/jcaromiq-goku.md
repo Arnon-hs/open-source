@@ -1,6 +1,6 @@
 # jcaromiq/goku
 
-[![Stars](https://img.shields.io/github/stars/jcaromiq/goku?style=flat-square&color=yellow)](https://github.com/jcaromiq/goku/stargazers) [![Forks](https://img.shields.io/github/forks/jcaromiq/goku?style=flat-square&color=blue)](https://github.com/jcaromiq/goku/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jcaromiq/goku?style=flat-square&color=yellow)](https://github.com/jcaromiq/goku/stargazers) [![Forks](https://img.shields.io/github/forks/jcaromiq/goku?style=flat-square&color=blue)](https://github.com/jcaromiq/goku/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Goku is an HTTP load testing application written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ Goku 是一款使用 Rust 编写的 HTTP 压力测试工具，专注于高并发
 | forks | 21/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

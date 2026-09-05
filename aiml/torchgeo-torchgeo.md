@@ -1,6 +1,6 @@
 # torchgeo/torchgeo
 
-[![Stars](https://img.shields.io/github/stars/torchgeo/torchgeo?style=flat-square&color=yellow)](https://github.com/torchgeo/torchgeo/stargazers) [![Forks](https://img.shields.io/github/forks/torchgeo/torchgeo?style=flat-square&color=blue)](https://github.com/torchgeo/torchgeo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/torchgeo/torchgeo?style=flat-square&color=yellow)](https://github.com/torchgeo/torchgeo/stargazers) [![Forks](https://img.shields.io/github/forks/torchgeo/torchgeo?style=flat-square&color=blue)](https://github.com/torchgeo/torchgeo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 561 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ TorchGeo 的生产可用性很高，因为它有以下优点：
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

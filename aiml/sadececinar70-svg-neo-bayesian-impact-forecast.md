@@ -1,6 +1,6 @@
 # sadececinar70-svg/neo-bayesian-impact-forecast
 
-[![Stars](https://img.shields.io/github/stars/sadececinar70-svg/neo-bayesian-impact-forecast?style=flat-square&color=yellow)](https://github.com/sadececinar70-svg/neo-bayesian-impact-forecast/stargazers) [![Forks](https://img.shields.io/github/forks/sadececinar70-svg/neo-bayesian-impact-forecast?style=flat-square&color=blue)](https://github.com/sadececinar70-svg/neo-bayesian-impact-forecast/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sadececinar70-svg/neo-bayesian-impact-forecast?style=flat-square&color=yellow)](https://github.com/sadececinar70-svg/neo-bayesian-impact-forecast/stargazers) [![Forks](https://img.shields.io/github/forks/sadececinar70-svg/neo-bayesian-impact-forecast?style=flat-square&color=blue)](https://github.com/sadececinar70-svg/neo-bayesian-impact-forecast/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 2026 NEO Impact Triage: Bayesian AI Cross-Validation Against Sentry-II & ESA NEOCC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ sadececinar70-svg/neo-bayesian-impact-forecast 是一个开源项目，用于 NE
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

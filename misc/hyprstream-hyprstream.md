@@ -1,6 +1,6 @@
 # hyprstream/hyprstream
 
-[![Stars](https://img.shields.io/github/stars/hyprstream/hyprstream?style=flat-square&color=yellow)](https://github.com/hyprstream/hyprstream/stargazers) [![Forks](https://img.shields.io/github/forks/hyprstream/hyprstream?style=flat-square&color=blue)](https://github.com/hyprstream/hyprstream/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyprstream/hyprstream?style=flat-square&color=yellow)](https://github.com/hyprstream/hyprstream/stargazers) [![Forks](https://img.shields.io/github/forks/hyprstream/hyprstream?style=flat-square&color=blue)](https://github.com/hyprstream/hyprstream/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > HyprStream: agentic infrastructure for continous online-learning applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ HyprStream（`hyprstream/hyprstream`）是一套基于 Rust 实现的 Agentic �
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 46/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

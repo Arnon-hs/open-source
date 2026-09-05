@@ -1,6 +1,6 @@
 # jaredrhod/prompts
 
-[![Stars](https://img.shields.io/github/stars/jaredrhod/prompts?style=flat-square&color=yellow)](https://github.com/jaredrhod/prompts/stargazers) [![Forks](https://img.shields.io/github/forks/jaredrhod/prompts?style=flat-square&color=blue)](https://github.com/jaredrhod/prompts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaredrhod/prompts?style=flat-square&color=yellow)](https://github.com/jaredrhod/prompts/stargazers) [![Forks](https://img.shields.io/github/forks/jaredrhod/prompts?style=flat-square&color=blue)](https://github.com/jaredrhod/prompts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Prompts to give your AI agent to do certain things.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ jaredrhod/prompts 提供了一套可直接使用的 AI 提示词库，帮助开�
 | forks | 23/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 44/100 |
-| recency | 60/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 52/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

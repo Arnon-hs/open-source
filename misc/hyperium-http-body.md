@@ -1,6 +1,6 @@
 # hyperium/http-body
 
-[![Stars](https://img.shields.io/github/stars/hyperium/http-body?style=flat-square&color=yellow)](https://github.com/hyperium/http-body/stargazers) [![Forks](https://img.shields.io/github/forks/hyperium/http-body?style=flat-square&color=blue)](https://github.com/hyperium/http-body/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperium/http-body?style=flat-square&color=yellow)](https://github.com/hyperium/http-body/stargazers) [![Forks](https://img.shields.io/github/forks/hyperium/http-body?style=flat-square&color=blue)](https://github.com/hyperium/http-body/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Asynchronous HTTP body trait
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ hyperium/http-body 是一个基于 Rust 的异步 HTTP Body Trait，实现了对
 | forks | 46/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # 888newstep/ai-agent-platform
 
-[![Stars](https://img.shields.io/github/stars/888newstep/ai-agent-platform?style=flat-square&color=yellow)](https://github.com/888newstep/ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/888newstep/ai-agent-platform?style=flat-square&color=blue)](https://github.com/888newstep/ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/888newstep/ai-agent-platform?style=flat-square&color=yellow)](https://github.com/888newstep/ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/888newstep/ai-agent-platform?style=flat-square&color=blue)](https://github.com/888newstep/ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Here's a brief summary and an explanation of the project's value, practical adop
 | forks | 0/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

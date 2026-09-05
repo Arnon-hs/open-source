@@ -1,6 +1,6 @@
 # kngwyc3/Agent-Learning-Hub
 
-[![Stars](https://img.shields.io/github/stars/kngwyc3/Agent-Learning-Hub?style=flat-square&color=yellow)](https://github.com/kngwyc3/Agent-Learning-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/kngwyc3/Agent-Learning-Hub?style=flat-square&color=blue)](https://github.com/kngwyc3/Agent-Learning-Hub/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kngwyc3/Agent-Learning-Hub?style=flat-square&color=yellow)](https://github.com/kngwyc3/Agent-Learning-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/kngwyc3/Agent-Learning-Hub?style=flat-square&color=blue)](https://github.com/kngwyc3/Agent-Learning-Hub/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent 学习路线与资料库收集
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ kngwyc3/Agent-Learning-Hub是一个开源项目，集成了AI Agent学习路线�
 | forks | 56/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

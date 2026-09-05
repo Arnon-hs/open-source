@@ -1,6 +1,6 @@
 # hayowei/aisandboxgame
 
-[![Stars](https://img.shields.io/github/stars/hayowei/aisandboxgame?style=flat-square&color=yellow)](https://github.com/hayowei/aisandboxgame/stargazers) [![Forks](https://img.shields.io/github/forks/hayowei/aisandboxgame?style=flat-square&color=blue)](https://github.com/hayowei/aisandboxgame/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hayowei/aisandboxgame?style=flat-square&color=yellow)](https://github.com/hayowei/aisandboxgame/stargazers) [![Forks](https://img.shields.io/github/forks/hayowei/aisandboxgame?style=flat-square&color=blue)](https://github.com/hayowei/aisandboxgame/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > AI Sandbox Game: A highly customizable, local-first text RPG driven by LLMs. Create world cards, configure multi-step AI agents, and play with zero backend.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Games & Graphics
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ hayowei/aisandboxgame：hayowei/aisandboxgame helps add AI capability without st
 | forks | 26/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

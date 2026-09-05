@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 471 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML · Communication · Frontend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ EKKOLearnAI/hermes-web-ui：EKKOLearnAI/hermes-web-ui helps remove repetitive ma
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

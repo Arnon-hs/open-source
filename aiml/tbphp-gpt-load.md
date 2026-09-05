@@ -1,6 +1,6 @@
 # tbphp/gpt-load
 
-[![Stars](https://img.shields.io/github/stars/tbphp/gpt-load?style=flat-square&color=yellow)](https://github.com/tbphp/gpt-load/stargazers) [![Forks](https://img.shields.io/github/forks/tbphp/gpt-load?style=flat-square&color=blue)](https://github.com/tbphp/gpt-load/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tbphp/gpt-load?style=flat-square&color=yellow)](https://github.com/tbphp/gpt-load/stargazers) [![Forks](https://img.shields.io/github/forks/tbphp/gpt-load?style=flat-square&color=blue)](https://github.com/tbphp/gpt-load/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 665 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ tbphp/gpt-load 是一款基于 Go 实现的多渠道 AI 代理，具备智能密
 | forks | 71/100 |
 | stars | 81/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

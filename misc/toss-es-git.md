@@ -1,6 +1,6 @@
 # toss/es-git
 
-[![Stars](https://img.shields.io/github/stars/toss/es-git?style=flat-square&color=yellow)](https://github.com/toss/es-git/stargazers) [![Forks](https://img.shields.io/github/forks/toss/es-git?style=flat-square&color=blue)](https://github.com/toss/es-git/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toss/es-git?style=flat-square&color=yellow)](https://github.com/toss/es-git/stargazers) [![Forks](https://img.shields.io/github/forks/toss/es-git?style=flat-square&color=blue)](https://github.com/toss/es-git/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A modern Git library built for Node.js with blazing-fast installation and rock-solid stability, powered by N-API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ toss/es‑git 是基于 N‑API 的现代 Git 库，专为 Node.js 环境打造�
 | forks | 27/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

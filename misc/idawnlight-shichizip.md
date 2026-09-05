@@ -1,6 +1,6 @@
 # idawnlight/ShichiZip
 
-[![Stars](https://img.shields.io/github/stars/idawnlight/ShichiZip?style=flat-square&color=yellow)](https://github.com/idawnlight/ShichiZip/stargazers) [![Forks](https://img.shields.io/github/forks/idawnlight/ShichiZip?style=flat-square&color=blue)](https://github.com/idawnlight/ShichiZip/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idawnlight/ShichiZip?style=flat-square&color=yellow)](https://github.com/idawnlight/ShichiZip/stargazers) [![Forks](https://img.shields.io/github/forks/idawnlight/ShichiZip?style=flat-square&color=blue)](https://github.com/idawnlight/ShichiZip/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The 7-Zip derivative intended for macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 913 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ ShichiZip 的生产可用性为中等（Medium），适合用于原型或内部�
 | forks | 37/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

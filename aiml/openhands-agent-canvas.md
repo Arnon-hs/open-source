@@ -1,6 +1,6 @@
 # OpenHands/agent-canvas
 
-[![Stars](https://img.shields.io/github/stars/OpenHands/agent-canvas?style=flat-square&color=yellow)](https://github.com/OpenHands/agent-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/OpenHands/agent-canvas?style=flat-square&color=blue)](https://github.com/OpenHands/agent-canvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenHands/agent-canvas?style=flat-square&color=yellow)](https://github.com/OpenHands/agent-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/OpenHands/agent-canvas?style=flat-square&color=blue)](https://github.com/OpenHands/agent-canvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > OpenHands Agent Canvas is a Open Source AI coding platform. Start locally, connect your tools, and automate workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ OpenHands/agent-canvas 的生产可用性为中等（Medium），适合用于原
 | forks | 46/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

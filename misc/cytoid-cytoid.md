@@ -1,6 +1,6 @@
 # Cytoid/Cytoid
 
-[![Stars](https://img.shields.io/github/stars/Cytoid/Cytoid?style=flat-square&color=yellow)](https://github.com/Cytoid/Cytoid/stargazers) [![Forks](https://img.shields.io/github/forks/Cytoid/Cytoid?style=flat-square&color=blue)](https://github.com/Cytoid/Cytoid/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cytoid/Cytoid?style=flat-square&color=yellow)](https://github.com/Cytoid/Cytoid/stargazers) [![Forks](https://img.shields.io/github/forks/Cytoid/Cytoid?style=flat-square&color=blue)](https://github.com/Cytoid/Cytoid/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A community-driven touchscreen music game.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Cytoid/Cytoid 的价值在于其社区驱动的特性和多样化的玩法模式
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

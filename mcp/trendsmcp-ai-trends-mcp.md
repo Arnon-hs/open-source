@@ -1,6 +1,6 @@
 # trendsmcp-ai/Trends-MCP
 
-[![Stars](https://img.shields.io/github/stars/trendsmcp-ai/Trends-MCP?style=flat-square&color=yellow)](https://github.com/trendsmcp-ai/Trends-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/trendsmcp-ai/Trends-MCP?style=flat-square&color=blue)](https://github.com/trendsmcp-ai/Trends-MCP/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trendsmcp-ai/Trends-MCP?style=flat-square&color=yellow)](https://github.com/trendsmcp-ai/Trends-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/trendsmcp-ai/Trends-MCP?style=flat-square&color=blue)](https://github.com/trendsmcp-ai/Trends-MCP/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for live trend data. Query Google Search, YouTube, TikTok, Reddit, Amazon, Wikipedia, News sentiment, Web Traffic, App Downloads, Steam, npm and more. Works with Claude, Cursor, VS Code, GitHub Copilot, ChatGPT, Windsurf, Cline, Raycast and any MCP-compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Trends-MCP 是一个开源的 MCP 服务器，用于实时趋势数据。它支�
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

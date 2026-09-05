@@ -1,6 +1,6 @@
 # podman-container-tools/podman
 
-[![Stars](https://img.shields.io/github/stars/podman-container-tools/podman?style=flat-square&color=yellow)](https://github.com/podman-container-tools/podman/stargazers) [![Forks](https://img.shields.io/github/forks/podman-container-tools/podman?style=flat-square&color=blue)](https://github.com/podman-container-tools/podman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/podman-container-tools/podman?style=flat-square&color=yellow)](https://github.com/podman-container-tools/podman/stargazers) [![Forks](https://img.shields.io/github/forks/podman-container-tools/podman?style=flat-square&color=blue)](https://github.com/podman-container-tools/podman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Podman: A tool for managing OCI containers and pods.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32.1k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Podman（podman-container-tools/podman）是一个开源的 OCI 容器与 Pod �
 | forks | 87/100 |
 | stars | 96/100 |
 | topics | 63/100 |
-| outlook | 65/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

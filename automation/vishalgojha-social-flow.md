@@ -1,6 +1,6 @@
 # vishalgojha/social-flow
 
-[![Stars](https://img.shields.io/github/stars/vishalgojha/social-flow?style=flat-square&color=yellow)](https://github.com/vishalgojha/social-flow/stargazers) [![Forks](https://img.shields.io/github/forks/vishalgojha/social-flow?style=flat-square&color=blue)](https://github.com/vishalgojha/social-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vishalgojha/social-flow?style=flat-square&color=yellow)](https://github.com/vishalgojha/social-flow/stargazers) [![Forks](https://img.shields.io/github/forks/vishalgojha/social-flow?style=flat-square&color=blue)](https://github.com/vishalgojha/social-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Run Meta operations without chaos.  Social Flow is a guided control plane for agencies, growth teams, and account operators managing Facebook, Instagram, WhatsApp, and Ads Manager workflows. It gives you one place for setup, daily execution, approvals, reporting, and handoffs via commands, gateway APIs, and an SDK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools · Marketing
+Automation · Backend · DevTools · Libraries & SDKs · Marketing
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ Social Flow 帮助代理、增长团队和账号运营者把 Facebook、Inst
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cocoonstack/sandbox
 
-[![Stars](https://img.shields.io/github/stars/cocoonstack/sandbox?style=flat-square&color=yellow)](https://github.com/cocoonstack/sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/cocoonstack/sandbox?style=flat-square&color=blue)](https://github.com/cocoonstack/sandbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cocoonstack/sandbox?style=flat-square&color=yellow)](https://github.com/cocoonstack/sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/cocoonstack/sandbox?style=flat-square&color=blue)](https://github.com/cocoonstack/sandbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Fast cold-boot MicroVM sandboxes for AI agents on cocoon
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ cocoonstack/sandbox 在生产环境中可用性为中等（Medium），适合用
 | forks | 8/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

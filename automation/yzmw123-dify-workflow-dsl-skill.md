@@ -1,6 +1,6 @@
 # yzmw123/dify-workflow-dsl-skill
 
-[![Stars](https://img.shields.io/github/stars/yzmw123/dify-workflow-dsl-skill?style=flat-square&color=yellow)](https://github.com/yzmw123/dify-workflow-dsl-skill/stargazers) [![Forks](https://img.shields.io/github/forks/yzmw123/dify-workflow-dsl-skill?style=flat-square&color=blue)](https://github.com/yzmw123/dify-workflow-dsl-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzmw123/dify-workflow-dsl-skill?style=flat-square&color=yellow)](https://github.com/yzmw123/dify-workflow-dsl-skill/stargazers) [![Forks](https://img.shields.io/github/forks/yzmw123/dify-workflow-dsl-skill?style=flat-square&color=blue)](https://github.com/yzmw123/dify-workflow-dsl-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 帮助 AI Agent 生成可直接导入 Dify 的工作流 DSL YAML | Help AI agents generate import-ready Dify Workflow DSL YAML
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ The project has a medium production readiness score, indicating that it is suita
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

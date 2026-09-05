@@ -1,6 +1,6 @@
 # EvanZhang008/open-walnut
 
-[![Stars](https://img.shields.io/github/stars/EvanZhang008/open-walnut?style=flat-square&color=yellow)](https://github.com/EvanZhang008/open-walnut/stargazers) [![Forks](https://img.shields.io/github/forks/EvanZhang008/open-walnut?style=flat-square&color=blue)](https://github.com/EvanZhang008/open-walnut/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvanZhang008/open-walnut?style=flat-square&color=yellow)](https://github.com/EvanZhang008/open-walnut/stargazers) [![Forks](https://img.shields.io/github/forks/EvanZhang008/open-walnut?style=flat-square&color=blue)](https://github.com/EvanZhang008/open-walnut/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Personal AI butler powered by Claude — task management, Claude Code sessions, memory system, and web UI. Self-hosted, local-first, open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · Productivity · Frontend · Backend
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ EvanZhang008/open-walnut 的生产可用性为中等，适合用于原型或内�
 | forks | 23/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

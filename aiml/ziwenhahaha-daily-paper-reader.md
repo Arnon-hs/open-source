@@ -1,6 +1,6 @@
 # ziwenhahaha/daily-paper-reader
 
-[![Stars](https://img.shields.io/github/stars/ziwenhahaha/daily-paper-reader?style=flat-square&color=yellow)](https://github.com/ziwenhahaha/daily-paper-reader/stargazers) [![Forks](https://img.shields.io/github/forks/ziwenhahaha/daily-paper-reader?style=flat-square&color=blue)](https://github.com/ziwenhahaha/daily-paper-reader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ziwenhahaha/daily-paper-reader?style=flat-square&color=yellow)](https://github.com/ziwenhahaha/daily-paper-reader/stargazers) [![Forks](https://img.shields.io/github/forks/ziwenhahaha/daily-paper-reader?style=flat-square&color=blue)](https://github.com/ziwenhahaha/daily-paper-reader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 开源的每日 arXiv / OpenReview 论文推荐与 AI 阅读平台，支持 GitHub Actions 自动更新、GitHub Pages 部署与论文问答。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 827 |
 | 🍴 **Forks** | 776 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ ziwenhahaha/daily-paper-reader 的生产可用性很高，因为它具有以下�
 | forks | 72/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

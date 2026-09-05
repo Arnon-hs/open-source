@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG
+Knowledge/RAG · Productivity
 
 ## 📝 Summary
 
@@ -99,7 +99,7 @@ Show HN: A local RAG desktop app: piFlow 的生产可用性为中等。它适用
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

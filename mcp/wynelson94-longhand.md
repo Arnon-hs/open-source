@@ -1,6 +1,6 @@
 # Wynelson94/longhand
 
-[![Stars](https://img.shields.io/github/stars/Wynelson94/longhand?style=flat-square&color=yellow)](https://github.com/Wynelson94/longhand/stargazers) [![Forks](https://img.shields.io/github/forks/Wynelson94/longhand?style=flat-square&color=blue)](https://github.com/Wynelson94/longhand/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wynelson94/longhand?style=flat-square&color=yellow)](https://github.com/Wynelson94/longhand/stargazers) [![Forks](https://img.shields.io/github/forks/Wynelson94/longhand?style=flat-square&color=blue)](https://github.com/Wynelson94/longhand/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless local memory for Claude Code. The full, unabbreviated version. Every tool call, every file edit, every thinking block — stored verbatim on your machine. Persistent memory without tokens.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Wynelson94/longhand：Wynelson94/longhand helps connect AI assistants to real to
 | forks | 17/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 56/100 |
-| recency | 80/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 22/100 |
-| production | 62/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

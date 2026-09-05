@@ -1,6 +1,6 @@
 # chillzhuang/SpringBlade
 
-[![Stars](https://img.shields.io/github/stars/chillzhuang/SpringBlade?style=flat-square&color=yellow)](https://github.com/chillzhuang/SpringBlade/stargazers) [![Forks](https://img.shields.io/github/forks/chillzhuang/SpringBlade?style=flat-square&color=blue)](https://github.com/chillzhuang/SpringBlade/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chillzhuang/SpringBlade?style=flat-square&color=yellow)](https://github.com/chillzhuang/SpringBlade/stargazers) [![Forks](https://img.shields.io/github/forks/chillzhuang/SpringBlade?style=flat-square&color=blue)](https://github.com/chillzhuang/SpringBlade/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 4 、Spring Cloud 2025、Java 21  等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ SpringBlade 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 79/100 |
 | stars | 82/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

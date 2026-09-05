@@ -1,6 +1,6 @@
 # ccfos/huatuo
 
-[![Stars](https://img.shields.io/github/stars/ccfos/huatuo?style=flat-square&color=yellow)](https://github.com/ccfos/huatuo/stargazers) [![Forks](https://img.shields.io/github/forks/ccfos/huatuo?style=flat-square&color=blue)](https://github.com/ccfos/huatuo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccfos/huatuo?style=flat-square&color=yellow)](https://github.com/ccfos/huatuo/stargazers) [![Forks](https://img.shields.io/github/forks/ccfos/huatuo?style=flat-square&color=blue)](https://github.com/ccfos/huatuo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF-based Linux kernel observability project 🚀🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ ccfos/huatuo 是一个基于 eBPF 的 Linux 内核可观测性平台，旨在为
 | forks | 50/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

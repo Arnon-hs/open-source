@@ -1,6 +1,6 @@
 # dlvhdr/gh-dash
 
-[![Stars](https://img.shields.io/github/stars/dlvhdr/gh-dash?style=flat-square&color=yellow)](https://github.com/dlvhdr/gh-dash/stargazers) [![Forks](https://img.shields.io/github/forks/dlvhdr/gh-dash?style=flat-square&color=blue)](https://github.com/dlvhdr/gh-dash/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dlvhdr/gh-dash?style=flat-square&color=yellow)](https://github.com/dlvhdr/gh-dash/stargazers) [![Forks](https://img.shields.io/github/forks/dlvhdr/gh-dash?style=flat-square&color=blue)](https://github.com/dlvhdr/gh-dash/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A rich terminal UI for GitHub that doesn't break your flow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12k |
 | 🍴 **Forks** | 406 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ dlvhdr/gh‑dash 是一款基于终端的 GitHub UI，提供丰富的交互视�
 | forks | 65/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

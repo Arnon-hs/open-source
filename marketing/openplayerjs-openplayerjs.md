@@ -1,6 +1,6 @@
 # openplayerjs/openplayerjs
 
-[![Stars](https://img.shields.io/github/stars/openplayerjs/openplayerjs?style=flat-square&color=yellow)](https://github.com/openplayerjs/openplayerjs/stargazers) [![Forks](https://img.shields.io/github/forks/openplayerjs/openplayerjs?style=flat-square&color=blue)](https://github.com/openplayerjs/openplayerjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openplayerjs/openplayerjs?style=flat-square&color=yellow)](https://github.com/openplayerjs/openplayerjs/stargazers) [![Forks](https://img.shields.io/github/forks/openplayerjs/openplayerjs?style=flat-square&color=blue)](https://github.com/openplayerjs/openplayerjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP/SIMID/OMID/non-linear ads
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 644 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ openplayerjs 是一款轻量级的 HTML5 视频/音频播放器，提供流畅�
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

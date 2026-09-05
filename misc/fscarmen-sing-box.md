@@ -1,6 +1,6 @@
 # fscarmen/sing-box
 
-[![Stars](https://img.shields.io/github/stars/fscarmen/sing-box?style=flat-square&color=yellow)](https://github.com/fscarmen/sing-box/stargazers) [![Forks](https://img.shields.io/github/forks/fscarmen/sing-box?style=flat-square&color=blue)](https://github.com/fscarmen/sing-box/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fscarmen/sing-box?style=flat-square&color=yellow)](https://github.com/fscarmen/sing-box/stargazers) [![Forks](https://img.shields.io/github/forks/fscarmen/sing-box?style=flat-square&color=blue)](https://github.com/fscarmen/sing-box/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA ），无须域名、功能强大、配置灵活。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Sing‑box 全家桶（fscarmen/sing-box）是一键多协议脚本，集成了 
 | forks | 75/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

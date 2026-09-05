@@ -1,6 +1,6 @@
 # apify/crawlee
 
-[![Stars](https://img.shields.io/github/stars/apify/crawlee?style=flat-square&color=yellow)](https://github.com/apify/crawlee/stargazers) [![Forks](https://img.shields.io/github/forks/apify/crawlee?style=flat-square&color=blue)](https://github.com/apify/crawlee/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apify/crawlee?style=flat-square&color=yellow)](https://github.com/apify/crawlee/stargazers) [![Forks](https://img.shields.io/github/forks/apify/crawlee?style=flat-square&color=blue)](https://github.com/apify/crawlee/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · Automation · AI/ML · Documents · Networking
 
 ## 📝 Summary
 
@@ -123,15 +123,15 @@ Crawlee（apify/crawlee）是一款基于 Node.js 的网页抓取与浏览器自
 | forks | 78/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 88/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 58/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

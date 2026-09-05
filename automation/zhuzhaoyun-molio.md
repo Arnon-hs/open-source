@@ -1,6 +1,6 @@
 # zhuzhaoyun/Molio
 
-[![Stars](https://img.shields.io/github/stars/zhuzhaoyun/Molio?style=flat-square&color=yellow)](https://github.com/zhuzhaoyun/Molio/stargazers) [![Forks](https://img.shields.io/github/forks/zhuzhaoyun/Molio?style=flat-square&color=blue)](https://github.com/zhuzhaoyun/Molio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhuzhaoyun/Molio?style=flat-square&color=yellow)](https://github.com/zhuzhaoyun/Molio/stargazers) [![Forks](https://img.shields.io/github/forks/zhuzhaoyun/Molio?style=flat-square&color=blue)](https://github.com/zhuzhaoyun/Molio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ Molio 的生产可用性很高，具有以下特点：
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 68/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

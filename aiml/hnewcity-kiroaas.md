@@ -1,6 +1,6 @@
 # hnewcity/KiroaaS
 
-[![Stars](https://img.shields.io/github/stars/hnewcity/KiroaaS?style=flat-square&color=yellow)](https://github.com/hnewcity/KiroaaS/stargazers) [![Forks](https://img.shields.io/github/forks/hnewcity/KiroaaS?style=flat-square&color=blue)](https://github.com/hnewcity/KiroaaS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hnewcity/KiroaaS?style=flat-square&color=yellow)](https://github.com/hnewcity/KiroaaS/stargazers) [![Forks](https://img.shields.io/github/forks/hnewcity/KiroaaS?style=flat-square&color=blue)](https://github.com/hnewcity/KiroaaS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > KiroaaS (Kiro as a Service) Your Gateway to Kiro. Expose Kiro's models to any application via standard APIs. Power your tools with Kiro's intelligence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ KiroaaS（Kiro as a Service）是一个把 Kiro 模型包装成标准 API 的后
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # github/vscode-codeql
 
-[![Stars](https://img.shields.io/github/stars/github/vscode-codeql?style=flat-square&color=yellow)](https://github.com/github/vscode-codeql/stargazers) [![Forks](https://img.shields.io/github/forks/github/vscode-codeql?style=flat-square&color=blue)](https://github.com/github/vscode-codeql/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/vscode-codeql?style=flat-square&color=yellow)](https://github.com/github/vscode-codeql/stargazers) [![Forks](https://img.shields.io/github/forks/github/vscode-codeql?style=flat-square&color=blue)](https://github.com/github/vscode-codeql/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An extension for Visual Studio Code that adds rich language support for CodeQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ VS Code CodeQL 扩展为 CodeQL 查询提供完整的语言服务：语法高�
 | forks | 59/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 45/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

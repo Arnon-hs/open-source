@@ -1,6 +1,6 @@
 # IBM/ACE-RISCV
 
-[![Stars](https://img.shields.io/github/stars/IBM/ACE-RISCV?style=flat-square&color=yellow)](https://github.com/IBM/ACE-RISCV/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/ACE-RISCV?style=flat-square&color=blue)](https://github.com/IBM/ACE-RISCV/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IBM/ACE-RISCV?style=flat-square&color=yellow)](https://github.com/IBM/ACE-RISCV/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/ACE-RISCV?style=flat-square&color=blue)](https://github.com/IBM/ACE-RISCV/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Assured confidential execution (ACE) implements VM-based trusted execution environment (TEE) for embedded RISC-V systems with focus on a formally verified and auditable firmware.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ IBM/ACE-RISCV 的生产可用性为中等，适合用于原型设计或内部流
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

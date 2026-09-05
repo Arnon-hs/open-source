@@ -1,6 +1,6 @@
 # shobcoder/shob
 
-[![Stars](https://img.shields.io/github/stars/shobcoder/shob?style=flat-square&color=yellow)](https://github.com/shobcoder/shob/stargazers) [![Forks](https://img.shields.io/github/forks/shobcoder/shob?style=flat-square&color=blue)](https://github.com/shobcoder/shob/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shobcoder/shob?style=flat-square&color=yellow)](https://github.com/shobcoder/shob/stargazers) [![Forks](https://img.shields.io/github/forks/shobcoder/shob?style=flat-square&color=blue)](https://github.com/shobcoder/shob/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Shob – an AI agent that delivers high-quality coding & automation work
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 571 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Shob 是一个基于 AI 的编程与自动化助理，能够通过统一的 Mode
 | forks | 39/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

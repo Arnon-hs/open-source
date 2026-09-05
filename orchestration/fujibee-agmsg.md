@@ -1,6 +1,6 @@
 # fujibee/agmsg
 
-[![Stars](https://img.shields.io/github/stars/fujibee/agmsg?style=flat-square&color=yellow)](https://github.com/fujibee/agmsg/stargazers) [![Forks](https://img.shields.io/github/forks/fujibee/agmsg?style=flat-square&color=blue)](https://github.com/fujibee/agmsg/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fujibee/agmsg?style=flat-square&color=yellow)](https://github.com/fujibee/agmsg/stargazers) [![Forks](https://img.shields.io/github/forks/fujibee/agmsg?style=flat-square&color=blue)](https://github.com/fujibee/agmsg/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 833 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Database
+Orchestration · AI/ML · Communication · DevTools · Database
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ agmsg 已具备在生产环境中作为多 AI 代理编排层的条件，适合�
 | forks | 45/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # imarvinle/Claude-Pro
 
-[![Stars](https://img.shields.io/github/stars/imarvinle/Claude-Pro?style=flat-square&color=yellow)](https://github.com/imarvinle/Claude-Pro/stargazers) [![Forks](https://img.shields.io/github/forks/imarvinle/Claude-Pro?style=flat-square&color=blue)](https://github.com/imarvinle/Claude-Pro/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imarvinle/Claude-Pro?style=flat-square&color=yellow)](https://github.com/imarvinle/Claude-Pro/stargazers) [![Forks](https://img.shields.io/github/forks/imarvinle/Claude-Pro?style=flat-square&color=blue)](https://github.com/imarvinle/Claude-Pro/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 2026最新Claude Pro 订阅充值教程：Claude账号怎么注册？如何订购Claude Pro会员？怎样购买独立的Claude Pro账号？现有Claude账户如何充值 Pro？（附Claude Code国内使用指南）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -144,11 +144,11 @@ AI/ML · Backend
 | forks | 26/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

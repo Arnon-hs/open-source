@@ -1,6 +1,6 @@
 # apistol78/traktor
 
-[![Stars](https://img.shields.io/github/stars/apistol78/traktor?style=flat-square&color=yellow)](https://github.com/apistol78/traktor/stargazers) [![Forks](https://img.shields.io/github/forks/apistol78/traktor?style=flat-square&color=blue)](https://github.com/apistol78/traktor/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apistol78/traktor?style=flat-square&color=yellow)](https://github.com/apistol78/traktor/stargazers) [![Forks](https://img.shields.io/github/forks/apistol78/traktor?style=flat-square&color=blue)](https://github.com/apistol78/traktor/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Traktor Game Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 528 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ apistol78/traktor 是一款基于 C++ 实现的 Traktor Game Engine，提供统�
 | forks | 33/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # JimLiu/baocut
 
-[![Stars](https://img.shields.io/github/stars/JimLiu/baocut?style=flat-square&color=yellow)](https://github.com/JimLiu/baocut/stargazers) [![Forks](https://img.shields.io/github/forks/JimLiu/baocut?style=flat-square&color=blue)](https://github.com/JimLiu/baocut/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JimLiu/baocut?style=flat-square&color=yellow)](https://github.com/JimLiu/baocut/stargazers) [![Forks](https://img.shields.io/github/forks/JimLiu/baocut?style=flat-square&color=blue)](https://github.com/JimLiu/baocut/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ JimLiu/baocut是一个开源的Agent技能，能够驱动BaoCut macOS应用程�
 | forks | 33/100 |
 | stars | 52/100 |
 | topics | 88/100 |
-| outlook | 62/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

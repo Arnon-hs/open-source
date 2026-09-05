@@ -1,6 +1,6 @@
 # kassambara/rstatix
 
-[![Stars](https://img.shields.io/github/stars/kassambara/rstatix?style=flat-square&color=yellow)](https://github.com/kassambara/rstatix/stargazers) [![Forks](https://img.shields.io/github/forks/kassambara/rstatix?style=flat-square&color=blue)](https://github.com/kassambara/rstatix/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kassambara/rstatix?style=flat-square&color=yellow)](https://github.com/kassambara/rstatix/stargazers) [![Forks](https://img.shields.io/github/forks/kassambara/rstatix?style=flat-square&color=blue)](https://github.com/kassambara/rstatix/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Pipe-friendly Framework for Basic Statistical Tests in R
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 489 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | R |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ kassambara/rstatix 是一个面向管道（pipe）操作的 R 语言统计工具
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

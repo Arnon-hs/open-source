@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -73,7 +73,7 @@ This project lets you add AI capabilities without starting from scratch, enforci
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

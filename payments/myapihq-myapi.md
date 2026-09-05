@@ -1,6 +1,6 @@
 # myapihq/myapi
 
-[![Stars](https://img.shields.io/github/stars/myapihq/myapi?style=flat-square&color=yellow)](https://github.com/myapihq/myapi/stargazers) [![Forks](https://img.shields.io/github/forks/myapihq/myapi?style=flat-square&color=blue)](https://github.com/myapihq/myapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/myapihq/myapi?style=flat-square&color=yellow)](https://github.com/myapihq/myapi/stargazers) [![Forks](https://img.shields.io/github/forks/myapihq/myapi?style=flat-square&color=blue)](https://github.com/myapihq/myapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The unified API for autonomous companies. Ship a real business — website, backend, payments — from one terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ myapihq/myapi 是面向自主企业的统一 API 平台，一站式在同一终�
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

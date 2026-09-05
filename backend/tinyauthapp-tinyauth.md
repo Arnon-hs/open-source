@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 234 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ tinyauth — это ультра‑лёгкий сервер аутентиф�
 
 ### 中文
 
-tinyauthapp/tinyauth：tinyauthapp/tinyauth helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tinyauthapp/tinyauth：tinyauthapp/tinyauth may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** tinyauthapp/tinyauth helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** tinyauthapp/tinyauth may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ tinyauthapp/tinyauth：tinyauthapp/tinyauth helps teams reuse service infrastruc
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 76/100 |
-| stars | 82/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

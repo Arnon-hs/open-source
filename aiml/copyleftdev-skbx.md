@@ -1,6 +1,6 @@
 # copyleftdev/skbx
 
-[![Stars](https://img.shields.io/github/stars/copyleftdev/skbx?style=flat-square&color=yellow)](https://github.com/copyleftdev/skbx/stargazers) [![Forks](https://img.shields.io/github/forks/copyleftdev/skbx?style=flat-square&color=blue)](https://github.com/copyleftdev/skbx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/copyleftdev/skbx?style=flat-square&color=yellow)](https://github.com/copyleftdev/skbx/stargazers) [![Forks](https://img.shields.io/github/forks/copyleftdev/skbx?style=flat-square&color=blue)](https://github.com/copyleftdev/skbx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag ai): I Had a Lot of Fun Building a Linux Packet Flight Recorder
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ I Had a Lot of Fun Building a Linux Packet Flight Recorder 是一个开源项目
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 43/100 |
-| quality | 35/100 |
-| recency | 60/100 |
+| outlook | 50/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 45/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

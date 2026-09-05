@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -37,17 +37,15 @@ FlagGems - это библиотека операторов для больши�
 
 ### 中文
 
-flagos-ai/FlagGems：flagos-ai/FlagGems helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+flagos-ai/FlagGems：flagos-ai/FlagGems may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** flagos-ai/FlagGems helps add AI capability without starting from a blank model stack.
+**Value:** flagos-ai/FlagGems may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -67,17 +65,18 @@ flagos-ai/FlagGems：flagos-ai/FlagGems helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 45/100 |
-| adoption | 64/100 |
-| stars | 64/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

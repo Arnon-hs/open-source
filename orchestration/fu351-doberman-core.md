@@ -1,6 +1,6 @@
 # fu351/Doberman-Core
 
-[![Stars](https://img.shields.io/github/stars/fu351/Doberman-Core?style=flat-square&color=yellow)](https://github.com/fu351/Doberman-Core/stargazers) [![Forks](https://img.shields.io/github/forks/fu351/Doberman-Core?style=flat-square&color=blue)](https://github.com/fu351/Doberman-Core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fu351/Doberman-Core?style=flat-square&color=yellow)](https://github.com/fu351/Doberman-Core/stargazers) [![Forks](https://img.shields.io/github/forks/fu351/Doberman-Core?style=flat-square&color=blue)](https://github.com/fu351/Doberman-Core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Doberman‑Core（fu351/Doberman-Core）是一个基于 Python 的 AI Agent �
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

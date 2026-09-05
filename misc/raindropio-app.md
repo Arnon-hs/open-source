@@ -1,6 +1,6 @@
 # raindropio/app
 
-[![Stars](https://img.shields.io/github/stars/raindropio/app?style=flat-square&color=yellow)](https://github.com/raindropio/app/stargazers) [![Forks](https://img.shields.io/github/forks/raindropio/app?style=flat-square&color=blue)](https://github.com/raindropio/app/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raindropio/app?style=flat-square&color=yellow)](https://github.com/raindropio/app/stargazers) [![Forks](https://img.shields.io/github/forks/raindropio/app?style=flat-square&color=blue)](https://github.com/raindropio/app/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Source code of web app and browser extensions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ raindropio/app：raindropio/app may be useful when its README and activity match
 | forks | 56/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 66/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

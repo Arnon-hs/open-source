@@ -1,6 +1,6 @@
 # hexxt-git/ccpool
 
-[![Stars](https://img.shields.io/github/stars/hexxt-git/ccpool?style=flat-square&color=yellow)](https://github.com/hexxt-git/ccpool/stargazers) [![Forks](https://img.shields.io/github/forks/hexxt-git/ccpool?style=flat-square&color=blue)](https://github.com/hexxt-git/ccpool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexxt-git/ccpool?style=flat-square&color=yellow)](https://github.com/hexxt-git/ccpool/stargazers) [![Forks](https://img.shields.io/github/forks/hexxt-git/ccpool?style=flat-square&color=blue)](https://github.com/hexxt-git/ccpool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > a cli to equally share a claude code subscription for low budget teams
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · AI/ML
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ hexxt-git/ccpool 是一款基于 CLI 的工具，专为预算有限的团队设�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 38/100 |
-| outlook | 45/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

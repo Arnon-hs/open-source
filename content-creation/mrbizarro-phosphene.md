@@ -1,6 +1,6 @@
 # mrbizarro/Phosphene
 
-[![Stars](https://img.shields.io/github/stars/mrbizarro/Phosphene?style=flat-square&color=yellow)](https://github.com/mrbizarro/Phosphene/stargazers) [![Forks](https://img.shields.io/github/forks/mrbizarro/Phosphene?style=flat-square&color=blue)](https://github.com/mrbizarro/Phosphene/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrbizarro/Phosphene?style=flat-square&color=yellow)](https://github.com/mrbizarro/Phosphene/stargazers) [![Forks](https://img.shields.io/github/forks/mrbizarro/Phosphene?style=flat-square&color=blue)](https://github.com/mrbizarro/Phosphene/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Run MiniMax Hailuo H3 and LTX-2.5 video generation locally on a Mac. Joint audio+video, character LoRA training, one-click Pinokio install. MLX — no CUDA, no cloud, no API key.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Phosphene 是一个基于 MLX 框架的开源工具，专为 Mac 用户设计，
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

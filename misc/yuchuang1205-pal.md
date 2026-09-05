@@ -1,6 +1,6 @@
 # YuChuang1205/PAL
 
-[![Stars](https://img.shields.io/github/stars/YuChuang1205/PAL?style=flat-square&color=yellow)](https://github.com/YuChuang1205/PAL/stargazers) [![Forks](https://img.shields.io/github/forks/YuChuang1205/PAL?style=flat-square&color=blue)](https://github.com/YuChuang1205/PAL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YuChuang1205/PAL?style=flat-square&color=yellow)](https://github.com/YuChuang1205/PAL/stargazers) [![Forks](https://img.shields.io/github/forks/YuChuang1205/PAL?style=flat-square&color=blue)](https://github.com/YuChuang1205/PAL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > [Accepted by ICCV2025] Official code of the paper "From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision"
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ YuChuang1205/PAL 的生产可用性为中等（Medium），适合用于原型开
 | forks | 29/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 57/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

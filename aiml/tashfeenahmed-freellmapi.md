@@ -1,6 +1,6 @@
 # tashfeenahmed/freellmapi
 
-[![Stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=flat-square&color=yellow)](https://github.com/tashfeenahmed/freellmapi/stargazers) [![Forks](https://img.shields.io/github/forks/tashfeenahmed/freellmapi?style=flat-square&color=blue)](https://github.com/tashfeenahmed/freellmapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=flat-square&color=yellow)](https://github.com/tashfeenahmed/freellmapi/stargazers) [![Forks](https://img.shields.io/github/forks/tashfeenahmed/freellmapi?style=flat-square&color=blue)](https://github.com/tashfeenahmed/freellmapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.2k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ tashfeenahmed/freellmapi 的主要价值在于它可以帮助开发者快速添�
 | forks | 85/100 |
 | stars | 90/100 |
 | topics | 0/100 |
-| outlook | 79/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

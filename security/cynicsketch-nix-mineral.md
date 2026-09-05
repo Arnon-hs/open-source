@@ -1,6 +1,6 @@
 # cynicsketch/nix-mineral
 
-[![Stars](https://img.shields.io/github/stars/cynicsketch/nix-mineral?style=flat-square&color=yellow)](https://github.com/cynicsketch/nix-mineral/stargazers) [![Forks](https://img.shields.io/github/forks/cynicsketch/nix-mineral?style=flat-square&color=blue)](https://github.com/cynicsketch/nix-mineral/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cynicsketch/nix-mineral?style=flat-square&color=yellow)](https://github.com/cynicsketch/nix-mineral/stargazers) [![Forks](https://img.shields.io/github/forks/cynicsketch/nix-mineral?style=flat-square&color=blue)](https://github.com/cynicsketch/nix-mineral/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Conveniently and reasonably harden NixOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 537 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ cynicsketch/nix‑mineral 通过在 NixOS 配置中加入安全与隐私检查�
 | forks | 37/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

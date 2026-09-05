@@ -1,6 +1,6 @@
 # ai-robots-txt/ai.robots.txt
 
-[![Stars](https://img.shields.io/github/stars/ai-robots-txt/ai.robots.txt?style=flat-square&color=yellow)](https://github.com/ai-robots-txt/ai.robots.txt/stargazers) [![Forks](https://img.shields.io/github/forks/ai-robots-txt/ai.robots.txt?style=flat-square&color=blue)](https://github.com/ai-robots-txt/ai.robots.txt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-robots-txt/ai.robots.txt?style=flat-square&color=yellow)](https://github.com/ai-robots-txt/ai.robots.txt/stargazers) [![Forks](https://img.shields.io/github/forks/ai-robots-txt/ai.robots.txt?style=flat-square&color=blue)](https://github.com/ai-robots-txt/ai.robots.txt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A list of AI agents and robots to block.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ai-robots-txt/ai.robots.txt 是一个开源的 “AI 机器人黑名单”，提
 | forks | 55/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

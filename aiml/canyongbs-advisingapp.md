@@ -1,6 +1,6 @@
 # canyongbs/advisingapp
 
-[![Stars](https://img.shields.io/github/stars/canyongbs/advisingapp?style=flat-square&color=yellow)](https://github.com/canyongbs/advisingapp/stargazers) [![Forks](https://img.shields.io/github/forks/canyongbs/advisingapp?style=flat-square&color=blue)](https://github.com/canyongbs/advisingapp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canyongbs/advisingapp?style=flat-square&color=yellow)](https://github.com/canyongbs/advisingapp/stargazers) [![Forks](https://img.shields.io/github/forks/canyongbs/advisingapp?style=flat-square&color=blue)](https://github.com/canyongbs/advisingapp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Advising App by Canyon GBS is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and drive institutional success.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Canyongbs/advisingapp 是一款基于 AI 的对话助手，专门为大学和学
 | forks | 47/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

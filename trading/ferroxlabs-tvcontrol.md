@@ -1,6 +1,6 @@
 # FerroxLabs/tvcontrol
 
-[![Stars](https://img.shields.io/github/stars/FerroxLabs/tvcontrol?style=flat-square&color=yellow)](https://github.com/FerroxLabs/tvcontrol/stargazers) [![Forks](https://img.shields.io/github/forks/FerroxLabs/tvcontrol?style=flat-square&color=blue)](https://github.com/FerroxLabs/tvcontrol/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FerroxLabs/tvcontrol?style=flat-square&color=yellow)](https://github.com/FerroxLabs/tvcontrol/stargazers) [![Forks](https://img.shields.io/github/forks/FerroxLabs/tvcontrol?style=flat-square&color=blue)](https://github.com/FerroxLabs/tvcontrol/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > TVControl by Ferrox Labs — TradingView MCP System. AI remote control for TradingView Desktop. 88 MCP tools driving symbols, indicators, Pine, snapshots, sweeps, replay, and live chart vision. All local, zero cloud calls.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ FerroxLabs/tvcontrol 的生产可用性被评为中等（Medium）。它适合�
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

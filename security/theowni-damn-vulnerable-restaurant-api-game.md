@@ -1,6 +1,6 @@
 # theowni/Damn-Vulnerable-RESTaurant-API-Game
 
-[![Stars](https://img.shields.io/github/stars/theowni/Damn-Vulnerable-RESTaurant-API-Game?style=flat-square&color=yellow)](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game/stargazers) [![Forks](https://img.shields.io/github/forks/theowni/Damn-Vulnerable-RESTaurant-API-Game?style=flat-square&color=blue)](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theowni/Damn-Vulnerable-RESTaurant-API-Game?style=flat-square&color=yellow)](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game/stargazers) [![Forks](https://img.shields.io/github/forks/theowni/Damn-Vulnerable-RESTaurant-API-Game?style=flat-square&color=blue)](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 921 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Damn Vulnerable Restaurant是一款开源的Web API 游戏，旨在为开发者�
 | forks | 57/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

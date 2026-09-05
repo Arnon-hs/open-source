@@ -1,6 +1,6 @@
 # InCom-0/incplot
 
-[![Stars](https://img.shields.io/github/stars/InCom-0/incplot?style=flat-square&color=yellow)](https://github.com/InCom-0/incplot/stargazers) [![Forks](https://img.shields.io/github/forks/InCom-0/incplot?style=flat-square&color=blue)](https://github.com/InCom-0/incplot/network) [![Language](https://img.shields.io/badge/lang-CMake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InCom-0/incplot?style=flat-square&color=yellow)](https://github.com/InCom-0/incplot/stargazers) [![Forks](https://img.shields.io/github/forks/InCom-0/incplot?style=flat-square&color=blue)](https://github.com/InCom-0/incplot/network) [![Language](https://img.shields.io/badge/lang-CMake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | CMake |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ InCom-0/incplot 是一款面向终端和 HTML 的 CLI 绘图工具，主打人�
 | forks | 15/100 |
 | stars | 42/100 |
 | topics | 88/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

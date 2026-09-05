@@ -1,6 +1,6 @@
 # spring-ai-alibaba/DataAgent
 
-[![Stars](https://img.shields.io/github/stars/spring-ai-alibaba/DataAgent?style=flat-square&color=yellow)](https://github.com/spring-ai-alibaba/DataAgent/stargazers) [![Forks](https://img.shields.io/github/forks/spring-ai-alibaba/DataAgent?style=flat-square&color=blue)](https://github.com/spring-ai-alibaba/DataAgent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-ai-alibaba/DataAgent?style=flat-square&color=yellow)](https://github.com/spring-ai-alibaba/DataAgent/stargazers) [![Forks](https://img.shields.io/github/forks/spring-ai-alibaba/DataAgent?style=flat-square&color=blue)](https://github.com/spring-ai-alibaba/DataAgent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Spring AI Alibaba DataAgent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 529 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Spring AI Alibaba DataAgent 是基于 Spring AI 的 Java 库，提供一
 | forks | 68/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

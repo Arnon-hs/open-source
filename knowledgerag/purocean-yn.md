@@ -1,6 +1,6 @@
 # purocean/yn
 
-[![Stars](https://img.shields.io/github/stars/purocean/yn?style=flat-square&color=yellow)](https://github.com/purocean/yn/stargazers) [![Forks](https://img.shields.io/github/forks/purocean/yn?style=flat-square&color=blue)](https://github.com/purocean/yn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/purocean/yn?style=flat-square&color=yellow)](https://github.com/purocean/yn/stargazers) [![Forks](https://img.shields.io/github/forks/purocean/yn?style=flat-square&color=blue)](https://github.com/purocean/yn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 927 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Security
+Knowledge/RAG · AI/ML · Documents · Frontend · Security
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ purocean/yn 是一个高度可扩展的 Markdown 编辑器，具有版本控制�
 | forks | 74/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

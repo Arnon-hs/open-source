@@ -1,6 +1,6 @@
 # bczsalba/pytermgui
 
-[![Stars](https://img.shields.io/github/stars/bczsalba/pytermgui?style=flat-square&color=yellow)](https://github.com/bczsalba/pytermgui/stargazers) [![Forks](https://img.shields.io/github/forks/bczsalba/pytermgui?style=flat-square&color=blue)](https://github.com/bczsalba/pytermgui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bczsalba/pytermgui?style=flat-square&color=yellow)](https://github.com/bczsalba/pytermgui/stargazers) [![Forks](https://img.shields.io/github/forks/bczsalba/pytermgui?style=flat-square&color=blue)](https://github.com/bczsalba/pytermgui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ bczsalba/pytermgui 是一个开源的 Python TUI 框架，支持鼠标事件、�
 | forks | 45/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 69/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # irihitech/Semi.Avalonia
 
-[![Stars](https://img.shields.io/github/stars/irihitech/Semi.Avalonia?style=flat-square&color=yellow)](https://github.com/irihitech/Semi.Avalonia/stargazers) [![Forks](https://img.shields.io/github/forks/irihitech/Semi.Avalonia?style=flat-square&color=blue)](https://github.com/irihitech/Semi.Avalonia/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/irihitech/Semi.Avalonia?style=flat-square&color=yellow)](https://github.com/irihitech/Semi.Avalonia/stargazers) [![Forks](https://img.shields.io/github/forks/irihitech/Semi.Avalonia?style=flat-square&color=blue)](https://github.com/irihitech/Semi.Avalonia/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Avalonia theme inspired by Semi Design
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ irihitech/Semi.Avalonia 的生产可用性为中等。虽然该项目有 1917 �
 | forks | 56/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

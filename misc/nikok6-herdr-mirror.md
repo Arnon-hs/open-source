@@ -1,6 +1,6 @@
 # nikok6/herdr-mirror
 
-[![Stars](https://img.shields.io/github/stars/nikok6/herdr-mirror?style=flat-square&color=yellow)](https://github.com/nikok6/herdr-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/nikok6/herdr-mirror?style=flat-square&color=blue)](https://github.com/nikok6/herdr-mirror/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikok6/herdr-mirror?style=flat-square&color=yellow)](https://github.com/nikok6/herdr-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/nikok6/herdr-mirror?style=flat-square&color=blue)](https://github.com/nikok6/herdr-mirror/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Unify your local and remote sessions in one window: mirror remote herdr servers into your local sidebar and drive them over SSH
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ herdr-mirror 的生产可用性被评估为中等（Medium）。它适合用于�
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 13/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

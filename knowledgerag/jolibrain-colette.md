@@ -1,6 +1,6 @@
 # jolibrain/colette
 
-[![Stars](https://img.shields.io/github/stars/jolibrain/colette?style=flat-square&color=yellow)](https://github.com/jolibrain/colette/stargazers) [![Forks](https://img.shields.io/github/forks/jolibrain/colette?style=flat-square&color=blue)](https://github.com/jolibrain/colette/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jolibrain/colette?style=flat-square&color=yellow)](https://github.com/jolibrain/colette/stargazers) [![Forks](https://img.shields.io/github/forks/jolibrain/colette?style=flat-square&color=blue)](https://github.com/jolibrain/colette/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Multimodal RAG to search and interact locally with technical documents of any kind
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ jolibrain/colette 是一个基于多模态 RAG（检索‑增强‑生成）的�
 | forks | 38/100 |
 | stars | 52/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

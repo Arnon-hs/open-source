@@ -1,6 +1,6 @@
 # kodjodevf/mangayomi
 
-[![Stars](https://img.shields.io/github/stars/kodjodevf/mangayomi?style=flat-square&color=yellow)](https://github.com/kodjodevf/mangayomi/stargazers) [![Forks](https://img.shields.io/github/forks/kodjodevf/mangayomi?style=flat-square&color=blue)](https://github.com/kodjodevf/mangayomi/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kodjodevf/mangayomi?style=flat-square&color=yellow)](https://github.com/kodjodevf/mangayomi/stargazers) [![Forks](https://img.shields.io/github/forks/kodjodevf/mangayomi?style=flat-square&color=blue)](https://github.com/kodjodevf/mangayomi/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ kodjodevf/mangayomi 的生产可用性较高。该项目有活跃的社区，最
 | forks | 51/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 76/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

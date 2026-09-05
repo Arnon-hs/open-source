@@ -1,6 +1,6 @@
 # GuanYixuan/pyJianYingDraft
 
-[![Stars](https://img.shields.io/github/stars/GuanYixuan/pyJianYingDraft?style=flat-square&color=yellow)](https://github.com/GuanYixuan/pyJianYingDraft/stargazers) [![Forks](https://img.shields.io/github/forks/GuanYixuan/pyJianYingDraft?style=flat-square&color=blue)](https://github.com/GuanYixuan/pyJianYingDraft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GuanYixuan/pyJianYingDraft?style=flat-square&color=yellow)](https://github.com/GuanYixuan/pyJianYingDraft/stargazers) [![Forks](https://img.shields.io/github/forks/GuanYixuan/pyJianYingDraft?style=flat-square&color=blue)](https://github.com/GuanYixuan/pyJianYingDraft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线。本项目的CapCut版本正于 https://github.com/GuanYixuan/pyCapCut 内开发
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 615 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ GuanYixuan/pyJianYingDraft 的价值在于帮助用户避免重复的手动操�
 | forks | 70/100 |
 | stars | 76/100 |
 | topics | 75/100 |
-| outlook | 65/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

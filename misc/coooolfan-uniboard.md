@@ -1,6 +1,6 @@
 # Coooolfan/UniBoard
 
-[![Stars](https://img.shields.io/github/stars/Coooolfan/UniBoard?style=flat-square&color=yellow)](https://github.com/Coooolfan/UniBoard/stargazers) [![Forks](https://img.shields.io/github/forks/Coooolfan/UniBoard?style=flat-square&color=blue)](https://github.com/Coooolfan/UniBoard/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coooolfan/UniBoard?style=flat-square&color=yellow)](https://github.com/Coooolfan/UniBoard/stargazers) [![Forks](https://img.shields.io/github/forks/Coooolfan/UniBoard?style=flat-square&color=blue)](https://github.com/Coooolfan/UniBoard/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 个人介绍，导航页、笔记、短链、文件分享、探针，私有化部署。Profile、Note、ShortURL、FileSharing、probeMonitor…… with self-host
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 241 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Coooolfan/UniBoard 是一套基于 Vue 的自托管个人门户，提供 Profile
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

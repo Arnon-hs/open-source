@@ -1,6 +1,6 @@
 # rune-rs/rune
 
-[![Stars](https://img.shields.io/github/stars/rune-rs/rune?style=flat-square&color=yellow)](https://github.com/rune-rs/rune/stargazers) [![Forks](https://img.shields.io/github/forks/rune-rs/rune?style=flat-square&color=blue)](https://github.com/rune-rs/rune/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rune-rs/rune?style=flat-square&color=yellow)](https://github.com/rune-rs/rune/stargazers) [![Forks](https://img.shields.io/github/forks/rune-rs/rune?style=flat-square&color=blue)](https://github.com/rune-rs/rune/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An embeddable dynamic programming language for Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ rune-rs/rune 的生产可用性为中等。由于其接入路径不明显和维�
 | forks | 52/100 |
 | stars | 72/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

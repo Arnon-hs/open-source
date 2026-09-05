@@ -1,6 +1,6 @@
 # WebDecoy/FCaptcha
 
-[![Stars](https://img.shields.io/github/stars/WebDecoy/FCaptcha?style=flat-square&color=yellow)](https://github.com/WebDecoy/FCaptcha/stargazers) [![Forks](https://img.shields.io/github/forks/WebDecoy/FCaptcha?style=flat-square&color=blue)](https://github.com/WebDecoy/FCaptcha/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WebDecoy/FCaptcha?style=flat-square&color=yellow)](https://github.com/WebDecoy/FCaptcha/stargazers) [![Forks](https://img.shields.io/github/forks/WebDecoy/FCaptcha?style=flat-square&color=blue)](https://github.com/WebDecoy/FCaptcha/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, invisible CAPTCHA that detects AI agents, bots, and headless browsers via 40+ behavioral signals, device & TLS fingerprinting, and SHA-256 proof of work. Self-hosted and privacy-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Security
+Automation · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ WebDecoy/FCaptcha 的生产可用性非常高，最近有活跃的开发、采�
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

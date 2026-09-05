@@ -1,6 +1,6 @@
 # dlemstra/Magick.NET
 
-[![Stars](https://img.shields.io/github/stars/dlemstra/Magick.NET?style=flat-square&color=yellow)](https://github.com/dlemstra/Magick.NET/stargazers) [![Forks](https://img.shields.io/github/forks/dlemstra/Magick.NET?style=flat-square&color=blue)](https://github.com/dlemstra/Magick.NET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dlemstra/Magick.NET?style=flat-square&color=yellow)](https://github.com/dlemstra/Magick.NET/stargazers) [![Forks](https://img.shields.io/github/forks/dlemstra/Magick.NET?style=flat-square&color=blue)](https://github.com/dlemstra/Magick.NET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The .NET library for ImageMagick
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 442 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Magick.NET 的生产可用性较高，主要原因是：
 | forks | 66/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

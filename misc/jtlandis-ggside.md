@@ -1,6 +1,6 @@
 # jtlandis/ggside
 
-[![Stars](https://img.shields.io/github/stars/jtlandis/ggside?style=flat-square&color=yellow)](https://github.com/jtlandis/ggside/stargazers) [![Forks](https://img.shields.io/github/forks/jtlandis/ggside?style=flat-square&color=blue)](https://github.com/jtlandis/ggside/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtlandis/ggside?style=flat-square&color=yellow)](https://github.com/jtlandis/ggside/stargazers) [![Forks](https://img.shields.io/github/forks/jtlandis/ggside?style=flat-square&color=blue)](https://github.com/jtlandis/ggside/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ggplot2 extension allowing for plotting various geometries as side panels using the ggplot2 API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | R |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,11 +130,11 @@ Misc
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

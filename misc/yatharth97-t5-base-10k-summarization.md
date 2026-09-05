@@ -1,6 +1,6 @@
 # yatharth97/T5-base-10K-summarization
 
-[![Stars](https://img.shields.io/github/stars/yatharth97/T5-base-10K-summarization?style=flat-square&color=yellow)](https://huggingface.co/yatharth97/T5-base-10K-summarization/stargazers) [![Forks](https://img.shields.io/github/forks/yatharth97/T5-base-10K-summarization?style=flat-square&color=blue)](https://huggingface.co/yatharth97/T5-base-10K-summarization/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yatharth97/T5-base-10K-summarization?style=flat-square&color=yellow)](https://huggingface.co/yatharth97/T5-base-10K-summarization/stargazers) [![Forks](https://img.shields.io/github/forks/yatharth97/T5-base-10K-summarization?style=flat-square&color=blue)](https://huggingface.co/yatharth97/T5-base-10K-summarization/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Summarization (summarization) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 30/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ yatharth97/T5-base-10K-summarization 的价值在于，它能够帮助开发者�
 | forks | 0/100 |
 | stars | 13/100 |
 | topics | 38/100 |
-| outlook | 28/100 |
-| quality | 25/100 |
-| recency | 20/100 |
+| outlook | 49/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 9/100 |
-| production | 32/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

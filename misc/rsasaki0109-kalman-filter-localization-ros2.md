@@ -1,6 +1,6 @@
 # rsasaki0109/kalman_filter_localization_ros2
 
-[![Stars](https://img.shields.io/github/stars/rsasaki0109/kalman_filter_localization_ros2?style=flat-square&color=yellow)](https://github.com/rsasaki0109/kalman_filter_localization_ros2/stargazers) [![Forks](https://img.shields.io/github/forks/rsasaki0109/kalman_filter_localization_ros2?style=flat-square&color=blue)](https://github.com/rsasaki0109/kalman_filter_localization_ros2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsasaki0109/kalman_filter_localization_ros2?style=flat-square&color=yellow)](https://github.com/rsasaki0109/kalman_filter_localization_ros2/stargazers) [![Forks](https://img.shields.io/github/forks/rsasaki0109/kalman_filter_localization_ros2?style=flat-square&color=blue)](https://github.com/rsasaki0109/kalman_filter_localization_ros2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > gnss/imu localization using kalman filter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ The project has a medium production readiness score, indicating that it is suita
 | forks | 44/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # gunnartorfis/sonner-native-toasts
 
-[![Stars](https://img.shields.io/github/stars/gunnartorfis/sonner-native-toasts?style=flat-square&color=yellow)](https://github.com/gunnartorfis/sonner-native-toasts/stargazers) [![Forks](https://img.shields.io/github/forks/gunnartorfis/sonner-native-toasts?style=flat-square&color=blue)](https://github.com/gunnartorfis/sonner-native-toasts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gunnartorfis/sonner-native-toasts?style=flat-square&color=yellow)](https://github.com/gunnartorfis/sonner-native-toasts/stargazers) [![Forks](https://img.shields.io/github/forks/gunnartorfis/sonner-native-toasts?style=flat-square&color=blue)](https://github.com/gunnartorfis/sonner-native-toasts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An opinionated toast component for React Native. A port of @emilkowalski's sonner.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ toast.success('保存成功！');
 | forks | 44/100 |
 | stars | 66/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

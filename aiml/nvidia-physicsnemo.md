@@ -1,6 +1,6 @@
 # NVIDIA/physicsnemo
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/physicsnemo?style=flat-square&color=yellow)](https://github.com/NVIDIA/physicsnemo/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/physicsnemo?style=flat-square&color=blue)](https://github.com/NVIDIA/physicsnemo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/physicsnemo?style=flat-square&color=yellow)](https://github.com/NVIDIA/physicsnemo/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/physicsnemo?style=flat-square&color=blue)](https://github.com/NVIDIA/physicsnemo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 718 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ NVIDIA / physicsnemo 是一个开源的深度学习框架，专注于利用�
 | forks | 71/100 |
 | stars | 74/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

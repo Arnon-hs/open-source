@@ -1,6 +1,6 @@
 # bmax121/APatch
 
-[![Stars](https://img.shields.io/github/stars/bmax121/APatch?style=flat-square&color=yellow)](https://github.com/bmax121/APatch/stargazers) [![Forks](https://img.shields.io/github/forks/bmax121/APatch?style=flat-square&color=blue)](https://github.com/bmax121/APatch/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bmax121/APatch?style=flat-square&color=yellow)](https://github.com/bmax121/APatch/stargazers) [![Forks](https://img.shields.io/github/forks/bmax121/APatch?style=flat-square&color=blue)](https://github.com/bmax121/APatch/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The patching of Android kernel and Android system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 746 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ bmax121/APatch 的生产可用性较高，主要原因是：
 | forks | 72/100 |
 | stars | 83/100 |
 | topics | 88/100 |
-| outlook | 68/100 |
-| quality | 79/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

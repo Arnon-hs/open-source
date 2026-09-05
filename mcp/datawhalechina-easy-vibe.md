@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 872 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -77,6 +77,7 @@ datawhalechina/easy-vibe：datawhalechina/easy-vibe helps connect AI assistants 
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Fovty/HushMic
 
-[![Stars](https://img.shields.io/github/stars/Fovty/HushMic?style=flat-square&color=yellow)](https://github.com/Fovty/HushMic/stargazers) [![Forks](https://img.shields.io/github/forks/Fovty/HushMic?style=flat-square&color=blue)](https://github.com/Fovty/HushMic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fovty/HushMic?style=flat-square&color=yellow)](https://github.com/Fovty/HushMic/stargazers) [![Forks](https://img.shields.io/github/forks/Fovty/HushMic?style=flat-square&color=blue)](https://github.com/Fovty/HushMic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time microphone noise suppression for Linux as a system-wide virtual mic (DPDFNet + PipeWire).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ Fovty/HushMic 的生产可用性为中等（Medium）。它适用于原型开发
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

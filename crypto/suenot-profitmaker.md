@@ -1,6 +1,6 @@
 # suenot/profitmaker
 
-[![Stars](https://img.shields.io/github/stars/suenot/profitmaker?style=flat-square&color=yellow)](https://github.com/suenot/profitmaker/stargazers) [![Forks](https://img.shields.io/github/forks/suenot/profitmaker?style=flat-square&color=blue)](https://github.com/suenot/profitmaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suenot/profitmaker?style=flat-square&color=yellow)](https://github.com/suenot/profitmaker/stargazers) [![Forks](https://img.shields.io/github/forks/suenot/profitmaker?style=flat-square&color=blue)](https://github.com/suenot/profitmaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, customized, extendable trading platform that supports 100+ crypto exchanges.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 362 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ suenot/profitmaker 的生产可用性很高，主要原因是：
 | forks | 49/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # funnycups/Luker
 
-[![Stars](https://img.shields.io/github/stars/funnycups/Luker?style=flat-square&color=yellow)](https://github.com/funnycups/Luker/stargazers) [![Forks](https://img.shields.io/github/forks/funnycups/Luker?style=flat-square&color=blue)](https://github.com/funnycups/Luker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/funnycups/Luker?style=flat-square&color=yellow)](https://github.com/funnycups/Luker/stargazers) [![Forks](https://img.shields.io/github/forks/funnycups/Luker?style=flat-square&color=blue)](https://github.com/funnycups/Luker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > LLM Frontend for Power Users. Better SillyTavern.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ funnycups/Luker 是面向高级用户的 LLM 前端框架，定位为 “更好�
 | forks | 34/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

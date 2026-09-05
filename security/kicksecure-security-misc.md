@@ -1,6 +1,6 @@
 # Kicksecure/security-misc
 
-[![Stars](https://img.shields.io/github/stars/Kicksecure/security-misc?style=flat-square&color=yellow)](https://github.com/Kicksecure/security-misc/stargazers) [![Forks](https://img.shields.io/github/forks/Kicksecure/security-misc?style=flat-square&color=blue)](https://github.com/Kicksecure/security-misc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kicksecure/security-misc?style=flat-square&color=yellow)](https://github.com/Kicksecure/security-misc/stargazers) [![Forks](https://img.shields.io/github/forks/Kicksecure/security-misc?style=flat-square&color=blue)](https://github.com/Kicksecure/security-misc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.kicksecure.com/wiki/Security-misc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 582 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Kicksecure /security‑misc 是一套面向 Linux 系统的硬化脚本与配�
 | forks | 44/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 43/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ImageMagick/ImageMagick
 
-[![Stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=flat-square&color=yellow)](https://github.com/ImageMagick/ImageMagick/stargazers) [![Forks](https://img.shields.io/github/forks/ImageMagick/ImageMagick?style=flat-square&color=blue)](https://github.com/ImageMagick/ImageMagick/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=flat-square&color=yellow)](https://github.com/ImageMagick/ImageMagick/stargazers) [![Forks](https://img.shields.io/github/forks/ImageMagick/ImageMagick?style=flat-square&color=blue)](https://github.com/ImageMagick/ImageMagick/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.9k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ ImageMagick 是一套免费、开源的图像处理工具集，支持 200 多种
 | forks | 80/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 90/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ simple-icons/simple-icons：simple-icons/simple-icons may be useful when its REA
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

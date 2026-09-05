@@ -1,6 +1,6 @@
 # kalfasyan/desto
 
-[![Stars](https://img.shields.io/github/stars/kalfasyan/desto?style=flat-square&color=yellow)](https://github.com/kalfasyan/desto/stargazers) [![Forks](https://img.shields.io/github/forks/kalfasyan/desto?style=flat-square&color=blue)](https://github.com/kalfasyan/desto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kalfasyan/desto?style=flat-square&color=yellow)](https://github.com/kalfasyan/desto/stargazers) [![Forks](https://img.shields.io/github/forks/kalfasyan/desto?style=flat-square&color=blue)](https://github.com/kalfasyan/desto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > web-interface and cli to manage python and shell scripts in tmux sessions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ desto 的生产可用性较高，因为：
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

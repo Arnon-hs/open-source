@@ -1,6 +1,6 @@
 # VictoriaMetrics/helm-charts
 
-[![Stars](https://img.shields.io/github/stars/VictoriaMetrics/helm-charts?style=flat-square&color=yellow)](https://github.com/VictoriaMetrics/helm-charts/stargazers) [![Forks](https://img.shields.io/github/forks/VictoriaMetrics/helm-charts?style=flat-square&color=blue)](https://github.com/VictoriaMetrics/helm-charts/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VictoriaMetrics/helm-charts?style=flat-square&color=yellow)](https://github.com/VictoriaMetrics/helm-charts/stargazers) [![Forks](https://img.shields.io/github/forks/VictoriaMetrics/helm-charts?style=flat-square&color=blue)](https://github.com/VictoriaMetrics/helm-charts/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 551 |
 | 🍴 **Forks** | 418 |
 | 💻 **Language** | Go Template |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ VictoriaMetrics/helm-charts 的主要价值在于，它使得生产行为的可�
 | forks | 66/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

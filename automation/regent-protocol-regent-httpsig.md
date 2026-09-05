@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Security
+Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -73,7 +73,7 @@ Show HN: Verify OpenAI's signed agent traffic in Python (RFC 9421/Web Bot Auth)�
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

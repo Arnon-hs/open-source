@@ -1,6 +1,6 @@
 # Ike-li/claude-chat-mobile
 
-[![Stars](https://img.shields.io/github/stars/Ike-li/claude-chat-mobile?style=flat-square&color=yellow)](https://github.com/Ike-li/claude-chat-mobile/stargazers) [![Forks](https://img.shields.io/github/forks/Ike-li/claude-chat-mobile?style=flat-square&color=blue)](https://github.com/Ike-li/claude-chat-mobile/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ike-li/claude-chat-mobile?style=flat-square&color=yellow)](https://github.com/Ike-li/claude-chat-mobile/stargazers) [![Forks](https://img.shields.io/github/forks/Ike-li/claude-chat-mobile?style=flat-square&color=blue)](https://github.com/Ike-li/claude-chat-mobile/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Use your real local Claude CLI from your phone — same CLAUDE.md, MCP, skills & login. Self-hosted, locked by default.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · Communication · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ Ike-li/
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Reedyuk/blue-falcon
 
-[![Stars](https://img.shields.io/github/stars/Reedyuk/blue-falcon?style=flat-square&color=yellow)](https://github.com/Reedyuk/blue-falcon/stargazers) [![Forks](https://img.shields.io/github/forks/Reedyuk/blue-falcon?style=flat-square&color=blue)](https://github.com/Reedyuk/blue-falcon/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Reedyuk/blue-falcon?style=flat-square&color=yellow)](https://github.com/Reedyuk/blue-falcon/stargazers) [![Forks](https://img.shields.io/github/forks/Reedyuk/blue-falcon?style=flat-square&color=blue)](https://github.com/Reedyuk/blue-falcon/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin Multiplatform BLE library for iOS, Android, macos, windows and javascript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Reedyuk/blue-falcon 的生产可用性为 中等。它适合用于原型开发�
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

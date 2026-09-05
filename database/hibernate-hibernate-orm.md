@@ -1,6 +1,6 @@
 # hibernate/hibernate-orm
 
-[![Stars](https://img.shields.io/github/stars/hibernate/hibernate-orm?style=flat-square&color=yellow)](https://github.com/hibernate/hibernate-orm/stargazers) [![Forks](https://img.shields.io/github/forks/hibernate/hibernate-orm?style=flat-square&color=blue)](https://github.com/hibernate/hibernate-orm/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hibernate/hibernate-orm?style=flat-square&color=yellow)](https://github.com/hibernate/hibernate-orm/stargazers) [![Forks](https://img.shields.io/github/forks/hibernate/hibernate-orm?style=flat-square&color=blue)](https://github.com/hibernate/hibernate-orm/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Idiomatic persistence for Java and relational databases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Hibernate ORM 在生产环境中的可用性较高。根据 GitHub 的数据，H
 | forks | 89/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

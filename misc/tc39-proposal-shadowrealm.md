@@ -1,6 +1,6 @@
 # tc39/proposal-shadowrealm
 
-[![Stars](https://img.shields.io/github/stars/tc39/proposal-shadowrealm?style=flat-square&color=yellow)](https://github.com/tc39/proposal-shadowrealm/stargazers) [![Forks](https://img.shields.io/github/forks/tc39/proposal-shadowrealm?style=flat-square&color=blue)](https://github.com/tc39/proposal-shadowrealm/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tc39/proposal-shadowrealm?style=flat-square&color=yellow)](https://github.com/tc39/proposal-shadowrealm/stargazers) [![Forks](https://img.shields.io/github/forks/tc39/proposal-shadowrealm?style=flat-square&color=blue)](https://github.com/tc39/proposal-shadowrealm/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-30 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ ECMAScript ShadowRealm API 规范提供了隔离的执行上下文，可安全�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |

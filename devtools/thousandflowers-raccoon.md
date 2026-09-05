@@ -1,6 +1,6 @@
 # thousandflowers/Raccoon
 
-[![Stars](https://img.shields.io/github/stars/thousandflowers/Raccoon?style=flat-square&color=yellow)](https://github.com/thousandflowers/Raccoon/stargazers) [![Forks](https://img.shields.io/github/forks/thousandflowers/Raccoon?style=flat-square&color=blue)](https://github.com/thousandflowers/Raccoon/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thousandflowers/Raccoon?style=flat-square&color=yellow)](https://github.com/thousandflowers/Raccoon/stargazers) [![Forks](https://img.shields.io/github/forks/thousandflowers/Raccoon?style=flat-square&color=blue)](https://github.com/thousandflowers/Raccoon/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > macOS companion toolkit for power users
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ thousandflowers/Raccoon 是面向 macOS 高级用户的配套工具套件，帮�
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

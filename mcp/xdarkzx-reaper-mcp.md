@@ -1,6 +1,6 @@
 # xDarkzx/Reaper-MCP
 
-[![Stars](https://img.shields.io/github/stars/xDarkzx/Reaper-MCP?style=flat-square&color=yellow)](https://github.com/xDarkzx/Reaper-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/xDarkzx/Reaper-MCP?style=flat-square&color=blue)](https://github.com/xDarkzx/Reaper-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xDarkzx/Reaper-MCP?style=flat-square&color=yellow)](https://github.com/xDarkzx/Reaper-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/xDarkzx/Reaper-MCP?style=flat-square&color=blue)](https://github.com/xDarkzx/Reaper-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered music production in REAPER via the Model Context Protocol — 163 tools for composition, MIDI, FX, mixing, and mastering.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -95,15 +95,15 @@ xDarkzx/Reaper-MCP 的价值在于，它连接了 AI 助手与真实工具和数
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # openai/openai-python
 
-[![Stars](https://img.shields.io/github/stars/openai/openai-python?style=flat-square&color=yellow)](https://github.com/openai/openai-python/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-python?style=flat-square&color=blue)](https://github.com/openai/openai-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/openai-python?style=flat-square&color=yellow)](https://github.com/openai/openai-python/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-python?style=flat-square&color=blue)](https://github.com/openai/openai-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The official Python library for the OpenAI API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31.3k |
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ openai/openai‑python 是官方的 Python SDK，能够快速为项目注入 Ope
 | forks | 93/100 |
 | stars | 96/100 |
 | topics | 25/100 |
-| outlook | 83/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 95/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

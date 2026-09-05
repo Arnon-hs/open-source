@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Product
+MCP · AI/ML · Communication · Product
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ qqqqqf-q/Arkloop：qqqqqf-q/Arkloop helps connect AI assistants to real tools an
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

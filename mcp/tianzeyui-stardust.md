@@ -1,6 +1,6 @@
 # Tianzeyui/stardust
 
-[![Stars](https://img.shields.io/github/stars/Tianzeyui/stardust?style=flat-square&color=yellow)](https://github.com/Tianzeyui/stardust/stargazers) [![Forks](https://img.shields.io/github/forks/Tianzeyui/stardust?style=flat-square&color=blue)](https://github.com/Tianzeyui/stardust/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tianzeyui/stardust?style=flat-square&color=yellow)](https://github.com/Tianzeyui/stardust/stargazers) [![Forks](https://img.shields.io/github/forks/Tianzeyui/stardust?style=flat-square&color=blue)](https://github.com/Tianzeyui/stardust/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI Agent platform with React/TSX & HTML plugin dev modes. Built-in 60+ APIs, multi-project, MCP tools, sandbox engine. Official + community-driven, building an extensible agent ecosystem for everyone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Tianzeyui / stardust 已具备较高的生产就绪度，适合作为企业�
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

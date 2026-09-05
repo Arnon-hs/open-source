@@ -1,6 +1,6 @@
 # pvtl/docker-dev
 
-[![Stars](https://img.shields.io/github/stars/pvtl/docker-dev?style=flat-square&color=yellow)](https://github.com/pvtl/docker-dev/stargazers) [![Forks](https://img.shields.io/github/forks/pvtl/docker-dev?style=flat-square&color=blue)](https://github.com/pvtl/docker-dev/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pvtl/docker-dev?style=flat-square&color=yellow)](https://github.com/pvtl/docker-dev/stargazers) [![Forks](https://img.shields.io/github/forks/pvtl/docker-dev?style=flat-square&color=blue)](https://github.com/pvtl/docker-dev/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A local Docker Environment for building PHP applications 🔨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ pvtl/docker‑dev 是一个本地 Docker 环境，专为 PHP 应用的开发与�
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

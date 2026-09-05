@@ -1,6 +1,6 @@
 # Kototoro-app/Kototoro
 
-[![Stars](https://img.shields.io/github/stars/Kototoro-app/Kototoro?style=flat-square&color=yellow)](https://github.com/Kototoro-app/Kototoro/stargazers) [![Forks](https://img.shields.io/github/forks/Kototoro-app/Kototoro?style=flat-square&color=blue)](https://github.com/Kototoro-app/Kototoro/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kototoro-app/Kototoro?style=flat-square&color=yellow)](https://github.com/Kototoro-app/Kototoro/stargazers) [![Forks](https://img.shields.io/github/forks/Kototoro-app/Kototoro?style=flat-square&color=blue)](https://github.com/Kototoro-app/Kototoro/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Manga, Novel, and Video reader for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ Kototoro 是一款基于 Kotlin 的 Android 客户端，能够统一阅读漫画
 | forks | 38/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # code-yeongyu/senpi
 
-[![Stars](https://img.shields.io/github/stars/code-yeongyu/senpi?style=flat-square&color=yellow)](https://github.com/code-yeongyu/senpi/stargazers) [![Forks](https://img.shields.io/github/forks/code-yeongyu/senpi?style=flat-square&color=blue)](https://github.com/code-yeongyu/senpi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/code-yeongyu/senpi?style=flat-square&color=yellow)](https://github.com/code-yeongyu/senpi/stargazers) [![Forks](https://img.shields.io/github/forks/code-yeongyu/senpi?style=flat-square&color=blue)](https://github.com/code-yeongyu/senpi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ code-yeongyu/senpi 是对 badlogic/pi‑mono 的强力改写，先在纯粹的 �
 | forks | 12/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

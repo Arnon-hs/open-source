@@ -1,6 +1,6 @@
 # symbolicsoft/verifpal
 
-[![Stars](https://img.shields.io/github/stars/symbolicsoft/verifpal?style=flat-square&color=yellow)](https://github.com/symbolicsoft/verifpal/stargazers) [![Forks](https://img.shields.io/github/forks/symbolicsoft/verifpal?style=flat-square&color=blue)](https://github.com/symbolicsoft/verifpal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/symbolicsoft/verifpal?style=flat-square&color=yellow)](https://github.com/symbolicsoft/verifpal/stargazers) [![Forks](https://img.shields.io/github/forks/symbolicsoft/verifpal?style=flat-square&color=blue)](https://github.com/symbolicsoft/verifpal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptographic protocol analysis for real-world protocols.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ symbolicsoft/verifpal 是一个开源项目，用于分析实践中的加密协�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

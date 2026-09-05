@@ -1,6 +1,6 @@
 # moj-analytical-services/splink
 
-[![Stars](https://img.shields.io/github/stars/moj-analytical-services/splink?style=flat-square&color=yellow)](https://github.com/moj-analytical-services/splink/stargazers) [![Forks](https://img.shields.io/github/forks/moj-analytical-services/splink?style=flat-square&color=blue)](https://github.com/moj-analytical-services/splink/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moj-analytical-services/splink?style=flat-square&color=yellow)](https://github.com/moj-analytical-services/splink/stargazers) [![Forks](https://img.shields.io/github/forks/moj-analytical-services/splink?style=flat-square&color=blue)](https://github.com/moj-analytical-services/splink/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Overall, splink is a high‑readiness OSS candidate for teams that need reliable
 | forks | 59/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

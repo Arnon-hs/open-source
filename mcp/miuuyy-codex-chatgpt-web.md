@@ -1,6 +1,6 @@
 # miuuyy/codex-chatgpt-web
 
-[![Stars](https://img.shields.io/github/stars/miuuyy/codex-chatgpt-web?style=flat-square&color=yellow)](https://github.com/miuuyy/codex-chatgpt-web/stargazers) [![Forks](https://img.shields.io/github/forks/miuuyy/codex-chatgpt-web?style=flat-square&color=blue)](https://github.com/miuuyy/codex-chatgpt-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miuuyy/codex-chatgpt-web?style=flat-square&color=yellow)](https://github.com/miuuyy/codex-chatgpt-web/stargazers) [![Forks](https://img.shields.io/github/forks/miuuyy/codex-chatgpt-web?style=flat-square&color=blue)](https://github.com/miuuyy/codex-chatgpt-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ miuuyy/codex-chatgpt-web 是一个开源项目，允许将 ChatGPT Web（包括 
 | forks | 40/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 67/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

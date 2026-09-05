@@ -1,6 +1,6 @@
 # 01mf02/jaq
 
-[![Stars](https://img.shields.io/github/stars/01mf02/jaq?style=flat-square&color=yellow)](https://github.com/01mf02/jaq/stargazers) [![Forks](https://img.shields.io/github/forks/01mf02/jaq?style=flat-square&color=blue)](https://github.com/01mf02/jaq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/01mf02/jaq?style=flat-square&color=yellow)](https://github.com/01mf02/jaq/stargazers) [![Forks](https://img.shields.io/github/forks/01mf02/jaq?style=flat-square&color=blue)](https://github.com/01mf02/jaq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A jq clone focussed on correctness, speed, and simplicity
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Misc
 | forks | 52/100 |
 | stars | 76/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

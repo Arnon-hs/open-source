@@ -1,6 +1,6 @@
 # hetpatel-11/Adobe_Premiere_Pro_MCP
 
-[![Stars](https://img.shields.io/github/stars/hetpatel-11/Adobe_Premiere_Pro_MCP?style=flat-square&color=yellow)](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP/stargazers) [![Forks](https://img.shields.io/github/forks/hetpatel-11/Adobe_Premiere_Pro_MCP?style=flat-square&color=blue)](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hetpatel-11/Adobe_Premiere_Pro_MCP?style=flat-square&color=yellow)](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP/stargazers) [![Forks](https://img.shields.io/github/forks/hetpatel-11/Adobe_Premiere_Pro_MCP?style=flat-square&color=blue)](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 282 tools for AI-driven Adobe Premiere Pro video editing via MCP, for Codex, Claude, and other MCP clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 433 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ hetpatel-11/Adobe_Premiere_Pro_MCP 的价值在于，它帮助连接AI助手和�
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

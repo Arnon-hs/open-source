@@ -1,6 +1,6 @@
 # MyZubster-Ecosystem/myzubster
 
-[![Stars](https://img.shields.io/github/stars/MyZubster-Ecosystem/myzubster?style=flat-square&color=yellow)](https://github.com/MyZubster-Ecosystem/myzubster/stargazers) [![Forks](https://img.shields.io/github/forks/MyZubster-Ecosystem/myzubster?style=flat-square&color=blue)](https://github.com/MyZubster-Ecosystem/myzubster/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MyZubster-Ecosystem/myzubster?style=flat-square&color=yellow)](https://github.com/MyZubster-Ecosystem/myzubster/stargazers) [![Forks](https://img.shields.io/github/forks/MyZubster-Ecosystem/myzubster?style=flat-square&color=blue)](https://github.com/MyZubster-Ecosystem/myzubster/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 🌍 Decentralized Ecosystem for Animal & Plant Registration on Monero Blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ MyZubster-Ecosystem/myzubster：。适合用于Crypto。
 | forks | 34/100 |
 | stars | 6/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 37/100 |
-| recency | 80/100 |
+| outlook | 54/100 |
+| quality | 42/100 |
+| recency | 100/100 |
 | adoption | 14/100 |
-| production | 51/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

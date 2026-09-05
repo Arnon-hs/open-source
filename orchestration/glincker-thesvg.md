@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Design
+Orchestration · AI/ML · Cloud & Storage · Frontend · Design
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ glincker/thesvg 提供了 6,500+ 可直接使用的品牌 SVG 图标，支持 Tr
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

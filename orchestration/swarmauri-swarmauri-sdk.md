@@ -1,6 +1,6 @@
 # swarmauri/swarmauri-sdk
 
-[![Stars](https://img.shields.io/github/stars/swarmauri/swarmauri-sdk?style=flat-square&color=yellow)](https://github.com/swarmauri/swarmauri-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/swarmauri/swarmauri-sdk?style=flat-square&color=blue)](https://github.com/swarmauri/swarmauri-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swarmauri/swarmauri-sdk?style=flat-square&color=yellow)](https://github.com/swarmauri/swarmauri-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/swarmauri/swarmauri-sdk?style=flat-square&color=blue)](https://github.com/swarmauri/swarmauri-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ swarmauri/swarmauri‑sdk 是一个模块化的 Python SDK 与单体仓库，提
 | forks | 42/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # apache/kvrocks
 
-[![Stars](https://img.shields.io/github/stars/apache/kvrocks?style=flat-square&color=yellow)](https://github.com/apache/kvrocks/stargazers) [![Forks](https://img.shields.io/github/forks/apache/kvrocks?style=flat-square&color=blue)](https://github.com/apache/kvrocks/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/kvrocks?style=flat-square&color=yellow)](https://github.com/apache/kvrocks/stargazers) [![Forks](https://img.shields.io/github/forks/apache/kvrocks?style=flat-square&color=blue)](https://github.com/apache/kvrocks/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 634 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Apache Kvrocks 是一款基于 RocksDB 存储引擎的分布式键值 NoSQL 数�
 | forks | 70/100 |
 | stars | 77/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

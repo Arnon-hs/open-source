@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ checkout/checkout-sdk-node：checkout/checkout-sdk-node helps integrate monetiza
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

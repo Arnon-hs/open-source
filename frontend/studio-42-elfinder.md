@@ -1,6 +1,6 @@
 # Studio-42/elFinder
 
-[![Stars](https://img.shields.io/github/stars/Studio-42/elFinder?style=flat-square&color=yellow)](https://github.com/Studio-42/elFinder/stargazers) [![Forks](https://img.shields.io/github/forks/Studio-42/elFinder?style=flat-square&color=blue)](https://github.com/Studio-42/elFinder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Studio-42/elFinder?style=flat-square&color=yellow)](https://github.com/Studio-42/elFinder/stargazers) [![Forks](https://img.shields.io/github/forks/Studio-42/elFinder?style=flat-square&color=blue)](https://github.com/Studio-42/elFinder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Studio-42/elFinder 的生产可用性很高，主要原因是：
 | forks | 79/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 80/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

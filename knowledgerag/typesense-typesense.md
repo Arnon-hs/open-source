@@ -1,6 +1,6 @@
 # typesense/typesense
 
-[![Stars](https://img.shields.io/github/stars/typesense/typesense?style=flat-square&color=yellow)](https://github.com/typesense/typesense/stargazers) [![Forks](https://img.shields.io/github/forks/typesense/typesense?style=flat-square&color=blue)](https://github.com/typesense/typesense/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typesense/typesense?style=flat-square&color=yellow)](https://github.com/typesense/typesense/stargazers) [![Forks](https://img.shields.io/github/forks/typesense/typesense?style=flat-square&color=blue)](https://github.com/typesense/typesense/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.8k |
 | 🍴 **Forks** | 885 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Typesense（`typesense/typesense`）是一个开源的即时搜索引擎，定�
 | forks | 74/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

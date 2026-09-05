@@ -1,6 +1,6 @@
 # encode/django-rest-framework
 
-[![Stars](https://img.shields.io/github/stars/encode/django-rest-framework?style=flat-square&color=yellow)](https://github.com/encode/django-rest-framework/stargazers) [![Forks](https://img.shields.io/github/forks/encode/django-rest-framework?style=flat-square&color=blue)](https://github.com/encode/django-rest-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/encode/django-rest-framework?style=flat-square&color=yellow)](https://github.com/encode/django-rest-framework/stargazers) [![Forks](https://img.shields.io/github/forks/encode/django-rest-framework?style=flat-square&color=blue)](https://github.com/encode/django-rest-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Web APIs for Django. 🎸
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30.1k |
 | 🍴 **Forks** | 7.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ encode/django-rest-framework 的生产可用性很高，主要原因包括：
 | forks | 96/100 |
 | stars | 95/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 96/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

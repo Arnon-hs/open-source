@@ -1,6 +1,6 @@
 # binius-zk/binius64
 
-[![Stars](https://img.shields.io/github/stars/binius-zk/binius64?style=flat-square&color=yellow)](https://github.com/binius-zk/binius64/stargazers) [![Forks](https://img.shields.io/github/forks/binius-zk/binius64?style=flat-square&color=blue)](https://github.com/binius-zk/binius64/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binius-zk/binius64?style=flat-square&color=yellow)](https://github.com/binius-zk/binius64/stargazers) [![Forks](https://img.shields.io/github/forks/binius-zk/binius64?style=flat-square&color=blue)](https://github.com/binius-zk/binius64/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Binary Proofs, Blazing Fast
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ binius-zk/binius64 是一个基于 Rust 实现的二进制零知识证明库，�
 | forks | 41/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 49/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

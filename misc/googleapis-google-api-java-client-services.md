@@ -1,6 +1,6 @@
 # googleapis/google-api-java-client-services
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-api-java-client-services?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-java-client-services/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-java-client-services?style=flat-square&color=blue)](https://github.com/googleapis/google-api-java-client-services/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-api-java-client-services?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-java-client-services/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-java-client-services?style=flat-square&color=blue)](https://github.com/googleapis/google-api-java-client-services/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Generated Java code for Google APIs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 724 |
 | 🍴 **Forks** | 393 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ googleapis/google-api-java-client-services 的生产可用性较高，理由如�
 | forks | 65/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

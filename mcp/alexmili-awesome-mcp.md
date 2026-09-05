@@ -1,6 +1,6 @@
 # AlexMili/Awesome-MCP
 
-[![Stars](https://img.shields.io/github/stars/AlexMili/Awesome-MCP?style=flat-square&color=yellow)](https://github.com/AlexMili/Awesome-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/AlexMili/Awesome-MCP?style=flat-square&color=blue)](https://github.com/AlexMili/Awesome-MCP/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlexMili/Awesome-MCP?style=flat-square&color=yellow)](https://github.com/AlexMili/Awesome-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/AlexMili/Awesome-MCP?style=flat-square&color=blue)](https://github.com/AlexMili/Awesome-MCP/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome ModelContextProtocol resources - A curated list of MCP resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ AlexMili/Awesome-MCP 是一个开源项目，旨在提供 Model Context Protocol
 | forks | 49/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

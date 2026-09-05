@@ -1,6 +1,6 @@
 # bartosz-kuc/skanfirmy-mcp
 
-[![Stars](https://img.shields.io/github/stars/bartosz-kuc/skanfirmy-mcp?style=flat-square&color=yellow)](https://github.com/bartosz-kuc/skanfirmy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bartosz-kuc/skanfirmy-mcp?style=flat-square&color=blue)](https://github.com/bartosz-kuc/skanfirmy-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bartosz-kuc/skanfirmy-mcp?style=flat-square&color=yellow)](https://github.com/bartosz-kuc/skanfirmy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bartosz-kuc/skanfirmy-mcp?style=flat-square&color=blue)](https://github.com/bartosz-kuc/skanfirmy-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Free MCP server to verify Polish companies (NIP/KRS/REGON) + EU VAT (VIES). 9 tools, no key. Live at skanfirmy.pl/mcp
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ bartosz-kuc/skanfirmy-mcp：bartosz-kuc/skanfirmy-mcp helps turn isolated prompt
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 67/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

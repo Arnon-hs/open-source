@@ -1,6 +1,6 @@
 # lissy93/bug-bounties
 
-[![Stars](https://img.shields.io/github/stars/lissy93/bug-bounties?style=flat-square&color=yellow)](https://github.com/lissy93/bug-bounties/stargazers) [![Forks](https://img.shields.io/github/forks/lissy93/bug-bounties?style=flat-square&color=blue)](https://github.com/lissy93/bug-bounties/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lissy93/bug-bounties?style=flat-square&color=yellow)](https://github.com/lissy93/bug-bounties/stargazers) [![Forks](https://img.shields.io/github/forks/lissy93/bug-bounties?style=flat-square&color=blue)](https://github.com/lissy93/bug-bounties/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > ⚔️ Community maintained directory, MCP and API of 3,000+ active bug bounty programs and VDPs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ The project's production readiness is high due to recent activity, adoption, and
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 67/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

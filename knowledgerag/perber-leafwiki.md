@@ -1,6 +1,6 @@
 # perber/leafwiki
 
-[![Stars](https://img.shields.io/github/stars/perber/leafwiki?style=flat-square&color=yellow)](https://github.com/perber/leafwiki/stargazers) [![Forks](https://img.shields.io/github/forks/perber/leafwiki?style=flat-square&color=blue)](https://github.com/perber/leafwiki/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/perber/leafwiki?style=flat-square&color=yellow)](https://github.com/perber/leafwiki/stargazers) [![Forks](https://img.shields.io/github/forks/perber/leafwiki?style=flat-square&color=blue)](https://github.com/perber/leafwiki/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · Database · DevOps/Infra
+Knowledge/RAG · Documents · Frontend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ perber/leafwiki：perber/leafwiki helps make internal knowledge searchable and u
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

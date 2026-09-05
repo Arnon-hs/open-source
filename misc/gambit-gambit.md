@@ -1,6 +1,6 @@
 # gambit/gambit
 
-[![Stars](https://img.shields.io/github/stars/gambit/gambit?style=flat-square&color=yellow)](https://github.com/gambit/gambit/stargazers) [![Forks](https://img.shields.io/github/forks/gambit/gambit?style=flat-square&color=blue)](https://github.com/gambit/gambit/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gambit/gambit?style=flat-square&color=yellow)](https://github.com/gambit/gambit/stargazers) [![Forks](https://img.shields.io/github/forks/gambit/gambit?style=flat-square&color=blue)](https://github.com/gambit/gambit/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Gambit is an efficient implementation of the Scheme programming language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Scheme |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Gambit 的生产可用性为中等（Medium），适合用于内部工作流程�
 | forks | 57/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

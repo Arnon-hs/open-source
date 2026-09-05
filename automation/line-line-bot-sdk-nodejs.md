@@ -1,6 +1,6 @@
 # line/line-bot-sdk-nodejs
 
-[![Stars](https://img.shields.io/github/stars/line/line-bot-sdk-nodejs?style=flat-square&color=yellow)](https://github.com/line/line-bot-sdk-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-bot-sdk-nodejs?style=flat-square&color=blue)](https://github.com/line/line-bot-sdk-nodejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/line/line-bot-sdk-nodejs?style=flat-square&color=yellow)](https://github.com/line/line-bot-sdk-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-bot-sdk-nodejs?style=flat-square&color=blue)](https://github.com/line/line-bot-sdk-nodejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > LINE Messaging API SDK for Node.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 433 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Communication · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ line/line-bot-sdk-nodejs 是一个 Node.js 的 LINE 消息 API SDK，帮助开�
 | forks | 66/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

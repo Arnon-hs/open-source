@@ -1,6 +1,6 @@
 # ChatGPTNextWeb/NextChat
 
-[![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square&color=yellow)](https://github.com/ChatGPTNextWeb/NextChat/stargazers) [![Forks](https://img.shields.io/github/forks/ChatGPTNextWeb/NextChat?style=flat-square&color=blue)](https://github.com/ChatGPTNextWeb/NextChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square&color=yellow)](https://github.com/ChatGPTNextWeb/NextChat/stargazers) [![Forks](https://img.shields.io/github/forks/ChatGPTNextWeb/NextChat?style=flat-square&color=blue)](https://github.com/ChatGPTNextWeb/NextChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 88.4k |
 | 🍴 **Forks** | 59.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Database · Mobile
+AI/ML · Frontend · Backend · Mobile
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ ChatGPTNextWeb/NextChat具有高生产可用性，主要原因是：
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 95/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 77/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jeremyevans/rodauth
 
-[![Stars](https://img.shields.io/github/stars/jeremyevans/rodauth?style=flat-square&color=yellow)](https://github.com/jeremyevans/rodauth/stargazers) [![Forks](https://img.shields.io/github/forks/jeremyevans/rodauth?style=flat-square&color=blue)](https://github.com/jeremyevans/rodauth/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeremyevans/rodauth?style=flat-square&color=yellow)](https://github.com/jeremyevans/rodauth/stargazers) [![Forks](https://img.shields.io/github/forks/jeremyevans/rodauth?style=flat-square&color=blue)](https://github.com/jeremyevans/rodauth/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby's Most Advanced Authentication Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Rodauth 的生产可用性为中等（Medium）。它适合于内部工作流程
 | forks | 51/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

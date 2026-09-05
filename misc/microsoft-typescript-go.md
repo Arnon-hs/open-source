@@ -1,6 +1,6 @@
 # microsoft/typescript-go
 
-[![Stars](https://img.shields.io/github/stars/microsoft/typescript-go?style=flat-square&color=yellow)](https://github.com/microsoft/typescript-go/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/typescript-go?style=flat-square&color=blue)](https://github.com/microsoft/typescript-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/typescript-go?style=flat-square&color=yellow)](https://github.com/microsoft/typescript-go/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/typescript-go?style=flat-square&color=blue)](https://github.com/microsoft/typescript-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Staging repo for development of native port of TypeScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.4k |
 | 🍴 **Forks** | 953 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ The project scores high on production readiness: it shows recent activity (last 
 | forks | 74/100 |
 | stars | 94/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

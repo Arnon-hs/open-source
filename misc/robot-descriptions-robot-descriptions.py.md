@@ -1,6 +1,6 @@
 # robot-descriptions/robot_descriptions.py
 
-[![Stars](https://img.shields.io/github/stars/robot-descriptions/robot_descriptions.py?style=flat-square&color=yellow)](https://github.com/robot-descriptions/robot_descriptions.py/stargazers) [![Forks](https://img.shields.io/github/forks/robot-descriptions/robot_descriptions.py?style=flat-square&color=blue)](https://github.com/robot-descriptions/robot_descriptions.py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robot-descriptions/robot_descriptions.py?style=flat-square&color=yellow)](https://github.com/robot-descriptions/robot_descriptions.py/stargazers) [![Forks](https://img.shields.io/github/forks/robot-descriptions/robot_descriptions.py?style=flat-square&color=blue)](https://github.com/robot-descriptions/robot_descriptions.py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Access 190+ robot descriptions from the main Python robotics frameworks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 796 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ robot-descriptions/robot_descriptions.py 是一个开源项目，提供了超过
 | forks | 47/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

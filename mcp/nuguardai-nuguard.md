@@ -1,6 +1,6 @@
 # NuGuardAI/nuguard
 
-[![Stars](https://img.shields.io/github/stars/NuGuardAI/nuguard?style=flat-square&color=yellow)](https://github.com/NuGuardAI/nuguard/stargazers) [![Forks](https://img.shields.io/github/forks/NuGuardAI/nuguard?style=flat-square&color=blue)](https://github.com/NuGuardAI/nuguard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NuGuardAI/nuguard?style=flat-square&color=yellow)](https://github.com/NuGuardAI/nuguard/stargazers) [![Forks](https://img.shields.io/github/forks/NuGuardAI/nuguard?style=flat-square&color=blue)](https://github.com/NuGuardAI/nuguard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI red-teaming tool and LLM security framework to evaluate agentic AI applications. Tests prompt injections, handles vulnerability assessment, SBOM generation, and static analysis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · AI/ML · Backend · DevTools · Security
 
 ## 📝 Summary
 
@@ -92,15 +92,15 @@ NuGuardAI/nuguard 目前处于中等生产可用性（Medium）水平。它适�
 | forks | 26/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

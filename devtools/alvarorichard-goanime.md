@@ -1,6 +1,6 @@
 # alvarorichard/GoAnime
 
-[![Stars](https://img.shields.io/github/stars/alvarorichard/GoAnime?style=flat-square&color=yellow)](https://github.com/alvarorichard/GoAnime/stargazers) [![Forks](https://img.shields.io/github/forks/alvarorichard/GoAnime?style=flat-square&color=blue)](https://github.com/alvarorichard/GoAnime/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alvarorichard/GoAnime?style=flat-square&color=yellow)](https://github.com/alvarorichard/GoAnime/stargazers) [![Forks](https://img.shields.io/github/forks/alvarorichard/GoAnime?style=flat-square&color=blue)](https://github.com/alvarorichard/GoAnime/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A TUI tool to browse, stream, and download anime in PT-BR and EN
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -70,11 +70,11 @@ Write something like: "GoAnime 是一个基于 Go 的终端用户界面工具，
 | forks | 43/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

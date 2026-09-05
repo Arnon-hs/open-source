@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Security
+Orchestration · Automation · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ vxcontrol/pentagi：vxcontrol/pentagi helps turn isolated prompts and tools into
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

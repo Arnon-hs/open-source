@@ -1,6 +1,6 @@
 # crystallabs/crysterm
 
-[![Stars](https://img.shields.io/github/stars/crystallabs/crysterm?style=flat-square&color=yellow)](https://github.com/crystallabs/crysterm/stargazers) [![Forks](https://img.shields.io/github/forks/crystallabs/crysterm?style=flat-square&color=blue)](https://github.com/crystallabs/crysterm/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crystallabs/crysterm?style=flat-square&color=yellow)](https://github.com/crystallabs/crysterm/stargazers) [![Forks](https://img.shields.io/github/forks/crystallabs/crysterm?style=flat-square&color=blue)](https://github.com/crystallabs/crysterm/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Console / terminal GUI toolkit for Crystal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Crystal |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ crystallabs/crysterm 是一套基于 Crystal 语言的控制台/终端 GUI 工�
 | forks | 26/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

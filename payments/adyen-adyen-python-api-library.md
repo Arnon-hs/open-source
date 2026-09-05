@@ -1,6 +1,6 @@
 # Adyen/adyen-python-api-library
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-python-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-python-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-python-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-python-api-library/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-python-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-python-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-python-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-python-api-library/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen API Library for Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Adyen/adyen-python-api-library 是 Adyen 官方提供的 Python SDK，帮助开�
 | forks | 42/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

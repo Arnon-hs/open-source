@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · DevOps/Infra · Security
+Automation · Cloud & Storage · DevTools · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ jonhadfield/soba：jonhadfield/soba helps remove repetitive manual operations fr
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ipython/ipython
 
-[![Stars](https://img.shields.io/github/stars/ipython/ipython?style=flat-square&color=yellow)](https://github.com/ipython/ipython/stargazers) [![Forks](https://img.shields.io/github/forks/ipython/ipython?style=flat-square&color=blue)](https://github.com/ipython/ipython/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipython/ipython?style=flat-square&color=yellow)](https://github.com/ipython/ipython/stargazers) [![Forks](https://img.shields.io/github/forks/ipython/ipython?style=flat-square&color=blue)](https://github.com/ipython/ipython/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.7k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ IPython（仓库 ipython/ipython）是交互式 Python 解释器的核心实�
 | forks | 91/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

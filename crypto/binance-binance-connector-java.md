@@ -1,6 +1,6 @@
 # binance/binance-connector-java
 
-[![Stars](https://img.shields.io/github/stars/binance/binance-connector-java?style=flat-square&color=yellow)](https://github.com/binance/binance-connector-java/stargazers) [![Forks](https://img.shields.io/github/forks/binance/binance-connector-java?style=flat-square&color=blue)](https://github.com/binance/binance-connector-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binance/binance-connector-java?style=flat-square&color=yellow)](https://github.com/binance/binance-connector-java/stargazers) [![Forks](https://img.shields.io/github/forks/binance/binance-connector-java?style=flat-square&color=blue)](https://github.com/binance/binance-connector-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Simple Java connector to Binance Spot API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 574 |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Binance-Connector-Java 是一个简单的 Java 连接器，用于访问 Binance 
 | forks | 60/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

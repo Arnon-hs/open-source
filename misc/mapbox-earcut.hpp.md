@@ -1,6 +1,6 @@
 # mapbox/earcut.hpp
 
-[![Stars](https://img.shields.io/github/stars/mapbox/earcut.hpp?style=flat-square&color=yellow)](https://github.com/mapbox/earcut.hpp/stargazers) [![Forks](https://img.shields.io/github/forks/mapbox/earcut.hpp?style=flat-square&color=blue)](https://github.com/mapbox/earcut.hpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mapbox/earcut.hpp?style=flat-square&color=yellow)](https://github.com/mapbox/earcut.hpp/stargazers) [![Forks](https://img.shields.io/github/forks/mapbox/earcut.hpp?style=flat-square&color=blue)](https://github.com/mapbox/earcut.hpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, header-only polygon triangulation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ mapbox/earcut.hpp 是一个快速、头文件独立的多边形三角化库，�
 | forks | 55/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

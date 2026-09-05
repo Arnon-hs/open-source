@@ -1,6 +1,6 @@
 # qdrant/skills
 
-[![Stars](https://img.shields.io/github/stars/qdrant/skills?style=flat-square&color=yellow)](https://github.com/qdrant/skills/stargazers) [![Forks](https://img.shields.io/github/forks/qdrant/skills?style=flat-square&color=blue)](https://github.com/qdrant/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qdrant/skills?style=flat-square&color=yellow)](https://github.com/qdrant/skills/stargazers) [![Forks](https://img.shields.io/github/forks/qdrant/skills?style=flat-square&color=blue)](https://github.com/qdrant/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Database · Observability
+Orchestration · Knowledge/RAG · AI/ML · Libraries & SDKs · Database
 
 ## 📝 Summary
 
@@ -105,11 +105,11 @@ qdrant/skills 是一套面向 Qdrant 向量搜索引擎的 Agent Skills，涵�
 | forks | 33/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

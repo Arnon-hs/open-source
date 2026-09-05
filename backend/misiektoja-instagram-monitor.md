@@ -1,6 +1,6 @@
 # misiektoja/instagram_monitor
 
-[![Stars](https://img.shields.io/github/stars/misiektoja/instagram_monitor?style=flat-square&color=yellow)](https://github.com/misiektoja/instagram_monitor/stargazers) [![Forks](https://img.shields.io/github/forks/misiektoja/instagram_monitor?style=flat-square&color=blue)](https://github.com/misiektoja/instagram_monitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/misiektoja/instagram_monitor?style=flat-square&color=yellow)](https://github.com/misiektoja/instagram_monitor/stargazers) [![Forks](https://img.shields.io/github/forks/misiektoja/instagram_monitor?style=flat-square&color=blue)](https://github.com/misiektoja/instagram_monitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ misiektoja/instagram_monitor 的生产可用性非常高，主要原因是：
 | forks | 51/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # gaopengbin/cesium-mcp
 
-[![Stars](https://img.shields.io/github/stars/gaopengbin/cesium-mcp?style=flat-square&color=yellow)](https://github.com/gaopengbin/cesium-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/gaopengbin/cesium-mcp?style=flat-square&color=blue)](https://github.com/gaopengbin/cesium-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gaopengbin/cesium-mcp?style=flat-square&color=yellow)](https://github.com/gaopengbin/cesium-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/gaopengbin/cesium-mcp?style=flat-square&color=blue)](https://github.com/gaopengbin/cesium-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered CesiumJS 3D globe control  49 tools for camera, entities, layers, animation & spatial analysis via Model Context Protocol (MCP). Natural language to 3D GIS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Games & Graphics · Data
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ gaopengbin/cesium-mcp 的生产可用性较高，理由包括：
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

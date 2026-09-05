@@ -1,6 +1,6 @@
 # lingeringsound/10007_auto
 
-[![Stars](https://img.shields.io/github/stars/lingeringsound/10007_auto?style=flat-square&color=yellow)](https://github.com/lingeringsound/10007_auto/stargazers) [![Forks](https://img.shields.io/github/forks/lingeringsound/10007_auto?style=flat-square&color=blue)](https://github.com/lingeringsound/10007_auto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lingeringsound/10007_auto?style=flat-square&color=yellow)](https://github.com/lingeringsound/10007_auto/stargazers) [![Forks](https://img.shields.io/github/forks/lingeringsound/10007_auto?style=flat-square&color=blue)](https://github.com/lingeringsound/10007_auto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ZH: 自动更新去广告的hosts ，En: Automatically update ad hosts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 595 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -141,11 +141,11 @@ Misc
 | forks | 32/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

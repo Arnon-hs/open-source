@@ -1,6 +1,6 @@
 # freelawproject/courtlistener
 
-[![Stars](https://img.shields.io/github/stars/freelawproject/courtlistener?style=flat-square&color=yellow)](https://github.com/freelawproject/courtlistener/stargazers) [![Forks](https://img.shields.io/github/forks/freelawproject/courtlistener?style=flat-square&color=blue)](https://github.com/freelawproject/courtlistener/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freelawproject/courtlistener?style=flat-square&color=yellow)](https://github.com/freelawproject/courtlistener/stargazers) [![Forks](https://img.shields.io/github/forks/freelawproject/courtlistener?style=flat-square&color=blue)](https://github.com/freelawproject/courtlistener/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 981 |
 | 🍴 **Forks** | 259 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ freelawproject/courtlistener 是一个开源项目，提供了一个可搜索、
 | forks | 60/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

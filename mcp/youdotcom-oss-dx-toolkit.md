@@ -1,6 +1,6 @@
 # youdotcom-oss/dx-toolkit
 
-[![Stars](https://img.shields.io/github/stars/youdotcom-oss/dx-toolkit?style=flat-square&color=yellow)](https://github.com/youdotcom-oss/dx-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/youdotcom-oss/dx-toolkit?style=flat-square&color=blue)](https://github.com/youdotcom-oss/dx-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/youdotcom-oss/dx-toolkit?style=flat-square&color=yellow)](https://github.com/youdotcom-oss/dx-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/youdotcom-oss/dx-toolkit?style=flat-square&color=blue)](https://github.com/youdotcom-oss/dx-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source toolkit enabling developers to integrate You.com's AI capabilities into their workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ You.com-oss/dx-toolkit 的价值在于，它帮助开发者通过标准协议连
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # spike0en/nothing_archive
 
-[![Stars](https://img.shields.io/github/stars/spike0en/nothing_archive?style=flat-square&color=yellow)](https://github.com/spike0en/nothing_archive/stargazers) [![Forks](https://img.shields.io/github/forks/spike0en/nothing_archive?style=flat-square&color=blue)](https://github.com/spike0en/nothing_archive/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spike0en/nothing_archive?style=flat-square&color=yellow)](https://github.com/spike0en/nothing_archive/stargazers) [![Forks](https://img.shields.io/github/forks/spike0en/nothing_archive?style=flat-square&color=blue)](https://github.com/spike0en/nothing_archive/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Nothing Community Apps & Projects Index • Nothing OS Firmware Archive • OTA Updates & Changelogs for Nothing Phones & CMF By Nothing Phones • Tools for Nothing Glyph LED & Glyph Matrix • Windows, macOS & Linux Tools • Nothing Phone Unbrick • Nothing Ear & CMF Buds Tools • Official Resources • Kernel Sources • Rooting, Unrooting & Technical Guides
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ spike0en/nothing_archive 是 Nothing 生态的资源聚合平台，收录了 Not
 | forks | 45/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

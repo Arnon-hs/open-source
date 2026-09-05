@@ -1,6 +1,6 @@
 # tracel-ai/cubecl
 
-[![Stars](https://img.shields.io/github/stars/tracel-ai/cubecl?style=flat-square&color=yellow)](https://github.com/tracel-ai/cubecl/stargazers) [![Forks](https://img.shields.io/github/forks/tracel-ai/cubecl?style=flat-square&color=blue)](https://github.com/tracel-ai/cubecl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tracel-ai/cubecl?style=flat-square&color=yellow)](https://github.com/tracel-ai/cubecl/stargazers) [![Forks](https://img.shields.io/github/forks/tracel-ai/cubecl?style=flat-square&color=blue)](https://github.com/tracel-ai/cubecl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-platform high-performance compute language extension for Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ tracel-ai/cubecl 已经获得了很高的生产可用性，主要原因是：
 | forks | 58/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

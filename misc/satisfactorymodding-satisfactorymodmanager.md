@@ -1,6 +1,6 @@
 # satisfactorymodding/SatisfactoryModManager
 
-[![Stars](https://img.shields.io/github/stars/satisfactorymodding/SatisfactoryModManager?style=flat-square&color=yellow)](https://github.com/satisfactorymodding/SatisfactoryModManager/stargazers) [![Forks](https://img.shields.io/github/forks/satisfactorymodding/SatisfactoryModManager?style=flat-square&color=blue)](https://github.com/satisfactorymodding/SatisfactoryModManager/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/satisfactorymodding/SatisfactoryModManager?style=flat-square&color=yellow)](https://github.com/satisfactorymodding/SatisfactoryModManager/stargazers) [![Forks](https://img.shields.io/github/forks/satisfactorymodding/SatisfactoryModManager?style=flat-square&color=blue)](https://github.com/satisfactorymodding/SatisfactoryModManager/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A mod manager for easy installation of mods and modloader for Satisfactory
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 472 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ satisfactorymodding/SatisfactoryModManager 提供了一套基于 Svelte 的前�
 | forks | 49/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 44/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

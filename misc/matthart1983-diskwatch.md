@@ -1,6 +1,6 @@
 # matthart1983/diskwatch
 
-[![Stars](https://img.shields.io/github/stars/matthart1983/diskwatch?style=flat-square&color=yellow)](https://github.com/matthart1983/diskwatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/diskwatch?style=flat-square&color=blue)](https://github.com/matthart1983/diskwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthart1983/diskwatch?style=flat-square&color=yellow)](https://github.com/matthart1983/diskwatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/diskwatch?style=flat-square&color=blue)](https://github.com/matthart1983/diskwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Single-host, read-only disk diagnostics TUI. Sibling to netwatch and syswatch.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ matthart1983/diskwatch的生产可用性为中等（Medium），适合用于原�
 | forks | 15/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 47/100 |
-| recency | 60/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 53/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

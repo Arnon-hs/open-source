@@ -1,6 +1,6 @@
 # microsoft/typespec
 
-[![Stars](https://img.shields.io/github/stars/microsoft/typespec?style=flat-square&color=yellow)](https://github.com/microsoft/typespec/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/typespec?style=flat-square&color=blue)](https://github.com/microsoft/typespec/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/typespec?style=flat-square&color=yellow)](https://github.com/microsoft/typespec/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/typespec?style=flat-square&color=blue)](https://github.com/microsoft/typespec/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 375 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ microsoft/typespec 的生产可用性很高，主要原因是：
 | forks | 64/100 |
 | stars | 80/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

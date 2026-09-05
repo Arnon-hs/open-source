@@ -1,6 +1,6 @@
 # jub0t/Concat
 
-[![Stars](https://img.shields.io/github/stars/jub0t/Concat?style=flat-square&color=yellow)](https://github.com/jub0t/Concat/stargazers) [![Forks](https://img.shields.io/github/forks/jub0t/Concat?style=flat-square&color=blue)](https://github.com/jub0t/Concat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jub0t/Concat?style=flat-square&color=yellow)](https://github.com/jub0t/Concat/stargazers) [![Forks](https://img.shields.io/github/forks/jub0t/Concat?style=flat-square&color=blue)](https://github.com/jub0t/Concat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Free & Open-Source CapCut replacement.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 754 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Content Creation · Automation
+Video Editing · Content Creation · Automation · Productivity
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ jub0t/Concat 是一款免费的开源 CapCut 替代品，可将媒体编辑、�
 | forks | 44/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

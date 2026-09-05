@@ -1,6 +1,6 @@
 # glidea/zenfeed
 
-[![Stars](https://img.shields.io/github/stars/glidea/zenfeed?style=flat-square&color=yellow)](https://github.com/glidea/zenfeed/stargazers) [![Forks](https://img.shields.io/github/forks/glidea/zenfeed?style=flat-square&color=blue)](https://github.com/glidea/zenfeed/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glidea/zenfeed?style=flat-square&color=yellow)](https://github.com/glidea/zenfeed/stargazers) [![Forks](https://img.shields.io/github/forks/glidea/zenfeed?style=flat-square&color=blue)](https://github.com/glidea/zenfeed/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Make RSS 📰 great again with AI 🧠✨!!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Observability
+MCP · AI/ML · Communication · Backend · Observability
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ glidea/zenfeed 的生产可用性很高，因为它有以下特点：
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

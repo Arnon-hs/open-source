@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 500 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · AI/ML
+Content Creation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ AceDataCloud/Nexior：AceDataCloud/Nexior helps creators research, generate, rep
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

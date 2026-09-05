@@ -1,6 +1,6 @@
 # gruhn/awesome-naming
 
-[![Stars](https://img.shields.io/github/stars/gruhn/awesome-naming?style=flat-square&color=yellow)](https://github.com/gruhn/awesome-naming/stargazers) [![Forks](https://img.shields.io/github/forks/gruhn/awesome-naming?style=flat-square&color=blue)](https://github.com/gruhn/awesome-naming/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gruhn/awesome-naming?style=flat-square&color=yellow)](https://github.com/gruhn/awesome-naming/stargazers) [![Forks](https://img.shields.io/github/forks/gruhn/awesome-naming?style=flat-square&color=blue)](https://github.com/gruhn/awesome-naming/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list for when naming things is done right.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ gruhn/awesome-naming 是一套高质量的命名指南资源，能够帮助团�
 | forks | 43/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 47/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

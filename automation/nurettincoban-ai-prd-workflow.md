@@ -1,6 +1,6 @@
 # nurettincoban/ai-prd-workflow
 
-[![Stars](https://img.shields.io/github/stars/nurettincoban/ai-prd-workflow?style=flat-square&color=yellow)](https://github.com/nurettincoban/ai-prd-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/nurettincoban/ai-prd-workflow?style=flat-square&color=blue)](https://github.com/nurettincoban/ai-prd-workflow/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nurettincoban/ai-prd-workflow?style=flat-square&color=yellow)](https://github.com/nurettincoban/ai-prd-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/nurettincoban/ai-prd-workflow?style=flat-square&color=blue)](https://github.com/nurettincoban/ai-prd-workflow/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A structured prompt pipeline that turns vague ideas into implementable RFCs — works with any AI assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ nurettincoban/ai-prd-workflow 是一个结构化的提示管道，能够将模�
 | forks | 37/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

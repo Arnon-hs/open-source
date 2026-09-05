@@ -1,6 +1,6 @@
 # PaddlePaddle/PP-LCNet_x1_0_doc_ori
 
-[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PP-LCNet_x1_0_doc_ori?style=flat-square&color=yellow)](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_doc_ori/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/PP-LCNet_x1_0_doc_ori?style=flat-square&color=blue)](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_doc_ori/network) [![Language](https://img.shields.io/badge/lang-PaddleOCR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PP-LCNet_x1_0_doc_ori?style=flat-square&color=yellow)](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_doc_ori/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/PP-LCNet_x1_0_doc_ori?style=flat-square&color=blue)](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_doc_ori/network) [![Language](https://img.shields.io/badge/lang-PaddleOCR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Vision language (image-to-text) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PaddleOCR |
-| 📈 **Score** | 33/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ PaddlePaddle/PP-LCNet_x1_0_doc_ori 是一个开源的视觉语言模型（图像
 | forks | 0/100 |
 | stars | 27/100 |
 | topics | 38/100 |
-| outlook | 31/100 |
-| quality | 30/100 |
-| recency | 20/100 |
+| outlook | 52/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 34/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

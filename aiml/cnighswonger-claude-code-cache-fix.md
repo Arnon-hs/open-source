@@ -1,6 +1,6 @@
 # cnighswonger/claude-code-cache-fix
 
-[![Stars](https://img.shields.io/github/stars/cnighswonger/claude-code-cache-fix?style=flat-square&color=yellow)](https://github.com/cnighswonger/claude-code-cache-fix/stargazers) [![Forks](https://img.shields.io/github/forks/cnighswonger/claude-code-cache-fix?style=flat-square&color=blue)](https://github.com/cnighswonger/claude-code-cache-fix/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cnighswonger/claude-code-cache-fix?style=flat-square&color=yellow)](https://github.com/cnighswonger/claude-code-cache-fix/stargazers) [![Forks](https://img.shields.io/github/forks/cnighswonger/claude-code-cache-fix?style=flat-square&color=blue)](https://github.com/cnighswonger/claude-code-cache-fix/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Fixes prompt cache regression in Claude Code that causes up to 20x cost increase on resumed sessions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Networking · Backend · DevTools
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ cnighswonger/claude-code-cache-fix 是一个针对 Claude Code API 的补丁
 | forks | 34/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

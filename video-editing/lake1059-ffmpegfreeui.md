@@ -1,6 +1,6 @@
 # Lake1059/FFmpegFreeUI
 
-[![Stars](https://img.shields.io/github/stars/Lake1059/FFmpegFreeUI?style=flat-square&color=yellow)](https://github.com/Lake1059/FFmpegFreeUI/stargazers) [![Forks](https://img.shields.io/github/forks/Lake1059/FFmpegFreeUI?style=flat-square&color=blue)](https://github.com/Lake1059/FFmpegFreeUI/network) [![Language](https://img.shields.io/badge/lang-Visual%20Basic%20.NET-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lake1059/FFmpegFreeUI?style=flat-square&color=yellow)](https://github.com/Lake1059/FFmpegFreeUI/stargazers) [![Forks](https://img.shields.io/github/forks/Lake1059/FFmpegFreeUI?style=flat-square&color=blue)](https://github.com/Lake1059/FFmpegFreeUI/network) [![Language](https://img.shields.io/badge/lang-Visual%20Basic%20.NET-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 390 |
 | 💻 **Language** | Visual Basic .NET |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Lake1059/FFmpegFreeUI 的生产可用性为中等（Medium）。它适合用于�
 | forks | 65/100 |
 | stars | 82/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

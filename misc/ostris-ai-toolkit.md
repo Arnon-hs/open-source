@@ -1,6 +1,6 @@
 # ostris/ai-toolkit
 
-[![Stars](https://img.shields.io/github/stars/ostris/ai-toolkit?style=flat-square&color=yellow)](https://github.com/ostris/ai-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/ostris/ai-toolkit?style=flat-square&color=blue)](https://github.com/ostris/ai-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ostris/ai-toolkit?style=flat-square&color=yellow)](https://github.com/ostris/ai-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/ostris/ai-toolkit?style=flat-square&color=blue)](https://github.com/ostris/ai-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate training toolkit for finetuning diffusion models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ostris/ai-toolkit 在生产环境中具有较高
 | forks | 79/100 |
 | stars | 86/100 |
 | topics | 0/100 |
-| outlook | 57/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # logos-blockchain/logos-blockchain
 
-[![Stars](https://img.shields.io/github/stars/logos-blockchain/logos-blockchain?style=flat-square&color=yellow)](https://github.com/logos-blockchain/logos-blockchain/stargazers) [![Forks](https://img.shields.io/github/forks/logos-blockchain/logos-blockchain?style=flat-square&color=blue)](https://github.com/logos-blockchain/logos-blockchain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/logos-blockchain/logos-blockchain?style=flat-square&color=yellow)](https://github.com/logos-blockchain/logos-blockchain/stargazers) [![Forks](https://img.shields.io/github/forks/logos-blockchain/logos-blockchain?style=flat-square&color=blue)](https://github.com/logos-blockchain/logos-blockchain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Logos blockchain node
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Logos Blockchain 是用 Rust 实现的轻量级节点软件，提供完整的�
 | forks | 42/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 36/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

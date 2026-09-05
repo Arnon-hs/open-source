@@ -1,6 +1,6 @@
 # Anil-matcha/ai-creator-academy
 
-[![Stars](https://img.shields.io/github/stars/Anil-matcha/ai-creator-academy?style=flat-square&color=yellow)](https://github.com/Anil-matcha/ai-creator-academy/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/ai-creator-academy?style=flat-square&color=blue)](https://github.com/Anil-matcha/ai-creator-academy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anil-matcha/ai-creator-academy?style=flat-square&color=yellow)](https://github.com/Anil-matcha/ai-creator-academy/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/ai-creator-academy?style=flat-square&color=blue)](https://github.com/Anil-matcha/ai-creator-academy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Anil-matcha/ai-creator-academy 是一个免费、开源的教程，帮助创作�
 | forks | 64/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

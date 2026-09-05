@@ -1,6 +1,6 @@
 # lintje/lintje
 
-[![Stars](https://img.shields.io/github/stars/lintje/lintje?style=flat-square&color=yellow)](https://github.com/lintje/lintje/stargazers) [![Forks](https://img.shields.io/github/forks/lintje/lintje?style=flat-square&color=blue)](https://github.com/lintje/lintje/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lintje/lintje?style=flat-square&color=yellow)](https://github.com/lintje/lintje/stargazers) [![Forks](https://img.shields.io/github/forks/lintje/lintje?style=flat-square&color=blue)](https://github.com/lintje/lintje/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Lintje is an opinionated linter for Git.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Lintje 是一个专为 Git 设计的有理念的代码检查工具。其主要�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 63/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 67/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

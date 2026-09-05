@@ -1,6 +1,6 @@
 # crewAI/mcp
 
-[![Stars](https://img.shields.io/github/stars/crewAI/mcp?style=flat-square&color=yellow)](https://github.com/crewAI/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/crewAI/mcp?style=flat-square&color=blue)](https://github.com/crewAI/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crewAI/mcp?style=flat-square&color=yellow)](https://github.com/crewAI/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/crewAI/mcp?style=flat-square&color=blue)](https://github.com/crewAI/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ crewAI/mcp: . Use it for Orchestration, MCP.
 
 ### Русский
 
-crewAI/mcp: open-source проект в категориях Orchestration, MCP. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+crewAI/mcp: open-source проект в категориях Orchestration, MCP. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ crewAI/mcp：。适合用于Orchestration、MCP。
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 26/100 |
-| quality | 16/100 |
-| recency | 20/100 |
+| outlook | 54/100 |
+| quality | 36/100 |
+| recency | 100/100 |
 | adoption | 0/100 |
-| production | 29/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 70/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 730 |
 | 💻 **Language** | Batchfile |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ Atlas-OS/Atlas：Atlas-OS/Atlas helps catch security and privacy issues earlier 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

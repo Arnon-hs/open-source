@@ -1,6 +1,6 @@
 # Serveurperso/Qwen3-TTS-GGUF
 
-[![Stars](https://img.shields.io/github/stars/Serveurperso/Qwen3-TTS-GGUF?style=flat-square&color=yellow)](https://huggingface.co/Serveurperso/Qwen3-TTS-GGUF/stargazers) [![Forks](https://img.shields.io/github/forks/Serveurperso/Qwen3-TTS-GGUF?style=flat-square&color=blue)](https://huggingface.co/Serveurperso/Qwen3-TTS-GGUF/network) [![Language](https://img.shields.io/badge/lang-gguf-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Serveurperso/Qwen3-TTS-GGUF?style=flat-square&color=yellow)](https://huggingface.co/Serveurperso/Qwen3-TTS-GGUF/stargazers) [![Forks](https://img.shields.io/github/forks/Serveurperso/Qwen3-TTS-GGUF?style=flat-square&color=blue)](https://huggingface.co/Serveurperso/Qwen3-TTS-GGUF/network) [![Language](https://img.shields.io/badge/lang-gguf-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text to speech (text-to-speech) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | gguf |
-| 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Serveurperso/Qwen3-TTS-GGUF 的主要价值在于其可用于文本到语音转�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 38/100 |
-| outlook | 32/100 |
-| quality | 32/100 |
-| recency | 20/100 |
+| outlook | 53/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 35/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # 22kk12/mengwei-local-leads-workbench
 
-[![Stars](https://img.shields.io/github/stars/22kk12/mengwei-local-leads-workbench?style=flat-square&color=yellow)](https://github.com/22kk12/mengwei-local-leads-workbench/stargazers) [![Forks](https://img.shields.io/github/forks/22kk12/mengwei-local-leads-workbench?style=flat-square&color=blue)](https://github.com/22kk12/mengwei-local-leads-workbench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/22kk12/mengwei-local-leads-workbench?style=flat-square&color=yellow)](https://github.com/22kk12/mengwei-local-leads-workbench/stargazers) [![Forks](https://img.shields.io/github/forks/22kk12/mengwei-local-leads-workbench?style=flat-square&color=blue)](https://github.com/22kk12/mengwei-local-leads-workbench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Half-developed local leads workbench prototype for AI content, video automation, keyword research, account warming, and publishing workflow study.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Automation · AI/ML · Frontend
+Video Editing · Automation · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Video Editing · Automation · AI/ML · Frontend
 | forks | 42/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

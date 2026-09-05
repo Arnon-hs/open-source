@@ -1,6 +1,6 @@
 # thomaskioko/tv-maniac
 
-[![Stars](https://img.shields.io/github/stars/thomaskioko/tv-maniac?style=flat-square&color=yellow)](https://github.com/thomaskioko/tv-maniac/stargazers) [![Forks](https://img.shields.io/github/forks/thomaskioko/tv-maniac?style=flat-square&color=blue)](https://github.com/thomaskioko/tv-maniac/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thomaskioko/tv-maniac?style=flat-square&color=yellow)](https://github.com/thomaskioko/tv-maniac/stargazers) [![Forks](https://img.shields.io/github/forks/thomaskioko/tv-maniac?style=flat-square&color=blue)](https://github.com/thomaskioko/tv-maniac/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Tv‑Maniac 是一款基于 TMDB API 的跨平台（Android & iOS）娱乐�
 | forks | 40/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Codeturion/unity-api-mcp
 
-[![Stars](https://img.shields.io/github/stars/Codeturion/unity-api-mcp?style=flat-square&color=yellow)](https://github.com/Codeturion/unity-api-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Codeturion/unity-api-mcp?style=flat-square&color=blue)](https://github.com/Codeturion/unity-api-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Codeturion/unity-api-mcp?style=flat-square&color=yellow)](https://github.com/Codeturion/unity-api-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Codeturion/unity-api-mcp?style=flat-square&color=blue)](https://github.com/Codeturion/unity-api-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Instant, accurate Unity API lookups instead of expensive source file reads, saving your agent tokens, context, and hallucinations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ Codeturion/unity-api-mcp 在生产环境中具有较高的可用性，主要原�
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

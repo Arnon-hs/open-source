@@ -1,6 +1,6 @@
 # yancyuu/Hermit
 
-[![Stars](https://img.shields.io/github/stars/yancyuu/Hermit?style=flat-square&color=yellow)](https://github.com/yancyuu/Hermit/stargazers) [![Forks](https://img.shields.io/github/forks/yancyuu/Hermit?style=flat-square&color=blue)](https://github.com/yancyuu/Hermit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yancyuu/Hermit?style=flat-square&color=yellow)](https://github.com/yancyuu/Hermit/stargazers) [![Forks](https://img.shields.io/github/forks/yancyuu/Hermit?style=flat-square&color=blue)](https://github.com/yancyuu/Hermit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 给一人公司和小团队用的本地 AI Agent 控制台 把 Claude Code、Codex、Gemini、Qoder 等 Agent 放进同一个看板、消息和审查流程里。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Hermit（yancyuu/Hermit）是一款面向“一人公司”和小团队的本地
 | forks | 12/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

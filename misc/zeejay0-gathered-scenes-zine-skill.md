@@ -1,6 +1,6 @@
 # Zeejay0/gathered-scenes-zine-skill
 
-[![Stars](https://img.shields.io/github/stars/Zeejay0/gathered-scenes-zine-skill?style=flat-square&color=yellow)](https://github.com/Zeejay0/gathered-scenes-zine-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Zeejay0/gathered-scenes-zine-skill?style=flat-square&color=blue)](https://github.com/Zeejay0/gathered-scenes-zine-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zeejay0/gathered-scenes-zine-skill?style=flat-square&color=yellow)](https://github.com/Zeejay0/gathered-scenes-zine-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Zeejay0/gathered-scenes-zine-skill?style=flat-square&color=blue)](https://github.com/Zeejay0/gathered-scenes-zine-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 506 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ Zeejay0/gathered-scenes-zine-skill 是一个开源项目，分数为 50/100。�
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 53/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

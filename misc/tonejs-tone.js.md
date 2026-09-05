@@ -1,6 +1,6 @@
 # Tonejs/Tone.js
 
-[![Stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=flat-square&color=yellow)](https://github.com/Tonejs/Tone.js/stargazers) [![Forks](https://img.shields.io/github/forks/Tonejs/Tone.js?style=flat-square&color=blue)](https://github.com/Tonejs/Tone.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=flat-square&color=yellow)](https://github.com/Tonejs/Tone.js/stargazers) [![Forks](https://img.shields.io/github/forks/Tonejs/Tone.js?style=flat-square&color=blue)](https://github.com/Tonejs/Tone.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Web Audio framework for making interactive music in the browser.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Tonejs/Tone.js 的生产可用性很高，主要原因是：
 | forks | 76/100 |
 | stars | 89/100 |
 | topics | 88/100 |
-| outlook | 66/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

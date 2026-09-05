@@ -1,6 +1,6 @@
 # al8n/memberlist
 
-[![Stars](https://img.shields.io/github/stars/al8n/memberlist?style=flat-square&color=yellow)](https://github.com/al8n/memberlist/stargazers) [![Forks](https://img.shields.io/github/forks/al8n/memberlist?style=flat-square&color=blue)](https://github.com/al8n/memberlist/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/al8n/memberlist?style=flat-square&color=yellow)](https://github.com/al8n/memberlist/stargazers) [![Forks](https://img.shields.io/github/forks/al8n/memberlist?style=flat-square&color=blue)](https://github.com/al8n/memberlist/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Gossip protocol (SWIM) which helps manage cluster membership and member failure detection.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ al8n/memberlist 是一个基于 SWIM 协议的轻量级集群成员管理库，�
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

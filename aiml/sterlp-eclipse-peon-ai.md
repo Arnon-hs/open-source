@@ -1,6 +1,6 @@
 # sterlp/eclipse-peon-ai
 
-[![Stars](https://img.shields.io/github/stars/sterlp/eclipse-peon-ai?style=flat-square&color=yellow)](https://github.com/sterlp/eclipse-peon-ai/stargazers) [![Forks](https://img.shields.io/github/forks/sterlp/eclipse-peon-ai?style=flat-square&color=blue)](https://github.com/sterlp/eclipse-peon-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sterlp/eclipse-peon-ai?style=flat-square&color=yellow)](https://github.com/sterlp/eclipse-peon-ai/stargazers) [![Forks](https://img.shields.io/github/forks/sterlp/eclipse-peon-ai?style=flat-square&color=blue)](https://github.com/sterlp/eclipse-peon-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI harness for and with Eclipse IDE with the focus on offline LLM with llama.cpp. Build with LangChain4J. Supports Ollama, LM Studio, llama.cpp, unsloth or cloud providers like with OpenA API, Anthropic Claude, Google Gemini, Mistral, GitHub Copilot. Contributions are highly welcome!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ Here's a brief summary of the sterlp/eclipse-peon-ai project:
 | forks | 23/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

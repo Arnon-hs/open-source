@@ -1,6 +1,6 @@
 # yt-dlp/yt-dlp
 
-[![Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&color=yellow)](https://github.com/yt-dlp/yt-dlp/stargazers) [![Forks](https://img.shields.io/github/forks/yt-dlp/yt-dlp?style=flat-square&color=blue)](https://github.com/yt-dlp/yt-dlp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&color=yellow)](https://github.com/yt-dlp/yt-dlp/stargazers) [![Forks](https://img.shields.io/github/forks/yt-dlp/yt-dlp?style=flat-square&color=blue)](https://github.com/yt-dlp/yt-dlp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A feature-rich command-line audio/video downloader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173.5k |
 | 🍴 **Forks** | 14.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ yt‑dlp 是一个功能丰富的命令行音视频下载器，基于 Python 实
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 88/100 |
-| outlook | 69/100 |
-| quality | 83/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 65/100 |
+| production | 79/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

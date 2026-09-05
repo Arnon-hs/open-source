@@ -1,6 +1,6 @@
 # mobileAiDev/ai-app-bridge
 
-[![Stars](https://img.shields.io/github/stars/mobileAiDev/ai-app-bridge?style=flat-square&color=yellow)](https://github.com/mobileAiDev/ai-app-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/mobileAiDev/ai-app-bridge?style=flat-square&color=blue)](https://github.com/mobileAiDev/ai-app-bridge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mobileAiDev/ai-app-bridge?style=flat-square&color=yellow)](https://github.com/mobileAiDev/ai-app-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/mobileAiDev/ai-app-bridge?style=flat-square&color=blue)](https://github.com/mobileAiDev/ai-app-bridge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AI App Bridge is a runtime bridge for AI agents to close the loop on mobile app iteration: inspect the running app, operate UI and WebView surfaces, collect structured runtime state, verify results, and continue improving the app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ AI App Bridge 的生产可用性为中等。由于其依赖项和维护成本较
 | forks | 19/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

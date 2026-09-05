@@ -1,6 +1,6 @@
 # Fly143/ultimate-novel-creation-skill
 
-[![Stars](https://img.shields.io/github/stars/Fly143/ultimate-novel-creation-skill?style=flat-square&color=yellow)](https://github.com/Fly143/ultimate-novel-creation-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Fly143/ultimate-novel-creation-skill?style=flat-square&color=blue)](https://github.com/Fly143/ultimate-novel-creation-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fly143/ultimate-novel-creation-skill?style=flat-square&color=yellow)](https://github.com/Fly143/ultimate-novel-creation-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Fly143/ultimate-novel-creation-skill?style=flat-square&color=blue)](https://github.com/Fly143/ultimate-novel-creation-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 AI Agent 的全流程长篇小说创作技能。从书名生成到千章完稿，配备三大自动系统（记忆系统/强约束/叙事质量管理）确保长篇连贯性。支持 AI 全自动和分步引导双模式。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Fly143/ultimate-novel-creation-skill 帮助开发者在不从零开始创造模�
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

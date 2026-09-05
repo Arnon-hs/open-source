@@ -1,6 +1,6 @@
 # netbox-community/devicetype-library
 
-[![Stars](https://img.shields.io/github/stars/netbox-community/devicetype-library?style=flat-square&color=yellow)](https://github.com/netbox-community/devicetype-library/stargazers) [![Forks](https://img.shields.io/github/forks/netbox-community/devicetype-library?style=flat-square&color=blue)](https://github.com/netbox-community/devicetype-library/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netbox-community/devicetype-library?style=flat-square&color=yellow)](https://github.com/netbox-community/devicetype-library/stargazers) [![Forks](https://img.shields.io/github/forks/netbox-community/devicetype-library?style=flat-square&color=blue)](https://github.com/netbox-community/devicetype-library/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of community-sourced DeviceType definitions for import to NetBox
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ netbox-community/devicetype-library 是一个开源项目，提供了一个社�
 | forks | 78/100 |
 | stars | 68/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

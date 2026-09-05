@@ -1,6 +1,6 @@
 # podman-desktop/podman-desktop
 
-[![Stars](https://img.shields.io/github/stars/podman-desktop/podman-desktop?style=flat-square&color=yellow)](https://github.com/podman-desktop/podman-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/podman-desktop/podman-desktop?style=flat-square&color=blue)](https://github.com/podman-desktop/podman-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/podman-desktop/podman-desktop?style=flat-square&color=yellow)](https://github.com/podman-desktop/podman-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/podman-desktop/podman-desktop?style=flat-square&color=blue)](https://github.com/podman-desktop/podman-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.7k |
 | 🍴 **Forks** | 519 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Podman Desktop 为开发者提供了一个本地、图形化的容器与 Kuberne
 | forks | 68/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

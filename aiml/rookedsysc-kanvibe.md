@@ -1,6 +1,6 @@
 # rookedsysc/kanvibe
 
-[![Stars](https://img.shields.io/github/stars/rookedsysc/kanvibe?style=flat-square&color=yellow)](https://github.com/rookedsysc/kanvibe/stargazers) [![Forks](https://img.shields.io/github/forks/rookedsysc/kanvibe?style=flat-square&color=blue)](https://github.com/rookedsysc/kanvibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rookedsysc/kanvibe?style=flat-square&color=yellow)](https://github.com/rookedsysc/kanvibe/stargazers) [![Forks](https://img.shields.io/github/forks/rookedsysc/kanvibe?style=flat-square&color=blue)](https://github.com/rookedsysc/kanvibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Kanban board with browser terminals for AI coding agents. Hook-driven auto-tracking — manage tmux/zellij sessions and git worktrees from one board.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ rookedsysc/kanvibe 是一款自托管的看板工具，内置浏览器终端，�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 48/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

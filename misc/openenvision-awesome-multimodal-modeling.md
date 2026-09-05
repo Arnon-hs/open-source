@@ -1,6 +1,6 @@
 # OpenEnvision/Awesome-Multimodal-Modeling
 
-[![Stars](https://img.shields.io/github/stars/OpenEnvision/Awesome-Multimodal-Modeling?style=flat-square&color=yellow)](https://github.com/OpenEnvision/Awesome-Multimodal-Modeling/stargazers) [![Forks](https://img.shields.io/github/forks/OpenEnvision/Awesome-Multimodal-Modeling?style=flat-square&color=blue)](https://github.com/OpenEnvision/Awesome-Multimodal-Modeling/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenEnvision/Awesome-Multimodal-Modeling?style=flat-square&color=yellow)](https://github.com/OpenEnvision/Awesome-Multimodal-Modeling/stargazers) [![Forks](https://img.shields.io/github/forks/OpenEnvision/Awesome-Multimodal-Modeling?style=flat-square&color=blue)](https://github.com/OpenEnvision/Awesome-Multimodal-Modeling/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Multimodal Modeling [Covers MLLM, UMM, and NMM]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Awesome Multimodal Modeling 是一个开源项目，旨在提供多模态模型�
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mnemox-ai/tradememory-protocol
 
-[![Stars](https://img.shields.io/github/stars/mnemox-ai/tradememory-protocol?style=flat-square&color=yellow)](https://github.com/mnemox-ai/tradememory-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/mnemox-ai/tradememory-protocol?style=flat-square&color=blue)](https://github.com/mnemox-ai/tradememory-protocol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mnemox-ai/tradememory-protocol?style=flat-square&color=yellow)](https://github.com/mnemox-ai/tradememory-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/mnemox-ai/tradememory-protocol?style=flat-square&color=blue)](https://github.com/mnemox-ai/tradememory-protocol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, SHA-256 tamper detection, 17 MCP tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 887 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ mnemox‑ai/tradememory‑protocol 为 AI 交易代理提供决策审计链 + �
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

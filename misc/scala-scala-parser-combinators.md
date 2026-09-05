@@ -1,6 +1,6 @@
 # scala/scala-parser-combinators
 
-[![Stars](https://img.shields.io/github/stars/scala/scala-parser-combinators?style=flat-square&color=yellow)](https://github.com/scala/scala-parser-combinators/stargazers) [![Forks](https://img.shields.io/github/forks/scala/scala-parser-combinators?style=flat-square&color=blue)](https://github.com/scala/scala-parser-combinators/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scala/scala-parser-combinators?style=flat-square&color=yellow)](https://github.com/scala/scala-parser-combinators/stargazers) [![Forks](https://img.shields.io/github/forks/scala/scala-parser-combinators?style=flat-square&color=blue)](https://github.com/scala/scala-parser-combinators/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 678 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ scala/scala-parser-combinators 的生产可用性为中等。它适用于原型�
 | forks | 53/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

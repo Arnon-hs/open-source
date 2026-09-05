@@ -1,6 +1,6 @@
 # microlinkhq/unavatar
 
-[![Stars](https://img.shields.io/github/stars/microlinkhq/unavatar?style=flat-square&color=yellow)](https://github.com/microlinkhq/unavatar/stargazers) [![Forks](https://img.shields.io/github/forks/microlinkhq/unavatar?style=flat-square&color=blue)](https://github.com/microlinkhq/unavatar/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microlinkhq/unavatar?style=flat-square&color=yellow)](https://github.com/microlinkhq/unavatar/stargazers) [![Forks](https://img.shields.io/github/forks/microlinkhq/unavatar?style=flat-square&color=blue)](https://github.com/microlinkhq/unavatar/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ microlinkhq/unavatar 的生产可用性为中等。它适合用于原型或内�
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

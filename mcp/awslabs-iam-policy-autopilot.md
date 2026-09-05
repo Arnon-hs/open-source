@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Security
+MCP · Cloud & Storage · Backend · DevTools · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ awslabs/iam-policy-autopilot：awslabs/iam-policy-autopilot helps connect AI ass
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

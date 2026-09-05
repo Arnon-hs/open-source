@@ -1,6 +1,6 @@
 # uptonking/note4yaoo
 
-[![Stars](https://img.shields.io/github/stars/uptonking/note4yaoo?style=flat-square&color=yellow)](https://github.com/uptonking/note4yaoo/stargazers) [![Forks](https://img.shields.io/github/forks/uptonking/note4yaoo?style=flat-square&color=blue)](https://github.com/uptonking/note4yaoo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uptonking/note4yaoo?style=flat-square&color=yellow)](https://github.com/uptonking/note4yaoo/stargazers) [![Forks](https://img.shields.io/github/forks/uptonking/note4yaoo?style=flat-square&color=blue)](https://github.com/uptonking/note4yaoo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > daily notes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ uptonking/note4yaoo 是一个面向日常记录的轻量化工具，能够把手
 | forks | 36/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

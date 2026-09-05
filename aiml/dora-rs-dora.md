@@ -1,6 +1,6 @@
 # dora-rs/dora
 
-[![Stars](https://img.shields.io/github/stars/dora-rs/dora?style=flat-square&color=yellow)](https://github.com/dora-rs/dora/stargazers) [![Forks](https://img.shields.io/github/forks/dora-rs/dora?style=flat-square&color=blue)](https://github.com/dora-rs/dora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dora-rs/dora?style=flat-square&color=yellow)](https://github.com/dora-rs/dora/stargazers) [![Forks](https://img.shields.io/github/forks/dora-rs/dora?style=flat-square&color=blue)](https://github.com/dora-rs/dora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 396 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ DORA（Dataflow‑Oriented Robotic Architecture）是基于 Rust 的中间件，
 | forks | 65/100 |
 | stars | 76/100 |
 | topics | 63/100 |
-| outlook | 50/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

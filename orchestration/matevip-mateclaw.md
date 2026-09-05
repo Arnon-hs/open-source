@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ matevip/mateclaw：matevip/mateclaw helps turn isolated prompts and tools into r
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

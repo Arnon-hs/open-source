@@ -1,6 +1,6 @@
 # saltyorg/Saltbox
 
-[![Stars](https://img.shields.io/github/stars/saltyorg/Saltbox?style=flat-square&color=yellow)](https://github.com/saltyorg/Saltbox/stargazers) [![Forks](https://img.shields.io/github/forks/saltyorg/Saltbox?style=flat-square&color=blue)](https://github.com/saltyorg/Saltbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saltyorg/Saltbox?style=flat-square&color=yellow)](https://github.com/saltyorg/Saltbox/stargazers) [![Forks](https://img.shields.io/github/forks/saltyorg/Saltbox?style=flat-square&color=blue)](https://github.com/saltyorg/Saltbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 857 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Saltbox 是基于 Ansible 的开源工具，能够快速在 Docker 中部署完�
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

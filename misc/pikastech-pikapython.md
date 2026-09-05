@@ -1,6 +1,6 @@
 # pikasTech/PikaPython
 
-[![Stars](https://img.shields.io/github/stars/pikasTech/PikaPython?style=flat-square&color=yellow)](https://github.com/pikasTech/PikaPython/stargazers) [![Forks](https://img.shields.io/github/forks/pikasTech/PikaPython?style=flat-square&color=blue)](https://github.com/pikasTech/PikaPython/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pikasTech/PikaPython?style=flat-square&color=yellow)](https://github.com/pikasTech/PikaPython/stargazers) [![Forks](https://img.shields.io/github/forks/pikasTech/PikaPython?style=flat-square&color=blue)](https://github.com/pikasTech/PikaPython/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ pikasTech/PikaPython 的生产可用性较高，理由包括：
 | forks | 56/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

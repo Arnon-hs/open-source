@@ -1,6 +1,6 @@
 # nextcloud/passman
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/passman?style=flat-square&color=yellow)](https://github.com/nextcloud/passman/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/passman?style=flat-square&color=blue)](https://github.com/nextcloud/passman/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/passman?style=flat-square&color=yellow)](https://github.com/nextcloud/passman/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/passman?style=flat-square&color=blue)](https://github.com/nextcloud/passman/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐 Open source password manager with Nextcloud integration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 821 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ nextcloud/passman 是一款开源密码管理器，专为 Nextcloud 环境设计
 | forks | 52/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

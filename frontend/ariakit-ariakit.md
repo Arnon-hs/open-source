@@ -1,6 +1,6 @@
 # ariakit/ariakit
 
-[![Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=flat-square&color=yellow)](https://github.com/ariakit/ariakit/stargazers) [![Forks](https://img.shields.io/github/forks/ariakit/ariakit?style=flat-square&color=blue)](https://github.com/ariakit/ariakit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=flat-square&color=yellow)](https://github.com/ariakit/ariakit/stargazers) [![Forks](https://img.shields.io/github/forks/ariakit/ariakit?style=flat-square&color=blue)](https://github.com/ariakit/ariakit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Toolkit with accessible components, styles, and examples for your next web app
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 408 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ariakit 是一个基于 TypeScript 的前端工具库，提供可访问性完备
 | forks | 65/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

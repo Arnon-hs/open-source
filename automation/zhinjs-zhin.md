@@ -1,6 +1,6 @@
 # zhinjs/zhin
 
-[![Stars](https://img.shields.io/github/stars/zhinjs/zhin?style=flat-square&color=yellow)](https://github.com/zhinjs/zhin/stargazers) [![Forks](https://img.shields.io/github/forks/zhinjs/zhin?style=flat-square&color=blue)](https://github.com/zhinjs/zhin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhinjs/zhin?style=flat-square&color=yellow)](https://github.com/zhinjs/zhin/stargazers) [![Forks](https://img.shields.io/github/forks/zhinjs/zhin?style=flat-square&color=blue)](https://github.com/zhinjs/zhin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > a chat bot framework for Node.js developers, compatible with qq、icqq、wechat、discord、onebot(11/12)、dingtalk and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools
+Automation · Communication · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ zhinjs/zhin 是一款面向 Node.js 开发者的聊天机器人框架，内置�
 | forks | 30/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 49/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

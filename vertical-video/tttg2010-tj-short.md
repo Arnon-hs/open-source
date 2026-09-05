@@ -1,6 +1,6 @@
 # tttg2010/tj-short
 
-[![Stars](https://img.shields.io/github/stars/tttg2010/tj-short?style=flat-square&color=yellow)](https://github.com/tttg2010/tj-short/stargazers) [![Forks](https://img.shields.io/github/forks/tttg2010/tj-short?style=flat-square&color=blue)](https://github.com/tttg2010/tj-short/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tttg2010/tj-short?style=flat-square&color=yellow)](https://github.com/tttg2010/tj-short/stargazers) [![Forks](https://img.shields.io/github/forks/tttg2010/tj-short?style=flat-square&color=blue)](https://github.com/tttg2010/tj-short/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Codex 短剧带货 Skill：产品图到人物备案板、4×3 首帧宫格与 Seedance2 / omni_flash / Veo 图生视频。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ tttg2010/tj-short：tttg2010/tj-short helps automate short-form video production
 | forks | 0/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 57/100 |
-| recency | 80/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 17/100 |
-| production | 64/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

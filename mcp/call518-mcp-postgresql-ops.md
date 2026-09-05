@@ -1,6 +1,6 @@
 # call518/MCP-PostgreSQL-Ops
 
-[![Stars](https://img.shields.io/github/stars/call518/MCP-PostgreSQL-Ops?style=flat-square&color=yellow)](https://github.com/call518/MCP-PostgreSQL-Ops/stargazers) [![Forks](https://img.shields.io/github/forks/call518/MCP-PostgreSQL-Ops?style=flat-square&color=blue)](https://github.com/call518/MCP-PostgreSQL-Ops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/call518/MCP-PostgreSQL-Ops?style=flat-square&color=yellow)](https://github.com/call518/MCP-PostgreSQL-Ops/stargazers) [![Forks](https://img.shields.io/github/forks/call518/MCP-PostgreSQL-Ops?style=flat-square&color=blue)](https://github.com/call518/MCP-PostgreSQL-Ops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🐘 Give AI assistants full PostgreSQL DBA superpowers — 30+ tools for performance analysis, bloat detection, lock/deadlock monitoring, autovacuum & schema inspection. No extensions required. PG 12-18.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ call518/MCP-PostgreSQL-Ops 的价值在于，它可以帮助将孤立的提示�
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

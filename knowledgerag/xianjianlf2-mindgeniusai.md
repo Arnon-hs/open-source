@@ -1,6 +1,6 @@
 # xianjianlf2/MindGeniusAI
 
-[![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat-square&color=yellow)](https://github.com/xianjianlf2/MindGeniusAI/stargazers) [![Forks](https://img.shields.io/github/forks/xianjianlf2/MindGeniusAI?style=flat-square&color=blue)](https://github.com/xianjianlf2/MindGeniusAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat-square&color=yellow)](https://github.com/xianjianlf2/MindGeniusAI/stargazers) [![Forks](https://img.shields.io/github/forks/xianjianlf2/MindGeniusAI?style=flat-square&color=blue)](https://github.com/xianjianlf2/MindGeniusAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent that reads your PDFs and draws editable mind maps — visible tool-calling loop, built-in RAG, bring-your-own-key, multi-provider (OpenAI / Claude / DeepSeek / Kimi). Self-hostable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 276 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend
+Knowledge/RAG · AI/ML · Frontend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ MindGeniusAI（xianjianlf2/MindGeniusAI）是一款开源的 AI 助手，能够�
 | forks | 44/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aspect-build/aspect-cli
 
-[![Stars](https://img.shields.io/github/stars/aspect-build/aspect-cli?style=flat-square&color=yellow)](https://github.com/aspect-build/aspect-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aspect-build/aspect-cli?style=flat-square&color=blue)](https://github.com/aspect-build/aspect-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aspect-build/aspect-cli?style=flat-square&color=yellow)](https://github.com/aspect-build/aspect-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aspect-build/aspect-cli?style=flat-square&color=blue)](https://github.com/aspect-build/aspect-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > { Correct, Fast, Usable } -- Choose three
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ aspect-build/aspect-cli 是一款基于 Rust 的前端开发工具，旨在让�
 | forks | 41/100 |
 | stars | 47/100 |
 | topics | 25/100 |
-| outlook | 42/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

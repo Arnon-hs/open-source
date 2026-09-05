@@ -1,6 +1,6 @@
 # kdcokenny/opencode-background-agents
 
-[![Stars](https://img.shields.io/github/stars/kdcokenny/opencode-background-agents?style=flat-square&color=yellow)](https://github.com/kdcokenny/opencode-background-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kdcokenny/opencode-background-agents?style=flat-square&color=blue)](https://github.com/kdcokenny/opencode-background-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kdcokenny/opencode-background-agents?style=flat-square&color=yellow)](https://github.com/kdcokenny/opencode-background-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kdcokenny/opencode-background-agents?style=flat-square&color=blue)](https://github.com/kdcokenny/opencode-background-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code-style background agents for OpenCode – async delegation with context persistence
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ kdcokenny/opencode‑background‑agents 是一套基于 Claude Code 风格的 *
 | forks | 31/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

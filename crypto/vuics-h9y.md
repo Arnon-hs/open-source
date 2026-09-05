@@ -1,6 +1,6 @@
 # vuics/h9y
 
-[![Stars](https://img.shields.io/github/stars/vuics/h9y?style=flat-square&color=yellow)](https://github.com/vuics/h9y/stargazers) [![Forks](https://img.shields.io/github/forks/vuics/h9y?style=flat-square&color=blue)](https://github.com/vuics/h9y/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vuics/h9y?style=flat-square&color=yellow)](https://github.com/vuics/h9y/stargazers) [![Forks](https://img.shields.io/github/forks/vuics/h9y?style=flat-square&color=blue)](https://github.com/vuics/h9y/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > HyperAgency (h9y.ai) is agentic AI operating system that replaces brittle/fragmented automations with long-lived, self-improving systems. Open-source, self-host & cloud, omni-channel, decentralized, web3 marketplace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ vuics/h9y 适合作为 **Web3 工作流原型** 与 **区块链集成审计** �
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

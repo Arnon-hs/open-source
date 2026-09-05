@@ -1,6 +1,6 @@
 # kieranklaassen/riffrec
 
-[![Stars](https://img.shields.io/github/stars/kieranklaassen/riffrec?style=flat-square&color=yellow)](https://github.com/kieranklaassen/riffrec/stargazers) [![Forks](https://img.shields.io/github/forks/kieranklaassen/riffrec?style=flat-square&color=blue)](https://github.com/kieranklaassen/riffrec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kieranklaassen/riffrec?style=flat-square&color=yellow)](https://github.com/kieranklaassen/riffrec/stargazers) [![Forks](https://img.shields.io/github/forks/kieranklaassen/riffrec?style=flat-square&color=blue)](https://github.com/kieranklaassen/riffrec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Capture golden product feedback sessions with screen, voice, DOM, network, and console context for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ kieranklaassen/riffrec是一个开源项目，用于捕获金色产品反馈会�
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 40/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

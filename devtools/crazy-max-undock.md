@@ -1,6 +1,6 @@
 # crazy-max/undock
 
-[![Stars](https://img.shields.io/github/stars/crazy-max/undock?style=flat-square&color=yellow)](https://github.com/crazy-max/undock/stargazers) [![Forks](https://img.shields.io/github/forks/crazy-max/undock?style=flat-square&color=blue)](https://github.com/crazy-max/undock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crazy-max/undock?style=flat-square&color=yellow)](https://github.com/crazy-max/undock/stargazers) [![Forks](https://img.shields.io/github/forks/crazy-max/undock?style=flat-square&color=blue)](https://github.com/crazy-max/undock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Extract contents of a container image in a local folder
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ crazy-max/undock 的生产可用性非常高，主要原因是其最近的活动
 | forks | 31/100 |
 | stars | 50/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

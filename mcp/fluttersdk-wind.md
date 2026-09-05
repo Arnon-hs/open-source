@@ -1,6 +1,6 @@
 # fluttersdk/wind
 
-[![Stars](https://img.shields.io/github/stars/fluttersdk/wind?style=flat-square&color=yellow)](https://github.com/fluttersdk/wind/stargazers) [![Forks](https://img.shields.io/github/forks/fluttersdk/wind?style=flat-square&color=blue)](https://github.com/fluttersdk/wind/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluttersdk/wind?style=flat-square&color=yellow)](https://github.com/fluttersdk/wind/stargazers) [![Forks](https://img.shields.io/github/forks/fluttersdk/wind?style=flat-square&color=blue)](https://github.com/fluttersdk/wind/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Tailwind CSS for Flutter — classes like flex, p-4, dark:bg-gray-800 compose into widget trees. MCP server + Claude Code skill for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ fluttersdk/wind 是为 Flutter 打造的 Tailwind‑CSS 风格工具库，提供
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

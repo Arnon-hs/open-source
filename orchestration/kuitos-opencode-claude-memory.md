@@ -1,6 +1,6 @@
 # kuitos/opencode-claude-memory
 
-[![Stars](https://img.shields.io/github/stars/kuitos/opencode-claude-memory?style=flat-square&color=yellow)](https://github.com/kuitos/opencode-claude-memory/stargazers) [![Forks](https://img.shields.io/github/forks/kuitos/opencode-claude-memory?style=flat-square&color=blue)](https://github.com/kuitos/opencode-claude-memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kuitos/opencode-claude-memory?style=flat-square&color=yellow)](https://github.com/kuitos/opencode-claude-memory/stargazers) [![Forks](https://img.shields.io/github/forks/kuitos/opencode-claude-memory?style=flat-square&color=blue)](https://github.com/kuitos/opencode-claude-memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode plugin for Claude Code memory: persistent local Markdown memory shared with Claude Code, zero config, no migration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ kuitos/opencode-claude-memory 的生产可用性为中等（Medium），适合�
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

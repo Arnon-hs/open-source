@@ -1,6 +1,6 @@
 # LearningOS/os-lectures
 
-[![Stars](https://img.shields.io/github/stars/LearningOS/os-lectures?style=flat-square&color=yellow)](https://github.com/LearningOS/os-lectures/stargazers) [![Forks](https://img.shields.io/github/forks/LearningOS/os-lectures?style=flat-square&color=blue)](https://github.com/LearningOS/os-lectures/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LearningOS/os-lectures?style=flat-square&color=yellow)](https://github.com/LearningOS/os-lectures/stargazers) [![Forks](https://img.shields.io/github/forks/LearningOS/os-lectures?style=flat-square&color=blue)](https://github.com/LearningOS/os-lectures/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > https://learningos.cn/os-lectures/ 2026年春季OS课程Slides\实验指导\思维导图\挑战项目等
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 791 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ LearningOS / os‑lectures 是一套面向 2026 年春季操作系统课程�
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

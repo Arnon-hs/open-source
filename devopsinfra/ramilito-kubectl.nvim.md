@@ -1,6 +1,6 @@
 # Ramilito/kubectl.nvim
 
-[![Stars](https://img.shields.io/github/stars/Ramilito/kubectl.nvim?style=flat-square&color=yellow)](https://github.com/Ramilito/kubectl.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Ramilito/kubectl.nvim?style=flat-square&color=blue)](https://github.com/Ramilito/kubectl.nvim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ramilito/kubectl.nvim?style=flat-square&color=yellow)](https://github.com/Ramilito/kubectl.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Ramilito/kubectl.nvim?style=flat-square&color=blue)](https://github.com/Ramilito/kubectl.nvim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ Ramilito/kubectl.nvim 的生产可用性为中等（Medium）。它适合用于�
 | forks | 33/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

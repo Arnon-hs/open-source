@@ -1,6 +1,6 @@
 # QL-Win/QuickLook
 
-[![Stars](https://img.shields.io/github/stars/QL-Win/QuickLook?style=flat-square&color=yellow)](https://github.com/QL-Win/QuickLook/stargazers) [![Forks](https://img.shields.io/github/forks/QL-Win/QuickLook?style=flat-square&color=blue)](https://github.com/QL-Win/QuickLook/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QL-Win/QuickLook?style=flat-square&color=yellow)](https://github.com/QL-Win/QuickLook/stargazers) [![Forks](https://img.shields.io/github/forks/QL-Win/QuickLook?style=flat-square&color=blue)](https://github.com/QL-Win/QuickLook/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Bring macOS “Quick Look” feature to Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ QL‑Win / QuickLook 为 Windows 移植了 macOS 的 “Quick Look” 预览功�
 | forks | 77/100 |
 | stars | 93/100 |
 | topics | 13/100 |
-| outlook | 49/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

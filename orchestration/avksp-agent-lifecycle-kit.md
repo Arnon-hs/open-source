@@ -1,6 +1,6 @@
 # avksp/agent-lifecycle-kit
 
-[![Stars](https://img.shields.io/github/stars/avksp/agent-lifecycle-kit?style=flat-square&color=yellow)](https://github.com/avksp/agent-lifecycle-kit/stargazers) [![Forks](https://img.shields.io/github/forks/avksp/agent-lifecycle-kit?style=flat-square&color=blue)](https://github.com/avksp/agent-lifecycle-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avksp/agent-lifecycle-kit?style=flat-square&color=yellow)](https://github.com/avksp/agent-lifecycle-kit/stargazers) [![Forks](https://img.shields.io/github/forks/avksp/agent-lifecycle-kit?style=flat-square&color=blue)](https://github.com/avksp/agent-lifecycle-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Provider-neutral lifecycle kit for agentic software delivery: reviewed SDD planning, budgeted execution, adapter conformance, safe host inspection, independent audits, and final proof.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ avksp/agent-lifecycle-kit 的主要价值在于帮助开发人员将孤立的提
 | forks | 8/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 19/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

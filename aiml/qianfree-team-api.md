@@ -1,6 +1,6 @@
 # qianfree/team-api
 
-[![Stars](https://img.shields.io/github/stars/qianfree/team-api?style=flat-square&color=yellow)](https://github.com/qianfree/team-api/stargazers) [![Forks](https://img.shields.io/github/forks/qianfree/team-api?style=flat-square&color=blue)](https://github.com/qianfree/team-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qianfree/team-api?style=flat-square&color=yellow)](https://github.com/qianfree/team-api/stargazers) [![Forks](https://img.shields.io/github/forks/qianfree/team-api?style=flat-square&color=blue)](https://github.com/qianfree/team-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Team-API 专为团队、组织、企业打造的多租户大模型 API网关。支持Claude/Gemini/OpenAI/DeepSeek/Seedance 2.0等主流模型。 具备完整权限管理与审计能力，助力团队更好地使用AI大模型。QQ交流群：1095286563
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -137,11 +137,11 @@ Team‑API（qianfree/team-api）是一款面向团队、组织和企业的多�
 | forks | 26/100 |
 | stars | 31/100 |
 | topics | 75/100 |
-| outlook | 51/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

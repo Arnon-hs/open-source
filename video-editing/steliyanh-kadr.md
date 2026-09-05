@@ -1,6 +1,6 @@
 # SteliyanH/kadr
 
-[![Stars](https://img.shields.io/github/stars/SteliyanH/kadr?style=flat-square&color=yellow)](https://github.com/SteliyanH/kadr/stargazers) [![Forks](https://img.shields.io/github/forks/SteliyanH/kadr?style=flat-square&color=blue)](https://github.com/SteliyanH/kadr/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteliyanH/kadr?style=flat-square&color=yellow)](https://github.com/SteliyanH/kadr/stargazers) [![Forks](https://img.shields.io/github/forks/SteliyanH/kadr?style=flat-square&color=blue)](https://github.com/SteliyanH/kadr/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative video composition for Apple platforms — compose, transform, and export with a result-builder DSL and async/await.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ SteliyanH/kadr：SteliyanH/kadr helps turn media editing, captions, rendering, a
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

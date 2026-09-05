@@ -1,6 +1,6 @@
 # oceanbase/seekdb
 
-[![Stars](https://img.shields.io/github/stars/oceanbase/seekdb?style=flat-square&color=yellow)](https://github.com/oceanbase/seekdb/stargazers) [![Forks](https://img.shields.io/github/forks/oceanbase/seekdb?style=flat-square&color=blue)](https://github.com/oceanbase/seekdb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oceanbase/seekdb?style=flat-square&color=yellow)](https://github.com/oceanbase/seekdb/stargazers) [![Forks](https://img.shields.io/github/forks/oceanbase/seekdb?style=flat-square&color=blue)](https://github.com/oceanbase/seekdb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The AI-native state store for agents. MySQL-compatible, embedded or server, hybrid vector + full-text search, COW sandboxes (FORK/MERGE).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 253 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ oceanbase/seekdb 是面向 AI 代理的原生状态存储，兼容 MySQL、支�
 | forks | 60/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

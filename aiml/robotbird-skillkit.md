@@ -1,6 +1,6 @@
 # robotbird/skillkit
 
-[![Stars](https://img.shields.io/github/stars/robotbird/skillkit?style=flat-square&color=yellow)](https://github.com/robotbird/skillkit/stargazers) [![Forks](https://img.shields.io/github/forks/robotbird/skillkit?style=flat-square&color=blue)](https://github.com/robotbird/skillkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robotbird/skillkit?style=flat-square&color=yellow)](https://github.com/robotbird/skillkit/stargazers) [![Forks](https://img.shields.io/github/forks/robotbird/skillkit?style=flat-square&color=blue)](https://github.com/robotbird/skillkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent's skills manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ robotbird/skillkit 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 26/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 45/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

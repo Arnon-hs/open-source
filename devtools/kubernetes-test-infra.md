@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ Kubernetes /test‑infra provides the continuous‑integration, testing, and a
 
 ### 中文
 
-kubernetes/test-infra：kubernetes/test-infra helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kubernetes/test-infra：kubernetes/test-infra helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** kubernetes/test-infra helps engineers save time in daily development and review loops.
+**Value:** kubernetes/test-infra helps make deployment and operations more repeatable.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- standardize deployment
+- automate operations
+- improve platform reliability
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,17 +65,18 @@ kubernetes/test-infra：kubernetes/test-infra helps engineers save time in daily
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 47/100 |
-| adoption | 79/100 |
-| stars | 77/100 |
 | forks | 87/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 13/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

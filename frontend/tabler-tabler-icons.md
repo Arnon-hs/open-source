@@ -1,6 +1,6 @@
 # tabler/tabler-icons
 
-[![Stars](https://img.shields.io/github/stars/tabler/tabler-icons?style=flat-square&color=yellow)](https://github.com/tabler/tabler-icons/stargazers) [![Forks](https://img.shields.io/github/forks/tabler/tabler-icons?style=flat-square&color=blue)](https://github.com/tabler/tabler-icons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tabler/tabler-icons?style=flat-square&color=yellow)](https://github.com/tabler/tabler-icons/stargazers) [![Forks](https://img.shields.io/github/forks/tabler/tabler-icons?style=flat-square&color=blue)](https://github.com/tabler/tabler-icons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Tabler/Tabler-Icons 的生产可用性非常高，主要原因是：
 | forks | 77/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

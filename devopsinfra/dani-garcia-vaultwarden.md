@@ -1,6 +1,6 @@
 # dani-garcia/vaultwarden
 
-[![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&color=yellow)](https://github.com/dani-garcia/vaultwarden/stargazers) [![Forks](https://img.shields.io/github/forks/dani-garcia/vaultwarden?style=flat-square&color=blue)](https://github.com/dani-garcia/vaultwarden/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&color=yellow)](https://github.com/dani-garcia/vaultwarden/stargazers) [![Forks](https://img.shields.io/github/forks/dani-garcia/vaultwarden?style=flat-square&color=blue)](https://github.com/dani-garcia/vaultwarden/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63.5k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ vaultwarden 的生产可用性较高，主要原因是：
 | forks | 87/100 |
 | stars | 100/100 |
 | topics | 75/100 |
-| outlook | 64/100 |
-| quality | 80/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 96/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

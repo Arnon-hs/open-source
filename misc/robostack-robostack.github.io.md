@@ -1,6 +1,6 @@
 # RoboStack/robostack.github.io
 
-[![Stars](https://img.shields.io/github/stars/RoboStack/robostack.github.io?style=flat-square&color=yellow)](https://github.com/RoboStack/robostack.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/RoboStack/robostack.github.io?style=flat-square&color=blue)](https://github.com/RoboStack/robostack.github.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RoboStack/robostack.github.io?style=flat-square&color=yellow)](https://github.com/RoboStack/robostack.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/RoboStack/robostack.github.io?style=flat-square&color=blue)](https://github.com/RoboStack/robostack.github.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -71,11 +71,11 @@ RoboStack是开源项目，使用Python开发，目前有365个GitHub星标和33
 | forks | 38/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

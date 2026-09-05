@@ -1,6 +1,6 @@
 # sgl-project/sglang
 
-[![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&color=yellow)](https://github.com/sgl-project/sglang/stargazers) [![Forks](https://img.shields.io/github/forks/sgl-project/sglang?style=flat-square&color=blue)](https://github.com/sgl-project/sglang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&color=yellow)](https://github.com/sgl-project/sglang/stargazers) [![Forks](https://img.shields.io/github/forks/sgl-project/sglang?style=flat-square&color=blue)](https://github.com/sgl-project/sglang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > SGLang is a high-performance serving framework for large language models and multimodal models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.5k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ sgl-project/sglang：sgl-project/sglang helps add AI capability without starting
 | forks | 96/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 83/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 95/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

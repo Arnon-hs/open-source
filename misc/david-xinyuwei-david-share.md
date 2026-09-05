@@ -1,6 +1,6 @@
 # david-xinyuwei/david-share
 
-[![Stars](https://img.shields.io/github/stars/david-xinyuwei/david-share?style=flat-square&color=yellow)](https://github.com/david-xinyuwei/david-share/stargazers) [![Forks](https://img.shields.io/github/forks/david-xinyuwei/david-share?style=flat-square&color=blue)](https://github.com/david-xinyuwei/david-share/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/david-xinyuwei/david-share?style=flat-square&color=yellow)](https://github.com/david-xinyuwei/david-share/stargazers) [![Forks](https://img.shields.io/github/forks/david-xinyuwei/david-share?style=flat-square&color=blue)](https://github.com/david-xinyuwei/david-share/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ The project sits at a medium readiness level: it is actively maintained and popu
 | forks | 48/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

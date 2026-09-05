@@ -1,6 +1,6 @@
 # airbytehq/airbyte-platform
 
-[![Stars](https://img.shields.io/github/stars/airbytehq/airbyte-platform?style=flat-square&color=yellow)](https://github.com/airbytehq/airbyte-platform/stargazers) [![Forks](https://img.shields.io/github/forks/airbytehq/airbyte-platform?style=flat-square&color=blue)](https://github.com/airbytehq/airbyte-platform/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/airbytehq/airbyte-platform?style=flat-square&color=yellow)](https://github.com/airbytehq/airbyte-platform/stargazers) [![Forks](https://img.shields.io/github/forks/airbytehq/airbyte-platform?style=flat-square&color=blue)](https://github.com/airbytehq/airbyte-platform/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The platform that powers Airbyte. Please file issues in https://github.com/airbytehq/airbyte
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 358 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Airbyte Platform（`airbytehq/airbyte-platform`）是为 Airbyte 数据同步生
 | forks | 64/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

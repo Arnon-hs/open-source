@@ -1,6 +1,6 @@
 # neo4j-labs/llm-graph-builder
 
-[![Stars](https://img.shields.io/github/stars/neo4j-labs/llm-graph-builder?style=flat-square&color=yellow)](https://github.com/neo4j-labs/llm-graph-builder/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j-labs/llm-graph-builder?style=flat-square&color=blue)](https://github.com/neo4j-labs/llm-graph-builder/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neo4j-labs/llm-graph-builder?style=flat-square&color=yellow)](https://github.com/neo4j-labs/llm-graph-builder/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j-labs/llm-graph-builder?style=flat-square&color=blue)](https://github.com/neo4j-labs/llm-graph-builder/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Neo4j graph construction from unstructured data using LLMs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 842 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ neo4j‑labs/llm-graph-builder 是一个开源工具箱，利用大语言模型�
 | forks | 73/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

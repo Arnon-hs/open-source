@@ -1,6 +1,6 @@
 # edison7009/Coffee-CLI
 
-[![Stars](https://img.shields.io/github/stars/edison7009/Coffee-CLI?style=flat-square&color=yellow)](https://github.com/edison7009/Coffee-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/edison7009/Coffee-CLI?style=flat-square&color=blue)](https://github.com/edison7009/Coffee-CLI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edison7009/Coffee-CLI?style=flat-square&color=yellow)](https://github.com/edison7009/Coffee-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/edison7009/Coffee-CLI?style=flat-square&color=blue)](https://github.com/edison7009/Coffee-CLI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Off the games and dating. Something more interesting…
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Coffee‑CLI 是一个基于 Rust 实现的开发者工具，能够把零散的 
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

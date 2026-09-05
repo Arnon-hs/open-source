@@ -1,6 +1,6 @@
 # ZacharyL2/KeyEcho
 
-[![Stars](https://img.shields.io/github/stars/ZacharyL2/KeyEcho?style=flat-square&color=yellow)](https://github.com/ZacharyL2/KeyEcho/stargazers) [![Forks](https://img.shields.io/github/forks/ZacharyL2/KeyEcho?style=flat-square&color=blue)](https://github.com/ZacharyL2/KeyEcho/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZacharyL2/KeyEcho?style=flat-square&color=yellow)](https://github.com/ZacharyL2/KeyEcho/stargazers) [![Forks](https://img.shields.io/github/forks/ZacharyL2/KeyEcho?style=flat-square&color=blue)](https://github.com/ZacharyL2/KeyEcho/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 841 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ ZacharyL2/KeyEcho 是一个开源项目，能够让您在使用机械键盘时�
 | forks | 35/100 |
 | stars | 62/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

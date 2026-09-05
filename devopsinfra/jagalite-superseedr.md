@@ -1,6 +1,6 @@
 # Jagalite/superseedr
 
-[![Stars](https://img.shields.io/github/stars/Jagalite/superseedr?style=flat-square&color=yellow)](https://github.com/Jagalite/superseedr/stargazers) [![Forks](https://img.shields.io/github/forks/Jagalite/superseedr?style=flat-square&color=blue)](https://github.com/Jagalite/superseedr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jagalite/superseedr?style=flat-square&color=yellow)](https://github.com/Jagalite/superseedr/stargazers) [![Forks](https://img.shields.io/github/forks/Jagalite/superseedr?style=flat-square&color=blue)](https://github.com/Jagalite/superseedr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A BitTorrent Client in your Terminal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 605 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Jagalite / superseedr 是一款基于 Rust 编写的终端 BitTorrent 客户
 | forks | 34/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Beingpax/VoiceInk
 
-[![Stars](https://img.shields.io/github/stars/Beingpax/VoiceInk?style=flat-square&color=yellow)](https://github.com/Beingpax/VoiceInk/stargazers) [![Forks](https://img.shields.io/github/forks/Beingpax/VoiceInk?style=flat-square&color=blue)](https://github.com/Beingpax/VoiceInk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Beingpax/VoiceInk?style=flat-square&color=yellow)](https://github.com/Beingpax/VoiceInk/stargazers) [![Forks](https://img.shields.io/github/forks/Beingpax/VoiceInk?style=flat-square&color=blue)](https://github.com/Beingpax/VoiceInk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 746 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ Beingpax/VoiceInk 是一款面向 macOS 的开源语音转文字应用，旨在�
 | forks | 72/100 |
 | stars | 79/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

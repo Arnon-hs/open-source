@@ -1,6 +1,6 @@
 # Hiepler/longplay
 
-[![Stars](https://img.shields.io/github/stars/Hiepler/longplay?style=flat-square&color=yellow)](https://github.com/Hiepler/longplay/stargazers) [![Forks](https://img.shields.io/github/forks/Hiepler/longplay?style=flat-square&color=blue)](https://github.com/Hiepler/longplay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hiepler/longplay?style=flat-square&color=yellow)](https://github.com/Hiepler/longplay/stargazers) [![Forks](https://img.shields.io/github/forks/Hiepler/longplay?style=flat-square&color=blue)](https://github.com/Hiepler/longplay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, telemetry-aware music engine for Tesla road trips — turns live drive context into Spotify queues with a deterministic core and one LLM-assisted track-discovery step.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ Hiepler/longplay：。适合用于AI/ML、Frontend、Backend。
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 48/100 |
-| recency | 80/100 |
+| outlook | 68/100 |
+| quality | 53/100 |
+| recency | 100/100 |
 | adoption | 5/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

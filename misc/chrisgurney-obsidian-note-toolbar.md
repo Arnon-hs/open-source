@@ -1,6 +1,6 @@
 # chrisgurney/obsidian-note-toolbar
 
-[![Stars](https://img.shields.io/github/stars/chrisgurney/obsidian-note-toolbar?style=flat-square&color=yellow)](https://github.com/chrisgurney/obsidian-note-toolbar/stargazers) [![Forks](https://img.shields.io/github/forks/chrisgurney/obsidian-note-toolbar?style=flat-square&color=blue)](https://github.com/chrisgurney/obsidian-note-toolbar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisgurney/obsidian-note-toolbar?style=flat-square&color=yellow)](https://github.com/chrisgurney/obsidian-note-toolbar/stargazers) [![Forks](https://img.shields.io/github/forks/chrisgurney/obsidian-note-toolbar?style=flat-square&color=blue)](https://github.com/chrisgurney/obsidian-note-toolbar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Flexible, context-aware toolbars for your notes in Obsidian.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Overall, *obsidian-note-toolbar* is production‑ready for pilots or broader rol
 | forks | 34/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

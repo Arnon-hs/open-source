@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | 1C Enterprise |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Database
+MCP · Cloud & Storage · Communication · Backend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Bayselonarrend/OpenIntegrations：Bayselonarrend/OpenIntegrations helps connect 
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

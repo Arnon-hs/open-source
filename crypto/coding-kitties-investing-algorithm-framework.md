@@ -1,6 +1,6 @@
 # coding-kitties/investing-algorithm-framework
 
-[![Stars](https://img.shields.io/github/stars/coding-kitties/investing-algorithm-framework?style=flat-square&color=yellow)](https://github.com/coding-kitties/investing-algorithm-framework/stargazers) [![Forks](https://img.shields.io/github/forks/coding-kitties/investing-algorithm-framework?style=flat-square&color=blue)](https://github.com/coding-kitties/investing-algorithm-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coding-kitties/investing-algorithm-framework?style=flat-square&color=yellow)](https://github.com/coding-kitties/investing-algorithm-framework/stargazers) [![Forks](https://img.shields.io/github/forks/coding-kitties/investing-algorithm-framework?style=flat-square&color=blue)](https://github.com/coding-kitties/investing-algorithm-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Framework for quantitative trading. Complete framework for development, backtesting, and deploying automated trading algorithms and trading bots.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ coding-kitties/investing-algorithm-framework 的价值在于，它提供了一�
 | forks | 60/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

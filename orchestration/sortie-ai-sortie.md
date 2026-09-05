@@ -1,6 +1,6 @@
 # sortie-ai/sortie
 
-[![Stars](https://img.shields.io/github/stars/sortie-ai/sortie?style=flat-square&color=yellow)](https://github.com/sortie-ai/sortie/stargazers) [![Forks](https://img.shields.io/github/forks/sortie-ai/sortie?style=flat-square&color=blue)](https://github.com/sortie-ai/sortie/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sortie-ai/sortie?style=flat-square&color=yellow)](https://github.com/sortie-ai/sortie/stargazers) [![Forks](https://img.shields.io/github/forks/sortie-ai/sortie?style=flat-square&color=blue)](https://github.com/sortie-ai/sortie/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Turn tracker tickets into agent sessions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ Sortie（`sortie-ai/sortie`）是一款基于 Go 实现的开源框架，能够�
 | forks | 17/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

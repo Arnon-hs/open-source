@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 338 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data
+Knowledge/RAG · AI/ML · Documents · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ any4ai/AnyCrawl：any4ai/AnyCrawl helps make internal knowledge searchable and u
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

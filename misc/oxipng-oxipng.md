@@ -1,6 +1,6 @@
 # oxipng/oxipng
 
-[![Stars](https://img.shields.io/github/stars/oxipng/oxipng?style=flat-square&color=yellow)](https://github.com/oxipng/oxipng/stargazers) [![Forks](https://img.shields.io/github/forks/oxipng/oxipng?style=flat-square&color=blue)](https://github.com/oxipng/oxipng/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxipng/oxipng?style=flat-square&color=yellow)](https://github.com/oxipng/oxipng/stargazers) [![Forks](https://img.shields.io/github/forks/oxipng/oxipng?style=flat-square&color=blue)](https://github.com/oxipng/oxipng/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Multithreaded PNG optimizer written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ oxipng/oxipng 的生产可用性是高的，主要原因是：
 | forks | 55/100 |
 | stars | 77/100 |
 | topics | 75/100 |
-| outlook | 65/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

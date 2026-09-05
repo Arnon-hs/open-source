@@ -1,6 +1,6 @@
 # romanyn36/agentic-ai-roadmap
 
-[![Stars](https://img.shields.io/github/stars/romanyn36/agentic-ai-roadmap?style=flat-square&color=yellow)](https://github.com/romanyn36/agentic-ai-roadmap/stargazers) [![Forks](https://img.shields.io/github/forks/romanyn36/agentic-ai-roadmap?style=flat-square&color=blue)](https://github.com/romanyn36/agentic-ai-roadmap/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/romanyn36/agentic-ai-roadmap?style=flat-square&color=yellow)](https://github.com/romanyn36/agentic-ai-roadmap/stargazers) [![Forks](https://img.shields.io/github/forks/romanyn36/agentic-ai-roadmap?style=flat-square&color=blue)](https://github.com/romanyn36/agentic-ai-roadmap/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive AI learning roadmap covering Python fundamentals, mathematics, machine learning, deep learning, LLMs, and agentic systems — focused on hands-on projects, practical tools, and real-world deployment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ romanyn36/agentic-ai-roadmap：romanyn36/agentic-ai-roadmap helps turn isolated 
 | forks | 8/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

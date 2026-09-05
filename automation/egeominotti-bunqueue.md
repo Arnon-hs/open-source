@@ -1,6 +1,6 @@
 # egeominotti/bunqueue
 
-[![Stars](https://img.shields.io/github/stars/egeominotti/bunqueue?style=flat-square&color=yellow)](https://github.com/egeominotti/bunqueue/stargazers) [![Forks](https://img.shields.io/github/forks/egeominotti/bunqueue?style=flat-square&color=blue)](https://github.com/egeominotti/bunqueue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/egeominotti/bunqueue?style=flat-square&color=yellow)](https://github.com/egeominotti/bunqueue/stargazers) [![Forks](https://img.shields.io/github/forks/egeominotti/bunqueue?style=flat-square&color=blue)](https://github.com/egeominotti/bunqueue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database
+Automation · AI/ML · Cloud & Storage · Database
 
 ## 📝 Summary
 
@@ -120,15 +120,15 @@ egeominotti/bunqueue 是一款为 Bun 环境打造的高性能作业队列，支
 | forks | 28/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

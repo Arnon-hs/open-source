@@ -1,6 +1,6 @@
 # bia-technologies/yaxunit
 
-[![Stars](https://img.shields.io/github/stars/bia-technologies/yaxunit?style=flat-square&color=yellow)](https://github.com/bia-technologies/yaxunit/stargazers) [![Forks](https://img.shields.io/github/forks/bia-technologies/yaxunit?style=flat-square&color=blue)](https://github.com/bia-technologies/yaxunit/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bia-technologies/yaxunit?style=flat-square&color=yellow)](https://github.com/bia-technologies/yaxunit/stargazers) [![Forks](https://img.shields.io/github/forks/bia-technologies/yaxunit?style=flat-square&color=blue)](https://github.com/bia-technologies/yaxunit/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > YAxUnit. Расширение для запуска тестов
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | 1C Enterprise |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ YAxUnit的生产可用性为中等。它适合用于原型或内部工作流程�
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 477 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ kreuzberg-dev/kreuzberg：kreuzberg-dev/kreuzberg helps connect AI assistants to
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

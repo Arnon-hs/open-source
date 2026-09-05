@@ -1,6 +1,6 @@
 # datascale-ai/data_engineering_book
 
-[![Stars](https://img.shields.io/github/stars/datascale-ai/data_engineering_book?style=flat-square&color=yellow)](https://github.com/datascale-ai/data_engineering_book/stargazers) [![Forks](https://img.shields.io/github/forks/datascale-ai/data_engineering_book?style=flat-square&color=blue)](https://github.com/datascale-ai/data_engineering_book/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datascale-ai/data_engineering_book?style=flat-square&color=yellow)](https://github.com/datascale-ai/data_engineering_book/stargazers) [![Forks](https://img.shields.io/github/forks/datascale-ai/data_engineering_book?style=flat-square&color=blue)](https://github.com/datascale-ai/data_engineering_book/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 大模型数据工程：架构、算法及项目实战
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ The *datascale‑ai/data_engineering_book* repository is a Chinese‑language gu
 | forks | 49/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

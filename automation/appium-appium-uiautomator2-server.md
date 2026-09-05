@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ appium/appium-uiautomator2-server：appium/appium-uiautomator2-server helps remo
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

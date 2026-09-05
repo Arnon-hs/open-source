@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 594 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ AztecProtocol/aztec-packages：AztecProtocol/aztec-packages may be useful when i
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jwiegley/category-theory
 
-[![Stars](https://img.shields.io/github/stars/jwiegley/category-theory?style=flat-square&color=yellow)](https://github.com/jwiegley/category-theory/stargazers) [![Forks](https://img.shields.io/github/forks/jwiegley/category-theory?style=flat-square&color=blue)](https://github.com/jwiegley/category-theory/network) [![Language](https://img.shields.io/badge/lang-Rocq%20Prover-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jwiegley/category-theory?style=flat-square&color=yellow)](https://github.com/jwiegley/category-theory/stargazers) [![Forks](https://img.shields.io/github/forks/jwiegley/category-theory?style=flat-square&color=blue)](https://github.com/jwiegley/category-theory/network) [![Language](https://img.shields.io/badge/lang-Rocq%20Prover-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An axiom-free formalization of category theory in Coq for personal study and practical work
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 804 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Rocq Prover |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,11 +74,11 @@ Let's craft: "jwiegley/category-theory 提供了一个无公理的 Coq 范畴论
 | forks | 48/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

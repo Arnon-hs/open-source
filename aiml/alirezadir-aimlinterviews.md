@@ -1,6 +1,6 @@
 # alirezadir/AIMLInterviews
 
-[![Stars](https://img.shields.io/github/stars/alirezadir/AIMLInterviews?style=flat-square&color=yellow)](https://github.com/alirezadir/AIMLInterviews/stargazers) [![Forks](https://img.shields.io/github/forks/alirezadir/AIMLInterviews?style=flat-square&color=blue)](https://github.com/alirezadir/AIMLInterviews/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alirezadir/AIMLInterviews?style=flat-square&color=yellow)](https://github.com/alirezadir/AIMLInterviews/stargazers) [![Forks](https://img.shields.io/github/forks/alirezadir/AIMLInterviews?style=flat-square&color=blue)](https://github.com/alirezadir/AIMLInterviews/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ alirezadir/AIMLInterviews 是一个开源项目，旨在提供机器学习/人�
 | forks | 79/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 82/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

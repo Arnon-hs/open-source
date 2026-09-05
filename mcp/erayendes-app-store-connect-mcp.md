@@ -1,6 +1,6 @@
 # erayendes/app-store-connect-mcp
 
-[![Stars](https://img.shields.io/github/stars/erayendes/app-store-connect-mcp?style=flat-square&color=yellow)](https://github.com/erayendes/app-store-connect-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/erayendes/app-store-connect-mcp?style=flat-square&color=blue)](https://github.com/erayendes/app-store-connect-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erayendes/app-store-connect-mcp?style=flat-square&color=yellow)](https://github.com/erayendes/app-store-connect-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/erayendes/app-store-connect-mcp?style=flat-square&color=blue)](https://github.com/erayendes/app-store-connect-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Heimdall — MCP server for the Apple App Store Connect API & App Store Server API (StoreKit 2). 982 tools generated from Apple's official OpenAPI spec. Client-agnostic: Claude, Codex, Cursor, and any MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Mobile
+MCP · AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
@@ -94,15 +94,15 @@ erayendes/app-store-connect-mcp 是一个开源项目，用于管理 Apple App S
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

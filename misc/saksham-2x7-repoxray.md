@@ -1,6 +1,6 @@
 # saksham-2x7/repoxray
 
-[![Stars](https://img.shields.io/github/stars/saksham-2x7/repoxray?style=flat-square&color=yellow)](https://github.com/saksham-2x7/repoxray/stargazers) [![Forks](https://img.shields.io/github/forks/saksham-2x7/repoxray?style=flat-square&color=blue)](https://github.com/saksham-2x7/repoxray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saksham-2x7/repoxray?style=flat-square&color=yellow)](https://github.com/saksham-2x7/repoxray/stargazers) [![Forks](https://img.shields.io/github/forks/saksham-2x7/repoxray?style=flat-square&color=blue)](https://github.com/saksham-2x7/repoxray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ saksham-2x7/repoxray: . Use it for Misc.
 
 ### Русский
 
-saksham-2x7/repoxray: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+saksham-2x7/repoxray: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ saksham-2x7/repoxray：。适合用于Misc。
 | forks | 8/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 31/100 |
-| recency | 80/100 |
+| outlook | 51/100 |
+| quality | 36/100 |
+| recency | 100/100 |
 | adoption | 2/100 |
-| production | 49/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 70/100 |

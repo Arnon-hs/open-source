@@ -1,6 +1,6 @@
 # ailia-ai/ailia-models
 
-[![Stars](https://img.shields.io/github/stars/ailia-ai/ailia-models?style=flat-square&color=yellow)](https://github.com/ailia-ai/ailia-models/stargazers) [![Forks](https://img.shields.io/github/forks/ailia-ai/ailia-models?style=flat-square&color=blue)](https://github.com/ailia-ai/ailia-models/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ailia-ai/ailia-models?style=flat-square&color=yellow)](https://github.com/ailia-ai/ailia-models/stargazers) [![Forks](https://img.shields.io/github/forks/ailia-ai/ailia-models?style=flat-square&color=blue)](https://github.com/ailia-ai/ailia-models/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The collection of pre-trained, state-of-the-art AI models for ailia SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ Overall, ailia‑models is mature enough for a pilot in a production RAG pipelin
 | forks | 64/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

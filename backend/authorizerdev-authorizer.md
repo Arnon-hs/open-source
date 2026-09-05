@@ -1,6 +1,6 @@
 # authorizerdev/authorizer
 
-[![Stars](https://img.shields.io/github/stars/authorizerdev/authorizer?style=flat-square&color=yellow)](https://github.com/authorizerdev/authorizer/stargazers) [![Forks](https://img.shields.io/github/forks/authorizerdev/authorizer?style=flat-square&color=blue)](https://github.com/authorizerdev/authorizer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/authorizerdev/authorizer?style=flat-square&color=yellow)](https://github.com/authorizerdev/authorizer/stargazers) [![Forks](https://img.shields.io/github/forks/authorizerdev/authorizer?style=flat-square&color=blue)](https://github.com/authorizerdev/authorizer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Authorizer 具备高生产可用性，主要语言为 Go，更新日期为 2026-
 | forks | 58/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 70/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

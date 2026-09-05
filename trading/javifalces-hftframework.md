@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation
+Trading · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -111,7 +111,7 @@ javifalces/HFTFramework的生产可用性非常高，适合用于生产环境。
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

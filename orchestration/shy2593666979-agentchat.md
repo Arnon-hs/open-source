@@ -1,6 +1,6 @@
 # Shy2593666979/AgentChat
 
-[![Stars](https://img.shields.io/github/stars/Shy2593666979/AgentChat?style=flat-square&color=yellow)](https://github.com/Shy2593666979/AgentChat/stargazers) [![Forks](https://img.shields.io/github/forks/Shy2593666979/AgentChat?style=flat-square&color=blue)](https://github.com/Shy2593666979/AgentChat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shy2593666979/AgentChat?style=flat-square&color=yellow)](https://github.com/Shy2593666979/AgentChat/stargazers) [![Forks](https://img.shields.io/github/forks/Shy2593666979/AgentChat?style=flat-square&color=blue)](https://github.com/Shy2593666979/AgentChat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > AgentChat 是一个基于 LLM 的智能体交流平台，内置默认 Agent 并支持用户自定义 Agent。通过多轮对话和任务协作，Agent 可以理解并协助完成复杂任务。项目集成 LangChain、Function Call、MCP 协议、RAG、Memory、HITL、Skill、Milvus 和 ElasticSearch 等技术，实现高效的知识检索与工具调用，使用 FastAPI 构建高性能后端服务。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 821 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ AgentChat 的生产可用性较高，主要原因是其最近的活跃度、采�
 | forks | 50/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 70/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

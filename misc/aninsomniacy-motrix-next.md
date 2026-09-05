@@ -1,6 +1,6 @@
 # AnInsomniacy/motrix-next
 
-[![Stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next?style=flat-square&color=yellow)](https://github.com/AnInsomniacy/motrix-next/stargazers) [![Forks](https://img.shields.io/github/forks/AnInsomniacy/motrix-next?style=flat-square&color=blue)](https://github.com/AnInsomniacy/motrix-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next?style=flat-square&color=yellow)](https://github.com/AnInsomniacy/motrix-next/stargazers) [![Forks](https://img.shields.io/github/forks/AnInsomniacy/motrix-next?style=flat-square&color=blue)](https://github.com/AnInsomniacy/motrix-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A full-featured download manager — rebuilt from the ground up
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Motrix‑Next 是一款全新重构的下载管理器，基于 TypeScript 实现
 | forks | 56/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # TacosyHorchata/Pilot
 
-[![Stars](https://img.shields.io/github/stars/TacosyHorchata/Pilot?style=flat-square&color=yellow)](https://github.com/TacosyHorchata/Pilot/stargazers) [![Forks](https://img.shields.io/github/forks/TacosyHorchata/Pilot?style=flat-square&color=blue)](https://github.com/TacosyHorchata/Pilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TacosyHorchata/Pilot?style=flat-square&color=yellow)](https://github.com/TacosyHorchata/Pilot/stargazers) [![Forks](https://img.shields.io/github/forks/TacosyHorchata/Pilot?style=flat-square&color=blue)](https://github.com/TacosyHorchata/Pilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Chrome extension + MCP server — AI agents control a tab in your real browser, already logged in
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ TacosyHorchata/Pilot 是一个 Chrome 扩展 + MCP（Model Context Protocol）�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

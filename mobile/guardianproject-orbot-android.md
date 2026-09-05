@@ -1,6 +1,6 @@
 # guardianproject/orbot-android
 
-[![Stars](https://img.shields.io/github/stars/guardianproject/orbot-android?style=flat-square&color=yellow)](https://github.com/guardianproject/orbot-android/stargazers) [![Forks](https://img.shields.io/github/forks/guardianproject/orbot-android?style=flat-square&color=blue)](https://github.com/guardianproject/orbot-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guardianproject/orbot-android?style=flat-square&color=yellow)](https://github.com/guardianproject/orbot-android/stargazers) [![Forks](https://img.shields.io/github/forks/guardianproject/orbot-android?style=flat-square&color=blue)](https://github.com/guardianproject/orbot-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The Github home of Orbot: Tor on Android (Also available on gitlab!)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 462 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Orbot 是 Guardian Project 开发的 Android 平台 Tor 客户端，提供系统
 | forks | 67/100 |
 | stars | 75/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

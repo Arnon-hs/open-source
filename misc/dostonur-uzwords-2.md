@@ -1,6 +1,6 @@
 # DostonUr/uzwords_2
 
-[![Stars](https://img.shields.io/github/stars/DostonUr/uzwords_2?style=flat-square&color=yellow)](https://github.com/DostonUr/uzwords_2/stargazers) [![Forks](https://img.shields.io/github/forks/DostonUr/uzwords_2?style=flat-square&color=blue)](https://github.com/DostonUr/uzwords_2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DostonUr/uzwords_2?style=flat-square&color=yellow)](https://github.com/DostonUr/uzwords_2/stargazers) [![Forks](https://img.shields.io/github/forks/DostonUr/uzwords_2?style=flat-square&color=blue)](https://github.com/DostonUr/uzwords_2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > I Built a 32,000-Word Uzbek Dictionary and Never Checked If It Was Actually What I Claimed It Was
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ DostonUr/uzwords_2：。适合用于Misc。
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 31/100 |
-| recency | 80/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 100/100 |
 | adoption | 0/100 |
-| production | 51/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

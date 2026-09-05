@@ -1,6 +1,6 @@
 # YGYOOO/WorldX
 
-[![Stars](https://img.shields.io/github/stars/YGYOOO/WorldX?style=flat-square&color=yellow)](https://github.com/YGYOOO/WorldX/stargazers) [![Forks](https://img.shields.io/github/forks/YGYOOO/WorldX?style=flat-square&color=blue)](https://github.com/YGYOOO/WorldX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YGYOOO/WorldX?style=flat-square&color=yellow)](https://github.com/YGYOOO/WorldX/stargazers) [![Forks](https://img.shields.io/github/forks/YGYOOO/WorldX?style=flat-square&color=blue)](https://github.com/YGYOOO/WorldX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ YGYOOO/WorldX 只需一句话即可生成一个 AI 自主驱动的世界——�
 | forks | 56/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

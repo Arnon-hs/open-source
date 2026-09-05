@@ -1,6 +1,6 @@
 # kennethreitz/responder
 
-[![Stars](https://img.shields.io/github/stars/kennethreitz/responder?style=flat-square&color=yellow)](https://github.com/kennethreitz/responder/stargazers) [![Forks](https://img.shields.io/github/forks/kennethreitz/responder?style=flat-square&color=blue)](https://github.com/kennethreitz/responder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kennethreitz/responder?style=flat-square&color=yellow)](https://github.com/kennethreitz/responder/stargazers) [![Forks](https://img.shields.io/github/forks/kennethreitz/responder?style=flat-square&color=blue)](https://github.com/kennethreitz/responder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A familiar HTTP Service Framework for Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ kennethreitz/responder has a high level of production readiness, thanks to its r
 | forks | 59/100 |
 | stars | 76/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

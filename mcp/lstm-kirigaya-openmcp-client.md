@@ -1,6 +1,6 @@
 # LSTM-Kirigaya/openmcp-client
 
-[![Stars](https://img.shields.io/github/stars/LSTM-Kirigaya/openmcp-client?style=flat-square&color=yellow)](https://github.com/LSTM-Kirigaya/openmcp-client/stargazers) [![Forks](https://img.shields.io/github/forks/LSTM-Kirigaya/openmcp-client?style=flat-square&color=blue)](https://github.com/LSTM-Kirigaya/openmcp-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LSTM-Kirigaya/openmcp-client?style=flat-square&color=yellow)](https://github.com/LSTM-Kirigaya/openmcp-client/stargazers) [![Forks](https://img.shields.io/github/forks/LSTM-Kirigaya/openmcp-client?style=flat-square&color=blue)](https://github.com/LSTM-Kirigaya/openmcp-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > All in one vscode plugin for mcp developer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ LSTM‑Kirigaya/openmcp-client 是一款面向 MCP（Model Context Protocol�
 | forks | 44/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

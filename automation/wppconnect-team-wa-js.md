@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -121,7 +121,7 @@ WPPConnect/WA-JS 是一个开源项目，旨在从 WhatsApp Web 导出功能，�
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

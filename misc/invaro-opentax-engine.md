@@ -1,6 +1,6 @@
 # Invaro/opentax-engine
 
-[![Stars](https://img.shields.io/github/stars/Invaro/opentax-engine?style=flat-square&color=yellow)](https://github.com/Invaro/opentax-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Invaro/opentax-engine?style=flat-square&color=blue)](https://github.com/Invaro/opentax-engine/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Invaro/opentax-engine?style=flat-square&color=yellow)](https://github.com/Invaro/opentax-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Invaro/opentax-engine?style=flat-square&color=blue)](https://github.com/Invaro/opentax-engine/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Invaro/opentax-engine 的生产可用性为中等。它适用于以下场景：
 | forks | 32/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 48/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 53/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

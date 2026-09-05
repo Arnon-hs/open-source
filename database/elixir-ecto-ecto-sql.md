@@ -1,6 +1,6 @@
 # elixir-ecto/ecto_sql
 
-[![Stars](https://img.shields.io/github/stars/elixir-ecto/ecto_sql?style=flat-square&color=yellow)](https://github.com/elixir-ecto/ecto_sql/stargazers) [![Forks](https://img.shields.io/github/forks/elixir-ecto/ecto_sql?style=flat-square&color=blue)](https://github.com/elixir-ecto/ecto_sql/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elixir-ecto/ecto_sql?style=flat-square&color=yellow)](https://github.com/elixir-ecto/ecto_sql/stargazers) [![Forks](https://img.shields.io/github/forks/elixir-ecto/ecto_sql?style=flat-square&color=blue)](https://github.com/elixir-ecto/ecto_sql/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SQL-based adapters for Ecto and database migrations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 658 |
 | 🍴 **Forks** | 343 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ elixir-ecto/ecto_sql 为 Ecto 提供基于 SQL 的适配器和数据库迁移工
 | forks | 63/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

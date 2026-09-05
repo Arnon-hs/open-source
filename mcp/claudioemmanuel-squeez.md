@@ -1,6 +1,6 @@
 # claudioemmanuel/squeez
 
-[![Stars](https://img.shields.io/github/stars/claudioemmanuel/squeez?style=flat-square&color=yellow)](https://github.com/claudioemmanuel/squeez/stargazers) [![Forks](https://img.shields.io/github/forks/claudioemmanuel/squeez?style=flat-square&color=blue)](https://github.com/claudioemmanuel/squeez/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/claudioemmanuel/squeez?style=flat-square&color=yellow)](https://github.com/claudioemmanuel/squeez/stargazers) [![Forks](https://img.shields.io/github/forks/claudioemmanuel/squeez?style=flat-square&color=blue)](https://github.com/claudioemmanuel/squeez/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Hook-based token compressor for 5 AI CLI hosts (Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI). Up to 95% bash compression, signature-mode for code reads, cross-call dedup, MCP server, self-teaching protocol. Zero runtime deps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Claudio Emmanuel 的 Squeez 项目的价值在于它帮助连接 AI 助手到真
 | forks | 30/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

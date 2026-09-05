@@ -1,6 +1,6 @@
 # youtube/cobalt
 
-[![Stars](https://img.shields.io/github/stars/youtube/cobalt?style=flat-square&color=yellow)](https://github.com/youtube/cobalt/stargazers) [![Forks](https://img.shields.io/github/forks/youtube/cobalt?style=flat-square&color=blue)](https://github.com/youtube/cobalt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/youtube/cobalt?style=flat-square&color=yellow)](https://github.com/youtube/cobalt/stargazers) [![Forks](https://img.shields.io/github/forks/youtube/cobalt?style=flat-square&color=blue)](https://github.com/youtube/cobalt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cobalt is a lightweight HTML5 application container
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 433 |
 | 🍴 **Forks** | 198 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Cobalt 是一个轻量级的 HTML5 应用容器，旨在为 AI/ML 场景提供�
 | forks | 57/100 |
 | stars | 56/100 |
 | topics | 38/100 |
-| outlook | 43/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 45/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

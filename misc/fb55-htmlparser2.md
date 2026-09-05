@@ -1,6 +1,6 @@
 # fb55/htmlparser2
 
-[![Stars](https://img.shields.io/github/stars/fb55/htmlparser2?style=flat-square&color=yellow)](https://github.com/fb55/htmlparser2/stargazers) [![Forks](https://img.shields.io/github/forks/fb55/htmlparser2?style=flat-square&color=blue)](https://github.com/fb55/htmlparser2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fb55/htmlparser2?style=flat-square&color=yellow)](https://github.com/fb55/htmlparser2/stargazers) [![Forks](https://img.shields.io/github/forks/fb55/htmlparser2?style=flat-square&color=blue)](https://github.com/fb55/htmlparser2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The fast & forgiving HTML and XML parser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 399 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ fb55/htmlparser2 是一款基于 TypeScript 实现的高速、容错的 HTML 与
 | forks | 65/100 |
 | stars | 78/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

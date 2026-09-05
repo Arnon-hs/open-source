@@ -1,6 +1,6 @@
 # Intrafere/MOTO-Autonomous-ASI
 
-[![Stars](https://img.shields.io/github/stars/Intrafere/MOTO-Autonomous-ASI?style=flat-square&color=yellow)](https://github.com/Intrafere/MOTO-Autonomous-ASI/stargazers) [![Forks](https://img.shields.io/github/forks/Intrafere/MOTO-Autonomous-ASI?style=flat-square&color=blue)](https://github.com/Intrafere/MOTO-Autonomous-ASI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Intrafere/MOTO-Autonomous-ASI?style=flat-square&color=yellow)](https://github.com/Intrafere/MOTO-Autonomous-ASI/stargazers) [![Forks](https://img.shields.io/github/forks/Intrafere/MOTO-Autonomous-ASI?style=flat-square&color=blue)](https://github.com/Intrafere/MOTO-Autonomous-ASI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > MOTO Autonomous ASI Deep Research Harness by Intrafere - creative novelty-seeking researcher with autonomous Lean 4 proof generation. For S.T.E.M. users; run for days at a time once pressing start - no interaction needed! Agents working in parallel from either local host LM studio, OpenRouter, OAuth or all 3. No internet needed. Star us for more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Intrafere / MOTO‑Autonomous‑ASI 是一套基于 Lean 4 的自动化 AI
 | forks | 28/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

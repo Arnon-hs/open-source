@@ -1,6 +1,6 @@
 # StylishThemes/GitHub-Dark
 
-[![Stars](https://img.shields.io/github/stars/StylishThemes/GitHub-Dark?style=flat-square&color=yellow)](https://github.com/StylishThemes/GitHub-Dark/stargazers) [![Forks](https://img.shields.io/github/forks/StylishThemes/GitHub-Dark?style=flat-square&color=blue)](https://github.com/StylishThemes/GitHub-Dark/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StylishThemes/GitHub-Dark?style=flat-square&color=yellow)](https://github.com/StylishThemes/GitHub-Dark/stargazers) [![Forks](https://img.shields.io/github/forks/StylishThemes/GitHub-Dark?style=flat-square&color=blue)](https://github.com/StylishThemes/GitHub-Dark/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > :octocat: Dark GitHub style
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 645 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ StylishThemes/GitHub-Dark 是一个开源项目，提供GitHub的暗色主题样
 | forks | 70/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 81/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

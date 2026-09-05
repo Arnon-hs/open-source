@@ -1,6 +1,6 @@
 # Lexus2016/claude-code-studio
 
-[![Stars](https://img.shields.io/github/stars/Lexus2016/claude-code-studio?style=flat-square&color=yellow)](https://github.com/Lexus2016/claude-code-studio/stargazers) [![Forks](https://img.shields.io/github/forks/Lexus2016/claude-code-studio?style=flat-square&color=blue)](https://github.com/Lexus2016/claude-code-studio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lexus2016/claude-code-studio?style=flat-square&color=yellow)](https://github.com/Lexus2016/claude-code-studio/stargazers) [![Forks](https://img.shields.io/github/forks/Lexus2016/claude-code-studio?style=flat-square&color=blue)](https://github.com/Lexus2016/claude-code-studio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A fully functional web workspace for Claude Code CLI—chat, Kanban task board, task scheduling, multi-agent orchestration, MCP servers, skills, remote access (Web, SSH, Telegram), projects, and real-time data streaming.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML
+Orchestration · MCP · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ Lexus2016/claude-code-studio 是一个完整的 Web 工作空间，围绕 Claude
 | forks | 37/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # edenreich/console-component
 
-[![Stars](https://img.shields.io/github/stars/edenreich/console-component?style=flat-square&color=yellow)](https://github.com/edenreich/console-component/stargazers) [![Forks](https://img.shields.io/github/forks/edenreich/console-component?style=flat-square&color=blue)](https://github.com/edenreich/console-component/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edenreich/console-component?style=flat-square&color=yellow)](https://github.com/edenreich/console-component/stargazers) [![Forks](https://img.shields.io/github/forks/edenreich/console-component?style=flat-square&color=blue)](https://github.com/edenreich/console-component/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An easy to use component for building powerful console applications written in C++
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ edenreich/console-component 是一个易于使用的组件，用于构建强大�
 | forks | 15/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

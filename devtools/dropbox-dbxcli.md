@@ -1,6 +1,6 @@
 # dropbox/dbxcli
 
-[![Stars](https://img.shields.io/github/stars/dropbox/dbxcli?style=flat-square&color=yellow)](https://github.com/dropbox/dbxcli/stargazers) [![Forks](https://img.shields.io/github/forks/dropbox/dbxcli?style=flat-square&color=blue)](https://github.com/dropbox/dbxcli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dropbox/dbxcli?style=flat-square&color=yellow)](https://github.com/dropbox/dbxcli/stargazers) [![Forks](https://img.shields.io/github/forks/dropbox/dbxcli?style=flat-square&color=blue)](https://github.com/dropbox/dbxcli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A command line client for Dropbox built using the Go SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ dropbox/dbxcli：dropbox/dbxcli helps ship user-facing interfaces with less cust
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

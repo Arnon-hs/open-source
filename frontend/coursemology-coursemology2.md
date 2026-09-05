@@ -1,6 +1,6 @@
 # Coursemology/coursemology2
 
-[![Stars](https://img.shields.io/github/stars/Coursemology/coursemology2?style=flat-square&color=yellow)](https://github.com/Coursemology/coursemology2/stargazers) [![Forks](https://img.shields.io/github/forks/Coursemology/coursemology2?style=flat-square&color=blue)](https://github.com/Coursemology/coursemology2/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coursemology/coursemology2?style=flat-square&color=yellow)](https://github.com/Coursemology/coursemology2/stargazers) [![Forks](https://img.shields.io/github/forks/Coursemology/coursemology2?style=flat-square&color=blue)](https://github.com/Coursemology/coursemology2/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rails 6 re-write of Coursemology
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ Coursemology/coursemology2 是 Coursemology 的全新 Rails 6 重写版，保�
 | forks | 47/100 |
 | stars | 47/100 |
 | topics | 25/100 |
-| outlook | 40/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

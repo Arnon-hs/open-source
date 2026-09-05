@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | Fluent |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG
+Knowledge/RAG · Documents · Frontend
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ stephanrauh/ngx-extended-pdf-viewer：stephanrauh/ngx-extended-pdf-viewer helps 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

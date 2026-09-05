@@ -1,6 +1,6 @@
 # acpica/acpica
 
-[![Stars](https://img.shields.io/github/stars/acpica/acpica?style=flat-square&color=yellow)](https://github.com/acpica/acpica/stargazers) [![Forks](https://img.shields.io/github/forks/acpica/acpica?style=flat-square&color=blue)](https://github.com/acpica/acpica/network) [![Language](https://img.shields.io/badge/lang-ASL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/acpica/acpica?style=flat-square&color=yellow)](https://github.com/acpica/acpica/stargazers) [![Forks](https://img.shields.io/github/forks/acpica/acpica?style=flat-square&color=blue)](https://github.com/acpica/acpica/network) [![Language](https://img.shields.io/badge/lang-ASL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The ACPI Component Architecture (ACPICA) project provides an open-source operating system-independent implementation of the Advanced Configuration and Power Interface specification (ACPI).  For detailed project  information and downloads, go to https://www.acpica.org.  For ACPICA contributor and source code licensing information,  go to
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 625 |
 | 🍴 **Forks** | 422 |
 | 💻 **Language** | ASL |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ acpica/acpica 的生产可用性为中等（Medium）。它适合用于原型设
 | forks | 66/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

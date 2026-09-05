@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 604 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ luhengshiwo/LLMForEverybody：luhengshiwo/LLMForEverybody helps make internal kn
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

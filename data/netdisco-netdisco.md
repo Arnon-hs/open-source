@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Perl |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data
+Data · Database · Observability
 
 ## 📝 Summary
 
@@ -35,17 +35,17 @@ Netdisco — это веб‑приложение с открытым исхо
 
 ### 中文
 
-netdisco/netdisco：netdisco/netdisco helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+netdisco/netdisco：netdisco/netdisco helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** netdisco/netdisco helps convert raw data into searchable, analyzable, or automated pipelines.
+**Value:** netdisco/netdisco helps teams persist, query, and move data with less custom plumbing.
 
 **Best use cases**
 
-- organize analytics pipelines
-- process datasets
-- improve reporting workflows
+- manage persistence
+- speed up data access
+- prototype database-backed apps
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +65,18 @@ netdisco/netdisco：netdisco/netdisco helps convert raw data into searchable, an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 59/100 |
-| stars | 63/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

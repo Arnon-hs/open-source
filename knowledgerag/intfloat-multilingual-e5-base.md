@@ -1,6 +1,6 @@
 # intfloat/multilingual-e5-base
 
-[![Stars](https://img.shields.io/github/stars/intfloat/multilingual-e5-base?style=flat-square&color=yellow)](https://huggingface.co/intfloat/multilingual-e5-base/stargazers) [![Forks](https://img.shields.io/github/forks/intfloat/multilingual-e5-base?style=flat-square&color=blue)](https://huggingface.co/intfloat/multilingual-e5-base/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intfloat/multilingual-e5-base?style=flat-square&color=yellow)](https://huggingface.co/intfloat/multilingual-e5-base/stargazers) [![Forks](https://img.shields.io/github/forks/intfloat/multilingual-e5-base?style=flat-square&color=blue)](https://huggingface.co/intfloat/multilingual-e5-base/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Embeddings and similarity (sentence-similarity) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ intfloat/multilingual-e5-base 是一个开源模型，用于 Embeddings 和相�
 | forks | 0/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 36/100 |
-| quality | 39/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

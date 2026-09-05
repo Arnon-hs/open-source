@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · DevTools
+Orchestration · Automation · Cloud & Storage · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ zigflow/zigflow：zigflow/zigflow helps turn isolated prompts and tools into rep
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

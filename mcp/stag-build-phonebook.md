@@ -1,6 +1,6 @@
 # stag-build/phonebook
 
-[![Stars](https://img.shields.io/github/stars/stag-build/phonebook?style=flat-square&color=yellow)](https://github.com/stag-build/phonebook/stargazers) [![Forks](https://img.shields.io/github/forks/stag-build/phonebook?style=flat-square&color=blue)](https://github.com/stag-build/phonebook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stag-build/phonebook?style=flat-square&color=yellow)](https://github.com/stag-build/phonebook/stargazers) [![Forks](https://img.shields.io/github/forks/stag-build/phonebook?style=flat-square&color=blue)](https://github.com/stag-build/phonebook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The StoryBook for native mobile applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Mobile · Design
+MCP · DevTools · Mobile · Design
 
 ## 📝 Summary
 
@@ -67,15 +67,15 @@ stag-build/phonebook：stag-build/phonebook helps connect AI assistants to real 
 | forks | 0/100 |
 | stars | 10/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 7/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

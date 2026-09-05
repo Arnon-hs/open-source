@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 13.3k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevOps/Infra
+MCP · AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ alibaba/nacos：alibaba/nacos helps connect AI assistants to real tools and data
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

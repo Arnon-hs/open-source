@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ fluree/db：fluree/db helps teams persist, query, and move data with less custom
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

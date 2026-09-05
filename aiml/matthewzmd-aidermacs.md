@@ -1,6 +1,6 @@
 # MatthewZMD/aidermacs
 
-[![Stars](https://img.shields.io/github/stars/MatthewZMD/aidermacs?style=flat-square&color=yellow)](https://github.com/MatthewZMD/aidermacs/stargazers) [![Forks](https://img.shields.io/github/forks/MatthewZMD/aidermacs?style=flat-square&color=blue)](https://github.com/MatthewZMD/aidermacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MatthewZMD/aidermacs?style=flat-square&color=yellow)](https://github.com/MatthewZMD/aidermacs/stargazers) [![Forks](https://img.shields.io/github/forks/MatthewZMD/aidermacs?style=flat-square&color=blue)](https://github.com/MatthewZMD/aidermacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI Pair Programming in Emacs with Aider
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 909 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ MatthewZMD/aidermacs 的生产可用性为中等。虽然它适合用于内部�
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

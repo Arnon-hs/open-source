@@ -1,6 +1,6 @@
 # phisanti/MCPR
 
-[![Stars](https://img.shields.io/github/stars/phisanti/MCPR?style=flat-square&color=yellow)](https://github.com/phisanti/MCPR/stargazers) [![Forks](https://img.shields.io/github/forks/phisanti/MCPR?style=flat-square&color=blue)](https://github.com/phisanti/MCPR/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phisanti/MCPR?style=flat-square&color=yellow)](https://github.com/phisanti/MCPR/stargazers) [![Forks](https://img.shields.io/github/forks/phisanti/MCPR?style=flat-square&color=blue)](https://github.com/phisanti/MCPR/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MCPR enables AI agents to participate in interactive R sessions for professional analysis workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ phisanti/MCPR 是一个开源项目，允许 AI 代理参与交互式 R 会话�
 | forks | 21/100 |
 | stars | 30/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

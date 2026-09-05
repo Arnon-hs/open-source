@@ -1,6 +1,6 @@
 # idursun/jjui
 
-[![Stars](https://img.shields.io/github/stars/idursun/jjui?style=flat-square&color=yellow)](https://github.com/idursun/jjui/stargazers) [![Forks](https://img.shields.io/github/forks/idursun/jjui?style=flat-square&color=blue)](https://github.com/idursun/jjui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idursun/jjui?style=flat-square&color=yellow)](https://github.com/idursun/jjui/stargazers) [![Forks](https://img.shields.io/github/forks/idursun/jjui?style=flat-square&color=blue)](https://github.com/idursun/jjui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > jjui is a TUI designed for interacting with the Jujutsu version control system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ idursun/jjui 已经有较强的生产可用性，主要原因是：
 | forks | 51/100 |
 | stars | 71/100 |
 | topics | 50/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

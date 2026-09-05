@@ -1,6 +1,6 @@
 # carsteneu/ai-memory-comparison
 
-[![Stars](https://img.shields.io/github/stars/carsteneu/ai-memory-comparison?style=flat-square&color=yellow)](https://github.com/carsteneu/ai-memory-comparison/stargazers) [![Forks](https://img.shields.io/github/forks/carsteneu/ai-memory-comparison?style=flat-square&color=blue)](https://github.com/carsteneu/ai-memory-comparison/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carsteneu/ai-memory-comparison?style=flat-square&color=yellow)](https://github.com/carsteneu/ai-memory-comparison/stargazers) [![Forks](https://img.shields.io/github/forks/carsteneu/ai-memory-comparison?style=flat-square&color=blue)](https://github.com/carsteneu/ai-memory-comparison/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Source-backed feature comparison of memory systems for AI coding agents. No affiliation, no marketing — just facts from public docs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ carsteneu/ai-memory-comparison 是一个开源项目，用于比较 AI 编程代
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

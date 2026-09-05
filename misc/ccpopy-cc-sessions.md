@@ -1,6 +1,6 @@
 # ccpopy/cc-sessions
 
-[![Stars](https://img.shields.io/github/stars/ccpopy/cc-sessions?style=flat-square&color=yellow)](https://github.com/ccpopy/cc-sessions/stargazers) [![Forks](https://img.shields.io/github/forks/ccpopy/cc-sessions?style=flat-square&color=blue)](https://github.com/ccpopy/cc-sessions/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccpopy/cc-sessions?style=flat-square&color=yellow)](https://github.com/ccpopy/cc-sessions/stargazers) [![Forks](https://img.shields.io/github/forks/ccpopy/cc-sessions?style=flat-square&color=blue)](https://github.com/ccpopy/cc-sessions/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 提供codex不同提供商会话修复和claude会话管理，支持会话备份以及会话分支，以及统计，一切都在本地运行
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ ccpopy/cc-sessions 的生产可用性为中等。由于它主要用于本地运�
 | forks | 21/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 46/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

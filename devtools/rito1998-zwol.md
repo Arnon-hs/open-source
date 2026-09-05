@@ -1,6 +1,6 @@
 # rito1998/zwol
 
-[![Stars](https://img.shields.io/github/stars/rito1998/zwol?style=flat-square&color=yellow)](https://github.com/rito1998/zwol/stargazers) [![Forks](https://img.shields.io/github/forks/rito1998/zwol?style=flat-square&color=blue)](https://github.com/rito1998/zwol/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rito1998/zwol?style=flat-square&color=yellow)](https://github.com/rito1998/zwol/stargazers) [![Forks](https://img.shields.io/github/forks/rito1998/zwol?style=flat-square&color=blue)](https://github.com/rito1998/zwol/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Wake-on-LAN CLI written in Zig.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ rito1998/zwol 是一个基于 Zig 语言的 Wake-on-LAN 命令行工具。它可
 | forks | 12/100 |
 | stars | 33/100 |
 | topics | 88/100 |
-| outlook | 51/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

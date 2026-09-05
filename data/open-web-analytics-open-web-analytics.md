@@ -1,6 +1,6 @@
 # Open-Web-Analytics/Open-Web-Analytics
 
-[![Stars](https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&color=yellow)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&color=blue)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&color=yellow)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&color=blue)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 487 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Open-Web-Analytics 具有较高的生产可用性，适合于严肃的测试。�
 | forks | 67/100 |
 | stars | 73/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

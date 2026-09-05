@@ -1,6 +1,6 @@
 # TomWright/dasel
 
-[![Stars](https://img.shields.io/github/stars/TomWright/dasel?style=flat-square&color=yellow)](https://github.com/TomWright/dasel/stargazers) [![Forks](https://img.shields.io/github/forks/TomWright/dasel?style=flat-square&color=blue)](https://github.com/TomWright/dasel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TomWright/dasel?style=flat-square&color=yellow)](https://github.com/TomWright/dasel/stargazers) [![Forks](https://img.shields.io/github/forks/TomWright/dasel?style=flat-square&color=blue)](https://github.com/TomWright/dasel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data
+DevTools · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ TomWright/dasel 是一款用 Go 编写的轻量级数据操作工具，能够在
 | forks | 56/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

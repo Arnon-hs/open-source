@@ -1,6 +1,6 @@
 # CyberTimon/RapidRAW
 
-[![Stars](https://img.shields.io/github/stars/CyberTimon/RapidRAW?style=flat-square&color=yellow)](https://github.com/CyberTimon/RapidRAW/stargazers) [![Forks](https://img.shields.io/github/forks/CyberTimon/RapidRAW?style=flat-square&color=blue)](https://github.com/CyberTimon/RapidRAW/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CyberTimon/RapidRAW?style=flat-square&color=yellow)](https://github.com/CyberTimon/RapidRAW/stargazers) [![Forks](https://img.shields.io/github/forks/CyberTimon/RapidRAW?style=flat-square&color=blue)](https://github.com/CyberTimon/RapidRAW/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 459 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ CyberTimon/RapidRAW 的生产可用性非常高。它有近 9,000 个 GitHub 星
 | forks | 67/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

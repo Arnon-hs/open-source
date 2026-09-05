@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 21.9k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Networking
 
 ## 📝 Summary
 
@@ -80,6 +80,7 @@ ethereum/go-ethereum：ethereum/go-ethereum helps prototype or inspect blockchai
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

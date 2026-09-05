@@ -1,6 +1,6 @@
 # Yatsuiii/custody
 
-[![Stars](https://img.shields.io/github/stars/Yatsuiii/custody?style=flat-square&color=yellow)](https://github.com/Yatsuiii/custody/stargazers) [![Forks](https://img.shields.io/github/forks/Yatsuiii/custody?style=flat-square&color=blue)](https://github.com/Yatsuiii/custody/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yatsuiii/custody?style=flat-square&color=yellow)](https://github.com/Yatsuiii/custody/stargazers) [![Forks](https://img.shields.io/github/forks/Yatsuiii/custody?style=flat-square&color=blue)](https://github.com/Yatsuiii/custody/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Chain of custody for agent memory: origin and derivation provenance over ADK long-term memory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ Yatsuiii/custody：。适合用于Orchestration、AI/ML、Data、Security。
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 42/100 |
-| recency | 80/100 |
+| outlook | 61/100 |
+| quality | 47/100 |
+| recency | 100/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

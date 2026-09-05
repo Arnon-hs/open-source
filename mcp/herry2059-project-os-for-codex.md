@@ -1,6 +1,6 @@
 # herry2059/project-os-for-codex
 
-[![Stars](https://img.shields.io/github/stars/herry2059/project-os-for-codex?style=flat-square&color=yellow)](https://github.com/herry2059/project-os-for-codex/stargazers) [![Forks](https://img.shields.io/github/forks/herry2059/project-os-for-codex?style=flat-square&color=blue)](https://github.com/herry2059/project-os-for-codex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/herry2059/project-os-for-codex?style=flat-square&color=yellow)](https://github.com/herry2059/project-os-for-codex/stargazers) [![Forks](https://img.shields.io/github/forks/herry2059/project-os-for-codex?style=flat-square&color=blue)](https://github.com/herry2059/project-os-for-codex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ herry2059/project-os-for-codex 是一个开源控制平面项目，旨在为 Cod
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

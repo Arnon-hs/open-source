@@ -1,6 +1,6 @@
 # cacheplane/angular-agent-framework
 
-[![Stars](https://img.shields.io/github/stars/cacheplane/angular-agent-framework?style=flat-square&color=yellow)](https://github.com/cacheplane/angular-agent-framework/stargazers) [![Forks](https://img.shields.io/github/forks/cacheplane/angular-agent-framework?style=flat-square&color=blue)](https://github.com/cacheplane/angular-agent-framework/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cacheplane/angular-agent-framework?style=flat-square&color=yellow)](https://github.com/cacheplane/angular-agent-framework/stargazers) [![Forks](https://img.shields.io/github/forks/cacheplane/angular-agent-framework?style=flat-square&color=blue)](https://github.com/cacheplane/angular-agent-framework/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Angular SDK for Building Agentic Apps + Generative UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Frontend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ cacheplane/angular-agent-framework 是一套基于 Angular 的 SDK，旨在帮�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

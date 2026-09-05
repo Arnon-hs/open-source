@@ -1,6 +1,6 @@
 # lee-to/ai-factory
 
-[![Stars](https://img.shields.io/github/stars/lee-to/ai-factory?style=flat-square&color=yellow)](https://github.com/lee-to/ai-factory/stargazers) [![Forks](https://img.shields.io/github/forks/lee-to/ai-factory?style=flat-square&color=blue)](https://github.com/lee-to/ai-factory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lee-to/ai-factory?style=flat-square&color=yellow)](https://github.com/lee-to/ai-factory/stargazers) [![Forks](https://img.shields.io/github/forks/lee-to/ai-factory?style=flat-square&color=blue)](https://github.com/lee-to/ai-factory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > You want to build with AI, but setting up the right context, prompts, and workflows takes time. AI Factory handles all of that so you can focus on what matters — shipping quality code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 668 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Lee‑to/ai‑factory 是一个基于 TypeScript 的 AI 工作流自动化框架
 | forks | 45/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # voocel/agentcore
 
-[![Stars](https://img.shields.io/github/stars/voocel/agentcore?style=flat-square&color=yellow)](https://github.com/voocel/agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/voocel/agentcore?style=flat-square&color=blue)](https://github.com/voocel/agentcore/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voocel/agentcore?style=flat-square&color=yellow)](https://github.com/voocel/agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/voocel/agentcore?style=flat-square&color=blue)](https://github.com/voocel/agentcore/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal, composable Go library for building AI agent applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ voocel/agentcore 是一个轻量且可组合的 Go 库，旨在帮助开发者�
 | forks | 29/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

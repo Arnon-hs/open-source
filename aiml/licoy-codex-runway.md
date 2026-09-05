@@ -1,6 +1,6 @@
 # Licoy/codex-runway
 
-[![Stars](https://img.shields.io/github/stars/Licoy/codex-runway?style=flat-square&color=yellow)](https://github.com/Licoy/codex-runway/stargazers) [![Forks](https://img.shields.io/github/forks/Licoy/codex-runway?style=flat-square&color=blue)](https://github.com/Licoy/codex-runway/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Licoy/codex-runway?style=flat-square&color=yellow)](https://github.com/Licoy/codex-runway/stargazers) [![Forks](https://img.shields.io/github/forks/Licoy/codex-runway?style=flat-square&color=blue)](https://github.com/Licoy/codex-runway/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、reset credits、API 等价成本与本机会话，并支持多账号管理。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Product
+AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Licoy/codex-runway 的生产可用性为中等（Medium），适合用于快速�
 | forks | 21/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

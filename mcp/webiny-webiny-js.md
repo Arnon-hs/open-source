@@ -1,6 +1,6 @@
 # webiny/webiny-js
 
-[![Stars](https://img.shields.io/github/stars/webiny/webiny-js?style=flat-square&color=yellow)](https://github.com/webiny/webiny-js/stargazers) [![Forks](https://img.shields.io/github/forks/webiny/webiny-js?style=flat-square&color=blue)](https://github.com/webiny/webiny-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webiny/webiny-js?style=flat-square&color=yellow)](https://github.com/webiny/webiny-js/stargazers) [![Forks](https://img.shields.io/github/forks/webiny/webiny-js?style=flat-square&color=blue)](https://github.com/webiny/webiny-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 672 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend
+MCP · AI/ML · Cloud & Storage · Documents · Frontend
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ webiny/webiny-js 是一套基于 AWS Serverless（Lambda、DynamoDB、S3）的�
 | forks | 71/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 88/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

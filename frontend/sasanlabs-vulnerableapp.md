@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 683 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ SasanLabs/VulnerableApp：SasanLabs/VulnerableApp helps ship user-facing interfa
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

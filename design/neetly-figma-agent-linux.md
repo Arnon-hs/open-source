@@ -1,6 +1,6 @@
 # neetly/figma-agent-linux
 
-[![Stars](https://img.shields.io/github/stars/neetly/figma-agent-linux?style=flat-square&color=yellow)](https://github.com/neetly/figma-agent-linux/stargazers) [![Forks](https://img.shields.io/github/forks/neetly/figma-agent-linux?style=flat-square&color=blue)](https://github.com/neetly/figma-agent-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neetly/figma-agent-linux?style=flat-square&color=yellow)](https://github.com/neetly/figma-agent-linux/stargazers) [![Forks](https://img.shields.io/github/forks/neetly/figma-agent-linux?style=flat-square&color=blue)](https://github.com/neetly/figma-agent-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight local service that makes your locally installed fonts available on Figma.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Design
 | forks | 30/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # felix-t-lab1900u6/Claude-Trade-Bot
 
-[![Stars](https://img.shields.io/github/stars/felix-t-lab1900u6/Claude-Trade-Bot?style=flat-square&color=yellow)](https://github.com/felix-t-lab1900u6/Claude-Trade-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/felix-t-lab1900u6/Claude-Trade-Bot?style=flat-square&color=blue)](https://github.com/felix-t-lab1900u6/Claude-Trade-Bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/felix-t-lab1900u6/Claude-Trade-Bot?style=flat-square&color=yellow)](https://github.com/felix-t-lab1900u6/Claude-Trade-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/felix-t-lab1900u6/Claude-Trade-Bot?style=flat-square&color=blue)](https://github.com/felix-t-lab1900u6/Claude-Trade-Bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Intelligent cryptocurrency trading platform powered by Claude AI, combining real-time market analysis, technical intelligence, and automated execution with enterprise-grade risk management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Claude-Trade-Bot 的生产可用
 | forks | 0/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

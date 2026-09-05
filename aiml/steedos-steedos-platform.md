@@ -1,6 +1,6 @@
 # steedos/steedos-platform
 
-[![Stars](https://img.shields.io/github/stars/steedos/steedos-platform?style=flat-square&color=yellow)](https://github.com/steedos/steedos-platform/stargazers) [![Forks](https://img.shields.io/github/forks/steedos/steedos-platform?style=flat-square&color=blue)](https://github.com/steedos/steedos-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steedos/steedos-platform?style=flat-square&color=yellow)](https://github.com/steedos/steedos-platform/stargazers) [![Forks](https://img.shields.io/github/forks/steedos/steedos-platform?style=flat-square&color=blue)](https://github.com/steedos/steedos-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The AI-Native Infrastructure for Enterprise Apps. Powered by ObjectStack (ObjectQL, ObjectOS, Object UI). Turn Prompts into Enterprise Software.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 413 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Database
+AI/ML · Product
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Steedos/steedos-platform 提供了 API、SDK 和 CLI 等接入方式，使开发
 | forks | 65/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 83/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # leancoderkavy/premiere-pro-mcp
 
-[![Stars](https://img.shields.io/github/stars/leancoderkavy/premiere-pro-mcp?style=flat-square&color=yellow)](https://github.com/leancoderkavy/premiere-pro-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/leancoderkavy/premiere-pro-mcp?style=flat-square&color=blue)](https://github.com/leancoderkavy/premiere-pro-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leancoderkavy/premiere-pro-mcp?style=flat-square&color=yellow)](https://github.com/leancoderkavy/premiere-pro-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/leancoderkavy/premiere-pro-mcp?style=flat-square&color=blue)](https://github.com/leancoderkavy/premiere-pro-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for controlling Adobe Premiere Pro via CEP/ExtendScript — 269 tools for AI-driven video editing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ leancoderkavy/premiere‑pro‑mcp 是一个基于 MCP（Model Context Protocol�
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

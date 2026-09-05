@@ -1,6 +1,6 @@
 # blak0p/git-courer
 
-[![Stars](https://img.shields.io/github/stars/blak0p/git-courer?style=flat-square&color=yellow)](https://github.com/blak0p/git-courer/stargazers) [![Forks](https://img.shields.io/github/forks/blak0p/git-courer?style=flat-square&color=blue)](https://github.com/blak0p/git-courer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blak0p/git-courer?style=flat-square&color=yellow)](https://github.com/blak0p/git-courer/stargazers) [![Forks](https://img.shields.io/github/forks/blak0p/git-courer?style=flat-square&color=blue)](https://github.com/blak0p/git-courer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Git with local Ollama — zero tokens for git operations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ blak0p/git‑courer 是一个基于 Model Context Protocol（MCP）的 Git �
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

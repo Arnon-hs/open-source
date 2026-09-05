@@ -1,6 +1,6 @@
 # FuelLabs/fuel-core
 
-[![Stars](https://img.shields.io/github/stars/FuelLabs/fuel-core?style=flat-square&color=yellow)](https://github.com/FuelLabs/fuel-core/stargazers) [![Forks](https://img.shields.io/github/forks/FuelLabs/fuel-core?style=flat-square&color=blue)](https://github.com/FuelLabs/fuel-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FuelLabs/fuel-core?style=flat-square&color=yellow)](https://github.com/FuelLabs/fuel-core/stargazers) [![Forks](https://img.shields.io/github/forks/FuelLabs/fuel-core?style=flat-square&color=blue)](https://github.com/FuelLabs/fuel-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Rust full node implementation of the Fuel v2 protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57.1k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ FuelLabs/fuel-core 是 Fuel v2 协议的 Rust 实现，提供了一个功能完�
 | forks | 86/100 |
 | stars | 100/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 96/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # owncloud/web
 
-[![Stars](https://img.shields.io/github/stars/owncloud/web?style=flat-square&color=yellow)](https://github.com/owncloud/web/stargazers) [![Forks](https://img.shields.io/github/forks/owncloud/web?style=flat-square&color=blue)](https://github.com/owncloud/web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owncloud/web?style=flat-square&color=yellow)](https://github.com/owncloud/web/stargazers) [![Forks](https://img.shields.io/github/forks/owncloud/web?style=flat-square&color=blue)](https://github.com/owncloud/web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > :dragon_face: Next generation frontend for ownCloud Infinite Scale
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ owncloud/web 是面向 ownCloud Infinite Scale 的下一代前端，采用 TypeS
 | forks | 58/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

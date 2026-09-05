@@ -1,6 +1,6 @@
 # sarveshsea/memi
 
-[![Stars](https://img.shields.io/github/stars/sarveshsea/memi?style=flat-square&color=yellow)](https://github.com/sarveshsea/memi/stargazers) [![Forks](https://img.shields.io/github/forks/sarveshsea/memi?style=flat-square&color=blue)](https://github.com/sarveshsea/memi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sarveshsea/memi?style=flat-square&color=yellow)](https://github.com/sarveshsea/memi/stargazers) [![Forks](https://img.shields.io/github/forks/sarveshsea/memi?style=flat-square&color=blue)](https://github.com/sarveshsea/memi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Interface understanding and design-system memory for AI coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ sarveshsea/memi 的生产可用性非常高，因为它具有以下特点：
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

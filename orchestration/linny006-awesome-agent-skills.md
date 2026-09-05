@@ -1,6 +1,6 @@
 # linny006/awesome-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/linny006/awesome-agent-skills?style=flat-square&color=yellow)](https://github.com/linny006/awesome-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/linny006/awesome-agent-skills?style=flat-square&color=blue)](https://github.com/linny006/awesome-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linny006/awesome-agent-skills?style=flat-square&color=yellow)](https://github.com/linny006/awesome-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/linny006/awesome-agent-skills?style=flat-square&color=blue)](https://github.com/linny006/awesome-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ linny006/awesome-agent-skills 的价值在于，它可以帮助开发者将多�
 | forks | 12/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

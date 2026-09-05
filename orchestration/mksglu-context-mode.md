@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 945 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ mksglu/context-mode：mksglu/context-mode helps turn isolated prompts and tools 
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

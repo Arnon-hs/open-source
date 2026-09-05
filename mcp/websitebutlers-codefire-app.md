@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ websitebutlers/codefire-app：websitebutlers/codefire-app helps connect AI assis
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

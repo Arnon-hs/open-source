@@ -1,6 +1,6 @@
 # aiptimizer/TurboOCR
 
-[![Stars](https://img.shields.io/github/stars/aiptimizer/TurboOCR?style=flat-square&color=yellow)](https://github.com/aiptimizer/TurboOCR/stargazers) [![Forks](https://img.shields.io/github/forks/aiptimizer/TurboOCR?style=flat-square&color=blue)](https://github.com/aiptimizer/TurboOCR/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiptimizer/TurboOCR?style=flat-square&color=yellow)](https://github.com/aiptimizer/TurboOCR/stargazers) [![Forks](https://img.shields.io/github/forks/aiptimizer/TurboOCR?style=flat-square&color=blue)](https://github.com/aiptimizer/TurboOCR/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Fast GPU OCR server. 270 img/s on FUNSD. TensorRT FP16, PP-OCRv5, HTTP + gRPC.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend
+Knowledge/RAG · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ TurboOCR（aiptimizer/TurboOCR）是一款基于 GPU 的高速 OCR 服务器，�
 | forks | 37/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

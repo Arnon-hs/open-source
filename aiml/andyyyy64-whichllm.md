@@ -1,6 +1,6 @@
 # Andyyyy64/whichllm
 
-[![Stars](https://img.shields.io/github/stars/Andyyyy64/whichllm?style=flat-square&color=yellow)](https://github.com/Andyyyy64/whichllm/stargazers) [![Forks](https://img.shields.io/github/forks/Andyyyy64/whichllm?style=flat-square&color=blue)](https://github.com/Andyyyy64/whichllm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Andyyyy64/whichllm?style=flat-square&color=yellow)](https://github.com/Andyyyy64/whichllm/stargazers) [![Forks](https://img.shields.io/github/forks/Andyyyy64/whichllm?style=flat-square&color=blue)](https://github.com/Andyyyy64/whichllm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Andyyyy64/whichllm 是一个一键式工具，能够在本地快速检测并排�
 | forks | 61/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

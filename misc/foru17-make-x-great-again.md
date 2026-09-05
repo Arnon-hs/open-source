@@ -1,6 +1,6 @@
 # foru17/make-x-great-again
 
-[![Stars](https://img.shields.io/github/stars/foru17/make-x-great-again?style=flat-square&color=yellow)](https://github.com/foru17/make-x-great-again/stargazers) [![Forks](https://img.shields.io/github/forks/foru17/make-x-great-again?style=flat-square&color=blue)](https://github.com/foru17/make-x-great-again/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foru17/make-x-great-again?style=flat-square&color=yellow)](https://github.com/foru17/make-x-great-again/stargazers) [![Forks](https://img.shields.io/github/forks/foru17/make-x-great-again?style=flat-square&color=blue)](https://github.com/foru17/make-x-great-again/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Make X Great Again 是一个开源浏览器扩展，旨在通过 AI 能力使 X 
 | forks | 37/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

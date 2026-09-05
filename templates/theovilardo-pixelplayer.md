@@ -1,6 +1,6 @@
 # theovilardo/PixelPlayer
 
-[![Stars](https://img.shields.io/github/stars/theovilardo/PixelPlayer?style=flat-square&color=yellow)](https://github.com/theovilardo/PixelPlayer/stargazers) [![Forks](https://img.shields.io/github/forks/theovilardo/PixelPlayer?style=flat-square&color=blue)](https://github.com/theovilardo/PixelPlayer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theovilardo/PixelPlayer?style=flat-square&color=yellow)](https://github.com/theovilardo/PixelPlayer/stargazers) [![Forks](https://img.shields.io/github/forks/theovilardo/PixelPlayer?style=flat-square&color=blue)](https://github.com/theovilardo/PixelPlayer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 344 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ PixelPlayer（theovilardo/PixelPlayer）是一款以隐私为首要原则的 And
 | forks | 63/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # gtapps/claude-code-hermit
 
-[![Stars](https://img.shields.io/github/stars/gtapps/claude-code-hermit?style=flat-square&color=yellow)](https://github.com/gtapps/claude-code-hermit/stargazers) [![Forks](https://img.shields.io/github/forks/gtapps/claude-code-hermit?style=flat-square&color=blue)](https://github.com/gtapps/claude-code-hermit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gtapps/claude-code-hermit?style=flat-square&color=yellow)](https://github.com/gtapps/claude-code-hermit/stargazers) [![Forks](https://img.shields.io/github/forks/gtapps/claude-code-hermit?style=flat-square&color=blue)](https://github.com/gtapps/claude-code-hermit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Turn Claude Code into an Always-on AI assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ gtapps/claude-code-hermit 将 Claude Code 包装成一个随时在线的 AI 助�
 | forks | 24/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

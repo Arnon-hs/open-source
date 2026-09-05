@@ -1,6 +1,6 @@
 # token-js/token.js
 
-[![Stars](https://img.shields.io/github/stars/token-js/token.js?style=flat-square&color=yellow)](https://github.com/token-js/token.js/stargazers) [![Forks](https://img.shields.io/github/forks/token-js/token.js?style=flat-square&color=blue)](https://github.com/token-js/token.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/token-js/token.js?style=flat-square&color=yellow)](https://github.com/token-js/token.js/stargazers) [![Forks](https://img.shields.io/github/forks/token-js/token.js?style=flat-square&color=blue)](https://github.com/token-js/token.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Integrate 200+ LLMs with one TypeScript SDK using OpenAI's format.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ token-js/token.js 的生产可用性为中等（Medium）。虽然它适合用�
 | forks | 40/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

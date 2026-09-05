@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 358 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database
+Knowledge/RAG · AI/ML · Cloud & Storage · Documents · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ vearch/vearch：vearch/vearch helps make internal knowledge searchable and usabl
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

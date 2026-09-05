@@ -1,6 +1,6 @@
 # microsoft/agent-framework-go
 
-[![Stars](https://img.shields.io/github/stars/microsoft/agent-framework-go?style=flat-square&color=yellow)](https://github.com/microsoft/agent-framework-go/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/agent-framework-go?style=flat-square&color=blue)](https://github.com/microsoft/agent-framework-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/agent-framework-go?style=flat-square&color=yellow)](https://github.com/microsoft/agent-framework-go/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/agent-framework-go?style=flat-square&color=blue)](https://github.com/microsoft/agent-framework-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Microsoft Agent Framework Go 的生产可用性为中等。它适合用于原型
 | forks | 23/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

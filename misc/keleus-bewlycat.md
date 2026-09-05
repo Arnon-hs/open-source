@@ -1,6 +1,6 @@
 # keleus/BewlyCat
 
-[![Stars](https://img.shields.io/github/stars/keleus/BewlyCat?style=flat-square&color=yellow)](https://github.com/keleus/BewlyCat/stargazers) [![Forks](https://img.shields.io/github/forks/keleus/BewlyCat?style=flat-square&color=blue)](https://github.com/keleus/BewlyCat/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keleus/BewlyCat?style=flat-square&color=yellow)](https://github.com/keleus/BewlyCat/stargazers) [![Forks](https://img.shields.io/github/forks/keleus/BewlyCat?style=flat-square&color=blue)](https://github.com/keleus/BewlyCat/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > BewlyCat——基于BewlyBewly开发的Bilibili拓展
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ BewlyCat 是基于 BewlyBewly 的 Bilibili 前端扩展，使用 Vue 实现，�
 | forks | 47/100 |
 | stars | 75/100 |
 | topics | 38/100 |
-| outlook | 46/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

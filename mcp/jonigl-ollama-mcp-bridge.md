@@ -1,6 +1,6 @@
 # jonigl/ollama-mcp-bridge
 
-[![Stars](https://img.shields.io/github/stars/jonigl/ollama-mcp-bridge?style=flat-square&color=yellow)](https://github.com/jonigl/ollama-mcp-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/jonigl/ollama-mcp-bridge?style=flat-square&color=blue)](https://github.com/jonigl/ollama-mcp-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonigl/ollama-mcp-bridge?style=flat-square&color=yellow)](https://github.com/jonigl/ollama-mcp-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/jonigl/ollama-mcp-bridge?style=flat-square&color=blue)](https://github.com/jonigl/ollama-mcp-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Extend the Ollama API with dynamic AI tool integration from multiple MCP (Model Context Protocol) servers. Fully compatible, transparent, and developer-friendly, ideal for building powerful local LLM applications, AI agents, and custom chatbots
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Networking · Backend
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ jonigl/ollama-mcp-bridge 为 Ollama API 增添了对多个 MCP（Model Context P
 | forks | 38/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

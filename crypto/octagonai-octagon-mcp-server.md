@@ -1,6 +1,6 @@
 # OctagonAI/octagon-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/OctagonAI/octagon-mcp-server?style=flat-square&color=yellow)](https://github.com/OctagonAI/octagon-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/OctagonAI/octagon-mcp-server?style=flat-square&color=blue)](https://github.com/OctagonAI/octagon-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OctagonAI/octagon-mcp-server?style=flat-square&color=yellow)](https://github.com/OctagonAI/octagon-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/OctagonAI/octagon-mcp-server?style=flat-square&color=blue)](https://github.com/OctagonAI/octagon-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server for public & prediction markets research. Ask natural-language questions and get structured, source-backed answers across SEC filings, earnings transcripts, company financials, stock & crypto market data, and prediction markets news & research. Built for investors, analysts, and researchers who need fast, cited intelligence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ OctagonAI/octagon-mcp-server 是一款面向公开与预测市场研究的 MCP�
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

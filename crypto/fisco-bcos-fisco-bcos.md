@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 745 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Security
+Crypto · Networking · Security
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ FISCO-BCOS/FISCO-BCOS：FISCO-BCOS/FISCO-BCOS helps prototype or inspect blockch
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # graphhopper/graphhopper
 
-[![Stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=flat-square&color=yellow)](https://github.com/graphhopper/graphhopper/stargazers) [![Forks](https://img.shields.io/github/forks/graphhopper/graphhopper?style=flat-square&color=blue)](https://github.com/graphhopper/graphhopper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=flat-square&color=yellow)](https://github.com/graphhopper/graphhopper/stargazers) [![Forks](https://img.shields.io/github/forks/graphhopper/graphhopper?style=flat-square&color=blue)](https://github.com/graphhopper/graphhopper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ graphhopper/graphhopper 是基于 OpenStreetMap 的开源路径规划引擎，�
 | forks | 82/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

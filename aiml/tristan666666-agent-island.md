@@ -1,6 +1,6 @@
 # tristan666666/agent-island
 
-[![Stars](https://img.shields.io/github/stars/tristan666666/agent-island?style=flat-square&color=yellow)](https://github.com/tristan666666/agent-island/stargazers) [![Forks](https://img.shields.io/github/forks/tristan666666/agent-island?style=flat-square&color=blue)](https://github.com/tristan666666/agent-island/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tristan666666/agent-island?style=flat-square&color=yellow)](https://github.com/tristan666666/agent-island/stargazers) [![Forks](https://img.shields.io/github/forks/tristan666666/agent-island?style=flat-square&color=blue)](https://github.com/tristan666666/agent-island/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A status companion for Claude Code & Codex on macOS & Windows — watch both quotas & cost, get called when it's your turn, auto-resume after resets. Start the run, go live your life. 发完一轮就去生活，该你了它会叫你
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ agent-island 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

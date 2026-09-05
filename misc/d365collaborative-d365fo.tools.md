@@ -1,6 +1,6 @@
 # d365collaborative/d365fo.tools
 
-[![Stars](https://img.shields.io/github/stars/d365collaborative/d365fo.tools?style=flat-square&color=yellow)](https://github.com/d365collaborative/d365fo.tools/stargazers) [![Forks](https://img.shields.io/github/forks/d365collaborative/d365fo.tools?style=flat-square&color=blue)](https://github.com/d365collaborative/d365fo.tools/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d365collaborative/d365fo.tools?style=flat-square&color=yellow)](https://github.com/d365collaborative/d365fo.tools/stargazers) [![Forks](https://img.shields.io/github/forks/d365collaborative/d365fo.tools?style=flat-square&color=blue)](https://github.com/d365collaborative/d365fo.tools/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Tools used for Dynamics 365 Finance and Operations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ d365collaborative/d365fo.tools 的价值在于，它为 Dynamics 365 Finance and
 | forks | 52/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

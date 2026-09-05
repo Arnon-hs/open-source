@@ -1,6 +1,6 @@
 # hiroppy/mf-dashboard
 
-[![Stars](https://img.shields.io/github/stars/hiroppy/mf-dashboard?style=flat-square&color=yellow)](https://github.com/hiroppy/mf-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/hiroppy/mf-dashboard?style=flat-square&color=blue)](https://github.com/hiroppy/mf-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hiroppy/mf-dashboard?style=flat-square&color=yellow)](https://github.com/hiroppy/mf-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/hiroppy/mf-dashboard?style=flat-square&color=blue)](https://github.com/hiroppy/mf-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > マネーフォワードMeを自動化、保有資産の可視化を行います
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 358 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ hiroppy/mf-dashboard 是一个开源项目，用于自动化马来西亚 Money F
 | forks | 41/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

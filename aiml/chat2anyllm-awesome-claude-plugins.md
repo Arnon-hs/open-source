@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ Chat2AnyLLM/awesome-claude-plugins is a community‑maintained repository that a
 
 ### 中文
 
-Chat2AnyLLM/awesome-claude-plugins：Chat2AnyLLM/awesome-claude-plugins helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Chat2AnyLLM/awesome-claude-plugins：Chat2AnyLLM/awesome-claude-plugins may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** Chat2AnyLLM/awesome-claude-plugins helps add AI capability without starting from a blank model stack.
+**Value:** Chat2AnyLLM/awesome-claude-plugins may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +63,18 @@ Chat2AnyLLM/awesome-claude-plugins：Chat2AnyLLM/awesome-claude-plugins helps ad
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 44/100 |
-| adoption | 41/100 |
-| stars | 41/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 88/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

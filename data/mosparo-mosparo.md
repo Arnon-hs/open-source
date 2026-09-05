@@ -1,6 +1,6 @@
 # mosparo/mosparo
 
-[![Stars](https://img.shields.io/github/stars/mosparo/mosparo?style=flat-square&color=yellow)](https://github.com/mosparo/mosparo/stargazers) [![Forks](https://img.shields.io/github/forks/mosparo/mosparo?style=flat-square&color=blue)](https://github.com/mosparo/mosparo/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mosparo/mosparo?style=flat-square&color=yellow)](https://github.com/mosparo/mosparo/stargazers) [![Forks](https://img.shields.io/github/forks/mosparo/mosparo?style=flat-square&color=blue)](https://github.com/mosparo/mosparo/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The modern spam protection. Protects your forms from spam by simply checking the content. Open source, Free to use, Accessible, and Self-Hosted.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 295 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ mosparo 是一个现代化的开源反垃圾邮件工具，能够在表单提�
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

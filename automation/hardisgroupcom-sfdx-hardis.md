@@ -1,6 +1,6 @@
 # hardisgroupcom/sfdx-hardis
 
-[![Stars](https://img.shields.io/github/stars/hardisgroupcom/sfdx-hardis?style=flat-square&color=yellow)](https://github.com/hardisgroupcom/sfdx-hardis/stargazers) [![Forks](https://img.shields.io/github/forks/hardisgroupcom/sfdx-hardis?style=flat-square&color=blue)](https://github.com/hardisgroupcom/sfdx-hardis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hardisgroupcom/sfdx-hardis?style=flat-square&color=yellow)](https://github.com/hardisgroupcom/sfdx-hardis/stargazers) [![Forks](https://img.shields.io/github/forks/hardisgroupcom/sfdx-hardis?style=flat-square&color=blue)](https://github.com/hardisgroupcom/sfdx-hardis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > French-army-knife Toolbox for Salesforce. Orchestrates base commands and assist users with interactive wizards to make much more than native Salesforce CLI + Allows you to define a complete CI/CD Pipeline and Schedule a daily Metadata backup & monitoring of your orgs + AI-enhanced org Documentation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Overall, `sfdx-hardis` is a production‑ready, feature‑rich foundation for Sa
 | forks | 50/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

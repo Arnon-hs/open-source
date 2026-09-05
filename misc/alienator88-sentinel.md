@@ -1,6 +1,6 @@
 # alienator88/Sentinel
 
-[![Stars](https://img.shields.io/github/stars/alienator88/Sentinel?style=flat-square&color=yellow)](https://github.com/alienator88/Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/alienator88/Sentinel?style=flat-square&color=blue)](https://github.com/alienator88/Sentinel/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alienator88/Sentinel?style=flat-square&color=yellow)](https://github.com/alienator88/Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/alienator88/Sentinel?style=flat-square&color=blue)](https://github.com/alienator88/Sentinel/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Configure Gatekeeper, remove apps from quarantine and self-sign apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Alienator88 的 **Sentinel** 是一款基于 Swift 的前端工具库，能够�
 | forks | 43/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

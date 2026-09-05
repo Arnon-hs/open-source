@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ iw4x/iw4x-client：iw4x/iw4x-client helps catch security and privacy issues earl
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

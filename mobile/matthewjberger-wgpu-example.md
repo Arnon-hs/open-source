@@ -1,6 +1,6 @@
 # matthewjberger/wgpu-example
 
-[![Stars](https://img.shields.io/github/stars/matthewjberger/wgpu-example?style=flat-square&color=yellow)](https://github.com/matthewjberger/wgpu-example/stargazers) [![Forks](https://img.shields.io/github/forks/matthewjberger/wgpu-example?style=flat-square&color=blue)](https://github.com/matthewjberger/wgpu-example/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthewjberger/wgpu-example?style=flat-square&color=yellow)](https://github.com/matthewjberger/wgpu-example/stargazers) [![Forks](https://img.shields.io/github/forks/matthewjberger/wgpu-example?style=flat-square&color=blue)](https://github.com/matthewjberger/wgpu-example/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal example of using Rust, wgpu, and egui without using eframe 🦀 Works on Windows/Linux/MacOS/Web/Android/OpenXR (Such as Quest 3 + Virtual Desktop)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ matthewjberger/wgpu-example 是一个使用 Rust、wgpu 和 egui 的开源项目
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

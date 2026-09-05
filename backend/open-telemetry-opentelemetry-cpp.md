@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 556 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Observability
+Backend · Libraries & SDKs · Observability
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ open-telemetry/opentelemetry-cpp：open-telemetry/opentelemetry-cpp helps teams 
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tailscale/tailscale-rs
 
-[![Stars](https://img.shields.io/github/stars/tailscale/tailscale-rs?style=flat-square&color=yellow)](https://github.com/tailscale/tailscale-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tailscale/tailscale-rs?style=flat-square&color=blue)](https://github.com/tailscale/tailscale-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tailscale/tailscale-rs?style=flat-square&color=yellow)](https://github.com/tailscale/tailscale-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tailscale/tailscale-rs?style=flat-square&color=blue)](https://github.com/tailscale/tailscale-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of Tailscale (preview, experimental)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 750 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ tailscale-rs 为 Rust 项目提供了即插即用的安全网络层，能够显�
 | forks | 38/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

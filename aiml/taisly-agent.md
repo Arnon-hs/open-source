@@ -1,6 +1,6 @@
 # taisly/agent
 
-[![Stars](https://img.shields.io/github/stars/taisly/agent?style=flat-square&color=yellow)](https://github.com/taisly/agent/stargazers) [![Forks](https://img.shields.io/github/forks/taisly/agent?style=flat-square&color=blue)](https://github.com/taisly/agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taisly/agent?style=flat-square&color=yellow)](https://github.com/taisly/agent/stargazers) [![Forks](https://img.shields.io/github/forks/taisly/agent?style=flat-square&color=blue)](https://github.com/taisly/agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ Taisly Agent Kit 的生产可用性为中等（Medium）。它适合用于 proto
 | forks | 0/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

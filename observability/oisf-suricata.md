@@ -1,6 +1,6 @@
 # OISF/suricata
 
-[![Stars](https://img.shields.io/github/stars/OISF/suricata?style=flat-square&color=yellow)](https://github.com/OISF/suricata/stargazers) [![Forks](https://img.shields.io/github/forks/OISF/suricata?style=flat-square&color=blue)](https://github.com/OISF/suricata/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OISF/suricata?style=flat-square&color=yellow)](https://github.com/OISF/suricata/stargazers) [![Forks](https://img.shields.io/github/forks/OISF/suricata?style=flat-square&color=blue)](https://github.com/OISF/suricata/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ OISF/suricata 的生产可用性较高，具有强大的社区支持、活跃的
 | forks | 81/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

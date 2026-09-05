@@ -1,6 +1,6 @@
 # RimSort/RimSort
 
-[![Stars](https://img.shields.io/github/stars/RimSort/RimSort?style=flat-square&color=yellow)](https://github.com/RimSort/RimSort/stargazers) [![Forks](https://img.shields.io/github/forks/RimSort/RimSort?style=flat-square&color=blue)](https://github.com/RimSort/RimSort/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RimSort/RimSort?style=flat-square&color=yellow)](https://github.com/RimSort/RimSort/stargazers) [![Forks](https://img.shields.io/github/forks/RimSort/RimSort?style=flat-square&color=blue)](https://github.com/RimSort/RimSort/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > RimSort is an open source mod manager for the video game RimWorld. There is support for Linux, Mac, and Windows, built from the ground up to be a reliable, community-managed alternative to RimPy Mod Manager.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ RimSort 是一款开源的 RimWorld 模组管理器，支持 Linux、macOS 与 W
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

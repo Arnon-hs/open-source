@@ -1,6 +1,6 @@
 # GSI-HPC/lustre_exporter
 
-[![Stars](https://img.shields.io/github/stars/GSI-HPC/lustre_exporter?style=flat-square&color=yellow)](https://github.com/GSI-HPC/lustre_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/GSI-HPC/lustre_exporter?style=flat-square&color=blue)](https://github.com/GSI-HPC/lustre_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GSI-HPC/lustre_exporter?style=flat-square&color=yellow)](https://github.com/GSI-HPC/lustre_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/GSI-HPC/lustre_exporter?style=flat-square&color=blue)](https://github.com/GSI-HPC/lustre_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus exporter for use with the Lustre parallel filesystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ GSI-HPC/lustre_exporter: . Use it for Observability.
 
 ### Русский
 
-GSI-HPC/lustre_exporter: open-source проект в категориях Observability. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+GSI-HPC/lustre_exporter: open-source проект в категориях Observability. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ GSI-HPC/lustre_exporter：。适合用于Observability。
 | forks | 35/100 |
 | stars | 32/100 |
 | topics | 50/100 |
-| outlook | 43/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 100/100 |
 | adoption | 33/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # SebastienMelki/sebuf
 
-[![Stars](https://img.shields.io/github/stars/SebastienMelki/sebuf?style=flat-square&color=yellow)](https://github.com/SebastienMelki/sebuf/stargazers) [![Forks](https://img.shields.io/github/forks/SebastienMelki/sebuf?style=flat-square&color=blue)](https://github.com/SebastienMelki/sebuf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SebastienMelki/sebuf?style=flat-square&color=yellow)](https://github.com/SebastienMelki/sebuf/stargazers) [![Forks](https://img.shields.io/github/forks/SebastienMelki/sebuf?style=flat-square&color=blue)](https://github.com/SebastienMelki/sebuf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Comprehensive Go protobuf toolkit for building type-safe HTTP APIs with automatic validation, OpenAPI docs, and low number of dependencies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ SebastienMelki/sebuf 是一套基于 Go 的 protobuf 工具集，能够快速生
 | forks | 23/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

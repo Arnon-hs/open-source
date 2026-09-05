@@ -1,6 +1,6 @@
 # dannymcc/may
 
-[![Stars](https://img.shields.io/github/stars/dannymcc/may?style=flat-square&color=yellow)](https://github.com/dannymcc/may/stargazers) [![Forks](https://img.shields.io/github/forks/dannymcc/may?style=flat-square&color=blue)](https://github.com/dannymcc/may/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dannymcc/may?style=flat-square&color=yellow)](https://github.com/dannymcc/may/stargazers) [![Forks](https://img.shields.io/github/forks/dannymcc/may?style=flat-square&color=blue)](https://github.com/dannymcc/may/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > May is a web-based dashboard application that gives you a neat and clean interface for logging your fuel fill-ups for all of your vehicles. The application has full multi-user support, as well as multiple vehicles per user. Whenever you fill-up your car or motorcycle, keep the receipt and record the data in May.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ May 有很高的生产可用性，适合于严肃的试验。其 GitHub 明星�
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

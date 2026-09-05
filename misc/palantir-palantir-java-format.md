@@ -1,6 +1,6 @@
 # palantir/palantir-java-format
 
-[![Stars](https://img.shields.io/github/stars/palantir/palantir-java-format?style=flat-square&color=yellow)](https://github.com/palantir/palantir-java-format/stargazers) [![Forks](https://img.shields.io/github/forks/palantir/palantir-java-format?style=flat-square&color=blue)](https://github.com/palantir/palantir-java-format/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/palantir/palantir-java-format?style=flat-square&color=yellow)](https://github.com/palantir/palantir-java-format/stargazers) [![Forks](https://img.shields.io/github/forks/palantir/palantir-java-format?style=flat-square&color=blue)](https://github.com/palantir/palantir-java-format/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, lambda-friendly, 120 character Java formatter.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 844 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ palantir/palantir-java-format 的生产可用性为中等，适合用于原型�
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # openebs/lvm-localpv
 
-[![Stars](https://img.shields.io/github/stars/openebs/lvm-localpv?style=flat-square&color=yellow)](https://github.com/openebs/lvm-localpv/stargazers) [![Forks](https://img.shields.io/github/forks/openebs/lvm-localpv?style=flat-square&color=blue)](https://github.com/openebs/lvm-localpv/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openebs/lvm-localpv?style=flat-square&color=yellow)](https://github.com/openebs/lvm-localpv/stargazers) [![Forks](https://img.shields.io/github/forks/openebs/lvm-localpv?style=flat-square&color=blue)](https://github.com/openebs/lvm-localpv/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ openebs/lvm‑localpv 通过将成熟的 LVM2 存储能力包装为标准 CSI �
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

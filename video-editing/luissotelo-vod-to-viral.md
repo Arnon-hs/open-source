@@ -1,6 +1,6 @@
 # LuisSotelo/vod-to-viral
 
-[![Stars](https://img.shields.io/github/stars/LuisSotelo/vod-to-viral?style=flat-square&color=yellow)](https://github.com/LuisSotelo/vod-to-viral/stargazers) [![Forks](https://img.shields.io/github/forks/LuisSotelo/vod-to-viral?style=flat-square&color=blue)](https://github.com/LuisSotelo/vod-to-viral/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LuisSotelo/vod-to-viral?style=flat-square&color=yellow)](https://github.com/LuisSotelo/vod-to-viral/stargazers) [![Forks](https://img.shields.io/github/forks/LuisSotelo/vod-to-viral?style=flat-square&color=blue)](https://github.com/LuisSotelo/vod-to-viral/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically turn Twitch VODs and YouTube videos into viral-ready clips using AI. Detects highlights via audio, chat, motion, and speech, then exports vertical videos with dynamic subtitles for TikTok, Reels, and Shorts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Content Creation · Automation · AI/ML
+Video Editing · Content Creation · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ LuisSotelo/vod-to-viral 能自动将 Twitch VOD 和 YouTube 视频转换为 TikT
 | forks | 12/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

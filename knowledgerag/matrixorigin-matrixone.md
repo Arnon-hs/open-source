@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 296 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · AI/ML · Cloud & Storage · Data · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ matrixorigin/matrixone：matrixorigin/matrixone helps make internal knowledge se
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

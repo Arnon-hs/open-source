@@ -1,6 +1,6 @@
 # bitrise-io/bitrise
 
-[![Stars](https://img.shields.io/github/stars/bitrise-io/bitrise?style=flat-square&color=yellow)](https://github.com/bitrise-io/bitrise/stargazers) [![Forks](https://img.shields.io/github/forks/bitrise-io/bitrise?style=flat-square&color=blue)](https://github.com/bitrise-io/bitrise/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitrise-io/bitrise?style=flat-square&color=yellow)](https://github.com/bitrise-io/bitrise/stargazers) [![Forks](https://img.shields.io/github/forks/bitrise-io/bitrise?style=flat-square&color=blue)](https://github.com/bitrise-io/bitrise/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Bitrise runner CLI - run your automations on your Mac or Linux machine -
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 891 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Bitrise runner CLI（`bitrise-io/bitrise`）是一款基于 Go 实现的命�
 | forks | 53/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

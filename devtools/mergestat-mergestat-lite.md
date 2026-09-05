@@ -1,6 +1,6 @@
 # mergestat/mergestat-lite
 
-[![Stars](https://img.shields.io/github/stars/mergestat/mergestat-lite?style=flat-square&color=yellow)](https://github.com/mergestat/mergestat-lite/stargazers) [![Forks](https://img.shields.io/github/forks/mergestat/mergestat-lite?style=flat-square&color=blue)](https://github.com/mergestat/mergestat-lite/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mergestat/mergestat-lite?style=flat-square&color=yellow)](https://github.com/mergestat/mergestat-lite/stargazers) [![Forks](https://img.shields.io/github/forks/mergestat/mergestat-lite?style=flat-square&color=blue)](https://github.com/mergestat/mergestat-lite/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ mergestat/mergestat‑lite 是一款基于 SQL 的 Git 仓库查询引擎，能�
 | forks | 51/100 |
 | stars | 75/100 |
 | topics | 88/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

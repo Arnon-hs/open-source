@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-langchain4j
 
-[![Stars](https://img.shields.io/github/stars/quarkiverse/quarkus-langchain4j?style=flat-square&color=yellow)](https://github.com/quarkiverse/quarkus-langchain4j/stargazers) [![Forks](https://img.shields.io/github/forks/quarkiverse/quarkus-langchain4j?style=flat-square&color=blue)](https://github.com/quarkiverse/quarkus-langchain4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quarkiverse/quarkus-langchain4j?style=flat-square&color=yellow)](https://github.com/quarkiverse/quarkus-langchain4j/stargazers) [![Forks](https://img.shields.io/github/forks/quarkiverse/quarkus-langchain4j?style=flat-square&color=blue)](https://github.com/quarkiverse/quarkus-langchain4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Quarkus Langchain4j extension
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 295 |
 | 🍴 **Forks** | 212 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Quarkus Langchain4j 是 Quarkus 生态下的 LangChain4j 扩展，旨在把单�
 | forks | 58/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 44/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

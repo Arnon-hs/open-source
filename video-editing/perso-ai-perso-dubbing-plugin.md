@@ -1,6 +1,6 @@
 # perso-ai/perso-dubbing-plugin
 
-[![Stars](https://img.shields.io/github/stars/perso-ai/perso-dubbing-plugin?style=flat-square&color=yellow)](https://github.com/perso-ai/perso-dubbing-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/perso-ai/perso-dubbing-plugin?style=flat-square&color=blue)](https://github.com/perso-ai/perso-dubbing-plugin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/perso-ai/perso-dubbing-plugin?style=flat-square&color=yellow)](https://github.com/perso-ai/perso-dubbing-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/perso-ai/perso-dubbing-plugin?style=flat-square&color=blue)](https://github.com/perso-ai/perso-dubbing-plugin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI video auto-dubbing plugin for coding agents — translate & dub videos into multiple languages via the Perso Dubbing API. Works with Claude Code, Cursor, Codex & Antigravity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ perso-ai/perso-dubbing-plugin 帮助开发者在不从头构建模型堆栈的�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

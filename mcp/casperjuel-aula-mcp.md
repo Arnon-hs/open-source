@@ -1,6 +1,6 @@
 # Casperjuel/aula-mcp
 
-[![Stars](https://img.shields.io/github/stars/Casperjuel/aula-mcp?style=flat-square&color=yellow)](https://github.com/Casperjuel/aula-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Casperjuel/aula-mcp?style=flat-square&color=blue)](https://github.com/Casperjuel/aula-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Casperjuel/aula-mcp?style=flat-square&color=yellow)](https://github.com/Casperjuel/aula-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Casperjuel/aula-mcp?style=flat-square&color=blue)](https://github.com/Casperjuel/aula-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Denmark's Aula school platform — TypeScript MitID auth, no headless browser. Exposes profiles, calendar, messages, ugeplaner to AI agents (Claude/Cursor/etc) via Model Context Protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · AI/ML · Communication · Backend · Security
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ Casperjuel/aula-mcp 是面向丹麦 Aula 学校平台的 MCP（Model Context Pro
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

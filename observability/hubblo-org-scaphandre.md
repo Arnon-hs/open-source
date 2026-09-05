@@ -1,6 +1,6 @@
 # hubblo-org/scaphandre
 
-[![Stars](https://img.shields.io/github/stars/hubblo-org/scaphandre?style=flat-square&color=yellow)](https://github.com/hubblo-org/scaphandre/stargazers) [![Forks](https://img.shields.io/github/forks/hubblo-org/scaphandre?style=flat-square&color=blue)](https://github.com/hubblo-org/scaphandre/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hubblo-org/scaphandre?style=flat-square&color=yellow)](https://github.com/hubblo-org/scaphandre/stargazers) [![Forks](https://img.shields.io/github/forks/hubblo-org/scaphandre?style=flat-square&color=blue)](https://github.com/hubblo-org/scaphandre/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Scaphandre 在生产环境中具有较高的可用性，主要原因是：
 | forks | 53/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

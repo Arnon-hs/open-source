@@ -1,6 +1,6 @@
 # sassman/amoxide-rs
 
-[![Stars](https://img.shields.io/github/stars/sassman/amoxide-rs?style=flat-square&color=yellow)](https://github.com/sassman/amoxide-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sassman/amoxide-rs?style=flat-square&color=blue)](https://github.com/sassman/amoxide-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sassman/amoxide-rs?style=flat-square&color=yellow)](https://github.com/sassman/amoxide-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sassman/amoxide-rs?style=flat-square&color=blue)](https://github.com/sassman/amoxide-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > amoxide (am) helps to manage your shell aliases either globally, profile- or project-specific. It loads context specific relevant aliases automatically
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ amoxide (am) is a Rust‑based CLI tool that lets you define, organize, and auto
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

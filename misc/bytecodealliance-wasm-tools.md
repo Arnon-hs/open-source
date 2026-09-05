@@ -1,6 +1,6 @@
 # bytecodealliance/wasm-tools
 
-[![Stars](https://img.shields.io/github/stars/bytecodealliance/wasm-tools?style=flat-square&color=yellow)](https://github.com/bytecodealliance/wasm-tools/stargazers) [![Forks](https://img.shields.io/github/forks/bytecodealliance/wasm-tools?style=flat-square&color=blue)](https://github.com/bytecodealliance/wasm-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytecodealliance/wasm-tools?style=flat-square&color=yellow)](https://github.com/bytecodealliance/wasm-tools/stargazers) [![Forks](https://img.shields.io/github/forks/bytecodealliance/wasm-tools?style=flat-square&color=blue)](https://github.com/bytecodealliance/wasm-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > CLI and Rust libraries for low-level manipulation of WebAssembly modules
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 341 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Bytecode Alliance 的 wasm-tools 的生产可用性为中等（Medium），适�
 | forks | 63/100 |
 | stars | 69/100 |
 | topics | 25/100 |
-| outlook | 58/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

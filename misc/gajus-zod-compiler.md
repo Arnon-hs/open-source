@@ -1,6 +1,6 @@
 # gajus/zod-compiler
 
-[![Stars](https://img.shields.io/github/stars/gajus/zod-compiler?style=flat-square&color=yellow)](https://github.com/gajus/zod-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/gajus/zod-compiler?style=flat-square&color=blue)](https://github.com/gajus/zod-compiler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gajus/zod-compiler?style=flat-square&color=yellow)](https://github.com/gajus/zod-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/gajus/zod-compiler?style=flat-square&color=blue)](https://github.com/gajus/zod-compiler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 561 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ gajus/zod-compiler 是一个开源项目，用于在构建时间编译 Zod 架�
 | forks | 25/100 |
 | stars | 59/100 |
 | topics | 13/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

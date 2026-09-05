@@ -1,6 +1,6 @@
 # puppyone-ai/DeepWideResearch
 
-[![Stars](https://img.shields.io/github/stars/puppyone-ai/DeepWideResearch?style=flat-square&color=yellow)](https://github.com/puppyone-ai/DeepWideResearch/stargazers) [![Forks](https://img.shields.io/github/forks/puppyone-ai/DeepWideResearch?style=flat-square&color=blue)](https://github.com/puppyone-ai/DeepWideResearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puppyone-ai/DeepWideResearch?style=flat-square&color=yellow)](https://github.com/puppyone-ai/DeepWideResearch/stargazers) [![Forks](https://img.shields.io/github/forks/puppyone-ai/DeepWideResearch?style=flat-square&color=blue)](https://github.com/puppyone-ai/DeepWideResearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic RAG for any scenario. Customize sources, depth, and width
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ puppyone-ai/DeepWideResearch 是一款面向任意业务场景的 Agentic RAG �
 | forks | 21/100 |
 | stars | 52/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

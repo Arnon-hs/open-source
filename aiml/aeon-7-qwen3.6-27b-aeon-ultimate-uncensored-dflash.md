@@ -1,6 +1,6 @@
 # AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash
 
-[![Stars](https://img.shields.io/github/stars/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash?style=flat-square&color=yellow)](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash/stargazers) [![Forks](https://img.shields.io/github/forks/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash?style=flat-square&color=blue)](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash?style=flat-square&color=yellow)](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash/stargazers) [![Forks](https://img.shields.io/github/forks/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash?style=flat-square&color=blue)](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Fully uncensored, capability-enhanced abliteration of Qwen3.6-27B. NVFP4 + z-lab DFlash speculative decoding (n=12) on the unified ghcr.io/aeon-7/aeon-vllm-ultimate:latest container, tuned for long-context draft acceptance on DGX Spark. 6 HF variants (BF16/NVFP4/MTP/MTP-XS), docker-compose, and QuickStart.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,11 +132,11 @@ AEON-7/Qwen3.6-27B‑AEON‑Ultimate‑Uncensored‑DFlash 是在 Qwen 3.6‑2
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

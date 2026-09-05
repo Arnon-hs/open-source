@@ -1,6 +1,6 @@
 # portfolio-performance/portfolio
 
-[![Stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=flat-square&color=yellow)](https://github.com/portfolio-performance/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/portfolio-performance/portfolio?style=flat-square&color=blue)](https://github.com/portfolio-performance/portfolio/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=flat-square&color=yellow)](https://github.com/portfolio-performance/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/portfolio-performance/portfolio?style=flat-square&color=blue)](https://github.com/portfolio-performance/portfolio/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 792 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ portfolio-performance/portfolio 是一款开源工具，可实时追踪并评估
 | forks | 72/100 |
 | stars | 77/100 |
 | topics | 88/100 |
-| outlook | 63/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

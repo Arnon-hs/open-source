@@ -1,6 +1,6 @@
 # alibaba/page-agent
 
-[![Stars](https://img.shields.io/github/stars/alibaba/page-agent?style=flat-square&color=yellow)](https://github.com/alibaba/page-agent/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/page-agent?style=flat-square&color=blue)](https://github.com/alibaba/page-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/page-agent?style=flat-square&color=yellow)](https://github.com/alibaba/page-agent/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/page-agent?style=flat-square&color=blue)](https://github.com/alibaba/page-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript in-page GUI agent. Control web interfaces with natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.7k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ The repository shows strong community traction (≈ 17 k stars, 1.5 k fork
 | forks | 79/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 74/100 |
-| recency | 20/100 |
+| outlook | 88/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 57/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # SwiftFiddle/swift-ast-explorer
 
-[![Stars](https://img.shields.io/github/stars/SwiftFiddle/swift-ast-explorer?style=flat-square&color=yellow)](https://github.com/SwiftFiddle/swift-ast-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/SwiftFiddle/swift-ast-explorer?style=flat-square&color=blue)](https://github.com/SwiftFiddle/swift-ast-explorer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SwiftFiddle/swift-ast-explorer?style=flat-square&color=yellow)](https://github.com/SwiftFiddle/swift-ast-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/SwiftFiddle/swift-ast-explorer?style=flat-square&color=blue)](https://github.com/SwiftFiddle/swift-ast-explorer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AST visualizer for Swift source code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 654 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ SwiftFiddle/swift-ast-explorer 能把 Swift 源码的抽象语法树（AST）可
 | forks | 39/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 43/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

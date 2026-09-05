@@ -1,6 +1,6 @@
 # parkerhancock/patent-client-agents
 
-[![Stars](https://img.shields.io/github/stars/parkerhancock/patent-client-agents?style=flat-square&color=yellow)](https://github.com/parkerhancock/patent-client-agents/stargazers) [![Forks](https://img.shields.io/github/forks/parkerhancock/patent-client-agents?style=flat-square&color=blue)](https://github.com/parkerhancock/patent-client-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/parkerhancock/patent-client-agents?style=flat-square&color=yellow)](https://github.com/parkerhancock/patent-client-agents/stargazers) [![Forks](https://img.shields.io/github/forks/parkerhancock/patent-client-agents?style=flat-square&color=blue)](https://github.com/parkerhancock/patent-client-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Intellectual property data tools for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ parkerhancock/patent-client-agents 能让 AI 产品快速获得专利检索和�
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 493 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ adysec/nuclei_poc：adysec/nuclei_poc helps teams reuse working workflows and pr
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

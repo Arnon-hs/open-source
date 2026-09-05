@@ -1,6 +1,6 @@
 # henriquesebastiao/downtify
 
-[![Stars](https://img.shields.io/github/stars/henriquesebastiao/downtify?style=flat-square&color=yellow)](https://github.com/henriquesebastiao/downtify/stargazers) [![Forks](https://img.shields.io/github/forks/henriquesebastiao/downtify?style=flat-square&color=blue)](https://github.com/henriquesebastiao/downtify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/henriquesebastiao/downtify?style=flat-square&color=yellow)](https://github.com/henriquesebastiao/downtify/stargazers) [![Forks](https://img.shields.io/github/forks/henriquesebastiao/downtify?style=flat-square&color=blue)](https://github.com/henriquesebastiao/downtify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Download your playlists and songs, along with album art and metadata, in a self-hosted format via Docker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Henriquesebastiao/downtify 是一个基于 Docker 的自托管工具，可一键
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

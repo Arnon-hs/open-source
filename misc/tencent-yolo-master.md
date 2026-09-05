@@ -1,6 +1,6 @@
 # Tencent/YOLO-Master
 
-[![Stars](https://img.shields.io/github/stars/Tencent/YOLO-Master?style=flat-square&color=yellow)](https://github.com/Tencent/YOLO-Master/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/YOLO-Master?style=flat-square&color=blue)](https://github.com/Tencent/YOLO-Master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/YOLO-Master?style=flat-square&color=yellow)](https://github.com/Tencent/YOLO-Master/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/YOLO-Master?style=flat-square&color=blue)](https://github.com/Tencent/YOLO-Master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > [CVPR2026]🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 574 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Tencent/YOLO-Master 帮助用户快速添加 AI 能力，省去了从零开始�
 | forks | 50/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

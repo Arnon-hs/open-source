@@ -1,6 +1,6 @@
 # mozilla/bedrock
 
-[![Stars](https://img.shields.io/github/stars/mozilla/bedrock?style=flat-square&color=yellow)](https://github.com/mozilla/bedrock/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/bedrock?style=flat-square&color=blue)](https://github.com/mozilla/bedrock/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla/bedrock?style=flat-square&color=yellow)](https://github.com/mozilla/bedrock/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/bedrock?style=flat-square&color=blue)](https://github.com/mozilla/bedrock/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Making mozilla.org awesome, one pebble at a time
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 973 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -86,15 +86,15 @@ mozilla/bedrock 的生产可用性非常高。该项目最近有活跃的开发�
 | forks | 75/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 65/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

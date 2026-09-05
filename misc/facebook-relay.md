@@ -1,6 +1,6 @@
 # facebook/relay
 
-[![Stars](https://img.shields.io/github/stars/facebook/relay?style=flat-square&color=yellow)](https://github.com/facebook/relay/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/relay?style=flat-square&color=blue)](https://github.com/facebook/relay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/relay?style=flat-square&color=yellow)](https://github.com/facebook/relay/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/relay?style=flat-square&color=blue)](https://github.com/facebook/relay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Relay is a JavaScript framework for building data-driven React applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.9k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Relay 是 Facebook 开源的 JavaScript 框架，专为构建数据驱动的 Rea
 | forks | 82/100 |
 | stars | 91/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

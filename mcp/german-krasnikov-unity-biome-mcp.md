@@ -1,6 +1,6 @@
 # german-krasnikov/unity-biome-mcp
 
-[![Stars](https://img.shields.io/github/stars/german-krasnikov/unity-biome-mcp?style=flat-square&color=yellow)](https://github.com/german-krasnikov/unity-biome-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/german-krasnikov/unity-biome-mcp?style=flat-square&color=blue)](https://github.com/german-krasnikov/unity-biome-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/german-krasnikov/unity-biome-mcp?style=flat-square&color=yellow)](https://github.com/german-krasnikov/unity-biome-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/german-krasnikov/unity-biome-mcp?style=flat-square&color=blue)](https://github.com/german-krasnikov/unity-biome-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Unity Editor — 148 tools for scene, assets, animation, VFX, playtest & more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ german-krasnikov/unity-biome-mcp 是一个开源项目，提供了一个MCP（Mo
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

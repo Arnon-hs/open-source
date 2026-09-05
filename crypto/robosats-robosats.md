@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading
+Crypto · Trading · Networking
 
 ## 📝 Summary
 
@@ -111,7 +111,7 @@ RoboSats/robosats 已经有较高的生产可用性，主要原因包括：
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # owenizedd/bum
 
-[![Stars](https://img.shields.io/github/stars/owenizedd/bum?style=flat-square&color=yellow)](https://github.com/owenizedd/bum/stargazers) [![Forks](https://img.shields.io/github/forks/owenizedd/bum?style=flat-square&color=blue)](https://github.com/owenizedd/bum/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owenizedd/bum?style=flat-square&color=yellow)](https://github.com/owenizedd/bum/stargazers) [![Forks](https://img.shields.io/github/forks/owenizedd/bum?style=flat-square&color=blue)](https://github.com/owenizedd/bum/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Bun Version Manager written in Rust⚡
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Backend
 | forks | 23/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

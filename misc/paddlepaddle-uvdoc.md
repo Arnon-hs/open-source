@@ -1,6 +1,6 @@
 # PaddlePaddle/UVDoc
 
-[![Stars](https://img.shields.io/github/stars/PaddlePaddle/UVDoc?style=flat-square&color=yellow)](https://huggingface.co/PaddlePaddle/UVDoc/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/UVDoc?style=flat-square&color=blue)](https://huggingface.co/PaddlePaddle/UVDoc/network) [![Language](https://img.shields.io/badge/lang-PaddleOCR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaddlePaddle/UVDoc?style=flat-square&color=yellow)](https://huggingface.co/PaddlePaddle/UVDoc/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/UVDoc?style=flat-square&color=blue)](https://huggingface.co/PaddlePaddle/UVDoc/network) [![Language](https://img.shields.io/badge/lang-PaddleOCR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Vision language (image-to-text) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PaddleOCR |
-| 📈 **Score** | 32/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ PaddlePaddle/UVDoc 的生产可用性暂时处于早期或不明确的状态。�
 | forks | 0/100 |
 | stars | 23/100 |
 | topics | 38/100 |
-| outlook | 30/100 |
-| quality | 29/100 |
-| recency | 20/100 |
+| outlook | 51/100 |
+| quality | 44/100 |
+| recency | 80/100 |
 | adoption | 17/100 |
-| production | 33/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

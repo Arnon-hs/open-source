@@ -1,6 +1,6 @@
 # devicelab-dev/maestro-runner
 
-[![Stars](https://img.shields.io/github/stars/devicelab-dev/maestro-runner?style=flat-square&color=yellow)](https://github.com/devicelab-dev/maestro-runner/stargazers) [![Forks](https://img.shields.io/github/forks/devicelab-dev/maestro-runner?style=flat-square&color=blue)](https://github.com/devicelab-dev/maestro-runner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devicelab-dev/maestro-runner?style=flat-square&color=yellow)](https://github.com/devicelab-dev/maestro-runner/stargazers) [![Forks](https://img.shields.io/github/forks/devicelab-dev/maestro-runner?style=flat-square&color=blue)](https://github.com/devicelab-dev/maestro-runner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Fast mobile UI test automation for Android, iOS, React Native, Flutter & Expo. Open-source Maestro alternative — 100% free, no features behind a paywall. Supports real iOS devices, simulators, emulators, and cloud providers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ devicelab-dev/maestro‑runner 提供一站式的移动 UI 自动化测试框架
 | forks | 38/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

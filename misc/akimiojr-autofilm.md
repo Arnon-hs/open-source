@@ -1,6 +1,6 @@
 # AkimioJR/AutoFilm
 
-[![Stars](https://img.shields.io/github/stars/AkimioJR/AutoFilm?style=flat-square&color=yellow)](https://github.com/AkimioJR/AutoFilm/stargazers) [![Forks](https://img.shields.io/github/forks/AkimioJR/AutoFilm?style=flat-square&color=blue)](https://github.com/AkimioJR/AutoFilm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AkimioJR/AutoFilm?style=flat-square&color=yellow)](https://github.com/AkimioJR/AutoFilm/stargazers) [![Forks](https://img.shields.io/github/forks/AkimioJR/AutoFilm?style=flat-square&color=blue)](https://github.com/AkimioJR/AutoFilm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 一个为Emby、Jellyfin提供生成strm、动漫追番、绘制媒体库海报的小工具
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ AkimioJR/AutoFilm 的生产可用性为"中等"（Medium），这意味着它适
 | forks | 49/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

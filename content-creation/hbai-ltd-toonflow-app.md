@@ -1,6 +1,6 @@
 # HBAI-Ltd/Toonflow-app
 
-[![Stars](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square&color=yellow)](https://github.com/HBAI-Ltd/Toonflow-app/stargazers) [![Forks](https://img.shields.io/github/forks/HBAI-Ltd/Toonflow-app?style=flat-square&color=blue)](https://github.com/HBAI-Ltd/Toonflow-app/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square&color=yellow)](https://github.com/HBAI-Ltd/Toonflow-app/stargazers) [![Forks](https://img.shields.io/github/forks/HBAI-Ltd/Toonflow-app?style=flat-square&color=blue)](https://github.com/HBAI-Ltd/Toonflow-app/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Automation · AI/ML
+Content Creation · Automation · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ Toonflow 是一款开源的一站式 AI 短剧创作工具，能够把小说或�
 | forks | 78/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 72/100 |
-| recency | 20/100 |
+| outlook | 86/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

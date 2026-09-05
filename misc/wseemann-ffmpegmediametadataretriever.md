@@ -1,6 +1,6 @@
 # wseemann/FFmpegMediaMetadataRetriever
 
-[![Stars](https://img.shields.io/github/stars/wseemann/FFmpegMediaMetadataRetriever?style=flat-square&color=yellow)](https://github.com/wseemann/FFmpegMediaMetadataRetriever/stargazers) [![Forks](https://img.shields.io/github/forks/wseemann/FFmpegMediaMetadataRetriever?style=flat-square&color=blue)](https://github.com/wseemann/FFmpegMediaMetadataRetriever/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wseemann/FFmpegMediaMetadataRetriever?style=flat-square&color=yellow)](https://github.com/wseemann/FFmpegMediaMetadataRetriever/stargazers) [![Forks](https://img.shields.io/github/forks/wseemann/FFmpegMediaMetadataRetriever?style=flat-square&color=blue)](https://github.com/wseemann/FFmpegMediaMetadataRetriever/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > FFmpegMediaMetadataRetriever provides a unified interface for retrieving frame and meta data from an input media file.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 394 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ FFmpegMediaMetadataRetriever 在原始媒体转结构化数据的场景下提供
 | forks | 65/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

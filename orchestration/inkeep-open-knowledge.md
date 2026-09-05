@@ -1,6 +1,6 @@
 # inkeep/open-knowledge
 
-[![Stars](https://img.shields.io/github/stars/inkeep/open-knowledge?style=flat-square&color=yellow)](https://github.com/inkeep/open-knowledge/stargazers) [![Forks](https://img.shields.io/github/forks/inkeep/open-knowledge?style=flat-square&color=blue)](https://github.com/inkeep/open-knowledge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inkeep/open-knowledge?style=flat-square&color=yellow)](https://github.com/inkeep/open-knowledge/stargazers) [![Forks](https://img.shields.io/github/forks/inkeep/open-knowledge?style=flat-square&color=blue)](https://github.com/inkeep/open-knowledge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful, AI-native markdown editor and LLM Wiki
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ inkeep/open-knowledge 是一款基于 AI 的 Markdown 编辑器，天然支持�
 | forks | 8/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

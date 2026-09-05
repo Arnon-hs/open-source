@@ -1,6 +1,6 @@
 # open-reaction-database/ord-data
 
-[![Stars](https://img.shields.io/github/stars/open-reaction-database/ord-data?style=flat-square&color=yellow)](https://github.com/open-reaction-database/ord-data/stargazers) [![Forks](https://img.shields.io/github/forks/open-reaction-database/ord-data?style=flat-square&color=blue)](https://github.com/open-reaction-database/ord-data/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-reaction-database/ord-data?style=flat-square&color=yellow)](https://github.com/open-reaction-database/ord-data/stargazers) [![Forks](https://img.shields.io/github/forks/open-reaction-database/ord-data?style=flat-square&color=blue)](https://github.com/open-reaction-database/ord-data/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Official data repository for the Open Reaction Database
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,11 +69,11 @@ open‑reaction‑database/ord-data 是 Open Reaction Database 的官方数据�
 | forks | 48/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

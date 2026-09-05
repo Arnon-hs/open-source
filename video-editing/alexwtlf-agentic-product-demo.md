@@ -1,6 +1,6 @@
 # Alexwtlf/agentic-product-demo
 
-[![Stars](https://img.shields.io/github/stars/Alexwtlf/agentic-product-demo?style=flat-square&color=yellow)](https://github.com/Alexwtlf/agentic-product-demo/stargazers) [![Forks](https://img.shields.io/github/forks/Alexwtlf/agentic-product-demo?style=flat-square&color=blue)](https://github.com/Alexwtlf/agentic-product-demo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alexwtlf/agentic-product-demo?style=flat-square&color=yellow)](https://github.com/Alexwtlf/agentic-product-demo/stargazers) [![Forks](https://img.shields.io/github/forks/Alexwtlf/agentic-product-demo?style=flat-square&color=blue)](https://github.com/Alexwtlf/agentic-product-demo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Create polished product demo videos with AI coding agents and Remotion. The UI is code, not a screen recording.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-28 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Alexwtlf/agentic-product-demo 通过 AI 编码代理和 Remotion 快速生成专
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

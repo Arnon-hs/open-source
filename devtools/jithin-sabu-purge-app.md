@@ -1,6 +1,6 @@
 # jithin-sabu/purge-app
 
-[![Stars](https://img.shields.io/github/stars/jithin-sabu/purge-app?style=flat-square&color=yellow)](https://github.com/jithin-sabu/purge-app/stargazers) [![Forks](https://img.shields.io/github/forks/jithin-sabu/purge-app?style=flat-square&color=blue)](https://github.com/jithin-sabu/purge-app/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jithin-sabu/purge-app?style=flat-square&color=yellow)](https://github.com/jithin-sabu/purge-app/stargazers) [![Forks](https://img.shields.io/github/forks/jithin-sabu/purge-app?style=flat-square&color=blue)](https://github.com/jithin-sabu/purge-app/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Free up your Mac, safely. Clears the cache and junk it piles up on its own. Open source, and everything goes to the Trash, so nothing is ever lost.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ jithin-sabu/purge‑app 是一款面向 macOS 的开源磁盘清理工具，能�
 | forks | 24/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # huggingface/speech-to-speech
 
-[![Stars](https://img.shields.io/github/stars/huggingface/speech-to-speech?style=flat-square&color=yellow)](https://github.com/huggingface/speech-to-speech/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/speech-to-speech?style=flat-square&color=blue)](https://github.com/huggingface/speech-to-speech/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/speech-to-speech?style=flat-square&color=yellow)](https://github.com/huggingface/speech-to-speech/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/speech-to-speech?style=flat-square&color=blue)](https://github.com/huggingface/speech-to-speech/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Build local voice agents with open-source models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Hugging Face 的 Speech-to-Speech 项目是一款开源项目，旨在帮助开�
 | forks | 79/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 83/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # keymanapp/keyman
 
-[![Stars](https://img.shields.io/github/stars/keymanapp/keyman?style=flat-square&color=yellow)](https://github.com/keymanapp/keyman/stargazers) [![Forks](https://img.shields.io/github/forks/keymanapp/keyman?style=flat-square&color=blue)](https://github.com/keymanapp/keyman/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keymanapp/keyman?style=flat-square&color=yellow)](https://github.com/keymanapp/keyman/stargazers) [![Forks](https://img.shields.io/github/forks/keymanapp/keyman?style=flat-square&color=blue)](https://github.com/keymanapp/keyman/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Keyman的生产可用性评分为中等（Medium）。它适合用于原型或�
 | forks | 54/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

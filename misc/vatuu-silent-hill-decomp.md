@@ -1,6 +1,6 @@
 # Vatuu/silent-hill-decomp
 
-[![Stars](https://img.shields.io/github/stars/Vatuu/silent-hill-decomp?style=flat-square&color=yellow)](https://github.com/Vatuu/silent-hill-decomp/stargazers) [![Forks](https://img.shields.io/github/forks/Vatuu/silent-hill-decomp?style=flat-square&color=blue)](https://github.com/Vatuu/silent-hill-decomp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vatuu/silent-hill-decomp?style=flat-square&color=yellow)](https://github.com/Vatuu/silent-hill-decomp/stargazers) [![Forks](https://img.shields.io/github/forks/Vatuu/silent-hill-decomp?style=flat-square&color=blue)](https://github.com/Vatuu/silent-hill-decomp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An in-progress decompilation of the 1.1 US release of Silent Hill on the Playstation 1.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Vatuu/silent‑hill‑decomp 是对 PlayStation 1 版《Silent Hill》美国
 | forks | 41/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 43/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

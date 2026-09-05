@@ -1,6 +1,6 @@
 # Ventrova/sentinel-scan-cli
 
-[![Stars](https://img.shields.io/github/stars/Ventrova/sentinel-scan-cli?style=flat-square&color=yellow)](https://github.com/Ventrova/sentinel-scan-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Ventrova/sentinel-scan-cli?style=flat-square&color=blue)](https://github.com/Ventrova/sentinel-scan-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ventrova/sentinel-scan-cli?style=flat-square&color=yellow)](https://github.com/Ventrova/sentinel-scan-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Ventrova/sentinel-scan-cli?style=flat-square&color=blue)](https://github.com/Ventrova/sentinel-scan-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Free CLI: run a 15-attack prompt-injection suite against your own LLM endpoint. Real findings included.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ Ventrova/sentinel-scan-cli：Ventrova/sentinel-scan-cli helps connect AI assista
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 67/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # VoltAgent/awesome-claude-code-subagents
 
-[![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square&color=yellow)](https://github.com/VoltAgent/awesome-claude-code-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/awesome-claude-code-subagents?style=flat-square&color=blue)](https://github.com/VoltAgent/awesome-claude-code-subagents/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square&color=yellow)](https://github.com/VoltAgent/awesome-claude-code-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/awesome-claude-code-subagents?style=flat-square&color=blue)](https://github.com/VoltAgent/awesome-claude-code-subagents/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.3k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ VoltAgent/awesome-claude-code-subagents 是一个收录 100 多个专用 Claude 
 | forks | 85/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 89/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

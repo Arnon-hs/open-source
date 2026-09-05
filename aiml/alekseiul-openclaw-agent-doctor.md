@@ -1,6 +1,6 @@
 # AlekseiUL/openclaw-agent-doctor
 
-[![Stars](https://img.shields.io/github/stars/AlekseiUL/openclaw-agent-doctor?style=flat-square&color=yellow)](https://github.com/AlekseiUL/openclaw-agent-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/AlekseiUL/openclaw-agent-doctor?style=flat-square&color=blue)](https://github.com/AlekseiUL/openclaw-agent-doctor/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlekseiUL/openclaw-agent-doctor?style=flat-square&color=yellow)](https://github.com/AlekseiUL/openclaw-agent-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/AlekseiUL/openclaw-agent-doctor?style=flat-square&color=blue)](https://github.com/AlekseiUL/openclaw-agent-doctor/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🏥 Self-diagnostic toolkit for OpenClaw AI agents. Find and fix problems before they find you.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ AlekseiUL/openclaw-agent-doctor 是一款面向 OpenClaw AI 代理的自检工�
 | forks | 21/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

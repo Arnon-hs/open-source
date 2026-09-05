@@ -1,6 +1,6 @@
 # fru-dev3/prevail-desktop
 
-[![Stars](https://img.shields.io/github/stars/fru-dev3/prevail-desktop?style=flat-square&color=yellow)](https://github.com/fru-dev3/prevail-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/fru-dev3/prevail-desktop?style=flat-square&color=blue)](https://github.com/fru-dev3/prevail-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fru-dev3/prevail-desktop?style=flat-square&color=yellow)](https://github.com/fru-dev3/prevail-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/fru-dev3/prevail-desktop?style=flat-square&color=blue)](https://github.com/fru-dev3/prevail-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Private, local-first AI "life OS": any model per life-domain over a markdown vault on your machine. Council mode, open source (GPL-3.0).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Documents · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -67,15 +67,15 @@ fru-dev3/prevail-desktop 是一款私有、本地优先的 AI “生活操作系
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

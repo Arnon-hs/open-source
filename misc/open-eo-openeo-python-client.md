@@ -1,6 +1,6 @@
 # Open-EO/openeo-python-client
 
-[![Stars](https://img.shields.io/github/stars/Open-EO/openeo-python-client?style=flat-square&color=yellow)](https://github.com/Open-EO/openeo-python-client/stargazers) [![Forks](https://img.shields.io/github/forks/Open-EO/openeo-python-client?style=flat-square&color=blue)](https://github.com/Open-EO/openeo-python-client/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-EO/openeo-python-client?style=flat-square&color=yellow)](https://github.com/Open-EO/openeo-python-client/stargazers) [![Forks](https://img.shields.io/github/forks/Open-EO/openeo-python-client?style=flat-square&color=blue)](https://github.com/Open-EO/openeo-python-client/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Python client API for OpenEO
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Open‑EO /openeo‑python‑client 是面向 OpenEO 平台的官方 Python SD
 | forks | 43/100 |
 | stars | 49/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

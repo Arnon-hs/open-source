@@ -1,6 +1,6 @@
 # astral-sh/setup-uv
 
-[![Stars](https://img.shields.io/github/stars/astral-sh/setup-uv?style=flat-square&color=yellow)](https://github.com/astral-sh/setup-uv/stargazers) [![Forks](https://img.shields.io/github/forks/astral-sh/setup-uv?style=flat-square&color=blue)](https://github.com/astral-sh/setup-uv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/astral-sh/setup-uv?style=flat-square&color=yellow)](https://github.com/astral-sh/setup-uv/stargazers) [![Forks](https://img.shields.io/github/forks/astral-sh/setup-uv?style=flat-square&color=blue)](https://github.com/astral-sh/setup-uv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 805 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,11 +130,11 @@ jobs:
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

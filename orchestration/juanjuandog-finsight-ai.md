@@ -1,6 +1,6 @@
 # juanjuandog/FinSight-AI
 
-[![Stars](https://img.shields.io/github/stars/juanjuandog/FinSight-AI?style=flat-square&color=yellow)](https://github.com/juanjuandog/FinSight-AI/stargazers) [![Forks](https://img.shields.io/github/forks/juanjuandog/FinSight-AI?style=flat-square&color=blue)](https://github.com/juanjuandog/FinSight-AI/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juanjuandog/FinSight-AI?style=flat-square&color=yellow)](https://github.com/juanjuandog/FinSight-AI/stargazers) [![Forks](https://img.shields.io/github/forks/juanjuandog/FinSight-AI?style=flat-square&color=blue)](https://github.com/juanjuandog/FinSight-AI/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ FinSight-AI 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 44/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # juniorrojas/algovivo
 
-[![Stars](https://img.shields.io/github/stars/juniorrojas/algovivo?style=flat-square&color=yellow)](https://github.com/juniorrojas/algovivo/stargazers) [![Forks](https://img.shields.io/github/forks/juniorrojas/algovivo?style=flat-square&color=blue)](https://github.com/juniorrojas/algovivo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juniorrojas/algovivo?style=flat-square&color=yellow)](https://github.com/juniorrojas/algovivo/stargazers) [![Forks](https://img.shields.io/github/forks/juniorrojas/algovivo?style=flat-square&color=blue)](https://github.com/juniorrojas/algovivo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An energy-based formulation for soft-bodied virtual creatures
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ juniorrojas/algovivo 提供了一套基于能量模型的软体虚拟生物仿�
 | forks | 25/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

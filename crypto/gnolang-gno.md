@@ -1,6 +1,6 @@
 # gnolang/gno
 
-[![Stars](https://img.shields.io/github/stars/gnolang/gno?style=flat-square&color=yellow)](https://github.com/gnolang/gno/stargazers) [![Forks](https://img.shields.io/github/forks/gnolang/gno?style=flat-square&color=blue)](https://github.com/gnolang/gno/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gnolang/gno?style=flat-square&color=yellow)](https://github.com/gnolang/gno/stargazers) [![Forks](https://img.shields.io/github/forks/gnolang/gno?style=flat-square&color=blue)](https://github.com/gnolang/gno/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 455 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Gno 项目具有高生产可用性，主要原因是：
 | forks | 66/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

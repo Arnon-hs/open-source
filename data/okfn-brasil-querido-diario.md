@@ -1,6 +1,6 @@
 # okfn-brasil/querido-diario
 
-[![Stars](https://img.shields.io/github/stars/okfn-brasil/querido-diario?style=flat-square&color=yellow)](https://github.com/okfn-brasil/querido-diario/stargazers) [![Forks](https://img.shields.io/github/forks/okfn-brasil/querido-diario?style=flat-square&color=blue)](https://github.com/okfn-brasil/querido-diario/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/okfn-brasil/querido-diario?style=flat-square&color=yellow)](https://github.com/okfn-brasil/querido-diario/stargazers) [![Forks](https://img.shields.io/github/forks/okfn-brasil/querido-diario?style=flat-square&color=blue)](https://github.com/okfn-brasil/querido-diario/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ okfn-brasil/querido-diario 的生产可用性非常高，最新活动、采用�
 | forks | 67/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

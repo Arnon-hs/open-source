@@ -1,6 +1,6 @@
 # guidepup/guidepup
 
-[![Stars](https://img.shields.io/github/stars/guidepup/guidepup?style=flat-square&color=yellow)](https://github.com/guidepup/guidepup/stargazers) [![Forks](https://img.shields.io/github/forks/guidepup/guidepup?style=flat-square&color=blue)](https://github.com/guidepup/guidepup/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guidepup/guidepup?style=flat-square&color=yellow)](https://github.com/guidepup/guidepup/stargazers) [![Forks](https://img.shields.io/github/forks/guidepup/guidepup?style=flat-square&color=blue)](https://github.com/guidepup/guidepup/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Screen reader automation library for testing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 553 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation · Backend · DevTools
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ guidepup/guidepup 的生产可用性很高，因为它是一个活跃的开源�
 | forks | 29/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

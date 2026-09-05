@@ -1,6 +1,6 @@
 # Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS
 
-[![Stars](https://img.shields.io/github/stars/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS?style=flat-square&color=yellow)](https://github.com/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS/stargazers) [![Forks](https://img.shields.io/github/forks/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS?style=flat-square&color=blue)](https://github.com/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS?style=flat-square&color=yellow)](https://github.com/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS/stargazers) [![Forks](https://img.shields.io/github/forks/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS?style=flat-square&color=blue)](https://github.com/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 十项全能玄学术数工作站Mac端，包含：紫微斗数、八字、占星、六壬、遁甲、太乙、六爻、统摄法、风水、绝大部分主流推运技法（包括正统主限法）、内置AI分析、玄学史、高质量生时数据库、以及其他小众命卜技术等等。于旧星阙Horosa基础上改良制作，请不要忘记爽哥和郑大哥的贡献。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Horace
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # breakingthecloud/styrr
 
-[![Stars](https://img.shields.io/github/stars/breakingthecloud/styrr?style=flat-square&color=yellow)](https://github.com/breakingthecloud/styrr/stargazers) [![Forks](https://img.shields.io/github/forks/breakingthecloud/styrr?style=flat-square&color=blue)](https://github.com/breakingthecloud/styrr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/breakingthecloud/styrr?style=flat-square&color=yellow)](https://github.com/breakingthecloud/styrr/stargazers) [![Forks](https://img.shields.io/github/forks/breakingthecloud/styrr?style=flat-square&color=blue)](https://github.com/breakingthecloud/styrr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal LLM router with multi-model fallback chain. Zero deps. Works in CF Workers, Lambda, Node.js.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ breakingthecloud/styrr：breakingthecloud/styrr helps add AI capability without 
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 61/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

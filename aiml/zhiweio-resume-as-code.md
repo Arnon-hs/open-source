@@ -1,6 +1,6 @@
 # zhiweio/resume-as-code
 
-[![Stars](https://img.shields.io/github/stars/zhiweio/resume-as-code?style=flat-square&color=yellow)](https://github.com/zhiweio/resume-as-code/stargazers) [![Forks](https://img.shields.io/github/forks/zhiweio/resume-as-code?style=flat-square&color=blue)](https://github.com/zhiweio/resume-as-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhiweio/resume-as-code?style=flat-square&color=yellow)](https://github.com/zhiweio/resume-as-code/stargazers) [![Forks](https://img.shields.io/github/forks/zhiweio/resume-as-code?style=flat-square&color=blue)](https://github.com/zhiweio/resume-as-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Stop copy-pasting resumes. Maintain a single YAML timeline of your career, and let AI agents generate perfectly targeted resumes for every job application — in minutes, not hours.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ zhiweio/resume‑as‑code 通过维护一份统一的 YAML 时间线来管理�
 | forks | 27/100 |
 | stars | 40/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

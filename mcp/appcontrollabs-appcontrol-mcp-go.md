@@ -1,6 +1,6 @@
 # AppControlLabs/appcontrol-mcp-go
 
-[![Stars](https://img.shields.io/github/stars/AppControlLabs/appcontrol-mcp-go?style=flat-square&color=yellow)](https://github.com/AppControlLabs/appcontrol-mcp-go/stargazers) [![Forks](https://img.shields.io/github/forks/AppControlLabs/appcontrol-mcp-go?style=flat-square&color=blue)](https://github.com/AppControlLabs/appcontrol-mcp-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AppControlLabs/appcontrol-mcp-go?style=flat-square&color=yellow)](https://github.com/AppControlLabs/appcontrol-mcp-go/stargazers) [![Forks](https://img.shields.io/github/forks/AppControlLabs/appcontrol-mcp-go?style=flat-square&color=blue)](https://github.com/AppControlLabs/appcontrol-mcp-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AppControl MCP is a local server connecting AI agents and IDEs like Claude, Cursor, and Windsurf to system history provided by the AppControl desktop app. Ask which apps used CPU, GPU, RAM, or disk, and what caused slowdowns, heat spikes, or webcam, mic, and location access. Built for deep historical monitoring and useful real-world PC insights.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Observability
+MCP · AI/ML · Productivity · Observability
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ AppControlLabs/appcontrol-mcp-go 帮助连接 AI 助手到真正的工具和数�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

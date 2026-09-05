@@ -1,6 +1,6 @@
 # lancedb/lancedb
 
-[![Stars](https://img.shields.io/github/stars/lancedb/lancedb?style=flat-square&color=yellow)](https://github.com/lancedb/lancedb/stargazers) [![Forks](https://img.shields.io/github/forks/lancedb/lancedb?style=flat-square&color=blue)](https://github.com/lancedb/lancedb/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lancedb/lancedb?style=flat-square&color=yellow)](https://github.com/lancedb/lancedb/stargazers) [![Forks](https://img.shields.io/github/forks/lancedb/lancedb?style=flat-square&color=blue)](https://github.com/lancedb/lancedb/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 921 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ LanceDB 是面向开发者的开源嵌入式检索库，专为多模态 AI 场�
 | forks | 74/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

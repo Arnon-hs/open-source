@@ -1,6 +1,6 @@
 # Ed1s0nZ/CyberStrikeAI
 
-[![Stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI?style=flat-square&color=yellow)](https://github.com/Ed1s0nZ/CyberStrikeAI/stargazers) [![Forks](https://img.shields.io/github/forks/Ed1s0nZ/CyberStrikeAI?style=flat-square&color=blue)](https://github.com/Ed1s0nZ/CyberStrikeAI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI?style=flat-square&color=yellow)](https://github.com/Ed1s0nZ/CyberStrikeAI/stargazers) [![Forks](https://img.shields.io/github/forks/Ed1s0nZ/CyberStrikeAI?style=flat-square&color=blue)](https://github.com/Ed1s0nZ/CyberStrikeAI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 767 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Security
+Orchestration · MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ CyberStrikeAI 是用 Go 语言编写的 AI 原生安全测试平台，内置 100
 | forks | 72/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 85/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

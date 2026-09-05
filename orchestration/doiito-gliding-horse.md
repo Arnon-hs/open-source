@@ -1,6 +1,6 @@
 # doiito/gliding_horse
 
-[![Stars](https://img.shields.io/github/stars/doiito/gliding_horse?style=flat-square&color=yellow)](https://github.com/doiito/gliding_horse/stargazers) [![Forks](https://img.shields.io/github/forks/doiito/gliding_horse?style=flat-square&color=blue)](https://github.com/doiito/gliding_horse/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doiito/gliding_horse?style=flat-square&color=yellow)](https://github.com/doiito/gliding_horse/stargazers) [![Forks](https://img.shields.io/github/forks/doiito/gliding_horse?style=flat-square&color=blue)](https://github.com/doiito/gliding_horse/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Gliding Horse is a multi-agent orchestration framework built in Rust that supports PDCA scheduling and knowledge graph-based agents, with comprehensive Chinese documentation, and is suitable for building enterprise-level AI agent systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ Gliding Horse（doiito/gliding_horse）是一款基于 Rust 实现的多智能
 | forks | 28/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 46/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

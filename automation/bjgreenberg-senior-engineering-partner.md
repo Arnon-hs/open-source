@@ -1,6 +1,6 @@
 # bjgreenberg/senior-engineering-partner
 
-[![Stars](https://img.shields.io/github/stars/bjgreenberg/senior-engineering-partner?style=flat-square&color=yellow)](https://github.com/bjgreenberg/senior-engineering-partner/stargazers) [![Forks](https://img.shields.io/github/forks/bjgreenberg/senior-engineering-partner?style=flat-square&color=blue)](https://github.com/bjgreenberg/senior-engineering-partner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bjgreenberg/senior-engineering-partner?style=flat-square&color=yellow)](https://github.com/bjgreenberg/senior-engineering-partner/stargazers) [![Forks](https://img.shields.io/github/forks/bjgreenberg/senior-engineering-partner?style=flat-square&color=blue)](https://github.com/bjgreenberg/senior-engineering-partner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A stack-agnostic Claude Code skill: strict code reviewer, pair programmer, debugger, and mentor (Python/Bash/Apps Script/JS). Security-first, phase-aware engineering discipline with a spec→plan→TDD→verify workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ bjgreenberg/senior-engineering-partner的生产可用性为中等（Medium）。
 | forks | 29/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

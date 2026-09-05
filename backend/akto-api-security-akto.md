@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · Security
+Backend · DevTools · Data · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ akto-api-security/akto：akto-api-security/akto helps teams reuse service infras
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

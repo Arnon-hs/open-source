@@ -1,6 +1,6 @@
 # FoalTS/foal
 
-[![Stars](https://img.shields.io/github/stars/FoalTS/foal?style=flat-square&color=yellow)](https://github.com/FoalTS/foal/stargazers) [![Forks](https://img.shields.io/github/forks/FoalTS/foal?style=flat-square&color=blue)](https://github.com/FoalTS/foal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FoalTS/foal?style=flat-square&color=yellow)](https://github.com/FoalTS/foal/stargazers) [![Forks](https://img.shields.io/github/forks/FoalTS/foal?style=flat-square&color=blue)](https://github.com/FoalTS/foal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Full-featured Node.js framework 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Database · Security
+Backend · DevTools · Libraries & SDKs · Database · Security
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ FoalTS/foal 是一个功能完整的 Node.js 框架，基于 TypeScript 打造�
 | forks | 54/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

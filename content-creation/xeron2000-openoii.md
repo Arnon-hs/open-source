@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Orchestration · AI/ML · Frontend
+Content Creation · Orchestration · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Xeron2000/openOii：Xeron2000/openOii helps creators research, generate, repurpo
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

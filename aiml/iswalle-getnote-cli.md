@@ -1,6 +1,6 @@
 # iswalle/getnote-cli
 
-[![Stars](https://img.shields.io/github/stars/iswalle/getnote-cli?style=flat-square&color=yellow)](https://github.com/iswalle/getnote-cli/stargazers) [![Forks](https://img.shields.io/github/forks/iswalle/getnote-cli?style=flat-square&color=blue)](https://github.com/iswalle/getnote-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iswalle/getnote-cli?style=flat-square&color=yellow)](https://github.com/iswalle/getnote-cli/stargazers) [![Forks](https://img.shields.io/github/forks/iswalle/getnote-cli?style=flat-square&color=blue)](https://github.com/iswalle/getnote-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Get笔记 CLI — 让人类和 AI Agent 都能在终端操作 Get笔记
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Getnote-cli 的生产可用性为中等（Medium）。它适用于以下场景�
 | forks | 26/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

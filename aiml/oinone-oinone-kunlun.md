@@ -1,6 +1,6 @@
 # oinone/oinone-kunlun
 
-[![Stars](https://img.shields.io/github/stars/oinone/oinone-kunlun?style=flat-square&color=yellow)](https://github.com/oinone/oinone-kunlun/stargazers) [![Forks](https://img.shields.io/github/forks/oinone/oinone-kunlun?style=flat-square&color=blue)](https://github.com/oinone/oinone-kunlun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oinone/oinone-kunlun?style=flat-square&color=yellow)](https://github.com/oinone/oinone-kunlun/stargazers) [![Forks](https://img.shields.io/github/forks/oinone/oinone-kunlun?style=flat-square&color=blue)](https://github.com/oinone/oinone-kunlun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Oinone is an AI‑Powered low‑code framework that unifies AI and developers around a shared metadata model to build maintainable, evolvable, high‑quality enterprise intelligent applications.[AI Coding][Vibe Coding][Framework][Low Code]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Oinone/Kunlun 是一个 AI 驱动的低代码框架，通过共享元数据模�
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

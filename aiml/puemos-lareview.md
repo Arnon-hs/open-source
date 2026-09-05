@@ -1,6 +1,6 @@
 # puemos/lareview
 
-[![Stars](https://img.shields.io/github/stars/puemos/lareview?style=flat-square&color=yellow)](https://github.com/puemos/lareview/stargazers) [![Forks](https://img.shields.io/github/forks/puemos/lareview?style=flat-square&color=blue)](https://github.com/puemos/lareview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puemos/lareview?style=flat-square&color=yellow)](https://github.com/puemos/lareview/stargazers) [![Forks](https://img.shields.io/github/forks/puemos/lareview?style=flat-square&color=blue)](https://github.com/puemos/lareview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The code review workbench.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ puemos/lareview 的生产可用性为中等。它适合用于 Prototyping 或内
 | forks | 36/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 62/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 11.5k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ Homebrew/homebrew-cask：Homebrew/homebrew-cask helps remove repetitive manual o
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

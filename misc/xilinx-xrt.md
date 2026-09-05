@@ -1,6 +1,6 @@
 # Xilinx/XRT
 
-[![Stars](https://img.shields.io/github/stars/Xilinx/XRT?style=flat-square&color=yellow)](https://github.com/Xilinx/XRT/stargazers) [![Forks](https://img.shields.io/github/forks/Xilinx/XRT?style=flat-square&color=blue)](https://github.com/Xilinx/XRT/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xilinx/XRT?style=flat-square&color=yellow)](https://github.com/Xilinx/XRT/stargazers) [![Forks](https://img.shields.io/github/forks/Xilinx/XRT?style=flat-square&color=blue)](https://github.com/Xilinx/XRT/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Run Time for AIE and FPGA based platforms
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 543 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Xilinx/XRT具有很高的生产可用性，主要原因是：
 | forks | 68/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

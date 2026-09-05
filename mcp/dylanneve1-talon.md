@@ -1,6 +1,6 @@
 # dylanneve1/talon
 
-[![Stars](https://img.shields.io/github/stars/dylanneve1/talon?style=flat-square&color=yellow)](https://github.com/dylanneve1/talon/stargazers) [![Forks](https://img.shields.io/github/forks/dylanneve1/talon?style=flat-square&color=blue)](https://github.com/dylanneve1/talon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dylanneve1/talon?style=flat-square&color=yellow)](https://github.com/dylanneve1/talon/stargazers) [![Forks](https://img.shields.io/github/forks/dylanneve1/talon?style=flat-square&color=blue)](https://github.com/dylanneve1/talon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ dylanneve1/talon 是一款跨平台的「Agentic AI」框架，能够在 Telegra
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # PawanOsman/OpenCursor
 
-[![Stars](https://img.shields.io/github/stars/PawanOsman/OpenCursor?style=flat-square&color=yellow)](https://github.com/PawanOsman/OpenCursor/stargazers) [![Forks](https://img.shields.io/github/forks/PawanOsman/OpenCursor?style=flat-square&color=blue)](https://github.com/PawanOsman/OpenCursor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PawanOsman/OpenCursor?style=flat-square&color=yellow)](https://github.com/PawanOsman/OpenCursor/stargazers) [![Forks](https://img.shields.io/github/forks/PawanOsman/OpenCursor?style=flat-square&color=blue)](https://github.com/PawanOsman/OpenCursor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML
+MCP · Knowledge/RAG · AI/ML · Communication · DevTools
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ PawanOsman/OpenCursor 的生产可用性很高，主要原因是：
 | forks | 75/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 81/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 69/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

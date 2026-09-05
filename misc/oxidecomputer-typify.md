@@ -1,6 +1,6 @@
 # oxidecomputer/typify
 
-[![Stars](https://img.shields.io/github/stars/oxidecomputer/typify?style=flat-square&color=yellow)](https://github.com/oxidecomputer/typify/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/typify?style=flat-square&color=blue)](https://github.com/oxidecomputer/typify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxidecomputer/typify?style=flat-square&color=yellow)](https://github.com/oxidecomputer/typify/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/typify?style=flat-square&color=blue)](https://github.com/oxidecomputer/typify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > compiler from JSON Schema into idiomatic Rust types
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 877 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ oxidecomputer/typify 的生产可用性为中等。虽然它是一个有用的�
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # microsoft/RD-Agent
 
-[![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=flat-square&color=yellow)](https://github.com/microsoft/RD-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/RD-Agent?style=flat-square&color=blue)](https://github.com/microsoft/RD-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=flat-square&color=yellow)](https://github.com/microsoft/RD-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/RD-Agent?style=flat-square&color=blue)](https://github.com/microsoft/RD-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Data
+Automation · AI/ML · Productivity · Data
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ RD‑Agent 是微软开源的 R&D 自动化框架，旨在让 AI 自己驱动数
 | forks | 80/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 73/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

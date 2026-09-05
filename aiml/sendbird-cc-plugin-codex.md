@@ -1,6 +1,6 @@
 # sendbird/cc-plugin-codex
 
-[![Stars](https://img.shields.io/github/stars/sendbird/cc-plugin-codex?style=flat-square&color=yellow)](https://github.com/sendbird/cc-plugin-codex/stargazers) [![Forks](https://img.shields.io/github/forks/sendbird/cc-plugin-codex?style=flat-square&color=blue)](https://github.com/sendbird/cc-plugin-codex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sendbird/cc-plugin-codex?style=flat-square&color=yellow)](https://github.com/sendbird/cc-plugin-codex/stargazers) [![Forks](https://img.shields.io/github/forks/sendbird/cc-plugin-codex?style=flat-square&color=blue)](https://github.com/sendbird/cc-plugin-codex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source plugin that runs inside Codex and lets you use Claude Code and Claude models for review, rescue, and tracked background workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ sendbird/cc-plugin-codex 的生产可用性为中等。虽然它适合用于原�
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

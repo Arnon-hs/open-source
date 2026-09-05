@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ NVIDIA/cuCollections：NVIDIA/cuCollections may be useful when its README and ac
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

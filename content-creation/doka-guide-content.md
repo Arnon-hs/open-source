@@ -1,6 +1,6 @@
 # doka-guide/content
 
-[![Stars](https://img.shields.io/github/stars/doka-guide/content?style=flat-square&color=yellow)](https://github.com/doka-guide/content/stargazers) [![Forks](https://img.shields.io/github/forks/doka-guide/content?style=flat-square&color=blue)](https://github.com/doka-guide/content/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doka-guide/content?style=flat-square&color=yellow)](https://github.com/doka-guide/content/stargazers) [![Forks](https://img.shields.io/github/forks/doka-guide/content?style=flat-square&color=blue)](https://github.com/doka-guide/content/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Контент Доки: статьи, картинки, демки и документация для авторов
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 703 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation
+Content Creation · Documents
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ doka‑guide/content 是 Doka 文档体系的内容仓库，收录了面向作�
 | forks | 71/100 |
 | stars | 67/100 |
 | topics | 25/100 |
-| outlook | 45/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

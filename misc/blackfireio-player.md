@@ -1,6 +1,6 @@
 # blackfireio/player
 
-[![Stars](https://img.shields.io/github/stars/blackfireio/player?style=flat-square&color=yellow)](https://github.com/blackfireio/player/stargazers) [![Forks](https://img.shields.io/github/forks/blackfireio/player?style=flat-square&color=blue)](https://github.com/blackfireio/player/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blackfireio/player?style=flat-square&color=yellow)](https://github.com/blackfireio/player/stargazers) [![Forks](https://img.shields.io/github/forks/blackfireio/player?style=flat-square&color=blue)](https://github.com/blackfireio/player/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Blackfire Player is a powerful Web Crawling, Web Testing, and Web Scraper application. It provides a nice DSL to crawl HTTP services, assert responses, and extract data from HTML/XML/JSON responses.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 495 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -126,11 +126,11 @@ Blackfire Player 是一款基于 PHP 的 Web 爬取、接口测试与数据抽�
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

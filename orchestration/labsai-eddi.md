@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-06 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ labsai/EDDI：labsai/EDDI helps turn isolated prompts and tools into repeatable 
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # flightctl/flightctl
 
-[![Stars](https://img.shields.io/github/stars/flightctl/flightctl?style=flat-square&color=yellow)](https://github.com/flightctl/flightctl/stargazers) [![Forks](https://img.shields.io/github/forks/flightctl/flightctl?style=flat-square&color=blue)](https://github.com/flightctl/flightctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flightctl/flightctl?style=flat-square&color=yellow)](https://github.com/flightctl/flightctl/stargazers) [![Forks](https://img.shields.io/github/forks/flightctl/flightctl?style=flat-square&color=blue)](https://github.com/flightctl/flightctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Flight Control aims to provide simple, scalable, and secure management of edge devices and applications. Users declare the operating system version, host configuration, and set of applications they want to run on an individual device or a whole fleet of devices, and Flight Control rolls out the target configuration to devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Flight Control 的生产可用性为中等。它适合用于原型开发或内�
 | forks | 48/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

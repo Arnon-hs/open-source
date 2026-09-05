@@ -1,6 +1,6 @@
 # openbkn-ai/bkn-foundry
 
-[![Stars](https://img.shields.io/github/stars/openbkn-ai/bkn-foundry?style=flat-square&color=yellow)](https://github.com/openbkn-ai/bkn-foundry/stargazers) [![Forks](https://img.shields.io/github/forks/openbkn-ai/bkn-foundry?style=flat-square&color=blue)](https://github.com/openbkn-ai/bkn-foundry/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openbkn-ai/bkn-foundry?style=flat-square&color=yellow)](https://github.com/openbkn-ai/bkn-foundry/stargazers) [![Forks](https://img.shields.io/github/forks/openbkn-ai/bkn-foundry?style=flat-square&color=blue)](https://github.com/openbkn-ai/bkn-foundry/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > BKN Foundry is the back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ openbkn-ai/bkn-foundry 的主要价值在于，它能够帮助开发者快速 pr
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

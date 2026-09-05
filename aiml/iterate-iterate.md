@@ -1,6 +1,6 @@
 # iterate/iterate
 
-[![Stars](https://img.shields.io/github/stars/iterate/iterate?style=flat-square&color=yellow)](https://github.com/iterate/iterate/stargazers) [![Forks](https://img.shields.io/github/forks/iterate/iterate?style=flat-square&color=blue)](https://github.com/iterate/iterate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iterate/iterate?style=flat-square&color=yellow)](https://github.com/iterate/iterate/stargazers) [![Forks](https://img.shields.io/github/forks/iterate/iterate?style=flat-square&color=blue)](https://github.com/iterate/iterate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The most hackable AI agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ iterate/iterate 是一个高度可定制的 AI 代理框架，提供即插即用
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 39/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

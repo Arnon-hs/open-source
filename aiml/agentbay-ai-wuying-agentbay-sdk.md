@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ agentbay-ai/wuying-agentbay-sdk：agentbay-ai/wuying-agentbay-sdk helps add AI c
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

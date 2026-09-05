@@ -1,6 +1,6 @@
 # Optima-CityU/LLM4AD_Next
 
-[![Stars](https://img.shields.io/github/stars/Optima-CityU/LLM4AD_Next?style=flat-square&color=yellow)](https://github.com/Optima-CityU/LLM4AD_Next/stargazers) [![Forks](https://img.shields.io/github/forks/Optima-CityU/LLM4AD_Next?style=flat-square&color=blue)](https://github.com/Optima-CityU/LLM4AD_Next/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Optima-CityU/LLM4AD_Next?style=flat-square&color=yellow)](https://github.com/Optima-CityU/LLM4AD_Next/stargazers) [![Forks](https://img.shields.io/github/forks/Optima-CityU/LLM4AD_Next?style=flat-square&color=blue)](https://github.com/Optima-CityU/LLM4AD_Next/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A next-generation LLM4AD platform focused on intuitive UI interactions and seamless collaboration with AI agents, making automated algorithm design more accessible and easier to use
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Optima‑CityU/LLM4AD_Next 是面向下一代自动化算法设计（LLM4AD）�
 | forks | 26/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

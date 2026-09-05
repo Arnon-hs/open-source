@@ -1,6 +1,6 @@
 # Adamant-im/adamant-tradebot
 
-[![Stars](https://img.shields.io/github/stars/Adamant-im/adamant-tradebot?style=flat-square&color=yellow)](https://github.com/Adamant-im/adamant-tradebot/stargazers) [![Forks](https://img.shields.io/github/forks/Adamant-im/adamant-tradebot?style=flat-square&color=blue)](https://github.com/Adamant-im/adamant-tradebot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adamant-im/adamant-tradebot?style=flat-square&color=yellow)](https://github.com/Adamant-im/adamant-tradebot/stargazers) [![Forks](https://img.shields.io/github/forks/Adamant-im/adamant-tradebot?style=flat-square&color=blue)](https://github.com/Adamant-im/adamant-tradebot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Free self-hosted market-making bot for crypto projects & token issuers. Volume, spread, liquidity, price ranges, and dynamic order books — all in one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 801 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Adamant‑im/adam‑tradebot 是一款免费、可自行部署的加密货币做
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

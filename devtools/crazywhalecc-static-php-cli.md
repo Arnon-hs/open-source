@@ -1,6 +1,6 @@
 # crazywhalecc/static-php-cli
 
-[![Stars](https://img.shields.io/github/stars/crazywhalecc/static-php-cli?style=flat-square&color=yellow)](https://github.com/crazywhalecc/static-php-cli/stargazers) [![Forks](https://img.shields.io/github/forks/crazywhalecc/static-php-cli?style=flat-square&color=blue)](https://github.com/crazywhalecc/static-php-cli/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crazywhalecc/static-php-cli?style=flat-square&color=yellow)](https://github.com/crazywhalecc/static-php-cli/stargazers) [![Forks](https://img.shields.io/github/forks/crazywhalecc/static-php-cli?style=flat-square&color=blue)](https://github.com/crazywhalecc/static-php-cli/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Build standalone portable PHP binaries on Linux, macOS, Windows, with PHP project together, with popular extensions included.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ crazywhalecc/static-php-cli 具备高生产可用性：
 | forks | 65/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

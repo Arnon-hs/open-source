@@ -1,6 +1,6 @@
 # pytest-dev/pluggy
 
-[![Stars](https://img.shields.io/github/stars/pytest-dev/pluggy?style=flat-square&color=yellow)](https://github.com/pytest-dev/pluggy/stargazers) [![Forks](https://img.shields.io/github/forks/pytest-dev/pluggy?style=flat-square&color=blue)](https://github.com/pytest-dev/pluggy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pytest-dev/pluggy?style=flat-square&color=yellow)](https://github.com/pytest-dev/pluggy/stargazers) [![Forks](https://img.shields.io/github/forks/pytest-dev/pluggy?style=flat-square&color=blue)](https://github.com/pytest-dev/pluggy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A minimalist production ready plugin system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -126,11 +126,11 @@ pytest-dev/pluggy 的生产可用性很高，主要原因是：
 | forks | 55/100 |
 | stars | 69/100 |
 | topics | 25/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

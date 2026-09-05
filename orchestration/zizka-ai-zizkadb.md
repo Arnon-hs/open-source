@@ -1,6 +1,6 @@
 # Zizka-ai/ZizkaDB
 
-[![Stars](https://img.shields.io/github/stars/Zizka-ai/ZizkaDB?style=flat-square&color=yellow)](https://github.com/Zizka-ai/ZizkaDB/stargazers) [![Forks](https://img.shields.io/github/forks/Zizka-ai/ZizkaDB?style=flat-square&color=blue)](https://github.com/Zizka-ai/ZizkaDB/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zizka-ai/ZizkaDB?style=flat-square&color=yellow)](https://github.com/Zizka-ai/ZizkaDB/stargazers) [![Forks](https://img.shields.io/github/forks/Zizka-ai/ZizkaDB?style=flat-square&color=blue)](https://github.com/Zizka-ai/ZizkaDB/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable Reliable and EU AI ACT compliant
 
@@ -9,11 +9,11 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 41 |
-| 🍴 **Forks** | 18 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
-| 🔍 **Source** | github |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
 
@@ -27,57 +27,51 @@ Orchestration · MCP · Knowledge/RAG · AI/ML · DevTools
 
 ### English
 
-Zizka-ai/ZizkaDB: Zizka-ai/ZizkaDB helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Zizka-ai/ZizkaDB: . Use it for Orchestration, MCP, Knowledge/RAG, AI/ML, DevTools. 
 
 ### Русский
 
-Zizka-ai/ZizkaDB: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Zizka-ai/ZizkaDB: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, DevTools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Zizka-ai/ZizkaDB：Zizka-ai/ZizkaDB helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Zizka-ai/ZizkaDB：。适合用于Orchestration、MCP、Knowledge/RAG、AI/ML、DevTools。
 
 ## 🧭 Practical evaluation
 
-**Value:** Zizka-ai/ZizkaDB helps turn isolated prompts and tools into repeatable agent workflows.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- coordinate multi-agent workflows
-- add tool-use pipelines
-- standardize agent memory
+- Not enough metadata yet.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 41 GitHub stars
-- 18 forks
-- updated 2026-08-20
-- primary language: TypeScript
-- 20 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| forks | 32/100 |
+| forks | 33/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 65/100 |
+| outlook | 71/100 |
+| quality | 61/100 |
 | recency | 80/100 |
 | adoption | 34/100 |
-| production | 69/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
-| sourceTrust | 100/100 |
+| sourceTrust | 70/100 |
 | categoryMatchCount | 500/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-08-20 · [View on GitHub](https://github.com/Zizka-ai/ZizkaDB) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-23 · [View on GitHub](https://github.com/Zizka-ai/ZizkaDB) · [← Back to Orchestration](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ mybigday/llama.rn：mybigday/llama.rn helps add AI capability without starting f
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

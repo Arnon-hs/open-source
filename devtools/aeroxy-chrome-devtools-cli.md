@@ -1,6 +1,6 @@
 # aeroxy/chrome-devtools-cli
 
-[![Stars](https://img.shields.io/github/stars/aeroxy/chrome-devtools-cli?style=flat-square&color=yellow)](https://github.com/aeroxy/chrome-devtools-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aeroxy/chrome-devtools-cli?style=flat-square&color=blue)](https://github.com/aeroxy/chrome-devtools-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aeroxy/chrome-devtools-cli?style=flat-square&color=yellow)](https://github.com/aeroxy/chrome-devtools-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aeroxy/chrome-devtools-cli?style=flat-square&color=blue)](https://github.com/aeroxy/chrome-devtools-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, developer and agent friendly CLI for interacting with Chrome via the DevTools Protocol (CDP).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ aeroxy/chrome‑devtools‑cli 是一款基于 Rust 实现的高性能命令行�
 | forks | 24/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

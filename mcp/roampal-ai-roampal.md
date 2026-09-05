@@ -1,6 +1,6 @@
 # roampal-ai/roampal
 
-[![Stars](https://img.shields.io/github/stars/roampal-ai/roampal?style=flat-square&color=yellow)](https://github.com/roampal-ai/roampal/stargazers) [![Forks](https://img.shields.io/github/forks/roampal-ai/roampal?style=flat-square&color=blue)](https://github.com/roampal-ai/roampal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roampal-ai/roampal?style=flat-square&color=yellow)](https://github.com/roampal-ai/roampal/stargazers) [![Forks](https://img.shields.io/github/forks/roampal-ai/roampal?style=flat-square&color=blue)](https://github.com/roampal-ai/roampal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Memory that learns what works.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ roampal‑ai/roampal 是一个面向 AI 助手的「记忆」层，能够通过�
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

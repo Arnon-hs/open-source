@@ -1,6 +1,6 @@
 # a2aproject/a2a-java
 
-[![Stars](https://img.shields.io/github/stars/a2aproject/a2a-java?style=flat-square&color=yellow)](https://github.com/a2aproject/a2a-java/stargazers) [![Forks](https://img.shields.io/github/forks/a2aproject/a2a-java?style=flat-square&color=blue)](https://github.com/a2aproject/a2a-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a2aproject/a2a-java?style=flat-square&color=yellow)](https://github.com/a2aproject/a2a-java/stargazers) [![Forks](https://img.shields.io/github/forks/a2aproject/a2a-java?style=flat-square&color=blue)](https://github.com/a2aproject/a2a-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Official Java SDK for the Agent2Agent (A2A) Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ a2aproject/a2a-java 是 Agent2Agent（A2A）协议的官方 Java SDK，提供一
 | forks | 54/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

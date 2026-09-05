@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 949 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ PHPStan is a powerful static analysis tool for PHP that scans your codebase to d
 
 ### 中文
 
-phpstan/phpstan：phpstan/phpstan helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+phpstan/phpstan：phpstan/phpstan may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** phpstan/phpstan helps engineers save time in daily development and review loops.
+**Value:** phpstan/phpstan may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ phpstan/phpstan：phpstan/phpstan helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 84/100 |
-| stars | 88/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

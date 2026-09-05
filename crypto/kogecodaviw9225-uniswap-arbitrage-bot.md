@@ -1,6 +1,6 @@
 # kogecodaviw9225/UNISWAP-ARBITRAGE-BOT
 
-[![Stars](https://img.shields.io/github/stars/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT?style=flat-square&color=yellow)](https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT/stargazers) [![Forks](https://img.shields.io/github/forks/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT?style=flat-square&color=blue)](https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT?style=flat-square&color=yellow)](https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT/stargazers) [![Forks](https://img.shields.io/github/forks/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT?style=flat-square&color=blue)](https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ kogecodaviw9225/UNISWAP-ARBITRAGE-BOT 是一个开源的 Uniswap 套利机器人
 | forks | 46/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

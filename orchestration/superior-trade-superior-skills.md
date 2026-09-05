@@ -1,6 +1,6 @@
 # Superior-Trade/superior-skills
 
-[![Stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat-square&color=yellow)](https://github.com/Superior-Trade/superior-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Superior-Trade/superior-skills?style=flat-square&color=blue)](https://github.com/Superior-Trade/superior-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat-square&color=yellow)](https://github.com/Superior-Trade/superior-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Superior-Trade/superior-skills?style=flat-square&color=blue)](https://github.com/Superior-Trade/superior-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open agent skills and tool schemas for Superior Trade — build, backtest, and deploy trading strategies on Hyperliquid
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Superior-Trade/superior-skills 是一套面向 Hyperliquid 的开源代理技能
 | forks | 15/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

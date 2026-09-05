@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Relay
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Relay?style=flat-square&color=yellow)](https://github.com/NVIDIA/NeMo-Relay/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo-Relay?style=flat-square&color=blue)](https://github.com/NVIDIA/NeMo-Relay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Relay?style=flat-square&color=yellow)](https://github.com/NVIDIA/NeMo-Relay/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo-Relay?style=flat-square&color=blue)](https://github.com/NVIDIA/NeMo-Relay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Observability · Security
+Orchestration · AI/ML · Backend · Observability · Security
 
 ## 📝 Summary
 
@@ -94,15 +94,15 @@ NVIDIA/NeMo-Relay 的生产可用性为中等水平。它适合用于原型设�
 | forks | 40/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

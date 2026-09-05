@@ -1,6 +1,6 @@
 # project820/gjc-multivendor-setup-guide
 
-[![Stars](https://img.shields.io/github/stars/project820/gjc-multivendor-setup-guide?style=flat-square&color=yellow)](https://github.com/project820/gjc-multivendor-setup-guide/stargazers) [![Forks](https://img.shields.io/github/forks/project820/gjc-multivendor-setup-guide?style=flat-square&color=blue)](https://github.com/project820/gjc-multivendor-setup-guide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/project820/gjc-multivendor-setup-guide?style=flat-square&color=yellow)](https://github.com/project820/gjc-multivendor-setup-guide/stargazers) [![Forks](https://img.shields.io/github/forks/project820/gjc-multivendor-setup-guide?style=flat-square&color=blue)](https://github.com/project820/gjc-multivendor-setup-guide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > GJC(Gajae Code) 5구독 멀티벤더 셋업 — 3대 리서치(Codex/LLM Council/Opus ultracode) + 엔진 ground-truth + red-team 통합 가이드
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Here's a brief summary and analysis of the project:
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

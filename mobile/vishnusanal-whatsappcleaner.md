@@ -1,6 +1,6 @@
 # VishnuSanal/WhatsAppCleaner
 
-[![Stars](https://img.shields.io/github/stars/VishnuSanal/WhatsAppCleaner?style=flat-square&color=yellow)](https://github.com/VishnuSanal/WhatsAppCleaner/stargazers) [![Forks](https://img.shields.io/github/forks/VishnuSanal/WhatsAppCleaner?style=flat-square&color=blue)](https://github.com/VishnuSanal/WhatsAppCleaner/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VishnuSanal/WhatsAppCleaner?style=flat-square&color=yellow)](https://github.com/VishnuSanal/WhatsAppCleaner/stargazers) [![Forks](https://img.shields.io/github/forks/VishnuSanal/WhatsAppCleaner?style=flat-square&color=blue)](https://github.com/VishnuSanal/WhatsAppCleaner/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Cleaner for WhatsApp - Clean WhatsApp's Redundant Media Files from Storage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ VishnuSanal/WhatsAppCleaner 能自动扫描并删除 WhatsApp 中的冗余媒体
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

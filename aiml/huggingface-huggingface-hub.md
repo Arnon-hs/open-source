@@ -1,6 +1,6 @@
 # huggingface/huggingface_hub
 
-[![Stars](https://img.shields.io/github/stars/huggingface/huggingface_hub?style=flat-square&color=yellow)](https://github.com/huggingface/huggingface_hub/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/huggingface_hub?style=flat-square&color=blue)](https://github.com/huggingface/huggingface_hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/huggingface_hub?style=flat-square&color=yellow)](https://github.com/huggingface/huggingface_hub/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/huggingface_hub?style=flat-square&color=blue)](https://github.com/huggingface/huggingface_hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The official Python client for the Hugging Face Hub.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Hugging Face Hub 的生产可用性很高，因为它有以下几个优点：
 | forks | 76/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

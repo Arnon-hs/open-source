@@ -1,6 +1,6 @@
 # playwright-community/playwright-go
 
-[![Stars](https://img.shields.io/github/stars/playwright-community/playwright-go?style=flat-square&color=yellow)](https://github.com/playwright-community/playwright-go/stargazers) [![Forks](https://img.shields.io/github/forks/playwright-community/playwright-go?style=flat-square&color=blue)](https://github.com/playwright-community/playwright-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/playwright-community/playwright-go?style=flat-square&color=yellow)](https://github.com/playwright-community/playwright-go/stargazers) [![Forks](https://img.shields.io/github/forks/playwright-community/playwright-go?style=flat-square&color=blue)](https://github.com/playwright-community/playwright-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ playwright-community/playwright-go 是基于 Microsoft Playwright 的 Go 语�
 | forks | 59/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # KevinEdry/nestjs-trpc
 
-[![Stars](https://img.shields.io/github/stars/KevinEdry/nestjs-trpc?style=flat-square&color=yellow)](https://github.com/KevinEdry/nestjs-trpc/stargazers) [![Forks](https://img.shields.io/github/forks/KevinEdry/nestjs-trpc?style=flat-square&color=blue)](https://github.com/KevinEdry/nestjs-trpc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KevinEdry/nestjs-trpc?style=flat-square&color=yellow)](https://github.com/KevinEdry/nestjs-trpc/stargazers) [![Forks](https://img.shields.io/github/forks/KevinEdry/nestjs-trpc?style=flat-square&color=blue)](https://github.com/KevinEdry/nestjs-trpc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Providing native support for decorators and implement an opinionated approach that aligns with NestJS conventions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ KevinEdry/nestjs-trpc 已经有很高的生产可用性，主要原因是：
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

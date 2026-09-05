@@ -1,6 +1,6 @@
 # DataTreehouse/maplib
 
-[![Stars](https://img.shields.io/github/stars/DataTreehouse/maplib?style=flat-square&color=yellow)](https://github.com/DataTreehouse/maplib/stargazers) [![Forks](https://img.shields.io/github/forks/DataTreehouse/maplib?style=flat-square&color=blue)](https://github.com/DataTreehouse/maplib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataTreehouse/maplib?style=flat-square&color=yellow)](https://github.com/DataTreehouse/maplib/stargazers) [![Forks](https://img.shields.io/github/forks/DataTreehouse/maplib?style=flat-square&color=blue)](https://github.com/DataTreehouse/maplib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ DataTreehouse/maplib 是一个基于 Rust 的轻量级库，能够将原始数�
 | forks | 26/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

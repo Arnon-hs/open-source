@@ -1,6 +1,6 @@
 # Zleap-AI/SAG
 
-[![Stars](https://img.shields.io/github/stars/Zleap-AI/SAG?style=flat-square&color=yellow)](https://github.com/Zleap-AI/SAG/stargazers) [![Forks](https://img.shields.io/github/forks/Zleap-AI/SAG?style=flat-square&color=blue)](https://github.com/Zleap-AI/SAG/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zleap-AI/SAG?style=flat-square&color=yellow)](https://github.com/Zleap-AI/SAG/stargazers) [![Forks](https://img.shields.io/github/forks/Zleap-AI/SAG?style=flat-square&color=blue)](https://github.com/Zleap-AI/SAG/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An document retrieval project built on SAG
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data
+Knowledge/RAG · AI/ML · Documents · Data
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Zleap‑AI/SAG 是基于 **SAG**（Search‑Augmented Generation）实现的文�
 | forks | 46/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

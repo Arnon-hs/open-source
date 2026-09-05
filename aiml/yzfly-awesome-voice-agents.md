@@ -1,6 +1,6 @@
 # yzfly/awesome-voice-agents
 
-[![Stars](https://img.shields.io/github/stars/yzfly/awesome-voice-agents?style=flat-square&color=yellow)](https://github.com/yzfly/awesome-voice-agents/stargazers) [![Forks](https://img.shields.io/github/forks/yzfly/awesome-voice-agents?style=flat-square&color=blue)](https://github.com/yzfly/awesome-voice-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzfly/awesome-voice-agents?style=flat-square&color=yellow)](https://github.com/yzfly/awesome-voice-agents/stargazers) [![Forks](https://img.shields.io/github/forks/yzfly/awesome-voice-agents?style=flat-square&color=blue)](https://github.com/yzfly/awesome-voice-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of voice AI agent frameworks, tools, resources, and best practices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ yzfly/awesome-voice-agents 汇集了市面上主流的语音 AI 代理框架、�
 | forks | 30/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

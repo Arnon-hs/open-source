@@ -1,6 +1,6 @@
 # bitbitcodes/autonomous-sdlc
 
-[![Stars](https://img.shields.io/github/stars/bitbitcodes/autonomous-sdlc?style=flat-square&color=yellow)](https://github.com/bitbitcodes/autonomous-sdlc/stargazers) [![Forks](https://img.shields.io/github/forks/bitbitcodes/autonomous-sdlc?style=flat-square&color=blue)](https://github.com/bitbitcodes/autonomous-sdlc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitbitcodes/autonomous-sdlc?style=flat-square&color=yellow)](https://github.com/bitbitcodes/autonomous-sdlc/stargazers) [![Forks](https://img.shields.io/github/forks/bitbitcodes/autonomous-sdlc?style=flat-square&color=blue)](https://github.com/bitbitcodes/autonomous-sdlc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > autonomous-sdlc scaffolds 40 AI agents into your project repo to execute the full software development lifecycle — from a spec to production-ready code with tests, security audit, CI/CD, and monitoring.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ bitbitcodes/autonomous-sdlc是一个开源项目，用于自动化软件开发�
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

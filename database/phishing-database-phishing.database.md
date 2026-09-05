@@ -1,6 +1,6 @@
 # Phishing-Database/Phishing.Database
 
-[![Stars](https://img.shields.io/github/stars/Phishing-Database/Phishing.Database?style=flat-square&color=yellow)](https://github.com/Phishing-Database/Phishing.Database/stargazers) [![Forks](https://img.shields.io/github/forks/Phishing-Database/Phishing.Database?style=flat-square&color=blue)](https://github.com/Phishing-Database/Phishing.Database/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Phishing-Database/Phishing.Database?style=flat-square&color=yellow)](https://github.com/Phishing-Database/Phishing.Database/stargazers) [![Forks](https://img.shields.io/github/forks/Phishing-Database/Phishing.Database?style=flat-square&color=blue)](https://github.com/Phishing-Database/Phishing.Database/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Phishing-Database/Phishing.Database 帮助开发者在不从头开始构建模�
 | forks | 43/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

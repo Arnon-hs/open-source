@@ -1,6 +1,6 @@
 # YV17labs/GhostDesk
 
-[![Stars](https://img.shields.io/github/stars/YV17labs/GhostDesk?style=flat-square&color=yellow)](https://github.com/YV17labs/GhostDesk/stargazers) [![Forks](https://img.shields.io/github/forks/YV17labs/GhostDesk?style=flat-square&color=blue)](https://github.com/YV17labs/GhostDesk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YV17labs/GhostDesk?style=flat-square&color=yellow)](https://github.com/YV17labs/GhostDesk/stargazers) [![Forks](https://img.shields.io/github/forks/YV17labs/GhostDesk?style=flat-square&color=blue)](https://github.com/YV17labs/GhostDesk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Give any AI agent a full desktop — it sees the screen, clicks, types, and runs apps like a human. Automate anything with a UI: browsers, legacy software, internal tools. No API needed. One Docker command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ YV17labs/GhostDesk 为 AI 代理提供了完整的桌面环境，使其能够像
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # jmagar/unraid-mcp
 
-[![Stars](https://img.shields.io/github/stars/jmagar/unraid-mcp?style=flat-square&color=yellow)](https://github.com/jmagar/unraid-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jmagar/unraid-mcp?style=flat-square&color=blue)](https://github.com/jmagar/unraid-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmagar/unraid-mcp?style=flat-square&color=yellow)](https://github.com/jmagar/unraid-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jmagar/unraid-mcp?style=flat-square&color=blue)](https://github.com/jmagar/unraid-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ jmagar/unraid-mcp 通过 GraphQL 接口把 Unraid 服务器的系统信息、Doc
 | forks | 38/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

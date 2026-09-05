@@ -1,6 +1,6 @@
 # joshnuss/svelte-stripe
 
-[![Stars](https://img.shields.io/github/stars/joshnuss/svelte-stripe?style=flat-square&color=yellow)](https://github.com/joshnuss/svelte-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/joshnuss/svelte-stripe?style=flat-square&color=blue)](https://github.com/joshnuss/svelte-stripe/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshnuss/svelte-stripe?style=flat-square&color=yellow)](https://github.com/joshnuss/svelte-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/joshnuss/svelte-stripe?style=flat-square&color=blue)](https://github.com/joshnuss/svelte-stripe/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Everything you need to add Stripe Elements to your Svelte project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · Frontend
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ joshnuss/svelte-stripe 的生产可用性较高，因为它有以下特点：
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

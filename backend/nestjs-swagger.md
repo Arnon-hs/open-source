@@ -1,6 +1,6 @@
 # nestjs/swagger
 
-[![Stars](https://img.shields.io/github/stars/nestjs/swagger?style=flat-square&color=yellow)](https://github.com/nestjs/swagger/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/swagger?style=flat-square&color=blue)](https://github.com/nestjs/swagger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nestjs/swagger?style=flat-square&color=yellow)](https://github.com/nestjs/swagger/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/swagger?style=flat-square&color=blue)](https://github.com/nestjs/swagger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAPI (Swagger) module for Nest framework (node.js) :earth_americas:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 539 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ nestjs/swagger 的生产可用性非常高。它具有以下特点：
 | forks | 68/100 |
 | stars | 70/100 |
 | topics | 88/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 80/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

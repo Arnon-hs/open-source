@@ -1,6 +1,6 @@
 # datafusion-contrib/datafusion-postgres
 
-[![Stars](https://img.shields.io/github/stars/datafusion-contrib/datafusion-postgres?style=flat-square&color=yellow)](https://github.com/datafusion-contrib/datafusion-postgres/stargazers) [![Forks](https://img.shields.io/github/forks/datafusion-contrib/datafusion-postgres?style=flat-square&color=blue)](https://github.com/datafusion-contrib/datafusion-postgres/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datafusion-contrib/datafusion-postgres?style=flat-square&color=yellow)](https://github.com/datafusion-contrib/datafusion-postgres/stargazers) [![Forks](https://img.shields.io/github/forks/datafusion-contrib/datafusion-postgres?style=flat-square&color=blue)](https://github.com/datafusion-contrib/datafusion-postgres/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Postgres protocol frontend for DataFusion
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ datafusion-contrib/datafusion-postgres 的生产可用性为中等水平。它�
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

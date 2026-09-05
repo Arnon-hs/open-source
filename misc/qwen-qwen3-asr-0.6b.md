@@ -1,6 +1,6 @@
 # Qwen/Qwen3-ASR-0.6B
 
-[![Stars](https://img.shields.io/github/stars/Qwen/Qwen3-ASR-0.6B?style=flat-square&color=yellow)](https://huggingface.co/Qwen/Qwen3-ASR-0.6B/stargazers) [![Forks](https://img.shields.io/github/forks/Qwen/Qwen3-ASR-0.6B?style=flat-square&color=blue)](https://huggingface.co/Qwen/Qwen3-ASR-0.6B/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qwen/Qwen3-ASR-0.6B?style=flat-square&color=yellow)](https://huggingface.co/Qwen/Qwen3-ASR-0.6B/stargazers) [![Forks](https://img.shields.io/github/forks/Qwen/Qwen3-ASR-0.6B?style=flat-square&color=blue)](https://huggingface.co/Qwen/Qwen3-ASR-0.6B/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Speech recognition (automatic-speech-recognition) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 323 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Qwen/Qwen3-ASR-0.6B 的生产可用性不明确，可能需要进一步验证。
 | forks | 0/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 36/100 |
-| quality | 38/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

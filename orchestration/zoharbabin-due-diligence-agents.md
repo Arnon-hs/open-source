@@ -1,6 +1,6 @@
 # zoharbabin/due-diligence-agents
 
-[![Stars](https://img.shields.io/github/stars/zoharbabin/due-diligence-agents?style=flat-square&color=yellow)](https://github.com/zoharbabin/due-diligence-agents/stargazers) [![Forks](https://img.shields.io/github/forks/zoharbabin/due-diligence-agents?style=flat-square&color=blue)](https://github.com/zoharbabin/due-diligence-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zoharbabin/due-diligence-agents?style=flat-square&color=yellow)](https://github.com/zoharbabin/due-diligence-agents/stargazers) [![Forks](https://img.shields.io/github/forks/zoharbabin/due-diligence-agents?style=flat-square&color=blue)](https://github.com/zoharbabin/due-diligence-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Legal flags a risk. Finance flags another. We connect and cite. Open-source forensic M&A due diligence: 13 AI agents read your data room across 9 domains (Legal, Finance, Commercial, Tech, Cyber, HR, Tax, Regulatory, ESG), cross-reference findings no single reviewer connects, and trace every one to an exact page & quote.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ zoharbabin/due-diligence-agents 是一个开源项目，旨在提供 M&A(合并�
 | forks | 33/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

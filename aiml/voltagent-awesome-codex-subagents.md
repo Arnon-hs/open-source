@@ -1,6 +1,6 @@
 # VoltAgent/awesome-codex-subagents
 
-[![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=flat-square&color=yellow)](https://github.com/VoltAgent/awesome-codex-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/awesome-codex-subagents?style=flat-square&color=blue)](https://github.com/VoltAgent/awesome-codex-subagents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=flat-square&color=yellow)](https://github.com/VoltAgent/awesome-codex-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/awesome-codex-subagents?style=flat-square&color=blue)](https://github.com/VoltAgent/awesome-codex-subagents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 622 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ VoltAgent/awesome-codex-subagents 在生产环境中具有较高的可用性，�
 | forks | 70/100 |
 | stars | 80/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

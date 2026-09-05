@@ -1,6 +1,6 @@
 # JuanTorchia/formbricks
 
-[![Stars](https://img.shields.io/github/stars/JuanTorchia/formbricks?style=flat-square&color=yellow)](https://github.com/JuanTorchia/formbricks/stargazers) [![Forks](https://img.shields.io/github/forks/JuanTorchia/formbricks?style=flat-square&color=blue)](https://github.com/JuanTorchia/formbricks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuanTorchia/formbricks?style=flat-square&color=yellow)](https://github.com/JuanTorchia/formbricks/stargazers) [![Forks](https://img.shields.io/github/forks/JuanTorchia/formbricks?style=flat-square&color=blue)](https://github.com/JuanTorchia/formbricks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): The AI demo failed, but the database remembered half of it
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ This project lets teams persist, query, and move data with minimal plumbing, spe
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 50/100 |
-| quality | 40/100 |
-| recency | 80/100 |
+| outlook | 43/100 |
+| quality | 35/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 52/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # selemondev/spark-ui
 
-[![Stars](https://img.shields.io/github/stars/selemondev/spark-ui?style=flat-square&color=yellow)](https://github.com/selemondev/spark-ui/stargazers) [![Forks](https://img.shields.io/github/forks/selemondev/spark-ui?style=flat-square&color=blue)](https://github.com/selemondev/spark-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/selemondev/spark-ui?style=flat-square&color=yellow)](https://github.com/selemondev/spark-ui/stargazers) [![Forks](https://img.shields.io/github/forks/selemondev/spark-ui?style=flat-square&color=blue)](https://github.com/selemondev/spark-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > :construction: Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 632 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ selemondev/spark-ui 的生产可用性为中等（Medium）。由于其依赖关
 | forks | 29/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

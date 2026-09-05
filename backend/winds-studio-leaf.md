@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ Winds-Studio/Leaf：Winds-Studio/Leaf helps teams reuse service infrastructure i
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

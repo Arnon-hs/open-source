@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Data
+Orchestration · MCP · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ AgentTeam-TaichuAI/ScienceClaw：AgentTeam-TaichuAI/ScienceClaw helps turn isola
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

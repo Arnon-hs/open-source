@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionERP
 
-[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionERP?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/OpenConstructionERP/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/OpenConstructionERP?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/OpenConstructionERP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionERP?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/OpenConstructionERP/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/OpenConstructionERP?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/OpenConstructionERP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching. 42 regional catalogues, 21 languages, 71 modules. AGPL-3.0. v3.0 - pip install openconstructionerp
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ datadrivenconstruction/OpenConstructionERP 是一套开源建筑行业 ERP 系�
 | forks | 53/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

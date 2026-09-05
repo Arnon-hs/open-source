@@ -1,6 +1,6 @@
 # bamler-lab/constriction
 
-[![Stars](https://img.shields.io/github/stars/bamler-lab/constriction?style=flat-square&color=yellow)](https://github.com/bamler-lab/constriction/stargazers) [![Forks](https://img.shields.io/github/forks/bamler-lab/constriction?style=flat-square&color=blue)](https://github.com/bamler-lab/constriction/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bamler-lab/constriction?style=flat-square&color=yellow)](https://github.com/bamler-lab/constriction/stargazers) [![Forks](https://img.shields.io/github/forks/bamler-lab/constriction?style=flat-square&color=blue)](https://github.com/bamler-lab/constriction/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Entropy coders for research and production in Python and Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data · Education · Product
+AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ bamler-lab/constriction 的生产可用性很高，因为它有：
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # alpha-xone/xbbg
 
-[![Stars](https://img.shields.io/github/stars/alpha-xone/xbbg?style=flat-square&color=yellow)](https://github.com/alpha-xone/xbbg/stargazers) [![Forks](https://img.shields.io/github/forks/alpha-xone/xbbg?style=flat-square&color=blue)](https://github.com/alpha-xone/xbbg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alpha-xone/xbbg?style=flat-square&color=yellow)](https://github.com/alpha-xone/xbbg/stargazers) [![Forks](https://img.shields.io/github/forks/alpha-xone/xbbg?style=flat-square&color=blue)](https://github.com/alpha-xone/xbbg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An intuitive Bloomberg API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 710 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ alpha-xone/xbbg 是一个基于 Rust 实现的 Bloomberg API 封装库，提供�
 | forks | 45/100 |
 | stars | 61/100 |
 | topics | 25/100 |
-| outlook | 45/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

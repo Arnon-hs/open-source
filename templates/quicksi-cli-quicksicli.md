@@ -1,6 +1,6 @@
 # Quicksi-CLI/quicksiCLI
 
-[![Stars](https://img.shields.io/github/stars/Quicksi-CLI/quicksiCLI?style=flat-square&color=yellow)](https://github.com/Quicksi-CLI/quicksiCLI/stargazers) [![Forks](https://img.shields.io/github/forks/Quicksi-CLI/quicksiCLI?style=flat-square&color=blue)](https://github.com/Quicksi-CLI/quicksiCLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quicksi-CLI/quicksiCLI?style=flat-square&color=yellow)](https://github.com/Quicksi-CLI/quicksiCLI/stargazers) [![Forks](https://img.shields.io/github/forks/Quicksi-CLI/quicksiCLI?style=flat-square&color=blue)](https://github.com/Quicksi-CLI/quicksiCLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Quicksi is an Open-Source command-line tool with re-useable starters in different languages, frameworks and libraries designed to make it easy for developers to start projects without having to worry about the setup. And for code instructors in tutorials, conferences, workshops to give easy access to their students.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 100 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Frontend · Mobile · Education
+Templates · Frontend · DevTools · Mobile · Education
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ Quicksi-CLI/quicksiCLI 的生产可用性非常高，原因如下：
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

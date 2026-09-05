@@ -1,6 +1,6 @@
 # juliansteenbakker/mobile_scanner
 
-[![Stars](https://img.shields.io/github/stars/juliansteenbakker/mobile_scanner?style=flat-square&color=yellow)](https://github.com/juliansteenbakker/mobile_scanner/stargazers) [![Forks](https://img.shields.io/github/forks/juliansteenbakker/mobile_scanner?style=flat-square&color=blue)](https://github.com/juliansteenbakker/mobile_scanner/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juliansteenbakker/mobile_scanner?style=flat-square&color=yellow)](https://github.com/juliansteenbakker/mobile_scanner/stargazers) [![Forks](https://img.shields.io/github/forks/juliansteenbakker/mobile_scanner?style=flat-square&color=blue)](https://github.com/juliansteenbakker/mobile_scanner/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A universal Flutter barcode and QR code scanner using CameraX/ML Kit for Android, AVFoundation/Apple Vision for iOS & macOS, and ZXing for web.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 696 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ juliansteenbakker/mobile_scanner 帮助用户添加 AI 能力，无需从头开�
 | forks | 71/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

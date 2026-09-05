@@ -1,6 +1,6 @@
 # janluke/cloup
 
-[![Stars](https://img.shields.io/github/stars/janluke/cloup?style=flat-square&color=yellow)](https://github.com/janluke/cloup/stargazers) [![Forks](https://img.shields.io/github/forks/janluke/cloup?style=flat-square&color=blue)](https://github.com/janluke/cloup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janluke/cloup?style=flat-square&color=yellow)](https://github.com/janluke/cloup/stargazers) [![Forks](https://img.shields.io/github/forks/janluke/cloup?style=flat-square&color=blue)](https://github.com/janluke/cloup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Library to build command line interfaces based on Click. It extends click with: option groups, constraints (e.g. mutually exclusive params), command aliases, help themes, "did you mean ...?" suggestions and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ janluke/cloup 的生产可用性为中等。它适用于原型开发或内部工
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

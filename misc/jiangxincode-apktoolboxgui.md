@@ -1,6 +1,6 @@
 # jiangxincode/ApkToolBoxGUI
 
-[![Stars](https://img.shields.io/github/stars/jiangxincode/ApkToolBoxGUI?style=flat-square&color=yellow)](https://github.com/jiangxincode/ApkToolBoxGUI/stargazers) [![Forks](https://img.shields.io/github/forks/jiangxincode/ApkToolBoxGUI?style=flat-square&color=blue)](https://github.com/jiangxincode/ApkToolBoxGUI/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiangxincode/ApkToolBoxGUI?style=flat-square&color=yellow)](https://github.com/jiangxincode/ApkToolBoxGUI/stargazers) [![Forks](https://img.shields.io/github/forks/jiangxincode/ApkToolBoxGUI?style=flat-square&color=blue)](https://github.com/jiangxincode/ApkToolBoxGUI/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > APKToolBoxGUI is a handy tool for programmer with user-friendly GUI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ APKToolBoxGUI 的生产可用性为 中等（Medium）。它适合用于原型�
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Clojure |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG
+Knowledge/RAG · Documents · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ logseq/logseq：logseq/logseq helps make internal knowledge searchable and usabl
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

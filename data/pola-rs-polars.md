@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,25 +27,23 @@ Data
 
 ### English
 
-pola-rs/polars: pola-rs/polars helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pola-rs/polars: pola-rs/polars may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-pola-rs/polars: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pola-rs/polars: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-pola-rs/polars：pola-rs/polars helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pola-rs/polars：pola-rs/polars may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** pola-rs/polars helps convert raw data into searchable, analyzable, or automated pipelines.
+**Value:** pola-rs/polars may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- organize analytics pipelines
-- process datasets
-- improve reporting workflows
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ pola-rs/polars：pola-rs/polars helps convert raw data into searchable, analyzab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 94/100 |
-| stars | 98/100 |
 | forks | 86/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

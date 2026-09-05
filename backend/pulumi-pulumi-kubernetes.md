@@ -1,6 +1,6 @@
 # pulumi/pulumi-kubernetes
 
-[![Stars](https://img.shields.io/github/stars/pulumi/pulumi-kubernetes?style=flat-square&color=yellow)](https://github.com/pulumi/pulumi-kubernetes/stargazers) [![Forks](https://img.shields.io/github/forks/pulumi/pulumi-kubernetes?style=flat-square&color=blue)](https://github.com/pulumi/pulumi-kubernetes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pulumi/pulumi-kubernetes?style=flat-square&color=yellow)](https://github.com/pulumi/pulumi-kubernetes/stargazers) [![Forks](https://img.shields.io/github/forks/pulumi/pulumi-kubernetes?style=flat-square&color=blue)](https://github.com/pulumi/pulumi-kubernetes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevOps/Infra · Marketing
+Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Pulumi Kubernetes 的生产可用性较高，因为它有以下优势：
 | forks | 53/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

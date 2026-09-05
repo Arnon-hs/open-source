@@ -1,6 +1,6 @@
 # 0xsouravm/oxichrome
 
-[![Stars](https://img.shields.io/github/stars/0xsouravm/oxichrome?style=flat-square&color=yellow)](https://github.com/0xsouravm/oxichrome/stargazers) [![Forks](https://img.shields.io/github/forks/0xsouravm/oxichrome?style=flat-square&color=blue)](https://github.com/0xsouravm/oxichrome/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xsouravm/oxichrome?style=flat-square&color=yellow)](https://github.com/0xsouravm/oxichrome/stargazers) [![Forks](https://img.shields.io/github/forks/0xsouravm/oxichrome?style=flat-square&color=blue)](https://github.com/0xsouravm/oxichrome/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Framework to build browser extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ To adopt 0xsouravm/oxichrome
 | forks | 26/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

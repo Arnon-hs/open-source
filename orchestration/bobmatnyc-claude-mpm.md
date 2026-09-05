@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ bobmatnyc/claude-mpm：bobmatnyc/claude-mpm helps turn isolated prompts and tool
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

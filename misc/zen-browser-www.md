@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Astro |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ zen-browser/www：zen-browser/www may be useful when its README and activity mat
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

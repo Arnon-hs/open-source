@@ -1,6 +1,6 @@
 # TEdit/Terraria-Map-Editor
 
-[![Stars](https://img.shields.io/github/stars/TEdit/Terraria-Map-Editor?style=flat-square&color=yellow)](https://github.com/TEdit/Terraria-Map-Editor/stargazers) [![Forks](https://img.shields.io/github/forks/TEdit/Terraria-Map-Editor?style=flat-square&color=blue)](https://github.com/TEdit/Terraria-Map-Editor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TEdit/Terraria-Map-Editor?style=flat-square&color=yellow)](https://github.com/TEdit/Terraria-Map-Editor/stargazers) [![Forks](https://img.shields.io/github/forks/TEdit/Terraria-Map-Editor?style=flat-square&color=blue)](https://github.com/TEdit/Terraria-Map-Editor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,11 +130,11 @@ TEdit（Terraria Map Editor）是一款独立的开源地图编辑器，使用 C
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

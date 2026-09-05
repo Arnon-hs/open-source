@@ -1,6 +1,6 @@
 # janreges/siteone-crawler
 
-[![Stars](https://img.shields.io/github/stars/janreges/siteone-crawler?style=flat-square&color=yellow)](https://github.com/janreges/siteone-crawler/stargazers) [![Forks](https://img.shields.io/github/forks/janreges/siteone-crawler?style=flat-square&color=blue)](https://github.com/janreges/siteone-crawler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janreges/siteone-crawler?style=flat-square&color=yellow)](https://github.com/janreges/siteone-crawler/stargazers) [![Forks](https://img.shields.io/github/forks/janreges/siteone-crawler?style=flat-square&color=blue)](https://github.com/janreges/siteone-crawler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > SiteOne Crawler is a cross-platform website crawler and analyzer for SEO, security, accessibility, and performance optimization—ideal for developers, DevOps, QA engineers, and consultants. Supports Windows, macOS, and Linux (x64 and arm64).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 783 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database · Security · Marketing
+DevTools · DevOps/Infra · Security · Marketing
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ SiteOne Crawler 能一次性对网站进行 SEO、漏洞安全、可访问性以
 | forks | 46/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # CircleCI-Public/mcp-server-circleci
 
-[![Stars](https://img.shields.io/github/stars/CircleCI-Public/mcp-server-circleci?style=flat-square&color=yellow)](https://github.com/CircleCI-Public/mcp-server-circleci/stargazers) [![Forks](https://img.shields.io/github/forks/CircleCI-Public/mcp-server-circleci?style=flat-square&color=blue)](https://github.com/CircleCI-Public/mcp-server-circleci/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CircleCI-Public/mcp-server-circleci?style=flat-square&color=yellow)](https://github.com/CircleCI-Public/mcp-server-circleci/stargazers) [![Forks](https://img.shields.io/github/forks/CircleCI-Public/mcp-server-circleci?style=flat-square&color=blue)](https://github.com/CircleCI-Public/mcp-server-circleci/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A specialized server implementation for the Model Context Protocol (MCP) designed to integrate with CircleCI's development workflow. This project serves as a bridge between CircleCI's infrastructure and the Model Context Protocol, enabling enhanced AI-powered development experiences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ CircleCI‑Public/mcp‑server‑circleci 为 Model Context Protocol（MCP）提
 | forks | 45/100 |
 | stars | 41/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

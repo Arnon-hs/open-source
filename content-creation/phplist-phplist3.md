@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Backend · Marketing
+Content Creation · Communication · Backend · Marketing
 
 ## 📝 Summary
 
@@ -110,7 +110,7 @@ phpList/phplist3 的生产可用性非常高。其有强大的社区支持、活
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

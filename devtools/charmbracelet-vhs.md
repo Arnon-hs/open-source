@@ -1,6 +1,6 @@
 # charmbracelet/vhs
 
-[![Stars](https://img.shields.io/github/stars/charmbracelet/vhs?style=flat-square&color=yellow)](https://github.com/charmbracelet/vhs/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/vhs?style=flat-square&color=blue)](https://github.com/charmbracelet/vhs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charmbracelet/vhs?style=flat-square&color=yellow)](https://github.com/charmbracelet/vhs/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/vhs?style=flat-square&color=blue)](https://github.com/charmbracelet/vhs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Your CLI home video recorder 📼
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.2k |
 | 🍴 **Forks** | 440 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,11 +127,11 @@ charmbracelet/vhs - это CLI-инструмент для автоматиза�
 | forks | 66/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

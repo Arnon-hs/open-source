@@ -1,6 +1,6 @@
 # python/python-docs-es
 
-[![Stars](https://img.shields.io/github/stars/python/python-docs-es?style=flat-square&color=yellow)](https://github.com/python/python-docs-es/stargazers) [![Forks](https://img.shields.io/github/forks/python/python-docs-es?style=flat-square&color=blue)](https://github.com/python/python-docs-es/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python/python-docs-es?style=flat-square&color=yellow)](https://github.com/python/python-docs-es/stargazers) [![Forks](https://img.shields.io/github/forks/python/python-docs-es?style=flat-square&color=blue)](https://github.com/python/python-docs-es/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Spanish translation of the Python documentation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 411 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ python/python-docs-es 的生产可用性为中等。它可以用于原型开发�
 | forks | 65/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

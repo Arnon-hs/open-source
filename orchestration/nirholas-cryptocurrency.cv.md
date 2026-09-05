@@ -1,6 +1,6 @@
 # nirholas/cryptocurrency.cv
 
-[![Stars](https://img.shields.io/github/stars/nirholas/cryptocurrency.cv?style=flat-square&color=yellow)](https://github.com/nirholas/cryptocurrency.cv/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/cryptocurrency.cv?style=flat-square&color=blue)](https://github.com/nirholas/cryptocurrency.cv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/cryptocurrency.cv?style=flat-square&color=yellow)](https://github.com/nirholas/cryptocurrency.cv/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/cryptocurrency.cv?style=flat-square&color=blue)](https://github.com/nirholas/cryptocurrency.cv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly. Open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ nirholas/cryptocurrency.cv：nirholas/cryptocurrency.cv helps prototype or inspe
 | forks | 39/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

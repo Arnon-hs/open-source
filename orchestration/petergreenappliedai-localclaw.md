@@ -1,6 +1,6 @@
 # PeterGreenAppliedAI/LocalClaw
 
-[![Stars](https://img.shields.io/github/stars/PeterGreenAppliedAI/LocalClaw?style=flat-square&color=yellow)](https://github.com/PeterGreenAppliedAI/LocalClaw/stargazers) [![Forks](https://img.shields.io/github/forks/PeterGreenAppliedAI/LocalClaw?style=flat-square&color=blue)](https://github.com/PeterGreenAppliedAI/LocalClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PeterGreenAppliedAI/LocalClaw?style=flat-square&color=yellow)](https://github.com/PeterGreenAppliedAI/LocalClaw/stargazers) [![Forks](https://img.shields.io/github/forks/PeterGreenAppliedAI/LocalClaw?style=flat-square&color=blue)](https://github.com/PeterGreenAppliedAI/LocalClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Local-model-first AI agent framework — Router + Specialist architecture for Ollama
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ PeterGreenAppliedAI/LocalClaw 是一个 **本地模型优先** 的 AI 代理框�
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 13/100 |
-| outlook | 47/100 |
-| quality | 39/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 47/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

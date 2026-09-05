@@ -1,6 +1,6 @@
 # KDE/kdenlive
 
-[![Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=flat-square&color=yellow)](https://github.com/KDE/kdenlive/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/kdenlive?style=flat-square&color=blue)](https://github.com/KDE/kdenlive/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=flat-square&color=yellow)](https://github.com/KDE/kdenlive/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/kdenlive?style=flat-square&color=blue)](https://github.com/KDE/kdenlive/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open source video editor, based on MLT Framework and KDE Frameworks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 443 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ KDE/kdenlive 的生产可用性为中等（Medium），适合用于快速 protot
 | forks | 66/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

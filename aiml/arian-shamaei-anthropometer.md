@@ -1,6 +1,6 @@
 # arian-shamaei/anthropometer
 
-[![Stars](https://img.shields.io/github/stars/arian-shamaei/anthropometer?style=flat-square&color=yellow)](https://github.com/arian-shamaei/anthropometer/stargazers) [![Forks](https://img.shields.io/github/forks/arian-shamaei/anthropometer?style=flat-square&color=blue)](https://github.com/arian-shamaei/anthropometer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arian-shamaei/anthropometer?style=flat-square&color=yellow)](https://github.com/arian-shamaei/anthropometer/stargazers) [![Forks](https://img.shields.io/github/forks/arian-shamaei/anthropometer?style=flat-square&color=blue)](https://github.com/arian-shamaei/anthropometer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Btop-style real-time context monitor for Claude Code sessions — live context map, cache economics, subagents, and a compiled PDF report.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Observability
+AI/ML · Documents · Observability
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ arian-shamaei/anthropometer是一个开源项目，提供了实时监控Claude C
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # google/fonts
 
-[![Stars](https://img.shields.io/github/stars/google/fonts?style=flat-square&color=yellow)](https://github.com/google/fonts/stargazers) [![Forks](https://img.shields.io/github/forks/google/fonts?style=flat-square&color=blue)](https://github.com/google/fonts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/fonts?style=flat-square&color=yellow)](https://github.com/google/fonts/stargazers) [![Forks](https://img.shields.io/github/forks/google/fonts?style=flat-square&color=blue)](https://github.com/google/fonts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.2k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ google/fonts 提供了 Google Fonts 的全部字体文件及公开的问题追�
 | forks | 87/100 |
 | stars | 92/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

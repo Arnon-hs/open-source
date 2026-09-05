@@ -1,6 +1,6 @@
 # JimLiu/baoyu-design
 
-[![Stars](https://img.shields.io/github/stars/JimLiu/baoyu-design?style=flat-square&color=yellow)](https://github.com/JimLiu/baoyu-design/stargazers) [![Forks](https://img.shields.io/github/forks/JimLiu/baoyu-design?style=flat-square&color=blue)](https://github.com/JimLiu/baoyu-design/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JimLiu/baoyu-design?style=flat-square&color=yellow)](https://github.com/JimLiu/baoyu-design/stargazers) [![Forks](https://img.shields.io/github/forks/JimLiu/baoyu-design?style=flat-square&color=blue)](https://github.com/JimLiu/baoyu-design/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ JimLiu/baoyu‑design 将 Claude Design（包括 Cursor、Claude Code 等）
 | forks | 55/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

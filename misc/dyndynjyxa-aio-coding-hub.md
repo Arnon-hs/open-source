@@ -1,6 +1,6 @@
 # dyndynjyxa/aio-coding-hub
 
-[![Stars](https://img.shields.io/github/stars/dyndynjyxa/aio-coding-hub?style=flat-square&color=yellow)](https://github.com/dyndynjyxa/aio-coding-hub/stargazers) [![Forks](https://img.shields.io/github/forks/dyndynjyxa/aio-coding-hub?style=flat-square&color=blue)](https://github.com/dyndynjyxa/aio-coding-hub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dyndynjyxa/aio-coding-hub?style=flat-square&color=yellow)](https://github.com/dyndynjyxa/aio-coding-hub/stargazers) [![Forks](https://img.shields.io/github/forks/dyndynjyxa/aio-coding-hub?style=flat-square&color=blue)](https://github.com/dyndynjyxa/aio-coding-hub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 一个All In One的本地AI工具, 支持Win/Mac/Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 603 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ dyndynjyxa/aio-coding-hub 是一个 **All‑In‑One 本地 AI 开发套件**，
 | forks | 44/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

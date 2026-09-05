@@ -1,6 +1,6 @@
 # Unclecheng-li/VulnClaw
 
-[![Stars](https://img.shields.io/github/stars/Unclecheng-li/VulnClaw?style=flat-square&color=yellow)](https://github.com/Unclecheng-li/VulnClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Unclecheng-li/VulnClaw?style=flat-square&color=blue)](https://github.com/Unclecheng-li/VulnClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Unclecheng-li/VulnClaw?style=flat-square&color=yellow)](https://github.com/Unclecheng-li/VulnClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Unclecheng-li/VulnClaw?style=flat-square&color=blue)](https://github.com/Unclecheng-li/VulnClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Security
+MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -115,15 +115,15 @@ VulnClaw 为 AI‑驱动的渗透测试提供了一个标准化、可编排的�
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

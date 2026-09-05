@@ -1,6 +1,6 @@
 # hyuga611/reflint
 
-[![Stars](https://img.shields.io/github/stars/hyuga611/reflint?style=flat-square&color=yellow)](https://github.com/hyuga611/reflint/stargazers) [![Forks](https://img.shields.io/github/forks/hyuga611/reflint?style=flat-square&color=blue)](https://github.com/hyuga611/reflint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyuga611/reflint?style=flat-square&color=yellow)](https://github.com/hyuga611/reflint/stargazers) [![Forks](https://img.shields.io/github/forks/hyuga611/reflint?style=flat-square&color=blue)](https://github.com/hyuga611/reflint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Reference-integrity CI linter for AGENTS.md / llms.txt / CLAUDE.md — fail the PR when agent config points at commands, scripts, or paths that no longer exist. Language-agnostic, zero-dep.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ hyuga611/reflint：hyuga611/reflint helps add AI capability without starting fro
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 80/100 |
+| outlook | 53/100 |
+| quality | 41/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 54/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

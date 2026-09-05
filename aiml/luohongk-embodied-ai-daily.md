@@ -1,6 +1,6 @@
 # luohongk/Embodied-AI-Daily
 
-[![Stars](https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=flat-square&color=yellow)](https://github.com/luohongk/Embodied-AI-Daily/stargazers) [![Forks](https://img.shields.io/github/forks/luohongk/Embodied-AI-Daily?style=flat-square&color=blue)](https://github.com/luohongk/Embodied-AI-Daily/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=flat-square&color=yellow)](https://github.com/luohongk/Embodied-AI-Daily/stargazers) [![Forks](https://img.shields.io/github/forks/luohongk/Embodied-AI-Daily?style=flat-square&color=blue)](https://github.com/luohongk/Embodied-AI-Daily/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ In short, Embodied‑AI‑Daily offers a low‑cost way to keep AI teams up‑to
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

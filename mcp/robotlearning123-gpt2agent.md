@@ -1,6 +1,6 @@
 # robotlearning123/gpt2agent
 
-[![Stars](https://img.shields.io/github/stars/robotlearning123/gpt2agent?style=flat-square&color=yellow)](https://github.com/robotlearning123/gpt2agent/stargazers) [![Forks](https://img.shields.io/github/forks/robotlearning123/gpt2agent?style=flat-square&color=blue)](https://github.com/robotlearning123/gpt2agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robotlearning123/gpt2agent?style=flat-square&color=yellow)](https://github.com/robotlearning123/gpt2agent/stargazers) [![Forks](https://img.shields.io/github/forks/robotlearning123/gpt2agent?style=flat-square&color=blue)](https://github.com/robotlearning123/gpt2agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Your codex login → a full ChatGPT Plus/Pro account (every model, deep research, image gen, code exec) inside Claude Code, Codex & any MCP client. One-line install.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ robotlearning123/gpt2agent 是一个一键安装的开源工具，能够在 Clau
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

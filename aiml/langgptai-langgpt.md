@@ -1,6 +1,6 @@
 # langgptai/LangGPT
 
-[![Stars](https://img.shields.io/github/stars/langgptai/LangGPT?style=flat-square&color=yellow)](https://github.com/langgptai/LangGPT/stargazers) [![Forks](https://img.shields.io/github/forks/langgptai/LangGPT?style=flat-square&color=blue)](https://github.com/langgptai/LangGPT/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langgptai/LangGPT?style=flat-square&color=yellow)](https://github.com/langgptai/LangGPT/stargazers) [![Forks](https://img.shields.io/github/forks/langgptai/LangGPT?style=flat-square&color=blue)](https://github.com/langgptai/LangGPT/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.3k |
 | 🍴 **Forks** | 935 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Design · Education
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ LangGPT 的生产可用性很高，主要原因是：
 | forks | 74/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SonarSource/sonar-php
 
-[![Stars](https://img.shields.io/github/stars/SonarSource/sonar-php?style=flat-square&color=yellow)](https://github.com/SonarSource/sonar-php/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonar-php?style=flat-square&color=blue)](https://github.com/SonarSource/sonar-php/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SonarSource/sonar-php?style=flat-square&color=yellow)](https://github.com/SonarSource/sonar-php/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonar-php?style=flat-square&color=blue)](https://github.com/SonarSource/sonar-php/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > :elephant: SonarPHP: PHP static analyzer for SonarQube & SonarLint
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ SonarSource/sonar-php 的生产可用性为中等（Medium），适合用于原�
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

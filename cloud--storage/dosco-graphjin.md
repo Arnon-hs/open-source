@@ -1,0 +1,83 @@
+# dosco/graphjin
+
+[![Stars](https://img.shields.io/github/stars/dosco/graphjin?style=flat-square&color=yellow)](https://github.com/dosco/graphjin/stargazers) [![Forks](https://img.shields.io/github/forks/dosco/graphjin?style=flat-square&color=blue)](https://github.com/dosco/graphjin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+
+> GraphJin - An Automagical Compiler to Connect AI to Your Databases
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3.1k |
+| 🍴 **Forks** | 187 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cloud-native` `cockroachdb` `database` `graphql` `mariadb` `mongodb` `mssql` `mysql` `oracle` `postgresql` `sql` `sqlite`
+
+## 🎯 Categories
+
+Cloud & Storage · Backend · Database
+
+## 📝 Summary
+
+### English
+
+GraphJin is an open‑source compiler that automatically generates a GraphQL API layer over any relational database, enabling AI and machine‑learning applications to query, insert, update, and delete data with natural language‑like requests. By introspecting the database schema and translating high‑level intents into optimized SQL, it provides a seamless, low‑code bridge between AI models and existing data stores. The project is licensed under an MIT‑style license and is actively maintained for AI/ML and data‑centric workflows.
+
+### Русский
+
+GraphJin — это open‑source компилятор, который автоматически преобразует запросы на естественном языке в SQL и позволяет подключать AI‑модели напрямую к любой базе данных. Проект упрощает построение интерактивных аналитических приложений и чат‑ботов, избавляя разработчиков от ручного написания запросов и схем. Поддерживается в категориях AI/ML и Data, полностью открытый и готовый к расширению.
+
+### 中文
+
+dosco/graphjin：dosco/graphjin helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** dosco/graphjin helps teams persist, query, and move data with less custom plumbing.
+
+**Best use cases**
+
+- manage persistence
+- speed up data access
+- prototype database-backed apps
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 3055 GitHub stars
+- 187 forks
+- updated 2026-05-08
+- primary language: Go
+- 13 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 57/100 |
+| stars | 74/100 |
+| topics | 100/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dosco/graphjin) · [← Back to Cloud--storage](./README.md)</sub>

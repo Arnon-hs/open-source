@@ -1,6 +1,6 @@
 # RankFTW/RHI
 
-[![Stars](https://img.shields.io/github/stars/RankFTW/RHI?style=flat-square&color=yellow)](https://github.com/RankFTW/RHI/stargazers) [![Forks](https://img.shields.io/github/forks/RankFTW/RHI?style=flat-square&color=blue)](https://github.com/RankFTW/RHI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RankFTW/RHI?style=flat-square&color=yellow)](https://github.com/RankFTW/RHI/stargazers) [![Forks](https://img.shields.io/github/forks/RankFTW/RHI?style=flat-square&color=blue)](https://github.com/RankFTW/RHI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ReShade HDR Installer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ RankFTW/RHI 是一个用于 ReShade 的 HDR 安装器，提供一键式部署 HD
 | forks | 21/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

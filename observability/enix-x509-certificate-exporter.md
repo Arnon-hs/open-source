@@ -1,6 +1,6 @@
 # enix/x509-certificate-exporter
 
-[![Stars](https://img.shields.io/github/stars/enix/x509-certificate-exporter?style=flat-square&color=yellow)](https://github.com/enix/x509-certificate-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/enix/x509-certificate-exporter?style=flat-square&color=blue)](https://github.com/enix/x509-certificate-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enix/x509-certificate-exporter?style=flat-square&color=yellow)](https://github.com/enix/x509-certificate-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/enix/x509-certificate-exporter?style=flat-square&color=blue)](https://github.com/enix/x509-certificate-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A Prometheus exporter for X.509 certificates, built for Kubernetes first but equally happy as a standalone binary
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 909 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ enix/x509-certificate-exporter 在监控 X.509 证书生命周期方面已具备
 | forks | 51/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

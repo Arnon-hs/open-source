@@ -1,6 +1,6 @@
 # soldatov-ss/django-completion
 
-[![Stars](https://img.shields.io/github/stars/soldatov-ss/django-completion?style=flat-square&color=yellow)](https://github.com/soldatov-ss/django-completion/stargazers) [![Forks](https://img.shields.io/github/forks/soldatov-ss/django-completion?style=flat-square&color=blue)](https://github.com/soldatov-ss/django-completion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soldatov-ss/django-completion?style=flat-square&color=yellow)](https://github.com/soldatov-ss/django-completion/stargazers) [![Forks](https://img.shields.io/github/forks/soldatov-ss/django-completion?style=flat-square&color=blue)](https://github.com/soldatov-ss/django-completion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Django manage.py context for coding agents — and tab completion for you
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ soldatov-ss/django-completion 的生产可用性为中等（Medium）。它适�
 | forks | 0/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

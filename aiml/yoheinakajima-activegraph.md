@@ -1,6 +1,6 @@
 # yoheinakajima/activegraph
 
-[![Stars](https://img.shields.io/github/stars/yoheinakajima/activegraph?style=flat-square&color=yellow)](https://github.com/yoheinakajima/activegraph/stargazers) [![Forks](https://img.shields.io/github/forks/yoheinakajima/activegraph?style=flat-square&color=blue)](https://github.com/yoheinakajima/activegraph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yoheinakajima/activegraph?style=flat-square&color=yellow)](https://github.com/yoheinakajima/activegraph/stargazers) [![Forks](https://img.shields.io/github/forks/yoheinakajima/activegraph?style=flat-square&color=blue)](https://github.com/yoheinakajima/activegraph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Event-sourced graph runtime for durable and stateful agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ yoheinakajima/activegraph 在生产环境中使用时需要谨慎。根据评估
 | forks | 37/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

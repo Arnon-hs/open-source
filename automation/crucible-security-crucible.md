@@ -1,6 +1,6 @@
 # crucible-security/crucible
 
-[![Stars](https://img.shields.io/github/stars/crucible-security/crucible?style=flat-square&color=yellow)](https://github.com/crucible-security/crucible/stargazers) [![Forks](https://img.shields.io/github/forks/crucible-security/crucible?style=flat-square&color=blue)](https://github.com/crucible-security/crucible/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crucible-security/crucible?style=flat-square&color=yellow)](https://github.com/crucible-security/crucible/stargazers) [![Forks](https://img.shields.io/github/forks/crucible-security/crucible?style=flat-square&color=blue)](https://github.com/crucible-security/crucible/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > pytest for AI agents - Autonomous red-teaming, behavioral monitoring & security testing for LLM agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Observability · Security
+Automation · AI/ML · DevTools · Observability · Security
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ crucible‑security/crucible 为 LLM 代理提供类似 pytest 的自动化测�
 | forks | 38/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

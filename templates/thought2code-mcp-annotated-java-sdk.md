@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · MCP · AI/ML · Backend
+Templates · MCP · AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ thought2code/mcp-annotated-java-sdk：thought2code/mcp-annotated-java-sdk helps 
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

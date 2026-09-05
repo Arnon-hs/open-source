@@ -1,6 +1,6 @@
 # closedloop-ai/claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/closedloop-ai/claude-plugins?style=flat-square&color=yellow)](https://github.com/closedloop-ai/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/closedloop-ai/claude-plugins?style=flat-square&color=blue)](https://github.com/closedloop-ai/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/closedloop-ai/claude-plugins?style=flat-square&color=yellow)](https://github.com/closedloop-ai/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/closedloop-ai/claude-plugins?style=flat-square&color=blue)](https://github.com/closedloop-ai/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude Code plugins for multi-agent software delivery. Plan-first SDLC workflow, code review, LLM quality judges, and self-learning — grounded in your codebase.  Bootstrap, Plan, & Ship.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ closedloop-ai/claude-plugins是一个开源项目，提供了用于多代理软�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

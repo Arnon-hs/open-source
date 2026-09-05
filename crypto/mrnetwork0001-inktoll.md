@@ -1,6 +1,6 @@
 # mrnetwork0001/Inktoll
 
-[![Stars](https://img.shields.io/github/stars/mrnetwork0001/Inktoll?style=flat-square&color=yellow)](https://github.com/mrnetwork0001/Inktoll/stargazers) [![Forks](https://img.shields.io/github/forks/mrnetwork0001/Inktoll?style=flat-square&color=blue)](https://github.com/mrnetwork0001/Inktoll/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrnetwork0001/Inktoll?style=flat-square&color=yellow)](https://github.com/mrnetwork0001/Inktoll/stargazers) [![Forks](https://img.shields.io/github/forks/mrnetwork0001/Inktoll?style=flat-square&color=blue)](https://github.com/mrnetwork0001/Inktoll/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A decentralized micro-settlement protocol enabling autonomous AI agents to pay publishers for premium content via Circle Programmable Wallets and x402 nanopayments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Inktoll 的生产可用性为中等（Medium），适合用于 prototyping 或�
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 50/100 |
-| outlook | 47/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

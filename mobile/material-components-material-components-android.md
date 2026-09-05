@@ -1,6 +1,6 @@
 # material-components/material-components-android
 
-[![Stars](https://img.shields.io/github/stars/material-components/material-components-android?style=flat-square&color=yellow)](https://github.com/material-components/material-components-android/stargazers) [![Forks](https://img.shields.io/github/forks/material-components/material-components-android?style=flat-square&color=blue)](https://github.com/material-components/material-components-android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/material-components/material-components-android?style=flat-square&color=yellow)](https://github.com/material-components/material-components-android/stargazers) [![Forks](https://img.shields.io/github/forks/material-components/material-components-android?style=flat-square&color=blue)](https://github.com/material-components/material-components-android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Modular and customizable Material Design UI components for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.3k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ material-components/material-components-android 是 Google 官方维护的 Mater
 | forks | 88/100 |
 | stars | 90/100 |
 | topics | 38/100 |
-| outlook | 52/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

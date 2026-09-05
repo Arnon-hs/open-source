@@ -1,6 +1,6 @@
 # thePM001/AEP-agent-element-protocol
 
-[![Stars](https://img.shields.io/github/stars/thePM001/AEP-agent-element-protocol?style=flat-square&color=yellow)](https://github.com/thePM001/AEP-agent-element-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/thePM001/AEP-agent-element-protocol?style=flat-square&color=blue)](https://github.com/thePM001/AEP-agent-element-protocol/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thePM001/AEP-agent-element-protocol?style=flat-square&color=yellow)](https://github.com/thePM001/AEP-agent-element-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/thePM001/AEP-agent-element-protocol?style=flat-square&color=blue)](https://github.com/thePM001/AEP-agent-element-protocol/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AEP (Agent Element Protocol) v2.8 | Deterministic zero-trust total control and governance protocol for AI agents. | Reduce hallucinations to zero through architecture in all constrained domains of application. | LLMs gave you the engines, AEP gives you the control thrusters.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ thePM001/AEP-agent-element-protocol 的价值在于它提供了一个开源的�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

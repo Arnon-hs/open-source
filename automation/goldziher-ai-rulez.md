@@ -1,6 +1,6 @@
 # Goldziher/ai-rulez
 
-[![Stars](https://img.shields.io/github/stars/Goldziher/ai-rulez?style=flat-square&color=yellow)](https://github.com/Goldziher/ai-rulez/stargazers) [![Forks](https://img.shields.io/github/forks/Goldziher/ai-rulez?style=flat-square&color=blue)](https://github.com/Goldziher/ai-rulez/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Goldziher/ai-rulez?style=flat-square&color=yellow)](https://github.com/Goldziher/ai-rulez/stargazers) [![Forks](https://img.shields.io/github/forks/Goldziher/ai-rulez?style=flat-square&color=blue)](https://github.com/Goldziher/ai-rulez/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Complete AI development workflow for 19+ tools. Builtin rules, agents, and conventions out of the box. Generate native configs for Claude, Cursor, Copilot, Windsurf, Gemini, Codex and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Goldziher/ai‑rulez 是一套面向 19+ 主流 AI 工具（Claude、Cursor、Co
 | forks | 28/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

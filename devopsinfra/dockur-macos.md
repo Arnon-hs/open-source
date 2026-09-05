@@ -1,6 +1,6 @@
 # dockur/macos
 
-[![Stars](https://img.shields.io/github/stars/dockur/macos?style=flat-square&color=yellow)](https://github.com/dockur/macos/stargazers) [![Forks](https://img.shields.io/github/forks/dockur/macos?style=flat-square&color=blue)](https://github.com/dockur/macos/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dockur/macos?style=flat-square&color=yellow)](https://github.com/dockur/macos/stargazers) [![Forks](https://img.shields.io/github/forks/dockur/macos?style=flat-square&color=blue)](https://github.com/dockur/macos/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MacOS inside a Docker container.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.9k |
 | 🍴 **Forks** | 991 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ dockur/macos 是一个将完整 macOS 系统封装在 Docker 容器中的开源�
 | forks | 75/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 74/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

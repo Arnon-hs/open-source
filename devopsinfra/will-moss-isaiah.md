@@ -1,6 +1,6 @@
 # will-moss/isaiah
 
-[![Stars](https://img.shields.io/github/stars/will-moss/isaiah?style=flat-square&color=yellow)](https://github.com/will-moss/isaiah/stargazers) [![Forks](https://img.shields.io/github/forks/will-moss/isaiah?style=flat-square&color=blue)](https://github.com/will-moss/isaiah/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/will-moss/isaiah?style=flat-square&color=yellow)](https://github.com/will-moss/isaiah/stargazers) [![Forks](https://img.shields.io/github/forks/will-moss/isaiah?style=flat-square&color=blue)](https://github.com/will-moss/isaiah/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ will-moss/isaiah 在生产环境中具有中等的可用性。它适用于快速
 | forks | 35/100 |
 | stars | 65/100 |
 | topics | 25/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # aikts/yandex-tracker-mcp
 
-[![Stars](https://img.shields.io/github/stars/aikts/yandex-tracker-mcp?style=flat-square&color=yellow)](https://github.com/aikts/yandex-tracker-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aikts/yandex-tracker-mcp?style=flat-square&color=blue)](https://github.com/aikts/yandex-tracker-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aikts/yandex-tracker-mcp?style=flat-square&color=yellow)](https://github.com/aikts/yandex-tracker-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aikts/yandex-tracker-mcp?style=flat-square&color=blue)](https://github.com/aikts/yandex-tracker-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Yandex Tracker MCP Server with OAuth2 support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Backend · Security
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ aikts/yandex-tracker-mcp 是一个开源项目，提供 Yandex Tracker MCP 服�
 | forks | 37/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

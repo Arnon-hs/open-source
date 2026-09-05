@@ -1,6 +1,6 @@
 # ember-tooling/ember-mcp
 
-[![Stars](https://img.shields.io/github/stars/ember-tooling/ember-mcp?style=flat-square&color=yellow)](https://github.com/ember-tooling/ember-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ember-tooling/ember-mcp?style=flat-square&color=blue)](https://github.com/ember-tooling/ember-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ember-tooling/ember-mcp?style=flat-square&color=yellow)](https://github.com/ember-tooling/ember-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ember-tooling/ember-mcp?style=flat-square&color=blue)](https://github.com/ember-tooling/ember-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for use with ember projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ ember‑tooling/ember‑mcp 是为 Ember 项目提供的 Model Context Proto
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # casdoor/casdoor
 
-[![Stars](https://img.shields.io/github/stars/casdoor/casdoor?style=flat-square&color=yellow)](https://github.com/casdoor/casdoor/stargazers) [![Forks](https://img.shields.io/github/forks/casdoor/casdoor?style=flat-square&color=blue)](https://github.com/casdoor/casdoor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/casdoor/casdoor?style=flat-square&color=yellow)](https://github.com/casdoor/casdoor/stargazers) [![Forks](https://img.shields.io/github/forks/casdoor/casdoor?style=flat-square&color=blue)](https://github.com/casdoor/casdoor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Security
+MCP · AI/ML · Cloud & Storage · Security
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Casdoor 是一款开源的「Agent‑first」身份与访问管理（IAM）平�
 | forks | 81/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 74/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 57/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

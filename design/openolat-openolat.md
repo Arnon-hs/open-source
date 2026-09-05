@@ -1,6 +1,6 @@
 # OpenOLAT/OpenOLAT
 
-[![Stars](https://img.shields.io/github/stars/OpenOLAT/OpenOLAT?style=flat-square&color=yellow)](https://github.com/OpenOLAT/OpenOLAT/stargazers) [![Forks](https://img.shields.io/github/forks/OpenOLAT/OpenOLAT?style=flat-square&color=blue)](https://github.com/OpenOLAT/OpenOLAT/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenOLAT/OpenOLAT?style=flat-square&color=yellow)](https://github.com/OpenOLAT/OpenOLAT/stargazers) [![Forks](https://img.shields.io/github/forks/OpenOLAT/OpenOLAT?style=flat-square&color=blue)](https://github.com/OpenOLAT/OpenOLAT/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Learning Management System OpenOlat
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ OpenOLAT/OpenOLAT 的生产可用性为中等。它适合用于 prototyping 或�
 | forks | 56/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

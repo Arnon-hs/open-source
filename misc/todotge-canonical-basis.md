@@ -1,6 +1,6 @@
 # todotge/canonical-basis
 
-[![Stars](https://img.shields.io/github/stars/todotge/canonical-basis?style=flat-square&color=yellow)](https://github.com/todotge/canonical-basis/stargazers) [![Forks](https://img.shields.io/github/forks/todotge/canonical-basis?style=flat-square&color=blue)](https://github.com/todotge/canonical-basis/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/todotge/canonical-basis?style=flat-square&color=yellow)](https://github.com/todotge/canonical-basis/stargazers) [![Forks](https://img.shields.io/github/forks/todotge/canonical-basis?style=flat-square&color=blue)](https://github.com/todotge/canonical-basis/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ This project realigns each hidden axis of a Transformer LLM into a canonical bas
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 52/100 |
-| quality | 37/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 56/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

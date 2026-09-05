@@ -1,6 +1,6 @@
 # zieng2/wl
 
-[![Stars](https://img.shields.io/github/stars/zieng2/wl?style=flat-square&color=yellow)](https://github.com/zieng2/wl/stargazers) [![Forks](https://img.shields.io/github/forks/zieng2/wl?style=flat-square&color=blue)](https://github.com/zieng2/wl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zieng2/wl?style=flat-square&color=yellow)](https://github.com/zieng2/wl/stargazers) [![Forks](https://img.shields.io/github/forks/zieng2/wl?style=flat-square&color=blue)](https://github.com/zieng2/wl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Подписка для обхода белых списков
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Zieng2 的 `wl` 是一个用于绕过白名单限制的订阅工具，帮助用�
 | forks | 44/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 44/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

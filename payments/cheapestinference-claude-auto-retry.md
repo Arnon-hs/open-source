@@ -1,6 +1,6 @@
 # cheapestinference/claude-auto-retry
 
-[![Stars](https://img.shields.io/github/stars/cheapestinference/claude-auto-retry?style=flat-square&color=yellow)](https://github.com/cheapestinference/claude-auto-retry/stargazers) [![Forks](https://img.shields.io/github/forks/cheapestinference/claude-auto-retry?style=flat-square&color=blue)](https://github.com/cheapestinference/claude-auto-retry/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cheapestinference/claude-auto-retry?style=flat-square&color=yellow)](https://github.com/cheapestinference/claude-auto-retry/stargazers) [![Forks](https://img.shields.io/github/forks/cheapestinference/claude-auto-retry?style=flat-square&color=blue)](https://github.com/cheapestinference/claude-auto-retry/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-retry Claude Code on subscription rate limits, API overload (529/5xx) and safeguard false positives — waits for the printed reset, exponential backoff, tmux-based
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ cheapestinference/claude-auto-retry 帮助快速集成计费、账单或支付�
 | forks | 44/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

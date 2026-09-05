@@ -1,6 +1,6 @@
 # MikeFishbeinAtherial/infinite-headcount
 
-[![Stars](https://img.shields.io/github/stars/MikeFishbeinAtherial/infinite-headcount?style=flat-square&color=yellow)](https://github.com/MikeFishbeinAtherial/infinite-headcount/stargazers) [![Forks](https://img.shields.io/github/forks/MikeFishbeinAtherial/infinite-headcount?style=flat-square&color=blue)](https://github.com/MikeFishbeinAtherial/infinite-headcount/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MikeFishbeinAtherial/infinite-headcount?style=flat-square&color=yellow)](https://github.com/MikeFishbeinAtherial/infinite-headcount/stargazers) [![Forks](https://img.shields.io/github/forks/MikeFishbeinAtherial/infinite-headcount?style=flat-square&color=blue)](https://github.com/MikeFishbeinAtherial/infinite-headcount/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Marketing skills, plus Mike's Software Factory, for Claude, Claude Code, Cursor, and AI agents. More coming soon.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ MikeFishbeinAtherial/infinite-headcount 的主要价值在于，它可以帮助�
 | forks | 28/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

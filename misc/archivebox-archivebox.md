@@ -1,6 +1,6 @@
 # ArchiveBox/ArchiveBox
 
-[![Stars](https://img.shields.io/github/stars/ArchiveBox/ArchiveBox?style=flat-square&color=yellow)](https://github.com/ArchiveBox/ArchiveBox/stargazers) [![Forks](https://img.shields.io/github/forks/ArchiveBox/ArchiveBox?style=flat-square&color=blue)](https://github.com/ArchiveBox/ArchiveBox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArchiveBox/ArchiveBox?style=flat-square&color=yellow)](https://github.com/ArchiveBox/ArchiveBox/stargazers) [![Forks](https://img.shields.io/github/forks/ArchiveBox/ArchiveBox?style=flat-square&color=blue)](https://github.com/ArchiveBox/ArchiveBox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.5k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ ArchiveBox 是一款开源的自托管网页归档工具，可将 URL、浏览�
 | forks | 80/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 76/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 56/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

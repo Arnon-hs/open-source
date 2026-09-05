@@ -1,6 +1,6 @@
 # NVIDIA-BioNeMo/bionemo-recipes
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA-BioNeMo/bionemo-recipes?style=flat-square&color=yellow)](https://github.com/NVIDIA-BioNeMo/bionemo-recipes/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-BioNeMo/bionemo-recipes?style=flat-square&color=blue)](https://github.com/NVIDIA-BioNeMo/bionemo-recipes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA-BioNeMo/bionemo-recipes?style=flat-square&color=yellow)](https://github.com/NVIDIA-BioNeMo/bionemo-recipes/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-BioNeMo/bionemo-recipes?style=flat-square&color=blue)](https://github.com/NVIDIA-BioNeMo/bionemo-recipes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > BioNeMo Recipes: For building and adapting AI models in drug discovery at scale
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 780 |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ NVIDIA‑BioNeMo /bionemo‑recipes 提供了一套可直接复用的药物发
 | forks | 56/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SimonCropp/Polyfill
 
-[![Stars](https://img.shields.io/github/stars/SimonCropp/Polyfill?style=flat-square&color=yellow)](https://github.com/SimonCropp/Polyfill/stargazers) [![Forks](https://img.shields.io/github/forks/SimonCropp/Polyfill?style=flat-square&color=blue)](https://github.com/SimonCropp/Polyfill/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SimonCropp/Polyfill?style=flat-square&color=yellow)](https://github.com/SimonCropp/Polyfill/stargazers) [![Forks](https://img.shields.io/github/forks/SimonCropp/Polyfill?style=flat-square&color=blue)](https://github.com/SimonCropp/Polyfill/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Source only package that exposes newer APIs, .net features, and C# features to older runtimes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ SimonCropp/Polyfill 是一个仅包含源码的 NuGet 包，它把 .NET、C# 的
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

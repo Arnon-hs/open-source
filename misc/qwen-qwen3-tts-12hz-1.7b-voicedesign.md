@@ -1,6 +1,6 @@
 # Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
 
-[![Stars](https://img.shields.io/github/stars/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign?style=flat-square&color=yellow)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/stargazers) [![Forks](https://img.shields.io/github/forks/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign?style=flat-square&color=blue)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/network) [![Language](https://img.shields.io/badge/lang-qwen-tts-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign?style=flat-square&color=yellow)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/stargazers) [![Forks](https://img.shields.io/github/forks/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign?style=flat-square&color=blue)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/network) [![Language](https://img.shields.io/badge/lang-qwen-tts-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text to speech (text-to-speech) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | qwen-tts |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign 是一个开源的文本转语音 (Text to 
 | forks | 0/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 36/100 |
-| quality | 39/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # av/awesome-llm-services
 
-[![Stars](https://img.shields.io/github/stars/av/awesome-llm-services?style=flat-square&color=yellow)](https://github.com/av/awesome-llm-services/stargazers) [![Forks](https://img.shields.io/github/forks/av/awesome-llm-services?style=flat-square&color=blue)](https://github.com/av/awesome-llm-services/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/av/awesome-llm-services?style=flat-square&color=yellow)](https://github.com/av/awesome-llm-services/stargazers) [![Forks](https://img.shields.io/github/forks/av/awesome-llm-services?style=flat-square&color=blue)](https://github.com/av/awesome-llm-services/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A list of self-hostable LLM services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ av/awesome-llm-services 是一个收录可自行部署的 LLM（大语言模型�
 | forks | 31/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

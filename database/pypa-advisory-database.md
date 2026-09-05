@@ -1,6 +1,6 @@
 # pypa/advisory-database
 
-[![Stars](https://img.shields.io/github/stars/pypa/advisory-database?style=flat-square&color=yellow)](https://github.com/pypa/advisory-database/stargazers) [![Forks](https://img.shields.io/github/forks/pypa/advisory-database?style=flat-square&color=blue)](https://github.com/pypa/advisory-database/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pypa/advisory-database?style=flat-square&color=yellow)](https://github.com/pypa/advisory-database/stargazers) [![Forks](https://img.shields.io/github/forks/pypa/advisory-database?style=flat-square&color=blue)](https://github.com/pypa/advisory-database/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Advisory database for Python packages published on pypi.org
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ pypa/advisory-database 是一个开源项目，用于构建 Python 包在 PyPI.o
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

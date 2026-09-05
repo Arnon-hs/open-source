@@ -1,6 +1,6 @@
 # mahmoud/glom
 
-[![Stars](https://img.shields.io/github/stars/mahmoud/glom?style=flat-square&color=yellow)](https://github.com/mahmoud/glom/stargazers) [![Forks](https://img.shields.io/github/forks/mahmoud/glom?style=flat-square&color=blue)](https://github.com/mahmoud/glom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahmoud/glom?style=flat-square&color=yellow)](https://github.com/mahmoud/glom/stargazers) [![Forks](https://img.shields.io/github/forks/mahmoud/glom?style=flat-square&color=blue)](https://github.com/mahmoud/glom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ mahmoud/glom 是一个 Python 的嵌套数据操作库（附带 CLI），能够�
 | forks | 47/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

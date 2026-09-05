@@ -1,6 +1,6 @@
 # cardmagic/solid-objects-ruby
 
-[![Stars](https://img.shields.io/github/stars/cardmagic/solid-objects-ruby?style=flat-square&color=yellow)](https://github.com/cardmagic/solid-objects-ruby/stargazers) [![Forks](https://img.shields.io/github/forks/cardmagic/solid-objects-ruby?style=flat-square&color=blue)](https://github.com/cardmagic/solid-objects-ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cardmagic/solid-objects-ruby?style=flat-square&color=yellow)](https://github.com/cardmagic/solid-objects-ruby/stargazers) [![Forks](https://img.shields.io/github/forks/cardmagic/solid-objects-ruby?style=flat-square&color=blue)](https://github.com/cardmagic/solid-objects-ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Durable Objects for Rails, backed by your existing SQL database
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ cardmagic/solid-objects-ruby：cardmagic/solid-objects-ruby helps teams persist,
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 65/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 64/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

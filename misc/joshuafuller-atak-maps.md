@@ -1,6 +1,6 @@
 # joshuafuller/ATAK-Maps
 
-[![Stars](https://img.shields.io/github/stars/joshuafuller/ATAK-Maps?style=flat-square&color=yellow)](https://github.com/joshuafuller/ATAK-Maps/stargazers) [![Forks](https://img.shields.io/github/forks/joshuafuller/ATAK-Maps?style=flat-square&color=blue)](https://github.com/joshuafuller/ATAK-Maps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshuafuller/ATAK-Maps?style=flat-square&color=yellow)](https://github.com/joshuafuller/ATAK-Maps/stargazers) [![Forks](https://img.shields.io/github/forks/joshuafuller/ATAK-Maps?style=flat-square&color=blue)](https://github.com/joshuafuller/ATAK-Maps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of maps for use in ATAK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Misc
 | forks | 55/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

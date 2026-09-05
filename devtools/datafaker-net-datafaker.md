@@ -1,6 +1,6 @@
 # datafaker-net/datafaker
 
-[![Stars](https://img.shields.io/github/stars/datafaker-net/datafaker?style=flat-square&color=yellow)](https://github.com/datafaker-net/datafaker/stargazers) [![Forks](https://img.shields.io/github/forks/datafaker-net/datafaker?style=flat-square&color=blue)](https://github.com/datafaker-net/datafaker/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datafaker-net/datafaker?style=flat-square&color=yellow)](https://github.com/datafaker-net/datafaker/stargazers) [![Forks](https://img.shields.io/github/forks/datafaker-net/datafaker?style=flat-square&color=blue)](https://github.com/datafaker-net/datafaker/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data
+DevTools
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ datafaker-net/datafaker 的生产可用性为中等。它适合用于原型或�
 | forks | 60/100 |
 | stars | 69/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

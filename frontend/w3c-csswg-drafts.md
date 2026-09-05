@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 789 |
 | 💻 **Language** | Bikeshed |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ w3c/csswg-drafts：w3c/csswg-drafts helps ship user-facing interfaces with less 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

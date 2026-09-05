@@ -1,6 +1,6 @@
 # hugovk/pypistats
 
-[![Stars](https://img.shields.io/github/stars/hugovk/pypistats?style=flat-square&color=yellow)](https://github.com/hugovk/pypistats/stargazers) [![Forks](https://img.shields.io/github/forks/hugovk/pypistats?style=flat-square&color=blue)](https://github.com/hugovk/pypistats/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hugovk/pypistats?style=flat-square&color=yellow)](https://github.com/hugovk/pypistats/stargazers) [![Forks](https://img.shields.io/github/forks/hugovk/pypistats?style=flat-square&color=blue)](https://github.com/hugovk/pypistats/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line interface to PyPI Stats API to get download stats for Python packages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ hugovk/pypistats 是一个基于 PyPI Stats API 的命令行工具，能够快�
 | forks | 38/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

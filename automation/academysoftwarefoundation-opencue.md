@@ -1,6 +1,6 @@
 # AcademySoftwareFoundation/OpenCue
 
-[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenCue?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/OpenCue/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/OpenCue?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/OpenCue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenCue?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/OpenCue/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/OpenCue?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/OpenCue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A render management system you can deploy for visual effects and animation productions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 927 |
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ AcademySoftwareFoundation/OpenCue 是一套开源的渲染管理系统，专为�
 | forks | 60/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

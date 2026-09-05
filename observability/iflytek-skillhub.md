@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 381 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ iflytek/skillhub：iflytek/skillhub helps make production behavior easier to ins
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

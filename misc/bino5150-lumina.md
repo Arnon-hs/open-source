@@ -1,6 +1,6 @@
 # Bino5150/lumina
 
-[![Stars](https://img.shields.io/github/stars/Bino5150/lumina?style=flat-square&color=yellow)](https://github.com/Bino5150/lumina/stargazers) [![Forks](https://img.shields.io/github/forks/Bino5150/lumina?style=flat-square&color=blue)](https://github.com/Bino5150/lumina/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bino5150/lumina?style=flat-square&color=yellow)](https://github.com/Bino5150/lumina/stargazers) [![Forks](https://img.shields.io/github/forks/Bino5150/lumina?style=flat-square&color=blue)](https://github.com/Bino5150/lumina/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A full featured, powerful, and efficient AI Agentic harness designed from the ground up with local inference on consumer hardware in mind. It evolves, grows, and gets smarter as you go. And it REMEMBERS...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Bino5150/lumina的生产可用性为中等（Medium）。它适用于内部流�
 | forks | 15/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 39/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

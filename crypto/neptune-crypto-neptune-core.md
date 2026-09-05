@@ -1,6 +1,6 @@
 # Neptune-Crypto/neptune-core
 
-[![Stars](https://img.shields.io/github/stars/Neptune-Crypto/neptune-core?style=flat-square&color=yellow)](https://github.com/Neptune-Crypto/neptune-core/stargazers) [![Forks](https://img.shields.io/github/forks/Neptune-Crypto/neptune-core?style=flat-square&color=blue)](https://github.com/Neptune-Crypto/neptune-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Neptune-Crypto/neptune-core?style=flat-square&color=yellow)](https://github.com/Neptune-Crypto/neptune-core/stargazers) [![Forks](https://img.shields.io/github/forks/Neptune-Crypto/neptune-core?style=flat-square&color=blue)](https://github.com/Neptune-Crypto/neptune-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > anonymous peer-to-peer cash
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Neptune‑Crypto / neptune‑core 是一个用 Rust 实现的匿名点对点
 | forks | 41/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 36/100 |
-| quality | 39/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

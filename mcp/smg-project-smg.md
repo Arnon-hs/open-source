@@ -1,6 +1,6 @@
 # smg-project/smg
 
-[![Stars](https://img.shields.io/github/stars/smg-project/smg?style=flat-square&color=yellow)](https://github.com/smg-project/smg/stargazers) [![Forks](https://img.shields.io/github/forks/smg-project/smg?style=flat-square&color=blue)](https://github.com/smg-project/smg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smg-project/smg?style=flat-square&color=yellow)](https://github.com/smg-project/smg/stargazers) [![Forks](https://img.shields.io/github/forks/smg-project/smg?style=flat-square&color=blue)](https://github.com/smg-project/smg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Security
+MCP · Knowledge/RAG · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -68,11 +68,11 @@ smg-project/smg 是一种基于 Rust 的引擎无关的 LLM 网关，提供完�
 | forks | 53/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

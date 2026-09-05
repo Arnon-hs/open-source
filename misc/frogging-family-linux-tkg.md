@@ -1,6 +1,6 @@
 # Frogging-Family/linux-tkg
 
-[![Stars](https://img.shields.io/github/stars/Frogging-Family/linux-tkg?style=flat-square&color=yellow)](https://github.com/Frogging-Family/linux-tkg/stargazers) [![Forks](https://img.shields.io/github/forks/Frogging-Family/linux-tkg?style=flat-square&color=blue)](https://github.com/Frogging-Family/linux-tkg/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Frogging-Family/linux-tkg?style=flat-square&color=yellow)](https://github.com/Frogging-Family/linux-tkg/stargazers) [![Forks](https://img.shields.io/github/forks/Frogging-Family/linux-tkg?style=flat-square&color=blue)](https://github.com/Frogging-Family/linux-tkg/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > linux-tkg custom kernels
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Frogging‑Family/linux‑tkg 是一个提供自定义 Linux 内核的仓库，�
 | forks | 58/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # arpanghosh8453/open-dronelog
 
-[![Stars](https://img.shields.io/github/stars/arpanghosh8453/open-dronelog?style=flat-square&color=yellow)](https://github.com/arpanghosh8453/open-dronelog/stargazers) [![Forks](https://img.shields.io/github/forks/arpanghosh8453/open-dronelog?style=flat-square&color=blue)](https://github.com/arpanghosh8453/open-dronelog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arpanghosh8453/open-dronelog?style=flat-square&color=yellow)](https://github.com/arpanghosh8453/open-dronelog/stargazers) [![Forks](https://img.shields.io/github/forks/arpanghosh8453/open-dronelog?style=flat-square&color=blue)](https://github.com/arpanghosh8453/open-dronelog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built with Tauri v2, DuckDB, and React.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Open‑Dronelog scores high on production readiness: it has recent commits (last
 | forks | 57/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

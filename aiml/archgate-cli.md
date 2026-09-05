@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ archgate/cli is an open‑source command‑line tool that transforms Architectur
 
 ### 中文
 
-archgate/cli：archgate/cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+archgate/cli：archgate/cli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** archgate/cli helps add AI capability without starting from a blank model stack.
+**Value:** archgate/cli helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ archgate/cli：archgate/cli helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 26/100 |
-| stars | 33/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 88/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 26/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

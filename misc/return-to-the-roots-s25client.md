@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ Return-To-The-Roots/s25client：Return-To-The-Roots/s25client may be useful when
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

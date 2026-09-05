@@ -1,6 +1,6 @@
 # beautifier/js-beautify
 
-[![Stars](https://img.shields.io/github/stars/beautifier/js-beautify?style=flat-square&color=yellow)](https://github.com/beautifier/js-beautify/stargazers) [![Forks](https://img.shields.io/github/forks/beautifier/js-beautify?style=flat-square&color=blue)](https://github.com/beautifier/js-beautify/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beautifier/js-beautify?style=flat-square&color=yellow)](https://github.com/beautifier/js-beautify/stargazers) [![Forks](https://img.shields.io/github/forks/beautifier/js-beautify?style=flat-square&color=blue)](https://github.com/beautifier/js-beautify/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Beautifier for javascript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -116,15 +116,15 @@ beautifier/js-beautify 具有较高的生产可用性。它具有以下特点：
 | forks | 79/100 |
 | stars | 84/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hanxi/xiaomusic
 
-[![Stars](https://img.shields.io/github/stars/hanxi/xiaomusic?style=flat-square&color=yellow)](https://github.com/hanxi/xiaomusic/stargazers) [![Forks](https://img.shields.io/github/forks/hanxi/xiaomusic?style=flat-square&color=blue)](https://github.com/hanxi/xiaomusic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hanxi/xiaomusic?style=flat-square&color=yellow)](https://github.com/hanxi/xiaomusic/stargazers) [![Forks](https://img.shields.io/github/forks/hanxi/xiaomusic?style=flat-square&color=blue)](https://github.com/hanxi/xiaomusic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ hanxi/xiaomusic 是一个基于小爱音箱的音乐播放工具，能够通过 
 | forks | 76/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 72/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 59/100 |
+| production | 79/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

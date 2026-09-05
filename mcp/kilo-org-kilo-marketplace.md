@@ -1,6 +1,6 @@
 # Kilo-Org/kilo-marketplace
 
-[![Stars](https://img.shields.io/github/stars/Kilo-Org/kilo-marketplace?style=flat-square&color=yellow)](https://github.com/Kilo-Org/kilo-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/Kilo-Org/kilo-marketplace?style=flat-square&color=blue)](https://github.com/Kilo-Org/kilo-marketplace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kilo-Org/kilo-marketplace?style=flat-square&color=yellow)](https://github.com/Kilo-Org/kilo-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/Kilo-Org/kilo-marketplace?style=flat-square&color=blue)](https://github.com/Kilo-Org/kilo-marketplace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Kilo Marketplace - A curated collection of Skills, MCP Servers, and Modes for enhancing AI agent capabilities across the Kilo ecosystem—including Kilo Code (VS Code extension), Kilo CLI, and compatible AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Kilo Marketplace（Kilo-Org/kilo-marketplace）是一个面向 Kilo 生态的精
 | forks | 46/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

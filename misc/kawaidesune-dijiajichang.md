@@ -1,6 +1,6 @@
 # KaWaIDeSuNe/dijiajichang
 
-[![Stars](https://img.shields.io/github/stars/KaWaIDeSuNe/dijiajichang?style=flat-square&color=yellow)](https://github.com/KaWaIDeSuNe/dijiajichang/stargazers) [![Forks](https://img.shields.io/github/forks/KaWaIDeSuNe/dijiajichang?style=flat-square&color=blue)](https://github.com/KaWaIDeSuNe/dijiajichang/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KaWaIDeSuNe/dijiajichang?style=flat-square&color=yellow)](https://github.com/KaWaIDeSuNe/dijiajichang/stargazers) [![Forks](https://img.shields.io/github/forks/KaWaIDeSuNe/dijiajichang?style=flat-square&color=blue)](https://github.com/KaWaIDeSuNe/dijiajichang/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 2026低价机场推荐，不定期还有免费试用机场、白嫖机场、免费订阅 🚀推荐月10元以下的优质低价机场，解锁YouTube、Netflix、TikTok、ChatGPT、bilibili港澳台。科学上网、梯子、VPN测评，适用Clash、V2ray、小火箭、sing-box等客户端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ KaWaIDeSuNe/dijiajichang 是一个专注于 2026 年低价机场（VPN/代理）
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

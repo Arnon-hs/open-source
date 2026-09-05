@@ -1,6 +1,6 @@
 # dimastatz/whisper-flow
 
-[![Stars](https://img.shields.io/github/stars/dimastatz/whisper-flow?style=flat-square&color=yellow)](https://github.com/dimastatz/whisper-flow/stargazers) [![Forks](https://img.shields.io/github/forks/dimastatz/whisper-flow?style=flat-square&color=blue)](https://github.com/dimastatz/whisper-flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dimastatz/whisper-flow?style=flat-square&color=yellow)](https://github.com/dimastatz/whisper-flow/stargazers) [![Forks](https://img.shields.io/github/forks/dimastatz/whisper-flow?style=flat-square&color=blue)](https://github.com/dimastatz/whisper-flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Whisper-Flow is a framework designed to enable real-time transcription of audio content using OpenAI’s Whisper model. Rather than processing entire files after upload (“batch mode”), Whisper-Flow accepts a continuous stream of audio chunks and produces incremental transcripts immediately.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 787 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ Whisper‑Flow 是一个基于 OpenAI Whisper 模型的实时转写框架，能�
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

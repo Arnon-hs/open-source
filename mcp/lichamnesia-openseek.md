@@ -1,6 +1,6 @@
 # LichAmnesia/openseek
 
-[![Stars](https://img.shields.io/github/stars/LichAmnesia/openseek?style=flat-square&color=yellow)](https://github.com/LichAmnesia/openseek/stargazers) [![Forks](https://img.shields.io/github/forks/LichAmnesia/openseek?style=flat-square&color=blue)](https://github.com/LichAmnesia/openseek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LichAmnesia/openseek?style=flat-square&color=yellow)](https://github.com/LichAmnesia/openseek/stargazers) [![Forks](https://img.shields.io/github/forks/LichAmnesia/openseek?style=flat-square&color=blue)](https://github.com/LichAmnesia/openseek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSeek - 广度求索: open-source TUI coding agent with multi-provider routing, MCP, LSP, and Plan/Agent/YOLO modes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ OpenSeek 是一个基于 TypeScript 的开源 TUI 编码代理，能够通过统
 | forks | 21/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

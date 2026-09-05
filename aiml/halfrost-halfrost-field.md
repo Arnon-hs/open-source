@@ -1,6 +1,6 @@
 # halfrost/Halfrost-Field
 
-[![Stars](https://img.shields.io/github/stars/halfrost/Halfrost-Field?style=flat-square&color=yellow)](https://github.com/halfrost/Halfrost-Field/stargazers) [![Forks](https://img.shields.io/github/forks/halfrost/Halfrost-Field?style=flat-square&color=blue)](https://github.com/halfrost/Halfrost-Field/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/halfrost/Halfrost-Field?style=flat-square&color=yellow)](https://github.com/halfrost/Halfrost-Field/stargazers) [![Forks](https://img.shields.io/github/forks/halfrost/Halfrost-Field?style=flat-square&color=blue)](https://github.com/halfrost/Halfrost-Field/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.2k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Mobile · Design
+AI/ML · Mobile · Security · Design
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ halfrost/Halfrost-Field 的生产可用性较高，主要原因是：
 | forks | 82/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

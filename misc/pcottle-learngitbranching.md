@@ -1,6 +1,6 @@
 # pcottle/learnGitBranching
 
-[![Stars](https://img.shields.io/github/stars/pcottle/learnGitBranching?style=flat-square&color=yellow)](https://github.com/pcottle/learnGitBranching/stargazers) [![Forks](https://img.shields.io/github/forks/pcottle/learnGitBranching?style=flat-square&color=blue)](https://github.com/pcottle/learnGitBranching/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pcottle/learnGitBranching?style=flat-square&color=yellow)](https://github.com/pcottle/learnGitBranching/stargazers) [![Forks](https://img.shields.io/github/forks/pcottle/learnGitBranching?style=flat-square&color=blue)](https://github.com/pcottle/learnGitBranching/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33.8k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ pcottle/learnGitBranching 的生产可用性非常高，主要原因是：
 | forks | 94/100 |
 | stars | 96/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 96/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

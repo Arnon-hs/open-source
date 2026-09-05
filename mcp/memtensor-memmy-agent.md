@@ -1,6 +1,6 @@
 # MemTensor/memmy-agent
 
-[![Stars](https://img.shields.io/github/stars/MemTensor/memmy-agent?style=flat-square&color=yellow)](https://github.com/MemTensor/memmy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/MemTensor/memmy-agent?style=flat-square&color=blue)](https://github.com/MemTensor/memmy-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MemTensor/memmy-agent?style=flat-square&color=yellow)](https://github.com/MemTensor/memmy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/MemTensor/memmy-agent?style=flat-square&color=blue)](https://github.com/MemTensor/memmy-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > 🍙 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context — all AI remember the same you.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Productivity · Backend · DevTools
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ MemTensor/memmy-agent 的生产可用性较高，主要原因是：
 | forks | 37/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

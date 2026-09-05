@@ -1,6 +1,6 @@
 # nickustinov/itsyconnect-macos
 
-[![Stars](https://img.shields.io/github/stars/nickustinov/itsyconnect-macos?style=flat-square&color=yellow)](https://github.com/nickustinov/itsyconnect-macos/stargazers) [![Forks](https://img.shields.io/github/forks/nickustinov/itsyconnect-macos?style=flat-square&color=blue)](https://github.com/nickustinov/itsyconnect-macos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nickustinov/itsyconnect-macos?style=flat-square&color=yellow)](https://github.com/nickustinov/itsyconnect-macos/stargazers) [![Forks](https://img.shields.io/github/forks/nickustinov/itsyconnect-macos?style=flat-square&color=blue)](https://github.com/nickustinov/itsyconnect-macos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Better App Store Connect
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ itsyconnect-macos 的生产可用性比较高，具有以下特点：
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # creact-labs/creact
 
-[![Stars](https://img.shields.io/github/stars/creact-labs/creact?style=flat-square&color=yellow)](https://github.com/creact-labs/creact/stargazers) [![Forks](https://img.shields.io/github/forks/creact-labs/creact?style=flat-square&color=blue)](https://github.com/creact-labs/creact/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/creact-labs/creact?style=flat-square&color=yellow)](https://github.com/creact-labs/creact/stargazers) [![Forks](https://img.shields.io/github/forks/creact-labs/creact?style=flat-square&color=blue)](https://github.com/creact-labs/creact/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > CReact is how you write your workflows using JSX, build durable apps that you can sync with external state, build jobs, agents,  infrastructure, anything you can declare you can build!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,11 +123,11 @@ CReact 适合作为 **内部原型/业务流程自动化** 的底层框架，尤
 | forks | 12/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

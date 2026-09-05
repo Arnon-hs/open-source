@@ -1,6 +1,6 @@
 # useknockout/api
 
-[![Stars](https://img.shields.io/github/stars/useknockout/api?style=flat-square&color=yellow)](https://github.com/useknockout/api/stargazers) [![Forks](https://img.shields.io/github/forks/useknockout/api?style=flat-square&color=blue)](https://github.com/useknockout/api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/useknockout/api?style=flat-square&color=yellow)](https://github.com/useknockout/api/stargazers) [![Forks](https://img.shields.io/github/forks/useknockout/api?style=flat-square&color=blue)](https://github.com/useknockout/api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > State-of-the-art background removal API for images and video. BiRefNet on Modal GPUs, ~200ms per image. 26 endpoints: cutouts, masks, PSD export, upscale, face restore, inpaint, collage, studio shots, video with ProRes 4444 alpha. MIT, self-hostable, 10x cheaper than remove.bg.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Education
+AI/ML · Backend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ useknockout/api 的价值在于它帮助开发者在不从头开始搭建模型�
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

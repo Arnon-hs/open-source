@@ -1,6 +1,6 @@
 # juspay/hyperswitch
 
-[![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=flat-square&color=yellow)](https://github.com/juspay/hyperswitch/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/hyperswitch?style=flat-square&color=blue)](https://github.com/juspay/hyperswitch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=flat-square&color=yellow)](https://github.com/juspay/hyperswitch/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/hyperswitch?style=flat-square&color=blue)](https://github.com/juspay/hyperswitch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Payments · Frontend · Backend · Observability
+Orchestration · Payments · Frontend · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,11 +107,11 @@ juspay/hyperswitch 是一套开源、可组合的支付平台，既提供 PCI �
 | forks | 92/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 84/100 |
-| recency | 40/100 |
+| outlook | 90/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 97/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

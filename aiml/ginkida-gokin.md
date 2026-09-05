@@ -1,6 +1,6 @@
 # ginkida/gokin
 
-[![Stars](https://img.shields.io/github/stars/ginkida/gokin?style=flat-square&color=yellow)](https://github.com/ginkida/gokin/stargazers) [![Forks](https://img.shields.io/github/forks/ginkida/gokin?style=flat-square&color=blue)](https://github.com/ginkida/gokin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ginkida/gokin?style=flat-square&color=yellow)](https://github.com/ginkida/gokin/stargazers) [![Forks](https://img.shields.io/github/forks/ginkida/gokin?style=flat-square&color=blue)](https://github.com/ginkida/gokin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful CLI tool that brings AI assistance directly to your terminal. Gokin understands your codebase and helps with file operations, code search, shell commands, git workflows, task management, and more - all through natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Gokin 的生产可用性非常高。它有活跃的社区，近期有更新，�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

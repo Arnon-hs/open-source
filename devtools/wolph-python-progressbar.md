@@ -1,6 +1,6 @@
 # wolph/python-progressbar
 
-[![Stars](https://img.shields.io/github/stars/wolph/python-progressbar?style=flat-square&color=yellow)](https://github.com/wolph/python-progressbar/stargazers) [![Forks](https://img.shields.io/github/forks/wolph/python-progressbar?style=flat-square&color=blue)](https://github.com/wolph/python-progressbar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wolph/python-progressbar?style=flat-square&color=yellow)](https://github.com/wolph/python-progressbar/stargazers) [![Forks](https://img.shields.io/github/forks/wolph/python-progressbar?style=flat-square&color=blue)](https://github.com/wolph/python-progressbar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 877 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ for i in pbar(range(100)):
 | forks | 51/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

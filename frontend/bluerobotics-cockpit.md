@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ bluerobotics/cockpit：bluerobotics/cockpit helps ship user-facing interfaces wi
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

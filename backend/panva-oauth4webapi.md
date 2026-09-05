@@ -1,6 +1,6 @@
 # panva/oauth4webapi
 
-[![Stars](https://img.shields.io/github/stars/panva/oauth4webapi?style=flat-square&color=yellow)](https://github.com/panva/oauth4webapi/stargazers) [![Forks](https://img.shields.io/github/forks/panva/oauth4webapi?style=flat-square&color=blue)](https://github.com/panva/oauth4webapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/panva/oauth4webapi?style=flat-square&color=yellow)](https://github.com/panva/oauth4webapi/stargazers) [![Forks](https://img.shields.io/github/forks/panva/oauth4webapi?style=flat-square&color=blue)](https://github.com/panva/oauth4webapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Low-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 766 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend · Security
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ panva/oauth4webapi 在生产环境中非常可靠，最近的活动、采用和�
 | forks | 46/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 81/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

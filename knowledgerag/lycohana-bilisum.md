@@ -1,6 +1,6 @@
 # lycohana/BiliSum
 
-[![Stars](https://img.shields.io/github/stars/lycohana/BiliSum?style=flat-square&color=yellow)](https://github.com/lycohana/BiliSum/stargazers) [![Forks](https://img.shields.io/github/forks/lycohana/BiliSum?style=flat-square&color=blue)](https://github.com/lycohana/BiliSum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lycohana/BiliSum?style=flat-square&color=yellow)](https://github.com/lycohana/BiliSum/stargazers) [![Forks](https://img.shields.io/github/forks/lycohana/BiliSum?style=flat-square&color=blue)](https://github.com/lycohana/BiliSum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 为 Bilibili、YouTube 及本地视频提供 AI 视频摘要和知识库.AI video summarizer and knowledge base for Bilibili, YouTube and local videos.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ BiliSum 能自动为 Bilibili、YouTube 以及本地视频生成 AI 摘要，并
 | forks | 38/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

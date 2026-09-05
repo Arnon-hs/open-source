@@ -1,6 +1,6 @@
 # gnustep/libs-gui
 
-[![Stars](https://img.shields.io/github/stars/gnustep/libs-gui?style=flat-square&color=yellow)](https://github.com/gnustep/libs-gui/stargazers) [![Forks](https://img.shields.io/github/forks/gnustep/libs-gui?style=flat-square&color=blue)](https://github.com/gnustep/libs-gui/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gnustep/libs-gui?style=flat-square&color=yellow)](https://github.com/gnustep/libs-gui/stargazers) [![Forks](https://img.shields.io/github/forks/gnustep/libs-gui?style=flat-square&color=blue)](https://github.com/gnustep/libs-gui/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The GNUstep gui library is a library of graphical user interface classes written completely in the Objective-C language; the classes are based upon Apple's Cocoa framework (which came from the OpenStep specification). *** Larger patches require copyright assignment to FSF.  please file bugs here. ***
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ GNUstep/libs-gui 的生产可用性为中等（Medium），适合用于原型或
 | forks | 52/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

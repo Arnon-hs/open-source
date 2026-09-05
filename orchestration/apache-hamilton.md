@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ apache/hamilton：apache/hamilton helps turn isolated prompts and tools into rep
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

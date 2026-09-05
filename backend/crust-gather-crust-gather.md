@@ -1,6 +1,6 @@
 # crust-gather/crust-gather
 
-[![Stars](https://img.shields.io/github/stars/crust-gather/crust-gather?style=flat-square&color=yellow)](https://github.com/crust-gather/crust-gather/stargazers) [![Forks](https://img.shields.io/github/forks/crust-gather/crust-gather?style=flat-square&color=blue)](https://github.com/crust-gather/crust-gather/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crust-gather/crust-gather?style=flat-square&color=yellow)](https://github.com/crust-gather/crust-gather/stargazers) [![Forks](https://img.shields.io/github/forks/crust-gather/crust-gather?style=flat-square&color=blue)](https://github.com/crust-gather/crust-gather/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > kubectl debugging plugin to collect full or partial cluster state and serve via an api server. Kubernetes time machine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ crust-gather/crust-gather 在生产环境中具有高可用性，主要原因是
 | forks | 27/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # MPSU/APS
 
-[![Stars](https://img.shields.io/github/stars/MPSU/APS?style=flat-square&color=yellow)](https://github.com/MPSU/APS/stargazers) [![Forks](https://img.shields.io/github/forks/MPSU/APS?style=flat-square&color=blue)](https://github.com/MPSU/APS/network) [![Language](https://img.shields.io/badge/lang-SystemVerilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MPSU/APS?style=flat-square&color=yellow)](https://github.com/MPSU/APS/stargazers) [![Forks](https://img.shields.io/github/forks/MPSU/APS?style=flat-square&color=blue)](https://github.com/MPSU/APS/network) [![Language](https://img.shields.io/badge/lang-SystemVerilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Laboratory course on RISC-V Processor Development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | SystemVerilog |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ MPSU/APS 的生产可用性为中等。它适合用于原型开发或内部工�
 | forks | 48/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # rust-fuzz/afl.rs
 
-[![Stars](https://img.shields.io/github/stars/rust-fuzz/afl.rs?style=flat-square&color=yellow)](https://github.com/rust-fuzz/afl.rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-fuzz/afl.rs?style=flat-square&color=blue)](https://github.com/rust-fuzz/afl.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-fuzz/afl.rs?style=flat-square&color=yellow)](https://github.com/rust-fuzz/afl.rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-fuzz/afl.rs?style=flat-square&color=blue)](https://github.com/rust-fuzz/afl.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🐇 Fuzzing Rust code with American Fuzzy Lop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ rust‑fuzz/afl.rs is an open‑source library that lets you fuzz Rust programs 
 | forks | 52/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

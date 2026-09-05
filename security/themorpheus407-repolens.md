@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ TheMorpheus407/RepoLens：TheMorpheus407/RepoLens helps catch security and priva
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Design
+AI/ML · Productivity · DevTools · Design
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ neohaskell/NeoHaskell：neohaskell/NeoHaskell helps add AI capability without st
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

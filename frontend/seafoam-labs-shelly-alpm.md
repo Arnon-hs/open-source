@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ Seafoam-Labs/Shelly-ALPM：Seafoam-Labs/Shelly-ALPM helps ship user-facing inter
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

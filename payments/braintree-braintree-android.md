@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 259 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Mobile
+Payments · Libraries & SDKs · Mobile
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ braintree/braintree_android：braintree/braintree_android helps integrate moneti
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

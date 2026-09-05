@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ getsentry/sentry-rust：getsentry/sentry-rust helps teams reuse service infrastr
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hathach/tinyusb
 
-[![Stars](https://img.shields.io/github/stars/hathach/tinyusb?style=flat-square&color=yellow)](https://github.com/hathach/tinyusb/stargazers) [![Forks](https://img.shields.io/github/forks/hathach/tinyusb?style=flat-square&color=blue)](https://github.com/hathach/tinyusb/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hathach/tinyusb?style=flat-square&color=yellow)](https://github.com/hathach/tinyusb/stargazers) [![Forks](https://img.shields.io/github/forks/hathach/tinyusb?style=flat-square&color=blue)](https://github.com/hathach/tinyusb/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An open source  cross-platform USB stack for embedded system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ hathach/tinyusb 的生产可用性非常高。它的 GitHub star 数量超过 7,
 | forks | 79/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 82/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

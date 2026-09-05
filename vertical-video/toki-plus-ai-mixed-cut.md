@@ -1,6 +1,6 @@
 # toki-plus/ai-mixed-cut
 
-[![Stars](https://img.shields.io/github/stars/toki-plus/ai-mixed-cut?style=flat-square&color=yellow)](https://github.com/toki-plus/ai-mixed-cut/stargazers) [![Forks](https://img.shields.io/github/forks/toki-plus/ai-mixed-cut?style=flat-square&color=blue)](https://github.com/toki-plus/ai-mixed-cut/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toki-plus/ai-mixed-cut?style=flat-square&color=yellow)](https://github.com/toki-plus/ai-mixed-cut/stargazers) [![Forks](https://img.shields.io/github/forks/toki-plus/ai-mixed-cut?style=flat-square&color=blue)](https://github.com/toki-plus/ai-mixed-cut/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 颠覆性AI内容再创作引擎，通过“解构-重构”爆款视频模式，全自动生成高度原创短视频。AIGC, Content Creation, Video Generation, Automation, LLM, Python, FFmpeg.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ toki-plus/ai-mixed-cut：toki-plus/ai-mixed-cut helps automate short-form video 
 | forks | 26/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 80/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

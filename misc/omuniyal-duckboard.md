@@ -1,6 +1,6 @@
 # OmUniyal/duckboard
 
-[![Stars](https://img.shields.io/github/stars/OmUniyal/duckboard?style=flat-square&color=yellow)](https://github.com/OmUniyal/duckboard/stargazers) [![Forks](https://img.shields.io/github/forks/OmUniyal/duckboard?style=flat-square&color=blue)](https://github.com/OmUniyal/duckboard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OmUniyal/duckboard?style=flat-square&color=yellow)](https://github.com/OmUniyal/duckboard/stargazers) [![Forks](https://img.shields.io/github/forks/OmUniyal/duckboard?style=flat-square&color=blue)](https://github.com/OmUniyal/duckboard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > File-first local SQL workspace powered by DuckDB
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -63,14 +63,15 @@ OmUniyal/duckboard：OmUniyal/duckboard may be useful when its README and activi
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jjiantong/Awesome-KV-Cache-Optimization
 
-[![Stars](https://img.shields.io/github/stars/jjiantong/Awesome-KV-Cache-Optimization?style=flat-square&color=yellow)](https://github.com/jjiantong/Awesome-KV-Cache-Optimization/stargazers) [![Forks](https://img.shields.io/github/forks/jjiantong/Awesome-KV-Cache-Optimization?style=flat-square&color=blue)](https://github.com/jjiantong/Awesome-KV-Cache-Optimization/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jjiantong/Awesome-KV-Cache-Optimization?style=flat-square&color=yellow)](https://github.com/jjiantong/Awesome-KV-Cache-Optimization/stargazers) [![Forks](https://img.shields.io/github/forks/jjiantong/Awesome-KV-Cache-Optimization?style=flat-square&color=blue)](https://github.com/jjiantong/Awesome-KV-Cache-Optimization/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > [ACL 2026] Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ jjiantong/Awesome-KV-Cache-Optimization 是一份面向系统层面的 KV‑Cach
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

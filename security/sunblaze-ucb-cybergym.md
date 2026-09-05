@@ -1,6 +1,6 @@
 # sunblaze-ucb/cybergym
 
-[![Stars](https://img.shields.io/github/stars/sunblaze-ucb/cybergym?style=flat-square&color=yellow)](https://github.com/sunblaze-ucb/cybergym/stargazers) [![Forks](https://img.shields.io/github/forks/sunblaze-ucb/cybergym?style=flat-square&color=blue)](https://github.com/sunblaze-ucb/cybergym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunblaze-ucb/cybergym?style=flat-square&color=yellow)](https://github.com/sunblaze-ucb/cybergym/stargazers) [![Forks](https://img.shields.io/github/forks/sunblaze-ucb/cybergym?style=flat-square&color=blue)](https://github.com/sunblaze-ucb/cybergym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously assess the capabilities of AI agents on real-world vulnerability analysis tasks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 480 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ sunblaze-ucb/cybergym 的主要价值在于：
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

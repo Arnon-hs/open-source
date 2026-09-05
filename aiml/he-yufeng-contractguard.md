@@ -1,6 +1,6 @@
 # he-yufeng/ContractGuard
 
-[![Stars](https://img.shields.io/github/stars/he-yufeng/ContractGuard?style=flat-square&color=yellow)](https://github.com/he-yufeng/ContractGuard/stargazers) [![Forks](https://img.shields.io/github/forks/he-yufeng/ContractGuard?style=flat-square&color=blue)](https://github.com/he-yufeng/ContractGuard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/he-yufeng/ContractGuard?style=flat-square&color=yellow)](https://github.com/he-yufeng/ContractGuard/stargazers) [![Forks](https://img.shields.io/github/forks/he-yufeng/ContractGuard?style=flat-square&color=blue)](https://github.com/he-yufeng/ContractGuard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent that reads the fine print so you don't have to. Upload any contract → get red flags, unfair terms, and plain-English explanations in seconds.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ ContractGuard（he-yufeng/ContractGuard）是一款基于 AI 的合同审阅助�
 | forks | 33/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

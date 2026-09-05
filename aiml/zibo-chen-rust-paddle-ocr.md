@@ -1,6 +1,6 @@
 # zibo-chen/rust-paddle-ocr
 
-[![Stars](https://img.shields.io/github/stars/zibo-chen/rust-paddle-ocr?style=flat-square&color=yellow)](https://github.com/zibo-chen/rust-paddle-ocr/stargazers) [![Forks](https://img.shields.io/github/forks/zibo-chen/rust-paddle-ocr?style=flat-square&color=blue)](https://github.com/zibo-chen/rust-paddle-ocr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zibo-chen/rust-paddle-ocr?style=flat-square&color=yellow)](https://github.com/zibo-chen/rust-paddle-ocr/stargazers) [![Forks](https://img.shields.io/github/forks/zibo-chen/rust-paddle-ocr?style=flat-square&color=blue)](https://github.com/zibo-chen/rust-paddle-ocr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 高性能OCR识别库，支持上百种语言，提供命令行、图形界面及C API多种调用方式，使用便捷高效。  High-performance OCR library powered by PaddleOCR v4/v5/v6 with MNN backend. Supports 10+ languages (Chinese, English, Japanese, Korean, Arabic, Cyrillic, Thai, etc). Provides Rust crate + C API + CLI tools. Fast, lightweight, easy-to-integrate.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Database
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ zibo-chen/rust-paddle-ocr帮助开发者快速添加AI能力，无需从零开�
 | forks | 40/100 |
 | stars | 52/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

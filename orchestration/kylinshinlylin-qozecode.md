@@ -1,6 +1,6 @@
 # KylinShinlyLin/QozeCode
 
-[![Stars](https://img.shields.io/github/stars/KylinShinlyLin/QozeCode?style=flat-square&color=yellow)](https://github.com/KylinShinlyLin/QozeCode/stargazers) [![Forks](https://img.shields.io/github/forks/KylinShinlyLin/QozeCode?style=flat-square&color=blue)](https://github.com/KylinShinlyLin/QozeCode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KylinShinlyLin/QozeCode?style=flat-square&color=yellow)](https://github.com/KylinShinlyLin/QozeCode/stargazers) [![Forks](https://img.shields.io/github/forks/KylinShinlyLin/QozeCode?style=flat-square&color=blue)](https://github.com/KylinShinlyLin/QozeCode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > QozeCode 是轻量级的 命令行 AI agent，基于 LangGraph 架构构建的专业级命令行智能体（AI Agent）。它旨在将大语言模型的推理能力与终端操作环境深度融合，通过 ReAct（Reasoning and Acting）范式，实现复杂开发任务的自动化执行。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ QozeCode 是基于 LangGraph 架构实现的轻量级命令行 AI Agent，采用
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

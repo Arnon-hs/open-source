@@ -1,6 +1,6 @@
 # arkworks-rs/groth16
 
-[![Stars](https://img.shields.io/github/stars/arkworks-rs/groth16?style=flat-square&color=yellow)](https://github.com/arkworks-rs/groth16/stargazers) [![Forks](https://img.shields.io/github/forks/arkworks-rs/groth16?style=flat-square&color=blue)](https://github.com/arkworks-rs/groth16/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arkworks-rs/groth16?style=flat-square&color=yellow)](https://github.com/arkworks-rs/groth16/stargazers) [![Forks](https://img.shields.io/github/forks/arkworks-rs/groth16?style=flat-square&color=blue)](https://github.com/arkworks-rs/groth16/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust implementation of the Groth16 zkSNARK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Groth16 zkSNARK的生产可用性为中等。虽然它可以用于内部工作�
 | forks | 55/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

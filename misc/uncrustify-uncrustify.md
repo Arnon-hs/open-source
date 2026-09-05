@@ -1,6 +1,6 @@
 # uncrustify/uncrustify
 
-[![Stars](https://img.shields.io/github/stars/uncrustify/uncrustify?style=flat-square&color=yellow)](https://github.com/uncrustify/uncrustify/stargazers) [![Forks](https://img.shields.io/github/forks/uncrustify/uncrustify?style=flat-square&color=blue)](https://github.com/uncrustify/uncrustify/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uncrustify/uncrustify?style=flat-square&color=yellow)](https://github.com/uncrustify/uncrustify/stargazers) [![Forks](https://img.shields.io/github/forks/uncrustify/uncrustify?style=flat-square&color=blue)](https://github.com/uncrustify/uncrustify/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Code beautifier
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 601 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,11 +78,11 @@ uncrustify/uncrustify是一个代码美化工具，帮助开发团队减少自�
 | forks | 69/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

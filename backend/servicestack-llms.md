@@ -1,6 +1,6 @@
 # ServiceStack/llms
 
-[![Stars](https://img.shields.io/github/stars/ServiceStack/llms?style=flat-square&color=yellow)](https://github.com/ServiceStack/llms/stargazers) [![Forks](https://img.shields.io/github/forks/ServiceStack/llms?style=flat-square&color=blue)](https://github.com/ServiceStack/llms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ServiceStack/llms?style=flat-square&color=yellow)](https://github.com/ServiceStack/llms/stargazers) [![Forks](https://img.shields.io/github/forks/ServiceStack/llms?style=flat-square&color=blue)](https://github.com/ServiceStack/llms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > LLM Client, Server API and UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 626 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ ServiceStack/llms 的生产可用
 | forks | 37/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # thinkgem/jeesite
 
-[![Stars](https://img.shields.io/github/stars/thinkgem/jeesite?style=flat-square&color=yellow)](https://github.com/thinkgem/jeesite/stargazers) [![Forks](https://img.shields.io/github/forks/thinkgem/jeesite?style=flat-square&color=blue)](https://github.com/thinkgem/jeesite/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thinkgem/jeesite?style=flat-square&color=yellow)](https://github.com/thinkgem/jeesite/stargazers) [![Forks](https://img.shields.io/github/forks/thinkgem/jeesite?style=flat-square&color=blue)](https://github.com/thinkgem/jeesite/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 👍Java 低代码, 轻量级, Spring Boot, MyBatis, Flowable, TypeScript, Vue, Antdv, 包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流、Spring Cloud 微服务等。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ thinkgem/jeesite 具有高生产可用性，受欢迎程度较高，GitHub 上�
 | forks | 94/100 |
 | stars | 83/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

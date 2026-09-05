@@ -1,6 +1,6 @@
 # 404saint/industrial-protocol-labs
 
-[![Stars](https://img.shields.io/github/stars/404saint/industrial-protocol-labs?style=flat-square&color=yellow)](https://github.com/404saint/industrial-protocol-labs/stargazers) [![Forks](https://img.shields.io/github/forks/404saint/industrial-protocol-labs?style=flat-square&color=blue)](https://github.com/404saint/industrial-protocol-labs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/404saint/industrial-protocol-labs?style=flat-square&color=yellow)](https://github.com/404saint/industrial-protocol-labs/stargazers) [![Forks](https://img.shields.io/github/forks/404saint/industrial-protocol-labs?style=flat-square&color=blue)](https://github.com/404saint/industrial-protocol-labs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Bare-metal security research, packet-level dissection, and detection engineering across OT/ICS industrial communication protocols. No high-level libraries.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Security
 | forks | 0/100 |
 | stars | 17/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 12/100 |
-| production | 63/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

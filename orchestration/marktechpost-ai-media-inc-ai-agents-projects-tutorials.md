@@ -1,6 +1,6 @@
 # MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
 
-[![Stars](https://img.shields.io/github/stars/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials?style=flat-square&color=yellow)](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials?style=flat-square&color=blue)](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials?style=flat-square&color=yellow)](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials?style=flat-square&color=blue)](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent systems, memory, planning, reasoning loops
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 601 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ MARKTECHPOST‑AI‑MEDIA‑INC/AI‑Agents‑Projects‑Tutorials 是一套面�
 | forks | 69/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

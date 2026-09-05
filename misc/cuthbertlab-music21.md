@@ -1,6 +1,6 @@
 # cuthbertLab/music21
 
-[![Stars](https://img.shields.io/github/stars/cuthbertLab/music21?style=flat-square&color=yellow)](https://github.com/cuthbertLab/music21/stargazers) [![Forks](https://img.shields.io/github/forks/cuthbertLab/music21?style=flat-square&color=blue)](https://github.com/cuthbertLab/music21/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cuthbertLab/music21?style=flat-square&color=yellow)](https://github.com/cuthbertLab/music21/stargazers) [![Forks](https://img.shields.io/github/forks/cuthbertLab/music21?style=flat-square&color=blue)](https://github.com/cuthbertLab/music21/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 439 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ cuthbertLab/music21 是一个基于 Python 的音乐学工具箱，提供丰富�
 | forks | 66/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

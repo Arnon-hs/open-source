@@ -1,6 +1,6 @@
 # ex-money/money
 
-[![Stars](https://img.shields.io/github/stars/ex-money/money?style=flat-square&color=yellow)](https://github.com/ex-money/money/stargazers) [![Forks](https://img.shields.io/github/forks/ex-money/money?style=flat-square&color=blue)](https://github.com/ex-money/money/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ex-money/money?style=flat-square&color=yellow)](https://github.com/ex-money/money/stargazers) [![Forks](https://img.shields.io/github/forks/ex-money/money?style=flat-square&color=blue)](https://github.com/ex-money/money/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Elixir implementation of Money with Currency
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ ex-money/money 的生产可用性为中等。它适合用于内部工作流或�
 | forks | 44/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

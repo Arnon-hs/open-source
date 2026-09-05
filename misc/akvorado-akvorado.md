@@ -1,6 +1,6 @@
 # akvorado/akvorado
 
-[![Stars](https://img.shields.io/github/stars/akvorado/akvorado?style=flat-square&color=yellow)](https://github.com/akvorado/akvorado/stargazers) [![Forks](https://img.shields.io/github/forks/akvorado/akvorado?style=flat-square&color=blue)](https://github.com/akvorado/akvorado/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akvorado/akvorado?style=flat-square&color=yellow)](https://github.com/akvorado/akvorado/stargazers) [![Forks](https://img.shields.io/github/forks/akvorado/akvorado?style=flat-square&color=blue)](https://github.com/akvorado/akvorado/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Flow collector, enricher and visualizer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ akvorado（akvorado/akvorado）是一款基于 Go 实现的网络流量收集、
 | forks | 56/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

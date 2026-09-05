@@ -1,6 +1,6 @@
 # elastic/eui
 
-[![Stars](https://img.shields.io/github/stars/elastic/eui?style=flat-square&color=yellow)](https://github.com/elastic/eui/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/eui?style=flat-square&color=blue)](https://github.com/elastic/eui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elastic/eui?style=flat-square&color=yellow)](https://github.com/elastic/eui/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/eui?style=flat-square&color=blue)](https://github.com/elastic/eui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Elastic UI Framework 🙌
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 876 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Elastic EUI（Elastic UI Framework）是一套基于 TypeScript 与 React 的�
 | forks | 74/100 |
 | stars | 81/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

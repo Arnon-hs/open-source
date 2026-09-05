@@ -1,6 +1,6 @@
 # docsector/docsector-reader
 
-[![Stars](https://img.shields.io/github/stars/docsector/docsector-reader?style=flat-square&color=yellow)](https://github.com/docsector/docsector-reader/stargazers) [![Forks](https://img.shields.io/github/forks/docsector/docsector-reader?style=flat-square&color=blue)](https://github.com/docsector/docsector-reader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docsector/docsector-reader?style=flat-square&color=yellow)](https://github.com/docsector/docsector-reader/stargazers) [![Forks](https://img.shields.io/github/forks/docsector/docsector-reader?style=flat-square&color=blue)](https://github.com/docsector/docsector-reader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A documentation rendering engine built with Vue 3, Quasar v2 and Vite with AI features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Education
+MCP · AI/ML · Games & Graphics · Backend · Education
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ docsector/docsector-reader 帮助连接 AI 助手与真实工具和数据，标�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

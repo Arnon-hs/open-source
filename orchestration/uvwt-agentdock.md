@@ -1,6 +1,6 @@
 # uvwt/agentdock
 
-[![Stars](https://img.shields.io/github/stars/uvwt/agentdock?style=flat-square&color=yellow)](https://github.com/uvwt/agentdock/stargazers) [![Forks](https://img.shields.io/github/forks/uvwt/agentdock?style=flat-square&color=blue)](https://github.com/uvwt/agentdock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uvwt/agentdock?style=flat-square&color=yellow)](https://github.com/uvwt/agentdock/stargazers) [![Forks](https://img.shields.io/github/forks/uvwt/agentdock?style=flat-square&color=blue)](https://github.com/uvwt/agentdock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ uvwt/agentdock 的生产可用性很高，项目最近有活跃的维护，采�
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

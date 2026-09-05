@@ -1,6 +1,6 @@
 # lnis-uofu/OpenFPGA
 
-[![Stars](https://img.shields.io/github/stars/lnis-uofu/OpenFPGA?style=flat-square&color=yellow)](https://github.com/lnis-uofu/OpenFPGA/stargazers) [![Forks](https://img.shields.io/github/forks/lnis-uofu/OpenFPGA?style=flat-square&color=blue)](https://github.com/lnis-uofu/OpenFPGA/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lnis-uofu/OpenFPGA?style=flat-square&color=yellow)](https://github.com/lnis-uofu/OpenFPGA/stargazers) [![Forks](https://img.shields.io/github/forks/lnis-uofu/OpenFPGA?style=flat-square&color=blue)](https://github.com/lnis-uofu/OpenFPGA/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An Open-source FPGA IP Generator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ lnis-uofu/OpenFPGA 是一个开源的 FPGA IP 生成器，能够根据用户定�
 | forks | 58/100 |
 | stars | 65/100 |
 | topics | 25/100 |
-| outlook | 44/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # tModLoader/tModLoader
 
-[![Stars](https://img.shields.io/github/stars/tModLoader/tModLoader?style=flat-square&color=yellow)](https://github.com/tModLoader/tModLoader/stargazers) [![Forks](https://img.shields.io/github/forks/tModLoader/tModLoader?style=flat-square&color=blue)](https://github.com/tModLoader/tModLoader/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tModLoader/tModLoader?style=flat-square&color=yellow)](https://github.com/tModLoader/tModLoader/stargazers) [![Forks](https://img.shields.io/github/forks/tModLoader/tModLoader?style=flat-square&color=blue)](https://github.com/tModLoader/tModLoader/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ tModLoader/tModLoader 帮助开发者在不从头开始构建模型堆栈的情�
 | forks | 83/100 |
 | stars | 80/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

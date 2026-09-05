@@ -1,6 +1,6 @@
 # firebase/firebase-ios-sdk
 
-[![Stars](https://img.shields.io/github/stars/firebase/firebase-ios-sdk?style=flat-square&color=yellow)](https://github.com/firebase/firebase-ios-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/firebase/firebase-ios-sdk?style=flat-square&color=blue)](https://github.com/firebase/firebase-ios-sdk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firebase/firebase-ios-sdk?style=flat-square&color=yellow)](https://github.com/firebase/firebase-ios-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/firebase/firebase-ios-sdk?style=flat-square&color=blue)](https://github.com/firebase/firebase-ios-sdk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Firebase SDK for Apple App Development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database · Mobile · Security
+AI/ML · Communication · Libraries & SDKs · Data · Database
 
 ## 📝 Summary
 
@@ -110,11 +110,11 @@ firebase/firebase-ios-sdk 的生产可用性很高，理由包括：
 | forks | 81/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 82/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

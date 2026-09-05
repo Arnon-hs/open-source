@@ -1,6 +1,6 @@
 # sebaslogen/resaca
 
-[![Stars](https://img.shields.io/github/stars/sebaslogen/resaca?style=flat-square&color=yellow)](https://github.com/sebaslogen/resaca/stargazers) [![Forks](https://img.shields.io/github/forks/sebaslogen/resaca?style=flat-square&color=blue)](https://github.com/sebaslogen/resaca/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebaslogen/resaca?style=flat-square&color=yellow)](https://github.com/sebaslogen/resaca/stargazers) [![Forks](https://img.shields.io/github/forks/sebaslogen/resaca?style=flat-square&color=blue)](https://github.com/sebaslogen/resaca/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Compose Multiplatform library to scope ViewModels to a Composable, surviving configuration changes and navigation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 636 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -129,11 +129,11 @@ Overall, Resaca is a promising tool for teams looking to streamline Compose View
 | forks | 31/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

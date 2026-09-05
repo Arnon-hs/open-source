@@ -1,6 +1,6 @@
 # tradingstrategy-ai/trading-strategy
 
-[![Stars](https://img.shields.io/github/stars/tradingstrategy-ai/trading-strategy?style=flat-square&color=yellow)](https://github.com/tradingstrategy-ai/trading-strategy/stargazers) [![Forks](https://img.shields.io/github/forks/tradingstrategy-ai/trading-strategy?style=flat-square&color=blue)](https://github.com/tradingstrategy-ai/trading-strategy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tradingstrategy-ai/trading-strategy?style=flat-square&color=yellow)](https://github.com/tradingstrategy-ai/trading-strategy/stargazers) [![Forks](https://img.shields.io/github/forks/tradingstrategy-ai/trading-strategy?style=flat-square&color=blue)](https://github.com/tradingstrategy-ai/trading-strategy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Python framework for quantitative financial analysis and trading algorithms on decentralised exchanges
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ tradingstrategy-ai/trading-strategy 是一个用于量化金融分析和在去�
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

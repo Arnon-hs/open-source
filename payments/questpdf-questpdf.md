@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 760 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Design
+Payments · Documents · Design
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ QuestPDF/QuestPDF：QuestPDF/QuestPDF helps integrate monetization, billing, or 
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

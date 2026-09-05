@@ -1,6 +1,6 @@
 # hubs-community/hubs
 
-[![Stars](https://img.shields.io/github/stars/hubs-community/hubs?style=flat-square&color=yellow)](https://github.com/hubs-community/hubs/stargazers) [![Forks](https://img.shields.io/github/forks/hubs-community/hubs?style=flat-square&color=blue)](https://github.com/hubs-community/hubs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hubs-community/hubs?style=flat-square&color=yellow)](https://github.com/hubs-community/hubs/stargazers) [![Forks](https://img.shields.io/github/forks/hubs-community/hubs?style=flat-square&color=blue)](https://github.com/hubs-community/hubs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 28/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ hubs-community/hubs: . Use it for Misc.
 
 ### Русский
 
-hubs-community/hubs: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+hubs-community/hubs: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ hubs-community/hubs：。适合用于Misc。
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 0/100 |
-| outlook | 24/100 |
-| quality | 18/100 |
-| recency | 20/100 |
+| outlook | 52/100 |
+| quality | 38/100 |
+| recency | 100/100 |
 | adoption | 5/100 |
-| production | 30/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

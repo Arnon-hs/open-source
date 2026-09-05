@@ -1,6 +1,6 @@
 # KouShenhai/KCloud-Platform-IoT
 
-[![Stars](https://img.shields.io/github/stars/KouShenhai/KCloud-Platform-IoT?style=flat-square&color=yellow)](https://github.com/KouShenhai/KCloud-Platform-IoT/stargazers) [![Forks](https://img.shields.io/github/forks/KouShenhai/KCloud-Platform-IoT?style=flat-square&color=blue)](https://github.com/KouShenhai/KCloud-Platform-IoT/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KouShenhai/KCloud-Platform-IoT?style=flat-square&color=yellow)](https://github.com/KouShenhai/KCloud-Platform-IoT/stargazers) [![Forks](https://img.shields.io/github/forks/KouShenhai/KCloud-Platform-IoT?style=flat-square&color=blue)](https://github.com/KouShenhai/KCloud-Platform-IoT/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > KCloud-Platform-IoT（老寇IoT云平台）是一个企业级单体架构和微服务架构的IoT云平台。采用DDD(领域驱动设计)思想，基于Spring Boot 4.1.0、Spring Cloud 2025.1.2、Spring Cloud Alibaba 2025.1.0.0 最新版本开发的云服务多租户IoT平台，家人们，点个star！拜托啦~
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 666 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ KCloud-Platform-IoT的生产可用性较高，理由包括：
 | forks | 55/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

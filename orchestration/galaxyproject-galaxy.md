@@ -1,6 +1,6 @@
 # galaxyproject/galaxy
 
-[![Stars](https://img.shields.io/github/stars/galaxyproject/galaxy?style=flat-square&color=yellow)](https://github.com/galaxyproject/galaxy/stargazers) [![Forks](https://img.shields.io/github/forks/galaxyproject/galaxy?style=flat-square&color=blue)](https://github.com/galaxyproject/galaxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/galaxyproject/galaxy?style=flat-square&color=yellow)](https://github.com/galaxyproject/galaxy/stargazers) [![Forks](https://img.shields.io/github/forks/galaxyproject/galaxy?style=flat-square&color=blue)](https://github.com/galaxyproject/galaxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Data intensive science for everyone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Galaxy 项目的生产可用性很高，主要原因是：
 | forks | 77/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

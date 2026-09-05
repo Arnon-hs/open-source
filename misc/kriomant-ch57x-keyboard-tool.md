@@ -1,6 +1,6 @@
 # kriomant/ch57x-keyboard-tool
 
-[![Stars](https://img.shields.io/github/stars/kriomant/ch57x-keyboard-tool?style=flat-square&color=yellow)](https://github.com/kriomant/ch57x-keyboard-tool/stargazers) [![Forks](https://img.shields.io/github/forks/kriomant/ch57x-keyboard-tool?style=flat-square&color=blue)](https://github.com/kriomant/ch57x-keyboard-tool/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kriomant/ch57x-keyboard-tool?style=flat-square&color=yellow)](https://github.com/kriomant/ch57x-keyboard-tool/stargazers) [![Forks](https://img.shields.io/github/forks/kriomant/ch57x-keyboard-tool?style=flat-square&color=blue)](https://github.com/kriomant/ch57x-keyboard-tool/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Utility for programming small ch57x keyboards (1189:8890, 1189:8840, 1189:8842)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ kriomant/ch57x-keyboard-tool 是一款基于 Rust 实现的命令行工具，用
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

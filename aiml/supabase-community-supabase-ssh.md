@@ -1,6 +1,6 @@
 # supabase-community/supabase-ssh
 
-[![Stars](https://img.shields.io/github/stars/supabase-community/supabase-ssh?style=flat-square&color=yellow)](https://github.com/supabase-community/supabase-ssh/stargazers) [![Forks](https://img.shields.io/github/forks/supabase-community/supabase-ssh?style=flat-square&color=blue)](https://github.com/supabase-community/supabase-ssh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase-community/supabase-ssh?style=flat-square&color=yellow)](https://github.com/supabase-community/supabase-ssh/stargazers) [![Forks](https://img.shields.io/github/forks/supabase-community/supabase-ssh?style=flat-square&color=blue)](https://github.com/supabase-community/supabase-ssh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Supabase docs over SSH
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -125,14 +125,15 @@ Supabase‑community / supabase‑ssh 是一个基于 TypeScript 的开源工具
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Earthcomputer/clientcommands
 
-[![Stars](https://img.shields.io/github/stars/Earthcomputer/clientcommands?style=flat-square&color=yellow)](https://github.com/Earthcomputer/clientcommands/stargazers) [![Forks](https://img.shields.io/github/forks/Earthcomputer/clientcommands?style=flat-square&color=blue)](https://github.com/Earthcomputer/clientcommands/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Earthcomputer/clientcommands?style=flat-square&color=yellow)](https://github.com/Earthcomputer/clientcommands/stargazers) [![Forks](https://img.shields.io/github/forks/Earthcomputer/clientcommands?style=flat-square&color=blue)](https://github.com/Earthcomputer/clientcommands/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Adds useful client-side commands
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Earthcomputer/clientcommands 是一个开源项目，旨在为开发人员提供
 | forks | 54/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,31 +21,29 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data
+AI/ML · Libraries & SDKs · Data
 
 ## 📝 Summary
 
 ### English
 
-googleapis/python-aiplatform: googleapis/python-aiplatform helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+googleapis/python-aiplatform: googleapis/python-aiplatform may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-googleapis/python-aiplatform: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+googleapis/python-aiplatform: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-googleapis/python-aiplatform：googleapis/python-aiplatform helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+googleapis/python-aiplatform：googleapis/python-aiplatform may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** googleapis/python-aiplatform helps add AI capability without starting from a blank model stack.
+**Value:** googleapis/python-aiplatform may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,17 +62,18 @@ googleapis/python-aiplatform：googleapis/python-aiplatform helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 94/100 |
-| production | 53/100 |
-| outlook | 48/100 |
-| adoption | 64/100 |
-| stars | 63/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

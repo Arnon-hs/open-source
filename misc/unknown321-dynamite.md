@@ -1,6 +1,6 @@
 # unknown321/dynamite
 
-[![Stars](https://img.shields.io/github/stars/unknown321/dynamite?style=flat-square&color=yellow)](https://github.com/unknown321/dynamite/stargazers) [![Forks](https://img.shields.io/github/forks/unknown321/dynamite?style=flat-square&color=blue)](https://github.com/unknown321/dynamite/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unknown321/dynamite?style=flat-square&color=yellow)](https://github.com/unknown321/dynamite/stargazers) [![Forks](https://img.shields.io/github/forks/unknown321/dynamite?style=flat-square&color=blue)](https://github.com/unknown321/dynamite/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 2 player co-op mod for MGSV:TPP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ unknown321/dynamite 的生产可用性为中等，适合用于原型或内部工
 | forks | 33/100 |
 | stars | 57/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

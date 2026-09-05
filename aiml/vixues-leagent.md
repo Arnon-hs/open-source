@@ -1,6 +1,6 @@
 # vixues/LeAgent
 
-[![Stars](https://img.shields.io/github/stars/vixues/LeAgent?style=flat-square&color=yellow)](https://github.com/vixues/LeAgent/stargazers) [![Forks](https://img.shields.io/github/forks/vixues/LeAgent?style=flat-square&color=blue)](https://github.com/vixues/LeAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vixues/LeAgent?style=flat-square&color=yellow)](https://github.com/vixues/LeAgent/stargazers) [![Forks](https://img.shields.io/github/forks/vixues/LeAgent?style=flat-square&color=blue)](https://github.com/vixues/LeAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source desktop AI agent that gets work done — plans & self-corrects, agentic visual workflows, generative UI, and 100+ offline tools in one self-hostable stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ LeAgent 的生产可用性为中等（Medium），适合用于原型或内部工
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

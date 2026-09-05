@@ -1,6 +1,6 @@
 # ghostdogpr/caliban
 
-[![Stars](https://img.shields.io/github/stars/ghostdogpr/caliban?style=flat-square&color=yellow)](https://github.com/ghostdogpr/caliban/stargazers) [![Forks](https://img.shields.io/github/forks/ghostdogpr/caliban?style=flat-square&color=blue)](https://github.com/ghostdogpr/caliban/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghostdogpr/caliban?style=flat-square&color=yellow)](https://github.com/ghostdogpr/caliban/stargazers) [![Forks](https://img.shields.io/github/forks/ghostdogpr/caliban?style=flat-square&color=blue)](https://github.com/ghostdogpr/caliban/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Functional GraphQL library for Scala
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 993 |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ ghostdogpr/caliban 是一款面向 Scala 的函数式 GraphQL 库，帮助团队
 | forks | 61/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # fabraix/playground
 
-[![Stars](https://img.shields.io/github/stars/fabraix/playground?style=flat-square&color=yellow)](https://github.com/fabraix/playground/stargazers) [![Forks](https://img.shields.io/github/forks/fabraix/playground?style=flat-square&color=blue)](https://github.com/fabraix/playground/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fabraix/playground?style=flat-square&color=yellow)](https://github.com/fabraix/playground/stargazers) [![Forks](https://img.shields.io/github/forks/fabraix/playground?style=flat-square&color=blue)](https://github.com/fabraix/playground/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A live environment to stress-test AI agent defenses through adversarial play 🧠
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ fabraix/playground 是一个可交互的实验环境，能够在对抗式游戏�
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 50/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

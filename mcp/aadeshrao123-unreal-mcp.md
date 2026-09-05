@@ -1,6 +1,6 @@
 # aadeshrao123/Unreal-MCP
 
-[![Stars](https://img.shields.io/github/stars/aadeshrao123/Unreal-MCP?style=flat-square&color=yellow)](https://github.com/aadeshrao123/Unreal-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/aadeshrao123/Unreal-MCP?style=flat-square&color=blue)](https://github.com/aadeshrao123/Unreal-MCP/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aadeshrao123/Unreal-MCP?style=flat-square&color=yellow)](https://github.com/aadeshrao123/Unreal-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/aadeshrao123/Unreal-MCP?style=flat-square&color=blue)](https://github.com/aadeshrao123/Unreal-MCP/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > AI bridge for Unreal Engine 5. Control the editor from Claude Code, Cursor, Windsurf, and any MCP client. Community edition of CodeFizz Editor Agent, which has 900+ commands across 28 categories on UE 5.6, 5.7 and 5.8.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ aadeshrao123/Unreal-MCP 的价值在于它可以帮助开发者快速 prototypin
 | forks | 23/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

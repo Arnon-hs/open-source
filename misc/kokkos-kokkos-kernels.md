@@ -1,6 +1,6 @@
 # kokkos/kokkos-kernels
 
-[![Stars](https://img.shields.io/github/stars/kokkos/kokkos-kernels?style=flat-square&color=yellow)](https://github.com/kokkos/kokkos-kernels/stargazers) [![Forks](https://img.shields.io/github/forks/kokkos/kokkos-kernels?style=flat-square&color=blue)](https://github.com/kokkos/kokkos-kernels/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kokkos/kokkos-kernels?style=flat-square&color=yellow)](https://github.com/kokkos/kokkos-kernels/stargazers) [![Forks](https://img.shields.io/github/forks/kokkos/kokkos-kernels?style=flat-square&color=blue)](https://github.com/kokkos/kokkos-kernels/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Kokkos C++ Performance Portability Programming Ecosystem: Math Kernels - Provides BLAS, Sparse BLAS and Graph Kernels
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -133,11 +133,11 @@ Kokkos‑Kernels 是 Kokkos C++ 性能可移植编程生态系统中的数学内
 | forks | 52/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 46/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

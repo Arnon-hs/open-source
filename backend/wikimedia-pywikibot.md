@@ -1,6 +1,6 @@
 # wikimedia/pywikibot
 
-[![Stars](https://img.shields.io/github/stars/wikimedia/pywikibot?style=flat-square&color=yellow)](https://github.com/wikimedia/pywikibot/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/pywikibot?style=flat-square&color=blue)](https://github.com/wikimedia/pywikibot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wikimedia/pywikibot?style=flat-square&color=yellow)](https://github.com/wikimedia/pywikibot/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/pywikibot?style=flat-square&color=blue)](https://github.com/wikimedia/pywikibot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A Python library that interfaces with the MediaWiki API. This is a mirror from gerrit.wikimedia.org. Do not submit any patches here. See https://www.mediawiki.org/wiki/Developer_account for contributing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Wikimedia / pywikibot 是一个基于 Python 的库，封装了 MediaWiki AP
 | forks | 59/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

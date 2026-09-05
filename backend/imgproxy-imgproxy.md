@@ -1,6 +1,6 @@
 # imgproxy/imgproxy
 
-[![Stars](https://img.shields.io/github/stars/imgproxy/imgproxy?style=flat-square&color=yellow)](https://github.com/imgproxy/imgproxy/stargazers) [![Forks](https://img.shields.io/github/forks/imgproxy/imgproxy?style=flat-square&color=blue)](https://github.com/imgproxy/imgproxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imgproxy/imgproxy?style=flat-square&color=yellow)](https://github.com/imgproxy/imgproxy/stargazers) [![Forks](https://img.shields.io/github/forks/imgproxy/imgproxy?style=flat-square&color=blue)](https://github.com/imgproxy/imgproxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and secure standalone server for resizing, processing, and converting images on the fly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.9k |
 | 🍴 **Forks** | 753 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ imgproxy 是一个用 Go 编写的高性能、轻量级的独立服务，能够�
 | forks | 72/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

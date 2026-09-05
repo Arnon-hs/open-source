@@ -1,6 +1,6 @@
 # neovim/neovim.github.io
 
-[![Stars](https://img.shields.io/github/stars/neovim/neovim.github.io?style=flat-square&color=yellow)](https://github.com/neovim/neovim.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/neovim/neovim.github.io?style=flat-square&color=blue)](https://github.com/neovim/neovim.github.io/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neovim/neovim.github.io?style=flat-square&color=yellow)](https://github.com/neovim/neovim.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/neovim/neovim.github.io?style=flat-square&color=blue)](https://github.com/neovim/neovim.github.io/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #foss by @alex
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-28 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | mastodon |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ This project demonstrates that high‑quality software can be built by people wi
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

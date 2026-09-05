@@ -1,6 +1,6 @@
 # SKalt/git-cc
 
-[![Stars](https://img.shields.io/github/stars/SKalt/git-cc?style=flat-square&color=yellow)](https://github.com/SKalt/git-cc/stargazers) [![Forks](https://img.shields.io/github/forks/SKalt/git-cc?style=flat-square&color=blue)](https://github.com/SKalt/git-cc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SKalt/git-cc?style=flat-square&color=yellow)](https://github.com/SKalt/git-cc/stargazers) [![Forks](https://img.shields.io/github/forks/SKalt/git-cc?style=flat-square&color=blue)](https://github.com/SKalt/git-cc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > a git extension to help write conventional commits
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ SKalt/git-cc 的生产可用性是高的，因为它最近有活动，采用率�
 | forks | 26/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

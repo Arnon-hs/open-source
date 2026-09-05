@@ -1,6 +1,6 @@
 # quran/quran_android
 
-[![Stars](https://img.shields.io/github/stars/quran/quran_android?style=flat-square&color=yellow)](https://github.com/quran/quran_android/stargazers) [![Forks](https://img.shields.io/github/forks/quran/quran_android?style=flat-square&color=blue)](https://github.com/quran/quran_android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quran/quran_android?style=flat-square&color=yellow)](https://github.com/quran/quran_android/stargazers) [![Forks](https://img.shields.io/github/forks/quran/quran_android?style=flat-square&color=blue)](https://github.com/quran/quran_android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > a quran reading application for android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 974 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ quran/quran_android 是一款用于 Android 设备的清真经阅读应用。该
 | forks | 75/100 |
 | stars | 72/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

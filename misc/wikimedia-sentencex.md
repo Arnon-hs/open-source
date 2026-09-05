@@ -1,6 +1,6 @@
 # wikimedia/sentencex
 
-[![Stars](https://img.shields.io/github/stars/wikimedia/sentencex?style=flat-square&color=yellow)](https://github.com/wikimedia/sentencex/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/sentencex?style=flat-square&color=blue)](https://github.com/wikimedia/sentencex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wikimedia/sentencex?style=flat-square&color=yellow)](https://github.com/wikimedia/sentencex/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/sentencex?style=flat-square&color=blue)](https://github.com/wikimedia/sentencex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A sentence segmentation library with wide language support optimized for speed and utility.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ let sentences = seg.segment("Your text here.");
 | forks | 30/100 |
 | stars | 45/100 |
 | topics | 50/100 |
-| outlook | 41/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 43/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

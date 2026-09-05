@@ -1,6 +1,6 @@
 # Belkins/ai-dive-deep
 
-[![Stars](https://img.shields.io/github/stars/Belkins/ai-dive-deep?style=flat-square&color=yellow)](https://github.com/Belkins/ai-dive-deep/stargazers) [![Forks](https://img.shields.io/github/forks/Belkins/ai-dive-deep?style=flat-square&color=blue)](https://github.com/Belkins/ai-dive-deep/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Belkins/ai-dive-deep?style=flat-square&color=yellow)](https://github.com/Belkins/ai-dive-deep/stargazers) [![Forks](https://img.shields.io/github/forks/Belkins/ai-dive-deep?style=flat-square&color=blue)](https://github.com/Belkins/ai-dive-deep/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Vlad's Playbook — the operator's field manual where every artifact is live, clickable, and forwardable. 39 chapters · 25 interactive widgets · 3 embedded case studies (AFC pitch + sanitized client audit). Read it → dive.vladyslavpodoliako.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Belkins/ai-dive-deep 是 Vlad 的实战手册，汇集 39 章节、25 个交互�
 | forks | 0/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

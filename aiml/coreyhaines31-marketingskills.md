@@ -1,6 +1,6 @@
 # coreyhaines31/marketingskills
 
-[![Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square&color=yellow)](https://github.com/coreyhaines31/marketingskills/stargazers) [![Forks](https://img.shields.io/github/forks/coreyhaines31/marketingskills?style=flat-square&color=blue)](https://github.com/coreyhaines31/marketingskills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square&color=yellow)](https://github.com/coreyhaines31/marketingskills/stargazers) [![Forks](https://img.shields.io/github/forks/coreyhaines31/marketingskills?style=flat-square&color=blue)](https://github.com/coreyhaines31/marketingskills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.4k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Marketing
+AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ coreyhaines31/marketingskills 是一套面向 Claude Code 与各类 AI 代理的
 | forks | 92/100 |
 | stars | 95/100 |
 | topics | 38/100 |
-| outlook | 84/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

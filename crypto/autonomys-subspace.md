@@ -1,6 +1,6 @@
 # autonomys/subspace
 
-[![Stars](https://img.shields.io/github/stars/autonomys/subspace?style=flat-square&color=yellow)](https://github.com/autonomys/subspace/stargazers) [![Forks](https://img.shields.io/github/forks/autonomys/subspace?style=flat-square&color=blue)](https://github.com/autonomys/subspace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/autonomys/subspace?style=flat-square&color=yellow)](https://github.com/autonomys/subspace/stargazers) [![Forks](https://img.shields.io/github/forks/autonomys/subspace?style=flat-square&color=blue)](https://github.com/autonomys/subspace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Subspace Protocol reference implementation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 404 |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ autonomys/subspace 是 Subspace 协议的 Rust 实现，提供了完整的链上
 | forks | 60/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

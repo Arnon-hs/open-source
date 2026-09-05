@@ -1,6 +1,6 @@
 # timmyy123/LLM-Hub
 
-[![Stars](https://img.shields.io/github/stars/timmyy123/LLM-Hub?style=flat-square&color=yellow)](https://github.com/timmyy123/LLM-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/timmyy123/LLM-Hub?style=flat-square&color=blue)](https://github.com/timmyy123/LLM-Hub/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timmyy123/LLM-Hub?style=flat-square&color=yellow)](https://github.com/timmyy123/LLM-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/timmyy123/LLM-Hub?style=flat-square&color=blue)](https://github.com/timmyy123/LLM-Hub/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI Assistant on your phone
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ LLM‑Hub 是一个基于 Kotlin 的本地 AI 助手框架，能够在手机上�
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Lailloken/Exile-UI
 
-[![Stars](https://img.shields.io/github/stars/Lailloken/Exile-UI?style=flat-square&color=yellow)](https://github.com/Lailloken/Exile-UI/stargazers) [![Forks](https://img.shields.io/github/forks/Lailloken/Exile-UI?style=flat-square&color=blue)](https://github.com/Lailloken/Exile-UI/network) [![Language](https://img.shields.io/badge/lang-AutoHotkey-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lailloken/Exile-UI?style=flat-square&color=yellow)](https://github.com/Lailloken/Exile-UI/stargazers) [![Forks](https://img.shields.io/github/forks/Lailloken/Exile-UI?style=flat-square&color=blue)](https://github.com/Lailloken/Exile-UI/network) [![Language](https://img.shields.io/badge/lang-AutoHotkey-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | AutoHotkey |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ Lailloken/Exile‑UI 能在几分钟内部署一个极简且功能丰富的游�
 | forks | 46/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

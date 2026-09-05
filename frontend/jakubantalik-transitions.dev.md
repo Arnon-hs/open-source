@@ -1,6 +1,6 @@
 # Jakubantalik/transitions.dev
 
-[![Stars](https://img.shields.io/github/stars/Jakubantalik/transitions.dev?style=flat-square&color=yellow)](https://github.com/Jakubantalik/transitions.dev/stargazers) [![Forks](https://img.shields.io/github/forks/Jakubantalik/transitions.dev?style=flat-square&color=blue)](https://github.com/Jakubantalik/transitions.dev/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jakubantalik/transitions.dev?style=flat-square&color=yellow)](https://github.com/Jakubantalik/transitions.dev/stargazers) [![Forks](https://img.shields.io/github/forks/Jakubantalik/transitions.dev?style=flat-square&color=blue)](https://github.com/Jakubantalik/transitions.dev/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Jakubantalik/transitions.dev 的生产可用性非常高，主要原因是：
 | forks | 49/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

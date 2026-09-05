@@ -1,6 +1,6 @@
 # xichan96/dinotty
 
-[![Stars](https://img.shields.io/github/stars/xichan96/dinotty?style=flat-square&color=yellow)](https://github.com/xichan96/dinotty/stargazers) [![Forks](https://img.shields.io/github/forks/xichan96/dinotty?style=flat-square&color=blue)](https://github.com/xichan96/dinotty/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xichan96/dinotty?style=flat-square&color=yellow)](https://github.com/xichan96/dinotty/stargazers) [![Forks](https://img.shields.io/github/forks/xichan96/dinotty?style=flat-square&color=blue)](https://github.com/xichan96/dinotty/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plugin system. Self-hosted.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ xichan96/dinotty 是一个多设备终端服务器，提供服务器端 VTE、�
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

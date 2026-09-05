@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ web‑infra‑dev/rslint is an open‑source linting tool that accelerates devel
 
 ### 中文
 
-web-infra-dev/rslint：web-infra-dev/rslint helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+web-infra-dev/rslint：web-infra-dev/rslint helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** web-infra-dev/rslint helps engineers save time in daily development and review loops.
+**Value:** web-infra-dev/rslint helps make deployment and operations more repeatable.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- standardize deployment
+- automate operations
+- improve platform reliability
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +65,18 @@ web-infra-dev/rslint：web-infra-dev/rslint helps engineers save time in daily d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 46/100 |
-| adoption | 49/100 |
-| stars | 55/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

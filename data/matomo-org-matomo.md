@@ -1,6 +1,6 @@
 # matomo-org/matomo
 
-[![Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=flat-square&color=yellow)](https://github.com/matomo-org/matomo/stargazers) [![Forks](https://img.shields.io/github/forks/matomo-org/matomo?style=flat-square&color=blue)](https://github.com/matomo-org/matomo/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=flat-square&color=yellow)](https://github.com/matomo-org/matomo/stargazers) [![Forks](https://img.shields.io/github/forks/matomo-org/matomo?style=flat-square&color=blue)](https://github.com/matomo-org/matomo/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.7k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Matomo 的生产可用性非常高，理由包括：
 | forks | 86/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 62/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Orchestration · Automation · AI/ML
+Templates · Orchestration · Automation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ pageel/para-workspace：pageel/para-workspace helps teams reuse working workflow
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

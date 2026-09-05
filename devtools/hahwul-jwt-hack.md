@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ The **jwt-hack** toolkit provides a collection of command‑line utilities for a
 
 ### 中文
 
-hahwul/jwt-hack：hahwul/jwt-hack helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+hahwul/jwt-hack：hahwul/jwt-hack helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** hahwul/jwt-hack helps engineers save time in daily development and review loops.
+**Value:** hahwul/jwt-hack helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +65,18 @@ hahwul/jwt-hack：hahwul/jwt-hack helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 54/100 |
-| adoption | 60/100 |
-| stars | 64/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lirantal/awesome-opensource-israel
 
-[![Stars](https://img.shields.io/github/stars/lirantal/awesome-opensource-israel?style=flat-square&color=yellow)](https://github.com/lirantal/awesome-opensource-israel/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/awesome-opensource-israel?style=flat-square&color=blue)](https://github.com/lirantal/awesome-opensource-israel/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lirantal/awesome-opensource-israel?style=flat-square&color=yellow)](https://github.com/lirantal/awesome-opensource-israel/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/awesome-opensource-israel?style=flat-square&color=blue)](https://github.com/lirantal/awesome-opensource-israel/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of Israeli-made projects, events, and individuals
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ lirantal/awesome-opensource-israel 是一个以色列开源项目、活动和个
 | forks | 53/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

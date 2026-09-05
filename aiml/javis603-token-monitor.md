@@ -1,6 +1,6 @@
 # Javis603/token-monitor
 
-[![Stars](https://img.shields.io/github/stars/Javis603/token-monitor?style=flat-square&color=yellow)](https://github.com/Javis603/token-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/Javis603/token-monitor?style=flat-square&color=blue)](https://github.com/Javis603/token-monitor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Javis603/token-monitor?style=flat-square&color=yellow)](https://github.com/Javis603/token-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/Javis603/token-monitor?style=flat-square&color=blue)](https://github.com/Javis603/token-monitor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time token, cost, and AI limits widget with multi-device sync for Claude Code, Codex, OpenCode, Hermes, OpenClaw, Cursor, Antigravity and more. | 为 AI Tools 打造的即时Token、成本与限额监控桌面组件，支持多设备同步
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 277 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -133,11 +133,11 @@ Javis603/token‑monitor 是一款面向 AI 开发者的桌面小组件，实时
 | forks | 29/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | C |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ zanfranceschi/rinha-de-backend-2026：zanfranceschi/rinha-de-backend-2026 may be
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

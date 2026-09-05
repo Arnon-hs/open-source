@@ -1,6 +1,6 @@
 # besscroft/PicImpact
 
-[![Stars](https://img.shields.io/github/stars/besscroft/PicImpact?style=flat-square&color=yellow)](https://github.com/besscroft/PicImpact/stargazers) [![Forks](https://img.shields.io/github/forks/besscroft/PicImpact?style=flat-square&color=blue)](https://github.com/besscroft/PicImpact/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/besscroft/PicImpact?style=flat-square&color=yellow)](https://github.com/besscroft/PicImpact/stargazers) [![Forks](https://img.shields.io/github/forks/besscroft/PicImpact?style=flat-square&color=blue)](https://github.com/besscroft/PicImpact/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ PicImpact 是一个自部署的摄影作品展示网站，基于 TypeScript 开�
 | forks | 58/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

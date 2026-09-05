@@ -1,6 +1,6 @@
 # goreleaser/goreleaser
 
-[![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser?style=flat-square&color=yellow)](https://github.com/goreleaser/goreleaser/stargazers) [![Forks](https://img.shields.io/github/forks/goreleaser/goreleaser?style=flat-square&color=blue)](https://github.com/goreleaser/goreleaser/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser?style=flat-square&color=yellow)](https://github.com/goreleaser/goreleaser/stargazers) [![Forks](https://img.shields.io/github/forks/goreleaser/goreleaser?style=flat-square&color=blue)](https://github.com/goreleaser/goreleaser/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Release engineering, simplified
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ goreleaser 是一款用 Go 编写的开源 Release Automation 工具，旨在把
 | forks | 76/100 |
 | stars | 89/100 |
 | topics | 75/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

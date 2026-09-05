@@ -1,6 +1,6 @@
 # chrisbanes/haze
 
-[![Stars](https://img.shields.io/github/stars/chrisbanes/haze?style=flat-square&color=yellow)](https://github.com/chrisbanes/haze/stargazers) [![Forks](https://img.shields.io/github/forks/chrisbanes/haze?style=flat-square&color=blue)](https://github.com/chrisbanes/haze/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisbanes/haze?style=flat-square&color=yellow)](https://github.com/chrisbanes/haze/stargazers) [![Forks](https://img.shields.io/github/forks/chrisbanes/haze?style=flat-square&color=blue)](https://github.com/chrisbanes/haze/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Background blurring for Compose Multiplatform / Jetpack Compose
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ chrisbanes/haze 是一个开源项目，提供了背景模糊功能，适用于 
 | forks | 47/100 |
 | stars | 72/100 |
 | topics | 38/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

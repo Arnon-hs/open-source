@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend
+MCP · AI/ML · Frontend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ Alignbase/sunpeak 是一个与服务器无关的 MCP 测试框架和全栈 MCP �
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

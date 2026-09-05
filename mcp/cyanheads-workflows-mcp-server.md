@@ -1,6 +1,6 @@
 # cyanheads/workflows-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cyanheads/workflows-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/workflows-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/workflows-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/workflows-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyanheads/workflows-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/workflows-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/workflows-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/workflows-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Store, query, and create YAML workflow playbooks for LLM agents via MCP. STDIO or Streamable HTTP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -143,11 +143,11 @@ cyanheads/workflows-mcp-server 是一款基于 Model Context Protocol（MCP�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

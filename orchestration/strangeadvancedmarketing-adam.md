@@ -1,6 +1,6 @@
 # strangeadvancedmarketing/Adam
 
-[![Stars](https://img.shields.io/github/stars/strangeadvancedmarketing/Adam?style=flat-square&color=yellow)](https://github.com/strangeadvancedmarketing/Adam/stargazers) [![Forks](https://img.shields.io/github/forks/strangeadvancedmarketing/Adam?style=flat-square&color=blue)](https://github.com/strangeadvancedmarketing/Adam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strangeadvancedmarketing/Adam?style=flat-square&color=yellow)](https://github.com/strangeadvancedmarketing/Adam/stargazers) [![Forks](https://img.shields.io/github/forks/strangeadvancedmarketing/Adam?style=flat-square&color=blue)](https://github.com/strangeadvancedmarketing/Adam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 5-layer persistent memory and identity architecture for AI agents. Production-validated over 353+ sessions. First documented case of emergent values in persistent AI -- quantum-verified on IBM hardware.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ strangeadvancedmarketing/Adam 是一套 5 层持久记忆与身份架构，专�
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

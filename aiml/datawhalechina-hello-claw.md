@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -77,6 +77,7 @@ datawhalechina/hello-claw：datawhalechina/hello-claw helps add AI capability wi
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

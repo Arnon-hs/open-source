@@ -1,6 +1,6 @@
 # jurkovic-nikola/OpenLinkHub
 
-[![Stars](https://img.shields.io/github/stars/jurkovic-nikola/OpenLinkHub?style=flat-square&color=yellow)](https://github.com/jurkovic-nikola/OpenLinkHub/stargazers) [![Forks](https://img.shields.io/github/forks/jurkovic-nikola/OpenLinkHub?style=flat-square&color=blue)](https://github.com/jurkovic-nikola/OpenLinkHub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jurkovic-nikola/OpenLinkHub?style=flat-square&color=yellow)](https://github.com/jurkovic-nikola/OpenLinkHub/stargazers) [![Forks](https://img.shields.io/github/forks/jurkovic-nikola/OpenLinkHub?style=flat-square&color=blue)](https://github.com/jurkovic-nikola/OpenLinkHub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ jurkovic-nikola/OpenLinkHub 的生产可用性较高。它的 GitHub 仓库有�
 | forks | 48/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

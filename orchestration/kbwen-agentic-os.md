@@ -1,6 +1,6 @@
 # KbWen/agentic-os
 
-[![Stars](https://img.shields.io/github/stars/KbWen/agentic-os?style=flat-square&color=yellow)](https://github.com/KbWen/agentic-os/stargazers) [![Forks](https://img.shields.io/github/forks/KbWen/agentic-os?style=flat-square&color=blue)](https://github.com/KbWen/agentic-os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KbWen/agentic-os?style=flat-square&color=yellow)](https://github.com/KbWen/agentic-os/stargazers) [![Forks](https://img.shields.io/github/forks/KbWen/agentic-os?style=flat-square&color=blue)](https://github.com/KbWen/agentic-os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for Claude Code, Codex, Cursor, Copilot, and Antigravity, via AGENTS.md.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ KbWen/agentic-os：KbWen/agentic-os helps turn isolated prompts and tools into r
 | forks | 28/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

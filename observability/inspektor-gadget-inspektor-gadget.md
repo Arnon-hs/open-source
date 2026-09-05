@@ -1,6 +1,6 @@
 # inspektor-gadget/inspektor-gadget
 
-[![Stars](https://img.shields.io/github/stars/inspektor-gadget/inspektor-gadget?style=flat-square&color=yellow)](https://github.com/inspektor-gadget/inspektor-gadget/stargazers) [![Forks](https://img.shields.io/github/forks/inspektor-gadget/inspektor-gadget?style=flat-square&color=blue)](https://github.com/inspektor-gadget/inspektor-gadget/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inspektor-gadget/inspektor-gadget?style=flat-square&color=yellow)](https://github.com/inspektor-gadget/inspektor-gadget/stargazers) [![Forks](https://img.shields.io/github/forks/inspektor-gadget/inspektor-gadget?style=flat-square&color=blue)](https://github.com/inspektor-gadget/inspektor-gadget/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 341 |
 | 💻 **Language** | C |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Inspektor Gadget 是一套基于 eBPF 的工具与框架，能够在 Kubernetes 
 | forks | 63/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

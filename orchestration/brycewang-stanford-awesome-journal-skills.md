@@ -1,6 +1,6 @@
 # brycewang-stanford/Awesome-Journal-Skills
 
-[![Stars](https://img.shields.io/github/stars/brycewang-stanford/Awesome-Journal-Skills?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/Awesome-Journal-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/Awesome-Journal-Skills?style=flat-square&color=blue)](https://github.com/brycewang-stanford/Awesome-Journal-Skills/network) [![Language](https://img.shields.io/badge/lang-Stata-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brycewang-stanford/Awesome-Journal-Skills?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/Awesome-Journal-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/Awesome-Journal-Skills?style=flat-square&color=blue)](https://github.com/brycewang-stanford/Awesome-Journal-Skills/network) [![Language](https://img.shields.io/badge/lang-Stata-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Journal-specific Claude Code/Codex skill packs covering mainstream journals — AER, QJE, Nature, Cell, 管理世界, 经济研究 & 200+ more — your fast track to getting published. ｜ 覆盖主流期刊的 Claude Code/Codex 期刊技能包，从选题、识别策略到表格规范与审稿回复全流程，助你快速发论文。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 412 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Stata |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Overall, Awesome‑Journal‑Skills is a high‑readiness OSS component that can
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

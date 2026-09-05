@@ -1,6 +1,6 @@
 # flet-dev/flet
 
-[![Stars](https://img.shields.io/github/stars/flet-dev/flet?style=flat-square&color=yellow)](https://github.com/flet-dev/flet/stargazers) [![Forks](https://img.shields.io/github/forks/flet-dev/flet?style=flat-square&color=blue)](https://github.com/flet-dev/flet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flet-dev/flet?style=flat-square&color=yellow)](https://github.com/flet-dev/flet/stargazers) [![Forks](https://img.shields.io/github/forks/flet-dev/flet?style=flat-square&color=blue)](https://github.com/flet-dev/flet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 664 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ flet-dev/flet 的生产可用性非常高。它有以下几个信号：
 | forks | 71/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

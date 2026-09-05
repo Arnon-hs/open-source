@@ -1,6 +1,6 @@
 # Anil-matcha/Open-AI-UGC
 
-[![Stars](https://img.shields.io/github/stars/Anil-matcha/Open-AI-UGC?style=flat-square&color=yellow)](https://github.com/Anil-matcha/Open-AI-UGC/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/Open-AI-UGC?style=flat-square&color=blue)](https://github.com/Anil-matcha/Open-AI-UGC/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anil-matcha/Open-AI-UGC?style=flat-square&color=yellow)](https://github.com/Anil-matcha/Open-AI-UGC/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/Open-AI-UGC?style=flat-square&color=blue)](https://github.com/Anil-matcha/Open-AI-UGC/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open AI UGC — free, open-source alternative to Arcads and MakeUGC. Generate AI UGC video ads with realistic AI actors using Veo 3.1, Seedance 2, Grok Video, and Happy Horse 1. Self-host on Next.js + Stripe + MUAPI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Anil-matcha/Open-AI-UGC 帮助企业快速集成付款、计费或 PSP 流程，
 | forks | 38/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

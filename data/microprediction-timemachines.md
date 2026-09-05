@@ -1,6 +1,6 @@
 # microprediction/timemachines
 
-[![Stars](https://img.shields.io/github/stars/microprediction/timemachines?style=flat-square&color=yellow)](https://github.com/microprediction/timemachines/stargazers) [![Forks](https://img.shields.io/github/forks/microprediction/timemachines?style=flat-square&color=blue)](https://github.com/microprediction/timemachines/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microprediction/timemachines?style=flat-square&color=yellow)](https://github.com/microprediction/timemachines/stargazers) [![Forks](https://img.shields.io/github/forks/microprediction/timemachines?style=flat-square&color=blue)](https://github.com/microprediction/timemachines/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Predict time-series with one line of code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ microprediction/timemachines 是一个基于 Python 的开源库，能够用“�
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

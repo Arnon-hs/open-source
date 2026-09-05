@@ -1,6 +1,6 @@
 # benwbrum/fromthepage
 
-[![Stars](https://img.shields.io/github/stars/benwbrum/fromthepage?style=flat-square&color=yellow)](https://github.com/benwbrum/fromthepage/stargazers) [![Forks](https://img.shields.io/github/forks/benwbrum/fromthepage?style=flat-square&color=blue)](https://github.com/benwbrum/fromthepage/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benwbrum/fromthepage?style=flat-square&color=yellow)](https://github.com/benwbrum/fromthepage/stargazers) [![Forks](https://img.shields.io/github/forks/benwbrum/fromthepage?style=flat-square&color=blue)](https://github.com/benwbrum/fromthepage/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > FromThePage is a wiki-like application for crowdsourcing transcription of handwritten documents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Video Editing
+Video Editing · Documents
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ FromThePage 是一款面向手稿、历史文献等手写材料的众包转录�
 | forks | 43/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Rich627/whatsapp-claude-plugin
 
-[![Stars](https://img.shields.io/github/stars/Rich627/whatsapp-claude-plugin?style=flat-square&color=yellow)](https://github.com/Rich627/whatsapp-claude-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Rich627/whatsapp-claude-plugin?style=flat-square&color=blue)](https://github.com/Rich627/whatsapp-claude-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rich627/whatsapp-claude-plugin?style=flat-square&color=yellow)](https://github.com/Rich627/whatsapp-claude-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Rich627/whatsapp-claude-plugin?style=flat-square&color=blue)](https://github.com/Rich627/whatsapp-claude-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a linked device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · MCP · Automation · AI/ML · Backend
+Video Editing · MCP · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -111,11 +111,11 @@ Rich627/whatsapp-claude-plugin 帮助连接 AI 助手到实际工具和数据，
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

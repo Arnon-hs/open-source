@@ -1,6 +1,6 @@
 # divkit/divkit
 
-[![Stars](https://img.shields.io/github/stars/divkit/divkit?style=flat-square&color=yellow)](https://github.com/divkit/divkit/stargazers) [![Forks](https://img.shields.io/github/forks/divkit/divkit?style=flat-square&color=blue)](https://github.com/divkit/divkit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/divkit/divkit?style=flat-square&color=yellow)](https://github.com/divkit/divkit/stargazers) [![Forks](https://img.shields.io/github/forks/divkit/divkit?style=flat-square&color=blue)](https://github.com/divkit/divkit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ DivKit的生产可用性非常高，主要原因是：
 | forks | 57/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

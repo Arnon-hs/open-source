@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,6 +78,7 @@ intel/ScalableVectorSearch：intel/ScalableVectorSearch helps make internal know
 | usefulness | 58/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

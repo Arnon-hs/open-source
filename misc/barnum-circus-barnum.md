@@ -1,6 +1,6 @@
 # barnum-circus/barnum
 
-[![Stars](https://img.shields.io/github/stars/barnum-circus/barnum?style=flat-square&color=yellow)](https://github.com/barnum-circus/barnum/stargazers) [![Forks](https://img.shields.io/github/forks/barnum-circus/barnum?style=flat-square&color=blue)](https://github.com/barnum-circus/barnum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barnum-circus/barnum?style=flat-square&color=yellow)](https://github.com/barnum-circus/barnum/stargazers) [![Forks](https://img.shields.io/github/forks/barnum-circus/barnum?style=flat-square&color=blue)](https://github.com/barnum-circus/barnum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A programming language for parallel and asynchronous computation that makes it easy to orchestrate AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Barnum（仓库 barnum-circus/barnum）是一款面向并行与异步计算的
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 36/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

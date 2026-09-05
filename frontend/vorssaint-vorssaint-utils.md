@@ -1,6 +1,6 @@
 # vorssaint/vorssaint-utils
 
-[![Stars](https://img.shields.io/github/stars/vorssaint/vorssaint-utils?style=flat-square&color=yellow)](https://github.com/vorssaint/vorssaint-utils/stargazers) [![Forks](https://img.shields.io/github/forks/vorssaint/vorssaint-utils?style=flat-square&color=blue)](https://github.com/vorssaint/vorssaint-utils/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vorssaint/vorssaint-utils?style=flat-square&color=yellow)](https://github.com/vorssaint/vorssaint-utils/stargazers) [![Forks](https://img.shields.io/github/forks/vorssaint/vorssaint-utils?style=flat-square&color=blue)](https://github.com/vorssaint/vorssaint-utils/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open-source macOS menu bar toolkit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ vorssaint/vorssaint‑utils 是一套基于 Swift 的 macOS 状态栏（Menu Bar
 | forks | 50/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

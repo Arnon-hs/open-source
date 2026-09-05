@@ -1,6 +1,6 @@
 # Stack-Cairn/LiveAgent
 
-[![Stars](https://img.shields.io/github/stars/Stack-Cairn/LiveAgent?style=flat-square&color=yellow)](https://github.com/Stack-Cairn/LiveAgent/stargazers) [![Forks](https://img.shields.io/github/forks/Stack-Cairn/LiveAgent?style=flat-square&color=blue)](https://github.com/Stack-Cairn/LiveAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Stack-Cairn/LiveAgent?style=flat-square&color=yellow)](https://github.com/Stack-Cairn/LiveAgent/stargazers) [![Forks](https://img.shields.io/github/forks/Stack-Cairn/LiveAgent?style=flat-square&color=blue)](https://github.com/Stack-Cairn/LiveAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ Stack-Cairn/LiveAgent 的生产可用性非常高，理由如下：
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

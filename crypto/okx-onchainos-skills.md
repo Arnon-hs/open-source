@@ -1,6 +1,6 @@
 # okx/onchainos-skills
 
-[![Stars](https://img.shields.io/github/stars/okx/onchainos-skills?style=flat-square&color=yellow)](https://github.com/okx/onchainos-skills/stargazers) [![Forks](https://img.shields.io/github/forks/okx/onchainos-skills?style=flat-square&color=blue)](https://github.com/okx/onchainos-skills/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/okx/onchainos-skills?style=flat-square&color=yellow)](https://github.com/okx/onchainos-skills/stargazers) [![Forks](https://img.shields.io/github/forks/okx/onchainos-skills?style=flat-square&color=blue)](https://github.com/okx/onchainos-skills/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ Overall, `okx/onchainos-skills` is a solid foundation for building AI‑driven W
 | forks | 42/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 44/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

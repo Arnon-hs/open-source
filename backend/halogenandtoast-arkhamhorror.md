@@ -1,6 +1,6 @@
 # halogenandtoast/ArkhamHorror
 
-[![Stars](https://img.shields.io/github/stars/halogenandtoast/ArkhamHorror?style=flat-square&color=yellow)](https://github.com/halogenandtoast/ArkhamHorror/stargazers) [![Forks](https://img.shields.io/github/forks/halogenandtoast/ArkhamHorror?style=flat-square&color=blue)](https://github.com/halogenandtoast/ArkhamHorror/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/halogenandtoast/ArkhamHorror?style=flat-square&color=yellow)](https://github.com/halogenandtoast/ArkhamHorror/stargazers) [![Forks](https://img.shields.io/github/forks/halogenandtoast/ArkhamHorror?style=flat-square&color=blue)](https://github.com/halogenandtoast/ArkhamHorror/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ halogenandtoast/ArkhamHorror 是一款基于浏览器、遵循官方规则的《
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

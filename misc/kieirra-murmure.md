@@ -1,6 +1,6 @@
 # Kieirra/murmure
 
-[![Stars](https://img.shields.io/github/stars/Kieirra/murmure?style=flat-square&color=yellow)](https://github.com/Kieirra/murmure/stargazers) [![Forks](https://img.shields.io/github/forks/Kieirra/murmure?style=flat-square&color=blue)](https://github.com/Kieirra/murmure/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kieirra/murmure?style=flat-square&color=yellow)](https://github.com/Kieirra/murmure/stargazers) [![Forks](https://img.shields.io/github/forks/Kieirra/murmure?style=flat-square&color=blue)](https://github.com/Kieirra/murmure/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fully local, private and cross platform Speech-to-Text with LLM Post-processing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 755 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Kieirra/murmure 是一款完全本地化、私有且跨平台的语音转文字�
 | forks | 47/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

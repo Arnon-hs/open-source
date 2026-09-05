@@ -1,6 +1,6 @@
 # sigstore/cosign
 
-[![Stars](https://img.shields.io/github/stars/sigstore/cosign?style=flat-square&color=yellow)](https://github.com/sigstore/cosign/stargazers) [![Forks](https://img.shields.io/github/forks/sigstore/cosign?style=flat-square&color=blue)](https://github.com/sigstore/cosign/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sigstore/cosign?style=flat-square&color=yellow)](https://github.com/sigstore/cosign/stargazers) [![Forks](https://img.shields.io/github/forks/sigstore/cosign?style=flat-square&color=blue)](https://github.com/sigstore/cosign/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Code signing and transparency for containers and binaries
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 761 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ sigstore/cosign 的生产可用性为中等，有助于原型设计或内部工�
 | forks | 72/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

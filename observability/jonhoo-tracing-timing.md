@@ -1,6 +1,6 @@
 # jonhoo/tracing-timing
 
-[![Stars](https://img.shields.io/github/stars/jonhoo/tracing-timing?style=flat-square&color=yellow)](https://github.com/jonhoo/tracing-timing/stargazers) [![Forks](https://img.shields.io/github/forks/jonhoo/tracing-timing?style=flat-square&color=blue)](https://github.com/jonhoo/tracing-timing/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonhoo/tracing-timing?style=flat-square&color=yellow)](https://github.com/jonhoo/tracing-timing/stargazers) [![Forks](https://img.shields.io/github/forks/jonhoo/tracing-timing?style=flat-square&color=blue)](https://github.com/jonhoo/tracing-timing/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Inter-event timing metrics on top of tracing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ jonhoo/tracing-timing 的生产可用性为中等（Medium）。它适用于内�
 | forks | 29/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 48/100 |
-| recency | 60/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 53/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # gmberton/vismatch
 
-[![Stars](https://img.shields.io/github/stars/gmberton/vismatch?style=flat-square&color=yellow)](https://github.com/gmberton/vismatch/stargazers) [![Forks](https://img.shields.io/github/forks/gmberton/vismatch?style=flat-square&color=blue)](https://github.com/gmberton/vismatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gmberton/vismatch?style=flat-square&color=yellow)](https://github.com/gmberton/vismatch/stargazers) [![Forks](https://img.shields.io/github/forks/gmberton/vismatch?style=flat-square&color=blue)](https://github.com/gmberton/vismatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Wrapper of 50+ image matching models with a unified interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 896 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ gmberton/vismatch 是一个开源项目，提供了超过 50 个图像匹配模�
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

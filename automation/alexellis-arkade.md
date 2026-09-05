@@ -1,6 +1,6 @@
 # alexellis/arkade
 
-[![Stars](https://img.shields.io/github/stars/alexellis/arkade?style=flat-square&color=yellow)](https://github.com/alexellis/arkade/stargazers) [![Forks](https://img.shields.io/github/forks/alexellis/arkade?style=flat-square&color=blue)](https://github.com/alexellis/arkade/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexellis/arkade?style=flat-square&color=yellow)](https://github.com/alexellis/arkade/stargazers) [![Forks](https://img.shields.io/github/forks/alexellis/arkade?style=flat-square&color=blue)](https://github.com/alexellis/arkade/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Marketplace For Developer Tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 303 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ arkade（alexellis/arkade）是一个开源的开发者工具市场，提供一�
 | forks | 62/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 68/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 57/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

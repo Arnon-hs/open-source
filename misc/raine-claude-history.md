@@ -1,6 +1,6 @@
 # raine/claude-history
 
-[![Stars](https://img.shields.io/github/stars/raine/claude-history?style=flat-square&color=yellow)](https://github.com/raine/claude-history/stargazers) [![Forks](https://img.shields.io/github/forks/raine/claude-history?style=flat-square&color=blue)](https://github.com/raine/claude-history/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raine/claude-history?style=flat-square&color=yellow)](https://github.com/raine/claude-history/stargazers) [![Forks](https://img.shields.io/github/forks/raine/claude-history?style=flat-square&color=blue)](https://github.com/raine/claude-history/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Fuzzy-search Claude Code conversation history
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Overall, `raine/claude-history` offers a quick way to enable context‑aware AI 
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

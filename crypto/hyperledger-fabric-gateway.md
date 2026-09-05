@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Backend
 
 ## 📝 Summary
 
@@ -106,7 +106,7 @@ Hyperledger Fabric Gateway 具有高生产可用性，因为它拥有大量活�
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

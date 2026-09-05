@@ -1,6 +1,6 @@
 # 6Kmfi6HP/opencode2api
 
-[![Stars](https://img.shields.io/github/stars/6Kmfi6HP/opencode2api?style=flat-square&color=yellow)](https://github.com/6Kmfi6HP/opencode2api/stargazers) [![Forks](https://img.shields.io/github/forks/6Kmfi6HP/opencode2api?style=flat-square&color=blue)](https://github.com/6Kmfi6HP/opencode2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/6Kmfi6HP/opencode2api?style=flat-square&color=yellow)](https://github.com/6Kmfi6HP/opencode2api/stargazers) [![Forks](https://img.shields.io/github/forks/6Kmfi6HP/opencode2api?style=flat-square&color=blue)](https://github.com/6Kmfi6HP/opencode2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode zen/go to OpenAI Codex/Anthropic Claude Code API proxy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ AI/ML · Backend
 | forks | 28/100 |
 | stars | 31/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

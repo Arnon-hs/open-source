@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Assembly |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ memorysafety/rav1d：memorysafety/rav1d may be useful when its README and activi
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

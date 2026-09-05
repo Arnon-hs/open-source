@@ -1,6 +1,6 @@
 # engigu/Message-Push-Nest
 
-[![Stars](https://img.shields.io/github/stars/engigu/Message-Push-Nest?style=flat-square&color=yellow)](https://github.com/engigu/Message-Push-Nest/stargazers) [![Forks](https://img.shields.io/github/forks/engigu/Message-Push-Nest?style=flat-square&color=blue)](https://github.com/engigu/Message-Push-Nest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/engigu/Message-Push-Nest?style=flat-square&color=yellow)](https://github.com/engigu/Message-Push-Nest/stargazers) [![Forks](https://img.shields.io/github/forks/engigu/Message-Push-Nest?style=flat-square&color=blue)](https://github.com/engigu/Message-Push-Nest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🕊️ Message Nest - 打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义webhook等多种通知方式。定制你的消息，让通知方式更灵活多样。 🕊️ Message Nest - Craft your personalized message push hub, seamlessly integrating notifications from emails dtalk and so on. Tailor your messages for a flexible and diverse notification experience.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 904 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ Message‑Push‑Nest（engigu/Message‑Push‑Nest）是一款基于 Go 的开
 | forks | 51/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

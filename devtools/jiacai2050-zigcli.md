@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ jiacai2050/zigcli：jiacai2050/zigcli helps engineers save time in daily develop
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

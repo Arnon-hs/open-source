@@ -1,6 +1,6 @@
 # linzzzzzz/openclip
 
-[![Stars](https://img.shields.io/github/stars/linzzzzzz/openclip?style=flat-square&color=yellow)](https://github.com/linzzzzzz/openclip/stargazers) [![Forks](https://img.shields.io/github/forks/linzzzzzz/openclip?style=flat-square&color=blue)](https://github.com/linzzzzzz/openclip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linzzzzzz/openclip?style=flat-square&color=yellow)](https://github.com/linzzzzzz/openclip/stargazers) [![Forks](https://img.shields.io/github/forks/linzzzzzz/openclip?style=flat-square&color=blue)](https://github.com/linzzzzzz/openclip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > OpenClip - AI-powered highlight extraction for long videos (AI 驱动的长视频精彩时刻提取工具)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ OpenClip 是一款基于 Python 开发的 AI 驱动长视频精彩片段提取�
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

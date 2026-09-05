@@ -1,6 +1,6 @@
 # lfaoro/ssm
 
-[![Stars](https://img.shields.io/github/stars/lfaoro/ssm?style=flat-square&color=yellow)](https://github.com/lfaoro/ssm/stargazers) [![Forks](https://img.shields.io/github/forks/lfaoro/ssm?style=flat-square&color=blue)](https://github.com/lfaoro/ssm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lfaoro/ssm?style=flat-square&color=yellow)](https://github.com/lfaoro/ssm/stargazers) [![Forks](https://img.shields.io/github/forks/lfaoro/ssm?style=flat-square&color=blue)](https://github.com/lfaoro/ssm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal SSH connection manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ lfaoro/ssm 是一款基于终端的 SSH 连接管理工具，采用 Go 语言实
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

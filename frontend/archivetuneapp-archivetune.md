@@ -1,6 +1,6 @@
 # ArchiveTuneApp/ArchiveTune
 
-[![Stars](https://img.shields.io/github/stars/ArchiveTuneApp/ArchiveTune?style=flat-square&color=yellow)](https://github.com/ArchiveTuneApp/ArchiveTune/stargazers) [![Forks](https://img.shields.io/github/forks/ArchiveTuneApp/ArchiveTune?style=flat-square&color=blue)](https://github.com/ArchiveTuneApp/ArchiveTune/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArchiveTuneApp/ArchiveTune?style=flat-square&color=yellow)](https://github.com/ArchiveTuneApp/ArchiveTune/stargazers) [![Forks](https://img.shields.io/github/forks/ArchiveTuneApp/ArchiveTune?style=flat-square&color=blue)](https://github.com/ArchiveTuneApp/ArchiveTune/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ ArchiveTuneApp/ArchiveTune 是一款基于 Material 3 设计的可爱且功能
 | forks | 52/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

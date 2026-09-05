@@ -1,6 +1,6 @@
 # edo9300/edopro
 
-[![Stars](https://img.shields.io/github/stars/edo9300/edopro?style=flat-square&color=yellow)](https://github.com/edo9300/edopro/stargazers) [![Forks](https://img.shields.io/github/forks/edo9300/edopro?style=flat-square&color=blue)](https://github.com/edo9300/edopro/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edo9300/edopro?style=flat-square&color=yellow)](https://github.com/edo9300/edopro/stargazers) [![Forks](https://img.shields.io/github/forks/edo9300/edopro?style=flat-square&color=blue)](https://github.com/edo9300/edopro/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A script engine for "yu-gi-oh!" and sample gui (former "ygopro")
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 376 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ edo9300/edopro 的生产可用性为中等（Medium）。该项目适合用于�
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

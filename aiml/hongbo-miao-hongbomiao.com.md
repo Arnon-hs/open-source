@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Observability · DevOps/Infra
+AI/ML · Cloud & Storage · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ hongbo-miao/hongbomiao.com：hongbo-miao/hongbomiao.com helps add AI capability 
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

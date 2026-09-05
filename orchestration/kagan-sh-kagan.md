@@ -1,6 +1,6 @@
 # kagan-sh/kagan
 
-[![Stars](https://img.shields.io/github/stars/kagan-sh/kagan?style=flat-square&color=yellow)](https://github.com/kagan-sh/kagan/stargazers) [![Forks](https://img.shields.io/github/forks/kagan-sh/kagan?style=flat-square&color=blue)](https://github.com/kagan-sh/kagan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kagan-sh/kagan?style=flat-square&color=yellow)](https://github.com/kagan-sh/kagan/stargazers) [![Forks](https://img.shields.io/github/forks/kagan-sh/kagan?style=flat-square&color=blue)](https://github.com/kagan-sh/kagan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The Orchestration Layer for AI Coding Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ kagan‑sh/kagan 是面向 AI 编码代理的编排层，能够把零散的 Prom
 | forks | 19/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

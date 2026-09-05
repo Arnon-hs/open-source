@@ -1,6 +1,6 @@
 # hetznercloud/hcloud-python
 
-[![Stars](https://img.shields.io/github/stars/hetznercloud/hcloud-python?style=flat-square&color=yellow)](https://github.com/hetznercloud/hcloud-python/stargazers) [![Forks](https://img.shields.io/github/forks/hetznercloud/hcloud-python?style=flat-square&color=blue)](https://github.com/hetznercloud/hcloud-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hetznercloud/hcloud-python?style=flat-square&color=yellow)](https://github.com/hetznercloud/hcloud-python/stargazers) [![Forks](https://img.shields.io/github/forks/hetznercloud/hcloud-python?style=flat-square&color=blue)](https://github.com/hetznercloud/hcloud-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A Python library for the Hetzner Cloud API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ hetznercloud/hcloud-python 的生产可用性很高，主要原因是：
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

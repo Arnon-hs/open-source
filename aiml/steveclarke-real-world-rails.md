@@ -1,6 +1,6 @@
 # steveclarke/real-world-rails
 
-[![Stars](https://img.shields.io/github/stars/steveclarke/real-world-rails?style=flat-square&color=yellow)](https://github.com/steveclarke/real-world-rails/stargazers) [![Forks](https://img.shields.io/github/forks/steveclarke/real-world-rails?style=flat-square&color=blue)](https://github.com/steveclarke/real-world-rails/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steveclarke/real-world-rails?style=flat-square&color=yellow)](https://github.com/steveclarke/real-world-rails/stargazers) [![Forks](https://img.shields.io/github/forks/steveclarke/real-world-rails?style=flat-square&color=blue)](https://github.com/steveclarke/real-world-rails/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,11 +128,11 @@ steveclarke/real-world-rails 是一个收录了 200 多个真实生产环境的 
 | forks | 35/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

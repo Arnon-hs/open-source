@@ -1,6 +1,6 @@
 # ageerle/ruoyi-web
 
-[![Stars](https://img.shields.io/github/stars/ageerle/ruoyi-web?style=flat-square&color=yellow)](https://github.com/ageerle/ruoyi-web/stargazers) [![Forks](https://img.shields.io/github/forks/ageerle/ruoyi-web?style=flat-square&color=blue)](https://github.com/ageerle/ruoyi-web/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ageerle/ruoyi-web?style=flat-square&color=yellow)](https://github.com/ageerle/ruoyi-web/stargazers) [![Forks](https://img.shields.io/github/forks/ageerle/ruoyi-web?style=flat-square&color=blue)](https://github.com/ageerle/ruoyi-web/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > RuoYi-AI 的用户前端，提供 AI 对话、智能体交互、知识库问答等功能
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 348 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ RuoYi-AI 的用户前端项目，提供 AI 对话、智能体交互、知识库�
 | forks | 64/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

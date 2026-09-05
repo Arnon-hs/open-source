@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ fabric8io/kubernetes-client：fabric8io/kubernetes-client helps teams reuse serv
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

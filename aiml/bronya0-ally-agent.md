@@ -1,6 +1,6 @@
 # Bronya0/ally-agent
 
-[![Stars](https://img.shields.io/github/stars/Bronya0/ally-agent?style=flat-square&color=yellow)](https://github.com/Bronya0/ally-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Bronya0/ally-agent?style=flat-square&color=blue)](https://github.com/Bronya0/ally-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bronya0/ally-agent?style=flat-square&color=yellow)](https://github.com/Bronya0/ally-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Bronya0/ally-agent?style=flat-square&color=blue)](https://github.com/Bronya0/ally-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop AI coding assistant that works with your local projects. Ally helps you understand code, edit files, search a workspace, manage tasks, and complete development work through conversation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Bronya0/ally-agent 的生产可用性为中等（Medium）。它适合于以下�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

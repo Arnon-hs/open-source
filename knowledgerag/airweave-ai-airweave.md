@@ -1,6 +1,6 @@
 # airweave-ai/airweave
 
-[![Stars](https://img.shields.io/github/stars/airweave-ai/airweave?style=flat-square&color=yellow)](https://github.com/airweave-ai/airweave/stargazers) [![Forks](https://img.shields.io/github/forks/airweave-ai/airweave?style=flat-square&color=blue)](https://github.com/airweave-ai/airweave/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/airweave-ai/airweave?style=flat-square&color=yellow)](https://github.com/airweave-ai/airweave/stargazers) [![Forks](https://img.shields.io/github/forks/airweave-ai/airweave?style=flat-square&color=blue)](https://github.com/airweave-ai/airweave/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source context retrieval layer for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 784 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend · DevTools · Data
+Knowledge/RAG · AI/ML · Backend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -98,11 +98,11 @@ airweave 是一个开源的上下文检索层，专为 AI 代理提供高效的�
 | forks | 72/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 70/100 |
-| recency | 20/100 |
+| outlook | 88/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

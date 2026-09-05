@@ -1,6 +1,6 @@
 # SkyeShark/eidoverse-video
 
-[![Stars](https://img.shields.io/github/stars/SkyeShark/eidoverse-video?style=flat-square&color=yellow)](https://github.com/SkyeShark/eidoverse-video/stargazers) [![Forks](https://img.shields.io/github/forks/SkyeShark/eidoverse-video?style=flat-square&color=blue)](https://github.com/SkyeShark/eidoverse-video/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SkyeShark/eidoverse-video?style=flat-square&color=yellow)](https://github.com/SkyeShark/eidoverse-video/stargazers) [![Forks](https://img.shields.io/github/forks/SkyeShark/eidoverse-video?style=flat-square&color=blue)](https://github.com/SkyeShark/eidoverse-video/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Video-production toolkit for AI agents: Deno + WebGPU + three.js/TSL render engine with VRM character locomotion, simulations, effects, and a full audio pipeline — real-time GPU rendering with minimal CPU
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ SkyeShark/eidoverse-video 帮助开发者在不从零开始的基础上添加 AI
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 42/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 51/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # AzuraCast/AzuraCast
 
-[![Stars](https://img.shields.io/github/stars/AzuraCast/AzuraCast?style=flat-square&color=yellow)](https://github.com/AzuraCast/AzuraCast/stargazers) [![Forks](https://img.shields.io/github/forks/AzuraCast/AzuraCast?style=flat-square&color=blue)](https://github.com/AzuraCast/AzuraCast/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AzuraCast/AzuraCast?style=flat-square&color=yellow)](https://github.com/AzuraCast/AzuraCast/stargazers) [![Forks](https://img.shields.io/github/forks/AzuraCast/AzuraCast?style=flat-square&color=blue)](https://github.com/AzuraCast/AzuraCast/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 724 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>
 | forks | 72/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

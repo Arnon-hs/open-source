@@ -1,6 +1,6 @@
 # translate/translate
 
-[![Stars](https://img.shields.io/github/stars/translate/translate?style=flat-square&color=yellow)](https://github.com/translate/translate/stargazers) [![Forks](https://img.shields.io/github/forks/translate/translate?style=flat-square&color=blue)](https://github.com/translate/translate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/translate/translate?style=flat-square&color=yellow)](https://github.com/translate/translate/stargazers) [![Forks](https://img.shields.io/github/forks/translate/translate?style=flat-square&color=blue)](https://github.com/translate/translate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Useful localization tools with Python API for building localization & translation systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 960 |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ translate/translate 是一套基于 Python 的本地化与翻译工具库，提�
 | forks | 63/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 63/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

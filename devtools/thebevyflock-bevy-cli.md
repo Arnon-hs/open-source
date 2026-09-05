@@ -1,6 +1,6 @@
 # TheBevyFlock/bevy_cli
 
-[![Stars](https://img.shields.io/github/stars/TheBevyFlock/bevy_cli?style=flat-square&color=yellow)](https://github.com/TheBevyFlock/bevy_cli/stargazers) [![Forks](https://img.shields.io/github/forks/TheBevyFlock/bevy_cli?style=flat-square&color=blue)](https://github.com/TheBevyFlock/bevy_cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheBevyFlock/bevy_cli?style=flat-square&color=yellow)](https://github.com/TheBevyFlock/bevy_cli/stargazers) [![Forks](https://img.shields.io/github/forks/TheBevyFlock/bevy_cli?style=flat-square&color=blue)](https://github.com/TheBevyFlock/bevy_cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A Bevy CLI tool and linter.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ TheBevyFlock / **bevy_cli** 是一个面向 Bevy 游戏引擎的命令行工具�
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

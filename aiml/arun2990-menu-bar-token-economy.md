@@ -1,6 +1,6 @@
 # arun2990/menu-bar-token-economy
 
-[![Stars](https://img.shields.io/github/stars/arun2990/menu-bar-token-economy?style=flat-square&color=yellow)](https://github.com/arun2990/menu-bar-token-economy/stargazers) [![Forks](https://img.shields.io/github/forks/arun2990/menu-bar-token-economy?style=flat-square&color=blue)](https://github.com/arun2990/menu-bar-token-economy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arun2990/menu-bar-token-economy?style=flat-square&color=yellow)](https://github.com/arun2990/menu-bar-token-economy/stargazers) [![Forks](https://img.shields.io/github/forks/arun2990/menu-bar-token-economy?style=flat-square&color=blue)](https://github.com/arun2990/menu-bar-token-economy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Best AI API Cost Tracker & Token Usage Monitor for Developers 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ arun2990/menu-bar-token-economy 是一款面向开发者的 AI API 成本追�
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

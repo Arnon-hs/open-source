@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 277 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend
+Automation · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -75,7 +75,7 @@ zebbern/no-cost-ai：zebbern/no-cost-ai helps remove repetitive manual operation
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

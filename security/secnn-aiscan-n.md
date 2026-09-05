@@ -1,6 +1,6 @@
 # SecNN/AiScan-N
 
-[![Stars](https://img.shields.io/github/stars/SecNN/AiScan-N?style=flat-square&color=yellow)](https://github.com/SecNN/AiScan-N/stargazers) [![Forks](https://img.shields.io/github/forks/SecNN/AiScan-N?style=flat-square&color=blue)](https://github.com/SecNN/AiScan-N/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SecNN/AiScan-N?style=flat-square&color=yellow)](https://github.com/SecNN/AiScan-N/stargazers) [![Forks](https://img.shields.io/github/forks/SecNN/AiScan-N?style=flat-square&color=blue)](https://github.com/SecNN/AiScan-N/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AiScan-N 来了！这是一款基于人工智能驱动的Ai自动化网络安全（运维）工具，专注于网络安全评估、漏洞扫描、运维、应急响应、渗透测试自动化，Ai大模型工具集【CLI Agent】 ，Ai驱动的安全检测技术，提升安全测试（运维）效率，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密码破解与暴力攻击、流量分析与威胁检测、APT攻击模拟、漏洞赏金挑战等场景）🎥演示视频（文章中）：https://mp.weixin.qq.com/s/7lsUdbrxkDy4P5pZhEWv7Q
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ SecNN/AiScan-N 的生产可用性很高，因为它有活跃的维护者，最�
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

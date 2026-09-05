@@ -1,6 +1,6 @@
 # ipverse/as-ip-blocks
 
-[![Stars](https://img.shields.io/github/stars/ipverse/as-ip-blocks?style=flat-square&color=yellow)](https://github.com/ipverse/as-ip-blocks/stargazers) [![Forks](https://img.shields.io/github/forks/ipverse/as-ip-blocks?style=flat-square&color=blue)](https://github.com/ipverse/as-ip-blocks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipverse/as-ip-blocks?style=flat-square&color=yellow)](https://github.com/ipverse/as-ip-blocks/stargazers) [![Forks](https://img.shields.io/github/forks/ipverse/as-ip-blocks?style=flat-square&color=blue)](https://github.com/ipverse/as-ip-blocks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Download IP block lists by ASN - network provider addresses, updated daily
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Networking
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ ipverse/as‑ip‑blocks — это open‑source‑утилита, автом
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

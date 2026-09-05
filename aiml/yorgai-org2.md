@@ -1,6 +1,6 @@
 # yorgai/ORG2
 
-[![Stars](https://img.shields.io/github/stars/yorgai/ORG2?style=flat-square&color=yellow)](https://github.com/yorgai/ORG2/stargazers) [![Forks](https://img.shields.io/github/forks/yorgai/ORG2?style=flat-square&color=blue)](https://github.com/yorgai/ORG2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yorgai/ORG2?style=flat-square&color=yellow)](https://github.com/yorgai/ORG2/stargazers) [![Forks](https://img.shields.io/github/forks/yorgai/ORG2?style=flat-square&color=blue)](https://github.com/yorgai/ORG2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Cursor-style agent IDE — but built for reviewability and control. Built-in rust harness; supports 10+ CLIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 930 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ yorgai/ORG2：yorgai/ORG2 helps add AI capability without starting from a blank 
 | forks | 45/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

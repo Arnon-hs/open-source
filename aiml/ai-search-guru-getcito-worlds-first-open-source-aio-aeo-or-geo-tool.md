@@ -1,6 +1,6 @@
 # ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool
 
-[![Stars](https://img.shields.io/github/stars/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool?style=flat-square&color=yellow)](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool/stargazers) [![Forks](https://img.shields.io/github/forks/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool?style=flat-square&color=blue)](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool?style=flat-square&color=yellow)](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool/stargazers) [![Forks](https://img.shields.io/github/forks/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool?style=flat-square&color=blue)](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > GetCito the World's First & Only Open Source AI Search Optimization (AIO) / Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO) Tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ GetCito的生产可用性为高，原因包括：
 | forks | 40/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

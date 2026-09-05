@@ -1,6 +1,6 @@
 # bestruirui/octopus
 
-[![Stars](https://img.shields.io/github/stars/bestruirui/octopus?style=flat-square&color=yellow)](https://github.com/bestruirui/octopus/stargazers) [![Forks](https://img.shields.io/github/forks/bestruirui/octopus?style=flat-square&color=blue)](https://github.com/bestruirui/octopus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bestruirui/octopus?style=flat-square&color=yellow)](https://github.com/bestruirui/octopus/stargazers) [![Forks](https://img.shields.io/github/forks/bestruirui/octopus?style=flat-square&color=blue)](https://github.com/bestruirui/octopus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ bestruirui/octopus 是一个面向个人开发者的 LLM API 聚合平台，提�
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

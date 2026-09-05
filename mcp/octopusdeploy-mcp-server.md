@@ -1,6 +1,6 @@
 # OctopusDeploy/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/OctopusDeploy/mcp-server?style=flat-square&color=yellow)](https://github.com/OctopusDeploy/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/OctopusDeploy/mcp-server?style=flat-square&color=blue)](https://github.com/OctopusDeploy/mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OctopusDeploy/mcp-server?style=flat-square&color=yellow)](https://github.com/OctopusDeploy/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/OctopusDeploy/mcp-server?style=flat-square&color=blue)](https://github.com/OctopusDeploy/mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Octopus Deploy Official MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ OctopusDeploy 的 **mcp-server** 是官方实现的 Model Context Protocol
 | forks | 27/100 |
 | stars | 42/100 |
 | topics | 38/100 |
-| outlook | 42/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

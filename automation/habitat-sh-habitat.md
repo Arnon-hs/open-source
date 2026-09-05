@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -78,6 +78,7 @@ habitat-sh/habitat：habitat-sh/habitat helps remove repetitive manual operation
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

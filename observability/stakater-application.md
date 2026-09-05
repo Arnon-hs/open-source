@@ -1,6 +1,6 @@
 # stakater/application
 
-[![Stars](https://img.shields.io/github/stars/stakater/application?style=flat-square&color=yellow)](https://github.com/stakater/application/stargazers) [![Forks](https://img.shields.io/github/forks/stakater/application?style=flat-square&color=blue)](https://github.com/stakater/application/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stakater/application?style=flat-square&color=yellow)](https://github.com/stakater/application/stargazers) [![Forks](https://img.shields.io/github/forks/stakater/application?style=flat-square&color=blue)](https://github.com/stakater/application/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Generic Helm chart for deploying stateless applications on Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Overall, stakater/application offers a high‑confidence, low‑effort way to au
 | forks | 52/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

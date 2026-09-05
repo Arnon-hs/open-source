@@ -1,6 +1,6 @@
 # Koenkk/zigbee2mqtt
 
-[![Stars](https://img.shields.io/github/stars/Koenkk/zigbee2mqtt?style=flat-square&color=yellow)](https://github.com/Koenkk/zigbee2mqtt/stargazers) [![Forks](https://img.shields.io/github/forks/Koenkk/zigbee2mqtt?style=flat-square&color=blue)](https://github.com/Koenkk/zigbee2mqtt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Koenkk/zigbee2mqtt?style=flat-square&color=yellow)](https://github.com/Koenkk/zigbee2mqtt/stargazers) [![Forks](https://img.shields.io/github/forks/Koenkk/zigbee2mqtt?style=flat-square&color=blue)](https://github.com/Koenkk/zigbee2mqtt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.4k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Koenkk/zigbee2mqtt 是一个开源项目，用于将 Zigbee 设备连接到 MQTT
 | forks | 82/100 |
 | stars | 89/100 |
 | topics | 13/100 |
-| outlook | 62/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

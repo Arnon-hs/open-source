@@ -1,6 +1,6 @@
 # daydreamsai/lucid-agents
 
-[![Stars](https://img.shields.io/github/stars/daydreamsai/lucid-agents?style=flat-square&color=yellow)](https://github.com/daydreamsai/lucid-agents/stargazers) [![Forks](https://img.shields.io/github/forks/daydreamsai/lucid-agents?style=flat-square&color=blue)](https://github.com/daydreamsai/lucid-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daydreamsai/lucid-agents?style=flat-square&color=yellow)](https://github.com/daydreamsai/lucid-agents/stargazers) [![Forks](https://img.shields.io/github/forks/daydreamsai/lucid-agents?style=flat-square&color=blue)](https://github.com/daydreamsai/lucid-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in agentic commerce supply chains. Our protocol agnostic SDK provides CLI-generated templates and drop-in adapters for Hono, Express, Next.js, and TanStack, giving you instant access to crypto/fiat payment rails (AP2, A2A, x402, ERC8004).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Crypto · Payments · MCP
+Templates · Crypto · Payments · MCP · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ daydreamsai/lucid-agents 是一个协议无关的 AI Agent 商务 SDK，能够�
 | forks | 47/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

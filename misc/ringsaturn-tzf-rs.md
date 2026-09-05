@@ -1,6 +1,6 @@
 # ringsaturn/tzf-rs
 
-[![Stars](https://img.shields.io/github/stars/ringsaturn/tzf-rs?style=flat-square&color=yellow)](https://github.com/ringsaturn/tzf-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ringsaturn/tzf-rs?style=flat-square&color=blue)](https://github.com/ringsaturn/tzf-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ringsaturn/tzf-rs?style=flat-square&color=yellow)](https://github.com/ringsaturn/tzf-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ringsaturn/tzf-rs?style=flat-square&color=blue)](https://github.com/ringsaturn/tzf-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Get timezone via longitude&latitude in Rust in a fast way
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ tzf-rs 在生产环境中具有中等可用性。它适合用于开发中，特�
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 51/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Data
+Crypto · AI/ML · Networking · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ block-mesh/block-mesh-monorepo：block-mesh/block-mesh-monorepo helps prototype 
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

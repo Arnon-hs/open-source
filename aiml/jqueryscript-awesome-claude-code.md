@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ awesome-claude-code — это открытый каталог, собираю
 
 ### 中文
 
-jqueryscript/awesome-claude-code：jqueryscript/awesome-claude-code helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jqueryscript/awesome-claude-code：jqueryscript/awesome-claude-code helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** jqueryscript/awesome-claude-code helps add AI capability without starting from a blank model stack.
+**Value:** jqueryscript/awesome-claude-code helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,17 +64,18 @@ jqueryscript/awesome-claude-code：jqueryscript/awesome-claude-code helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 61/100 |
-| adoption | 56/100 |
-| stars | 54/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

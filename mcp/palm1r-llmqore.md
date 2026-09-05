@@ -1,6 +1,6 @@
 # Palm1r/llmqore
 
-[![Stars](https://img.shields.io/github/stars/Palm1r/llmqore?style=flat-square&color=yellow)](https://github.com/Palm1r/llmqore/stargazers) [![Forks](https://img.shields.io/github/forks/Palm1r/llmqore?style=flat-square&color=blue)](https://github.com/Palm1r/llmqore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Palm1r/llmqore?style=flat-square&color=yellow)](https://github.com/Palm1r/llmqore/stargazers) [![Forks](https://img.shields.io/github/forks/Palm1r/llmqore?style=flat-square&color=blue)](https://github.com/Palm1r/llmqore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Qt C++ library for working with AI/LLM Providers and MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Palm1r/llmqore 是一个基于 Qt/C++ 的开源库，提供统一的 Model Conte
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

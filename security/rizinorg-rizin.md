@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 559 |
 | 💻 **Language** | C |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier 
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # opengeos/geoai
 
-[![Stars](https://img.shields.io/github/stars/opengeos/geoai?style=flat-square&color=yellow)](https://github.com/opengeos/geoai/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/geoai?style=flat-square&color=blue)](https://github.com/opengeos/geoai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opengeos/geoai?style=flat-square&color=yellow)](https://github.com/opengeos/geoai/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/geoai?style=flat-square&color=blue)](https://github.com/opengeos/geoai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > GeoAI: Artificial Intelligence for Geospatial Data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 455 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ GeoAI（opengeos/geoai）是一个面向地理空间数据的人工智能工具�
 | forks | 66/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

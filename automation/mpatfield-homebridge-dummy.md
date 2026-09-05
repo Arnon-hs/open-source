@@ -1,6 +1,6 @@
 # mpatfield/homebridge-dummy
 
-[![Stars](https://img.shields.io/github/stars/mpatfield/homebridge-dummy?style=flat-square&color=yellow)](https://github.com/mpatfield/homebridge-dummy/stargazers) [![Forks](https://img.shields.io/github/forks/mpatfield/homebridge-dummy?style=flat-square&color=blue)](https://github.com/mpatfield/homebridge-dummy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpatfield/homebridge-dummy?style=flat-square&color=yellow)](https://github.com/mpatfield/homebridge-dummy/stargazers) [![Forks](https://img.shields.io/github/forks/mpatfield/homebridge-dummy?style=flat-square&color=blue)](https://github.com/mpatfield/homebridge-dummy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Homebridge accessories to help with advanced automation and control — scheduling, delays, push notifications, commands, webhooks, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ mpatfield/homebridge-dummy 的生产可用性为中等。虽然它是一个有�
 | forks | 49/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

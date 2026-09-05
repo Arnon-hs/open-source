@@ -1,6 +1,6 @@
 # libretro/RetroArch
 
-[![Stars](https://img.shields.io/github/stars/libretro/RetroArch?style=flat-square&color=yellow)](https://github.com/libretro/RetroArch/stargazers) [![Forks](https://img.shields.io/github/forks/libretro/RetroArch?style=flat-square&color=blue)](https://github.com/libretro/RetroArch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libretro/RetroArch?style=flat-square&color=yellow)](https://github.com/libretro/RetroArch/stargazers) [![Forks](https://img.shields.io/github/forks/libretro/RetroArch?style=flat-square&color=blue)](https://github.com/libretro/RetroArch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.3k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ RetroArch 是跨平台的 libretro 前端，提供功能丰富且可定制的 UI
 | forks | 83/100 |
 | stars | 88/100 |
 | topics | 38/100 |
-| outlook | 61/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

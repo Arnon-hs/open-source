@@ -1,6 +1,6 @@
 # tinylog-org/tinylog
 
-[![Stars](https://img.shields.io/github/stars/tinylog-org/tinylog?style=flat-square&color=yellow)](https://github.com/tinylog-org/tinylog/stargazers) [![Forks](https://img.shields.io/github/forks/tinylog-org/tinylog?style=flat-square&color=blue)](https://github.com/tinylog-org/tinylog/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinylog-org/tinylog?style=flat-square&color=yellow)](https://github.com/tinylog-org/tinylog/stargazers) [![Forks](https://img.shields.io/github/forks/tinylog-org/tinylog?style=flat-square&color=blue)](https://github.com/tinylog-org/tinylog/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 771 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ tinylog 的生产可用性为中等（Medium），它适合用在 prototyping �
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

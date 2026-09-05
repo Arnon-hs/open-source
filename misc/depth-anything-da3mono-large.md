@@ -1,6 +1,6 @@
 # depth-anything/DA3MONO-LARGE
 
-[![Stars](https://img.shields.io/github/stars/depth-anything/DA3MONO-LARGE?style=flat-square&color=yellow)](https://huggingface.co/depth-anything/DA3MONO-LARGE/stargazers) [![Forks](https://img.shields.io/github/forks/depth-anything/DA3MONO-LARGE?style=flat-square&color=blue)](https://huggingface.co/depth-anything/DA3MONO-LARGE/network) [![Language](https://img.shields.io/badge/lang-depth-anything-3-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/depth-anything/DA3MONO-LARGE?style=flat-square&color=yellow)](https://huggingface.co/depth-anything/DA3MONO-LARGE/stargazers) [![Forks](https://img.shields.io/github/forks/depth-anything/DA3MONO-LARGE?style=flat-square&color=blue)](https://huggingface.co/depth-anything/DA3MONO-LARGE/network) [![Language](https://img.shields.io/badge/lang-depth-anything-3-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Depth estimation (depth-estimation) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | depth-anything-3 |
-| 📈 **Score** | 33/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ depth-anything/DA3MONO-LARGE 的价值在于它可能有助于深度估计任务
 | forks | 0/100 |
 | stars | 25/100 |
 | topics | 38/100 |
-| outlook | 31/100 |
-| quality | 29/100 |
-| recency | 20/100 |
+| outlook | 52/100 |
+| quality | 44/100 |
+| recency | 80/100 |
 | adoption | 18/100 |
-| production | 34/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

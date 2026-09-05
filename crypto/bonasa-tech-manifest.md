@@ -1,6 +1,6 @@
 # Bonasa-Tech/manifest
 
-[![Stars](https://img.shields.io/github/stars/Bonasa-Tech/manifest?style=flat-square&color=yellow)](https://github.com/Bonasa-Tech/manifest/stargazers) [![Forks](https://img.shields.io/github/forks/Bonasa-Tech/manifest?style=flat-square&color=blue)](https://github.com/Bonasa-Tech/manifest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bonasa-Tech/manifest?style=flat-square&color=yellow)](https://github.com/Bonasa-Tech/manifest/stargazers) [![Forks](https://img.shields.io/github/forks/Bonasa-Tech/manifest?style=flat-square&color=blue)](https://github.com/Bonasa-Tech/manifest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Spot CLOB on Solana
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Bonasa‑Tech/manifest 是在 Solana 上实现的 Spot CLOB（中心化订单簿
 | forks | 44/100 |
 | stars | 46/100 |
 | topics | 38/100 |
-| outlook | 40/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

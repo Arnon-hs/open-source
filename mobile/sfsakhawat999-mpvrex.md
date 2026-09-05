@@ -1,6 +1,6 @@
 # sfsakhawat999/mpvRex
 
-[![Stars](https://img.shields.io/github/stars/sfsakhawat999/mpvRex?style=flat-square&color=yellow)](https://github.com/sfsakhawat999/mpvRex/stargazers) [![Forks](https://img.shields.io/github/forks/sfsakhawat999/mpvRex?style=flat-square&color=blue)](https://github.com/sfsakhawat999/mpvRex/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sfsakhawat999/mpvRex?style=flat-square&color=yellow)](https://github.com/sfsakhawat999/mpvRex/stargazers) [![Forks](https://img.shields.io/github/forks/sfsakhawat999/mpvRex?style=flat-square&color=blue)](https://github.com/sfsakhawat999/mpvRex/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A modern Android video player powered by libmpv, built with Jetpack Compose.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ sfsakhawat999/mpvRex 在生产环境中有中等的可用性。它适合用于�
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

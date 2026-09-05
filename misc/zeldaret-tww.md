@@ -1,6 +1,6 @@
 # zeldaret/tww
 
-[![Stars](https://img.shields.io/github/stars/zeldaret/tww?style=flat-square&color=yellow)](https://github.com/zeldaret/tww/stargazers) [![Forks](https://img.shields.io/github/forks/zeldaret/tww?style=flat-square&color=blue)](https://github.com/zeldaret/tww/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeldaret/tww?style=flat-square&color=yellow)](https://github.com/zeldaret/tww/stargazers) [![Forks](https://img.shields.io/github/forks/zeldaret/tww?style=flat-square&color=blue)](https://github.com/zeldaret/tww/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Decompilation of The Legend of Zelda: The Wind Waker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 844 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ zeldaret/tww 在原型验证、技术研究和内部工具链中具有中等到�
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

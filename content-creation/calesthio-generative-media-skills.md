@@ -1,6 +1,6 @@
 # calesthio/generative-media-skills
 
-[![Stars](https://img.shields.io/github/stars/calesthio/generative-media-skills?style=flat-square&color=yellow)](https://github.com/calesthio/generative-media-skills/stargazers) [![Forks](https://img.shields.io/github/forks/calesthio/generative-media-skills?style=flat-square&color=blue)](https://github.com/calesthio/generative-media-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calesthio/generative-media-skills?style=flat-square&color=yellow)](https://github.com/calesthio/generative-media-skills/stargazers) [![Forks](https://img.shields.io/github/forks/calesthio/generative-media-skills?style=flat-square&color=blue)](https://github.com/calesthio/generative-media-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ calesthio/generative‑media‑skills 是一套基于研究的智能体技能与
 | forks | 23/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

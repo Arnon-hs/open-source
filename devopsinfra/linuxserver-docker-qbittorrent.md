@@ -1,6 +1,6 @@
 # linuxserver/docker-qbittorrent
 
-[![Stars](https://img.shields.io/github/stars/linuxserver/docker-qbittorrent?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-qbittorrent/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-qbittorrent?style=flat-square&color=blue)](https://github.com/linuxserver/docker-qbittorrent/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linuxserver/docker-qbittorrent?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-qbittorrent/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-qbittorrent?style=flat-square&color=blue)](https://github.com/linuxserver/docker-qbittorrent/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ LinuxServer/Docker-QBittorrent 的生产可用性为中等（Medium）。它适�
 | forks | 58/100 |
 | stars | 69/100 |
 | topics | 13/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

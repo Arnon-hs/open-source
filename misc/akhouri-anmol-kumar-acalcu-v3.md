@@ -1,6 +1,6 @@
 # Akhouri-Anmol-Kumar/ACALCU-v3
 
-[![Stars](https://img.shields.io/github/stars/Akhouri-Anmol-Kumar/ACALCU-v3?style=flat-square&color=yellow)](https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3/stargazers) [![Forks](https://img.shields.io/github/forks/Akhouri-Anmol-Kumar/ACALCU-v3?style=flat-square&color=blue)](https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Akhouri-Anmol-Kumar/ACALCU-v3?style=flat-square&color=yellow)](https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3/stargazers) [![Forks](https://img.shields.io/github/forks/Akhouri-Anmol-Kumar/ACALCU-v3?style=flat-square&color=blue)](https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > World's most customizable calculator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ Akhouri-Anmol-Kumar/ACALCU-v3: . Use it for Misc.
 
 ### Русский
 
-Akhouri-Anmol-Kumar/ACALCU-v3: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Akhouri-Anmol-Kumar/ACALCU-v3: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ Akhouri-Anmol-Kumar/ACALCU-v3：。适合用于Misc。
 | forks | 0/100 |
 | stars | 13/100 |
 | topics | 0/100 |
-| outlook | 32/100 |
-| quality | 25/100 |
-| recency | 40/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 100/100 |
 | adoption | 9/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # kdcokenny/opencode-worktree
 
-[![Stars](https://img.shields.io/github/stars/kdcokenny/opencode-worktree?style=flat-square&color=yellow)](https://github.com/kdcokenny/opencode-worktree/stargazers) [![Forks](https://img.shields.io/github/forks/kdcokenny/opencode-worktree?style=flat-square&color=blue)](https://github.com/kdcokenny/opencode-worktree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kdcokenny/opencode-worktree?style=flat-square&color=yellow)](https://github.com/kdcokenny/opencode-worktree/stargazers) [![Forks](https://img.shields.io/github/forks/kdcokenny/opencode-worktree?style=flat-square&color=blue)](https://github.com/kdcokenny/opencode-worktree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-friction git worktrees for OpenCode. Auto-spawns terminals, syncs files, cleans up on exit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ kdcokenny/opencode‑worktree 为 OpenCode 提供“零摩擦” Git worktree 
 | forks | 35/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

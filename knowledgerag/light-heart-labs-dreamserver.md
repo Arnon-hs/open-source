@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · DevOps/Infra
+Knowledge/RAG · Automation · AI/ML · Communication · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Light-Heart-Labs/DreamServer：Light-Heart-Labs/DreamServer helps make internal 
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

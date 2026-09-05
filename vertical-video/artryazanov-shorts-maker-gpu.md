@@ -1,6 +1,6 @@
 # artryazanov/shorts-maker-gpu
 
-[![Stars](https://img.shields.io/github/stars/artryazanov/shorts-maker-gpu?style=flat-square&color=yellow)](https://github.com/artryazanov/shorts-maker-gpu/stargazers) [![Forks](https://img.shields.io/github/forks/artryazanov/shorts-maker-gpu?style=flat-square&color=blue)](https://github.com/artryazanov/shorts-maker-gpu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artryazanov/shorts-maker-gpu?style=flat-square&color=yellow)](https://github.com/artryazanov/shorts-maker-gpu/stargazers) [![Forks](https://img.shields.io/github/forks/artryazanov/shorts-maker-gpu?style=flat-square&color=blue)](https://github.com/artryazanov/shorts-maker-gpu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Shorts Maker generates vertical video clips from longer gameplay footage. This Python library and CLI tool detects scenes, computes audio and video action profiles (sound intensity + visual motion), and combines them to rank scenes by overall intensity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ artryazanov/shorts-maker-gpu：artryazanov/shorts-maker-gpu helps automate short
 | forks | 15/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 60/100 |
-| recency | 80/100 |
+| outlook | 66/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

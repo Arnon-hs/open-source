@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Security
+Automation · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -98,7 +98,7 @@ Rudder 的生产可用性为中等（Medium）。它适合用于原型或内部�
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nathancorvussolis/corvusskk
 
-[![Stars](https://img.shields.io/github/stars/nathancorvussolis/corvusskk?style=flat-square&color=yellow)](https://github.com/nathancorvussolis/corvusskk/stargazers) [![Forks](https://img.shields.io/github/forks/nathancorvussolis/corvusskk?style=flat-square&color=blue)](https://github.com/nathancorvussolis/corvusskk/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nathancorvussolis/corvusskk?style=flat-square&color=yellow)](https://github.com/nathancorvussolis/corvusskk/stargazers) [![Forks](https://img.shields.io/github/forks/nathancorvussolis/corvusskk?style=flat-square&color=blue)](https://github.com/nathancorvussolis/corvusskk/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ▽▼ SKK-like Japanese Input Method Editor for Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ nathancorvussolis/corvusskk 是一个开源的SKK-like日本输入法编辑器�
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

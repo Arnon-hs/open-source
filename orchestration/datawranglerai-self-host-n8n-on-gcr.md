@@ -1,6 +1,6 @@
 # datawranglerai/self-host-n8n-on-gcr
 
-[![Stars](https://img.shields.io/github/stars/datawranglerai/self-host-n8n-on-gcr?style=flat-square&color=yellow)](https://github.com/datawranglerai/self-host-n8n-on-gcr/stargazers) [![Forks](https://img.shields.io/github/forks/datawranglerai/self-host-n8n-on-gcr?style=flat-square&color=blue)](https://github.com/datawranglerai/self-host-n8n-on-gcr/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawranglerai/self-host-n8n-on-gcr?style=flat-square&color=yellow)](https://github.com/datawranglerai/self-host-n8n-on-gcr/stargazers) [![Forks](https://img.shields.io/github/forks/datawranglerai/self-host-n8n-on-gcr?style=flat-square&color=blue)](https://github.com/datawranglerai/self-host-n8n-on-gcr/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Self-host n8n on Google Cloud without the subscription fees or server headaches - because your automation workflows shouldn't cost more than your coffee budget
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 600 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Payments · Automation · AI/ML · Database
+Orchestration · Payments · Automation · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -137,11 +137,11 @@ datawranglerai/self-host-n8n-on-gcr 让你在 Google Cloud Run（GCR）上自托
 | forks | 53/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

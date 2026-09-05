@@ -1,6 +1,6 @@
 # yuqie6/ProductFlow
 
-[![Stars](https://img.shields.io/github/stars/yuqie6/ProductFlow?style=flat-square&color=yellow)](https://github.com/yuqie6/ProductFlow/stargazers) [![Forks](https://img.shields.io/github/forks/yuqie6/ProductFlow?style=flat-square&color=blue)](https://github.com/yuqie6/ProductFlow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuqie6/ProductFlow?style=flat-square&color=yellow)](https://github.com/yuqie6/ProductFlow/stargazers) [![Forks](https://img.shields.io/github/forks/yuqie6/ProductFlow?style=flat-square&color=blue)](https://github.com/yuqie6/ProductFlow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > gpt-image-2 画图工作台 / Self-hosted workbench for AI copy, posters, image sessions, and visual product workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 279 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ yuqie6/ProductFlow 的生产可用性很高，主要原因是：
 | forks | 45/100 |
 | stars | 52/100 |
 | topics | 88/100 |
-| outlook | 63/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

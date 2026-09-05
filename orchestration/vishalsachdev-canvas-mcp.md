@@ -1,6 +1,6 @@
 # vishalsachdev/canvas-mcp
 
-[![Stars](https://img.shields.io/github/stars/vishalsachdev/canvas-mcp?style=flat-square&color=yellow)](https://github.com/vishalsachdev/canvas-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/vishalsachdev/canvas-mcp?style=flat-square&color=blue)](https://github.com/vishalsachdev/canvas-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vishalsachdev/canvas-mcp?style=flat-square&color=yellow)](https://github.com/vishalsachdev/canvas-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/vishalsachdev/canvas-mcp?style=flat-square&color=blue)](https://github.com/vishalsachdev/canvas-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Canvas LMS MCP server — 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ vishalsachdev/canvas-mcp 是一款针对 Canvas LMS 的多代理协同平台（M
 | forks | 42/100 |
 | stars | 47/100 |
 | topics | 25/100 |
-| outlook | 56/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

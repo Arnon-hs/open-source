@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ getkyo/kyo：getkyo/kyo may be useful when its README and activity match a concr
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

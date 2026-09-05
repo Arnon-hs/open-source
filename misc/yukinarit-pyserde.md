@@ -1,6 +1,6 @@
 # yukinarit/pyserde
 
-[![Stars](https://img.shields.io/github/stars/yukinarit/pyserde?style=flat-square&color=yellow)](https://github.com/yukinarit/pyserde/stargazers) [![Forks](https://img.shields.io/github/forks/yukinarit/pyserde?style=flat-square&color=blue)](https://github.com/yukinarit/pyserde/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yukinarit/pyserde?style=flat-square&color=yellow)](https://github.com/yukinarit/pyserde/stargazers) [![Forks](https://img.shields.io/github/forks/yukinarit/pyserde?style=flat-square&color=blue)](https://github.com/yukinarit/pyserde/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another serialization library on top of dataclasses, inspired by serde-rs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 851 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ msg2 = Message.from_json(json_str)  # 反序列化
 | forks | 45/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

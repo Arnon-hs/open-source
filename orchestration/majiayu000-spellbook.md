@@ -1,6 +1,6 @@
 # majiayu000/spellbook
 
-[![Stars](https://img.shields.io/github/stars/majiayu000/spellbook?style=flat-square&color=yellow)](https://github.com/majiayu000/spellbook/stargazers) [![Forks](https://img.shields.io/github/forks/majiayu000/spellbook?style=flat-square&color=blue)](https://github.com/majiayu000/spellbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/majiayu000/spellbook?style=flat-square&color=yellow)](https://github.com/majiayu000/spellbook/stargazers) [![Forks](https://img.shields.io/github/forks/majiayu000/spellbook?style=flat-square&color=blue)](https://github.com/majiayu000/spellbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools
+Orchestration · Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ majiayu000/spellbook 是一个用于 Claude Code、Codex 以及多智能体工�
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

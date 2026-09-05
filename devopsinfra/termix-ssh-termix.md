@@ -1,6 +1,6 @@
 # Termix-SSH/Termix
 
-[![Stars](https://img.shields.io/github/stars/Termix-SSH/Termix?style=flat-square&color=yellow)](https://github.com/Termix-SSH/Termix/stargazers) [![Forks](https://img.shields.io/github/forks/Termix-SSH/Termix?style=flat-square&color=blue)](https://github.com/Termix-SSH/Termix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Termix-SSH/Termix?style=flat-square&color=yellow)](https://github.com/Termix-SSH/Termix/stargazers) [![Forks](https://img.shields.io/github/forks/Termix-SSH/Termix?style=flat-square&color=blue)](https://github.com/Termix-SSH/Termix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.6k |
 | 🍴 **Forks** | 512 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Termix 是一款基于浏览器的服务器管理平台，内置 SSH 终端、�
 | forks | 68/100 |
 | stars | 87/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 68/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

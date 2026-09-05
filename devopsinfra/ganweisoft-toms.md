@@ -1,6 +1,6 @@
 # ganweisoft/TOMs
 
-[![Stars](https://img.shields.io/github/stars/ganweisoft/TOMs?style=flat-square&color=yellow)](https://github.com/ganweisoft/TOMs/stargazers) [![Forks](https://img.shields.io/github/forks/ganweisoft/TOMs?style=flat-square&color=blue)](https://github.com/ganweisoft/TOMs/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ganweisoft/TOMs?style=flat-square&color=yellow)](https://github.com/ganweisoft/TOMs/stargazers) [![Forks](https://img.shields.io/github/forks/ganweisoft/TOMs?style=flat-square&color=blue)](https://github.com/ganweisoft/TOMs/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > TOMs is a fully open-source, high-performance, systematic, plugin-oriented, and scenario-agnostic general-purpose development framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 480 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ TOMs 的生产可用性评分为高，原因包括：
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 70/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

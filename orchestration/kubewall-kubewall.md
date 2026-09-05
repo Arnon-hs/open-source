@@ -1,6 +1,6 @@
 # kubewall/kubewall
 
-[![Stars](https://img.shields.io/github/stars/kubewall/kubewall?style=flat-square&color=yellow)](https://github.com/kubewall/kubewall/stargazers) [![Forks](https://img.shields.io/github/forks/kubewall/kubewall?style=flat-square&color=blue)](https://github.com/kubewall/kubewall/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubewall/kubewall?style=flat-square&color=yellow)](https://github.com/kubewall/kubewall/stargazers) [![Forks](https://img.shields.io/github/forks/kubewall/kubewall?style=flat-square&color=blue)](https://github.com/kubewall/kubewall/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools · Observability
+Orchestration · AI/ML · Cloud & Storage · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -136,11 +136,11 @@ kubewall 是一款 **单二进制** 的 Kubernetes Dashboard，内置多集群�
 | forks | 49/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

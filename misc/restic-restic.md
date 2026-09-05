@@ -1,6 +1,6 @@
 # restic/restic
 
-[![Stars](https://img.shields.io/github/stars/restic/restic?style=flat-square&color=yellow)](https://github.com/restic/restic/stargazers) [![Forks](https://img.shields.io/github/forks/restic/restic?style=flat-square&color=blue)](https://github.com/restic/restic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/restic/restic?style=flat-square&color=yellow)](https://github.com/restic/restic/stargazers) [![Forks](https://img.shields.io/github/forks/restic/restic?style=flat-square&color=blue)](https://github.com/restic/restic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, secure, efficient backup program
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34.7k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ restic 的生产可用性较高，主要原因是其最近的活动、广泛的�
 | forks | 81/100 |
 | stars | 97/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

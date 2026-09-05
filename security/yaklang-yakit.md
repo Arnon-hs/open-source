@@ -1,6 +1,6 @@
 # yaklang/yakit
 
-[![Stars](https://img.shields.io/github/stars/yaklang/yakit?style=flat-square&color=yellow)](https://github.com/yaklang/yakit/stargazers) [![Forks](https://img.shields.io/github/forks/yaklang/yakit?style=flat-square&color=blue)](https://github.com/yaklang/yakit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaklang/yakit?style=flat-square&color=yellow)](https://github.com/yaklang/yakit/stargazers) [![Forks](https://img.shields.io/github/forks/yaklang/yakit?style=flat-square&color=blue)](https://github.com/yaklang/yakit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Cyber Security ALL-IN-ONE Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 817 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ yaklang/yakit 的生产可用性很高，主要原因是：
 | forks | 73/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

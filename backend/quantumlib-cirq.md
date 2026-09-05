@@ -1,6 +1,6 @@
 # quantumlib/Cirq
 
-[![Stars](https://img.shields.io/github/stars/quantumlib/Cirq?style=flat-square&color=yellow)](https://github.com/quantumlib/Cirq/stargazers) [![Forks](https://img.shields.io/github/forks/quantumlib/Cirq?style=flat-square&color=blue)](https://github.com/quantumlib/Cirq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quantumlib/Cirq?style=flat-square&color=yellow)](https://github.com/quantumlib/Cirq/stargazers) [![Forks](https://img.shields.io/github/forks/quantumlib/Cirq?style=flat-square&color=blue)](https://github.com/quantumlib/Cirq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ quantumlib/Cirq 是一个基于 Python 的框架，用于创建、编辑和运�
 | forks | 77/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 67/100 |
+| production | 80/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jfrog/frogbot
 
-[![Stars](https://img.shields.io/github/stars/jfrog/frogbot?style=flat-square&color=yellow)](https://github.com/jfrog/frogbot/stargazers) [![Forks](https://img.shields.io/github/forks/jfrog/frogbot?style=flat-square&color=blue)](https://github.com/jfrog/frogbot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jfrog/frogbot?style=flat-square&color=yellow)](https://github.com/jfrog/frogbot/stargazers) [![Forks](https://img.shields.io/github/forks/jfrog/frogbot?style=flat-square&color=blue)](https://github.com/jfrog/frogbot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🐸 Scans your Git repository with JFrog Xray & JFrog advanced security for security vulnerabilities. 🤖
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ jfrog/frogbot 的生产可用性是较高的。它有近 370 个 GitHub Star，1
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

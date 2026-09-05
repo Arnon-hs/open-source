@@ -1,6 +1,6 @@
 # sammy-ette/Hilbish
 
-[![Stars](https://img.shields.io/github/stars/sammy-ette/Hilbish?style=flat-square&color=yellow)](https://github.com/sammy-ette/Hilbish/stargazers) [![Forks](https://img.shields.io/github/forks/sammy-ette/Hilbish?style=flat-square&color=blue)](https://github.com/sammy-ette/Hilbish/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sammy-ette/Hilbish?style=flat-square&color=yellow)](https://github.com/sammy-ette/Hilbish/stargazers) [![Forks](https://img.shields.io/github/forks/sammy-ette/Hilbish?style=flat-square&color=blue)](https://github.com/sammy-ette/Hilbish/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 563 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ sammy-ette/Hilbish 是一款基于 Lua 配置的跨平台（Unix/Windows）高�
 | forks | 34/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | minimax-h3 |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ larryvrh/MiniMax-H3-Turbo-Lora：larryvrh/MiniMax-H3-Turbo-Lora helps creators r
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

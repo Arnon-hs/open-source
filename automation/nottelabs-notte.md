@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevOps/Infra
+Automation · AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ nottelabs/notte：nottelabs/notte helps remove repetitive manual operations from
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

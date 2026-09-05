@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 8.4k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database
+AI/ML · Cloud & Storage · Data · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ ClickHouse/ClickHouse：ClickHouse/ClickHouse helps add AI capability without st
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

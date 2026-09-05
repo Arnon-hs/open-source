@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML · Cloud & Storage · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ GoogleCloudPlatform/generative-ai：GoogleCloudPlatform/generative-ai helps turn
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

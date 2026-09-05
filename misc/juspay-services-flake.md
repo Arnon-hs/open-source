@@ -1,6 +1,6 @@
 # juspay/services-flake
 
-[![Stars](https://img.shields.io/github/stars/juspay/services-flake?style=flat-square&color=yellow)](https://github.com/juspay/services-flake/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/services-flake?style=flat-square&color=blue)](https://github.com/juspay/services-flake/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juspay/services-flake?style=flat-square&color=yellow)](https://github.com/juspay/services-flake/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/services-flake?style=flat-square&color=blue)](https://github.com/juspay/services-flake/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ juspay/services-flake 提供类似 NixOS 的服务抽
 | forks | 46/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

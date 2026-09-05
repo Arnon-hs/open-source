@@ -1,6 +1,6 @@
 # xuzhougeng/wispterm
 
-[![Stars](https://img.shields.io/github/stars/xuzhougeng/wispterm?style=flat-square&color=yellow)](https://github.com/xuzhougeng/wispterm/stargazers) [![Forks](https://img.shields.io/github/forks/xuzhougeng/wispterm?style=flat-square&color=blue)](https://github.com/xuzhougeng/wispterm/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xuzhougeng/wispterm?style=flat-square&color=yellow)](https://github.com/xuzhougeng/wispterm/stargazers) [![Forks](https://img.shields.io/github/forks/xuzhougeng/wispterm?style=flat-square&color=blue)](https://github.com/xuzhougeng/wispterm/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform terminal workspace for remote development and AI agent workflows, powered by libghostty-vt
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ xuzhougeng/wispterm 是一个跨平台终端工作空间，基于 libghostty‑v
 | forks | 31/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

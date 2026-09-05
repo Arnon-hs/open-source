@@ -1,6 +1,6 @@
 # Tencent/tdesign-vue-next
 
-[![Stars](https://img.shields.io/github/stars/Tencent/tdesign-vue-next?style=flat-square&color=yellow)](https://github.com/Tencent/tdesign-vue-next/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/tdesign-vue-next?style=flat-square&color=blue)](https://github.com/Tencent/tdesign-vue-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/tdesign-vue-next?style=flat-square&color=yellow)](https://github.com/Tencent/tdesign-vue-next/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/tdesign-vue-next?style=flat-square&color=blue)](https://github.com/Tencent/tdesign-vue-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A Vue3.x UI components lib for TDesign.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 604 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Tencent/tdesign-vue-next 是基于 Vue 3.x 的 UI 组件库，提供一套完�
 | forks | 70/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 50/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

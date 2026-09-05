@@ -1,6 +1,6 @@
 # boommanpro/gaia-workflow-engine
 
-[![Stars](https://img.shields.io/github/stars/boommanpro/gaia-workflow-engine?style=flat-square&color=yellow)](https://github.com/boommanpro/gaia-workflow-engine/stargazers) [![Forks](https://img.shields.io/github/forks/boommanpro/gaia-workflow-engine?style=flat-square&color=blue)](https://github.com/boommanpro/gaia-workflow-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boommanpro/gaia-workflow-engine?style=flat-square&color=yellow)](https://github.com/boommanpro/gaia-workflow-engine/stargazers) [![Forks](https://img.shields.io/github/forks/boommanpro/gaia-workflow-engine?style=flat-square&color=blue)](https://github.com/boommanpro/gaia-workflow-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 一个现代化的可视化规则引擎平台，用于编排复杂的 AI 工作流。在无限画布上设计、测试和部署 AI 流程——无需编写代码。结合 flowgram.ai 的能力与 Java 服务端，提供生产级工作流管理。在此之上提供AI Agent / Copilot的助手编排能力。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Gaia Workflow Engine 的生产可用性为中等（Medium）。它适合用于
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 64/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # huanchong-99/SoloDawn
 
-[![Stars](https://img.shields.io/github/stars/huanchong-99/SoloDawn?style=flat-square&color=yellow)](https://github.com/huanchong-99/SoloDawn/stargazers) [![Forks](https://img.shields.io/github/forks/huanchong-99/SoloDawn?style=flat-square&color=blue)](https://github.com/huanchong-99/SoloDawn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huanchong-99/SoloDawn?style=flat-square&color=yellow)](https://github.com/huanchong-99/SoloDawn/stargazers) [![Forks](https://img.shields.io/github/forks/huanchong-99/SoloDawn?style=flat-square&color=blue)](https://github.com/huanchong-99/SoloDawn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > GitCortex delivers production-grade software directly from social media conversations. It actively resolves ambiguity, architects solutions, and orchestrates multiple AI coding agents (Claude Code, Gemini CLI, Codex, etc.) in parallel with built-in three-layer quality gates. No IDE, no terminal, no manual intervention.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ SoloDawn（huanchong-99/SoloDawn）是基于 GitCortex 的 AI 编码平台，能
 | forks | 28/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

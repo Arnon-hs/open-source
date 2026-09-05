@@ -1,6 +1,6 @@
 # opena2a-org/damn-vulnerable-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/opena2a-org/damn-vulnerable-ai-agent?style=flat-square&color=yellow)](https://github.com/opena2a-org/damn-vulnerable-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/opena2a-org/damn-vulnerable-ai-agent?style=flat-square&color=blue)](https://github.com/opena2a-org/damn-vulnerable-ai-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opena2a-org/damn-vulnerable-ai-agent?style=flat-square&color=yellow)](https://github.com/opena2a-org/damn-vulnerable-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/opena2a-org/damn-vulnerable-ai-agent?style=flat-square&color=blue)](https://github.com/opena2a-org/damn-vulnerable-ai-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Damn Vulnerable AI Agent is a deliberately vulnerable AI agent platform for security testing and education.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Damn Vulnerable AI Agent（open​a2a‑org/damn‑vulnerable‑ai‑agent）是
 | forks | 34/100 |
 | stars | 37/100 |
 | topics | 13/100 |
-| outlook | 49/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

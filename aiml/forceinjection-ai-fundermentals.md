@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ForceInjection/AI-fundermentals：ForceInjection/AI-fundermentals helps add AI c
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

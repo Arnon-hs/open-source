@@ -1,6 +1,6 @@
 # amekala/ads-mcp
 
-[![Stars](https://img.shields.io/github/stars/amekala/ads-mcp?style=flat-square&color=yellow)](https://github.com/amekala/ads-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/amekala/ads-mcp?style=flat-square&color=blue)](https://github.com/amekala/ads-mcp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amekala/ads-mcp?style=flat-square&color=yellow)](https://github.com/amekala/ads-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/amekala/ads-mcp?style=flat-square&color=blue)](https://github.com/amekala/ads-mcp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for managing ad campaigns across Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. 100+ tools for campaign creation, performance analysis, keyword research, and budget optimization. Works with ChatGPT, Claude, Gemini CLI, Cursor, Codex, and Windsurf.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ amekala/ads-mcp 是一款 MCP（Model Context Protocol）服务器，统一管�
 | forks | 27/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # eikek/docspell
 
-[![Stars](https://img.shields.io/github/stars/eikek/docspell?style=flat-square&color=yellow)](https://github.com/eikek/docspell/stargazers) [![Forks](https://img.shields.io/github/forks/eikek/docspell?style=flat-square&color=blue)](https://github.com/eikek/docspell/network) [![Language](https://img.shields.io/badge/lang-Elm-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eikek/docspell?style=flat-square&color=yellow)](https://github.com/eikek/docspell/stargazers) [![Forks](https://img.shields.io/github/forks/eikek/docspell?style=flat-square&color=blue)](https://github.com/eikek/docspell/network) [![Language](https://img.shields.io/badge/lang-Elm-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Elm |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ eikek/docspell 是一个开源的文档管理工具，能够快速为扫描件�
 | forks | 56/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

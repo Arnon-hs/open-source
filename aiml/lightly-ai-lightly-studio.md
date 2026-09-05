@@ -1,6 +1,6 @@
 # lightly-ai/lightly-studio
 
-[![Stars](https://img.shields.io/github/stars/lightly-ai/lightly-studio?style=flat-square&color=yellow)](https://github.com/lightly-ai/lightly-studio/stargazers) [![Forks](https://img.shields.io/github/forks/lightly-ai/lightly-studio?style=flat-square&color=blue)](https://github.com/lightly-ai/lightly-studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightly-ai/lightly-studio?style=flat-square&color=yellow)](https://github.com/lightly-ai/lightly-studio/stargazers) [![Forks](https://img.shields.io/github/forks/lightly-ai/lightly-studio?style=flat-square&color=blue)](https://github.com/lightly-ai/lightly-studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Curate, Annotate, and Manage Your Data in LightlyStudio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 849 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ LightlyStudio（`lightly-ai/lightly-studio`）是一款基于 Python 的开源�
 | forks | 36/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

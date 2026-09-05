@@ -1,6 +1,6 @@
 # qiu7824/zsclip
 
-[![Stars](https://img.shields.io/github/stars/qiu7824/zsclip?style=flat-square&color=yellow)](https://github.com/qiu7824/zsclip/stargazers) [![Forks](https://img.shields.io/github/forks/qiu7824/zsclip?style=flat-square&color=blue)](https://github.com/qiu7824/zsclip/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qiu7824/zsclip?style=flat-square&color=yellow)](https://github.com/qiu7824/zsclip/stargazers) [![Forks](https://img.shields.io/github/forks/qiu7824/zsclip?style=flat-square&color=blue)](https://github.com/qiu7824/zsclip/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 系统ui 的轻量级 Rust 剪贴板管理器
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ zsclip is a lightweight, Rust‑based clipboard manager designed specifically fo
 | forks | 21/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

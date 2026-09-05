@@ -1,6 +1,6 @@
 # Yakitrak/notesmd-cli
 
-[![Stars](https://img.shields.io/github/stars/Yakitrak/notesmd-cli?style=flat-square&color=yellow)](https://github.com/Yakitrak/notesmd-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Yakitrak/notesmd-cli?style=flat-square&color=blue)](https://github.com/Yakitrak/notesmd-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yakitrak/notesmd-cli?style=flat-square&color=yellow)](https://github.com/Yakitrak/notesmd-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Yakitrak/notesmd-cli?style=flat-square&color=blue)](https://github.com/Yakitrak/notesmd-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Obsidian CLI (Community) -  Interact with Obsidian in the terminal!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Yakitrak/notesmd-cli 是一款基于 Go 实现的 Obsidian 命令行工具，能
 | forks | 45/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

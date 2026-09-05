@@ -1,6 +1,6 @@
 # UditAkhourii/cdaf
 
-[![Stars](https://img.shields.io/github/stars/UditAkhourii/cdaf?style=flat-square&color=yellow)](https://github.com/UditAkhourii/cdaf/stargazers) [![Forks](https://img.shields.io/github/forks/UditAkhourii/cdaf?style=flat-square&color=blue)](https://github.com/UditAkhourii/cdaf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UditAkhourii/cdaf?style=flat-square&color=yellow)](https://github.com/UditAkhourii/cdaf/stargazers) [![Forks](https://img.shields.io/github/forks/UditAkhourii/cdaf?style=flat-square&color=blue)](https://github.com/UditAkhourii/cdaf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ CDAF（Cached Descriptive Asset Files）通过缓存元数据简化视频工作�
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

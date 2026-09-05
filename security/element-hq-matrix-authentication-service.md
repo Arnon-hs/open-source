@@ -1,6 +1,6 @@
 # element-hq/matrix-authentication-service
 
-[![Stars](https://img.shields.io/github/stars/element-hq/matrix-authentication-service?style=flat-square&color=yellow)](https://github.com/element-hq/matrix-authentication-service/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/matrix-authentication-service?style=flat-square&color=blue)](https://github.com/element-hq/matrix-authentication-service/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/element-hq/matrix-authentication-service?style=flat-square&color=yellow)](https://github.com/element-hq/matrix-authentication-service/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/matrix-authentication-service?style=flat-square&color=blue)](https://github.com/element-hq/matrix-authentication-service/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ element‑hq 的 *matrix‑authentication‑service* 是用 Rust 编写的身份
 | forks | 50/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

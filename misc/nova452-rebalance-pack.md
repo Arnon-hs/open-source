@@ -1,6 +1,6 @@
 # nova452/Rebalance-Pack
 
-[![Stars](https://img.shields.io/github/stars/nova452/Rebalance-Pack?style=flat-square&color=yellow)](https://github.com/nova452/Rebalance-Pack/stargazers) [![Forks](https://img.shields.io/github/forks/nova452/Rebalance-Pack?style=flat-square&color=blue)](https://github.com/nova452/Rebalance-Pack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nova452/Rebalance-Pack?style=flat-square&color=yellow)](https://github.com/nova452/Rebalance-Pack/stargazers) [![Forks](https://img.shields.io/github/forks/nova452/Rebalance-Pack?style=flat-square&color=blue)](https://github.com/nova452/Rebalance-Pack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A set of evolving nodes that streamline the best use practices in ComfyUI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Rebalance-Pack的生产可用性为中等（Medium）。它适合用于快速 pr
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

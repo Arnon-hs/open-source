@@ -1,6 +1,6 @@
 # napi-rs/node-rs
 
-[![Stars](https://img.shields.io/github/stars/napi-rs/node-rs?style=flat-square&color=yellow)](https://github.com/napi-rs/node-rs/stargazers) [![Forks](https://img.shields.io/github/forks/napi-rs/node-rs?style=flat-square&color=blue)](https://github.com/napi-rs/node-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/napi-rs/node-rs?style=flat-square&color=yellow)](https://github.com/napi-rs/node-rs/stargazers) [![Forks](https://img.shields.io/github/forks/napi-rs/node-rs?style=flat-square&color=blue)](https://github.com/napi-rs/node-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js bindings ❤️ Rust crates
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ napi‑rs / node‑rs 为 Rust 编写的库提供了高效、类型安全的 Nod
 | forks | 42/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

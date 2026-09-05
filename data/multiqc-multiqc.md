@@ -1,6 +1,6 @@
 # MultiQC/MultiQC
 
-[![Stars](https://img.shields.io/github/stars/MultiQC/MultiQC?style=flat-square&color=yellow)](https://github.com/MultiQC/MultiQC/stargazers) [![Forks](https://img.shields.io/github/forks/MultiQC/MultiQC?style=flat-square&color=blue)](https://github.com/MultiQC/MultiQC/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MultiQC/MultiQC?style=flat-square&color=yellow)](https://github.com/MultiQC/MultiQC/stargazers) [![Forks](https://img.shields.io/github/forks/MultiQC/MultiQC?style=flat-square&color=blue)](https://github.com/MultiQC/MultiQC/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Aggregate results from bioinformatics analyses across many samples into a single report.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 663 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ MultiQC 是一款开源工具，能够把跨样本的生物信息学分析结果
 | forks | 71/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

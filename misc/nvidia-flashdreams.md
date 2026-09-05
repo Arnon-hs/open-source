@@ -1,6 +1,6 @@
 # NVIDIA/flashdreams
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/flashdreams?style=flat-square&color=yellow)](https://github.com/NVIDIA/flashdreams/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/flashdreams?style=flat-square&color=blue)](https://github.com/NVIDIA/flashdreams/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/flashdreams?style=flat-square&color=yellow)](https://github.com/NVIDIA/flashdreams/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/flashdreams?style=flat-square&color=blue)](https://github.com/NVIDIA/flashdreams/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > high-performance inference and serving library for interactive autoregressive video and world models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ NVIDIA/flashdreams 是一套面向交互式自回归视频和世界模型的高�
 | forks | 36/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

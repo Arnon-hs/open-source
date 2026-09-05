@@ -1,6 +1,6 @@
 # yangbobo2021/Relay
 
-[![Stars](https://img.shields.io/github/stars/yangbobo2021/Relay?style=flat-square&color=yellow)](https://github.com/yangbobo2021/Relay/stargazers) [![Forks](https://img.shields.io/github/forks/yangbobo2021/Relay?style=flat-square&color=blue)](https://github.com/yangbobo2021/Relay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yangbobo2021/Relay?style=flat-square&color=yellow)](https://github.com/yangbobo2021/Relay/stargazers) [![Forks](https://img.shields.io/github/forks/yangbobo2021/Relay?style=flat-square&color=blue)](https://github.com/yangbobo2021/Relay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Relay is an event-driven agent runtime for long-running, resumable work. It replaces polling with notification-based callbacks, wakes the right session from external events, compresses context with task-aware memory, and dispatches subtasks into project-scoped agent sessions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ yangbobo2021/Relay：yangbobo2021/Relay helps add AI capability without starting
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 88/100 |
-| outlook | 62/100 |
-| quality | 49/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 44/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 62/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

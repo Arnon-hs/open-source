@@ -1,6 +1,6 @@
 # offendingcommit/openconcho
 
-[![Stars](https://img.shields.io/github/stars/offendingcommit/openconcho?style=flat-square&color=yellow)](https://github.com/offendingcommit/openconcho/stargazers) [![Forks](https://img.shields.io/github/forks/offendingcommit/openconcho?style=flat-square&color=blue)](https://github.com/offendingcommit/openconcho/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/offendingcommit/openconcho?style=flat-square&color=yellow)](https://github.com/offendingcommit/openconcho/stargazers) [![Forks](https://img.shields.io/github/forks/offendingcommit/openconcho?style=flat-square&color=blue)](https://github.com/offendingcommit/openconcho/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, privacy-first desktop & web UI for self-hosted Honcho — browse memories, peers, sessions, conclusions, and chat with memory context.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Communication · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -92,15 +92,15 @@ offendingcommit/openconcho 帮助用户在不从零开始的模型堆栈的情�
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vernu/vps-audit
 
-[![Stars](https://img.shields.io/github/stars/vernu/vps-audit?style=flat-square&color=yellow)](https://github.com/vernu/vps-audit/stargazers) [![Forks](https://img.shields.io/github/forks/vernu/vps-audit?style=flat-square&color=blue)](https://github.com/vernu/vps-audit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vernu/vps-audit?style=flat-square&color=yellow)](https://github.com/vernu/vps-audit/stargazers) [![Forks](https://img.shields.io/github/forks/vernu/vps-audit?style=flat-square&color=blue)](https://github.com/vernu/vps-audit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Observability · Security
+Backend · Observability · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -92,15 +92,15 @@ vernu/vps-audit 在生产环境中具有较高的可用性，主要原因是其�
 | forks | 59/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zapier/connectors
 
-[![Stars](https://img.shields.io/github/stars/zapier/connectors?style=flat-square&color=yellow)](https://github.com/zapier/connectors/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/connectors?style=flat-square&color=blue)](https://github.com/zapier/connectors/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zapier/connectors?style=flat-square&color=yellow)](https://github.com/zapier/connectors/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/connectors?style=flat-square&color=blue)](https://github.com/zapier/connectors/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Connect your agent to the apps you already use - with or without Zapier.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Zapier Connectors 的生产可用性较高，主要原因是：
 | forks | 0/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

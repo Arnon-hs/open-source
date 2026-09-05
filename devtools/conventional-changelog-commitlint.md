@@ -1,6 +1,6 @@
 # conventional-changelog/commitlint
 
-[![Stars](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=flat-square&color=yellow)](https://github.com/conventional-changelog/commitlint/stargazers) [![Forks](https://img.shields.io/github/forks/conventional-changelog/commitlint?style=flat-square&color=blue)](https://github.com/conventional-changelog/commitlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=flat-square&color=yellow)](https://github.com/conventional-changelog/commitlint/stargazers) [![Forks](https://img.shields.io/github/forks/conventional-changelog/commitlint?style=flat-square&color=blue)](https://github.com/conventional-changelog/commitlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 📓 Lint commit messages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.5k |
 | 🍴 **Forks** | 965 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,11 +132,11 @@ conventional‑changelog/commitlint is a TypeScript‑based linter that enforces
 | forks | 75/100 |
 | stars | 91/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

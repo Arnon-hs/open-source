@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 462 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Frontend
+Templates · Documents · Frontend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ pdfme/pdfme：pdfme/pdfme helps teams reuse working workflows and production pre
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

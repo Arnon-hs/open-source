@@ -1,6 +1,6 @@
 # arkohut/pensieve
 
-[![Stars](https://img.shields.io/github/stars/arkohut/pensieve?style=flat-square&color=yellow)](https://github.com/arkohut/pensieve/stargazers) [![Forks](https://img.shields.io/github/forks/arkohut/pensieve?style=flat-square&color=blue)](https://github.com/arkohut/pensieve/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arkohut/pensieve?style=flat-square&color=yellow)](https://github.com/arkohut/pensieve/stargazers) [![Forks](https://img.shields.io/github/forks/arkohut/pensieve?style=flat-square&color=blue)](https://github.com/arkohut/pensieve/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ arkohut/pensieve 是一个被动式录屏工具，能够自动截取所有屏幕
 | forks | 45/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

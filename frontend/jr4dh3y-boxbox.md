@@ -1,6 +1,6 @@
 # jR4dh3y/BoxBox
 
-[![Stars](https://img.shields.io/github/stars/jR4dh3y/BoxBox?style=flat-square&color=yellow)](https://github.com/jR4dh3y/BoxBox/stargazers) [![Forks](https://img.shields.io/github/forks/jR4dh3y/BoxBox?style=flat-square&color=blue)](https://github.com/jR4dh3y/BoxBox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jR4dh3y/BoxBox?style=flat-square&color=yellow)](https://github.com/jR4dh3y/BoxBox/stargazers) [![Forks](https://img.shields.io/github/forks/jR4dh3y/BoxBox?style=flat-square&color=blue)](https://github.com/jR4dh3y/BoxBox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, self-hosted file manager for your homelab. Built in SvelteKit & Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ jR4dh3y/BoxBox 是一款基于 SvelteKit 与 Go 的现代化自托管文件管�
 | forks | 19/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

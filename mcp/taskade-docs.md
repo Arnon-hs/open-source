@@ -1,6 +1,6 @@
 # taskade/docs
 
-[![Stars](https://img.shields.io/github/stars/taskade/docs?style=flat-square&color=yellow)](https://github.com/taskade/docs/stargazers) [![Forks](https://img.shields.io/github/forks/taskade/docs?style=flat-square&color=blue)](https://github.com/taskade/docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taskade/docs?style=flat-square&color=yellow)](https://github.com/taskade/docs/stargazers) [![Forks](https://img.shields.io/github/forks/taskade/docs?style=flat-square&color=blue)](https://github.com/taskade/docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Official documentation for Taskade — build apps, deploy AI agents & automate workflows on the AI-native platform. REST & Action APIs, MCP server, Genesis. Source for docs.taskade.com — typos & gaps welcome via issues/PRs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
@@ -110,11 +110,11 @@ Taskade/docs is the open‑source repository that powers the official documentat
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

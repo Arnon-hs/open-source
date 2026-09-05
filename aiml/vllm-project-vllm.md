@@ -1,6 +1,6 @@
 # vllm-project/vllm
 
-[![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&color=yellow)](https://github.com/vllm-project/vllm/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/vllm?style=flat-square&color=blue)](https://github.com/vllm-project/vllm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&color=yellow)](https://github.com/vllm-project/vllm/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/vllm?style=flat-square&color=blue)](https://github.com/vllm-project/vllm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A high-throughput and memory-efficient inference and serving engine for LLMs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83.6k |
 | 🍴 **Forks** | 18.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ vllm-project/vllm：vllm-project/vllm helps add AI capability without starting f
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 85/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 95/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

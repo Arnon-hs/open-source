@@ -1,6 +1,6 @@
 # box/boxcli
 
-[![Stars](https://img.shields.io/github/stars/box/boxcli?style=flat-square&color=yellow)](https://github.com/box/boxcli/stargazers) [![Forks](https://img.shields.io/github/forks/box/boxcli?style=flat-square&color=blue)](https://github.com/box/boxcli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/box/boxcli?style=flat-square&color=yellow)](https://github.com/box/boxcli/stargazers) [![Forks](https://img.shields.io/github/forks/box/boxcli?style=flat-square&color=blue)](https://github.com/box/boxcli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A command line interface for interacting with the Box API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ box/boxcli 的生产可用性为中等（Medium）。它适合用于原型或内
 | forks | 46/100 |
 | stars | 52/100 |
 | topics | 25/100 |
-| outlook | 61/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

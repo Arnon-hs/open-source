@@ -1,6 +1,6 @@
 # CESNET/UltraGrid
 
-[![Stars](https://img.shields.io/github/stars/CESNET/UltraGrid?style=flat-square&color=yellow)](https://github.com/CESNET/UltraGrid/stargazers) [![Forks](https://img.shields.io/github/forks/CESNET/UltraGrid?style=flat-square&color=blue)](https://github.com/CESNET/UltraGrid/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CESNET/UltraGrid?style=flat-square&color=yellow)](https://github.com/CESNET/UltraGrid/stargazers) [![Forks](https://img.shields.io/github/forks/CESNET/UltraGrid?style=flat-square&color=blue)](https://github.com/CESNET/UltraGrid/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > UltraGrid low-latency audio and video network transmission system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ UltraGrid 是由 CESNET 开发的低延迟音视频网络传输系统，基于 C
 | forks | 47/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

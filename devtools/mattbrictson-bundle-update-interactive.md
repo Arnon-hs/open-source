@@ -1,6 +1,6 @@
 # mattbrictson/bundle_update_interactive
 
-[![Stars](https://img.shields.io/github/stars/mattbrictson/bundle_update_interactive?style=flat-square&color=yellow)](https://github.com/mattbrictson/bundle_update_interactive/stargazers) [![Forks](https://img.shields.io/github/forks/mattbrictson/bundle_update_interactive?style=flat-square&color=blue)](https://github.com/mattbrictson/bundle_update_interactive/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattbrictson/bundle_update_interactive?style=flat-square&color=yellow)](https://github.com/mattbrictson/bundle_update_interactive/stargazers) [![Forks](https://img.shields.io/github/forks/mattbrictson/bundle_update_interactive?style=flat-square&color=blue)](https://github.com/mattbrictson/bundle_update_interactive/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A stylish interactive mode for Bundler, inspired by `yarn upgrade-interactive`
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ mattbrictson/bundle_update_interactive 是一个基于 Bundler 的交互式模�
 | forks | 21/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

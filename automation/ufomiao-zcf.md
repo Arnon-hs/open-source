@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 418 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ UfoMiao/zcf：UfoMiao/zcf helps remove repetitive manual operations from a workf
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

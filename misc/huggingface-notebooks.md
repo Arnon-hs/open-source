@@ -1,6 +1,6 @@
 # huggingface/notebooks
 
-[![Stars](https://img.shields.io/github/stars/huggingface/notebooks?style=flat-square&color=yellow)](https://github.com/huggingface/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/notebooks?style=flat-square&color=blue)](https://github.com/huggingface/notebooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/notebooks?style=flat-square&color=yellow)](https://github.com/huggingface/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/notebooks?style=flat-square&color=blue)](https://github.com/huggingface/notebooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Notebooks using the Hugging Face libraries 🤗
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ huggingface/notebooks 的生产可用性为中等（Medium）。它适合用于 
 | forks | 82/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

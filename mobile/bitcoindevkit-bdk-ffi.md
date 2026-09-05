@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ bitcoindevkit/bdk-ffi：bitcoindevkit/bdk-ffi may be useful when its README and 
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # oxc-project/tsgolint
 
-[![Stars](https://img.shields.io/github/stars/oxc-project/tsgolint?style=flat-square&color=yellow)](https://github.com/oxc-project/tsgolint/stargazers) [![Forks](https://img.shields.io/github/forks/oxc-project/tsgolint?style=flat-square&color=blue)](https://github.com/oxc-project/tsgolint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxc-project/tsgolint?style=flat-square&color=yellow)](https://github.com/oxc-project/tsgolint/stargazers) [![Forks](https://img.shields.io/github/forks/oxc-project/tsgolint?style=flat-square&color=blue)](https://github.com/oxc-project/tsgolint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Type aware linting for oxlint
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ oxc-project/tsgolint 的主要价值在于：
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

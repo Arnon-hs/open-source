@@ -1,6 +1,6 @@
 # AnxForever/stylekit
 
-[![Stars](https://img.shields.io/github/stars/AnxForever/stylekit?style=flat-square&color=yellow)](https://github.com/AnxForever/stylekit/stargazers) [![Forks](https://img.shields.io/github/forks/AnxForever/stylekit?style=flat-square&color=blue)](https://github.com/AnxForever/stylekit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnxForever/stylekit?style=flat-square&color=yellow)](https://github.com/AnxForever/stylekit/stargazers) [![Forks](https://img.shields.io/github/forks/AnxForever/stylekit?style=flat-square&color=blue)](https://github.com/AnxForever/stylekit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 精选优质 Web 设计风格，提供文档、组件模板、代码片段， 以及可直接导出的 AI Rules。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ AnxForever/stylekit的生产可用性为中等，适用于原型开发、内部�
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

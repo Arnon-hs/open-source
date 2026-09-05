@@ -1,6 +1,6 @@
 # ihciah/small-map
 
-[![Stars](https://img.shields.io/github/stars/ihciah/small-map?style=flat-square&color=yellow)](https://github.com/ihciah/small-map/stargazers) [![Forks](https://img.shields.io/github/forks/ihciah/small-map?style=flat-square&color=blue)](https://github.com/ihciah/small-map/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ihciah/small-map?style=flat-square&color=yellow)](https://github.com/ihciah/small-map/stargazers) [![Forks](https://img.shields.io/github/forks/ihciah/small-map?style=flat-square&color=blue)](https://github.com/ihciah/small-map/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An inline SIMD accelerated hashmap designed for small amount of data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ ihciah/small-map 的生产可用性为中等。它适合用于原型开发和内
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

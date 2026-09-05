@@ -1,6 +1,6 @@
 # josevapriambudi111-cyber/AgenticDeFi-Trainer
 
-[![Stars](https://img.shields.io/github/stars/josevapriambudi111-cyber/AgenticDeFi-Trainer?style=flat-square&color=yellow)](https://github.com/josevapriambudi111-cyber/AgenticDeFi-Trainer/stargazers) [![Forks](https://img.shields.io/github/forks/josevapriambudi111-cyber/AgenticDeFi-Trainer?style=flat-square&color=blue)](https://github.com/josevapriambudi111-cyber/AgenticDeFi-Trainer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/josevapriambudi111-cyber/AgenticDeFi-Trainer?style=flat-square&color=yellow)](https://github.com/josevapriambudi111-cyber/AgenticDeFi-Trainer/stargazers) [![Forks](https://img.shields.io/github/forks/josevapriambudi111-cyber/AgenticDeFi-Trainer?style=flat-square&color=blue)](https://github.com/josevapriambudi111-cyber/AgenticDeFi-Trainer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi toolkit for 2026.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ AgenticDeFi‑Trainer 为 LLM 驱动的自治智能体提供了完整的 Swarm �
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

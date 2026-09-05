@@ -1,6 +1,6 @@
 # DanWahlin/ai-agent-board
 
-[![Stars](https://img.shields.io/github/stars/DanWahlin/ai-agent-board?style=flat-square&color=yellow)](https://github.com/DanWahlin/ai-agent-board/stargazers) [![Forks](https://img.shields.io/github/forks/DanWahlin/ai-agent-board?style=flat-square&color=blue)](https://github.com/DanWahlin/ai-agent-board/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DanWahlin/ai-agent-board?style=flat-square&color=yellow)](https://github.com/DanWahlin/ai-agent-board/stargazers) [![Forks](https://img.shields.io/github/forks/DanWahlin/ai-agent-board?style=flat-square&color=blue)](https://github.com/DanWahlin/ai-agent-board/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Drag-and-drop Kanban board that delegates coding tasks to AI agents — GitHub Copilot, Claude Code, OpenAI Codex, and OpenCode — with real-time streaming, task groups, and git worktree isolation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ DanWahlin/ai-agent-board 是一个基于拖拽看板的工具，能够将编码�
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 88/100 |
-| outlook | 66/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

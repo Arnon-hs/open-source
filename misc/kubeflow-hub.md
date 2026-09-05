@@ -1,6 +1,6 @@
 # kubeflow/hub
 
-[![Stars](https://img.shields.io/github/stars/kubeflow/hub?style=flat-square&color=yellow)](https://github.com/kubeflow/hub/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/hub?style=flat-square&color=blue)](https://github.com/kubeflow/hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeflow/hub?style=flat-square&color=yellow)](https://github.com/kubeflow/hub/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/hub?style=flat-square&color=blue)](https://github.com/kubeflow/hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Model Registry provides a single pane of glass for ML model developers to index and manage models, versions, and ML artifacts metadata. It fills a gap between model experimentation and production activities. It provides a central interface for all stakeholders in the MLOps lifecycle to collaborate on ML models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Kubeflow Hub的生产可用性为中等。它适用于内部工作流或原型�
 | forks | 57/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

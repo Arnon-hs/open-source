@@ -1,6 +1,6 @@
 # InternScience/SGI-Bench
 
-[![Stars](https://img.shields.io/github/stars/InternScience/SGI-Bench?style=flat-square&color=yellow)](https://github.com/InternScience/SGI-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/InternScience/SGI-Bench?style=flat-square&color=blue)](https://github.com/InternScience/SGI-Bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InternScience/SGI-Bench?style=flat-square&color=yellow)](https://github.com/InternScience/SGI-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/InternScience/SGI-Bench?style=flat-square&color=blue)](https://github.com/InternScience/SGI-Bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ InternScience/SGI‑Bench 为大模型（LLM）提供了科学家视角的工作
 | forks | 17/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

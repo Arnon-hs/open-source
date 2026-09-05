@@ -1,6 +1,6 @@
 # Eric86777/vps-tcp-tune
 
-[![Stars](https://img.shields.io/github/stars/Eric86777/vps-tcp-tune?style=flat-square&color=yellow)](https://github.com/Eric86777/vps-tcp-tune/stargazers) [![Forks](https://img.shields.io/github/forks/Eric86777/vps-tcp-tune?style=flat-square&color=blue)](https://github.com/Eric86777/vps-tcp-tune/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Eric86777/vps-tcp-tune?style=flat-square&color=yellow)](https://github.com/Eric86777/vps-tcp-tune/stargazers) [![Forks](https://img.shields.io/github/forks/Eric86777/vps-tcp-tune?style=flat-square&color=blue)](https://github.com/Eric86777/vps-tcp-tune/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > BBR3+FQ TCP 网络调优脚本，一键优化 VPS 网络【文档由Claude 4.6 opus编写】
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 716 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Eric86777/vps-tcp-tune 是一个开源项目，提供了 BBR3+FQ TCP 网络调�
 | forks | 53/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

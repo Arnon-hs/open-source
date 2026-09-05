@@ -1,6 +1,6 @@
 # NuGet/NuGet.Client
 
-[![Stars](https://img.shields.io/github/stars/NuGet/NuGet.Client?style=flat-square&color=yellow)](https://github.com/NuGet/NuGet.Client/stargazers) [![Forks](https://img.shields.io/github/forks/NuGet/NuGet.Client?style=flat-square&color=blue)](https://github.com/NuGet/NuGet.Client/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NuGet/NuGet.Client?style=flat-square&color=yellow)](https://github.com/NuGet/NuGet.Client/stargazers) [![Forks](https://img.shields.io/github/forks/NuGet/NuGet.Client?style=flat-square&color=blue)](https://github.com/NuGet/NuGet.Client/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 815 |
 | 🍴 **Forks** | 753 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ NuGet.Client 是 NuGet 官方的客户端工具集合，提供 Visual Studio �
 | forks | 72/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

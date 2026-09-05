@@ -1,6 +1,6 @@
 # akka/akka-persistence-jdbc
 
-[![Stars](https://img.shields.io/github/stars/akka/akka-persistence-jdbc?style=flat-square&color=yellow)](https://github.com/akka/akka-persistence-jdbc/stargazers) [![Forks](https://img.shields.io/github/forks/akka/akka-persistence-jdbc?style=flat-square&color=blue)](https://github.com/akka/akka-persistence-jdbc/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akka/akka-persistence-jdbc?style=flat-square&color=yellow)](https://github.com/akka/akka-persistence-jdbc/stargazers) [![Forks](https://img.shields.io/github/forks/akka/akka-persistence-jdbc?style=flat-square&color=blue)](https://github.com/akka/akka-persistence-jdbc/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Overall, `akka-persistence-jdbc` is a solid choice for prototypes, internal serv
 | forks | 53/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

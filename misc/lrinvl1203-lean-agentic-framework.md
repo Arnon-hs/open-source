@@ -1,6 +1,6 @@
 # Lrinvl1203/lean-agentic-framework
 
-[![Stars](https://img.shields.io/github/stars/Lrinvl1203/lean-agentic-framework?style=flat-square&color=yellow)](https://github.com/Lrinvl1203/lean-agentic-framework/stargazers) [![Forks](https://img.shields.io/github/forks/Lrinvl1203/lean-agentic-framework?style=flat-square&color=blue)](https://github.com/Lrinvl1203/lean-agentic-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lrinvl1203/lean-agentic-framework?style=flat-square&color=yellow)](https://github.com/Lrinvl1203/lean-agentic-framework/stargazers) [![Forks](https://img.shields.io/github/forks/Lrinvl1203/lean-agentic-framework?style=flat-square&color=blue)](https://github.com/Lrinvl1203/lean-agentic-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first Lean improvement framework for agent workflows, governed learning, and meta-Kaizen.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -64,15 +64,15 @@ Lrinvl1203/lean-agentic-framework：Lrinvl1203/lean-agentic-framework may be use
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 66/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 65/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

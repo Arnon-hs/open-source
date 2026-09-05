@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-06 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ Kotlin/kotlinx-datetime：Kotlin/kotlinx-datetime may be useful when its README 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

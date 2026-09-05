@@ -1,6 +1,6 @@
 # matutetandil/mycel
 
-[![Stars](https://img.shields.io/github/stars/matutetandil/mycel?style=flat-square&color=yellow)](https://github.com/matutetandil/mycel/stargazers) [![Forks](https://img.shields.io/github/forks/matutetandil/mycel?style=flat-square&color=blue)](https://github.com/matutetandil/mycel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matutetandil/mycel?style=flat-square&color=yellow)](https://github.com/matutetandil/mycel/stargazers) [![Forks](https://img.shields.io/github/forks/matutetandil/mycel?style=flat-square&color=blue)](https://github.com/matutetandil/mycel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative microservice runtime — define HCL config, get a production-ready service. REST, GraphQL, gRPC, SOAP, message queues, databases, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ matutetandil/mycel：matutetandil/mycel helps teams reuse service infrastructure
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

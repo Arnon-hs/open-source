@@ -1,6 +1,6 @@
 # webstonehq/tuxedo
 
-[![Stars](https://img.shields.io/github/stars/webstonehq/tuxedo?style=flat-square&color=yellow)](https://github.com/webstonehq/tuxedo/stargazers) [![Forks](https://img.shields.io/github/forks/webstonehq/tuxedo?style=flat-square&color=blue)](https://github.com/webstonehq/tuxedo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webstonehq/tuxedo?style=flat-square&color=yellow)](https://github.com/webstonehq/tuxedo/stargazers) [![Forks](https://img.shields.io/github/forks/webstonehq/tuxedo?style=flat-square&color=blue)](https://github.com/webstonehq/tuxedo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, keyboard-driven terminal UI for todo.txt.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Tuxedo is a fast, keyboard‑driven terminal UI for managing *todo.txt* files, b
 | forks | 43/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

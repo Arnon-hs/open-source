@@ -1,6 +1,6 @@
 # surendranb/google-analytics-mcp
 
-[![Stars](https://img.shields.io/github/stars/surendranb/google-analytics-mcp?style=flat-square&color=yellow)](https://github.com/surendranb/google-analytics-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/surendranb/google-analytics-mcp?style=flat-square&color=blue)](https://github.com/surendranb/google-analytics-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/surendranb/google-analytics-mcp?style=flat-square&color=yellow)](https://github.com/surendranb/google-analytics-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/surendranb/google-analytics-mcp?style=flat-square&color=blue)](https://github.com/surendranb/google-analytics-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Google Analytics 4 data to AI agents, agentic workflows, and MCP clients. Give agents analysis-ready access to website traffic, user behavior, and performance data with schema discovery, server-side aggregation, and safe defaults that reduce data wrangling.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 222 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ surendranb/google-analytics-mcp 将 GA4（Google Analytics 4）中的网站流�
 | forks | 42/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

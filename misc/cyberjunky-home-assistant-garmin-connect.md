@@ -1,6 +1,6 @@
 # cyberjunky/home-assistant-garmin_connect
 
-[![Stars](https://img.shields.io/github/stars/cyberjunky/home-assistant-garmin_connect?style=flat-square&color=yellow)](https://github.com/cyberjunky/home-assistant-garmin_connect/stargazers) [![Forks](https://img.shields.io/github/forks/cyberjunky/home-assistant-garmin_connect?style=flat-square&color=blue)](https://github.com/cyberjunky/home-assistant-garmin_connect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyberjunky/home-assistant-garmin_connect?style=flat-square&color=yellow)](https://github.com/cyberjunky/home-assistant-garmin_connect/stargazers) [![Forks](https://img.shields.io/github/forks/cyberjunky/home-assistant-garmin_connect?style=flat-square&color=blue)](https://github.com/cyberjunky/home-assistant-garmin_connect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > This Garmin Connect integration allows you to expose and upload data from and to Garmin Connect to Home Assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ cyberjunky/home-assistant-garmin_connect 是一个开源项目，允许将 Garmi
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend · Database
 
 ## 📝 Summary
 
@@ -35,17 +35,17 @@ Advanced Alchemy is a high‑quality companion library for SQLAlchemy that strea
 
 ### 中文
 
-litestar-org/advanced-alchemy：litestar-org/advanced-alchemy helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+litestar-org/advanced-alchemy：litestar-org/advanced-alchemy helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** litestar-org/advanced-alchemy helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** litestar-org/advanced-alchemy helps teams persist, query, and move data with less custom plumbing.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- manage persistence
+- speed up data access
+- prototype database-backed apps
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ litestar-org/advanced-alchemy：litestar-org/advanced-alchemy helps teams reuse 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 57/100 |
-| stars | 61/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-04-11 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Mobile
+Frontend · Mobile · Security
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ p32929/AndroidAppLockscreen：p32929/AndroidAppLockscreen helps ship user-facing
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

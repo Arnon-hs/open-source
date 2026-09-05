@@ -1,6 +1,6 @@
 # gookit/gcli
 
-[![Stars](https://img.shields.io/github/stars/gookit/gcli?style=flat-square&color=yellow)](https://github.com/gookit/gcli/stargazers) [![Forks](https://img.shields.io/github/forks/gookit/gcli?style=flat-square&color=blue)](https://github.com/gookit/gcli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gookit/gcli?style=flat-square&color=yellow)](https://github.com/gookit/gcli/stargazers) [![Forks](https://img.shields.io/github/forks/gookit/gcli?style=flat-square&color=blue)](https://github.com/gookit/gcli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🖥 Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. Go的命令行应用，工具库，运行CLI命令，支持命令行色彩，用户交互，进度显示，数据格式化显示，生成bash/zsh命令补全脚本
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 376 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ gookit/gcli 是一套基于 Go 的命令行应用与工具库，提供运行 CLI
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mylinuxforwork/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/mylinuxforwork/dotfiles?style=flat-square&color=yellow)](https://github.com/mylinuxforwork/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/mylinuxforwork/dotfiles?style=flat-square&color=blue)](https://github.com/mylinuxforwork/dotfiles/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mylinuxforwork/dotfiles?style=flat-square&color=yellow)](https://github.com/mylinuxforwork/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/mylinuxforwork/dotfiles?style=flat-square&color=blue)](https://github.com/mylinuxforwork/dotfiles/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app with setup scripts for Arch Linux, Fedora and openSuse.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 358 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ mylinuxforwork/dotfiles 为 Hyprland 动态平铺窗口管理器提供了一套�
 | forks | 64/100 |
 | stars | 78/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

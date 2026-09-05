@@ -1,6 +1,6 @@
 # nikita-volkov/hasql
 
-[![Stars](https://img.shields.io/github/stars/nikita-volkov/hasql?style=flat-square&color=yellow)](https://github.com/nikita-volkov/hasql/stargazers) [![Forks](https://img.shields.io/github/forks/nikita-volkov/hasql?style=flat-square&color=blue)](https://github.com/nikita-volkov/hasql/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikita-volkov/hasql?style=flat-square&color=yellow)](https://github.com/nikita-volkov/hasql/stargazers) [![Forks](https://img.shields.io/github/forks/nikita-volkov/hasql?style=flat-square&color=blue)](https://github.com/nikita-volkov/hasql/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest PostgreSQL libpq-based driver for Haskell
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ nikita‑volkov/hasql 是基于 libpq 的 Haskell PostgreSQL 驱动，号称是�
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

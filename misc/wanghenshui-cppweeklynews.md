@@ -1,6 +1,6 @@
 # wanghenshui/cppweeklynews
 
-[![Stars](https://img.shields.io/github/stars/wanghenshui/cppweeklynews?style=flat-square&color=yellow)](https://github.com/wanghenshui/cppweeklynews/stargazers) [![Forks](https://img.shields.io/github/forks/wanghenshui/cppweeklynews?style=flat-square&color=blue)](https://github.com/wanghenshui/cppweeklynews/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanghenshui/cppweeklynews?style=flat-square&color=yellow)](https://github.com/wanghenshui/cppweeklynews/stargazers) [![Forks](https://img.shields.io/github/forks/wanghenshui/cppweeklynews?style=flat-square&color=blue)](https://github.com/wanghenshui/cppweeklynews/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > c++中文周刊
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | SCSS |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ wanghenshui/cppweeklynews 的生产可用性为中等，适合用于原型或内
 | forks | 37/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 47/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

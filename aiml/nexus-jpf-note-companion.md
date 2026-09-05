@@ -1,6 +1,6 @@
 # Nexus-JPF/note-companion
 
-[![Stars](https://img.shields.io/github/stars/Nexus-JPF/note-companion?style=flat-square&color=yellow)](https://github.com/Nexus-JPF/note-companion/stargazers) [![Forks](https://img.shields.io/github/forks/Nexus-JPF/note-companion?style=flat-square&color=blue)](https://github.com/Nexus-JPF/note-companion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nexus-JPF/note-companion?style=flat-square&color=yellow)](https://github.com/Nexus-JPF/note-companion/stargazers) [![Forks](https://img.shields.io/github/forks/Nexus-JPF/note-companion?style=flat-square&color=blue)](https://github.com/Nexus-JPF/note-companion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Nexus‑JPF/note‑companion 是一款面向 Obsidian 的 AI 助手插件，除�
 | forks | 52/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

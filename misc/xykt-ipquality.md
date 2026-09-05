@@ -1,6 +1,6 @@
 # xykt/IPQuality
 
-[![Stars](https://img.shields.io/github/stars/xykt/IPQuality?style=flat-square&color=yellow)](https://github.com/xykt/IPQuality/stargazers) [![Forks](https://img.shields.io/github/forks/xykt/IPQuality?style=flat-square&color=blue)](https://github.com/xykt/IPQuality/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xykt/IPQuality?style=flat-square&color=yellow)](https://github.com/xykt/IPQuality/stargazers) [![Forks](https://img.shields.io/github/forks/xykt/IPQuality?style=flat-square&color=blue)](https://github.com/xykt/IPQuality/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > IP质量检测脚本 - IP Quality Check Script
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 660 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ xykt/IPQuality 是一款基于 Shell 的 IP 质量检测脚本，可快速判断
 | forks | 71/100 |
 | stars | 84/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

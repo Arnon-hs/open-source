@@ -1,6 +1,6 @@
 # mat-1/metasearch2
 
-[![Stars](https://img.shields.io/github/stars/mat-1/metasearch2?style=flat-square&color=yellow)](https://github.com/mat-1/metasearch2/stargazers) [![Forks](https://img.shields.io/github/forks/mat-1/metasearch2?style=flat-square&color=blue)](https://github.com/mat-1/metasearch2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mat-1/metasearch2?style=flat-square&color=yellow)](https://github.com/mat-1/metasearch2/stargazers) [![Forks](https://img.shields.io/github/forks/mat-1/metasearch2?style=flat-square&color=blue)](https://github.com/mat-1/metasearch2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > a cute metasearch engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ mat-1/metasearch2 是一个用 Rust 编写的轻量级、可爱的元搜索引�
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

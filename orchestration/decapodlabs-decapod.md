@@ -1,6 +1,6 @@
 # DecapodLabs/decapod
 
-[![Stars](https://img.shields.io/github/stars/DecapodLabs/decapod?style=flat-square&color=yellow)](https://github.com/DecapodLabs/decapod/stargazers) [![Forks](https://img.shields.io/github/forks/DecapodLabs/decapod?style=flat-square&color=blue)](https://github.com/DecapodLabs/decapod/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DecapodLabs/decapod?style=flat-square&color=yellow)](https://github.com/DecapodLabs/decapod/stargazers) [![Forks](https://img.shields.io/github/forks/DecapodLabs/decapod?style=flat-square&color=blue)](https://github.com/DecapodLabs/decapod/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across looping agent fleets. 🦀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -126,11 +126,11 @@ DecapodLabs/decapod 是一个基于仓库的治理内核，能够在循环的智
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

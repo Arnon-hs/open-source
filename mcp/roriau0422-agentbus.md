@@ -1,6 +1,6 @@
 # roriau0422/AgentBus
 
-[![Stars](https://img.shields.io/github/stars/roriau0422/AgentBus?style=flat-square&color=yellow)](https://github.com/roriau0422/AgentBus/stargazers) [![Forks](https://img.shields.io/github/forks/roriau0422/AgentBus?style=flat-square&color=blue)](https://github.com/roriau0422/AgentBus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roriau0422/AgentBus?style=flat-square&color=yellow)](https://github.com/roriau0422/AgentBus/stargazers) [![Forks](https://img.shields.io/github/forks/roriau0422/AgentBus?style=flat-square&color=blue)](https://github.com/roriau0422/AgentBus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ Show HN: Agent Bus 的生产可用性为中等。它适合用于原型或内部�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 39/100 |
-| quality | 26/100 |
-| recency | 40/100 |
+| outlook | 53/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 41/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |

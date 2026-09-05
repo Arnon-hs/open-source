@@ -1,6 +1,6 @@
 # algorithmicsuperintelligence/optillm
 
-[![Stars](https://img.shields.io/github/stars/algorithmicsuperintelligence/optillm?style=flat-square&color=yellow)](https://github.com/algorithmicsuperintelligence/optillm/stargazers) [![Forks](https://img.shields.io/github/forks/algorithmicsuperintelligence/optillm?style=flat-square&color=blue)](https://github.com/algorithmicsuperintelligence/optillm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/algorithmicsuperintelligence/optillm?style=flat-square&color=yellow)](https://github.com/algorithmicsuperintelligence/optillm/stargazers) [![Forks](https://img.shields.io/github/forks/algorithmicsuperintelligence/optillm?style=flat-square&color=blue)](https://github.com/algorithmicsuperintelligence/optillm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Optimizing inference proxy for LLMs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Backend
+Orchestration · Automation · AI/ML · Networking · Backend
 
 ## 📝 Summary
 
@@ -94,15 +94,15 @@ algorithmicsuperintelligence/optillm 的生产可用性非常高。该项目有�
 | forks | 64/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

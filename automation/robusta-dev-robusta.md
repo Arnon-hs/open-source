@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 320 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Observability · DevOps/Infra
+Automation · Communication · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -119,7 +119,7 @@ Robusta 的生产可用性很高，主要原因是：
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ karafka/karafka：karafka/karafka helps teams reuse service infrastructure inste
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

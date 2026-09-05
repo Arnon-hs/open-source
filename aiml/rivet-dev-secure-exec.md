@@ -1,6 +1,6 @@
 # rivet-dev/secure-exec
 
-[![Stars](https://img.shields.io/github/stars/rivet-dev/secure-exec?style=flat-square&color=yellow)](https://github.com/rivet-dev/secure-exec/stargazers) [![Forks](https://img.shields.io/github/forks/rivet-dev/secure-exec?style=flat-square&color=blue)](https://github.com/rivet-dev/secure-exec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rivet-dev/secure-exec?style=flat-square&color=yellow)](https://github.com/rivet-dev/secure-exec/stargazers) [![Forks](https://img.shields.io/github/forks/rivet-dev/secure-exec?style=flat-square&color=blue)](https://github.com/rivet-dev/secure-exec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 914 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ rivet‑dev/secure‑exec 是一个轻量级的 Node.js 安全执行库，利用
 | forks | 42/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

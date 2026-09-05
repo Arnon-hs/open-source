@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 744 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Frontend · Observability · DevOps/Infra
+Orchestration · Cloud & Storage · Frontend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ kubernetes-sigs/headlamp：kubernetes-sigs/headlamp helps turn isolated prompts 
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

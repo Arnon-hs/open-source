@@ -1,6 +1,6 @@
 # fluent/fluent-bit
 
-[![Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=flat-square&color=yellow)](https://github.com/fluent/fluent-bit/stargazers) [![Forks](https://img.shields.io/github/forks/fluent/fluent-bit?style=flat-square&color=blue)](https://github.com/fluent/fluent-bit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=flat-square&color=yellow)](https://github.com/fluent/fluent-bit/stargazers) [![Forks](https://img.shields.io/github/forks/fluent/fluent-bit?style=flat-square&color=blue)](https://github.com/fluent/fluent-bit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ fluent/fluent-bit 的生产可用性很高，主要原因是：
 | forks | 82/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

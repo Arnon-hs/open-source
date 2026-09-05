@@ -1,6 +1,6 @@
 # deviffyy/OpenQuota
 
-[![Stars](https://img.shields.io/github/stars/deviffyy/OpenQuota?style=flat-square&color=yellow)](https://github.com/deviffyy/OpenQuota/stargazers) [![Forks](https://img.shields.io/github/forks/deviffyy/OpenQuota?style=flat-square&color=blue)](https://github.com/deviffyy/OpenQuota/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deviffyy/OpenQuota?style=flat-square&color=yellow)](https://github.com/deviffyy/OpenQuota/stargazers) [![Forks](https://img.shields.io/github/forks/deviffyy/OpenQuota?style=flat-square&color=blue)](https://github.com/deviffyy/OpenQuota/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, cross-platform tracker for AI coding usage, limits, reset times, and spend.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ deviffyy/OpenQuota的生产可用性为中等（Medium）。它适合用于快�
 | forks | 27/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

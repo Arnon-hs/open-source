@@ -1,6 +1,6 @@
 # jatinkrmalik/LLMFeeder
 
-[![Stars](https://img.shields.io/github/stars/jatinkrmalik/LLMFeeder?style=flat-square&color=yellow)](https://github.com/jatinkrmalik/LLMFeeder/stargazers) [![Forks](https://img.shields.io/github/forks/jatinkrmalik/LLMFeeder?style=flat-square&color=blue)](https://github.com/jatinkrmalik/LLMFeeder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jatinkrmalik/LLMFeeder?style=flat-square&color=yellow)](https://github.com/jatinkrmalik/LLMFeeder/stargazers) [![Forks](https://img.shields.io/github/forks/jatinkrmalik/LLMFeeder?style=flat-square&color=blue)](https://github.com/jatinkrmalik/LLMFeeder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Documents · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ LLMFeeder具有高生产可用性，因为它有以下特点：
 | forks | 43/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

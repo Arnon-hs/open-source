@@ -1,6 +1,6 @@
 # signalapp/Signal-iOS
 
-[![Stars](https://img.shields.io/github/stars/signalapp/Signal-iOS?style=flat-square&color=yellow)](https://github.com/signalapp/Signal-iOS/stargazers) [![Forks](https://img.shields.io/github/forks/signalapp/Signal-iOS?style=flat-square&color=blue)](https://github.com/signalapp/Signal-iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/signalapp/Signal-iOS?style=flat-square&color=yellow)](https://github.com/signalapp/Signal-iOS/stargazers) [![Forks](https://img.shields.io/github/forks/signalapp/Signal-iOS?style=flat-square&color=blue)](https://github.com/signalapp/Signal-iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A private messenger for iOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.2k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,11 +81,11 @@ Signal-iOS 的生产可用性为中等。它可以用于原型或内部工作流
 | forks | 89/100 |
 | stars | 87/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

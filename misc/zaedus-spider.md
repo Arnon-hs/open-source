@@ -1,6 +1,6 @@
 # Zaedus/spider
 
-[![Stars](https://img.shields.io/github/stars/Zaedus/spider?style=flat-square&color=yellow)](https://github.com/Zaedus/spider/stargazers) [![Forks](https://img.shields.io/github/forks/Zaedus/spider?style=flat-square&color=blue)](https://github.com/Zaedus/spider/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zaedus/spider?style=flat-square&color=yellow)](https://github.com/Zaedus/spider/stargazers) [![Forks](https://img.shields.io/github/forks/Zaedus/spider?style=flat-square&color=blue)](https://github.com/Zaedus/spider/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Install and integrate web apps into the GNOME desktop!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Zaedus/spider 是一个用 Rust 编写的开源工具，旨在将 Web 应用快�
 | forks | 26/100 |
 | stars | 46/100 |
 | topics | 38/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

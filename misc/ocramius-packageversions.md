@@ -1,6 +1,6 @@
 # Ocramius/PackageVersions
 
-[![Stars](https://img.shields.io/github/stars/Ocramius/PackageVersions?style=flat-square&color=yellow)](https://github.com/Ocramius/PackageVersions/stargazers) [![Forks](https://img.shields.io/github/forks/Ocramius/PackageVersions?style=flat-square&color=blue)](https://github.com/Ocramius/PackageVersions/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ocramius/PackageVersions?style=flat-square&color=yellow)](https://github.com/Ocramius/PackageVersions/stargazers) [![Forks](https://img.shields.io/github/forks/Ocramius/PackageVersions?style=flat-square&color=blue)](https://github.com/Ocramius/PackageVersions/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > :package: Composer addon to efficiently get installed packages' version numbers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ Ocramius/PackageVersions：Ocramius/PackageVersions may be useful when its READM
 | forks | 47/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

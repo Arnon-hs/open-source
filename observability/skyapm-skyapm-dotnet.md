@@ -1,6 +1,6 @@
 # SkyAPM/SkyAPM-dotnet
 
-[![Stars](https://img.shields.io/github/stars/SkyAPM/SkyAPM-dotnet?style=flat-square&color=yellow)](https://github.com/SkyAPM/SkyAPM-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/SkyAPM/SkyAPM-dotnet?style=flat-square&color=blue)](https://github.com/SkyAPM/SkyAPM-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SkyAPM/SkyAPM-dotnet?style=flat-square&color=yellow)](https://github.com/SkyAPM/SkyAPM-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/SkyAPM/SkyAPM-dotnet?style=flat-square&color=blue)](https://github.com/SkyAPM/SkyAPM-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The .NET/.NET Core instrument agent for Apache SkyWalking
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 332 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ SkyAPM‑dotnet 是 Apache SkyWalking 官方提供的 .NET/.NET Core 探针代
 | forks | 63/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 291 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,31 +21,29 @@
 
 ## 🎯 Categories
 
-Security · Product
+Security
 
 ## 📝 Summary
 
 ### English
 
-asgardeo/thunder: asgardeo/thunder helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+asgardeo/thunder: asgardeo/thunder may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-asgardeo/thunder: open-source проект в категориях Security, Product. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+asgardeo/thunder: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-asgardeo/thunder：asgardeo/thunder helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+asgardeo/thunder：asgardeo/thunder may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** asgardeo/thunder helps catch security and privacy issues earlier in the workflow.
+**Value:** asgardeo/thunder may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ asgardeo/thunder：asgardeo/thunder helps catch security and privacy issues earl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 48/100 |
-| adoption | 51/100 |
-| stars | 47/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

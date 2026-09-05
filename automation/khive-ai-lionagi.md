@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Data
+Automation · AI/ML · Libraries & SDKs · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ khive-ai/lionagi：khive-ai/lionagi helps remove repetitive manual operations fr
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

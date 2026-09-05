@@ -1,6 +1,6 @@
 # stellar/stellar-core
 
-[![Stars](https://img.shields.io/github/stars/stellar/stellar-core?style=flat-square&color=yellow)](https://github.com/stellar/stellar-core/stargazers) [![Forks](https://img.shields.io/github/forks/stellar/stellar-core?style=flat-square&color=blue)](https://github.com/stellar/stellar-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stellar/stellar-core?style=flat-square&color=yellow)](https://github.com/stellar/stellar-core/stargazers) [![Forks](https://img.shields.io/github/forks/stellar/stellar-core?style=flat-square&color=blue)](https://github.com/stellar/stellar-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Reference implementation for the peer-to-peer agent that manages the Stellar network.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ stellar/stellar-core 的生产可用性为中等（Medium）。它适用于：
 | forks | 76/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

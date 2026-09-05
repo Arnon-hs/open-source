@@ -1,6 +1,6 @@
 # rizvandwiki/gender-classification
 
-[![Stars](https://img.shields.io/github/stars/rizvandwiki/gender-classification?style=flat-square&color=yellow)](https://huggingface.co/rizvandwiki/gender-classification/stargazers) [![Forks](https://img.shields.io/github/forks/rizvandwiki/gender-classification?style=flat-square&color=blue)](https://huggingface.co/rizvandwiki/gender-classification/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizvandwiki/gender-classification?style=flat-square&color=yellow)](https://huggingface.co/rizvandwiki/gender-classification/stargazers) [![Forks](https://img.shields.io/github/forks/rizvandwiki/gender-classification?style=flat-square&color=blue)](https://huggingface.co/rizvandwiki/gender-classification/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Computer vision (image-classification) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2023-05-18 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ rizvandwiki/gender-classification 是一个开源项目，提供了一个流行�
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 38/100 |
-| outlook | 33/100 |
-| quality | 33/100 |
-| recency | 20/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 35/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rokartur/BetterCmdTab
 
-[![Stars](https://img.shields.io/github/stars/rokartur/BetterCmdTab?style=flat-square&color=yellow)](https://github.com/rokartur/BetterCmdTab/stargazers) [![Forks](https://img.shields.io/github/forks/rokartur/BetterCmdTab?style=flat-square&color=blue)](https://github.com/rokartur/BetterCmdTab/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rokartur/BetterCmdTab?style=flat-square&color=yellow)](https://github.com/rokartur/BetterCmdTab/stargazers) [![Forks](https://img.shields.io/github/forks/rokartur/BetterCmdTab?style=flat-square&color=blue)](https://github.com/rokartur/BetterCmdTab/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Master your Mac’s ⌘Tab
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 491 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ BetterCmdTab 的生产可用性为中等（Medium）。它适用于内部工作�
 | forks | 34/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

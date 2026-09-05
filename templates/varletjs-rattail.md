@@ -1,6 +1,6 @@
 # varletjs/rattail
 
-[![Stars](https://img.shields.io/github/stars/varletjs/rattail?style=flat-square&color=yellow)](https://github.com/varletjs/rattail/stargazers) [![Forks](https://img.shields.io/github/forks/varletjs/rattail?style=flat-square&color=blue)](https://github.com/varletjs/rattail/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/varletjs/rattail?style=flat-square&color=yellow)](https://github.com/varletjs/rattail/stargazers) [![Forks](https://img.shields.io/github/forks/varletjs/rattail?style=flat-square&color=blue)](https://github.com/varletjs/rattail/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A Vite+ oriented, AI Agent friendly front-end toolchain.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ varletjs/rattail 的生产可用性为中等，适合用于内部工作流或原
 | forks | 34/100 |
 | stars | 41/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

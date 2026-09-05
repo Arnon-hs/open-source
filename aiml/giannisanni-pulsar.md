@@ -1,6 +1,6 @@
 # giannisanni/pulsar
 
-[![Stars](https://img.shields.io/github/stars/giannisanni/pulsar?style=flat-square&color=yellow)](https://github.com/giannisanni/pulsar/stargazers) [![Forks](https://img.shields.io/github/forks/giannisanni/pulsar?style=flat-square&color=blue)](https://github.com/giannisanni/pulsar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giannisanni/pulsar?style=flat-square&color=yellow)](https://github.com/giannisanni/pulsar/stargazers) [![Forks](https://img.shields.io/github/forks/giannisanni/pulsar?style=flat-square&color=blue)](https://github.com/giannisanni/pulsar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SSD-streaming inference engine for giant MoE models (Rust + CUDA). GLM 5.2 743B at 2 tok/s and Hy3 295B at 7 tok/s on two consumer 16GB GPUs. Zero-config multi-GPU: measures PCIe bandwidth, places attention and hot experts where they fit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,11 +82,11 @@ giannisanni/pulsar 帮助研究和自动化市场工作流，适用于以下场�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

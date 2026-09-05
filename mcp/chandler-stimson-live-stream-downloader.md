@@ -1,6 +1,6 @@
 # chandler-stimson/live-stream-downloader
 
-[![Stars](https://img.shields.io/github/stars/chandler-stimson/live-stream-downloader?style=flat-square&color=yellow)](https://github.com/chandler-stimson/live-stream-downloader/stargazers) [![Forks](https://img.shields.io/github/forks/chandler-stimson/live-stream-downloader?style=flat-square&color=blue)](https://github.com/chandler-stimson/live-stream-downloader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chandler-stimson/live-stream-downloader?style=flat-square&color=yellow)](https://github.com/chandler-stimson/live-stream-downloader/stargazers) [![Forks](https://img.shields.io/github/forks/chandler-stimson/live-stream-downloader?style=flat-square&color=blue)](https://github.com/chandler-stimson/live-stream-downloader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Download M3U8 live streams to the local disk
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ live-stream-downloader 的生产可用性为中等（Medium）。它适合用于
 | forks | 53/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

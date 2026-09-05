@@ -1,6 +1,6 @@
 # A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems
 
-[![Stars](https://img.shields.io/github/stars/A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems?style=flat-square&color=yellow)](https://github.com/A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems/stargazers) [![Forks](https://img.shields.io/github/forks/A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems?style=flat-square&color=blue)](https://github.com/A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems?style=flat-square&color=yellow)](https://github.com/A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems/stargazers) [![Forks](https://img.shields.io/github/forks/A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems?style=flat-square&color=blue)](https://github.com/A19dammer91/N-pA-qB-with-p-1-mod-q-extended-to-3D-and-4D-systems/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Minimal coefficients in N = pA and qB always equal the digital root 是一个数
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 26/100 |
-| quality | 21/100 |
-| recency | 20/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 32/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

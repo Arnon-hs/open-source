@@ -1,6 +1,6 @@
 # konglong87/superPM
 
-[![Stars](https://img.shields.io/github/stars/konglong87/superPM?style=flat-square&color=yellow)](https://github.com/konglong87/superPM/stargazers) [![Forks](https://img.shields.io/github/forks/konglong87/superPM?style=flat-square&color=blue)](https://github.com/konglong87/superPM/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/konglong87/superPM?style=flat-square&color=yellow)](https://github.com/konglong87/superPM/stargazers) [![Forks](https://img.shields.io/github/forks/konglong87/superPM?style=flat-square&color=blue)](https://github.com/konglong87/superPM/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 专为产品经理设计的 AI工具 Skills技能，一键实现全生命周期的产品管理工作流。skills frame for superPM
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ Konglong87/superPM — это AI‑инструмент, созданный сп
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

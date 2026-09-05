@@ -1,6 +1,6 @@
 # softdaddy-o/soft-ue-cli
 
-[![Stars](https://img.shields.io/github/stars/softdaddy-o/soft-ue-cli?style=flat-square&color=yellow)](https://github.com/softdaddy-o/soft-ue-cli/stargazers) [![Forks](https://img.shields.io/github/forks/softdaddy-o/soft-ue-cli?style=flat-square&color=blue)](https://github.com/softdaddy-o/soft-ue-cli/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softdaddy-o/soft-ue-cli?style=flat-square&color=yellow)](https://github.com/softdaddy-o/soft-ue-cli/stargazers) [![Forks](https://img.shields.io/github/forks/softdaddy-o/soft-ue-cli?style=flat-square&color=blue)](https://github.com/softdaddy-o/soft-ue-cli/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Python CLI + UE plugin that lets Claude Code (AI coding agent) control Unreal Engine in real time. Spawn actors, edit blueprints, call functions, capture screenshots, manage PIE sessions, and more -- all from the terminal. Works with UE5 editor and packaged builds via an in-process HTTP bridge.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Games & Graphics · DevTools
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ softdaddy‑o/soft-ue-cli 是一个基于 Python CLI 与 Unreal Engine 插件的
 | forks | 41/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # soaring-xiongkulu/easyaiot
 
-[![Stars](https://img.shields.io/github/stars/soaring-xiongkulu/easyaiot?style=flat-square&color=yellow)](https://github.com/soaring-xiongkulu/easyaiot/stargazers) [![Forks](https://img.shields.io/github/forks/soaring-xiongkulu/easyaiot?style=flat-square&color=blue)](https://github.com/soaring-xiongkulu/easyaiot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soaring-xiongkulu/easyaiot?style=flat-square&color=yellow)](https://github.com/soaring-xiongkulu/easyaiot/stargazers) [![Forks](https://img.shields.io/github/forks/soaring-xiongkulu/easyaiot?style=flat-square&color=blue)](https://github.com/soaring-xiongkulu/easyaiot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 我希望全世界都能使用这个系统，实现AI的真正0门槛，人人都能体验到AI带来的好处，而并不只是掌握在少数人手里。支持上千种垂直场景，支持AI模型定制化和AI算法定制化开发 深度融合，赋能万物智视：EasyAIoT 构筑了物联网设备（尤其是海量摄像头）的高效接入与管控网络。我们深度融合流媒体实时传输技术与前沿人工智能（AI），打造一体化服务核心。这套方案不仅打通了异构设备的互联互通，更将高清视频流与强大的AI解析引擎深度集成，赋予监控系统“智能之眼”——精准实现人脸识别、异常行为分析、风险人员布控周界入侵检测。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ EasyAIoT 的生产可用性为中等（Medium）。它
 | forks | 57/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

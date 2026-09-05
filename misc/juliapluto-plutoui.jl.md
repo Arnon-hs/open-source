@@ -1,6 +1,6 @@
 # JuliaPluto/PlutoUI.jl
 
-[![Stars](https://img.shields.io/github/stars/JuliaPluto/PlutoUI.jl?style=flat-square&color=yellow)](https://github.com/JuliaPluto/PlutoUI.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaPluto/PlutoUI.jl?style=flat-square&color=blue)](https://github.com/JuliaPluto/PlutoUI.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuliaPluto/PlutoUI.jl?style=flat-square&color=yellow)](https://github.com/JuliaPluto/PlutoUI.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaPluto/PlutoUI.jl?style=flat-square&color=blue)](https://github.com/JuliaPluto/PlutoUI.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ PlutoUI.jl 是 JuliaPluto 官方提供的 UI 组件库，专为 Pluto notebook �
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Zipstack/unstract
 
-[![Stars](https://img.shields.io/github/stars/Zipstack/unstract?style=flat-square&color=yellow)](https://github.com/Zipstack/unstract/stargazers) [![Forks](https://img.shields.io/github/forks/Zipstack/unstract?style=flat-square&color=blue)](https://github.com/Zipstack/unstract/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zipstack/unstract?style=flat-square&color=yellow)](https://github.com/Zipstack/unstract/stargazers) [![Forks](https://img.shields.io/github/forks/Zipstack/unstract?style=flat-square&color=blue)](https://github.com/Zipstack/unstract/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 633 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Data
+MCP · Knowledge/RAG · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -100,11 +100,11 @@ Zipstack/unstract 是一个基于大模型（LLM）的非结构化数据抽取�
 | forks | 70/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 88/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

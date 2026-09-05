@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 583 |
 | 💻 **Language** | C |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,6 +78,7 @@ RediSearch/RediSearch：RediSearch/RediSearch helps teams persist, query, and mo
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

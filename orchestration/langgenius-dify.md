@@ -1,6 +1,6 @@
 # langgenius/dify
 
-[![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&color=yellow)](https://github.com/langgenius/dify/stargazers) [![Forks](https://img.shields.io/github/forks/langgenius/dify?style=flat-square&color=blue)](https://github.com/langgenius/dify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&color=yellow)](https://github.com/langgenius/dify/stargazers) [![Forks](https://img.shields.io/github/forks/langgenius/dify?style=flat-square&color=blue)](https://github.com/langgenius/dify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready platform for agentic workflow development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 146.2k |
 | 🍴 **Forks** | 23k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 91/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ langgenius/dify 是一款面向生产环境的 **Agent 工作流平台**，通�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 40/100 |
+| outlook | 93/100 |
+| quality | 95/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 68/100 |
+| production | 82/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

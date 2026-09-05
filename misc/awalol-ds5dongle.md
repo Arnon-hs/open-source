@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ awalol/DS5Dongle：awalol/DS5Dongle may be useful when its README and activity m
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # agynio/platform
 
-[![Stars](https://img.shields.io/github/stars/agynio/platform?style=flat-square&color=yellow)](https://github.com/agynio/platform/stargazers) [![Forks](https://img.shields.io/github/forks/agynio/platform?style=flat-square&color=blue)](https://github.com/agynio/platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agynio/platform?style=flat-square&color=yellow)](https://github.com/agynio/platform/stargazers) [![Forks](https://img.shields.io/github/forks/agynio/platform?style=flat-square&color=blue)](https://github.com/agynio/platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Agyn is an open-source Kubernetes-native runtime that moves AI agents like Claude Code and Codex from laptops to company infrastructure with the controls enterprises need.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Agyn（agynio/platform）是一个面向 Kubernetes 的开源运行时，能够�
 | forks | 19/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

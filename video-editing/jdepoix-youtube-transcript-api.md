@@ -1,6 +1,6 @@
 # jdepoix/youtube-transcript-api
 
-[![Stars](https://img.shields.io/github/stars/jdepoix/youtube-transcript-api?style=flat-square&color=yellow)](https://github.com/jdepoix/youtube-transcript-api/stargazers) [![Forks](https://img.shields.io/github/forks/jdepoix/youtube-transcript-api?style=flat-square&color=blue)](https://github.com/jdepoix/youtube-transcript-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jdepoix/youtube-transcript-api?style=flat-square&color=yellow)](https://github.com/jdepoix/youtube-transcript-api/stargazers) [![Forks](https://img.shields.io/github/forks/jdepoix/youtube-transcript-api?style=flat-square&color=blue)](https://github.com/jdepoix/youtube-transcript-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 772 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Overall, the project is mature enough for a pilot or full production use, especi
 | forks | 72/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 88/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

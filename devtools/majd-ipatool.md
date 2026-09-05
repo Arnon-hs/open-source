@@ -1,6 +1,6 @@
 # majd/ipatool
 
-[![Stars](https://img.shields.io/github/stars/majd/ipatool?style=flat-square&color=yellow)](https://github.com/majd/ipatool/stargazers) [![Forks](https://img.shields.io/github/forks/majd/ipatool?style=flat-square&color=blue)](https://github.com/majd/ipatool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/majd/ipatool?style=flat-square&color=yellow)](https://github.com/majd/ipatool/stargazers) [![Forks](https://img.shields.io/github/forks/majd/ipatool?style=flat-square&color=blue)](https://github.com/majd/ipatool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 822 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Overall, `majd/ipatool` is a high‑readiness OSS component that can be evaluate
 | forks | 73/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

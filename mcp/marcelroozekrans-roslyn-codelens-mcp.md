@@ -1,6 +1,6 @@
 # MarcelRoozekrans/roslyn-codelens-mcp
 
-[![Stars](https://img.shields.io/github/stars/MarcelRoozekrans/roslyn-codelens-mcp?style=flat-square&color=yellow)](https://github.com/MarcelRoozekrans/roslyn-codelens-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MarcelRoozekrans/roslyn-codelens-mcp?style=flat-square&color=blue)](https://github.com/MarcelRoozekrans/roslyn-codelens-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarcelRoozekrans/roslyn-codelens-mcp?style=flat-square&color=yellow)](https://github.com/MarcelRoozekrans/roslyn-codelens-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MarcelRoozekrans/roslyn-codelens-mcp?style=flat-square&color=blue)](https://github.com/MarcelRoozekrans/roslyn-codelens-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Roslyn-based MCP server giving AI agents deep semantic understanding of .NET/C# codebases — 57 tools for navigation, call graphs, diagnostics & code fixes, code-quality auditing, test intelligence, DI graphs, and IL/external-assembly inspection.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ MarcelRoozekrans/roslyn-codelens-mcp 是一个基于 Roslyn 的 MCP 服务器，
 | forks | 28/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

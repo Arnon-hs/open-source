@@ -1,6 +1,6 @@
 # EndlessCheng/codeforces-go
 
-[![Stars](https://img.shields.io/github/stars/EndlessCheng/codeforces-go?style=flat-square&color=yellow)](https://github.com/EndlessCheng/codeforces-go/stargazers) [![Forks](https://img.shields.io/github/forks/EndlessCheng/codeforces-go?style=flat-square&color=blue)](https://github.com/EndlessCheng/codeforces-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EndlessCheng/codeforces-go?style=flat-square&color=yellow)](https://github.com/EndlessCheng/codeforces-go/stargazers) [![Forks](https://img.shields.io/github/forks/EndlessCheng/codeforces-go?style=flat-square&color=blue)](https://github.com/EndlessCheng/codeforces-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 810 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ EndlessCheng/codeforces-go 是灵茶山艾府维护的 Go 语言算法竞赛模�
 | forks | 73/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

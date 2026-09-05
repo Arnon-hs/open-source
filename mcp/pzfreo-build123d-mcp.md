@@ -1,6 +1,6 @@
 # pzfreo/build123d-mcp
 
-[![Stars](https://img.shields.io/github/stars/pzfreo/build123d-mcp?style=flat-square&color=yellow)](https://github.com/pzfreo/build123d-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/pzfreo/build123d-mcp?style=flat-square&color=blue)](https://github.com/pzfreo/build123d-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pzfreo/build123d-mcp?style=flat-square&color=yellow)](https://github.com/pzfreo/build123d-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/pzfreo/build123d-mcp?style=flat-square&color=blue)](https://github.com/pzfreo/build123d-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for build123d to improve AI cognition when creating 3D CAD models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ pzfreo/build123d-mcp 是一个基于 Model Context Protocol（MCP）的服务器
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 75/100 |
-| outlook | 52/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

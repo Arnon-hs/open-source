@@ -1,6 +1,6 @@
 # tonbo-io/typed-arrow
 
-[![Stars](https://img.shields.io/github/stars/tonbo-io/typed-arrow?style=flat-square&color=yellow)](https://github.com/tonbo-io/typed-arrow/stargazers) [![Forks](https://img.shields.io/github/forks/tonbo-io/typed-arrow?style=flat-square&color=blue)](https://github.com/tonbo-io/typed-arrow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonbo-io/typed-arrow?style=flat-square&color=yellow)](https://github.com/tonbo-io/typed-arrow/stargazers) [![Forks](https://img.shields.io/github/forks/tonbo-io/typed-arrow?style=flat-square&color=blue)](https://github.com/tonbo-io/typed-arrow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > First-class compile‑time Arrow schemas for Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ tonbo-io/typed-arrow 的价值在于，它可以帮助组织分析管道、处�
 | forks | 25/100 |
 | stars | 49/100 |
 | topics | 38/100 |
-| outlook | 47/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

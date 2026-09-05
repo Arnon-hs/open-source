@@ -1,6 +1,6 @@
 # taoAIGC/AICompare
 
-[![Stars](https://img.shields.io/github/stars/taoAIGC/AICompare?style=flat-square&color=yellow)](https://github.com/taoAIGC/AICompare/stargazers) [![Forks](https://img.shields.io/github/forks/taoAIGC/AICompare?style=flat-square&color=blue)](https://github.com/taoAIGC/AICompare/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taoAIGC/AICompare?style=flat-square&color=yellow)](https://github.com/taoAIGC/AICompare/stargazers) [![Forks](https://img.shields.io/github/forks/taoAIGC/AICompare?style=flat-square&color=blue)](https://github.com/taoAIGC/AICompare/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > one click to open multi AI sites ｜ 一键打开多个 AI 站点，查看 AI 结果
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ AICompare (taoAIGC/AICompare) is a lightweight JavaScript tool that opens multip
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

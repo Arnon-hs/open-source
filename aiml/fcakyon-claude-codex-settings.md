@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Design
+AI/ML · Communication · Frontend · DevTools · Design
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ fcakyon/claude-codex-settings：fcakyon/claude-codex-settings helps add AI capab
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

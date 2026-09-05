@@ -1,6 +1,6 @@
 # jianshuo/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/jianshuo/claude-skills?style=flat-square&color=yellow)](https://github.com/jianshuo/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jianshuo/claude-skills?style=flat-square&color=blue)](https://github.com/jianshuo/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jianshuo/claude-skills?style=flat-square&color=yellow)](https://github.com/jianshuo/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jianshuo/claude-skills?style=flat-square&color=blue)](https://github.com/jianshuo/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ jianshuo/claude-skills - набор 13 кодовых навыков для ви
 | forks | 27/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

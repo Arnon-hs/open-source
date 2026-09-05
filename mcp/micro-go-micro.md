@@ -1,6 +1,6 @@
 # micro/go-micro
 
-[![Stars](https://img.shields.io/github/stars/micro/go-micro?style=flat-square&color=yellow)](https://github.com/micro/go-micro/stargazers) [![Forks](https://img.shields.io/github/forks/micro/go-micro?style=flat-square&color=blue)](https://github.com/micro/go-micro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/micro/go-micro?style=flat-square&color=yellow)](https://github.com/micro/go-micro/stargazers) [![Forks](https://img.shields.io/github/forks/micro/go-micro?style=flat-square&color=blue)](https://github.com/micro/go-micro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > A Go framework for agents and services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.8k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ micro/go-micro 是一套基于 Go 语言的微服务框架，专为 AI 代理与
 | forks | 85/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 89/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

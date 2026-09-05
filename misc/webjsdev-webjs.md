@@ -1,6 +1,6 @@
 # webjsdev/webjs
 
-[![Stars](https://img.shields.io/github/stars/webjsdev/webjs?style=flat-square&color=yellow)](https://github.com/webjsdev/webjs/stargazers) [![Forks](https://img.shields.io/github/forks/webjsdev/webjs?style=flat-square&color=blue)](https://github.com/webjsdev/webjs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webjsdev/webjs?style=flat-square&color=yellow)](https://github.com/webjsdev/webjs/stargazers) [![Forks](https://img.shields.io/github/forks/webjsdev/webjs?style=flat-square&color=blue)](https://github.com/webjsdev/webjs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The web framework built for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ webjsdev/webjs 为前端项目提供了即插即用的 AI 能力，开发者无�
 | forks | 46/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # python279/stock-predict
 
-[![Stars](https://img.shields.io/github/stars/python279/stock-predict?style=flat-square&color=yellow)](https://github.com/python279/stock-predict/stargazers) [![Forks](https://img.shields.io/github/forks/python279/stock-predict?style=flat-square&color=blue)](https://github.com/python279/stock-predict/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python279/stock-predict?style=flat-square&color=yellow)](https://github.com/python279/stock-predict/stargazers) [![Forks](https://img.shields.io/github/forks/python279/stock-predict?style=flat-square&color=blue)](https://github.com/python279/stock-predict/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 完全自动化的国际新闻抓取、分析和通知系统。系统每天自动抓取世界各地的权威新闻源，使用大模型进行深度分析，预测世界局势并分析
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ python279/stock‑predict 是一套完全自动化的国际新闻抓取、分析
 | forks | 42/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

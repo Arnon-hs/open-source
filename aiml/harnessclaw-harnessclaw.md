@@ -1,6 +1,6 @@
 # harnessclaw/harnessclaw
 
-[![Stars](https://img.shields.io/github/stars/harnessclaw/harnessclaw?style=flat-square&color=yellow)](https://github.com/harnessclaw/harnessclaw/stargazers) [![Forks](https://img.shields.io/github/forks/harnessclaw/harnessclaw?style=flat-square&color=blue)](https://github.com/harnessclaw/harnessclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harnessclaw/harnessclaw?style=flat-square&color=yellow)](https://github.com/harnessclaw/harnessclaw/stargazers) [![Forks](https://img.shields.io/github/forks/harnessclaw/harnessclaw?style=flat-square&color=blue)](https://github.com/harnessclaw/harnessclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Harnessclaw is a powerful, Electron-based desktop application designed to manage, chat with, and operate AI agents and skills seamlessly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 409 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication · Productivity
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ Harnessclaw 是一款基于 Electron 的桌面应用，能够统一管理、对�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

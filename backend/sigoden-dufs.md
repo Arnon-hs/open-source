@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 532 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ sigoden/dufs：sigoden/dufs helps teams reuse service infrastructure instead of 
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

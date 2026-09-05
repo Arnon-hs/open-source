@@ -1,6 +1,6 @@
 # TwilitRealm/dusklight
 
-[![Stars](https://img.shields.io/github/stars/TwilitRealm/dusklight?style=flat-square&color=yellow)](https://github.com/TwilitRealm/dusklight/stargazers) [![Forks](https://img.shields.io/github/forks/TwilitRealm/dusklight?style=flat-square&color=blue)](https://github.com/TwilitRealm/dusklight/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TwilitRealm/dusklight?style=flat-square&color=yellow)](https://github.com/TwilitRealm/dusklight/stargazers) [![Forks](https://img.shields.io/github/forks/TwilitRealm/dusklight?style=flat-square&color=blue)](https://github.com/TwilitRealm/dusklight/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Dusklight 为团队提供了一个轻量级的持久化层，帮助把数据保�
 | forks | 58/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

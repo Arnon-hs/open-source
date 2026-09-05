@@ -1,6 +1,6 @@
 # jump-dev/MathOptInterface.jl
 
-[![Stars](https://img.shields.io/github/stars/jump-dev/MathOptInterface.jl?style=flat-square&color=yellow)](https://github.com/jump-dev/MathOptInterface.jl/stargazers) [![Forks](https://img.shields.io/github/forks/jump-dev/MathOptInterface.jl?style=flat-square&color=blue)](https://github.com/jump-dev/MathOptInterface.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jump-dev/MathOptInterface.jl?style=flat-square&color=yellow)](https://github.com/jump-dev/MathOptInterface.jl/stargazers) [![Forks](https://img.shields.io/github/forks/jump-dev/MathOptInterface.jl?style=flat-square&color=blue)](https://github.com/jump-dev/MathOptInterface.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A data structure for mathematical optimization problems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ MathOptInterface.jl 为数学优化问题提供统一的数据结构，能够将
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

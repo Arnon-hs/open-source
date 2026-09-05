@@ -1,6 +1,6 @@
 # angelsix/youtube
 
-[![Stars](https://img.shields.io/github/stars/angelsix/youtube?style=flat-square&color=yellow)](https://github.com/angelsix/youtube/stargazers) [![Forks](https://img.shields.io/github/forks/angelsix/youtube?style=flat-square&color=blue)](https://github.com/angelsix/youtube/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angelsix/youtube?style=flat-square&color=yellow)](https://github.com/angelsix/youtube/stargazers) [![Forks](https://img.shields.io/github/forks/angelsix/youtube?style=flat-square&color=blue)](https://github.com/angelsix/youtube/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Any general files related to the AngelSix YouTube channel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 731 |
 | 🍴 **Forks** | 482 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ angelsix/youtube：angelsix/youtube may be useful when its README and activity m
 | forks | 67/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

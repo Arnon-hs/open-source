@@ -1,6 +1,6 @@
 # Far-Se/tabame
 
-[![Stars](https://img.shields.io/github/stars/Far-Se/tabame?style=flat-square&color=yellow)](https://github.com/Far-Se/tabame/stargazers) [![Forks](https://img.shields.io/github/forks/Far-Se/tabame?style=flat-square&color=blue)](https://github.com/Far-Se/tabame/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Far-Se/tabame?style=flat-square&color=yellow)](https://github.com/Far-Se/tabame/stargazers) [![Forks](https://img.shields.io/github/forks/Far-Se/tabame?style=flat-square&color=blue)](https://github.com/Far-Se/tabame/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Tabame is an alternative to Windows Taskbar. It also contains great tools such as advanced Hotkeys, QuickRun, Trktivity and Wizardly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ Far-Se/tabame 是一个开源项目，提供了一个 Windows 任务栏的替代
 | forks | 24/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

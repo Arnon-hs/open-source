@@ -1,6 +1,6 @@
 # nocodb/nocodb
 
-[![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=flat-square&color=yellow)](https://github.com/nocodb/nocodb/stargazers) [![Forks](https://img.shields.io/github/forks/nocodb/nocodb?style=flat-square&color=blue)](https://github.com/nocodb/nocodb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=flat-square&color=yellow)](https://github.com/nocodb/nocodb/stargazers) [![Forks](https://img.shields.io/github/forks/nocodb/nocodb?style=flat-square&color=blue)](https://github.com/nocodb/nocodb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ nocodb 是一款开源的、可自托管的 Airtable 替代品，提供类似电
 | forks | 92/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 79/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 59/100 |
+| production | 79/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

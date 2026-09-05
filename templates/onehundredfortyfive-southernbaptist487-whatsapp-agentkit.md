@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · MCP · Automation · AI/ML · Education
+Templates · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ onehundredfortyfive-southernbaptist487/whatsapp-agentkit：onehundredfortyfive-s
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

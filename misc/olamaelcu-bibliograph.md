@@ -1,6 +1,6 @@
 # olamaelcu/bibliograph
 
-[![Stars](https://img.shields.io/github/stars/olamaelcu/bibliograph?style=flat-square&color=yellow)](https://github.com/olamaelcu/bibliograph/stargazers) [![Forks](https://img.shields.io/github/forks/olamaelcu/bibliograph?style=flat-square&color=blue)](https://github.com/olamaelcu/bibliograph/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olamaelcu/bibliograph?style=flat-square&color=yellow)](https://github.com/olamaelcu/bibliograph/stargazers) [![Forks](https://img.shields.io/github/forks/olamaelcu/bibliograph?style=flat-square&color=blue)](https://github.com/olamaelcu/bibliograph/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: bibliograph: An AppView for interfacing with bibliographic information on ATProto
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ bibliograph 是一个 AppView，可与 ATProto 上的书目信息进行交互，
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 52/100 |
-| quality | 37/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 56/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

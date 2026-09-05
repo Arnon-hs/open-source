@@ -1,6 +1,6 @@
 # Denis2054/Context-Engineering-for-Multi-Agent-Systems
 
-[![Stars](https://img.shields.io/github/stars/Denis2054/Context-Engineering-for-Multi-Agent-Systems?style=flat-square&color=yellow)](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/stargazers) [![Forks](https://img.shields.io/github/forks/Denis2054/Context-Engineering-for-Multi-Agent-Systems?style=flat-square&color=blue)](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Denis2054/Context-Engineering-for-Multi-Agent-Systems?style=flat-square&color=yellow)](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/stargazers) [![Forks](https://img.shields.io/github/forks/Denis2054/Context-Engineering-for-Multi-Agent-Systems?style=flat-square&color=blue)](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Save thousands of lines of code by building universal, domain-agnostic Multi-Agent Systems (MAS) through high-level semantic orchestration. This repository provides a production-ready blueprint for the Agentic Era, allowing you to replace rigid, hard-coded workflows with a dynamic transparent Context Engine that provides 100% transparency.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 231 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Denis2054/Context-Engineering-for-Multi-Agent-Systems 通过高层语义编排�
 | forks | 48/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

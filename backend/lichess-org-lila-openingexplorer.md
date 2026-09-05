@@ -1,6 +1,6 @@
 # lichess-org/lila-openingexplorer
 
-[![Stars](https://img.shields.io/github/stars/lichess-org/lila-openingexplorer?style=flat-square&color=yellow)](https://github.com/lichess-org/lila-openingexplorer/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/lila-openingexplorer?style=flat-square&color=blue)](https://github.com/lichess-org/lila-openingexplorer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lichess-org/lila-openingexplorer?style=flat-square&color=yellow)](https://github.com/lichess-org/lila-openingexplorer/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/lila-openingexplorer?style=flat-square&color=blue)](https://github.com/lichess-org/lila-openingexplorer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Opening explorer for lichess.org that can handle all the variants and trillions of unique positions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Lichess‑org/lila‑openingexplorer 是为 lichess.org 打造的开源开局查
 | forks | 42/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

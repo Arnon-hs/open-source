@@ -1,6 +1,6 @@
 # jidouqie/redbeacon
 
-[![Stars](https://img.shields.io/github/stars/jidouqie/redbeacon?style=flat-square&color=yellow)](https://github.com/jidouqie/redbeacon/stargazers) [![Forks](https://img.shields.io/github/forks/jidouqie/redbeacon?style=flat-square&color=blue)](https://github.com/jidouqie/redbeacon/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jidouqie/redbeacon?style=flat-square&color=yellow)](https://github.com/jidouqie/redbeacon/stargazers) [![Forks](https://img.shields.io/github/forks/jidouqie/redbeacon?style=flat-square&color=blue)](https://github.com/jidouqie/redbeacon/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > RedBeacon｜开源 Skill 与安装入口：连接本机客户端，完成定位、对标、选题、创作、审稿、发布与账号级全流程自动化
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Automation · AI/ML · Marketing
+Content Creation · Automation · AI/ML · Productivity · Marketing
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ RedBeacon 是一款面向内容创作者的开源自动化工具，通过连接�
 | forks | 42/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

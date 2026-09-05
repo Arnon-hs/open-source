@@ -1,6 +1,6 @@
 # Raymondhou0917/speak-human-tw
 
-[![Stars](https://img.shields.io/github/stars/Raymondhou0917/speak-human-tw?style=flat-square&color=yellow)](https://github.com/Raymondhou0917/speak-human-tw/stargazers) [![Forks](https://img.shields.io/github/forks/Raymondhou0917/speak-human-tw?style=flat-square&color=blue)](https://github.com/Raymondhou0917/speak-human-tw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Raymondhou0917/speak-human-tw?style=flat-square&color=yellow)](https://github.com/Raymondhou0917/speak-human-tw/stargazers) [![Forks](https://img.shields.io/github/forks/Raymondhou0917/speak-human-tw?style=flat-square&color=blue)](https://github.com/Raymondhou0917/speak-human-tw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 729 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ With a score of 71/100, Raymondhou0917/speak-human-tw demonstrates high producti
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

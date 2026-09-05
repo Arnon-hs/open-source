@@ -1,6 +1,6 @@
 # avala-ai/agent-code
 
-[![Stars](https://img.shields.io/github/stars/avala-ai/agent-code?style=flat-square&color=yellow)](https://github.com/avala-ai/agent-code/stargazers) [![Forks](https://img.shields.io/github/forks/avala-ai/agent-code?style=flat-square&color=blue)](https://github.com/avala-ai/agent-code/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avala-ai/agent-code?style=flat-square&color=yellow)](https://github.com/avala-ai/agent-code/stargazers) [![Forks](https://img.shields.io/github/forks/avala-ai/agent-code?style=flat-square&color=blue)](https://github.com/avala-ai/agent-code/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-powered coding agent for the terminal, written in pure Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ avala-ai/agent-code 是一个基于 Rust 编写的终端 AI 编码代理，旨�
 | forks | 26/100 |
 | stars | 29/100 |
 | topics | 13/100 |
-| outlook | 51/100 |
-| quality | 44/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 52/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

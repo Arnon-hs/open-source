@@ -1,6 +1,6 @@
 # FacebookAI/roberta-large
 
-[![Stars](https://img.shields.io/github/stars/FacebookAI/roberta-large?style=flat-square&color=yellow)](https://huggingface.co/FacebookAI/roberta-large/stargazers) [![Forks](https://img.shields.io/github/forks/FacebookAI/roberta-large?style=flat-square&color=blue)](https://huggingface.co/FacebookAI/roberta-large/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FacebookAI/roberta-large?style=flat-square&color=yellow)](https://huggingface.co/FacebookAI/roberta-large/stargazers) [![Forks](https://img.shields.io/github/forks/FacebookAI/roberta-large?style=flat-square&color=blue)](https://huggingface.co/FacebookAI/roberta-large/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Masked language models (fill-mask) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -69,11 +69,11 @@ Let's craft: "FacebookAI/roberta-large 是一个在 Hugging Face 上广受欢迎
 | forks | 0/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 36/100 |
-| quality | 38/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

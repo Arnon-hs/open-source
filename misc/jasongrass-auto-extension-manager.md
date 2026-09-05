@@ -1,6 +1,6 @@
 # JasonGrass/auto-extension-manager
 
-[![Stars](https://img.shields.io/github/stars/JasonGrass/auto-extension-manager?style=flat-square&color=yellow)](https://github.com/JasonGrass/auto-extension-manager/stargazers) [![Forks](https://img.shields.io/github/forks/JasonGrass/auto-extension-manager?style=flat-square&color=blue)](https://github.com/JasonGrass/auto-extension-manager/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JasonGrass/auto-extension-manager?style=flat-square&color=yellow)](https://github.com/JasonGrass/auto-extension-manager/stargazers) [![Forks](https://img.shields.io/github/forks/JasonGrass/auto-extension-manager?style=flat-square&color=blue)](https://github.com/JasonGrass/auto-extension-manager/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > a chrome extension manager where you can add rules
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 805 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ JasonGrass/auto-extension-manager 的价值在于，它可以帮助用户管理 
 | forks | 40/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

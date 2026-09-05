@@ -1,6 +1,6 @@
 # nilearn/nilearn
 
-[![Stars](https://img.shields.io/github/stars/nilearn/nilearn?style=flat-square&color=yellow)](https://github.com/nilearn/nilearn/stargazers) [![Forks](https://img.shields.io/github/forks/nilearn/nilearn?style=flat-square&color=blue)](https://github.com/nilearn/nilearn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nilearn/nilearn?style=flat-square&color=yellow)](https://github.com/nilearn/nilearn/stargazers) [![Forks](https://img.shields.io/github/forks/nilearn/nilearn?style=flat-square&color=blue)](https://github.com/nilearn/nilearn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Machine learning for NeuroImaging in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 654 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ nilearn 是基于 Python 的开源库，专注于神经影像数据的机器学�
 | forks | 70/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

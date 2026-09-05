@@ -1,6 +1,6 @@
 # tacoda/keystone
 
-[![Stars](https://img.shields.io/github/stars/tacoda/keystone?style=flat-square&color=yellow)](https://github.com/tacoda/keystone/stargazers) [![Forks](https://img.shields.io/github/forks/tacoda/keystone?style=flat-square&color=blue)](https://github.com/tacoda/keystone/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tacoda/keystone?style=flat-square&color=yellow)](https://github.com/tacoda/keystone/stargazers) [![Forks](https://img.shields.io/github/forks/tacoda/keystone?style=flat-square&color=blue)](https://github.com/tacoda/keystone/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): Remember CLAIM-24? Here's what happened.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -65,15 +65,15 @@ The project enables teams to ship API services faster by reusing a common backen
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

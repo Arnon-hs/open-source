@@ -1,6 +1,6 @@
 # xroche/httrack
 
-[![Stars](https://img.shields.io/github/stars/xroche/httrack?style=flat-square&color=yellow)](https://github.com/xroche/httrack/stargazers) [![Forks](https://img.shields.io/github/forks/xroche/httrack?style=flat-square&color=blue)](https://github.com/xroche/httrack/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xroche/httrack?style=flat-square&color=yellow)](https://github.com/xroche/httrack/stargazers) [![Forks](https://img.shields.io/github/forks/xroche/httrack?style=flat-square&color=blue)](https://github.com/xroche/httrack/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > HTTrack Website Copier, copy websites to your computer (Official repository)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 763 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ HTTrack（xroche/httrack）是一个开源的离线网站抓取工具，能够�
 | forks | 72/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

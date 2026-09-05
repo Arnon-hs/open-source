@@ -1,6 +1,6 @@
 # Agions/vynaro
 
-[![Stars](https://img.shields.io/github/stars/Agions/vynaro?style=flat-square&color=yellow)](https://github.com/Agions/vynaro/stargazers) [![Forks](https://img.shields.io/github/forks/Agions/vynaro?style=flat-square&color=blue)](https://github.com/Agions/vynaro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agions/vynaro?style=flat-square&color=yellow)](https://github.com/Agions/vynaro/stargazers) [![Forks](https://img.shields.io/github/forks/Agions/vynaro?style=flat-square&color=blue)](https://github.com/Agions/vynaro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Vynaro (叙影 AI) - 下一代 7 步全自动 AI 影视解说与第一人称视频创作工具 (Tauri 2 + Rust + React 19)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Vynaro 的生产可用性较高，主要原因是：
 | forks | 45/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

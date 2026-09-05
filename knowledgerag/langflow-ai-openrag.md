@@ -1,6 +1,6 @@
 # langflow-ai/openrag
 
-[![Stars](https://img.shields.io/github/stars/langflow-ai/openrag?style=flat-square&color=yellow)](https://github.com/langflow-ai/openrag/stargazers) [![Forks](https://img.shields.io/github/forks/langflow-ai/openrag?style=flat-square&color=blue)](https://github.com/langflow-ai/openrag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langflow-ai/openrag?style=flat-square&color=yellow)](https://github.com/langflow-ai/openrag/stargazers) [![Forks](https://img.shields.io/github/forks/langflow-ai/openrag?style=flat-square&color=blue)](https://github.com/langflow-ai/openrag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 443 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ OpenRAG 的生产可用性很高，主要原因是：
 | forks | 66/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 57/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

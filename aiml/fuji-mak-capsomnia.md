@@ -1,6 +1,6 @@
 # fuji-mak/Capsomnia
 
-[![Stars](https://img.shields.io/github/stars/fuji-mak/Capsomnia?style=flat-square&color=yellow)](https://github.com/fuji-mak/Capsomnia/stargazers) [![Forks](https://img.shields.io/github/forks/fuji-mak/Capsomnia?style=flat-square&color=blue)](https://github.com/fuji-mak/Capsomnia/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fuji-mak/Capsomnia?style=flat-square&color=yellow)](https://github.com/fuji-mak/Capsomnia/stargazers) [![Forks](https://img.shields.io/github/forks/fuji-mak/Capsomnia?style=flat-square&color=blue)](https://github.com/fuji-mak/Capsomnia/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A tiny macOS app that turns Caps Lock into a physical keep-awake switch for closed-lid MacBook work.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ fuji-mak/Capsomnia 的生产可用性为中等（Medium）。它适用于以下�
 | forks | 27/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

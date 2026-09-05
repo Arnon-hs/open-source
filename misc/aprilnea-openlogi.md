@@ -1,6 +1,6 @@
 # AprilNEA/OpenLogi
 
-[![Stars](https://img.shields.io/github/stars/AprilNEA/OpenLogi?style=flat-square&color=yellow)](https://github.com/AprilNEA/OpenLogi/stargazers) [![Forks](https://img.shields.io/github/forks/AprilNEA/OpenLogi?style=flat-square&color=blue)](https://github.com/AprilNEA/OpenLogi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AprilNEA/OpenLogi?style=flat-square&color=yellow)](https://github.com/AprilNEA/OpenLogi/stargazers) [![Forks](https://img.shields.io/github/forks/AprilNEA/OpenLogi?style=flat-square&color=blue)](https://github.com/AprilNEA/OpenLogi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ AprilNEA/OpenLogi 的生产可用性很高，因为它具有以下特点：
 | forks | 51/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

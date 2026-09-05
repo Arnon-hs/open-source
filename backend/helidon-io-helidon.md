@@ -1,6 +1,6 @@
 # helidon-io/helidon
 
-[![Stars](https://img.shields.io/github/stars/helidon-io/helidon?style=flat-square&color=yellow)](https://github.com/helidon-io/helidon/stargazers) [![Forks](https://img.shields.io/github/forks/helidon-io/helidon?style=flat-square&color=blue)](https://github.com/helidon-io/helidon/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helidon-io/helidon?style=flat-square&color=yellow)](https://github.com/helidon-io/helidon/stargazers) [![Forks](https://img.shields.io/github/forks/helidon-io/helidon?style=flat-square&color=blue)](https://github.com/helidon-io/helidon/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Java libraries for writing microservices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 603 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Helidon（`helidon-io/helidon`）是一套基于 Java 的微服务开发库，�
 | forks | 70/100 |
 | stars | 76/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

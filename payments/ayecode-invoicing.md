@@ -1,6 +1,6 @@
 # AyeCode/invoicing
 
-[![Stars](https://img.shields.io/github/stars/AyeCode/invoicing?style=flat-square&color=yellow)](https://github.com/AyeCode/invoicing/stargazers) [![Forks](https://img.shields.io/github/forks/AyeCode/invoicing?style=flat-square&color=blue)](https://github.com/AyeCode/invoicing/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AyeCode/invoicing?style=flat-square&color=yellow)](https://github.com/AyeCode/invoicing/stargazers) [![Forks](https://img.shields.io/github/forks/AyeCode/invoicing?style=flat-square&color=blue)](https://github.com/AyeCode/invoicing/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > GetPaid (Formerly the Invoicing plugin) is a lightweight Payments and Invoicing system for WordPress. It can be used to sell anything online via payment forms or buy now buttons that can be added to any landing page. It can also be used by freelancers to manage their Invoices or by 3rd party Themes and Plugins as their payment system. GeoDirectory currently uses GetPaid as its payment system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ AyeCode/invoicing 的生产可用性为中等。它适合用于原型或内部�
 | forks | 35/100 |
 | stars | 38/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

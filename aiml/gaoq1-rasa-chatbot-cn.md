@@ -1,6 +1,6 @@
 # GaoQ1/rasa_chatbot_cn
 
-[![Stars](https://img.shields.io/github/stars/GaoQ1/rasa_chatbot_cn?style=flat-square&color=yellow)](https://github.com/GaoQ1/rasa_chatbot_cn/stargazers) [![Forks](https://img.shields.io/github/forks/GaoQ1/rasa_chatbot_cn?style=flat-square&color=blue)](https://github.com/GaoQ1/rasa_chatbot_cn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GaoQ1/rasa_chatbot_cn?style=flat-square&color=yellow)](https://github.com/GaoQ1/rasa_chatbot_cn/stargazers) [![Forks](https://img.shields.io/github/forks/GaoQ1/rasa_chatbot_cn?style=flat-square&color=blue)](https://github.com/GaoQ1/rasa_chatbot_cn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > building a chinese dialogue system based on the newest version of rasa(基于最新版本rasa搭建的对话系统)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 980 |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ GaoQ1/rasa_chatbot_cn 的接入方式包括：
 | forks | 61/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

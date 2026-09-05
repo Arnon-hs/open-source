@@ -1,6 +1,6 @@
 # GradleUp/shadow
 
-[![Stars](https://img.shields.io/github/stars/GradleUp/shadow?style=flat-square&color=yellow)](https://github.com/GradleUp/shadow/stargazers) [![Forks](https://img.shields.io/github/forks/GradleUp/shadow?style=flat-square&color=blue)](https://github.com/GradleUp/shadow/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GradleUp/shadow?style=flat-square&color=yellow)](https://github.com/GradleUp/shadow/stargazers) [![Forks](https://img.shields.io/github/forks/GradleUp/shadow?style=flat-square&color=blue)](https://github.com/GradleUp/shadow/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing applications with R8/ProGuard. The Gradle counterpart to Maven’s Shade plugin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ GradleUp/shadow 的生产可用性很高，因为它有强大的社区支持、�
 | forks | 66/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 78/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

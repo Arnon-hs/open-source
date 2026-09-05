@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Automation · DevTools
+Templates · Automation · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -113,7 +113,7 @@ IndigoKageBait/filmora-utility-2026 的主要价值在于，它可以帮助用�
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

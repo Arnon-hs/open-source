@@ -1,6 +1,6 @@
 # blnkfinance/blnk
 
-[![Stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=flat-square&color=yellow)](https://github.com/blnkfinance/blnk/stargazers) [![Forks](https://img.shields.io/github/forks/blnkfinance/blnk?style=flat-square&color=blue)](https://github.com/blnkfinance/blnk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=flat-square&color=yellow)](https://github.com/blnkfinance/blnk/stargazers) [![Forks](https://img.shields.io/github/forks/blnkfinance/blnk?style=flat-square&color=blue)](https://github.com/blnkfinance/blnk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Blnk is an open-source ledger & financial core for shipping fintech products fast.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 476 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ Blnk 是一个高质量的开源项目，具有强大的社区支持和活跃的
 | forks | 53/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

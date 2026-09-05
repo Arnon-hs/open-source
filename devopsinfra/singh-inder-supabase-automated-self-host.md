@@ -1,6 +1,6 @@
 # singh-inder/supabase-automated-self-host
 
-[![Stars](https://img.shields.io/github/stars/singh-inder/supabase-automated-self-host?style=flat-square&color=yellow)](https://github.com/singh-inder/supabase-automated-self-host/stargazers) [![Forks](https://img.shields.io/github/forks/singh-inder/supabase-automated-self-host?style=flat-square&color=blue)](https://github.com/singh-inder/supabase-automated-self-host/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/singh-inder/supabase-automated-self-host?style=flat-square&color=yellow)](https://github.com/singh-inder/supabase-automated-self-host/stargazers) [![Forks](https://img.shields.io/github/forks/singh-inder/supabase-automated-self-host?style=flat-square&color=blue)](https://github.com/singh-inder/supabase-automated-self-host/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Self-host Supabase with Nginx/Caddy and Authelia with just ONE bash script.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 493 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ singh-inder/supabase-automated-self-host 是一个开源项目，允许自主部
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

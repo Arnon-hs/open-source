@@ -1,6 +1,6 @@
 # tradesdontlie/tradingview-mcp
 
-[![Stars](https://img.shields.io/github/stars/tradesdontlie/tradingview-mcp?style=flat-square&color=yellow)](https://github.com/tradesdontlie/tradingview-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tradesdontlie/tradingview-mcp?style=flat-square&color=blue)](https://github.com/tradesdontlie/tradingview-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tradesdontlie/tradingview-mcp?style=flat-square&color=yellow)](https://github.com/tradesdontlie/tradingview-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tradesdontlie/tradingview-mcp?style=flat-square&color=blue)](https://github.com/tradesdontlie/tradingview-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Automation
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -128,15 +128,15 @@ tradesdontlie/tradingview-mcp 是一款 AI 辅助的 TradingView 桌面插件，
 | forks | 83/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

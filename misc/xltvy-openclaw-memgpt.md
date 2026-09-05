@@ -1,6 +1,6 @@
 # xltvy/openclaw-memgpt
 
-[![Stars](https://img.shields.io/github/stars/xltvy/openclaw-memgpt?style=flat-square&color=yellow)](https://github.com/xltvy/openclaw-memgpt/stargazers) [![Forks](https://img.shields.io/github/forks/xltvy/openclaw-memgpt?style=flat-square&color=blue)](https://github.com/xltvy/openclaw-memgpt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xltvy/openclaw-memgpt?style=flat-square&color=yellow)](https://github.com/xltvy/openclaw-memgpt/stargazers) [![Forks](https://img.shields.io/github/forks/xltvy/openclaw-memgpt?style=flat-square&color=blue)](https://github.com/xltvy/openclaw-memgpt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ OpenClaw‑memgpt 为需要三层记忆的 LLM 项目提供了便捷的插件化
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 33/100 |
-| quality | 26/100 |
-| recency | 40/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 41/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |

@@ -1,6 +1,6 @@
 # happyfish100/libfastcommon
 
-[![Stars](https://img.shields.io/github/stars/happyfish100/libfastcommon?style=flat-square&color=yellow)](https://github.com/happyfish100/libfastcommon/stargazers) [![Forks](https://img.shields.io/github/forks/happyfish100/libfastcommon?style=flat-square&color=blue)](https://github.com/happyfish100/libfastcommon/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/happyfish100/libfastcommon?style=flat-square&color=yellow)](https://github.com/happyfish100/libfastcommon/stargazers) [![Forks](https://img.shields.io/github/forks/happyfish100/libfastcommon?style=flat-square&color=blue)](https://github.com/happyfish100/libfastcommon/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > c common functions library extracted from my open source project FastDFS. this library is very simple and stable.  functions including: string, logger, chain, hash, socket, ini file reader, base64 encode / decode, url encode / decode, fast timer, skiplist, object pool etc. detail info please see the c header files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 926 |
 | 🍴 **Forks** | 531 |
 | 💻 **Language** | C |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ happyfish100/libfastcommon 项目具有很高的生产可用性。它有近 900 
 | forks | 68/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

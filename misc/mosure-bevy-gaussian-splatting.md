@@ -1,6 +1,6 @@
 # mosure/bevy_gaussian_splatting
 
-[![Stars](https://img.shields.io/github/stars/mosure/bevy_gaussian_splatting?style=flat-square&color=yellow)](https://github.com/mosure/bevy_gaussian_splatting/stargazers) [![Forks](https://img.shields.io/github/forks/mosure/bevy_gaussian_splatting?style=flat-square&color=blue)](https://github.com/mosure/bevy_gaussian_splatting/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mosure/bevy_gaussian_splatting?style=flat-square&color=yellow)](https://github.com/mosure/bevy_gaussian_splatting/stargazers) [![Forks](https://img.shields.io/github/forks/mosure/bevy_gaussian_splatting?style=flat-square&color=blue)](https://github.com/mosure/bevy_gaussian_splatting/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > bevy gaussian splatting render pipeline plugin 🕊️🌌
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -143,11 +143,11 @@ bevy_gaussian_splatting 为 Bevy 项目提供了即插即用的 Gaussian Splatti
 | forks | 35/100 |
 | stars | 52/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

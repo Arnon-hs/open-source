@@ -1,6 +1,6 @@
 # faucetsdn/faucet
 
-[![Stars](https://img.shields.io/github/stars/faucetsdn/faucet?style=flat-square&color=yellow)](https://github.com/faucetsdn/faucet/stargazers) [![Forks](https://img.shields.io/github/forks/faucetsdn/faucet?style=flat-square&color=blue)](https://github.com/faucetsdn/faucet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/faucetsdn/faucet?style=flat-square&color=yellow)](https://github.com/faucetsdn/faucet/stargazers) [![Forks](https://img.shields.io/github/forks/faucetsdn/faucet?style=flat-square&color=blue)](https://github.com/faucetsdn/faucet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > FAUCET is an OpenFlow controller for multi table OpenFlow 1.3 switches, that implements layer 2 switching, VLANs, ACLs, and layer 3 IPv4 and IPv6 routing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 625 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ FAUCET 的生产可用性为中等。它适合用于原型设计或内部流程�
 | forks | 58/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

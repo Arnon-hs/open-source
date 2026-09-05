@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ EnergizedProtection/block：EnergizedProtection/block helps catch security and p
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

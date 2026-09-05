@@ -1,6 +1,6 @@
 # wink-run/tokenbank
 
-[![Stars](https://img.shields.io/github/stars/wink-run/tokenbank?style=flat-square&color=yellow)](https://github.com/wink-run/tokenbank/stargazers) [![Forks](https://img.shields.io/github/forks/wink-run/tokenbank?style=flat-square&color=blue)](https://github.com/wink-run/tokenbank/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wink-run/tokenbank?style=flat-square&color=yellow)](https://github.com/wink-run/tokenbank/stargazers) [![Forks](https://img.shields.io/github/forks/wink-run/tokenbank?style=flat-square&color=blue)](https://github.com/wink-run/tokenbank/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Token Bank — the local LLM gateway that sits between your AI agents and every provider.  Know where tokens go · Spend less with smart routing to Ollama, Groq, GitHub Models · Earn by sharing idle quota on a community P2P network.  One-click onboarding for Cursor, Claude Code, Codex CLI, Gemini CLI — no agent changes. Full trace, seamless model swap
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Observability
+AI/ML · Networking · Observability
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Token Bank 的生产可用性为中等（Medium），适合用于原型开发或
 | forks | 25/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

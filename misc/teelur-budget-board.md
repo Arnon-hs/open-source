@@ -1,6 +1,6 @@
 # teelur/budget-board
 
-[![Stars](https://img.shields.io/github/stars/teelur/budget-board?style=flat-square&color=yellow)](https://github.com/teelur/budget-board/stargazers) [![Forks](https://img.shields.io/github/forks/teelur/budget-board?style=flat-square&color=blue)](https://github.com/teelur/budget-board/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teelur/budget-board?style=flat-square&color=yellow)](https://github.com/teelur/budget-board/stargazers) [![Forks](https://img.shields.io/github/forks/teelur/budget-board?style=flat-square&color=blue)](https://github.com/teelur/budget-board/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A simple app for tracking monthly spending and working towards financial goals.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 858 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ teelur/budget-board 的生产可用性很高，主要原因包括：
 | forks | 44/100 |
 | stars | 62/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

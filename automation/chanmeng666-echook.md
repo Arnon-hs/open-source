@@ -1,6 +1,6 @@
 # ChanMeng666/echook
 
-[![Stars](https://img.shields.io/github/stars/ChanMeng666/echook?style=flat-square&color=yellow)](https://github.com/ChanMeng666/echook/stargazers) [![Forks](https://img.shields.io/github/forks/ChanMeng666/echook?style=flat-square&color=blue)](https://github.com/ChanMeng666/echook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChanMeng666/echook?style=flat-square&color=yellow)](https://github.com/ChanMeng666/echook/stargazers) [![Forks](https://img.shields.io/github/forks/ChanMeng666/echook?style=flat-square&color=blue)](https://github.com/ChanMeng666/echook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 🔊 echook — AI-operated audio notifications for Claude Code, Cursor IDE & Codex CLI — 26 hooks, voice + chime themes, TTS, webhooks, rate-limit alerts, status line. Tell your AI agent to install — natural language forever after.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ echook — это набор из 26 голосовых и звуковых х
 | forks | 21/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

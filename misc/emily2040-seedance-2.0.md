@@ -1,6 +1,6 @@
 # Emily2040/seedance-2.0
 
-[![Stars](https://img.shields.io/github/stars/Emily2040/seedance-2.0?style=flat-square&color=yellow)](https://github.com/Emily2040/seedance-2.0/stargazers) [![Forks](https://img.shields.io/github/forks/Emily2040/seedance-2.0?style=flat-square&color=blue)](https://github.com/Emily2040/seedance-2.0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Emily2040/seedance-2.0?style=flat-square&color=yellow)](https://github.com/Emily2040/seedance-2.0/stargazers) [![Forks](https://img.shields.io/github/forks/Emily2040/seedance-2.0?style=flat-square&color=blue)](https://github.com/Emily2040/seedance-2.0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 867 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Emily2040/seedance-2.0 帮助开发者快速添加 AI 能力，适用于以下�
 | forks | 73/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ huangjia2019/claude-code-engineering：huangjia2019/claude-code-engineering help
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

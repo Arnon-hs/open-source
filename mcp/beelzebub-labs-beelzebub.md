@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ beelzebub-labs/beelzebub：beelzebub-labs/beelzebub helps connect AI assistants 
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

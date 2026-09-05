@@ -1,6 +1,6 @@
 # Docile-Alligator/Infinity-For-Reddit
 
-[![Stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit?style=flat-square&color=yellow)](https://github.com/Docile-Alligator/Infinity-For-Reddit/stargazers) [![Forks](https://img.shields.io/github/forks/Docile-Alligator/Infinity-For-Reddit?style=flat-square&color=blue)](https://github.com/Docile-Alligator/Infinity-For-Reddit/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit?style=flat-square&color=yellow)](https://github.com/Docile-Alligator/Infinity-For-Reddit/stargazers) [![Forks](https://img.shields.io/github/forks/Docile-Alligator/Infinity-For-Reddit?style=flat-square&color=blue)](https://github.com/Docile-Alligator/Infinity-For-Reddit/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A Reddit client for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 505 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Docile-Alligator/Infinity-For-Reddit 的生产可用性很高，因为：
 | forks | 68/100 |
 | stars | 79/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

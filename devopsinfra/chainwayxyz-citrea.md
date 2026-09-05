@@ -1,6 +1,6 @@
 # chainwayxyz/citrea
 
-[![Stars](https://img.shields.io/github/stars/chainwayxyz/citrea?style=flat-square&color=yellow)](https://github.com/chainwayxyz/citrea/stargazers) [![Forks](https://img.shields.io/github/forks/chainwayxyz/citrea?style=flat-square&color=blue)](https://github.com/chainwayxyz/citrea/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chainwayxyz/citrea?style=flat-square&color=yellow)](https://github.com/chainwayxyz/citrea/stargazers) [![Forks](https://img.shields.io/github/forks/chainwayxyz/citrea?style=flat-square&color=blue)](https://github.com/chainwayxyz/citrea/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Citrea repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Citrea sits at a medium readiness level: it is stable enough for prototypes and 
 | forks | 54/100 |
 | stars | 52/100 |
 | topics | 50/100 |
-| outlook | 44/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 45/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

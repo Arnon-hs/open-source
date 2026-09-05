@@ -1,6 +1,6 @@
 # LeeJuOh/claude-code-zero
 
-[![Stars](https://img.shields.io/github/stars/LeeJuOh/claude-code-zero?style=flat-square&color=yellow)](https://github.com/LeeJuOh/claude-code-zero/stargazers) [![Forks](https://img.shields.io/github/forks/LeeJuOh/claude-code-zero?style=flat-square&color=blue)](https://github.com/LeeJuOh/claude-code-zero/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LeeJuOh/claude-code-zero?style=flat-square&color=yellow)](https://github.com/LeeJuOh/claude-code-zero/stargazers) [![Forks](https://img.shields.io/github/forks/LeeJuOh/claude-code-zero?style=flat-square&color=blue)](https://github.com/LeeJuOh/claude-code-zero/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Complete Claude Code plugin marketplace — agents, skills, hooks, commands, rules, MCPs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ LeeJuOh/claude-code-zero 是一个完整的 Claude Code 插件市场，实现了
 | forks | 19/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

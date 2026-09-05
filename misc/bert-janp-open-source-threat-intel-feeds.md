@@ -1,6 +1,6 @@
 # Bert-JanP/Open-Source-Threat-Intel-Feeds
 
-[![Stars](https://img.shields.io/github/stars/Bert-JanP/Open-Source-Threat-Intel-Feeds?style=flat-square&color=yellow)](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/stargazers) [![Forks](https://img.shields.io/github/forks/Bert-JanP/Open-Source-Threat-Intel-Feeds?style=flat-square&color=blue)](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bert-JanP/Open-Source-Threat-Intel-Feeds?style=flat-square&color=yellow)](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/stargazers) [![Forks](https://img.shields.io/github/forks/Bert-JanP/Open-Source-Threat-Intel-Feeds?style=flat-square&color=blue)](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains Open Source freely usable Threat Intel feeds that can be used without additional requirements. Contains multiple types such as IP, URL, CVE and Hash.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 856 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ Bert‑JanP/Open‑Source‑Threat‑Intel‑Feeds 提供了可直接使用的�
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # kadykov/mcp-openapi-schema-explorer
 
-[![Stars](https://img.shields.io/github/stars/kadykov/mcp-openapi-schema-explorer?style=flat-square&color=yellow)](https://github.com/kadykov/mcp-openapi-schema-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/kadykov/mcp-openapi-schema-explorer?style=flat-square&color=blue)](https://github.com/kadykov/mcp-openapi-schema-explorer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kadykov/mcp-openapi-schema-explorer?style=flat-square&color=yellow)](https://github.com/kadykov/mcp-openapi-schema-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/kadykov/mcp-openapi-schema-explorer?style=flat-square&color=blue)](https://github.com/kadykov/mcp-openapi-schema-explorer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server providing token-efficient access to OpenAPI/Swagger specs via MCP Resource Templates for client-side exploration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ kadykov/mcp-openapi-schema-explorer 具备 **高生产可用性**，适合作为
 | forks | 29/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # seehiong/blender-mcp-n8n
 
-[![Stars](https://img.shields.io/github/stars/seehiong/blender-mcp-n8n?style=flat-square&color=yellow)](https://github.com/seehiong/blender-mcp-n8n/stargazers) [![Forks](https://img.shields.io/github/forks/seehiong/blender-mcp-n8n?style=flat-square&color=blue)](https://github.com/seehiong/blender-mcp-n8n/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seehiong/blender-mcp-n8n?style=flat-square&color=yellow)](https://github.com/seehiong/blender-mcp-n8n/stargazers) [![Forks](https://img.shields.io/github/forks/seehiong/blender-mcp-n8n?style=flat-square&color=blue)](https://github.com/seehiong/blender-mcp-n8n/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Automate Blender 3D modeling with AI via MCP — 93 tools for modeling, sculpting, architecture/MEP, materials, and 3D-print prep. Includes Blender Studio: a visual record/replay session editor with a multi-provider AI assistant (Claude, Gemini, OpenRouter) — drive it from n8n, Claude Code, or standalone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ seehiong/blender-mcp-n8n 是一个开源项目，旨在通过 Model Context Prot
 | forks | 26/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

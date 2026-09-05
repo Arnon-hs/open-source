@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Knowledge/RAG · AI/ML · Database
+Crypto · Knowledge/RAG · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Crypto · Knowledge/RAG · AI/ML · Database
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

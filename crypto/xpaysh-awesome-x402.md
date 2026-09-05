@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ xpaysh/awesome-x402：xpaysh/awesome-x402 helps prototype or inspect blockchain 
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

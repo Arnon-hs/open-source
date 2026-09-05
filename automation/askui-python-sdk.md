@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools
+Automation · AI/ML · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -115,7 +115,7 @@ askui/python-sdk 的生产可用性高，主要原因包括：
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # yym68686/uni-api
 
-[![Stars](https://img.shields.io/github/stars/yym68686/uni-api?style=flat-square&color=yellow)](https://github.com/yym68686/uni-api/stargazers) [![Forks](https://img.shields.io/github/forks/yym68686/uni-api?style=flat-square&color=blue)](https://github.com/yym68686/uni-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yym68686/uni-api?style=flat-square&color=yellow)](https://github.com/yym68686/uni-api/stargazers) [![Forks](https://img.shields.io/github/forks/yym68686/uni-api?style=flat-square&color=blue)](https://github.com/yym68686/uni-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database
+AI/ML · Cloud & Storage · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ yym68686/uni-api：yym68686/uni-api helps add AI capability without starting fro
 | forks | 55/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Balatro-Multiplayer/BalatroMultiplayer
 
-[![Stars](https://img.shields.io/github/stars/Balatro-Multiplayer/BalatroMultiplayer?style=flat-square&color=yellow)](https://github.com/Balatro-Multiplayer/BalatroMultiplayer/stargazers) [![Forks](https://img.shields.io/github/forks/Balatro-Multiplayer/BalatroMultiplayer?style=flat-square&color=blue)](https://github.com/Balatro-Multiplayer/BalatroMultiplayer/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Balatro-Multiplayer/BalatroMultiplayer?style=flat-square&color=yellow)](https://github.com/Balatro-Multiplayer/BalatroMultiplayer/stargazers) [![Forks](https://img.shields.io/github/forks/Balatro-Multiplayer/BalatroMultiplayer?style=flat-square&color=blue)](https://github.com/Balatro-Multiplayer/BalatroMultiplayer/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A Multiplayer Mod for Balatro
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ Balatro‑Multiplayer 为 Balatro 添加了在线对战功能，让玩家可以�
 | forks | 50/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

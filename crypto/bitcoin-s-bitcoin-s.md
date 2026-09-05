@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ bitcoin-s/bitcoin-s：bitcoin-s/bitcoin-s helps prototype or inspect blockchain 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

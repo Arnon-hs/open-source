@@ -1,6 +1,6 @@
 # containrrr/watchtower
 
-[![Stars](https://img.shields.io/github/stars/containrrr/watchtower?style=flat-square&color=yellow)](https://github.com/containrrr/watchtower/stargazers) [![Forks](https://img.shields.io/github/forks/containrrr/watchtower?style=flat-square&color=blue)](https://github.com/containrrr/watchtower/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containrrr/watchtower?style=flat-square&color=yellow)](https://github.com/containrrr/watchtower/stargazers) [![Forks](https://img.shields.io/github/forks/containrrr/watchtower?style=flat-square&color=blue)](https://github.com/containrrr/watchtower/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A process for automating Docker container base image updates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ containrrr/watchtower：containrrr/watchtower helps remove repetitive manual ope
 | forks | 76/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

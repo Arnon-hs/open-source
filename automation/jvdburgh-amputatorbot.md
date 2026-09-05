@@ -1,6 +1,6 @@
 # jvdburgh/AmputatorBot
 
-[![Stars](https://img.shields.io/github/stars/jvdburgh/AmputatorBot?style=flat-square&color=yellow)](https://github.com/jvdburgh/AmputatorBot/stargazers) [![Forks](https://img.shields.io/github/forks/jvdburgh/AmputatorBot?style=flat-square&color=blue)](https://github.com/jvdburgh/AmputatorBot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jvdburgh/AmputatorBot?style=flat-square&color=yellow)](https://github.com/jvdburgh/AmputatorBot/stargazers) [![Forks](https://img.shields.io/github/forks/jvdburgh/AmputatorBot?style=flat-square&color=blue)](https://github.com/jvdburgh/AmputatorBot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit app that automatically replies to comments and submissions containing AMP URLs with the canonical link(s). It's also available as a website and public REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why_did_i_build_amputatorbot/.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ AmputatorBot 是一个专门用于Reddit的应用程序，自动回复包含AMP 
 | forks | 25/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

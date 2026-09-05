@@ -1,6 +1,6 @@
 # nmbrthirteen/podcli
 
-[![Stars](https://img.shields.io/github/stars/nmbrthirteen/podcli?style=flat-square&color=yellow)](https://github.com/nmbrthirteen/podcli/stargazers) [![Forks](https://img.shields.io/github/forks/nmbrthirteen/podcli?style=flat-square&color=blue)](https://github.com/nmbrthirteen/podcli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nmbrthirteen/podcli?style=flat-square&color=yellow)](https://github.com/nmbrthirteen/podcli/stargazers) [![Forks](https://img.shields.io/github/forks/nmbrthirteen/podcli?style=flat-square&color=blue)](https://github.com/nmbrthirteen/podcli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI podcast clipper. Generate vertical clips with face tracking and burned-in captions. CLI, MCP server, web app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ nmbrthirteen/podcli 是一款开源的 AI 播客剪辑工具，能够基于人�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

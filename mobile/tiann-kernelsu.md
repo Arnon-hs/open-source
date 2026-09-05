@@ -1,6 +1,6 @@
 # tiann/KernelSU
 
-[![Stars](https://img.shields.io/github/stars/tiann/KernelSU?style=flat-square&color=yellow)](https://github.com/tiann/KernelSU/stargazers) [![Forks](https://img.shields.io/github/forks/tiann/KernelSU?style=flat-square&color=blue)](https://github.com/tiann/KernelSU/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tiann/KernelSU?style=flat-square&color=yellow)](https://github.com/tiann/KernelSU/stargazers) [![Forks](https://img.shields.io/github/forks/tiann/KernelSU?style=flat-square&color=blue)](https://github.com/tiann/KernelSU/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A Kernel based root solution for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.7k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ tiann/KernelSU 在生产环境中的可用性非常高，尤其是考虑到其�
 | forks | 90/100 |
 | stars | 90/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 80/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

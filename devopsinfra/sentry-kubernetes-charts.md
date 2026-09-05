@@ -1,6 +1,6 @@
 # sentry-kubernetes/charts
 
-[![Stars](https://img.shields.io/github/stars/sentry-kubernetes/charts?style=flat-square&color=yellow)](https://github.com/sentry-kubernetes/charts/stargazers) [![Forks](https://img.shields.io/github/forks/sentry-kubernetes/charts?style=flat-square&color=blue)](https://github.com/sentry-kubernetes/charts/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sentry-kubernetes/charts?style=flat-square&color=yellow)](https://github.com/sentry-kubernetes/charts/stargazers) [![Forks](https://img.shields.io/github/forks/sentry-kubernetes/charts?style=flat-square&color=blue)](https://github.com/sentry-kubernetes/charts/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Easily deploy Sentry on your Kubernetes Cluster
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 593 |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ sentry-kubernetes/charts 帮助开发人员和运维人员通过标准化部署�
 | forks | 69/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

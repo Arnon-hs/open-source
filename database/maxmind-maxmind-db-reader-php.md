@@ -1,6 +1,6 @@
 # maxmind/MaxMind-DB-Reader-php
 
-[![Stars](https://img.shields.io/github/stars/maxmind/MaxMind-DB-Reader-php?style=flat-square&color=yellow)](https://github.com/maxmind/MaxMind-DB-Reader-php/stargazers) [![Forks](https://img.shields.io/github/forks/maxmind/MaxMind-DB-Reader-php?style=flat-square&color=blue)](https://github.com/maxmind/MaxMind-DB-Reader-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxmind/MaxMind-DB-Reader-php?style=flat-square&color=yellow)](https://github.com/maxmind/MaxMind-DB-Reader-php/stargazers) [![Forks](https://img.shields.io/github/forks/maxmind/MaxMind-DB-Reader-php?style=flat-square&color=blue)](https://github.com/maxmind/MaxMind-DB-Reader-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > PHP Reader for the MaxMind DB Database Format
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 702 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ MaxMind-DB-Reader-php 的生产可用性为中等（Medium）。它适用于原�
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | C |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ SWI-Prolog/swipl-devel：SWI-Prolog/swipl-devel may be useful when its README an
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

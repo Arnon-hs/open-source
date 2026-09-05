@@ -1,6 +1,6 @@
 # prof18/RSS-Parser
 
-[![Stars](https://img.shields.io/github/stars/prof18/RSS-Parser?style=flat-square&color=yellow)](https://github.com/prof18/RSS-Parser/stargazers) [![Forks](https://img.shields.io/github/forks/prof18/RSS-Parser?style=flat-square&color=blue)](https://github.com/prof18/RSS-Parser/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prof18/RSS-Parser?style=flat-square&color=yellow)](https://github.com/prof18/RSS-Parser/stargazers) [![Forks](https://img.shields.io/github/forks/prof18/RSS-Parser?style=flat-square&color=blue)](https://github.com/prof18/RSS-Parser/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin Multiplatform library for parsing RSS, Atom, and RDF feeds on Android, iOS, macOS, tvOS, watchOS, JVM, JS, and Wasm.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 613 |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ prof18/RSS-Parser is a Kotlin Multiplatform library that lets you parse RSS, Ato
 | forks | 53/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

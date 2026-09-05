@@ -1,6 +1,6 @@
 # bufbuild/protobuf-es
 
-[![Stars](https://img.shields.io/github/stars/bufbuild/protobuf-es?style=flat-square&color=yellow)](https://github.com/bufbuild/protobuf-es/stargazers) [![Forks](https://img.shields.io/github/forks/bufbuild/protobuf-es?style=flat-square&color=blue)](https://github.com/bufbuild/protobuf-es/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bufbuild/protobuf-es?style=flat-square&color=yellow)](https://github.com/bufbuild/protobuf-es/stargazers) [![Forks](https://img.shields.io/github/forks/bufbuild/protobuf-es?style=flat-square&color=blue)](https://github.com/bufbuild/protobuf-es/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ bufbuild/protobuf-es 的生产可用性较高，主要原因是：
 | forks | 58/100 |
 | stars | 68/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

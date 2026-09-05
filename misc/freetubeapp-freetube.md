@@ -1,6 +1,6 @@
 # FreeTubeApp/FreeTube
 
-[![Stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=flat-square&color=yellow)](https://github.com/FreeTubeApp/FreeTube/stargazers) [![Forks](https://img.shields.io/github/forks/FreeTubeApp/FreeTube?style=flat-square&color=blue)](https://github.com/FreeTubeApp/FreeTube/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=flat-square&color=yellow)](https://github.com/FreeTubeApp/FreeTube/stargazers) [![Forks](https://img.shields.io/github/forks/FreeTubeApp/FreeTube?style=flat-square&color=blue)](https://github.com/FreeTubeApp/FreeTube/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An Open Source YouTube app for privacy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ FreeTube 是一款完全开源的 YouTube 客户端，专注于用户隐私。�
 | forks | 79/100 |
 | stars | 92/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

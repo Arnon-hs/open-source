@@ -1,6 +1,6 @@
 # clarity-digital-development/tworkflow
 
-[![Stars](https://img.shields.io/github/stars/clarity-digital-development/tworkflow?style=flat-square&color=yellow)](https://github.com/clarity-digital-development/tworkflow/stargazers) [![Forks](https://img.shields.io/github/forks/clarity-digital-development/tworkflow?style=flat-square&color=blue)](https://github.com/clarity-digital-development/tworkflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clarity-digital-development/tworkflow?style=flat-square&color=yellow)](https://github.com/clarity-digital-development/tworkflow/stargazers) [![Forks](https://img.shields.io/github/forks/clarity-digital-development/tworkflow?style=flat-square&color=blue)](https://github.com/clarity-digital-development/tworkflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A practical, no-hype workflow for AI coding agents: context, plan, implement, review, QA, ship, retro. Templates, two Claude Code skills, and a 40% context rule - every claim traced to official docs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ clarity-digital-development/tworkflow 帮助将孤立的命令和工具转换为
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

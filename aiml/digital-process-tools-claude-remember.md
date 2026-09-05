@@ -1,6 +1,6 @@
 # Digital-Process-Tools/claude-remember
 
-[![Stars](https://img.shields.io/github/stars/Digital-Process-Tools/claude-remember?style=flat-square&color=yellow)](https://github.com/Digital-Process-Tools/claude-remember/stargazers) [![Forks](https://img.shields.io/github/forks/Digital-Process-Tools/claude-remember?style=flat-square&color=blue)](https://github.com/Digital-Process-Tools/claude-remember/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Digital-Process-Tools/claude-remember?style=flat-square&color=yellow)](https://github.com/Digital-Process-Tools/claude-remember/stargazers) [![Forks](https://img.shields.io/github/forks/Digital-Process-Tools/claude-remember?style=flat-square&color=blue)](https://github.com/Digital-Process-Tools/claude-remember/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory for Claude Code — identity, context, and continuity across sessions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Digital-Process-Tools/claude-remember 为 Claude 代码提供持久化记忆，�
 | forks | 39/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

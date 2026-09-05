@@ -1,6 +1,6 @@
 # Dolibarr/dolibarr
 
-[![Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=flat-square&color=yellow)](https://github.com/Dolibarr/dolibarr/stargazers) [![Forks](https://img.shields.io/github/forks/Dolibarr/dolibarr?style=flat-square&color=blue)](https://github.com/Dolibarr/dolibarr/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=flat-square&color=yellow)](https://github.com/Dolibarr/dolibarr/stargazers) [![Forks](https://img.shields.io/github/forks/Dolibarr/dolibarr?style=flat-square&color=blue)](https://github.com/Dolibarr/dolibarr/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Dolibarr 具备高可用的企业级功能，能够在几天内完成计费/支�
 | forks | 88/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 73/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

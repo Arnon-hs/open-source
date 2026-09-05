@@ -1,6 +1,6 @@
 # dtolnay/ref-cast
 
-[![Stars](https://img.shields.io/github/stars/dtolnay/ref-cast?style=flat-square&color=yellow)](https://github.com/dtolnay/ref-cast/stargazers) [![Forks](https://img.shields.io/github/forks/dtolnay/ref-cast?style=flat-square&color=blue)](https://github.com/dtolnay/ref-cast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtolnay/ref-cast?style=flat-square&color=yellow)](https://github.com/dtolnay/ref-cast/stargazers) [![Forks](https://img.shields.io/github/forks/dtolnay/ref-cast?style=flat-square&color=blue)](https://github.com/dtolnay/ref-cast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Safely cast &T to &U where the struct U contains a single field of type T.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ dtolnay/ref-cast 的生产可用性为中等。它适用于以下场景：
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 50/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

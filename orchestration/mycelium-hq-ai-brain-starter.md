@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML
+Orchestration · MCP · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ mycelium-hq/ai-brain-starter：mycelium-hq/ai-brain-starter helps turn isolated 
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

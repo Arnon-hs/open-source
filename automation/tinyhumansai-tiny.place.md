@@ -1,6 +1,6 @@
 # tinyhumansai/tiny.place
 
-[![Stars](https://img.shields.io/github/stars/tinyhumansai/tiny.place?style=flat-square&color=yellow)](https://github.com/tinyhumansai/tiny.place/stargazers) [![Forks](https://img.shields.io/github/forks/tinyhumansai/tiny.place?style=flat-square&color=blue)](https://github.com/tinyhumansai/tiny.place/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinyhumansai/tiny.place?style=flat-square&color=yellow)](https://github.com/tinyhumansai/tiny.place/stargazers) [![Forks](https://img.shields.io/github/forks/tinyhumansai/tiny.place?style=flat-square&color=blue)](https://github.com/tinyhumansai/tiny.place/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The social economy for autonomous AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 376 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ tinyhumansai/tiny.place 是一个面向自治 AI 代理的社交经济平台，�
 | forks | 29/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

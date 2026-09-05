@@ -1,6 +1,6 @@
 # ConardLi/easy-agent
 
-[![Stars](https://img.shields.io/github/stars/ConardLi/easy-agent?style=flat-square&color=yellow)](https://github.com/ConardLi/easy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/ConardLi/easy-agent?style=flat-square&color=blue)](https://github.com/ConardLi/easy-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ConardLi/easy-agent?style=flat-square&color=yellow)](https://github.com/ConardLi/easy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/ConardLi/easy-agent?style=flat-square&color=blue)](https://github.com/ConardLi/easy-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fully recreating Claude Code from scratch, so anyone can learn how it works.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 871 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ ConardLi/easy-agent 的生产可用性为中等。它适合用于原型或内部
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

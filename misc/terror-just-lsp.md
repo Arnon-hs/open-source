@@ -1,6 +1,6 @@
 # terror/just-lsp
 
-[![Stars](https://img.shields.io/github/stars/terror/just-lsp?style=flat-square&color=yellow)](https://github.com/terror/just-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/terror/just-lsp?style=flat-square&color=blue)](https://github.com/terror/just-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terror/just-lsp?style=flat-square&color=yellow)](https://github.com/terror/just-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/terror/just-lsp?style=flat-square&color=blue)](https://github.com/terror/just-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A language server for just
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ terror/just‑lsp 是用 Rust 编写的 Just（任务运行器）语言服务器
 | forks | 34/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 37/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

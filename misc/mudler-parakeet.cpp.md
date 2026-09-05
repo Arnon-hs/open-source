@@ -1,6 +1,6 @@
 # mudler/parakeet.cpp
 
-[![Stars](https://img.shields.io/github/stars/mudler/parakeet.cpp?style=flat-square&color=yellow)](https://github.com/mudler/parakeet.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/mudler/parakeet.cpp?style=flat-square&color=blue)](https://github.com/mudler/parakeet.cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mudler/parakeet.cpp?style=flat-square&color=yellow)](https://github.com/mudler/parakeet.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/mudler/parakeet.cpp?style=flat-square&color=blue)](https://github.com/mudler/parakeet.cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Parakeet implementation in C++ with ggml
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 602 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ mudler/parakeet.cpp 是一个用 C++ 实现的 Parakeet（基于 ggml 的轻量�
 | forks | 44/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

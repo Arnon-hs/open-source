@@ -1,6 +1,6 @@
 # itsthelore/WayfinderRouter
 
-[![Stars](https://img.shields.io/github/stars/itsthelore/WayfinderRouter?style=flat-square&color=yellow)](https://github.com/itsthelore/WayfinderRouter/stargazers) [![Forks](https://img.shields.io/github/forks/itsthelore/WayfinderRouter?style=flat-square&color=blue)](https://github.com/itsthelore/WayfinderRouter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itsthelore/WayfinderRouter?style=flat-square&color=yellow)](https://github.com/itsthelore/WayfinderRouter/stargazers) [![Forks](https://img.shields.io/github/forks/itsthelore/WayfinderRouter?style=flat-square&color=blue)](https://github.com/itsthelore/WayfinderRouter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ itsthelore/WayfinderRouter 的生产可用性为中等（Medium），适合用�
 | forks | 34/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Lymphatus/libcaesium
 
-[![Stars](https://img.shields.io/github/stars/Lymphatus/libcaesium?style=flat-square&color=yellow)](https://github.com/Lymphatus/libcaesium/stargazers) [![Forks](https://img.shields.io/github/forks/Lymphatus/libcaesium?style=flat-square&color=blue)](https://github.com/Lymphatus/libcaesium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lymphatus/libcaesium?style=flat-square&color=yellow)](https://github.com/Lymphatus/libcaesium/stargazers) [![Forks](https://img.shields.io/github/forks/Lymphatus/libcaesium?style=flat-square&color=blue)](https://github.com/Lymphatus/libcaesium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Caesium compression library written in Rust (with a C interface)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ Lymphatus/libcaesium：Lymphatus/libcaesium may be useful when its README and ac
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

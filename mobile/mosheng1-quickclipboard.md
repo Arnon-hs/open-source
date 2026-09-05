@@ -1,6 +1,6 @@
 # mosheng1/QuickClipboard
 
-[![Stars](https://img.shields.io/github/stars/mosheng1/QuickClipboard?style=flat-square&color=yellow)](https://github.com/mosheng1/QuickClipboard/stargazers) [![Forks](https://img.shields.io/github/forks/mosheng1/QuickClipboard?style=flat-square&color=blue)](https://github.com/mosheng1/QuickClipboard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mosheng1/QuickClipboard?style=flat-square&color=yellow)](https://github.com/mosheng1/QuickClipboard/stargazers) [![Forks](https://img.shields.io/github/forks/mosheng1/QuickClipboard?style=flat-square&color=blue)](https://github.com/mosheng1/QuickClipboard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了截图、贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ QuickClipboard 的生产可用性为中等（Medium）。它适合用于：
 | forks | 48/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

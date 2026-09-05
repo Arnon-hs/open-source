@@ -1,6 +1,6 @@
 # remotion-dev/template-three
 
-[![Stars](https://img.shields.io/github/stars/remotion-dev/template-three?style=flat-square&color=yellow)](https://github.com/remotion-dev/template-three/stargazers) [![Forks](https://img.shields.io/github/forks/remotion-dev/template-three?style=flat-square&color=blue)](https://github.com/remotion-dev/template-three/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remotion-dev/template-three?style=flat-square&color=yellow)](https://github.com/remotion-dev/template-three/stargazers) [![Forks](https://img.shields.io/github/forks/remotion-dev/template-three?style=flat-square&color=blue)](https://github.com/remotion-dev/template-three/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ⚛️  🎥 3️⃣  A minimal boilerplate for Remotion + React Three Fiber
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ remotion-dev/template-three：remotion-dev/template-three helps turn media editi
 | forks | 32/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

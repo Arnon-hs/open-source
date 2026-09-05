@@ -1,6 +1,6 @@
 # huangjia2019/rag-in-action
 
-[![Stars](https://img.shields.io/github/stars/huangjia2019/rag-in-action?style=flat-square&color=yellow)](https://github.com/huangjia2019/rag-in-action/stargazers) [![Forks](https://img.shields.io/github/forks/huangjia2019/rag-in-action?style=flat-square&color=blue)](https://github.com/huangjia2019/rag-in-action/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huangjia2019/rag-in-action?style=flat-square&color=yellow)](https://github.com/huangjia2019/rag-in-action/stargazers) [![Forks](https://img.shields.io/github/forks/huangjia2019/rag-in-action?style=flat-square&color=blue)](https://github.com/huangjia2019/rag-in-action/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > End-to-end RAG system design, evaluation, and optimization. 极客时间RAG训练营，RAG 10大组件全面拆解，4个实操项目吃透 RAG 全流程。RAG的落地，往往是面向业务做RAG，而不是反过来面向RAG做业务。这就是为什么我们需要针对不同场景、不同问题做针对性的调整、优化和定制化。魔鬼全在细节中，我们深入进去探究。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 779 |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ The project is considered medium-production ready, indicating that it's suitable
 | forks | 62/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # janosh/diagrams
 
-[![Stars](https://img.shields.io/github/stars/janosh/diagrams?style=flat-square&color=yellow)](https://github.com/janosh/diagrams/stargazers) [![Forks](https://img.shields.io/github/forks/janosh/diagrams?style=flat-square&color=blue)](https://github.com/janosh/diagrams/network) [![Language](https://img.shields.io/badge/lang-Typst-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janosh/diagrams?style=flat-square&color=yellow)](https://github.com/janosh/diagrams/stargazers) [![Forks](https://img.shields.io/github/forks/janosh/diagrams?style=flat-square&color=blue)](https://github.com/janosh/diagrams/network) [![Language](https://img.shields.io/badge/lang-Typst-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Diagrams of concepts in physics/chemistry/ML
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 650 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Typst |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ janosh/diagrams的生产可用性被评定为中等（Medium）。它适用于�
 | forks | 47/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

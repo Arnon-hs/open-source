@@ -1,6 +1,6 @@
 # eliornl/applypilot
 
-[![Stars](https://img.shields.io/github/stars/eliornl/applypilot?style=flat-square&color=yellow)](https://github.com/eliornl/applypilot/stargazers) [![Forks](https://img.shields.io/github/forks/eliornl/applypilot?style=flat-square&color=blue)](https://github.com/eliornl/applypilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eliornl/applypilot?style=flat-square&color=yellow)](https://github.com/eliornl/applypilot/stargazers) [![Forks](https://img.shields.io/github/forks/eliornl/applypilot?style=flat-square&color=blue)](https://github.com/eliornl/applypilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, AI-powered job search companion. Paste a job posting and five AI agents run an orchestrated pipeline — analyze the role, score your fit, research the company, rewrite your resume, and write a cover letter — in ~30 seconds. Application dashboard. Interview prep with mock sessions. Six career tools. BYOK Gemini key. Chrome extension.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ eliornl/applypilot 的价值在于它可以帮助开发者在不从头构建模�
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

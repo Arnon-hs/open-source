@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · DevTools
+Orchestration · Knowledge/RAG · AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ zilliztech/memsearch：zilliztech/memsearch helps turn isolated prompts and tool
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

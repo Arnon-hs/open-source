@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 650 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Mobile
+Payments · Libraries & SDKs · Mobile
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ flutter-stripe/flutter_stripe：flutter-stripe/flutter_stripe helps integrate mo
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

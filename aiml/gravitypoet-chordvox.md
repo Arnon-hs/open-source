@@ -1,6 +1,6 @@
 # GravityPoet/ChordVox
 
-[![Stars](https://img.shields.io/github/stars/GravityPoet/ChordVox?style=flat-square&color=yellow)](https://github.com/GravityPoet/ChordVox/stargazers) [![Forks](https://img.shields.io/github/forks/GravityPoet/ChordVox?style=flat-square&color=blue)](https://github.com/GravityPoet/ChordVox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GravityPoet/ChordVox?style=flat-square&color=yellow)](https://github.com/GravityPoet/ChordVox/stargazers) [![Forks](https://img.shields.io/github/forks/GravityPoet/ChordVox?style=flat-square&color=blue)](https://github.com/GravityPoet/ChordVox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Your voice is the fastest keyboard. Local AI voice input — speak, AI polish, auto-paste at cursor. Free forever local speech-to-text.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ GravityPoet/ChordVox 的生产可用性为中等，适用于以下场景：
 | forks | 25/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

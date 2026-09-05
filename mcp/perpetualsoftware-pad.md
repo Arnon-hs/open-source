@@ -1,6 +1,6 @@
 # PerpetualSoftware/pad
 
-[![Stars](https://img.shields.io/github/stars/PerpetualSoftware/pad?style=flat-square&color=yellow)](https://github.com/PerpetualSoftware/pad/stargazers) [![Forks](https://img.shields.io/github/forks/PerpetualSoftware/pad?style=flat-square&color=blue)](https://github.com/PerpetualSoftware/pad/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PerpetualSoftware/pad?style=flat-square&color=yellow)](https://github.com/PerpetualSoftware/pad/stargazers) [![Forks](https://img.shields.io/github/forks/PerpetualSoftware/pad?style=flat-square&color=blue)](https://github.com/PerpetualSoftware/pad/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Project Management for the agent era
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · AI/ML · Documents · Backend · DevTools
 
 ## 📝 Summary
 
@@ -100,11 +100,11 @@ PerpetualSoftware/pad 是面向 AI 代理时代的项目管理平台，提供统
 | forks | 23/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

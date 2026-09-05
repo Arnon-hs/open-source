@@ -1,6 +1,6 @@
 # EvoLinkAI/awesome-seedance-2.5-guide
 
-[![Stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.5-guide?style=flat-square&color=yellow)](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide/stargazers) [![Forks](https://img.shields.io/github/forks/EvoLinkAI/awesome-seedance-2.5-guide?style=flat-square&color=blue)](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.5-guide?style=flat-square&color=yellow)](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide/stargazers) [![Forks](https://img.shields.io/github/forks/EvoLinkAI/awesome-seedance-2.5-guide?style=flat-square&color=blue)](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Seedance 2.5 Early Access official guide with launch demos, prompts, and current Seedance API examples.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ EvoLinkAI/awesome‑seedance‑2.5‑guide 是 Seedance 2.5 Early Access 官方�
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

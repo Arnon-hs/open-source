@@ -1,6 +1,6 @@
 # ys-ll/uniterm
 
-[![Stars](https://img.shields.io/github/stars/ys-ll/uniterm?style=flat-square&color=yellow)](https://github.com/ys-ll/uniterm/stargazers) [![Forks](https://img.shields.io/github/forks/ys-ll/uniterm?style=flat-square&color=blue)](https://github.com/ys-ll/uniterm/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ys-ll/uniterm?style=flat-square&color=yellow)](https://github.com/ys-ll/uniterm/stargazers) [![Forks](https://img.shields.io/github/forks/ys-ll/uniterm?style=flat-square&color=blue)](https://github.com/ys-ll/uniterm/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A modern cross-platform terminal emulator with a built-in autonomous AI Agent — capable of independently planning and executing multi-turn shell commands, like Claude Code for your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ ys-ll/uniterm 是一款现代跨平台终端模拟器，内置自主 AI Agent，
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

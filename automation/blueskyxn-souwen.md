@@ -1,6 +1,6 @@
 # BlueSkyXN/SouWen
 
-[![Stars](https://img.shields.io/github/stars/BlueSkyXN/SouWen?style=flat-square&color=yellow)](https://github.com/BlueSkyXN/SouWen/stargazers) [![Forks](https://img.shields.io/github/forks/BlueSkyXN/SouWen?style=flat-square&color=blue)](https://github.com/BlueSkyXN/SouWen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlueSkyXN/SouWen?style=flat-square&color=yellow)](https://github.com/BlueSkyXN/SouWen/stargazers) [![Forks](https://img.shields.io/github/forks/BlueSkyXN/SouWen?style=flat-square&color=blue)](https://github.com/BlueSkyXN/SouWen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Unified search, crawling, and archiving toolbox for AI agents and automation scripts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ BlueSkyXN/SouWen 的生产可用性非常高，主要原因是：
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

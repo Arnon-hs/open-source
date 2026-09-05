@@ -1,6 +1,6 @@
 # mcthesw/game-save-manager
 
-[![Stars](https://img.shields.io/github/stars/mcthesw/game-save-manager?style=flat-square&color=yellow)](https://github.com/mcthesw/game-save-manager/stargazers) [![Forks](https://img.shields.io/github/forks/mcthesw/game-save-manager?style=flat-square&color=blue)](https://github.com/mcthesw/game-save-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcthesw/game-save-manager?style=flat-square&color=yellow)](https://github.com/mcthesw/game-save-manager/stargazers) [![Forks](https://img.shields.io/github/forks/mcthesw/game-save-manager?style=flat-square&color=blue)](https://github.com/mcthesw/game-save-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 一个简单的游戏存档管理器
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ mcthesw/game-save-manager 是一个简单的游戏存档管理器，旨在帮助
 | forks | 41/100 |
 | stars | 65/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

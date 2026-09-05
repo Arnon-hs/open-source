@@ -1,6 +1,6 @@
 # Skolaczk/next-starter
 
-[![Stars](https://img.shields.io/github/stars/Skolaczk/next-starter?style=flat-square&color=yellow)](https://github.com/Skolaczk/next-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Skolaczk/next-starter?style=flat-square&color=blue)](https://github.com/Skolaczk/next-starter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Skolaczk/next-starter?style=flat-square&color=yellow)](https://github.com/Skolaczk/next-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Skolaczk/next-starter?style=flat-square&color=blue)](https://github.com/Skolaczk/next-starter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 989 |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Skolaczk/next‑starter 是一个功能齐全的 Next.js 脚手架，内置 Type
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

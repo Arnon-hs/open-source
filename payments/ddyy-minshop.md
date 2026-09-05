@@ -1,6 +1,6 @@
 # ddyy/minshop
 
-[![Stars](https://img.shields.io/github/stars/ddyy/minshop?style=flat-square&color=yellow)](https://github.com/ddyy/minshop/stargazers) [![Forks](https://img.shields.io/github/forks/ddyy/minshop?style=flat-square&color=blue)](https://github.com/ddyy/minshop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ddyy/minshop?style=flat-square&color=yellow)](https://github.com/ddyy/minshop/stargazers) [![Forks](https://img.shields.io/github/forks/ddyy/minshop?style=flat-square&color=blue)](https://github.com/ddyy/minshop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Full-stack ecommerce on Cloudflare Workers, D1, and R2 - with admin, Stripe, OpenNode, Lightning payments, and agent-ready APIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · MCP · AI/ML
+Payments · MCP · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ ddyy/minshop的价值在于，它可以帮助快速集成商业化、账单或�
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

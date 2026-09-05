@@ -1,6 +1,6 @@
 # TimothyYe/knock-rs
 
-[![Stars](https://img.shields.io/github/stars/TimothyYe/knock-rs?style=flat-square&color=yellow)](https://github.com/TimothyYe/knock-rs/stargazers) [![Forks](https://img.shields.io/github/forks/TimothyYe/knock-rs?style=flat-square&color=blue)](https://github.com/TimothyYe/knock-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TimothyYe/knock-rs?style=flat-square&color=yellow)](https://github.com/TimothyYe/knock-rs/stargazers) [![Forks](https://img.shields.io/github/forks/TimothyYe/knock-rs?style=flat-square&color=blue)](https://github.com/TimothyYe/knock-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A port-knocking implementation in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ TimothyYe/knock-rs 的价值在于，它可以提供额外的安全层，帮助�
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 38/100 |
-| outlook | 45/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

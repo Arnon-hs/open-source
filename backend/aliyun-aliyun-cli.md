@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ aliyun/aliyun-cli：aliyun/aliyun-cli helps teams reuse service infrastructure i
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

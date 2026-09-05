@@ -1,6 +1,6 @@
 # SonarSource/sonarlint-visualstudio
 
-[![Stars](https://img.shields.io/github/stars/SonarSource/sonarlint-visualstudio?style=flat-square&color=yellow)](https://github.com/SonarSource/sonarlint-visualstudio/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonarlint-visualstudio?style=flat-square&color=blue)](https://github.com/SonarSource/sonarlint-visualstudio/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SonarSource/sonarlint-visualstudio?style=flat-square&color=yellow)](https://github.com/SonarSource/sonarlint-visualstudio/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonarlint-visualstudio?style=flat-square&color=blue)](https://github.com/SonarSource/sonarlint-visualstudio/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > SonarQube extension for Visual Studio providing code quality and security feedback directly in the IDE
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 495 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ SonarSource/sonarlint-visualstudio 的生产可用性为中等（Medium）。它
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

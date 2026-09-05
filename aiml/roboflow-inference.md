@@ -1,6 +1,6 @@
 # roboflow/inference
 
-[![Stars](https://img.shields.io/github/stars/roboflow/inference?style=flat-square&color=yellow)](https://github.com/roboflow/inference/stargazers) [![Forks](https://img.shields.io/github/forks/roboflow/inference?style=flat-square&color=blue)](https://github.com/roboflow/inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roboflow/inference?style=flat-square&color=yellow)](https://github.com/roboflow/inference/stargazers) [![Forks](https://img.shields.io/github/forks/roboflow/inference?style=flat-square&color=blue)](https://github.com/roboflow/inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any computer or edge device into a command center for your computer vision projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 277 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra · Education
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Roboflow Inference turns any workstation or edge device into a plug‑and‑pl
 | forks | 61/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 83/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

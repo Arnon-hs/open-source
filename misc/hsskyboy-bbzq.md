@@ -1,6 +1,6 @@
 # HSSkyBoy/BBZQ
 
-[![Stars](https://img.shields.io/github/stars/HSSkyBoy/BBZQ?style=flat-square&color=yellow)](https://github.com/HSSkyBoy/BBZQ/stargazers) [![Forks](https://img.shields.io/github/forks/HSSkyBoy/BBZQ?style=flat-square&color=blue)](https://github.com/HSSkyBoy/BBZQ/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HSSkyBoy/BBZQ?style=flat-square&color=yellow)](https://github.com/HSSkyBoy/BBZQ/stargazers) [![Forks](https://img.shields.io/github/forks/HSSkyBoy/BBZQ?style=flat-square&color=blue)](https://github.com/HSSkyBoy/BBZQ/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 由 Kotlin 全量编写的哔哩哔哩增强 Xposed 模组
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ HSSkyBoy/BBZQ 是一个开源项目，使用 Kotlin 语言开发的哔哩哔哩�
 | forks | 34/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

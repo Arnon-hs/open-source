@@ -1,6 +1,6 @@
 # saqibameen86/mdbkit
 
-[![Stars](https://img.shields.io/github/stars/saqibameen86/mdbkit?style=flat-square&color=yellow)](https://github.com/saqibameen86/mdbkit/stargazers) [![Forks](https://img.shields.io/github/forks/saqibameen86/mdbkit?style=flat-square&color=blue)](https://github.com/saqibameen86/mdbkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saqibameen86/mdbkit?style=flat-square&color=yellow)](https://github.com/saqibameen86/mdbkit/stargazers) [![Forks](https://img.shields.io/github/forks/saqibameen86/mdbkit?style=flat-square&color=blue)](https://github.com/saqibameen86/mdbkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Offline toolkit for MongoDB structured logs. Slow query analysis, deterministic index advice, FTDC decoding. Never connects to your database.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database · Observability
+DevTools · Database · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -67,15 +67,15 @@ saqibameen86/mdbkit：saqibameen86/mdbkit helps engineers save time in daily dev
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

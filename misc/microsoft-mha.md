@@ -1,6 +1,6 @@
 # microsoft/MHA
 
-[![Stars](https://img.shields.io/github/stars/microsoft/MHA?style=flat-square&color=yellow)](https://github.com/microsoft/MHA/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/MHA?style=flat-square&color=blue)](https://github.com/microsoft/MHA/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/MHA?style=flat-square&color=yellow)](https://github.com/microsoft/MHA/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/MHA?style=flat-square&color=blue)](https://github.com/microsoft/MHA/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Message Header Analyzer Add-in For Outlook
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Microsoft MHA 的生产可用性为中等（Medium）。它适合用于：
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

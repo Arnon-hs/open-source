@@ -1,6 +1,6 @@
 # tobocop2/lilbee
 
-[![Stars](https://img.shields.io/github/stars/tobocop2/lilbee?style=flat-square&color=yellow)](https://github.com/tobocop2/lilbee/stargazers) [![Forks](https://img.shields.io/github/forks/tobocop2/lilbee?style=flat-square&color=blue)](https://github.com/tobocop2/lilbee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tobocop2/lilbee?style=flat-square&color=yellow)](https://github.com/tobocop2/lilbee/stargazers) [![Forks](https://img.shields.io/github/forks/tobocop2/lilbee?style=flat-square&color=blue)](https://github.com/tobocop2/lilbee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A local AI search engine: it runs and manages local AI models, searches your files and code, and crawls the web, all in one program. Cited answers, local-first, with an MCP server for your coding agent. TUI, CLI, REST API, and Python library. Works or without Ollama and LM Studio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ tobocop2/lilbee demonstrates high production readiness due to:
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

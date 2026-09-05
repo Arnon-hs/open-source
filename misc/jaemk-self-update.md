@@ -1,6 +1,6 @@
 # jaemk/self_update
 
-[![Stars](https://img.shields.io/github/stars/jaemk/self_update?style=flat-square&color=yellow)](https://github.com/jaemk/self_update/stargazers) [![Forks](https://img.shields.io/github/forks/jaemk/self_update?style=flat-square&color=blue)](https://github.com/jaemk/self_update/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaemk/self_update?style=flat-square&color=yellow)](https://github.com/jaemk/self_update/stargazers) [![Forks](https://img.shields.io/github/forks/jaemk/self_update?style=flat-square&color=blue)](https://github.com/jaemk/self_update/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Self updates for rust executables
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 947 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Overall, `jaemk/self_update` offers a practical, well‑starred solution for Rus
 | forks | 49/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

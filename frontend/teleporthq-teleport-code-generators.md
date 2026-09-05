@@ -1,6 +1,6 @@
 # teleporthq/teleport-code-generators
 
-[![Stars](https://img.shields.io/github/stars/teleporthq/teleport-code-generators?style=flat-square&color=yellow)](https://github.com/teleporthq/teleport-code-generators/stargazers) [![Forks](https://img.shields.io/github/forks/teleporthq/teleport-code-generators?style=flat-square&color=blue)](https://github.com/teleporthq/teleport-code-generators/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teleporthq/teleport-code-generators?style=flat-square&color=yellow)](https://github.com/teleporthq/teleport-code-generators/stargazers) [![Forks](https://img.shields.io/github/forks/teleporthq/teleport-code-generators?style=flat-square&color=blue)](https://github.com/teleporthq/teleport-code-generators/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of code generators for modern JavaScript applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ teleporthq/teleport-code-generators 的生产可用性较高，主要原因是�
 | forks | 57/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

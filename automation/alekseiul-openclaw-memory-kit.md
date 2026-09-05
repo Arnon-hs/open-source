@@ -1,6 +1,6 @@
 # AlekseiUL/openclaw-memory-kit
 
-[![Stars](https://img.shields.io/github/stars/AlekseiUL/openclaw-memory-kit?style=flat-square&color=yellow)](https://github.com/AlekseiUL/openclaw-memory-kit/stargazers) [![Forks](https://img.shields.io/github/forks/AlekseiUL/openclaw-memory-kit?style=flat-square&color=blue)](https://github.com/AlekseiUL/openclaw-memory-kit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlekseiUL/openclaw-memory-kit?style=flat-square&color=yellow)](https://github.com/AlekseiUL/openclaw-memory-kit/stargazers) [![Forks](https://img.shields.io/github/forks/AlekseiUL/openclaw-memory-kit?style=flat-square&color=blue)](https://github.com/AlekseiUL/openclaw-memory-kit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Complete memory and context persistence system for OpenClaw AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ AlekseiUL/openclaw‑memory‑kit 是为 OpenClaw AI 代理提供完整记忆与
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 75/100 |
-| outlook | 46/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

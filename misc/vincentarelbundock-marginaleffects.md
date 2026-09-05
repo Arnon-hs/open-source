@@ -1,6 +1,6 @@
 # vincentarelbundock/marginaleffects
 
-[![Stars](https://img.shields.io/github/stars/vincentarelbundock/marginaleffects?style=flat-square&color=yellow)](https://github.com/vincentarelbundock/marginaleffects/stargazers) [![Forks](https://img.shields.io/github/forks/vincentarelbundock/marginaleffects?style=flat-square&color=blue)](https://github.com/vincentarelbundock/marginaleffects/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincentarelbundock/marginaleffects?style=flat-square&color=yellow)](https://github.com/vincentarelbundock/marginaleffects/stargazers) [![Forks](https://img.shields.io/github/forks/vincentarelbundock/marginaleffects?style=flat-square&color=blue)](https://github.com/vincentarelbundock/marginaleffects/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > R package to compute and plot predictions, slopes, marginal means, and comparisons (contrasts, risk ratios, odds, etc.) for over 100 classes of statistical and ML models. Conduct linear and non-linear hypothesis tests, or equivalence tests. Calculate uncertainty estimates using the delta method, bootstrapping, or simulation-based inference
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 619 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ vincentarelbundock/marginaleffects 的生产可用性
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

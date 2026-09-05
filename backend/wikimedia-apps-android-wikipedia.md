@@ -1,6 +1,6 @@
 # wikimedia/apps-android-wikipedia
 
-[![Stars](https://img.shields.io/github/stars/wikimedia/apps-android-wikipedia?style=flat-square&color=yellow)](https://github.com/wikimedia/apps-android-wikipedia/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/apps-android-wikipedia?style=flat-square&color=blue)](https://github.com/wikimedia/apps-android-wikipedia/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wikimedia/apps-android-wikipedia?style=flat-square&color=yellow)](https://github.com/wikimedia/apps-android-wikipedia/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/apps-android-wikipedia?style=flat-square&color=blue)](https://github.com/wikimedia/apps-android-wikipedia/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 📱The official Wikipedia app for Android!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 809 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Wikimedia 官方的 Android 版 Wikipedia 应用（`wikimedia/apps-android-wikip
 | forks | 73/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 68/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

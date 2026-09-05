@@ -1,6 +1,6 @@
 # dotnet/fsharp
 
-[![Stars](https://img.shields.io/github/stars/dotnet/fsharp?style=flat-square&color=yellow)](https://github.com/dotnet/fsharp/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/fsharp?style=flat-square&color=blue)](https://github.com/dotnet/fsharp/network) [![Language](https://img.shields.io/badge/lang-F%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/fsharp?style=flat-square&color=yellow)](https://github.com/dotnet/fsharp/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/fsharp?style=flat-square&color=blue)](https://github.com/dotnet/fsharp/network) [![Language](https://img.shields.io/badge/lang-F%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 865 |
 | 💻 **Language** | F# |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ dotnet/fsharp 是微软官方维护的 F# 语言实现，包含 F# 编译器、�
 | forks | 73/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

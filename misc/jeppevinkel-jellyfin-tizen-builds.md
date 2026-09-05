@@ -1,6 +1,6 @@
 # jeppevinkel/jellyfin-tizen-builds
 
-[![Stars](https://img.shields.io/github/stars/jeppevinkel/jellyfin-tizen-builds?style=flat-square&color=yellow)](https://github.com/jeppevinkel/jellyfin-tizen-builds/stargazers) [![Forks](https://img.shields.io/github/forks/jeppevinkel/jellyfin-tizen-builds?style=flat-square&color=blue)](https://github.com/jeppevinkel/jellyfin-tizen-builds/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeppevinkel/jellyfin-tizen-builds?style=flat-square&color=yellow)](https://github.com/jeppevinkel/jellyfin-tizen-builds/stargazers) [![Forks](https://img.shields.io/github/forks/jeppevinkel/jellyfin-tizen-builds?style=flat-square&color=blue)](https://github.com/jeppevinkel/jellyfin-tizen-builds/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ In short, **jellyfin‑tizen‑builds** can dramatically speed up front‑end de
 | forks | 44/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

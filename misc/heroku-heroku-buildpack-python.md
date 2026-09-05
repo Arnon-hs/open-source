@@ -1,6 +1,6 @@
 # heroku/heroku-buildpack-python
 
-[![Stars](https://img.shields.io/github/stars/heroku/heroku-buildpack-python?style=flat-square&color=yellow)](https://github.com/heroku/heroku-buildpack-python/stargazers) [![Forks](https://img.shields.io/github/forks/heroku/heroku-buildpack-python?style=flat-square&color=blue)](https://github.com/heroku/heroku-buildpack-python/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heroku/heroku-buildpack-python?style=flat-square&color=yellow)](https://github.com/heroku/heroku-buildpack-python/stargazers) [![Forks](https://img.shields.io/github/forks/heroku/heroku-buildpack-python?style=flat-square&color=blue)](https://github.com/heroku/heroku-buildpack-python/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Heroku's classic buildpack for Python apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 993 |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ heroku/heroku-buildpack-python 是 Heroku 的经典 Python 应用程序构建包
 | forks | 81/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # tytsxai/IDM-Activation-Script-Chinese
 
-[![Stars](https://img.shields.io/github/stars/tytsxai/IDM-Activation-Script-Chinese?style=flat-square&color=yellow)](https://github.com/tytsxai/IDM-Activation-Script-Chinese/stargazers) [![Forks](https://img.shields.io/github/forks/tytsxai/IDM-Activation-Script-Chinese?style=flat-square&color=blue)](https://github.com/tytsxai/IDM-Activation-Script-Chinese/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tytsxai/IDM-Activation-Script-Chinese?style=flat-square&color=yellow)](https://github.com/tytsxai/IDM-Activation-Script-Chinese/stargazers) [![Forks](https://img.shields.io/github/forks/tytsxai/IDM-Activation-Script-Chinese?style=flat-square&color=blue)](https://github.com/tytsxai/IDM-Activation-Script-Chinese/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > IDM 激活脚本中文版 · GPL-3.0 开源 Windows 批处理工具：支持试用期冻结、普通激活、一键重置与环境自检，GBK 中文菜单无乱码 | Chinese edition of IDM Activation Script — GBK-encoded batch toolkit for Internet Download Manager on Windows 7/8/10/11, no binary patching, automatic registry backup
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ tytsxai/IDM-Activation-Script-Chinese 帮助用户添加 AI 能力，特别适�
 | forks | 48/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

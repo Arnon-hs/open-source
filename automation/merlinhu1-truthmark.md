@@ -1,6 +1,6 @@
 # merlinhu1/truthmark
 
-[![Stars](https://img.shields.io/github/stars/merlinhu1/truthmark?style=flat-square&color=yellow)](https://github.com/merlinhu1/truthmark/stargazers) [![Forks](https://img.shields.io/github/forks/merlinhu1/truthmark?style=flat-square&color=blue)](https://github.com/merlinhu1/truthmark/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/merlinhu1/truthmark?style=flat-square&color=yellow)](https://github.com/merlinhu1/truthmark/stargazers) [![Forks](https://img.shields.io/github/forks/merlinhu1/truthmark?style=flat-square&color=blue)](https://github.com/merlinhu1/truthmark/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Makes AI agent behavior visible and reviewable, tracking decisions at the branch level so teams can audit what changed, why, and whether repo truth still matches the code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ truthmark 能显著降低 AI 代理工作流中的手工审计成本，提供细
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

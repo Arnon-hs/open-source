@@ -1,6 +1,6 @@
 # customermates/customermates
 
-[![Stars](https://img.shields.io/github/stars/customermates/customermates?style=flat-square&color=yellow)](https://github.com/customermates/customermates/stargazers) [![Forks](https://img.shields.io/github/forks/customermates/customermates?style=flat-square&color=blue)](https://github.com/customermates/customermates/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/customermates/customermates?style=flat-square&color=yellow)](https://github.com/customermates/customermates/stargazers) [![Forks](https://img.shields.io/github/forks/customermates/customermates?style=flat-square&color=blue)](https://github.com/customermates/customermates/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Building a modern alternative to Pipedrive that is 10x more intuitive.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevOps/Infra · Marketing · Product
+Automation · Backend · DevOps/Infra · Marketing · Product
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ customermates 是一个用 TypeScript 打造的开源 CRM 系统，旨在提供�
 | forks | 39/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

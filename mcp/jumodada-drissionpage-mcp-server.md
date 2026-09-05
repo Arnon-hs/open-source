@@ -1,6 +1,6 @@
 # jumodada/Drissionpage-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/jumodada/Drissionpage-MCP-Server?style=flat-square&color=yellow)](https://github.com/jumodada/Drissionpage-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/jumodada/Drissionpage-MCP-Server?style=flat-square&color=blue)](https://github.com/jumodada/Drissionpage-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jumodada/Drissionpage-MCP-Server?style=flat-square&color=yellow)](https://github.com/jumodada/Drissionpage-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/jumodada/Drissionpage-MCP-Server?style=flat-square&color=blue)](https://github.com/jumodada/Drissionpage-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > DrissionPage MCP Server · Browser automation for Claude Code, Codex, and MCP clients
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ DrissionPage MCP Server 是一个开源项目，用于为 Claude Code、Codex �
 | forks | 23/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

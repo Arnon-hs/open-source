@@ -1,6 +1,6 @@
 # artokun/comfyui-mcp
 
-[![Stars](https://img.shields.io/github/stars/artokun/comfyui-mcp?style=flat-square&color=yellow)](https://github.com/artokun/comfyui-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/artokun/comfyui-mcp?style=flat-square&color=blue)](https://github.com/artokun/comfyui-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artokun/comfyui-mcp?style=flat-square&color=yellow)](https://github.com/artokun/comfyui-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/artokun/comfyui-mcp?style=flat-square&color=blue)](https://github.com/artokun/comfyui-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin + MCP server for ComfyUI — 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing from your Claude session. Generate images & video, manage models and custom nodes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ artokun/comfyui-mcp 将 Claude Code 插件与 MCP 服务器深度融合，为 
 | forks | 39/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

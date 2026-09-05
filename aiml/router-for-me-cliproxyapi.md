@@ -1,6 +1,6 @@
 # router-for-me/CLIProxyAPI
 
-[![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&color=yellow)](https://github.com/router-for-me/CLIProxyAPI/stargazers) [![Forks](https://img.shields.io/github/forks/router-for-me/CLIProxyAPI?style=flat-square&color=blue)](https://github.com/router-for-me/CLIProxyAPI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&color=yellow)](https://github.com/router-for-me/CLIProxyAPI/stargazers) [![Forks](https://img.shields.io/github/forks/router-for-me/CLIProxyAPI?style=flat-square&color=blue)](https://github.com/router-for-me/CLIProxyAPI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41.5k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ router-for-me/CLIProxyAPI 有很高的生产可用性，最新活动、采用和
 | forks | 96/100 |
 | stars | 98/100 |
 | topics | 75/100 |
-| outlook | 92/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 85/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 86/100 |
+| production | 80/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

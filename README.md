@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34564** |
-| **Categories** | **30** |
+| **Projects** | **34591** |
+| **Categories** | **36** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,51 +23,57 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15878 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3321 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2566 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2205 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1352 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1261 | [Browse →](./automation/) |
-| 🎨 **Frontend** | 973 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 902 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 758 | [Browse →](./crypto/) |
-| 📱 **Mobile** | 723 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 617 | [Browse →](./devopsinfra/) |
-| 🏷️ **Database** | 588 | [Browse →](./database/) |
+| 📦 **Misc** | 12861 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4038 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2567 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2206 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
+| 🏷️ **Automation** | 1262 | [Browse →](./automation/) |
+| ⚙️ **Backend** | 895 | [Browse →](./backend/) |
+| 🎨 **Frontend** | 850 | [Browse →](./frontend/) |
+| ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
+| 🏷️ **Documents** | 604 | [Browse →](./documents/) |
+| 🏷️ **Networking** | 597 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
+| 📱 **Mobile** | 556 | [Browse →](./mobile/) |
+| 🏷️ **Cloud--storage** | 551 | [Browse →](./cloud--storage/) |
+| 🚀 **DevOps & Infra** | 459 | [Browse →](./devopsinfra/) |
+| 🏷️ **Database** | 458 | [Browse →](./database/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
-| 🔐 **Security** | 396 | [Browse →](./security/) |
-| 📊 **Data** | 393 | [Browse →](./data/) |
-| 🏷️ **Observability** | 345 | [Browse →](./observability/) |
-| 🏷️ **Video-editing** | 329 | [Browse →](./video-editing/) |
-| 💳 **Payments** | 310 | [Browse →](./payments/) |
+| 🔐 **Security** | 372 | [Browse →](./security/) |
+| 🏷️ **Communication** | 366 | [Browse →](./communication/) |
+| 🏷️ **Video-editing** | 330 | [Browse →](./video-editing/) |
+| 📊 **Data** | 319 | [Browse →](./data/) |
+| 🏷️ **Games--graphics** | 312 | [Browse →](./games--graphics/) |
+| 💳 **Payments** | 311 | [Browse →](./payments/) |
+| 🏷️ **Productivity** | 298 | [Browse →](./productivity/) |
+| 🏷️ **Observability** | 260 | [Browse →](./observability/) |
+| 🏷️ **Libraries--sdks** | 238 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 187 | [Browse →](./trading/) |
-| ✨ **Design** | 170 | [Browse →](./design/) |
+| ✨ **Design** | 144 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 77 | [Browse →](./vertical-video/) |
-| 🏷️ **Education** | 45 | [Browse →](./education/) |
-| 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
-| 🎯 **Product** | 9 | [Browse →](./product/) |
-| 🏷️ **Determinism** | 1 | [Browse →](./determinism/) |
-| 🏷️ **Encryption** | 1 | [Browse →](./encryption/) |
+| 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
+| 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |
 | 🏷️ **Ai** | 1 | [Browse →](./ai/) |
-| 🏷️ **Networking** | 1 | [Browse →](./networking/) |
 
 ## Top projects by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [jipraks/yt-short-clipper](./vertical-video/jipraks-yt-short-clipper.md) | ⭐ 964 | Vertical-video |
-| 2 | [IgorShadurin/app.yumcut.com](./vertical-video/igorshadurin-app.yumcut.com.md) | ⭐ 855 | Vertical-video |
-| 3 | [chengzuopeng/stock-sdk](./trading/chengzuopeng-stock-sdk.md) | ⭐ 1.9k | Trading |
-| 4 | [wassim249/fastapi-langgraph-agent-production-ready-template](./templates/wassim249-fastapi-langgraph-agent-production-ready-template.md) | ⭐ 2.6k | Templates |
-| 5 | [fastapi/full-stack-fastapi-template](./templates/fastapi-full-stack-fastapi-template.md) | ⭐ 44.7k | Templates |
-| 6 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.6k | Orchestration |
-| 7 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 8 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 9 | [hwchase17/langchain](./orchestration/hwchase17-langchain.md) | ⭐ 145k | Orchestration |
-| 10 | [coze-dev/coze-studio](./knowledgerag/coze-dev-coze-studio.md) | ⭐ 21.3k | Knowledgerag |
+| 1 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.6k | Orchestration |
+| 2 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 3 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 4 | [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | ⭐ 14.9k | Templates |
+| 5 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 6 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 7 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 8 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 9 | [zeromicro/go-zero](./aiml/zeromicro-go-zero.md) | ⭐ 33.2k | AI/ML |
+| 10 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
 
 ## What each entry includes
 

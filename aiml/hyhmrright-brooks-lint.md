@@ -1,6 +1,6 @@
 # hyhmrright/brooks-lint
 
-[![Stars](https://img.shields.io/github/stars/hyhmrright/brooks-lint?style=flat-square&color=yellow)](https://github.com/hyhmrright/brooks-lint/stargazers) [![Forks](https://img.shields.io/github/forks/hyhmrright/brooks-lint?style=flat-square&color=blue)](https://github.com/hyhmrright/brooks-lint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyhmrright/brooks-lint?style=flat-square&color=yellow)](https://github.com/hyhmrright/brooks-lint/stargazers) [![Forks](https://img.shields.io/github/forks/hyhmrright/brooks-lint?style=flat-square&color=blue)](https://github.com/hyhmrright/brooks-lint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ hyhmrright/brooks‑lint 是一款基于《人月神话》《代码整洁之道�
 | forks | 21/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

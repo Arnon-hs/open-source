@@ -1,6 +1,6 @@
 # quickjs-ng/quickjs
 
-[![Stars](https://img.shields.io/github/stars/quickjs-ng/quickjs?style=flat-square&color=yellow)](https://github.com/quickjs-ng/quickjs/stargazers) [![Forks](https://img.shields.io/github/forks/quickjs-ng/quickjs?style=flat-square&color=blue)](https://github.com/quickjs-ng/quickjs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quickjs-ng/quickjs?style=flat-square&color=yellow)](https://github.com/quickjs-ng/quickjs/stargazers) [![Forks](https://img.shields.io/github/forks/quickjs-ng/quickjs?style=flat-square&color=blue)](https://github.com/quickjs-ng/quickjs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > QuickJS, the Next Generation: a mighty JavaScript engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 326 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ QuickJS‑NG（quickjs-ng/quickjs）是 QuickJS 的下一代实现，一个体�
 | forks | 63/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

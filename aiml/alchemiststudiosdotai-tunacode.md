@@ -1,6 +1,6 @@
 # alchemiststudiosDOTai/tunacode
 
-[![Stars](https://img.shields.io/github/stars/alchemiststudiosDOTai/tunacode?style=flat-square&color=yellow)](https://github.com/alchemiststudiosDOTai/tunacode/stargazers) [![Forks](https://img.shields.io/github/forks/alchemiststudiosDOTai/tunacode?style=flat-square&color=blue)](https://github.com/alchemiststudiosDOTai/tunacode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alchemiststudiosDOTai/tunacode?style=flat-square&color=yellow)](https://github.com/alchemiststudiosDOTai/tunacode/stargazers) [![Forks](https://img.shields.io/github/forks/alchemiststudiosDOTai/tunacode?style=flat-square&color=blue)](https://github.com/alchemiststudiosDOTai/tunacode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🍣 TunaCode  AI CLI coding agent with safe git branches, rich tools & multi-LLM support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ TunaCode 是一个基于 Python 的 AI CLI 编码助手，提供安全的 Git �
 | forks | 36/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

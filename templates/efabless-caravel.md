@@ -1,6 +1,6 @@
 # efabless/caravel
 
-[![Stars](https://img.shields.io/github/stars/efabless/caravel?style=flat-square&color=yellow)](https://github.com/efabless/caravel/stargazers) [![Forks](https://img.shields.io/github/forks/efabless/caravel?style=flat-square&color=blue)](https://github.com/efabless/caravel/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/efabless/caravel?style=flat-square&color=yellow)](https://github.com/efabless/caravel/stargazers) [![Forks](https://img.shields.io/github/forks/efabless/caravel?style=flat-square&color=blue)](https://github.com/efabless/caravel/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Caravel is a standard SoC template with on chip resources to control and read/write operations from a user-dedicated space.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ efabless/caravel：efabless/caravel helps teams reuse working workflows and prod
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

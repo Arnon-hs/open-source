@@ -1,6 +1,6 @@
 # Kidus-M/MaruCheck
 
-[![Stars](https://img.shields.io/github/stars/Kidus-M/MaruCheck?style=flat-square&color=yellow)](https://github.com/Kidus-M/MaruCheck/stargazers) [![Forks](https://img.shields.io/github/forks/Kidus-M/MaruCheck?style=flat-square&color=blue)](https://github.com/Kidus-M/MaruCheck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kidus-M/MaruCheck?style=flat-square&color=yellow)](https://github.com/Kidus-M/MaruCheck/stargazers) [![Forks](https://img.shields.io/github/forks/Kidus-M/MaruCheck?style=flat-square&color=blue)](https://github.com/Kidus-M/MaruCheck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Independent QA and verification for AI-generated software. MaruCheck turns product intent into Quality Contracts, analyzes code changes, remembers regressions, and tests what your coding agent missed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ Kidus-M/MaruCheck：Kidus-M/MaruCheck helps add AI capability without starting f
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 38/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 33/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 58/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

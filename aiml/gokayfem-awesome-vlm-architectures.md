@@ -1,6 +1,6 @@
 # gokayfem/awesome-vlm-architectures
 
-[![Stars](https://img.shields.io/github/stars/gokayfem/awesome-vlm-architectures?style=flat-square&color=yellow)](https://github.com/gokayfem/awesome-vlm-architectures/stargazers) [![Forks](https://img.shields.io/github/forks/gokayfem/awesome-vlm-architectures?style=flat-square&color=blue)](https://github.com/gokayfem/awesome-vlm-architectures/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gokayfem/awesome-vlm-architectures?style=flat-square&color=yellow)](https://github.com/gokayfem/awesome-vlm-architectures/stargazers) [![Forks](https://img.shields.io/github/forks/gokayfem/awesome-vlm-architectures?style=flat-square&color=blue)](https://github.com/gokayfem/awesome-vlm-architectures/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Curated visual catalog of 155+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ gokayfem/awesome-vlm-architectures 是一个开源项目，收集了 155+ 个视
 | forks | 44/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Power-Agent/PowerMCP
 
-[![Stars](https://img.shields.io/github/stars/Power-Agent/PowerMCP?style=flat-square&color=yellow)](https://github.com/Power-Agent/PowerMCP/stargazers) [![Forks](https://img.shields.io/github/forks/Power-Agent/PowerMCP?style=flat-square&color=blue)](https://github.com/Power-Agent/PowerMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Power-Agent/PowerMCP?style=flat-square&color=yellow)](https://github.com/Power-Agent/PowerMCP/stargazers) [![Forks](https://img.shields.io/github/forks/Power-Agent/PowerMCP?style=flat-square&color=blue)](https://github.com/Power-Agent/PowerMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to directly interact with power system applications, facilitating intelligent coordination, simulation, and control in the energy domain.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ PowerMCP 为 AI 与电力系统软件的对接提供了即插即用的标准化�
 | forks | 43/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # hnimminh/libresbc
 
-[![Stars](https://img.shields.io/github/stars/hnimminh/libresbc?style=flat-square&color=yellow)](https://github.com/hnimminh/libresbc/stargazers) [![Forks](https://img.shields.io/github/forks/hnimminh/libresbc?style=flat-square&color=blue)](https://github.com/hnimminh/libresbc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hnimminh/libresbc?style=flat-square&color=yellow)](https://github.com/hnimminh/libresbc/stargazers) [![Forks](https://img.shields.io/github/forks/hnimminh/libresbc?style=flat-square&color=blue)](https://github.com/hnimminh/libresbc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An open source Session Border Controller 🌟 The SBC you dream about 🗽 LibreSBC  will help you save thousands of dollars.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Security
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ LibreSBC（hnimminh/libresbc）是一款开源 Session Border Controller，旨�
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

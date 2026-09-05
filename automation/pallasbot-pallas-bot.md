@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ PallasBot/Pallas-Bot：PallasBot/Pallas-Bot helps remove repetitive manual opera
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

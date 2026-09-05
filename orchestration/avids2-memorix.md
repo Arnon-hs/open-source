@@ -1,6 +1,6 @@
 # AVIDS2/memorix
 
-[![Stars](https://img.shields.io/github/stars/AVIDS2/memorix?style=flat-square&color=yellow)](https://github.com/AVIDS2/memorix/stargazers) [![Forks](https://img.shields.io/github/forks/AVIDS2/memorix?style=flat-square&color=blue)](https://github.com/AVIDS2/memorix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AVIDS2/memorix?style=flat-square&color=yellow)](https://github.com/AVIDS2/memorix/stargazers) [![Forks](https://img.shields.io/github/forks/AVIDS2/memorix?style=flat-square&color=blue)](https://github.com/AVIDS2/memorix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source cross-agent memory layer for coding agents via MCP. Compatible with Cursor, Claude Code, Codex, Windsurf, Gemini CLI, GitHub Copilot, Kiro, OpenCode, Antigravity, and Trae.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -133,11 +133,11 @@ AVIDS2/memorix 为多代理编程提供了统一、可复用的记忆层，接�
 | forks | 40/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

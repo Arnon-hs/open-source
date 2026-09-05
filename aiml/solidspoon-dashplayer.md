@@ -1,6 +1,6 @@
 # solidSpoon/DashPlayer
 
-[![Stars](https://img.shields.io/github/stars/solidSpoon/DashPlayer?style=flat-square&color=yellow)](https://github.com/solidSpoon/DashPlayer/stargazers) [![Forks](https://img.shields.io/github/forks/solidSpoon/DashPlayer?style=flat-square&color=blue)](https://github.com/solidSpoon/DashPlayer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solidSpoon/DashPlayer?style=flat-square&color=yellow)](https://github.com/solidSpoon/DashPlayer/stargazers) [![Forks](https://img.shields.io/github/forks/solidSpoon/DashPlayer?style=flat-square&color=blue)](https://github.com/solidSpoon/DashPlayer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 287 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ solidSpoon/DashPlayer 在生产环境中有很高的可用性，主要原因是�
 | forks | 61/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

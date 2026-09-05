@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,7 +106,7 @@ PyLabRobot/pylabrobot 的生产可用性为中等（Medium）。它适合用于�
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

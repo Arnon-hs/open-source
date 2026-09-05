@@ -1,6 +1,6 @@
 # wabarc/wayback
 
-[![Stars](https://img.shields.io/github/stars/wabarc/wayback?style=flat-square&color=yellow)](https://github.com/wabarc/wayback/stargazers) [![Forks](https://img.shields.io/github/forks/wabarc/wayback?style=flat-square&color=blue)](https://github.com/wabarc/wayback/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wabarc/wayback?style=flat-square&color=yellow)](https://github.com/wabarc/wayback/stargazers) [![Forks](https://img.shields.io/github/forks/wabarc/wayback?style=flat-square&color=blue)](https://github.com/wabarc/wayback/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ wabarc/wayback 是一款带有 IM（即时通讯）风格交互界面的归档�
 | forks | 48/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,0 +1,81 @@
+# grain-lang/grain
+
+[![Stars](https://img.shields.io/github/stars/grain-lang/grain?style=flat-square&color=yellow)](https://github.com/grain-lang/grain/stargazers) [![Forks](https://img.shields.io/github/forks/grain-lang/grain?style=flat-square&color=blue)](https://github.com/grain-lang/grain/network) [![Language](https://img.shields.io/badge/lang-Reason-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+
+> The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3.4k |
+| 🍴 **Forks** | 124 |
+| 💻 **Language** | Reason |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`compiler` `functional-programming` `grain` `language` `wasm` `webassembly`
+
+## 🎯 Categories
+
+DevTools
+
+## 📝 Summary
+
+### English
+
+Grain is an open‑source compiler toolchain and command‑line interface for the Grain programming language, designed to streamline modern web development. It provides fast compilation, powerful dev‑tools, and seamless integration with AI/ML workflows, making it a versatile foundation for building responsive, data‑driven web applications.
+
+### Русский
+
+Grain — это современный компилятор и набор инструментов командной строки для языка программирования Grain, разработанный как открытая альтернатива традиционным веб‑технологиям. Проект предоставляет полностью открытый toolchain, позволяющий писать, компилировать и отлаживать код, а также интегрировать его в AI/ML‑решения и другие DevTools. Благодаря простоте синтаксиса и высокой производительности Grain быстро становится базовым элементом современного веб‑разработки.
+
+### 中文
+
+grain-lang/grain：grain-lang/grain may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** grain-lang/grain may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 3442 GitHub stars
+- 124 forks
+- updated 2026-05-10
+- primary language: Reason
+- 6 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 52/100 |
+| stars | 75/100 |
+| topics | 75/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/grain-lang/grain) · [← Back to DevTools](./README.md)</sub>

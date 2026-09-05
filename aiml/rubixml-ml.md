@@ -1,6 +1,6 @@
 # RubixML/ML
 
-[![Stars](https://img.shields.io/github/stars/RubixML/ML?style=flat-square&color=yellow)](https://github.com/RubixML/ML/stargazers) [![Forks](https://img.shields.io/github/forks/RubixML/ML?style=flat-square&color=blue)](https://github.com/RubixML/ML/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RubixML/ML?style=flat-square&color=yellow)](https://github.com/RubixML/ML/stargazers) [![Forks](https://img.shields.io/github/forks/RubixML/ML?style=flat-square&color=blue)](https://github.com/RubixML/ML/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A high-level machine learning and deep learning library for the PHP language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Education
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ RubixML/ML 是一个面向 PHP 的高级机器学习与深度学习库，能够�
 | forks | 57/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

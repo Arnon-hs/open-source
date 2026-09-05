@@ -1,6 +1,6 @@
 # error311/FileRise
 
-[![Stars](https://img.shields.io/github/stars/error311/FileRise?style=flat-square&color=yellow)](https://github.com/error311/FileRise/stargazers) [![Forks](https://img.shields.io/github/forks/error311/FileRise?style=flat-square&color=blue)](https://github.com/error311/FileRise/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/error311/FileRise?style=flat-square&color=yellow)](https://github.com/error311/FileRise/stargazers) [![Forks](https://img.shields.io/github/forks/error311/FileRise?style=flat-square&color=blue)](https://github.com/error311/FileRise/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 972 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ FileRise 是一款轻量级的自托管文件管理与存储中心，支持细�
 | forks | 42/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # evenfurther/pathfinding
 
-[![Stars](https://img.shields.io/github/stars/evenfurther/pathfinding?style=flat-square&color=yellow)](https://github.com/evenfurther/pathfinding/stargazers) [![Forks](https://img.shields.io/github/forks/evenfurther/pathfinding?style=flat-square&color=blue)](https://github.com/evenfurther/pathfinding/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evenfurther/pathfinding?style=flat-square&color=yellow)](https://github.com/evenfurther/pathfinding/stargazers) [![Forks](https://img.shields.io/github/forks/evenfurther/pathfinding?style=flat-square&color=blue)](https://github.com/evenfurther/pathfinding/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Pathfinding library for rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ evenfurther/pathfinding 的生产可用性为中等（Medium）。它适合用�
 | forks | 49/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

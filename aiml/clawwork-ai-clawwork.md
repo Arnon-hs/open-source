@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Database
+AI/ML · Productivity · Frontend · DevTools · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ clawwork-ai/ClawWork：clawwork-ai/ClawWork helps add AI capability without star
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

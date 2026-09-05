@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-05-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -73,7 +73,7 @@ earlgreyhot1701D/vigil-crest：earlgreyhot1701D/vigil-crest helps add AI capabil
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # GhostESP-Revival/GhostESP
 
-[![Stars](https://img.shields.io/github/stars/GhostESP-Revival/GhostESP?style=flat-square&color=yellow)](https://github.com/GhostESP-Revival/GhostESP/stargazers) [![Forks](https://img.shields.io/github/forks/GhostESP-Revival/GhostESP?style=flat-square&color=blue)](https://github.com/GhostESP-Revival/GhostESP/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GhostESP-Revival/GhostESP?style=flat-square&color=yellow)](https://github.com/GhostESP-Revival/GhostESP/stargazers) [![Forks](https://img.shields.io/github/forks/GhostESP-Revival/GhostESP?style=flat-square&color=blue)](https://github.com/GhostESP-Revival/GhostESP/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An open source platform for ESP32 devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 788 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ GhostESP‑Revival/GhostESP 是面向 ESP32 系列 MCU 的开源数据持久化�
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

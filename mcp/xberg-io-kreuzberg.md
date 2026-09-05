@@ -1,6 +1,6 @@
 # xberg-io/kreuzberg
 
-[![Stars](https://img.shields.io/github/stars/xberg-io/kreuzberg?style=flat-square&color=yellow)](https://github.com/xberg-io/kreuzberg/stargazers) [![Forks](https://img.shields.io/github/forks/xberg-io/kreuzberg?style=flat-square&color=blue)](https://github.com/xberg-io/kreuzberg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xberg-io/kreuzberg?style=flat-square&color=yellow)](https://github.com/xberg-io/kreuzberg/stargazers) [![Forks](https://img.shields.io/github/forks/xberg-io/kreuzberg?style=flat-square&color=blue)](https://github.com/xberg-io/kreuzberg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 503 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 91/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ xberg-io/kreuzberg 是一个以 Rust 为核心的多语言文档智能框架，�
 | forks | 68/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 88/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 68/100 |
+| production | 81/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

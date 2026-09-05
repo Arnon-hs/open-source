@@ -1,6 +1,6 @@
 # Ahoo-Wang/Wow
 
-[![Stars](https://img.shields.io/github/stars/Ahoo-Wang/Wow?style=flat-square&color=yellow)](https://github.com/Ahoo-Wang/Wow/stargazers) [![Forks](https://img.shields.io/github/forks/Ahoo-Wang/Wow?style=flat-square&color=blue)](https://github.com/Ahoo-Wang/Wow/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ahoo-Wang/Wow?style=flat-square&color=yellow)](https://github.com/Ahoo-Wang/Wow/stargazers) [![Forks](https://img.shields.io/github/forks/Ahoo-Wang/Wow?style=flat-square&color=blue)](https://github.com/Ahoo-Wang/Wow/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing | 基于 DDD & EventSourcing 的现代响应式 CQRS 架构微服务开发框架
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -70,11 +70,11 @@ Ahoo‑Wang/Wow 是一个基于 DDD、EventSourcing 的现代响应式 CQRS 框�
 | forks | 40/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

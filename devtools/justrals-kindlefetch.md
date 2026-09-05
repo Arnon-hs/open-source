@@ -1,6 +1,6 @@
 # justrals/KindleFetch
 
-[![Stars](https://img.shields.io/github/stars/justrals/KindleFetch?style=flat-square&color=yellow)](https://github.com/justrals/KindleFetch/stargazers) [![Forks](https://img.shields.io/github/forks/justrals/KindleFetch?style=flat-square&color=blue)](https://github.com/justrals/KindleFetch/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justrals/KindleFetch?style=flat-square&color=yellow)](https://github.com/justrals/KindleFetch/stargazers) [![Forks](https://img.shields.io/github/forks/justrals/KindleFetch?style=flat-square&color=blue)](https://github.com/justrals/KindleFetch/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Simple CLI for downloading books from Anna's Archive directly to your Kindle without a computer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ justrals/KindleFetch 的生产可用性为中等。它适用于快速 prototypin
 | forks | 32/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

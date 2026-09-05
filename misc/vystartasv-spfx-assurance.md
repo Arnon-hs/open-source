@@ -1,6 +1,6 @@
 # vystartasv/spfx-assurance
 
-[![Stars](https://img.shields.io/github/stars/vystartasv/spfx-assurance?style=flat-square&color=yellow)](https://github.com/vystartasv/spfx-assurance/stargazers) [![Forks](https://img.shields.io/github/forks/vystartasv/spfx-assurance?style=flat-square&color=blue)](https://github.com/vystartasv/spfx-assurance/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vystartasv/spfx-assurance?style=flat-square&color=yellow)](https://github.com/vystartasv/spfx-assurance/stargazers) [![Forks](https://img.shields.io/github/forks/vystartasv/spfx-assurance?style=flat-square&color=blue)](https://github.com/vystartasv/spfx-assurance/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Offline deterministic verification for SharePoint Framework projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ vystartasv/spfx-assurance: . Use it for Misc.
 
 ### Русский
 
-vystartasv/spfx-assurance: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+vystartasv/spfx-assurance: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ vystartasv/spfx-assurance：。适合用于Misc。
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 31/100 |
-| recency | 80/100 |
+| outlook | 54/100 |
+| quality | 36/100 |
+| recency | 100/100 |
 | adoption | 0/100 |
-| production | 49/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

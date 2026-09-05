@@ -1,6 +1,6 @@
 # ysig/GraKeL
 
-[![Stars](https://img.shields.io/github/stars/ysig/GraKeL?style=flat-square&color=yellow)](https://github.com/ysig/GraKeL/stargazers) [![Forks](https://img.shields.io/github/forks/ysig/GraKeL?style=flat-square&color=blue)](https://github.com/ysig/GraKeL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ysig/GraKeL?style=flat-square&color=yellow)](https://github.com/ysig/GraKeL/stargazers) [![Forks](https://img.shields.io/github/forks/ysig/GraKeL?style=flat-square&color=blue)](https://github.com/ysig/GraKeL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A scikit-learn compatible library for graph kernels
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 646 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ ysig/GraKeL：ysig/GraKeL helps teams persist, query, and move data with less cu
 | forks | 51/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

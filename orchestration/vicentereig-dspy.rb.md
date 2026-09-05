@@ -1,6 +1,6 @@
 # vicentereig/dspy.rb
 
-[![Stars](https://img.shields.io/github/stars/vicentereig/dspy.rb?style=flat-square&color=yellow)](https://github.com/vicentereig/dspy.rb/stargazers) [![Forks](https://img.shields.io/github/forks/vicentereig/dspy.rb?style=flat-square&color=blue)](https://github.com/vicentereig/dspy.rb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vicentereig/dspy.rb?style=flat-square&color=yellow)](https://github.com/vicentereig/dspy.rb/stargazers) [![Forks](https://img.shields.io/github/forks/vicentereig/dspy.rb?style=flat-square&color=blue)](https://github.com/vicentereig/dspy.rb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The Ruby framework for programming—rather than prompting—language models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ vicentereig/dspy.rb 是一个 Ruby 框架，旨在让开发者通过代码而非
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

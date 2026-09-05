@@ -1,6 +1,6 @@
 # EmbraceAGI/awesome-chatgpt-zh
 
-[![Stars](https://img.shields.io/github/stars/EmbraceAGI/awesome-chatgpt-zh?style=flat-square&color=yellow)](https://github.com/EmbraceAGI/awesome-chatgpt-zh/stargazers) [![Forks](https://img.shields.io/github/forks/EmbraceAGI/awesome-chatgpt-zh?style=flat-square&color=blue)](https://github.com/EmbraceAGI/awesome-chatgpt-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmbraceAGI/awesome-chatgpt-zh?style=flat-square&color=yellow)](https://github.com/EmbraceAGI/awesome-chatgpt-zh/stargazers) [![Forks](https://img.shields.io/github/forks/EmbraceAGI/awesome-chatgpt-zh?style=flat-square&color=blue)](https://github.com/EmbraceAGI/awesome-chatgpt-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.6k |
 | 🍴 **Forks** | 941 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -123,15 +123,15 @@ EmbraceAGI/awesome‑chatgpt-zh 将散落的 Prompt、工具和案例汇聚成�
 | forks | 74/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

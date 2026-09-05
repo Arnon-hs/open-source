@@ -1,6 +1,6 @@
 # winddriver/Delphi-Cross-Socket
 
-[![Stars](https://img.shields.io/github/stars/winddriver/Delphi-Cross-Socket?style=flat-square&color=yellow)](https://github.com/winddriver/Delphi-Cross-Socket/stargazers) [![Forks](https://img.shields.io/github/forks/winddriver/Delphi-Cross-Socket?style=flat-square&color=blue)](https://github.com/winddriver/Delphi-Cross-Socket/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/winddriver/Delphi-Cross-Socket?style=flat-square&color=yellow)](https://github.com/winddriver/Delphi-Cross-Socket/stargazers) [![Forks](https://img.shields.io/github/forks/winddriver/Delphi-Cross-Socket?style=flat-square&color=blue)](https://github.com/winddriver/Delphi-Cross-Socket/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Delphi cross platform socket library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Winddriver 的 **Delphi‑Cross‑Socket** 是一个跨平台的套接字库，�
 | forks | 56/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

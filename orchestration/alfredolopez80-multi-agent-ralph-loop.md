@@ -1,6 +1,6 @@
 # alfredolopez80/multi-agent-ralph-loop
 
-[![Stars](https://img.shields.io/github/stars/alfredolopez80/multi-agent-ralph-loop?style=flat-square&color=yellow)](https://github.com/alfredolopez80/multi-agent-ralph-loop/stargazers) [![Forks](https://img.shields.io/github/forks/alfredolopez80/multi-agent-ralph-loop?style=flat-square&color=blue)](https://github.com/alfredolopez80/multi-agent-ralph-loop/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alfredolopez80/multi-agent-ralph-loop?style=flat-square&color=yellow)](https://github.com/alfredolopez80/multi-agent-ralph-loop/stargazers) [![Forks](https://img.shields.io/github/forks/alfredolopez80/multi-agent-ralph-loop?style=flat-square&color=blue)](https://github.com/alfredolopez80/multi-agent-ralph-loop/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous orchestration framework for Claude Code with MemPalace-inspired memory (4-layer stack, 818-token wake-up), parallel-first Agent Teams (6 teammates), Aristotle First Principles methodology, and 4-stage quality gates. 925+ tests, 22 active hooks, automatic learning pipeline.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ alfredolopez80/multi-agent-ralph-loop 是一个基于 Claude Code 的自主编�
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

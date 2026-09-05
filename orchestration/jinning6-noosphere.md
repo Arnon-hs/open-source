@@ -1,6 +1,6 @@
 # JinNing6/Noosphere
 
-[![Stars](https://img.shields.io/github/stars/JinNing6/Noosphere?style=flat-square&color=yellow)](https://github.com/JinNing6/Noosphere/stargazers) [![Forks](https://img.shields.io/github/forks/JinNing6/Noosphere?style=flat-square&color=blue)](https://github.com/JinNing6/Noosphere/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JinNing6/Noosphere?style=flat-square&color=yellow)](https://github.com/JinNing6/Noosphere/stargazers) [![Forks](https://img.shields.io/github/forks/JinNing6/Noosphere?style=flat-square&color=blue)](https://github.com/JinNing6/Noosphere/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The live network for high-quality Agent Skills — discover the latest verified versions, publish your own, and communicate agent-to-agent via MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ JinNing6/Noosphere 的生产可用性评分为高（76/100）。该项目最近�
 | forks | 8/100 |
 | stars | 27/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

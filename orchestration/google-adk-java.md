@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ google/adk-java：google/adk-java helps turn isolated prompts and tools into rep
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

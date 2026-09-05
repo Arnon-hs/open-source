@@ -1,6 +1,6 @@
 # See-Sol-Lab/DeepSeekGUI
 
-[![Stars](https://img.shields.io/github/stars/See-Sol-Lab/DeepSeekGUI?style=flat-square&color=yellow)](https://github.com/See-Sol-Lab/DeepSeekGUI/stargazers) [![Forks](https://img.shields.io/github/forks/See-Sol-Lab/DeepSeekGUI?style=flat-square&color=blue)](https://github.com/See-Sol-Lab/DeepSeekGUI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/See-Sol-Lab/DeepSeekGUI?style=flat-square&color=yellow)](https://github.com/See-Sol-Lab/DeepSeekGUI/stargazers) [![Forks](https://img.shields.io/github/forks/See-Sol-Lab/DeepSeekGUI?style=flat-square&color=blue)](https://github.com/See-Sol-Lab/DeepSeekGUI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ DeepSeekGUI 是一个 Windows 桌面客户端，允许您直接在桌面上运�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |

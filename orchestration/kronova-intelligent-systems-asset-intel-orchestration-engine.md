@@ -1,6 +1,6 @@
 # Kronova-Intelligent-Systems/asset-intel-orchestration-engine
 
-[![Stars](https://img.shields.io/github/stars/Kronova-Intelligent-Systems/asset-intel-orchestration-engine?style=flat-square&color=yellow)](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Kronova-Intelligent-Systems/asset-intel-orchestration-engine?style=flat-square&color=blue)](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kronova-Intelligent-Systems/asset-intel-orchestration-engine?style=flat-square&color=yellow)](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Kronova-Intelligent-Systems/asset-intel-orchestration-engine?style=flat-square&color=blue)](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source platform for multi-agent AI orchestration, real-world asset tokenization, and institutional-grade workflow automation. Includes OAuth 2.1 MCP agent management, a 44-field RWA schema, Stripe subscription billing, and a Cryptographic Airgap architecture designed to integrate with AetherNet QUAS post-quantum settlement.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 248 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,11 +74,11 @@ Kronova-Intelligent-Systems/asset-intel-orchestration-engine 是一个开源的�
 | forks | 39/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

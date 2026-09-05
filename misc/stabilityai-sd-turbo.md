@@ -1,6 +1,6 @@
 # stabilityai/sd-turbo
 
-[![Stars](https://img.shields.io/github/stars/stabilityai/sd-turbo?style=flat-square&color=yellow)](https://huggingface.co/stabilityai/sd-turbo/stargazers) [![Forks](https://img.shields.io/github/forks/stabilityai/sd-turbo?style=flat-square&color=blue)](https://huggingface.co/stabilityai/sd-turbo/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stabilityai/sd-turbo?style=flat-square&color=yellow)](https://huggingface.co/stabilityai/sd-turbo/stargazers) [![Forks](https://img.shields.io/github/forks/stabilityai/sd-turbo?style=flat-square&color=blue)](https://huggingface.co/stabilityai/sd-turbo/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Image generation (text-to-image) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ stabilityai/sd-turbo是一个流行的开源模型，用于在Hugging Face上进
 | forks | 0/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 36/100 |
-| quality | 39/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # cesarferreira/stax
 
-[![Stars](https://img.shields.io/github/stars/cesarferreira/stax?style=flat-square&color=yellow)](https://github.com/cesarferreira/stax/stargazers) [![Forks](https://img.shields.io/github/forks/cesarferreira/stax?style=flat-square&color=blue)](https://github.com/cesarferreira/stax/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cesarferreira/stax?style=flat-square&color=yellow)](https://github.com/cesarferreira/stax/stargazers) [![Forks](https://img.shields.io/github/forks/cesarferreira/stax?style=flat-square&color=blue)](https://github.com/cesarferreira/stax/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Overall, Stax offers a compelling speed boost for stacked‑branch workflows, bu
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 47/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

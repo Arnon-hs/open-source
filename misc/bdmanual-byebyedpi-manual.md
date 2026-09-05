@@ -1,6 +1,6 @@
 # BDManual/ByeByeDPI-Manual
 
-[![Stars](https://img.shields.io/github/stars/BDManual/ByeByeDPI-Manual?style=flat-square&color=yellow)](https://github.com/BDManual/ByeByeDPI-Manual/stargazers) [![Forks](https://img.shields.io/github/forks/BDManual/ByeByeDPI-Manual?style=flat-square&color=blue)](https://github.com/BDManual/ByeByeDPI-Manual/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BDManual/ByeByeDPI-Manual?style=flat-square&color=yellow)](https://github.com/BDManual/ByeByeDPI-Manual/stargazers) [![Forks](https://img.shields.io/github/forks/BDManual/ByeByeDPI-Manual?style=flat-square&color=blue)](https://github.com/BDManual/ByeByeDPI-Manual/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Руководство пользователя приложения ByeByeDPI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 668 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ BDManual/ByeByeDPI-Manual 是 *ByeByeDPI* 应用的官方使用手册，提供�
 | forks | 41/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

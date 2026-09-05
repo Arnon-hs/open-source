@@ -1,6 +1,6 @@
 # microsoft/trocr-base-printed
 
-[![Stars](https://img.shields.io/github/stars/microsoft/trocr-base-printed?style=flat-square&color=yellow)](https://huggingface.co/microsoft/trocr-base-printed/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/trocr-base-printed?style=flat-square&color=blue)](https://huggingface.co/microsoft/trocr-base-printed/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/trocr-base-printed?style=flat-square&color=yellow)](https://huggingface.co/microsoft/trocr-base-printed/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/trocr-base-printed?style=flat-square&color=blue)](https://huggingface.co/microsoft/trocr-base-printed/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Vision language (image-to-text) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 216 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ Microsoft 提供的开源项目 "microsoft/trocr-base-printed" 是一个流行�
 | forks | 0/100 |
 | stars | 50/100 |
 | topics | 38/100 |
-| outlook | 35/100 |
-| quality | 37/100 |
-| recency | 20/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 37/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

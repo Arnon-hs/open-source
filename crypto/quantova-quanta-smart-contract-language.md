@@ -1,6 +1,6 @@
 # Quantova/Quanta-Smart-Contract-language
 
-[![Stars](https://img.shields.io/github/stars/Quantova/Quanta-Smart-Contract-language?style=flat-square&color=yellow)](https://github.com/Quantova/Quanta-Smart-Contract-language/stargazers) [![Forks](https://img.shields.io/github/forks/Quantova/Quanta-Smart-Contract-language?style=flat-square&color=blue)](https://github.com/Quantova/Quanta-Smart-Contract-language/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quantova/Quanta-Smart-Contract-language?style=flat-square&color=yellow)](https://github.com/Quantova/Quanta-Smart-Contract-language/stargazers) [![Forks](https://img.shields.io/github/forks/Quantova/Quanta-Smart-Contract-language?style=flat-square&color=blue)](https://github.com/Quantova/Quanta-Smart-Contract-language/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The Quanta smart contract language and compiler. A .qs source compiles to a QVM container, and reentrancy, overflow, forged auth, infinite mint, dropped value, and front running fail to compile.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Quantova/Quanta-Smart-Contract-language 是一个开源项目，用于构建智�
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 44/100 |
-| recency | 60/100 |
+| outlook | 54/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 52/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

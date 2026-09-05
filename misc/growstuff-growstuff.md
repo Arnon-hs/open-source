@@ -1,6 +1,6 @@
 # Growstuff/growstuff
 
-[![Stars](https://img.shields.io/github/stars/Growstuff/growstuff?style=flat-square&color=yellow)](https://github.com/Growstuff/growstuff/stargazers) [![Forks](https://img.shields.io/github/forks/Growstuff/growstuff?style=flat-square&color=blue)](https://github.com/Growstuff/growstuff/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Growstuff/growstuff?style=flat-square&color=yellow)](https://github.com/Growstuff/growstuff/stargazers) [![Forks](https://img.shields.io/github/forks/Growstuff/growstuff?style=flat-square&color=blue)](https://github.com/Growstuff/growstuff/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open data project for small-scale food growers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Growstuff（GitHub: Growstuff/growstuff）是一个面向小规模食品种植
 | forks | 58/100 |
 | stars | 57/100 |
 | topics | 25/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

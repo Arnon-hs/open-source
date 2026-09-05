@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Mobile
+MCP · Automation · AI/ML · Communication · Mobile
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ awizemann/scarf：awizemann/scarf helps connect AI assistants to real tools and 
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # emo-crab/observer_ward
 
-[![Stars](https://img.shields.io/github/stars/emo-crab/observer_ward?style=flat-square&color=yellow)](https://github.com/emo-crab/observer_ward/stargazers) [![Forks](https://img.shields.io/github/forks/emo-crab/observer_ward?style=flat-square&color=blue)](https://github.com/emo-crab/observer_ward/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emo-crab/observer_ward?style=flat-square&color=yellow)](https://github.com/emo-crab/observer_ward/stargazers) [![Forks](https://img.shields.io/github/forks/emo-crab/observer_ward?style=flat-square&color=blue)](https://github.com/emo-crab/observer_ward/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 侦查守卫(observer_ward)Web应用和服务指纹识别工具 （之前误删除了仓库）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ emo‑crab/observer_ward 是一款基于 Rust 实现的 Web 应用和服务指�
 | forks | 28/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

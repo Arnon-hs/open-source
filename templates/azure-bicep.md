@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 818 |
 | 💻 **Language** | Bicep |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates
+Templates · Cloud & Storage
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Azure/bicep：Azure/bicep helps teams reuse working workflows and production pre
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

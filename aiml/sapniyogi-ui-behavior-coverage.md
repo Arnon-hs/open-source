@@ -1,6 +1,6 @@
 # sapniyogi/ui-behavior-coverage
 
-[![Stars](https://img.shields.io/github/stars/sapniyogi/ui-behavior-coverage?style=flat-square&color=yellow)](https://github.com/sapniyogi/ui-behavior-coverage/stargazers) [![Forks](https://img.shields.io/github/forks/sapniyogi/ui-behavior-coverage?style=flat-square&color=blue)](https://github.com/sapniyogi/ui-behavior-coverage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sapniyogi/ui-behavior-coverage?style=flat-square&color=yellow)](https://github.com/sapniyogi/ui-behavior-coverage/stargazers) [![Forks](https://img.shields.io/github/forks/sapniyogi/ui-behavior-coverage?style=flat-square&color=blue)](https://github.com/sapniyogi/ui-behavior-coverage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Static analyzer for React tests that finds UI behaviors exercised but not explicitly verified. Testing Library, Jest/Vitest, and Material UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ sapniyogi/ui-behavior-coverage：。适合用于AI/ML、Frontend、DevTools。
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 48/100 |
-| recency | 80/100 |
+| outlook | 65/100 |
+| quality | 53/100 |
+| recency | 100/100 |
 | adoption | 5/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

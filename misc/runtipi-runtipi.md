@@ -1,6 +1,6 @@
 # runtipi/runtipi
 
-[![Stars](https://img.shields.io/github/stars/runtipi/runtipi?style=flat-square&color=yellow)](https://github.com/runtipi/runtipi/stargazers) [![Forks](https://img.shields.io/github/forks/runtipi/runtipi?style=flat-square&color=blue)](https://github.com/runtipi/runtipi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runtipi/runtipi?style=flat-square&color=yellow)](https://github.com/runtipi/runtipi/stargazers) [![Forks](https://img.shields.io/github/forks/runtipi/runtipi?style=flat-square&color=blue)](https://github.com/runtipi/runtipi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 358 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Runtipi 的生产可用性非常高，主要原因是其最近的活动、采用
 | forks | 64/100 |
 | stars | 85/100 |
 | topics | 38/100 |
-| outlook | 62/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # nanvon/cc-bar
 
-[![Stars](https://img.shields.io/github/stars/nanvon/cc-bar?style=flat-square&color=yellow)](https://github.com/nanvon/cc-bar/stargazers) [![Forks](https://img.shields.io/github/forks/nanvon/cc-bar?style=flat-square&color=blue)](https://github.com/nanvon/cc-bar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nanvon/cc-bar?style=flat-square&color=yellow)](https://github.com/nanvon/cc-bar/stargazers) [![Forks](https://img.shields.io/github/forks/nanvon/cc-bar?style=flat-square&color=blue)](https://github.com/nanvon/cc-bar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Native macOS menu bar app: track quota, usage and cost for Codex (multi-account) and Claude Code, from your menu bar or a desktop floating HUD.  原生 macOS 菜单栏 App：支持 Codex 多账号与 Claude Code，在菜单栏或桌面悬浮窗实时查看额度、本地用量与消费。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ nanvon/cc-bar 是一款原生 macOS 菜单栏工具，能够实时在菜单栏�
 | forks | 15/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

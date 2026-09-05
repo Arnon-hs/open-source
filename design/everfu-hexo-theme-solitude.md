@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Stylus |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ everfu/hexo-theme-solitude：everfu/hexo-theme-solitude may be useful when its R
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

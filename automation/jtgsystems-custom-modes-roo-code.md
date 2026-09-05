@@ -1,6 +1,6 @@
 # jtgsystems/Custom-Modes-Roo-Code
 
-[![Stars](https://img.shields.io/github/stars/jtgsystems/Custom-Modes-Roo-Code?style=flat-square&color=yellow)](https://github.com/jtgsystems/Custom-Modes-Roo-Code/stargazers) [![Forks](https://img.shields.io/github/forks/jtgsystems/Custom-Modes-Roo-Code?style=flat-square&color=blue)](https://github.com/jtgsystems/Custom-Modes-Roo-Code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtgsystems/Custom-Modes-Roo-Code?style=flat-square&color=yellow)](https://github.com/jtgsystems/Custom-Modes-Roo-Code/stargazers) [![Forks](https://img.shields.io/github/forks/jtgsystems/Custom-Modes-Roo-Code?style=flat-square&color=blue)](https://github.com/jtgsystems/Custom-Modes-Roo-Code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Custom modes for Roo Code VS Code extension - Enhanced AI coding assistance configurations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevOps/Infra · Security
+Automation · AI/ML · Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,11 +106,11 @@ jtgsystems/Custom-Modes-Roo-Code 为 VS Code 插件 *Roo Code* 提供可自定
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

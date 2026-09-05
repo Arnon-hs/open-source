@@ -1,6 +1,6 @@
 # manufosela/karajan-code
 
-[![Stars](https://img.shields.io/github/stars/manufosela/karajan-code?style=flat-square&color=yellow)](https://github.com/manufosela/karajan-code/stargazers) [![Forks](https://img.shields.io/github/forks/manufosela/karajan-code?style=flat-square&color=blue)](https://github.com/manufosela/karajan-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manufosela/karajan-code?style=flat-square&color=yellow)](https://github.com/manufosela/karajan-code/stargazers) [![Forks](https://img.shields.io/github/forks/manufosela/karajan-code?style=flat-square&color=blue)](https://github.com/manufosela/karajan-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Local multi-agent coding orchestrator with 22 pipeline roles, TDD enforcement, SonarQube integration, and automated code review. Supports Claude, Codex, Gemini, OpenCode and Aider. MCP server included. No API costs, runs on your existing subscriptions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ manufosela/karajan-code 帮助您快速集成收款、计费或 PSP 流程，提
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

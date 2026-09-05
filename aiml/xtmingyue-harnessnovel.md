@@ -1,6 +1,6 @@
 # XTmingyue/harnessNovel
 
-[![Stars](https://img.shields.io/github/stars/XTmingyue/harnessNovel?style=flat-square&color=yellow)](https://github.com/XTmingyue/harnessNovel/stargazers) [![Forks](https://img.shields.io/github/forks/XTmingyue/harnessNovel?style=flat-square&color=blue)](https://github.com/XTmingyue/harnessNovel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XTmingyue/harnessNovel?style=flat-square&color=yellow)](https://github.com/XTmingyue/harnessNovel/stargazers) [![Forks](https://img.shields.io/github/forks/XTmingyue/harnessNovel?style=flat-square&color=blue)](https://github.com/XTmingyue/harnessNovel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 长篇网络小说自动化写作 AI Agent，支持Chatgpt、gemini、Deepseek等国内外模型接入，采用拆书 + 仿写的模式，从新世界观、大纲、卷纲设计，到章节片段完善&章纲设计，有效解决 AI 写作中的「前后矛盾」、「容易遗忘」、「缺乏特色」和「AI味重」等问题，支持 百万字量级 连载创作。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ XTmingyue/harnessNovel 的生产可用性为中等（Medium）。它
 | forks | 30/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

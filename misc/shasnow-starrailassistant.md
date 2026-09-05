@@ -1,6 +1,6 @@
 # Shasnow/StarRailAssistant
 
-[![Stars](https://img.shields.io/github/stars/Shasnow/StarRailAssistant?style=flat-square&color=yellow)](https://github.com/Shasnow/StarRailAssistant/stargazers) [![Forks](https://img.shields.io/github/forks/Shasnow/StarRailAssistant?style=flat-square&color=blue)](https://github.com/Shasnow/StarRailAssistant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shasnow/StarRailAssistant?style=flat-square&color=yellow)](https://github.com/Shasnow/StarRailAssistant/stargazers) [![Forks](https://img.shields.io/github/forks/Shasnow/StarRailAssistant?style=flat-square&color=blue)](https://github.com/Shasnow/StarRailAssistant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 崩坏星穹铁道自动化助手，帮你完成从启动到退出的崩铁日常 | 多账号托管 | 货币战争自动化
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Shasnow/StarRailAssistant 是一款针对《崩坏：星穹铁道》的全流程
 | forks | 39/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

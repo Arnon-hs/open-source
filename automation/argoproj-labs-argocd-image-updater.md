@@ -1,6 +1,6 @@
 # argoproj-labs/argocd-image-updater
 
-[![Stars](https://img.shields.io/github/stars/argoproj-labs/argocd-image-updater?style=flat-square&color=yellow)](https://github.com/argoproj-labs/argocd-image-updater/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj-labs/argocd-image-updater?style=flat-square&color=blue)](https://github.com/argoproj-labs/argocd-image-updater/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argoproj-labs/argocd-image-updater?style=flat-square&color=yellow)](https://github.com/argoproj-labs/argocd-image-updater/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj-labs/argocd-image-updater?style=flat-square&color=blue)](https://github.com/argoproj-labs/argocd-image-updater/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic container image update for Argo CD
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ArgoCD 容器镜像自动更新工具（argoproj-labs/argocd-image-updater）是
 | forks | 64/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

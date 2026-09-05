@@ -1,6 +1,6 @@
 # microsoft/MIEngine
 
-[![Stars](https://img.shields.io/github/stars/microsoft/MIEngine?style=flat-square&color=yellow)](https://github.com/microsoft/MIEngine/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/MIEngine?style=flat-square&color=blue)](https://github.com/microsoft/MIEngine/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/MIEngine?style=flat-square&color=yellow)](https://github.com/microsoft/MIEngine/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/MIEngine?style=flat-square&color=blue)](https://github.com/microsoft/MIEngine/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Visual Studio MI Debug Engine ("MIEngine") provides an open-source Visual Studio Debugger extension that works with MI-enabled debuggers such as gdb and lldb.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 855 |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ Microsoft 的 Visual Studio MI Debug Engine（MIEngine）是一个开源的 Visu
 | forks | 59/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

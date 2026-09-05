@@ -1,6 +1,6 @@
 # OxidizeLabs/cachekit
 
-[![Stars](https://img.shields.io/github/stars/OxidizeLabs/cachekit?style=flat-square&color=yellow)](https://github.com/OxidizeLabs/cachekit/stargazers) [![Forks](https://img.shields.io/github/forks/OxidizeLabs/cachekit?style=flat-square&color=blue)](https://github.com/OxidizeLabs/cachekit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OxidizeLabs/cachekit?style=flat-square&color=yellow)](https://github.com/OxidizeLabs/cachekit/stargazers) [![Forks](https://img.shields.io/github/forks/OxidizeLabs/cachekit?style=flat-square&color=blue)](https://github.com/OxidizeLabs/cachekit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance cache policies and supporting data structures for Rust systems, with optional metrics and benchmarks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ OxidizeLabs/cachekit 的生产可用性为中等（Medium），适合用于原�
 | forks | 12/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

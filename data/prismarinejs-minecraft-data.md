@@ -1,6 +1,6 @@
 # PrismarineJS/minecraft-data
 
-[![Stars](https://img.shields.io/github/stars/PrismarineJS/minecraft-data?style=flat-square&color=yellow)](https://github.com/PrismarineJS/minecraft-data/stargazers) [![Forks](https://img.shields.io/github/forks/PrismarineJS/minecraft-data?style=flat-square&color=blue)](https://github.com/PrismarineJS/minecraft-data/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrismarineJS/minecraft-data?style=flat-square&color=yellow)](https://github.com/PrismarineJS/minecraft-data/stargazers) [![Forks](https://img.shields.io/github/forks/PrismarineJS/minecraft-data?style=flat-square&color=blue)](https://github.com/PrismarineJS/minecraft-data/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Language independent module providing minecraft data for minecraft clients, servers and libraries.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 899 |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ PrismarineJS/minecraft-data 是一个开源项目，提供了语言无关的模�
 | forks | 61/100 |
 | stars | 63/100 |
 | topics | 25/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

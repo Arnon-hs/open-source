@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Observability
+AI/ML · Networking · Backend · Observability
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ ENTERPILOT/GoModel：ENTERPILOT/GoModel helps add AI capability without starting
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

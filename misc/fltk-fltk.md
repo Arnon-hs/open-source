@@ -1,6 +1,6 @@
 # fltk/fltk
 
-[![Stars](https://img.shields.io/github/stars/fltk/fltk?style=flat-square&color=yellow)](https://github.com/fltk/fltk/stargazers) [![Forks](https://img.shields.io/github/forks/fltk/fltk?style=flat-square&color=blue)](https://github.com/fltk/fltk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fltk/fltk?style=flat-square&color=yellow)](https://github.com/fltk/fltk/stargazers) [![Forks](https://img.shields.io/github/forks/fltk/fltk?style=flat-square&color=blue)](https://github.com/fltk/fltk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 338 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ FLTK（Fast Light Tool Kit）是一个轻量级、跨平台的 C++ GUI 库，提
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

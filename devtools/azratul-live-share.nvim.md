@@ -1,6 +1,6 @@
 # azratul/live-share.nvim
 
-[![Stars](https://img.shields.io/github/stars/azratul/live-share.nvim?style=flat-square&color=yellow)](https://github.com/azratul/live-share.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/azratul/live-share.nvim?style=flat-square&color=blue)](https://github.com/azratul/live-share.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/azratul/live-share.nvim?style=flat-square&color=yellow)](https://github.com/azratul/live-share.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/azratul/live-share.nvim?style=flat-square&color=blue)](https://github.com/azratul/live-share.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time pair programming and collaborative editing for Neovim, inspired by VS Code Live Share.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ azratul/live-share.nvim 的生产可用性为中等（Medium）。它适合用�
 | forks | 19/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

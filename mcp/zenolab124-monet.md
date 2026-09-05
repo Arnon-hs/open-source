@@ -1,6 +1,6 @@
 # zenolab124/monet
 
-[![Stars](https://img.shields.io/github/stars/zenolab124/monet?style=flat-square&color=yellow)](https://github.com/zenolab124/monet/stargazers) [![Forks](https://img.shields.io/github/forks/zenolab124/monet?style=flat-square&color=blue)](https://github.com/zenolab124/monet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zenolab124/monet?style=flat-square&color=yellow)](https://github.com/zenolab124/monet/stargazers) [![Forks](https://img.shields.io/github/forks/zenolab124/monet?style=flat-square&color=blue)](https://github.com/zenolab124/monet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Monet — Mission Control for Claude Code. Browse, search, and drive your Claude Code sessions from a native desktop app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Productivity · Frontend · Backend
 
 ## 📝 Summary
 
@@ -107,11 +107,11 @@ Monet 的生产可用性为中等。它适合用于原型或内部工作流程�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

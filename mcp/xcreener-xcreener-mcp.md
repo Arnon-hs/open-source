@@ -1,6 +1,6 @@
 # xcreener/xcreener-mcp
 
-[![Stars](https://img.shields.io/github/stars/xcreener/xcreener-mcp?style=flat-square&color=yellow)](https://github.com/xcreener/xcreener-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/xcreener/xcreener-mcp?style=flat-square&color=blue)](https://github.com/xcreener/xcreener-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xcreener/xcreener-mcp?style=flat-square&color=yellow)](https://github.com/xcreener/xcreener-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/xcreener/xcreener-mcp?style=flat-square&color=blue)](https://github.com/xcreener/xcreener-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ Show HN: MCP 服务器是一个开源项目，允许 AI 代理通过标准协议
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 46/100 |
-| quality | 31/100 |
-| recency | 60/100 |
+| outlook | 53/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 47/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |

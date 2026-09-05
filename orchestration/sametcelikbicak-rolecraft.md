@@ -1,6 +1,6 @@
 # sametcelikbicak/rolecraft
 
-[![Stars](https://img.shields.io/github/stars/sametcelikbicak/rolecraft?style=flat-square&color=yellow)](https://github.com/sametcelikbicak/rolecraft/stargazers) [![Forks](https://img.shields.io/github/forks/sametcelikbicak/rolecraft?style=flat-square&color=blue)](https://github.com/sametcelikbicak/rolecraft/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sametcelikbicak/rolecraft?style=flat-square&color=yellow)](https://github.com/sametcelikbicak/rolecraft/stargazers) [![Forks](https://img.shields.io/github/forks/sametcelikbicak/rolecraft?style=flat-square&color=blue)](https://github.com/sametcelikbicak/rolecraft/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dependency CLI to install AI agent skills directly from any source. No marketplace, no registry, no signup — just point it at a local folder or a GitHub repo and it works.  Works with opencode, claude-code, cursor, and all spec-compliant agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ sametcelikbicak/rolecraft 是一款零依赖的命令行工具，能够直接从
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

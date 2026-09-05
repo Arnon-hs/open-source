@@ -1,6 +1,6 @@
 # AH64-dll/OpenEdit
 
-[![Stars](https://img.shields.io/github/stars/AH64-dll/OpenEdit?style=flat-square&color=yellow)](https://github.com/AH64-dll/OpenEdit/stargazers) [![Forks](https://img.shields.io/github/forks/AH64-dll/OpenEdit?style=flat-square&color=blue)](https://github.com/AH64-dll/OpenEdit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AH64-dll/OpenEdit?style=flat-square&color=yellow)](https://github.com/AH64-dll/OpenEdit/stargazers) [![Forks](https://img.shields.io/github/forks/AH64-dll/OpenEdit?style=flat-square&color=blue)](https://github.com/AH64-dll/OpenEdit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native video editor driven as a local MCP server. Linux + Windows: ingest, transcribe, edit graph, melt/ffmpeg render, QC.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ AH64-dll/OpenEdit：AH64-dll/OpenEdit helps turn media editing, captions, render
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

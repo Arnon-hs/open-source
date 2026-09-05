@@ -1,6 +1,6 @@
 # Jayden-X-L/forkprobe
 
-[![Stars](https://img.shields.io/github/stars/Jayden-X-L/forkprobe?style=flat-square&color=yellow)](https://github.com/Jayden-X-L/forkprobe/stargazers) [![Forks](https://img.shields.io/github/forks/Jayden-X-L/forkprobe?style=flat-square&color=blue)](https://github.com/Jayden-X-L/forkprobe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jayden-X-L/forkprobe?style=flat-square&color=yellow)](https://github.com/Jayden-X-L/forkprobe/stargazers) [![Forks](https://img.shields.io/github/forks/Jayden-X-L/forkprobe?style=flat-square&color=blue)](https://github.com/Jayden-X-L/forkprobe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Compare multiple skills on the same task and pick the winner.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Jayden-X-L/forkprobe 的生产可用性为中等。该项目主要适用于原�
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

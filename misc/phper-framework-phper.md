@@ -1,6 +1,6 @@
 # phper-framework/phper
 
-[![Stars](https://img.shields.io/github/stars/phper-framework/phper?style=flat-square&color=yellow)](https://github.com/phper-framework/phper/stargazers) [![Forks](https://img.shields.io/github/forks/phper-framework/phper?style=flat-square&color=blue)](https://github.com/phper-framework/phper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phper-framework/phper?style=flat-square&color=yellow)](https://github.com/phper-framework/phper/stargazers) [![Forks](https://img.shields.io/github/forks/phper-framework/phper?style=flat-square&color=blue)](https://github.com/phper-framework/phper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The framework that allows us to write PHP extensions using pure and safe Rust whenever possible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ phper 为希望在 PHP 生态中引入 Rust 安全特性的团队提供了“一
 | forks | 33/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

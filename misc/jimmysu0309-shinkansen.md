@@ -1,6 +1,6 @@
 # jimmysu0309/shinkansen
 
-[![Stars](https://img.shields.io/github/stars/jimmysu0309/shinkansen?style=flat-square&color=yellow)](https://github.com/jimmysu0309/shinkansen/stargazers) [![Forks](https://img.shields.io/github/forks/jimmysu0309/shinkansen?style=flat-square&color=blue)](https://github.com/jimmysu0309/shinkansen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jimmysu0309/shinkansen?style=flat-square&color=yellow)](https://github.com/jimmysu0309/shinkansen/stargazers) [![Forks](https://img.shields.io/github/forks/jimmysu0309/shinkansen?style=flat-square&color=blue)](https://github.com/jimmysu0309/shinkansen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 快速、流暢的網頁及 YouTube 字幕翻譯擴充功能。支援 8 種目標語言與多種 AI 引擎，資料不經過第三方
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 441 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ jimmysu0309/shinkansen 的价值在于它可以帮助开发者快速添加 AI �
 | forks | 43/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

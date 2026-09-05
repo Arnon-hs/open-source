@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ LearnPrompt/ai-news-radar：LearnPrompt/ai-news-radar may be useful when its REA
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

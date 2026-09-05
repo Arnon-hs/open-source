@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Mobile
+Orchestration · AI/ML · Frontend · Backend · Mobile
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ HoangNguyen0403/agent-skills-standard：HoangNguyen0403/agent-skills-standard he
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

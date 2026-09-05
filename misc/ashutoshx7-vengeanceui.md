@@ -1,6 +1,6 @@
 # Ashutoshx7/VengeanceUI
 
-[![Stars](https://img.shields.io/github/stars/Ashutoshx7/VengeanceUI?style=flat-square&color=yellow)](https://github.com/Ashutoshx7/VengeanceUI/stargazers) [![Forks](https://img.shields.io/github/forks/Ashutoshx7/VengeanceUI?style=flat-square&color=blue)](https://github.com/Ashutoshx7/VengeanceUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ashutoshx7/VengeanceUI?style=flat-square&color=yellow)](https://github.com/Ashutoshx7/VengeanceUI/stargazers) [![Forks](https://img.shields.io/github/forks/Ashutoshx7/VengeanceUI?style=flat-square&color=blue)](https://github.com/Ashutoshx7/VengeanceUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > VengeanceUI helps you to build  your landing page by providing you animated beautiful components out of the box which you can copy and paste  and  make your landing page Awesome ,Subtle and of course Tasteful.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 973 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ VengeanceUI 的生产可用性为中等。它适合用于原型或内部工作�
 | forks | 47/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

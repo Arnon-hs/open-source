@@ -1,6 +1,6 @@
 # calvinhxx/Fluent-Qt
 
-[![Stars](https://img.shields.io/github/stars/calvinhxx/Fluent-Qt?style=flat-square&color=yellow)](https://github.com/calvinhxx/Fluent-Qt/stargazers) [![Forks](https://img.shields.io/github/forks/calvinhxx/Fluent-Qt?style=flat-square&color=blue)](https://github.com/calvinhxx/Fluent-Qt/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calvinhxx/Fluent-Qt?style=flat-square&color=yellow)](https://github.com/calvinhxx/Fluent-Qt/stargazers) [![Forks](https://img.shields.io/github/forks/calvinhxx/Fluent-Qt?style=flat-square&color=blue)](https://github.com/calvinhxx/Fluent-Qt/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Modern Fluent / WinUI-style Qt Widgets components and Gallery for native C++ desktop apps, optional PySide6 bindings, and WebAssembly.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Frontend · Design
+Frontend · Libraries & SDKs · Design
 
 ## 📝 Summary
 
 ### English
 
-calvinhxx/Fluent-Qt: . Use it for Frontend, Design. 
+calvinhxx/Fluent-Qt: . Use it for Frontend, Libraries & SDKs, Design. 
 
 ### Русский
 
-calvinhxx/Fluent-Qt: open-source проект в категориях Frontend, Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+calvinhxx/Fluent-Qt: open-source проект в категориях Frontend, Libraries & SDKs, Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-calvinhxx/Fluent-Qt：。适合用于Frontend、Design。
+calvinhxx/Fluent-Qt：。适合用于Frontend、Libraries & SDKs、Design。
 
 ## 🧭 Practical evaluation
 
@@ -62,15 +62,15 @@ calvinhxx/Fluent-Qt：。适合用于Frontend、Design。
 | forks | 26/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 80/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 100/100 |
 | adoption | 36/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dfinity/ic-wasm
 
-[![Stars](https://img.shields.io/github/stars/dfinity/ic-wasm?style=flat-square&color=yellow)](https://github.com/dfinity/ic-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/dfinity/ic-wasm?style=flat-square&color=blue)](https://github.com/dfinity/ic-wasm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dfinity/ic-wasm?style=flat-square&color=yellow)](https://github.com/dfinity/ic-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/dfinity/ic-wasm?style=flat-square&color=blue)](https://github.com/dfinity/ic-wasm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of libraries and tools for transforming Wasm canisters running on the Internet Computer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ Dfinity/ic-wasm 的生产可用性为 中等。它适合用于原型和内部工
 | forks | 24/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 47/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 53/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

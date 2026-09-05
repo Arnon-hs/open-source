@@ -1,6 +1,6 @@
 # compozy/agh
 
-[![Stars](https://img.shields.io/github/stars/compozy/agh?style=flat-square&color=yellow)](https://github.com/compozy/agh/stargazers) [![Forks](https://img.shields.io/github/forks/compozy/agh?style=flat-square&color=blue)](https://github.com/compozy/agh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/compozy/agh?style=flat-square&color=yellow)](https://github.com/compozy/agh/stargazers) [![Forks](https://img.shields.io/github/forks/compozy/agh?style=flat-square&color=blue)](https://github.com/compozy/agh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An open workplace for AI agents — local-first runtime with durable sessions and agent-to-agent networking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -116,15 +116,15 @@ compozy/agh 是一个面向 AI 代理的本地优先运行时，提供持久化�
 | forks | 24/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pandorafuture/wx-cli
 
-[![Stars](https://img.shields.io/github/stars/pandorafuture/wx-cli?style=flat-square&color=yellow)](https://github.com/pandorafuture/wx-cli/stargazers) [![Forks](https://img.shields.io/github/forks/pandorafuture/wx-cli?style=flat-square&color=blue)](https://github.com/pandorafuture/wx-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pandorafuture/wx-cli?style=flat-square&color=yellow)](https://github.com/pandorafuture/wx-cli/stargazers) [![Forks](https://img.shields.io/github/forks/pandorafuture/wx-cli?style=flat-square&color=blue)](https://github.com/pandorafuture/wx-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > WeChat macOS database decryption and query tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ pandorafuture/wx-cli 的生产可用性为中等（Medium）。虽然它对原�
 | forks | 42/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

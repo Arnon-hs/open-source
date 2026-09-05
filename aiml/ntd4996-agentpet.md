@@ -1,6 +1,6 @@
 # ntd4996/agentpet
 
-[![Stars](https://img.shields.io/github/stars/ntd4996/agentpet?style=flat-square&color=yellow)](https://github.com/ntd4996/agentpet/stargazers) [![Forks](https://img.shields.io/github/forks/ntd4996/agentpet?style=flat-square&color=blue)](https://github.com/ntd4996/agentpet/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ntd4996/agentpet?style=flat-square&color=yellow)](https://github.com/ntd4996/agentpet/stargazers) [![Forks](https://img.shields.io/github/forks/ntd4996/agentpet?style=flat-square&color=blue)](https://github.com/ntd4996/agentpet/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ n​td4996/agentpet — это открытый десктоп‑пет для
 | forks | 42/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

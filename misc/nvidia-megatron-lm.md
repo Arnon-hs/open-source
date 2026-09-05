@@ -1,6 +1,6 @@
 # NVIDIA/Megatron-LM
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=flat-square&color=yellow)](https://github.com/NVIDIA/Megatron-LM/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/Megatron-LM?style=flat-square&color=blue)](https://github.com/NVIDIA/Megatron-LM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=flat-square&color=yellow)](https://github.com/NVIDIA/Megatron-LM/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/Megatron-LM?style=flat-square&color=blue)](https://github.com/NVIDIA/Megatron-LM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Ongoing research training transformer models at scale
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.3k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ NVIDIA / Megatron‑LM 是一个用于大规模训练 Transformer 模型的�
 | forks | 90/100 |
 | stars | 90/100 |
 | topics | 38/100 |
-| outlook | 52/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

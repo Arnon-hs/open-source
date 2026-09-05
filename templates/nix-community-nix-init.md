@@ -1,6 +1,6 @@
 # nix-community/nix-init
 
-[![Stars](https://img.shields.io/github/stars/nix-community/nix-init?style=flat-square&color=yellow)](https://github.com/nix-community/nix-init/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/nix-init?style=flat-square&color=blue)](https://github.com/nix-community/nix-init/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nix-community/nix-init?style=flat-square&color=yellow)](https://github.com/nix-community/nix-init/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/nix-init?style=flat-square&color=blue)](https://github.com/nix-community/nix-init/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ nix-community/nix-init 是一个用 Rust 编写的工具，能够根据给定的
 | forks | 41/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # DanielCardonaRojas/codemark
 
-[![Stars](https://img.shields.io/github/stars/DanielCardonaRojas/codemark?style=flat-square&color=yellow)](https://github.com/DanielCardonaRojas/codemark/stargazers) [![Forks](https://img.shields.io/github/forks/DanielCardonaRojas/codemark?style=flat-square&color=blue)](https://github.com/DanielCardonaRojas/codemark/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DanielCardonaRojas/codemark?style=flat-square&color=yellow)](https://github.com/DanielCardonaRojas/codemark/stargazers) [![Forks](https://img.shields.io/github/forks/DanielCardonaRojas/codemark?style=flat-square&color=blue)](https://github.com/DanielCardonaRojas/codemark/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A semantic code bookmarking system for humans and agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · DevTools · Database
+Knowledge/RAG · Productivity · Frontend · DevTools · Database
 
 ## 📝 Summary
 
@@ -100,15 +100,15 @@ DanielCardonaRojas/codemark 的价值在于它可以使内部知识变得可搜�
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

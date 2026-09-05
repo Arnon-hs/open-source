@@ -1,6 +1,6 @@
 # HypothesisWorks/hypothesis
 
-[![Stars](https://img.shields.io/github/stars/HypothesisWorks/hypothesis?style=flat-square&color=yellow)](https://github.com/HypothesisWorks/hypothesis/stargazers) [![Forks](https://img.shields.io/github/forks/HypothesisWorks/hypothesis?style=flat-square&color=blue)](https://github.com/HypothesisWorks/hypothesis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HypothesisWorks/hypothesis?style=flat-square&color=yellow)](https://github.com/HypothesisWorks/hypothesis/stargazers) [![Forks](https://img.shields.io/github/forks/HypothesisWorks/hypothesis?style=flat-square&color=blue)](https://github.com/HypothesisWorks/hypothesis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The property-based testing library for Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 661 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ HypothesisWorks/hypothesis 在生产环境中的可用性较高，主要是因�
 | forks | 71/100 |
 | stars | 84/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

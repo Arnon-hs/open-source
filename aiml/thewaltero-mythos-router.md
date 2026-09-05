@@ -1,6 +1,6 @@
 # thewaltero/mythos-router
 
-[![Stars](https://img.shields.io/github/stars/thewaltero/mythos-router?style=flat-square&color=yellow)](https://github.com/thewaltero/mythos-router/stargazers) [![Forks](https://img.shields.io/github/forks/thewaltero/mythos-router?style=flat-square&color=blue)](https://github.com/thewaltero/mythos-router/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thewaltero/mythos-router?style=flat-square&color=yellow)](https://github.com/thewaltero/mythos-router/stargazers) [![Forks](https://img.shields.io/github/forks/thewaltero/mythos-router?style=flat-square&color=blue)](https://github.com/thewaltero/mythos-router/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The leaked Anthropic reasoning protocol. Running locally. Zero-drift coding with Strict Write Discipline and adaptive Claude Opus 4.7 thinking. Mythos
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ thewaltero/mythos-router 是一款基于 Anthropic 推理协议的本地运行�
 | forks | 44/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

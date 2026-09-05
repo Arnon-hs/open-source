@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ Chat2AnyLLM/awesome-claude-skills is an open‑source, community‑maintained re
 
 ### 中文
 
-Chat2AnyLLM/awesome-claude-skills：Chat2AnyLLM/awesome-claude-skills helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Chat2AnyLLM/awesome-claude-skills：Chat2AnyLLM/awesome-claude-skills may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** Chat2AnyLLM/awesome-claude-skills helps add AI capability without starting from a blank model stack.
+**Value:** Chat2AnyLLM/awesome-claude-skills may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,17 +63,18 @@ Chat2AnyLLM/awesome-claude-skills：Chat2AnyLLM/awesome-claude-skills helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 40/100 |
-| adoption | 42/100 |
-| stars | 44/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 38/100 |
+| outlook | 40/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cloudwego/eino
 
-[![Stars](https://img.shields.io/github/stars/cloudwego/eino?style=flat-square&color=yellow)](https://github.com/cloudwego/eino/stargazers) [![Forks](https://img.shields.io/github/forks/cloudwego/eino?style=flat-square&color=blue)](https://github.com/cloudwego/eino/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudwego/eino?style=flat-square&color=yellow)](https://github.com/cloudwego/eino/stargazers) [![Forks](https://img.shields.io/github/forks/cloudwego/eino?style=flat-square&color=blue)](https://github.com/cloudwego/eino/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate LLM/AI application development framework in Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ cloudwego/eino 的生产可用性较高，原因包括：
 | forks | 75/100 |
 | stars | 87/100 |
 | topics | 88/100 |
-| outlook | 65/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # karthikrshet/ClaudeMark
 
-[![Stars](https://img.shields.io/github/stars/karthikrshet/ClaudeMark?style=flat-square&color=yellow)](https://github.com/karthikrshet/ClaudeMark/stargazers) [![Forks](https://img.shields.io/github/forks/karthikrshet/ClaudeMark?style=flat-square&color=blue)](https://github.com/karthikrshet/ClaudeMark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karthikrshet/ClaudeMark?style=flat-square&color=yellow)](https://github.com/karthikrshet/ClaudeMark/stargazers) [![Forks](https://img.shields.io/github/forks/karthikrshet/ClaudeMark?style=flat-square&color=blue)](https://github.com/karthikrshet/ClaudeMark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, local-first AI watermark & provenance forensics platform — statistical detection, Unicode steganography, C2PA/metadata analysis, file sanitization, security scanning, SARIF/CI, forensic diffing, and AI-agent tooling.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ karthikrshet/ClaudeMark：karthikrshet/ClaudeMark helps add AI capability withou
 | forks | 8/100 |
 | stars | 19/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 16/100 |
-| production | 65/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

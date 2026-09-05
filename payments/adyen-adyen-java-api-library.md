@@ -1,6 +1,6 @@
 # Adyen/adyen-java-api-library
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-java-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-java-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-java-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-java-api-library/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-java-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-java-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-java-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-java-api-library/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen API Library for Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Adyen/adyen-java-api-library 是 Adyen 官方提供的 Java 语言 SDK，封装�
 | forks | 55/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 48/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

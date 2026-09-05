@@ -1,6 +1,6 @@
 # linux-msm/qdl
 
-[![Stars](https://img.shields.io/github/stars/linux-msm/qdl?style=flat-square&color=yellow)](https://github.com/linux-msm/qdl/stargazers) [![Forks](https://img.shields.io/github/forks/linux-msm/qdl?style=flat-square&color=blue)](https://github.com/linux-msm/qdl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linux-msm/qdl?style=flat-square&color=yellow)](https://github.com/linux-msm/qdl/stargazers) [![Forks](https://img.shields.io/github/forks/linux-msm/qdl?style=flat-square&color=blue)](https://github.com/linux-msm/qdl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | C |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Linux‑msm/qdl — это открытый набор утилит на C д�
 | forks | 53/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

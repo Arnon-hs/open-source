@@ -1,6 +1,6 @@
 # horsicq/XMachOViewer
 
-[![Stars](https://img.shields.io/github/stars/horsicq/XMachOViewer?style=flat-square&color=yellow)](https://github.com/horsicq/XMachOViewer/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/XMachOViewer?style=flat-square&color=blue)](https://github.com/horsicq/XMachOViewer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horsicq/XMachOViewer?style=flat-square&color=yellow)](https://github.com/horsicq/XMachOViewer/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/XMachOViewer?style=flat-square&color=blue)](https://github.com/horsicq/XMachOViewer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 939 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ XMachOViewer 为跨平台 Mach‑O 解析提供了轻量且功能完整的解决
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

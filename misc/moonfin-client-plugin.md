@@ -1,6 +1,6 @@
 # Moonfin-Client/Plugin
 
-[![Stars](https://img.shields.io/github/stars/Moonfin-Client/Plugin?style=flat-square&color=yellow)](https://github.com/Moonfin-Client/Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Moonfin-Client/Plugin?style=flat-square&color=blue)](https://github.com/Moonfin-Client/Plugin/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Moonfin-Client/Plugin?style=flat-square&color=yellow)](https://github.com/Moonfin-Client/Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Moonfin-Client/Plugin?style=flat-square&color=blue)](https://github.com/Moonfin-Client/Plugin/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Companion server plugin for all Moonfin clients
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ Moonfin-Client/Plugin 的生产可用性为中等（Medium）。它适合用于�
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

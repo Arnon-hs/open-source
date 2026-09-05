@@ -1,6 +1,6 @@
 # nopager/nopager
 
-[![Stars](https://img.shields.io/github/stars/nopager/nopager?style=flat-square&color=yellow)](https://github.com/nopager/nopager/stargazers) [![Forks](https://img.shields.io/github/forks/nopager/nopager?style=flat-square&color=blue)](https://github.com/nopager/nopager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nopager/nopager?style=flat-square&color=yellow)](https://github.com/nopager/nopager/stargazers) [![Forks](https://img.shields.io/github/forks/nopager/nopager?style=flat-square&color=blue)](https://github.com/nopager/nopager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ nopager/nopager：nopager/nopager may be useful when its README and activity mat
 | forks | 8/100 |
 | stars | 13/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 11/100 |
-| production | 55/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 70/100 |

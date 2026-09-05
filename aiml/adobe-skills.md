@@ -1,6 +1,6 @@
 # adobe/skills
 
-[![Stars](https://img.shields.io/github/stars/adobe/skills?style=flat-square&color=yellow)](https://github.com/adobe/skills/stargazers) [![Forks](https://img.shields.io/github/forks/adobe/skills?style=flat-square&color=blue)](https://github.com/adobe/skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adobe/skills?style=flat-square&color=yellow)](https://github.com/adobe/skills/stargazers) [![Forks](https://img.shields.io/github/forks/adobe/skills?style=flat-square&color=blue)](https://github.com/adobe/skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Adobe Skills for Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Adobe Skills（`adobe/skills`）是一个面向智能体的开源库，提供�
 | forks | 44/100 |
 | stars | 45/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

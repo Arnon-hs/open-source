@@ -1,6 +1,6 @@
 # Balthazzahr/omatunes
 
-[![Stars](https://img.shields.io/github/stars/Balthazzahr/omatunes?style=flat-square&color=yellow)](https://github.com/Balthazzahr/omatunes/stargazers) [![Forks](https://img.shields.io/github/forks/Balthazzahr/omatunes?style=flat-square&color=blue)](https://github.com/Balthazzahr/omatunes/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Balthazzahr/omatunes?style=flat-square&color=yellow)](https://github.com/Balthazzahr/omatunes/stargazers) [![Forks](https://img.shields.io/github/forks/Balthazzahr/omatunes?style=flat-square&color=blue)](https://github.com/Balthazzahr/omatunes/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, local-only offline music player built in Rust. Designed specifically for seamless integration with Hyprland and the Omarchy configuration, it delivers fast, minimal, and resource-efficient audio playback directly from your local library without any external dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Balthazzahr/omatunes 的生产可用性为中等（Medium）。它适合用于�
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

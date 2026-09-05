@@ -1,6 +1,6 @@
 # rust-osdev/bootimage
 
-[![Stars](https://img.shields.io/github/stars/rust-osdev/bootimage?style=flat-square&color=yellow)](https://github.com/rust-osdev/bootimage/stargazers) [![Forks](https://img.shields.io/github/forks/rust-osdev/bootimage?style=flat-square&color=blue)](https://github.com/rust-osdev/bootimage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-osdev/bootimage?style=flat-square&color=yellow)](https://github.com/rust-osdev/bootimage/stargazers) [![Forks](https://img.shields.io/github/forks/rust-osdev/bootimage?style=flat-square&color=blue)](https://github.com/rust-osdev/bootimage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Tool to create bootable disk images from a Rust OS kernel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 903 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ rust-osdev/bootimage 的生产可用性为中等，适合用于原型开发或�
 | forks | 46/100 |
 | stars | 63/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

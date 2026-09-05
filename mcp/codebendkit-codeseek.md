@@ -1,6 +1,6 @@
 # CodeBendKit/codeseek
 
-[![Stars](https://img.shields.io/github/stars/CodeBendKit/codeseek?style=flat-square&color=yellow)](https://github.com/CodeBendKit/codeseek/stargazers) [![Forks](https://img.shields.io/github/forks/CodeBendKit/codeseek?style=flat-square&color=blue)](https://github.com/CodeBendKit/codeseek/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeBendKit/codeseek?style=flat-square&color=yellow)](https://github.com/CodeBendKit/codeseek/stargazers) [![Forks](https://img.shields.io/github/forks/CodeBendKit/codeseek?style=flat-square&color=blue)](https://github.com/CodeBendKit/codeseek/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-powered code intelligence CLI for AI coding agents. Builds call graphs and hybrid semantic search indexes (Dense + Sparse + RRF + Reranker) across 7 languages. Ships as native MCP tools for Claude Code and Codex CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · DevTools
+MCP · Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ CodeBendKit/codeseek 是一款基于 Rust 的代码智能 CLI，能够为 AI 编
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

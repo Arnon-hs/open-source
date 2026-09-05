@@ -1,6 +1,6 @@
 # dapr/components-contrib
 
-[![Stars](https://img.shields.io/github/stars/dapr/components-contrib?style=flat-square&color=yellow)](https://github.com/dapr/components-contrib/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/components-contrib?style=flat-square&color=blue)](https://github.com/dapr/components-contrib/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dapr/components-contrib?style=flat-square&color=yellow)](https://github.com/dapr/components-contrib/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/components-contrib?style=flat-square&color=blue)](https://github.com/dapr/components-contrib/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Community driven, reusable components for distributed apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 599 |
 | 🍴 **Forks** | 561 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ dapr/components-contrib 是 Dapr 社区维护的可复用组件库，提供面�
 | forks | 69/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

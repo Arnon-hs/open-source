@@ -1,6 +1,6 @@
 # mruby/mruby
 
-[![Stars](https://img.shields.io/github/stars/mruby/mruby?style=flat-square&color=yellow)](https://github.com/mruby/mruby/stargazers) [![Forks](https://img.shields.io/github/forks/mruby/mruby?style=flat-square&color=blue)](https://github.com/mruby/mruby/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mruby/mruby?style=flat-square&color=yellow)](https://github.com/mruby/mruby/stargazers) [![Forks](https://img.shields.io/github/forks/mruby/mruby?style=flat-square&color=blue)](https://github.com/mruby/mruby/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Ruby
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 837 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ mruby 是一个用 C 实现的轻量级 Ruby 解释器，旨在把 Ruby 语言�
 | forks | 73/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

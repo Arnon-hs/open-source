@@ -1,6 +1,6 @@
 # google-labs-code/design.md
 
-[![Stars](https://img.shields.io/github/stars/google-labs-code/design.md?style=flat-square&color=yellow)](https://github.com/google-labs-code/design.md/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/design.md?style=flat-square&color=blue)](https://github.com/google-labs-code/design.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-labs-code/design.md?style=flat-square&color=yellow)](https://github.com/google-labs-code/design.md/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/design.md?style=flat-square&color=blue)](https://github.com/google-labs-code/design.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ google-labs-code/design.md 的生产可用性非常高，主要原因是：
 | forks | 82/100 |
 | stars | 93/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

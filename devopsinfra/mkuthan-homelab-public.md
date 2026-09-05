@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | HCL |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ mkuthan/homelab-public：mkuthan/homelab-public helps make deployment and operat
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

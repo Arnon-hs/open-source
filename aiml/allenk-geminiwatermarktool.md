@@ -1,6 +1,6 @@
 # allenk/GeminiWatermarkTool
 
-[![Stars](https://img.shields.io/github/stars/allenk/GeminiWatermarkTool?style=flat-square&color=yellow)](https://github.com/allenk/GeminiWatermarkTool/stargazers) [![Forks](https://img.shields.io/github/forks/allenk/GeminiWatermarkTool?style=flat-square&color=blue)](https://github.com/allenk/GeminiWatermarkTool/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allenk/GeminiWatermarkTool?style=flat-square&color=yellow)](https://github.com/allenk/GeminiWatermarkTool/stargazers) [![Forks](https://img.shields.io/github/forks/allenk/GeminiWatermarkTool?style=flat-square&color=blue)](https://github.com/allenk/GeminiWatermarkTool/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ allenk/GeminiWatermarkTool 帮助开发者快速添加 AI 能力，适用于以�
 | forks | 60/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

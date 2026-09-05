@@ -1,6 +1,6 @@
 # ng-doc/ng-doc
 
-[![Stars](https://img.shields.io/github/stars/ng-doc/ng-doc?style=flat-square&color=yellow)](https://github.com/ng-doc/ng-doc/stargazers) [![Forks](https://img.shields.io/github/forks/ng-doc/ng-doc?style=flat-square&color=blue)](https://github.com/ng-doc/ng-doc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ng-doc/ng-doc?style=flat-square&color=yellow)](https://github.com/ng-doc/ng-doc/stargazers) [![Forks](https://img.shields.io/github/forks/ng-doc/ng-doc?style=flat-square&color=blue)](https://github.com/ng-doc/ng-doc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 📃 The documentation engine for Angular projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ ng-doc 是面向 Angular 项目的文档引擎，旨在通过统一的 API/SDK/C
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

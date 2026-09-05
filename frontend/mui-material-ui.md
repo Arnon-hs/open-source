@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 32.6k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ mui/material-ui：mui/material-ui helps ship user-facing interfaces with less cu
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

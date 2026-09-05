@@ -1,6 +1,6 @@
 # aneasystone/weekly-practice
 
-[![Stars](https://img.shields.io/github/stars/aneasystone/weekly-practice?style=flat-square&color=yellow)](https://github.com/aneasystone/weekly-practice/stargazers) [![Forks](https://img.shields.io/github/forks/aneasystone/weekly-practice?style=flat-square&color=blue)](https://github.com/aneasystone/weekly-practice/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aneasystone/weekly-practice?style=flat-square&color=yellow)](https://github.com/aneasystone/weekly-practice/stargazers) [![Forks](https://img.shields.io/github/forks/aneasystone/weekly-practice?style=flat-square&color=blue)](https://github.com/aneasystone/weekly-practice/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 日拱一卒，功不唐捐。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ aneasystone/weekly-practice 的生产可用性为中等（Medium）。它可以�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Indra55/bezel
 
-[![Stars](https://img.shields.io/github/stars/Indra55/bezel?style=flat-square&color=yellow)](https://github.com/Indra55/bezel/stargazers) [![Forks](https://img.shields.io/github/forks/Indra55/bezel?style=flat-square&color=blue)](https://github.com/Indra55/bezel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Indra55/bezel?style=flat-square&color=yellow)](https://github.com/Indra55/bezel/stargazers) [![Forks](https://img.shields.io/github/forks/Indra55/bezel?style=flat-square&color=blue)](https://github.com/Indra55/bezel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight Rust daemon for trackpad gestures on Wayland compositor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Indra55/bezel 是一个基于 Rust 实现的轻量级守护进程，专门在 Wa
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 47/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

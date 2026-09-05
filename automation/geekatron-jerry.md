@@ -1,6 +1,6 @@
 # geekatron/jerry
 
-[![Stars](https://img.shields.io/github/stars/geekatron/jerry?style=flat-square&color=yellow)](https://github.com/geekatron/jerry/stargazers) [![Forks](https://img.shields.io/github/forks/geekatron/jerry?style=flat-square&color=blue)](https://github.com/geekatron/jerry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geekatron/jerry?style=flat-square&color=yellow)](https://github.com/geekatron/jerry/stargazers) [![Forks](https://img.shields.io/github/forks/geekatron/jerry?style=flat-square&color=blue)](https://github.com/geekatron/jerry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude Code plugin for behavior and workflow guardrails with knowledge accrual
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ geekatron/jerry 是一款基于 Claude Code 的插件，提供行为与工作流
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

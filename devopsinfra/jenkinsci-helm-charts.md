@@ -1,6 +1,6 @@
 # jenkinsci/helm-charts
 
-[![Stars](https://img.shields.io/github/stars/jenkinsci/helm-charts?style=flat-square&color=yellow)](https://github.com/jenkinsci/helm-charts/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/helm-charts?style=flat-square&color=blue)](https://github.com/jenkinsci/helm-charts/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jenkinsci/helm-charts?style=flat-square&color=yellow)](https://github.com/jenkinsci/helm-charts/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/helm-charts?style=flat-square&color=blue)](https://github.com/jenkinsci/helm-charts/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Jenkins helm charts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 657 |
 | 🍴 **Forks** | 929 |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Jenkins Helm Charts 的生产可用性是高的，因为它具有以下特点：
 | forks | 74/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

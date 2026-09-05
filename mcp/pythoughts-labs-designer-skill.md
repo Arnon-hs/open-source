@@ -1,6 +1,6 @@
 # Pythoughts-labs/designer-skill
 
-[![Stars](https://img.shields.io/github/stars/Pythoughts-labs/designer-skill?style=flat-square&color=yellow)](https://github.com/Pythoughts-labs/designer-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Pythoughts-labs/designer-skill?style=flat-square&color=blue)](https://github.com/Pythoughts-labs/designer-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pythoughts-labs/designer-skill?style=flat-square&color=yellow)](https://github.com/Pythoughts-labs/designer-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Pythoughts-labs/designer-skill?style=flat-square&color=blue)](https://github.com/Pythoughts-labs/designer-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Plug-and-play MCP that gives your coding agent UI superpowers. One-line install, zero config. Claude Code, Codex, Cursor, VS Code, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ Pythoughts‑labs/designer‑skill 是一个即插即用的 Model Context Pr
 | forks | 12/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ovenpasta/adi2
 
-[![Stars](https://img.shields.io/github/stars/ovenpasta/adi2?style=flat-square&color=yellow)](https://github.com/ovenpasta/adi2/stargazers) [![Forks](https://img.shields.io/github/forks/ovenpasta/adi2?style=flat-square&color=blue)](https://github.com/ovenpasta/adi2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ovenpasta/adi2?style=flat-square&color=yellow)](https://github.com/ovenpasta/adi2/stargazers) [![Forks](https://img.shields.io/github/forks/ovenpasta/adi2?style=flat-square&color=blue)](https://github.com/ovenpasta/adi2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #programming by @hackernews
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | mastodon |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ Adi2 是一个现代化的 Ada GUI 库，通过支持 CSS 样式、XML UI 定义
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

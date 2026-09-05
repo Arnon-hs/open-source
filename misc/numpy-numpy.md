@@ -1,6 +1,6 @@
 # numpy/numpy
 
-[![Stars](https://img.shields.io/github/stars/numpy/numpy?style=flat-square&color=yellow)](https://github.com/numpy/numpy/stargazers) [![Forks](https://img.shields.io/github/forks/numpy/numpy?style=flat-square&color=blue)](https://github.com/numpy/numpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/numpy/numpy?style=flat-square&color=yellow)](https://github.com/numpy/numpy/stargazers) [![Forks](https://img.shields.io/github/forks/numpy/numpy?style=flat-square&color=blue)](https://github.com/numpy/numpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The fundamental package for scientific computing with Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32.2k |
 | 🍴 **Forks** | 12.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ NumPy（`numpy/numpy`）是 Python 生态中用于科学计算的核心库，提
 | forks | 100/100 |
 | stars | 96/100 |
 | topics | 25/100 |
-| outlook | 59/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 97/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

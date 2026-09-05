@@ -1,6 +1,6 @@
 # line/line-bot-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/line/line-bot-mcp-server?style=flat-square&color=yellow)](https://github.com/line/line-bot-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-bot-mcp-server?style=flat-square&color=blue)](https://github.com/line/line-bot-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/line/line-bot-mcp-server?style=flat-square&color=yellow)](https://github.com/line/line-bot-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-bot-mcp-server?style=flat-square&color=blue)](https://github.com/line/line-bot-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 577 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ line/line-bot-mcp-server 已具备“即插即用”能力，能够在几分钟�
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

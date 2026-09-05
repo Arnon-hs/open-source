@@ -1,6 +1,6 @@
 # Broomy-AI/broomy
 
-[![Stars](https://img.shields.io/github/stars/Broomy-AI/broomy?style=flat-square&color=yellow)](https://github.com/Broomy-AI/broomy/stargazers) [![Forks](https://img.shields.io/github/forks/Broomy-AI/broomy?style=flat-square&color=blue)](https://github.com/Broomy-AI/broomy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Broomy-AI/broomy?style=flat-square&color=yellow)](https://github.com/Broomy-AI/broomy/stargazers) [![Forks](https://img.shields.io/github/forks/Broomy-AI/broomy?style=flat-square&color=blue)](https://github.com/Broomy-AI/broomy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Tool for making it easy to work with lots of AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Broomy-AI/broomy 是一个开源工具，旨在使工作与大量 AI 代理变�
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 40/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

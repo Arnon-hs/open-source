@@ -1,6 +1,6 @@
 # AMAP-ML/LongHorizon-Harness
 
-[![Stars](https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness?style=flat-square&color=yellow)](https://github.com/AMAP-ML/LongHorizon-Harness/stargazers) [![Forks](https://img.shields.io/github/forks/AMAP-ML/LongHorizon-Harness?style=flat-square&color=blue)](https://github.com/AMAP-ML/LongHorizon-Harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness?style=flat-square&color=yellow)](https://github.com/AMAP-ML/LongHorizon-Harness/stargazers) [![Forks](https://img.shields.io/github/forks/AMAP-ML/LongHorizon-Harness?style=flat-square&color=blue)](https://github.com/AMAP-ML/LongHorizon-Harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ AMAP-ML/LongHorizon-Harness有很高的生产可用性，其最近的活跃度�
 | forks | 37/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

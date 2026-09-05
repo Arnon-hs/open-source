@@ -1,6 +1,6 @@
 # mavlink/MAVSDK
 
-[![Stars](https://img.shields.io/github/stars/mavlink/MAVSDK?style=flat-square&color=yellow)](https://github.com/mavlink/MAVSDK/stargazers) [![Forks](https://img.shields.io/github/forks/mavlink/MAVSDK?style=flat-square&color=blue)](https://github.com/mavlink/MAVSDK/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mavlink/MAVSDK?style=flat-square&color=yellow)](https://github.com/mavlink/MAVSDK/stargazers) [![Forks](https://img.shields.io/github/forks/mavlink/MAVSDK?style=flat-square&color=blue)](https://github.com/mavlink/MAVSDK/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > API and library for MAVLink compatible systems written in C++ 20
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 901 |
 | 🍴 **Forks** | 630 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ mavlink/MAVSDK 是基于 C++20 的 MAVLink 兼容系统 API 与库，提供统�
 | forks | 70/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

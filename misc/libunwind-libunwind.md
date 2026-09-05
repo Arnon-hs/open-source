@@ -1,6 +1,6 @@
 # libunwind/libunwind
 
-[![Stars](https://img.shields.io/github/stars/libunwind/libunwind?style=flat-square&color=yellow)](https://github.com/libunwind/libunwind/stargazers) [![Forks](https://img.shields.io/github/forks/libunwind/libunwind?style=flat-square&color=blue)](https://github.com/libunwind/libunwind/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libunwind/libunwind?style=flat-square&color=yellow)](https://github.com/libunwind/libunwind/stargazers) [![Forks](https://img.shields.io/github/forks/libunwind/libunwind?style=flat-square&color=blue)](https://github.com/libunwind/libunwind/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > libunwind official github repo (in need of new / additional maintainer, mail/open issue if interested)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 339 |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ libunwind/libunwind 是一个用于在 C/C++ 程序中获取、遍历和操作�
 | forks | 63/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

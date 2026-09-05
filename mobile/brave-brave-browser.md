@@ -1,6 +1,6 @@
 # brave/brave-browser
 
-[![Stars](https://img.shields.io/github/stars/brave/brave-browser?style=flat-square&color=yellow)](https://github.com/brave/brave-browser/stargazers) [![Forks](https://img.shields.io/github/forks/brave/brave-browser?style=flat-square&color=blue)](https://github.com/brave/brave-browser/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brave/brave-browser?style=flat-square&color=yellow)](https://github.com/brave/brave-browser/stargazers) [![Forks](https://img.shields.io/github/forks/brave/brave-browser?style=flat-square&color=blue)](https://github.com/brave/brave-browser/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Brave browser for Android, iOS, Linux, macOS, Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.9k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Brave（brave-browser）是一款跨平台的开源浏览器，支持 Android、
 | forks | 87/100 |
 | stars | 93/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

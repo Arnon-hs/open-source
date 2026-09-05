@@ -1,6 +1,6 @@
 # bgpkit/bgpkit-parser
 
-[![Stars](https://img.shields.io/github/stars/bgpkit/bgpkit-parser?style=flat-square&color=yellow)](https://github.com/bgpkit/bgpkit-parser/stargazers) [![Forks](https://img.shields.io/github/forks/bgpkit/bgpkit-parser?style=flat-square&color=blue)](https://github.com/bgpkit/bgpkit-parser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bgpkit/bgpkit-parser?style=flat-square&color=yellow)](https://github.com/bgpkit/bgpkit-parser/stargazers) [![Forks](https://img.shields.io/github/forks/bgpkit/bgpkit-parser?style=flat-square&color=blue)](https://github.com/bgpkit/bgpkit-parser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MRT/BGP data parser written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ bgpkit/bgpkit-parser 是一个开源项目，使用 Rust 语言编写，用于�
 | forks | 30/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

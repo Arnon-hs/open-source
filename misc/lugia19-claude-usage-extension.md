@@ -1,6 +1,6 @@
 # lugia19/Claude-Usage-Extension
 
-[![Stars](https://img.shields.io/github/stars/lugia19/Claude-Usage-Extension?style=flat-square&color=yellow)](https://github.com/lugia19/Claude-Usage-Extension/stargazers) [![Forks](https://img.shields.io/github/forks/lugia19/Claude-Usage-Extension?style=flat-square&color=blue)](https://github.com/lugia19/Claude-Usage-Extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lugia19/Claude-Usage-Extension?style=flat-square&color=yellow)](https://github.com/lugia19/Claude-Usage-Extension/stargazers) [![Forks](https://img.shields.io/github/forks/lugia19/Claude-Usage-Extension?style=flat-square&color=blue)](https://github.com/lugia19/Claude-Usage-Extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Usage Tracker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ Claude Usage Tracker是一款开源项目，名为lugia19/Claude-Usage-Extension
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

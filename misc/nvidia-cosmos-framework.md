@@ -1,6 +1,6 @@
 # NVIDIA/cosmos-framework
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/cosmos-framework?style=flat-square&color=yellow)](https://github.com/NVIDIA/cosmos-framework/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cosmos-framework?style=flat-square&color=blue)](https://github.com/NVIDIA/cosmos-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/cosmos-framework?style=flat-square&color=yellow)](https://github.com/NVIDIA/cosmos-framework/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cosmos-framework?style=flat-square&color=blue)](https://github.com/NVIDIA/cosmos-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Our inference and training framework to run on the Cosmos Models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 358 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ NVIDIA/cosmos-framework 的主要价值在于它可以帮助开发者快速添�
 | forks | 46/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

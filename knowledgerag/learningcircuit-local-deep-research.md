@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Security
+Knowledge/RAG · Automation · AI/ML · Documents · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

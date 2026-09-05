@@ -1,6 +1,6 @@
 # kcenon/claude-config
 
-[![Stars](https://img.shields.io/github/stars/kcenon/claude-config?style=flat-square&color=yellow)](https://github.com/kcenon/claude-config/stargazers) [![Forks](https://img.shields.io/github/forks/kcenon/claude-config?style=flat-square&color=blue)](https://github.com/kcenon/claude-config/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kcenon/claude-config?style=flat-square&color=yellow)](https://github.com/kcenon/claude-config/stargazers) [![Forks](https://img.shields.io/github/forks/kcenon/claude-config?style=flat-square&color=blue)](https://github.com/kcenon/claude-config/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Configuration Backup & Deployment System - Multi-system CLAUDE.md settings synchronization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 31/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -64,15 +64,15 @@ kcenon/claude-config：kcenon/claude-config may be useful when its README and ac
 | forks | 0/100 |
 | stars | 10/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 29/100 |
-| recency | 60/100 |
+| outlook | 31/100 |
+| quality | 24/100 |
+| recency | 40/100 |
 | adoption | 7/100 |
-| production | 43/100 |
+| production | 37/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

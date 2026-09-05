@@ -1,6 +1,6 @@
 # thetahealth/mirobody
 
-[![Stars](https://img.shields.io/github/stars/thetahealth/mirobody?style=flat-square&color=yellow)](https://github.com/thetahealth/mirobody/stargazers) [![Forks](https://img.shields.io/github/forks/thetahealth/mirobody?style=flat-square&color=blue)](https://github.com/thetahealth/mirobody/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thetahealth/mirobody?style=flat-square&color=yellow)](https://github.com/thetahealth/mirobody/stargazers) [![Forks](https://img.shields.io/github/forks/thetahealth/mirobody?style=flat-square&color=blue)](https://github.com/thetahealth/mirobody/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Your Data, Your AI — Health, Finance & More. Open Source, Privacy-First.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ thetahealth/mirobody 是一个 **Privacy‑First、开源** 的标准化协议�
 | forks | 57/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

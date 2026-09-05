@@ -1,6 +1,6 @@
 # cosmos/chain-registry
 
-[![Stars](https://img.shields.io/github/stars/cosmos/chain-registry?style=flat-square&color=yellow)](https://github.com/cosmos/chain-registry/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/chain-registry?style=flat-square&color=blue)](https://github.com/cosmos/chain-registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmos/chain-registry?style=flat-square&color=yellow)](https://github.com/cosmos/chain-registry/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/chain-registry?style=flat-square&color=blue)](https://github.com/cosmos/chain-registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ cosmos/chain-registry 是一个开源的链上元数据仓库，提供了丰富�
 | forks | 79/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # google/osv-scanner
 
-[![Stars](https://img.shields.io/github/stars/google/osv-scanner?style=flat-square&color=yellow)](https://github.com/google/osv-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/google/osv-scanner?style=flat-square&color=blue)](https://github.com/google/osv-scanner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/osv-scanner?style=flat-square&color=yellow)](https://github.com/google/osv-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/google/osv-scanner?style=flat-square&color=blue)](https://github.com/google/osv-scanner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 736 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Google OSV Scanner 的生产可用性为高（High），因为它具有以下特
 | forks | 72/100 |
 | stars | 86/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

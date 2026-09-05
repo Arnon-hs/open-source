@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · DevTools · DevOps/Infra
+Templates · Cloud & Storage · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Azure/awesome-azd：Azure/awesome-azd helps teams reuse working workflows and pr
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

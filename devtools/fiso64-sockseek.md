@@ -1,6 +1,6 @@
 # fiso64/sockseek
 
-[![Stars](https://img.shields.io/github/stars/fiso64/sockseek?style=flat-square&color=yellow)](https://github.com/fiso64/sockseek/stargazers) [![Forks](https://img.shields.io/github/forks/fiso64/sockseek?style=flat-square&color=blue)](https://github.com/fiso64/sockseek/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fiso64/sockseek?style=flat-square&color=yellow)](https://github.com/fiso64/sockseek/stargazers) [![Forks](https://img.shields.io/github/forks/fiso64/sockseek?style=flat-square&color=blue)](https://github.com/fiso64/sockseek/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced download tool for Soulseek, soon a client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 967 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ SockSeek（fiso64/sockseek）是一款面向 Soulseek 网络的高级下载工�
 | forks | 45/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

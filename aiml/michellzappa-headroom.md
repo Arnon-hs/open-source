@@ -1,6 +1,6 @@
 # michellzappa/headroom
 
-[![Stars](https://img.shields.io/github/stars/michellzappa/headroom?style=flat-square&color=yellow)](https://github.com/michellzappa/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/michellzappa/headroom?style=flat-square&color=blue)](https://github.com/michellzappa/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/michellzappa/headroom?style=flat-square&color=yellow)](https://github.com/michellzappa/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/michellzappa/headroom?style=flat-square&color=blue)](https://github.com/michellzappa/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI coding quotas and ship status, on your menu bar, iPhone, Watch and an ESP32 desk display.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Mobile
+AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ michellzappa/headroom 的生产可用性为中等（Medium）。虽然它可以�
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

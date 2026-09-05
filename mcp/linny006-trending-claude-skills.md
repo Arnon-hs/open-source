@@ -1,6 +1,6 @@
 # linny006/trending-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/linny006/trending-claude-skills?style=flat-square&color=yellow)](https://github.com/linny006/trending-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/linny006/trending-claude-skills?style=flat-square&color=blue)](https://github.com/linny006/trending-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linny006/trending-claude-skills?style=flat-square&color=yellow)](https://github.com/linny006/trending-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/linny006/trending-claude-skills?style=flat-square&color=blue)](https://github.com/linny006/trending-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ linny006/trending-claude-skills 是一个开源项目，提供自动更新的热
 | forks | 0/100 |
 | stars | 26/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 19/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

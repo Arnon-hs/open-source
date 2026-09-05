@@ -1,6 +1,6 @@
 # darkgrade/darkgrade
 
-[![Stars](https://img.shields.io/github/stars/darkgrade/darkgrade?style=flat-square&color=yellow)](https://github.com/darkgrade/darkgrade/stargazers) [![Forks](https://img.shields.io/github/forks/darkgrade/darkgrade?style=flat-square&color=blue)](https://github.com/darkgrade/darkgrade/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darkgrade/darkgrade?style=flat-square&color=yellow)](https://github.com/darkgrade/darkgrade/stargazers) [![Forks](https://img.shields.io/github/forks/darkgrade/darkgrade?style=flat-square&color=blue)](https://github.com/darkgrade/darkgrade/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Connect to & control your Canon EOS, Sony Alpha, or Nikon Z camera with 2 lines of TypeScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ darkgrade/darkgrade 只需两行 TypeScript，即可连接并控制 Canon EOS、
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

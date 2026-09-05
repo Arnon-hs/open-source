@@ -1,6 +1,6 @@
 # Aylur/astal
 
-[![Stars](https://img.shields.io/github/stars/Aylur/astal?style=flat-square&color=yellow)](https://github.com/Aylur/astal/stargazers) [![Forks](https://img.shields.io/github/forks/Aylur/astal?style=flat-square&color=blue)](https://github.com/Aylur/astal/network) [![Language](https://img.shields.io/badge/lang-Vala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aylur/astal?style=flat-square&color=yellow)](https://github.com/Aylur/astal/stargazers) [![Forks](https://img.shields.io/github/forks/Aylur/astal?style=flat-square&color=blue)](https://github.com/Aylur/astal/network) [![Language](https://img.shields.io/badge/lang-Vala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Building blocks for creating custom desktop shells
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 948 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Vala |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Aylur/astal 是一套用 Vala 编写的 UI 组件库，专为自定义桌面 She
 | forks | 49/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 45/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

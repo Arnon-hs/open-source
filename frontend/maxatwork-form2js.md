@@ -1,6 +1,6 @@
 # maxatwork/form2js
 
-[![Stars](https://img.shields.io/github/stars/maxatwork/form2js?style=flat-square&color=yellow)](https://github.com/maxatwork/form2js/stargazers) [![Forks](https://img.shields.io/github/forks/maxatwork/form2js?style=flat-square&color=blue)](https://github.com/maxatwork/form2js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxatwork/form2js?style=flat-square&color=yellow)](https://github.com/maxatwork/form2js/stargazers) [![Forks](https://img.shields.io/github/forks/maxatwork/form2js?style=flat-square&color=blue)](https://github.com/maxatwork/form2js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Parse browser forms into structured JavaScript objects. Six adapters — React hooks, vanilla DOM, jQuery, FormData, and more. One coherent API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 631 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ maxatwork/form2js 是一个轻量级库，能够把浏览器中的表单快速�
 | forks | 53/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

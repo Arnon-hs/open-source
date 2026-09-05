@@ -1,6 +1,6 @@
 # DevLab-Technologies/agent-isle
 
-[![Stars](https://img.shields.io/github/stars/DevLab-Technologies/agent-isle?style=flat-square&color=yellow)](https://github.com/DevLab-Technologies/agent-isle/stargazers) [![Forks](https://img.shields.io/github/forks/DevLab-Technologies/agent-isle?style=flat-square&color=blue)](https://github.com/DevLab-Technologies/agent-isle/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DevLab-Technologies/agent-isle?style=flat-square&color=yellow)](https://github.com/DevLab-Technologies/agent-isle/stargazers) [![Forks](https://img.shields.io/github/forks/DevLab-Technologies/agent-isle?style=flat-square&color=blue)](https://github.com/DevLab-Technologies/agent-isle/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A Dynamic Island for your coding agents — a native macOS notch monitor for Claude Code, Grok, Copilot and more. Monitor, approve, and jump back without leaving your flow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ DevLab-Technologies/agent-isle 是一个开源项目，提供了一个原生 mac
 | forks | 12/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

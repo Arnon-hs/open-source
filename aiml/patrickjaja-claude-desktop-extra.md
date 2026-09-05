@@ -1,6 +1,6 @@
 # patrickjaja/claude-desktop-extra
 
-[![Stars](https://img.shields.io/github/stars/patrickjaja/claude-desktop-extra?style=flat-square&color=yellow)](https://github.com/patrickjaja/claude-desktop-extra/stargazers) [![Forks](https://img.shields.io/github/forks/patrickjaja/claude-desktop-extra?style=flat-square&color=blue)](https://github.com/patrickjaja/claude-desktop-extra/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patrickjaja/claude-desktop-extra?style=flat-square&color=yellow)](https://github.com/patrickjaja/claude-desktop-extra/stargazers) [![Forks](https://img.shields.io/github/forks/patrickjaja/claude-desktop-extra?style=flat-square&color=blue)](https://github.com/patrickjaja/claude-desktop-extra/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Linux packages for Claude Desktop AI assistant with automated updates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 569 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ patrickjaja/claude-desktop-extra 的生产可用性为中等（Medium），适�
 | forks | 39/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jxxghp/MoviePilot-Frontend
 
-[![Stars](https://img.shields.io/github/stars/jxxghp/MoviePilot-Frontend?style=flat-square&color=yellow)](https://github.com/jxxghp/MoviePilot-Frontend/stargazers) [![Forks](https://img.shields.io/github/forks/jxxghp/MoviePilot-Frontend?style=flat-square&color=blue)](https://github.com/jxxghp/MoviePilot-Frontend/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jxxghp/MoviePilot-Frontend?style=flat-square&color=yellow)](https://github.com/jxxghp/MoviePilot-Frontend/stargazers) [![Forks](https://img.shields.io/github/forks/jxxghp/MoviePilot-Frontend?style=flat-square&color=blue)](https://github.com/jxxghp/MoviePilot-Frontend/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MoviePilot前端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ MoviePilot-Frontend 的生产可用性为中等（Medium）。它适合用于原
 | forks | 60/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

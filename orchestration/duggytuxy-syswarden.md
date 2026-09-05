@@ -1,6 +1,6 @@
 # duggytuxy/syswarden
 
-[![Stars](https://img.shields.io/github/stars/duggytuxy/syswarden?style=flat-square&color=yellow)](https://github.com/duggytuxy/syswarden/stargazers) [![Forks](https://img.shields.io/github/forks/duggytuxy/syswarden?style=flat-square&color=blue)](https://github.com/duggytuxy/syswarden/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duggytuxy/syswarden?style=flat-square&color=yellow)](https://github.com/duggytuxy/syswarden/stargazers) [![Forks](https://img.shields.io/github/forks/duggytuxy/syswarden?style=flat-square&color=blue)](https://github.com/duggytuxy/syswarden/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Active Defense and HIDS/HIPS/WAAP Out-of-Band Orchestration for Critical Linux Infrastructure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · DevOps/Infra · Security
+Orchestration · Networking · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ duggytuxy/syswarden 的生产可用性较高，主要原因是：
 | forks | 35/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

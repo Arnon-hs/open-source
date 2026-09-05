@@ -1,6 +1,6 @@
 # tastyware/tastytrade
 
-[![Stars](https://img.shields.io/github/stars/tastyware/tastytrade?style=flat-square&color=yellow)](https://github.com/tastyware/tastytrade/stargazers) [![Forks](https://img.shields.io/github/forks/tastyware/tastytrade?style=flat-square&color=blue)](https://github.com/tastyware/tastytrade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tastyware/tastytrade?style=flat-square&color=yellow)](https://github.com/tastyware/tastytrade/stargazers) [![Forks](https://img.shields.io/github/forks/tastyware/tastytrade?style=flat-square&color=blue)](https://github.com/tastyware/tastytrade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > An unofficial, typed, asynchronous Python SDK for Tastytrade!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 246 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · DevTools
+Trading · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ tastyware/tastytrade：tastyware/tastytrade helps research and automate market w
 | forks | 47/100 |
 | stars | 51/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

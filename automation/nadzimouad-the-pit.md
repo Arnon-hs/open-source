@@ -1,6 +1,6 @@
 # NadziMouad/The-Pit
 
-[![Stars](https://img.shields.io/github/stars/NadziMouad/The-Pit?style=flat-square&color=yellow)](https://github.com/NadziMouad/The-Pit/stargazers) [![Forks](https://img.shields.io/github/forks/NadziMouad/The-Pit?style=flat-square&color=blue)](https://github.com/NadziMouad/The-Pit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NadziMouad/The-Pit?style=flat-square&color=yellow)](https://github.com/NadziMouad/The-Pit/stargazers) [![Forks](https://img.shields.io/github/forks/NadziMouad/The-Pit?style=flat-square&color=blue)](https://github.com/NadziMouad/The-Pit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI agents playing no-limit hold'em onchain, 24/7. Real wallets. Real stakes. No humans seated.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 673 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ NadziMouad/The‑Pit 提供了一个在链上全天候运行的自主 AI 代理�
 | forks | 36/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 8.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ cli/cli：cli/cli helps teams reuse service infrastructure instead of rebuilding
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

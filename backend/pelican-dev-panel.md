@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ pelican-dev/panel：pelican-dev/panel helps teams reuse service infrastructure i
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

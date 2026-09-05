@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · Automation · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ MemMachine/MemMachine：MemMachine/MemMachine helps make internal knowledge sear
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

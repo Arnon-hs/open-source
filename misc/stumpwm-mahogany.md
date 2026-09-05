@@ -1,6 +1,6 @@
 # stumpwm/mahogany
 
-[![Stars](https://img.shields.io/github/stars/stumpwm/mahogany?style=flat-square&color=yellow)](https://github.com/stumpwm/mahogany/stargazers) [![Forks](https://img.shields.io/github/forks/stumpwm/mahogany?style=flat-square&color=blue)](https://github.com/stumpwm/mahogany/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stumpwm/mahogany?style=flat-square&color=yellow)](https://github.com/stumpwm/mahogany/stargazers) [![Forks](https://img.shields.io/github/forks/stumpwm/mahogany?style=flat-square&color=blue)](https://github.com/stumpwm/mahogany/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A stumpwm like Wayland compositor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Common Lisp |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ stumpwm/mahogany 是一个用 Common Lisp 编写的、类 StumpWM 风格的 Wayl
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

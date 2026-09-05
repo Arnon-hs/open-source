@@ -1,6 +1,6 @@
 # palera1n/palen1x
 
-[![Stars](https://img.shields.io/github/stars/palera1n/palen1x?style=flat-square&color=yellow)](https://github.com/palera1n/palen1x/stargazers) [![Forks](https://img.shields.io/github/forks/palera1n/palen1x?style=flat-square&color=blue)](https://github.com/palera1n/palen1x/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/palera1n/palen1x?style=flat-square&color=yellow)](https://github.com/palera1n/palen1x/stargazers) [![Forks](https://img.shields.io/github/forks/palera1n/palen1x?style=flat-square&color=blue)](https://github.com/palera1n/palen1x/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Mini linux ISO that lets you install palera1n.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 580 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ palera1n/palen1x 的生产可用性为中等。它适用于以下场景：
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

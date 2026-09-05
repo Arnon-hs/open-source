@@ -1,6 +1,6 @@
 # KiltMC/Kilt
 
-[![Stars](https://img.shields.io/github/stars/KiltMC/Kilt?style=flat-square&color=yellow)](https://github.com/KiltMC/Kilt/stargazers) [![Forks](https://img.shields.io/github/forks/KiltMC/Kilt?style=flat-square&color=blue)](https://github.com/KiltMC/Kilt/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KiltMC/Kilt?style=flat-square&color=yellow)](https://github.com/KiltMC/Kilt/stargazers) [![Forks](https://img.shields.io/github/forks/KiltMC/Kilt?style=flat-square&color=blue)](https://github.com/KiltMC/Kilt/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Fabric mod that brings (Neo)Forge mods into the Fabric ecosystem.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 686 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ KiltMC/Kilt 是一个 Fabric 模组，能够将 (Neo)Forge 模组无缝引入 Fa
 | forks | 45/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

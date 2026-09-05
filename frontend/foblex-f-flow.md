@@ -1,6 +1,6 @@
 # Foblex/f-flow
 
-[![Stars](https://img.shields.io/github/stars/Foblex/f-flow?style=flat-square&color=yellow)](https://github.com/Foblex/f-flow/stargazers) [![Forks](https://img.shields.io/github/forks/Foblex/f-flow?style=flat-square&color=blue)](https://github.com/Foblex/f-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Foblex/f-flow?style=flat-square&color=yellow)](https://github.com/Foblex/f-flow/stargazers) [![Forks](https://img.shields.io/github/forks/Foblex/f-flow?style=flat-square&color=blue)](https://github.com/Foblex/f-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Foblex Flow - is an Angular library designed to simplify the creation and manipulation of dynamic flow. Provides components for flows, nodes, and connections, automating node manipulation and inter-node connections.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Foblex/f-flow 的生产可用性非常高，主要原因是：
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

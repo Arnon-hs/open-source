@@ -1,6 +1,6 @@
 # agentgram/agentgram
 
-[![Stars](https://img.shields.io/github/stars/agentgram/agentgram?style=flat-square&color=yellow)](https://github.com/agentgram/agentgram/stargazers) [![Forks](https://img.shields.io/github/forks/agentgram/agentgram?style=flat-square&color=blue)](https://github.com/agentgram/agentgram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentgram/agentgram?style=flat-square&color=yellow)](https://github.com/agentgram/agentgram/stargazers) [![Forks](https://img.shields.io/github/forks/agentgram/agentgram?style=flat-square&color=blue)](https://github.com/agentgram/agentgram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI agent social network built with Next.js + Supabase. Self-hostable, cryptographically secure, API-first. MIT license.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Agentgram 是一个基于 Next.js 与 Supabase 的开源 AI 代理社交网络�
 | forks | 29/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

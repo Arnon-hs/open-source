@@ -1,6 +1,6 @@
 # Hoper-J/AI-Guide-and-Demos-zh_CN
 
-[![Stars](https://img.shields.io/github/stars/Hoper-J/AI-Guide-and-Demos-zh_CN?style=flat-square&color=yellow)](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/stargazers) [![Forks](https://img.shields.io/github/forks/Hoper-J/AI-Guide-and-Demos-zh_CN?style=flat-square&color=blue)](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hoper-J/AI-Guide-and-Demos-zh_CN?style=flat-square&color=yellow)](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/stargazers) [![Forks](https://img.shields.io/github/forks/Hoper-J/AI-Guide-and-Demos-zh_CN?style=flat-square&color=blue)](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 450 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Hoper-J/AI-Guide-and-Demos-zh_CN delivers exceptional value by providing a compr
 | forks | 66/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # aerovato/magic-compact
 
-[![Stars](https://img.shields.io/github/stars/aerovato/magic-compact?style=flat-square&color=yellow)](https://github.com/aerovato/magic-compact/stargazers) [![Forks](https://img.shields.io/github/forks/aerovato/magic-compact?style=flat-square&color=blue)](https://github.com/aerovato/magic-compact/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aerovato/magic-compact?style=flat-square&color=yellow)](https://github.com/aerovato/magic-compact/stargazers) [![Forks](https://img.shields.io/github/forks/aerovato/magic-compact?style=flat-square&color=blue)](https://github.com/aerovato/magic-compact/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless context compression plugin for Claude Code & OpenCode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ aerovato/magic-compact 的价值在于，它可以帮助开发者快速评估和
 | forks | 23/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Flowseal/zapret-discord-youtube
 
-[![Stars](https://img.shields.io/github/stars/Flowseal/zapret-discord-youtube?style=flat-square&color=yellow)](https://github.com/Flowseal/zapret-discord-youtube/stargazers) [![Forks](https://img.shields.io/github/forks/Flowseal/zapret-discord-youtube?style=flat-square&color=blue)](https://github.com/Flowseal/zapret-discord-youtube/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Flowseal/zapret-discord-youtube?style=flat-square&color=yellow)](https://github.com/Flowseal/zapret-discord-youtube/stargazers) [![Forks](https://img.shields.io/github/forks/Flowseal/zapret-discord-youtube?style=flat-square&color=blue)](https://github.com/Flowseal/zapret-discord-youtube/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.9k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Flowseal/zapret‑discord‑youtube 是一个用 Batchfile 编写的工具，旨
 | forks | 84/100 |
 | stars | 95/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

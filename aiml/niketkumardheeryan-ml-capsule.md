@@ -1,6 +1,6 @@
 # Niketkumardheeryan/ML-CaPsule
 
-[![Stars](https://img.shields.io/github/stars/Niketkumardheeryan/ML-CaPsule?style=flat-square&color=yellow)](https://github.com/Niketkumardheeryan/ML-CaPsule/stargazers) [![Forks](https://img.shields.io/github/forks/Niketkumardheeryan/ML-CaPsule?style=flat-square&color=blue)](https://github.com/Niketkumardheeryan/ML-CaPsule/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Niketkumardheeryan/ML-CaPsule?style=flat-square&color=yellow)](https://github.com/Niketkumardheeryan/ML-CaPsule/stargazers) [![Forks](https://img.shields.io/github/forks/Niketkumardheeryan/ML-CaPsule?style=flat-square&color=blue)](https://github.com/Niketkumardheeryan/ML-CaPsule/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 672 |
 | 🍴 **Forks** | 718 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Education
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ ML‑CaPsule 是面向零基础或缺少导师的机器学习爱好者的实战�
 | forks | 71/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

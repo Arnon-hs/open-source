@@ -1,6 +1,6 @@
 # Cuis-Smalltalk/Cuis-Smalltalk-Dev
 
-[![Stars](https://img.shields.io/github/stars/Cuis-Smalltalk/Cuis-Smalltalk-Dev?style=flat-square&color=yellow)](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/stargazers) [![Forks](https://img.shields.io/github/forks/Cuis-Smalltalk/Cuis-Smalltalk-Dev?style=flat-square&color=blue)](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/network) [![Language](https://img.shields.io/badge/lang-Smalltalk-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cuis-Smalltalk/Cuis-Smalltalk-Dev?style=flat-square&color=yellow)](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/stargazers) [![Forks](https://img.shields.io/github/forks/Cuis-Smalltalk/Cuis-Smalltalk-Dev?style=flat-square&color=blue)](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/network) [![Language](https://img.shields.io/badge/lang-Smalltalk-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Active development of Cuis Smalltalk
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Smalltalk |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ Cuis‑Smalltalk/Cuis‑Smalltalk‑Dev 是 Cuis Smalltalk 语言的活跃开发
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 48/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

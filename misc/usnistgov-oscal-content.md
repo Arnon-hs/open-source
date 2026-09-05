@@ -1,6 +1,6 @@
 # usnistgov/oscal-content
 
-[![Stars](https://img.shields.io/github/stars/usnistgov/oscal-content?style=flat-square&color=yellow)](https://github.com/usnistgov/oscal-content/stargazers) [![Forks](https://img.shields.io/github/forks/usnistgov/oscal-content?style=flat-square&color=blue)](https://github.com/usnistgov/oscal-content/network) [![Language](https://img.shields.io/badge/lang-XSLT-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/usnistgov/oscal-content?style=flat-square&color=yellow)](https://github.com/usnistgov/oscal-content/stargazers) [![Forks](https://img.shields.io/github/forks/usnistgov/oscal-content?style=flat-square&color=blue)](https://github.com/usnistgov/oscal-content/network) [![Language](https://img.shields.io/badge/lang-XSLT-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > NIST SP 800-53 content and other OSCAL content examples
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | XSLT |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ usnistgov/oscal-content 是一个开源项目，提供 NIST SP 800-53 内容和�
 | forks | 57/100 |
 | stars | 57/100 |
 | topics | 13/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

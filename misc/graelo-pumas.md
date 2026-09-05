@@ -1,6 +1,6 @@
 # graelo/pumas
 
-[![Stars](https://img.shields.io/github/stars/graelo/pumas?style=flat-square&color=yellow)](https://github.com/graelo/pumas/stargazers) [![Forks](https://img.shields.io/github/forks/graelo/pumas?style=flat-square&color=blue)](https://github.com/graelo/pumas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graelo/pumas?style=flat-square&color=yellow)](https://github.com/graelo/pumas/stargazers) [![Forks](https://img.shields.io/github/forks/graelo/pumas?style=flat-square&color=blue)](https://github.com/graelo/pumas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Power Usage Monitor for Apple Silicon
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ graelo/pumas 是一款面向 Apple Silicon（M‑series）芯片的电力使用�
 | forks | 27/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

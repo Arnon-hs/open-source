@@ -1,6 +1,6 @@
 # yusufkaraaslan/Skill_Seekers
 
-[![Stars](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=flat-square&color=yellow)](https://github.com/yusufkaraaslan/Skill_Seekers/stargazers) [![Forks](https://img.shields.io/github/forks/yusufkaraaslan/Skill_Seekers?style=flat-square&color=blue)](https://github.com/yusufkaraaslan/Skill_Seekers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=flat-square&color=yellow)](https://github.com/yusufkaraaslan/Skill_Seekers/stargazers) [![Forks](https://img.shields.io/github/forks/yusufkaraaslan/Skill_Seekers?style=flat-square&color=blue)](https://github.com/yusufkaraaslan/Skill_Seekers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ Skill_Seekers（yusufkaraaslan/Skill_Seekers）能够将文档站点、GitHub �
 | forks | 79/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 73/100 |
-| recency | 20/100 |
+| outlook | 89/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 59/100 |
+| production | 79/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

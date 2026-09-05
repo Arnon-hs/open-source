@@ -1,6 +1,6 @@
 # wkentaro/labelme
 
-[![Stars](https://img.shields.io/github/stars/wkentaro/labelme?style=flat-square&color=yellow)](https://github.com/wkentaro/labelme/stargazers) [![Forks](https://img.shields.io/github/forks/wkentaro/labelme?style=flat-square&color=blue)](https://github.com/wkentaro/labelme/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wkentaro/labelme?style=flat-square&color=yellow)](https://github.com/wkentaro/labelme/stargazers) [![Forks](https://img.shields.io/github/forks/wkentaro/labelme?style=flat-square&color=blue)](https://github.com/wkentaro/labelme/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.9k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ LabelMe（wkentoro/labelme）是一款基于 Python 的开源图像标注工具�
 | forks | 89/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 84/100 |
+| production | 78/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

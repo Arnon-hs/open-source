@@ -1,6 +1,6 @@
 # jinwandalaohu66/PythonIDE-iOS
 
-[![Stars](https://img.shields.io/github/stars/jinwandalaohu66/PythonIDE-iOS?style=flat-square&color=yellow)](https://github.com/jinwandalaohu66/PythonIDE-iOS/stargazers) [![Forks](https://img.shields.io/github/forks/jinwandalaohu66/PythonIDE-iOS?style=flat-square&color=blue)](https://github.com/jinwandalaohu66/PythonIDE-iOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jinwandalaohu66/PythonIDE-iOS?style=flat-square&color=yellow)](https://github.com/jinwandalaohu66/PythonIDE-iOS/stargazers) [![Forks](https://img.shields.io/github/forks/jinwandalaohu66/PythonIDE-iOS?style=flat-square&color=blue)](https://github.com/jinwandalaohu66/PythonIDE-iOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 iPhone/iPad 的 Python & JavaScript 开发环境。Python 3.13、JS 运行、HTML 预览、语法高亮、分屏编辑、AI Agent（24 个工具）、SSH 服务器管理（终端/SFTP/部署/监控/AI 运维）。Write, Run, Deploy on iOS。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ jinwandalaohu66/PythonIDE-iOS 的价值在于，它帮助开发者快速添加 A
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

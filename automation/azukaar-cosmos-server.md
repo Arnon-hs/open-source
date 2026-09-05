@@ -1,6 +1,6 @@
 # azukaar/Cosmos-Server
 
-[![Stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=flat-square&color=yellow)](https://github.com/azukaar/Cosmos-Server/stargazers) [![Forks](https://img.shields.io/github/forks/azukaar/Cosmos-Server?style=flat-square&color=blue)](https://github.com/azukaar/Cosmos-Server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=flat-square&color=yellow)](https://github.com/azukaar/Cosmos-Server/stargazers) [![Forks](https://img.shields.io/github/forks/azukaar/Cosmos-Server?style=flat-square&color=blue)](https://github.com/azukaar/Cosmos-Server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · Security
+Automation · Networking · Backend · Security
 
 ## 📝 Summary
 
@@ -90,15 +90,15 @@ Cosmos-Server 的生产可用性较高，主要原因是其最近的活动、采
 | forks | 59/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # VimYoung/Spell
 
-[![Stars](https://img.shields.io/github/stars/VimYoung/Spell?style=flat-square&color=yellow)](https://github.com/VimYoung/Spell/stargazers) [![Forks](https://img.shields.io/github/forks/VimYoung/Spell?style=flat-square&color=blue)](https://github.com/VimYoung/Spell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VimYoung/Spell?style=flat-square&color=yellow)](https://github.com/VimYoung/Spell/stargazers) [![Forks](https://img.shields.io/github/forks/VimYoung/Spell?style=flat-square&color=blue)](https://github.com/VimYoung/Spell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Make desktop widgets by the mystic arts of Spell  !!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ VimYoung/Spell 是一个用 Rust 编写的轻量级框架，旨在通过 “Spel
 | forks | 21/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 46/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

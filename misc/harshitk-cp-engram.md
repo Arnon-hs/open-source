@@ -1,6 +1,6 @@
 # Harshitk-cp/engram
 
-[![Stars](https://img.shields.io/github/stars/Harshitk-cp/engram?style=flat-square&color=yellow)](https://github.com/Harshitk-cp/engram/stargazers) [![Forks](https://img.shields.io/github/forks/Harshitk-cp/engram?style=flat-square&color=blue)](https://github.com/Harshitk-cp/engram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Harshitk-cp/engram?style=flat-square&color=yellow)](https://github.com/Harshitk-cp/engram/stargazers) [![Forks](https://img.shields.io/github/forks/Harshitk-cp/engram?style=flat-square&color=blue)](https://github.com/Harshitk-cp/engram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cognitive infrastructure for AI agents that learn and improve from experience.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ Harshitk-cp/engram 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

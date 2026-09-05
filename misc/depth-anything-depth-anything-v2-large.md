@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | depth-anything-v2 |
 | 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2024-07-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics

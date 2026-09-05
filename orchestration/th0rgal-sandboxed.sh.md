@@ -1,6 +1,6 @@
 # Th0rgal/sandboxed.sh
 
-[![Stars](https://img.shields.io/github/stars/Th0rgal/sandboxed.sh?style=flat-square&color=yellow)](https://github.com/Th0rgal/sandboxed.sh/stargazers) [![Forks](https://img.shields.io/github/forks/Th0rgal/sandboxed.sh?style=flat-square&color=blue)](https://github.com/Th0rgal/sandboxed.sh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Th0rgal/sandboxed.sh?style=flat-square&color=yellow)](https://github.com/Th0rgal/sandboxed.sh/stargazers) [![Forks](https://img.shields.io/github/forks/Th0rgal/sandboxed.sh?style=flat-square&color=blue)](https://github.com/Th0rgal/sandboxed.sh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted orchestrator for AI autonomous agents. Run Claude Code & Open Code in isolated linux workspaces. Manage your skills, configs and encrypted secrets with a git repo.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Th0rgal/sandboxed.sh 是一款自托管的 AI 代理编排器，能够在相互�
 | forks | 41/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

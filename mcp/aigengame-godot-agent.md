@@ -1,6 +1,6 @@
 # aigengame/godot-agent
 
-[![Stars](https://img.shields.io/github/stars/aigengame/godot-agent?style=flat-square&color=yellow)](https://github.com/aigengame/godot-agent/stargazers) [![Forks](https://img.shields.io/github/forks/aigengame/godot-agent?style=flat-square&color=blue)](https://github.com/aigengame/godot-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aigengame/godot-agent?style=flat-square&color=yellow)](https://github.com/aigengame/godot-agent/stargazers) [![Forks](https://img.shields.io/github/forks/aigengame/godot-agent?style=flat-square&color=blue)](https://github.com/aigengame/godot-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Godot AI agent CLI, Skill, and MCP server with structured JSON/schema output — headless scene/script/export automation plus live runtime control.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools
+MCP · Automation · AI/ML · Games & Graphics · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ aigengame/godot-agent 的生产可用性较高，理由包括：
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # stowmyy/dropship
 
-[![Stars](https://img.shields.io/github/stars/stowmyy/dropship?style=flat-square&color=yellow)](https://github.com/stowmyy/dropship/stargazers) [![Forks](https://img.shields.io/github/forks/stowmyy/dropship?style=flat-square&color=blue)](https://github.com/stowmyy/dropship/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stowmyy/dropship?style=flat-square&color=yellow)](https://github.com/stowmyy/dropship/stargazers) [![Forks](https://img.shields.io/github/forks/stowmyy/dropship?style=flat-square&color=blue)](https://github.com/stowmyy/dropship/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > a portable server selector for Overwatch 2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ stowmyy/dropship 是一款基于 Rust 的便携式 Overwatch 2 服务器选择�
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

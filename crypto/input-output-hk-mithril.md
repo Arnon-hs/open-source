@@ -1,6 +1,6 @@
 # input-output-hk/mithril
 
-[![Stars](https://img.shields.io/github/stars/input-output-hk/mithril?style=flat-square&color=yellow)](https://github.com/input-output-hk/mithril/stargazers) [![Forks](https://img.shields.io/github/forks/input-output-hk/mithril?style=flat-square&color=blue)](https://github.com/input-output-hk/mithril/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/input-output-hk/mithril?style=flat-square&color=yellow)](https://github.com/input-output-hk/mithril/stargazers) [![Forks](https://img.shields.io/github/forks/input-output-hk/mithril?style=flat-square&color=blue)](https://github.com/input-output-hk/mithril/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Stake-based threshold multi-signatures protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Mithril（`input-output-hk/mithril`）是一个基于权益的阈值多签协议
 | forks | 43/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 47/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

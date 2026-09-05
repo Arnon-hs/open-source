@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ joshsymonds/nix-config：joshsymonds/nix-config may be useful when its README an
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

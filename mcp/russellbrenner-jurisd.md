@@ -1,6 +1,6 @@
 # russellbrenner/jurisd
 
-[![Stars](https://img.shields.io/github/stars/russellbrenner/jurisd?style=flat-square&color=yellow)](https://github.com/russellbrenner/jurisd/stargazers) [![Forks](https://img.shields.io/github/forks/russellbrenner/jurisd?style=flat-square&color=blue)](https://github.com/russellbrenner/jurisd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/russellbrenner/jurisd?style=flat-square&color=yellow)](https://github.com/russellbrenner/jurisd/stargazers) [![Forks](https://img.shields.io/github/forks/russellbrenner/jurisd?style=flat-square&color=blue)](https://github.com/russellbrenner/jurisd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > jurisd (formerly auslaw-mcp) is a local-first MCP server and CLI giving any AI agent grounded Australian and New Zealand legal research: AustLII and jade.io retrieval with resilient fallback, deterministic provision lookup, offline citation graph, fast AGLC4 linting, plus optional semantic search and graph recall over your own local corpora.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ jurisd（前身 auslaw‑mcp）是一个本地优先的 MCP 服务器与 CLI，�
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

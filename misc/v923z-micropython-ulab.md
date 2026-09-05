@@ -1,6 +1,6 @@
 # v923z/micropython-ulab
 
-[![Stars](https://img.shields.io/github/stars/v923z/micropython-ulab?style=flat-square&color=yellow)](https://github.com/v923z/micropython-ulab/stargazers) [![Forks](https://img.shields.io/github/forks/v923z/micropython-ulab?style=flat-square&color=blue)](https://github.com/v923z/micropython-ulab/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/v923z/micropython-ulab?style=flat-square&color=yellow)](https://github.com/v923z/micropython-ulab/stargazers) [![Forks](https://img.shields.io/github/forks/v923z/micropython-ulab?style=flat-square&color=blue)](https://github.com/v923z/micropython-ulab/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > a numpy-like fast vector module for micropython, circuitpython, and their derivatives
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ v923z/micropython‑ulab 是一个面向 MicroPython、CircuitPython 及其衍�
 | forks | 53/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

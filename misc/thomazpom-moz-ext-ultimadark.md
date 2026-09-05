@@ -1,6 +1,6 @@
 # ThomazPom/Moz-Ext-UltimaDark
 
-[![Stars](https://img.shields.io/github/stars/ThomazPom/Moz-Ext-UltimaDark?style=flat-square&color=yellow)](https://github.com/ThomazPom/Moz-Ext-UltimaDark/stargazers) [![Forks](https://img.shields.io/github/forks/ThomazPom/Moz-Ext-UltimaDark?style=flat-square&color=blue)](https://github.com/ThomazPom/Moz-Ext-UltimaDark/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThomazPom/Moz-Ext-UltimaDark?style=flat-square&color=yellow)](https://github.com/ThomazPom/Moz-Ext-UltimaDark/stargazers) [![Forks](https://img.shields.io/github/forks/ThomazPom/Moz-Ext-UltimaDark?style=flat-square&color=blue)](https://github.com/ThomazPom/Moz-Ext-UltimaDark/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A web extension that uses exclusive, unique, unconventional, and advanced techniques to bring dark mode on every site.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ ThomazPom/Moz-Ext-UltimaDark 的价值在于它可以为特定的工作流程提
 | forks | 30/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

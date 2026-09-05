@@ -1,6 +1,6 @@
 # goreleaser/mcp
 
-[![Stars](https://img.shields.io/github/stars/goreleaser/mcp?style=flat-square&color=yellow)](https://github.com/goreleaser/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/goreleaser/mcp?style=flat-square&color=blue)](https://github.com/goreleaser/mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goreleaser/mcp?style=flat-square&color=yellow)](https://github.com/goreleaser/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/goreleaser/mcp?style=flat-square&color=blue)](https://github.com/goreleaser/mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The GoReleaser MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ The **goreleaser/mcp** project implements the Model Context Protocol (MCP), a li
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 38/100 |
-| outlook | 39/100 |
-| quality | 37/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # firedancer-io/firedancer
 
-[![Stars](https://img.shields.io/github/stars/firedancer-io/firedancer?style=flat-square&color=yellow)](https://github.com/firedancer-io/firedancer/stargazers) [![Forks](https://img.shields.io/github/forks/firedancer-io/firedancer?style=flat-square&color=blue)](https://github.com/firedancer-io/firedancer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firedancer-io/firedancer?style=flat-square&color=yellow)](https://github.com/firedancer-io/firedancer/stargazers) [![Forks](https://img.shields.io/github/forks/firedancer-io/firedancer?style=flat-square&color=blue)](https://github.com/firedancer-io/firedancer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Firedancer is Jump Crypto's Solana validator software.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 480 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Firedancer 是 Jump Crypto 开源的 Solana 验证节点实现，使用 C 语言
 | forks | 67/100 |
 | stars | 67/100 |
 | topics | 25/100 |
-| outlook | 45/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

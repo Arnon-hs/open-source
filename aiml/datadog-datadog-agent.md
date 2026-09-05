@@ -1,6 +1,6 @@
 # DataDog/datadog-agent
 
-[![Stars](https://img.shields.io/github/stars/DataDog/datadog-agent?style=flat-square&color=yellow)](https://github.com/DataDog/datadog-agent/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/datadog-agent?style=flat-square&color=blue)](https://github.com/DataDog/datadog-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataDog/datadog-agent?style=flat-square&color=yellow)](https://github.com/DataDog/datadog-agent/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/datadog-agent?style=flat-square&color=blue)](https://github.com/DataDog/datadog-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Main repository for Datadog Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ DataDog Agent 是 Datadog 生态的核心组件，负责在服务器、容器�
 | forks | 79/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

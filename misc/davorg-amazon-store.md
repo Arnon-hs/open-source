@@ -1,6 +1,6 @@
 # davorg/amazon-store
 
-[![Stars](https://img.shields.io/github/stars/davorg/amazon-store?style=flat-square&color=yellow)](https://github.com/davorg/amazon-store/stargazers) [![Forks](https://img.shields.io/github/forks/davorg/amazon-store?style=flat-square&color=blue)](https://github.com/davorg/amazon-store/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davorg/amazon-store?style=flat-square&color=yellow)](https://github.com/davorg/amazon-store/stargazers) [![Forks](https://img.shields.io/github/forks/davorg/amazon-store?style=flat-square&color=blue)](https://github.com/davorg/amazon-store/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag showdev): Why I Built Amazon Store (So I Don't Have to Pick a Country)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -63,14 +63,15 @@ Why I Built Amazon Store (So I Don't Have to Pick a Country)：Why I Built Amazo
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 35/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

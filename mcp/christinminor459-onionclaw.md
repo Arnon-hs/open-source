@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · AI/ML · Networking · Backend · Security
 
 ## 📝 Summary
 
@@ -78,6 +78,7 @@ christinminor459/OnionClaw：christinminor459/OnionClaw helps connect AI assista
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

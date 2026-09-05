@@ -1,6 +1,6 @@
 # cokice/List-of-genshin-University
 
-[![Stars](https://img.shields.io/github/stars/cokice/List-of-genshin-University?style=flat-square&color=yellow)](https://github.com/cokice/List-of-genshin-University/stargazers) [![Forks](https://img.shields.io/github/forks/cokice/List-of-genshin-University?style=flat-square&color=blue)](https://github.com/cokice/List-of-genshin-University/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cokice/List-of-genshin-University?style=flat-square&color=yellow)](https://github.com/cokice/List-of-genshin-University/stargazers) [![Forks](https://img.shields.io/github/forks/cokice/List-of-genshin-University?style=flat-square&color=blue)](https://github.com/cokice/List-of-genshin-University/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 原神高校联盟清单
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ cokice/List-of-genshin-University 是一个收录「原神高校联盟」成员�
 | forks | 55/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 43/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

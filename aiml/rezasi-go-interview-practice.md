@@ -1,6 +1,6 @@
 # RezaSi/go-interview-practice
 
-[![Stars](https://img.shields.io/github/stars/RezaSi/go-interview-practice?style=flat-square&color=yellow)](https://github.com/RezaSi/go-interview-practice/stargazers) [![Forks](https://img.shields.io/github/forks/RezaSi/go-interview-practice?style=flat-square&color=blue)](https://github.com/RezaSi/go-interview-practice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RezaSi/go-interview-practice?style=flat-square&color=yellow)](https://github.com/RezaSi/go-interview-practice/stargazers) [![Forks](https://img.shields.io/github/forks/RezaSi/go-interview-practice?style=flat-square&color=blue)](https://github.com/RezaSi/go-interview-practice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ RezaSi/go‑interview‑practice 为 Go 开发者提供了一个交互式面试�
 | forks | 76/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # athityakumar/colorls
 
-[![Stars](https://img.shields.io/github/stars/athityakumar/colorls?style=flat-square&color=yellow)](https://github.com/athityakumar/colorls/stargazers) [![Forks](https://img.shields.io/github/forks/athityakumar/colorls?style=flat-square&color=blue)](https://github.com/athityakumar/colorls/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/athityakumar/colorls?style=flat-square&color=yellow)](https://github.com/athityakumar/colorls/stargazers) [![Forks](https://img.shields.io/github/forks/athityakumar/colorls?style=flat-square&color=blue)](https://github.com/athityakumar/colorls/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ athityakumar/colorls 的价值在于，它可以帮助工程师加快开发工�
 | forks | 65/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 79/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

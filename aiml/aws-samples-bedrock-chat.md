@@ -1,6 +1,6 @@
 # aws-samples/bedrock-chat
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/bedrock-chat?style=flat-square&color=yellow)](https://github.com/aws-samples/bedrock-chat/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/bedrock-chat?style=flat-square&color=blue)](https://github.com/aws-samples/bedrock-chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/bedrock-chat?style=flat-square&color=yellow)](https://github.com/aws-samples/bedrock-chat/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/bedrock-chat?style=flat-square&color=blue)](https://github.com/aws-samples/bedrock-chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > AWS-native chatbot using Bedrock
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 529 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevOps/Infra
+AI/ML · Cloud & Storage · Communication · Frontend · Backend
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ aws-samples/bedrock-chat 是一个基于 AWS Bedrock 的开源聊天机器人示
 | forks | 68/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 59/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

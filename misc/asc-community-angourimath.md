@@ -1,6 +1,6 @@
 # asc-community/AngouriMath
 
-[![Stars](https://img.shields.io/github/stars/asc-community/AngouriMath?style=flat-square&color=yellow)](https://github.com/asc-community/AngouriMath/stargazers) [![Forks](https://img.shields.io/github/forks/asc-community/AngouriMath?style=flat-square&color=blue)](https://github.com/asc-community/AngouriMath/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asc-community/AngouriMath?style=flat-square&color=yellow)](https://github.com/asc-community/AngouriMath/stargazers) [![Forks](https://img.shields.io/github/forks/asc-community/AngouriMath?style=flat-square&color=blue)](https://github.com/asc-community/AngouriMath/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source cross-platform symbolic algebra library for C# and F#. Can be used for both production and research purposes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 824 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ AngouriMath 的生产可用性较高，原因如下：
 | forks | 48/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

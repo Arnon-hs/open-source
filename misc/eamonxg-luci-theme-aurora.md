@@ -1,6 +1,6 @@
 # eamonxg/luci-theme-aurora
 
-[![Stars](https://img.shields.io/github/stars/eamonxg/luci-theme-aurora?style=flat-square&color=yellow)](https://github.com/eamonxg/luci-theme-aurora/stargazers) [![Forks](https://img.shields.io/github/forks/eamonxg/luci-theme-aurora?style=flat-square&color=blue)](https://github.com/eamonxg/luci-theme-aurora/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eamonxg/luci-theme-aurora?style=flat-square&color=yellow)](https://github.com/eamonxg/luci-theme-aurora/stargazers) [![Forks](https://img.shields.io/github/forks/eamonxg/luci-theme-aurora?style=flat-square&color=blue)](https://github.com/eamonxg/luci-theme-aurora/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A modern OpenWrt LuCI theme built with Vite and Tailwind CSS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ eamonxg/luci-theme-aurora 是一款基于 Vite 与 Tailwind CSS 构建的现代�
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

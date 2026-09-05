@@ -1,6 +1,6 @@
 # Drjacky/claude-android-ninja
 
-[![Stars](https://img.shields.io/github/stars/Drjacky/claude-android-ninja?style=flat-square&color=yellow)](https://github.com/Drjacky/claude-android-ninja/stargazers) [![Forks](https://img.shields.io/github/forks/Drjacky/claude-android-ninja?style=flat-square&color=blue)](https://github.com/Drjacky/claude-android-ninja/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Drjacky/claude-android-ninja?style=flat-square&color=yellow)](https://github.com/Drjacky/claude-android-ninja/stargazers) [![Forks](https://img.shields.io/github/forks/Drjacky/claude-android-ninja?style=flat-square&color=blue)](https://github.com/Drjacky/claude-android-ninja/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skill for Android development with Kotlin and Jetpack Compose, covering modular architecture, Navigation3, Gradle conventions, dependency management, and testing best practices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Drjacky/claude-android-ninja 是一套面向 Android 开发的 Agent‑Skill，�
 | forks | 25/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

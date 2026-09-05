@@ -1,6 +1,6 @@
 # laravel/agent-detector
 
-[![Stars](https://img.shields.io/github/stars/laravel/agent-detector?style=flat-square&color=yellow)](https://github.com/laravel/agent-detector/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/agent-detector?style=flat-square&color=blue)](https://github.com/laravel/agent-detector/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel/agent-detector?style=flat-square&color=yellow)](https://github.com/laravel/agent-detector/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/agent-detector?style=flat-square&color=blue)](https://github.com/laravel/agent-detector/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight PHP utility to detect if your code is running inside an AI agent or automated development environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ laravel/agent-detector — лёгкая PHP‑утилита, позволяющ
 | forks | 28/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 46/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

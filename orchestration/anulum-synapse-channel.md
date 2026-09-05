@@ -1,6 +1,6 @@
 # anulum/synapse-channel
 
-[![Stars](https://img.shields.io/github/stars/anulum/synapse-channel?style=flat-square&color=yellow)](https://github.com/anulum/synapse-channel/stargazers) [![Forks](https://img.shields.io/github/forks/anulum/synapse-channel?style=flat-square&color=blue)](https://github.com/anulum/synapse-channel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anulum/synapse-channel?style=flat-square&color=yellow)](https://github.com/anulum/synapse-channel/stargazers) [![Forks](https://img.shields.io/github/forks/anulum/synapse-channel?style=flat-square&color=blue)](https://github.com/anulum/synapse-channel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Neutral control plane for coding-agent fleets: claims, roles, mailbox reliability, receipts, audit, federation, dead-letter visibility, sandbox receipts, and cross-agent coordination. This is still pre-1.0.0 - Software works however you might need help from your local agents to set it up.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ anulum/synapse-channel：anulum/synapse-channel helps turn isolated prompts and 
 | forks | 0/100 |
 | stars | 15/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 45/100 |
-| recency | 60/100 |
+| outlook | 54/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 11/100 |
-| production | 54/100 |
+| production | 47/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

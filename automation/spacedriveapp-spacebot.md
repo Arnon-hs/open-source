@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Communication · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ spacedriveapp/spacebot：spacedriveapp/spacebot helps remove repetitive manual o
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

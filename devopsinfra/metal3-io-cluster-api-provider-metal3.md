@@ -1,6 +1,6 @@
 # metal3-io/cluster-api-provider-metal3
 
-[![Stars](https://img.shields.io/github/stars/metal3-io/cluster-api-provider-metal3?style=flat-square&color=yellow)](https://github.com/metal3-io/cluster-api-provider-metal3/stargazers) [![Forks](https://img.shields.io/github/forks/metal3-io/cluster-api-provider-metal3?style=flat-square&color=blue)](https://github.com/metal3-io/cluster-api-provider-metal3/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metal3-io/cluster-api-provider-metal3?style=flat-square&color=yellow)](https://github.com/metal3-io/cluster-api-provider-metal3/stargazers) [![Forks](https://img.shields.io/github/forks/metal3-io/cluster-api-provider-metal3?style=flat-square&color=blue)](https://github.com/metal3-io/cluster-api-provider-metal3/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 285 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ metal3-io/cluster-api-provider-metal3 是一个开源项目，旨在将 Metal³ 
 | forks | 54/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

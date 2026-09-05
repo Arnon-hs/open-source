@@ -1,6 +1,6 @@
 # connectplatform/ring
 
-[![Stars](https://img.shields.io/github/stars/connectplatform/ring?style=flat-square&color=yellow)](https://github.com/connectplatform/ring/stargazers) [![Forks](https://img.shields.io/github/forks/connectplatform/ring?style=flat-square&color=blue)](https://github.com/connectplatform/ring/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/connectplatform/ring?style=flat-square&color=yellow)](https://github.com/connectplatform/ring/stargazers) [![Forks](https://img.shields.io/github/forks/connectplatform/ring?style=flat-square&color=blue)](https://github.com/connectplatform/ring/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered Social Platform for your City, Country, Church or Movement. Direct messaging, Live Opportunities Posting with AI-Matching,  MVM-Market, Stripe/Wayforpay/PayPal merchant, Refcodes, DAO Pools, No-fee Token with own Wallet, Credit Points, Credit/Token-swap, NFT-gates, NFT-market, Secure file cabinet, Player, Wiki, News, Games, ID-Verify etc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · MCP · AI/ML · Frontend
+Crypto · Payments · MCP · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -129,11 +129,11 @@ connectplatform/ring 的生产可用性很高，主要原因是：
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

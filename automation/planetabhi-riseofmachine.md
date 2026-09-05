@@ -1,6 +1,6 @@
 # planetabhi/riseofmachine
 
-[![Stars](https://img.shields.io/github/stars/planetabhi/riseofmachine?style=flat-square&color=yellow)](https://github.com/planetabhi/riseofmachine/stargazers) [![Forks](https://img.shields.io/github/forks/planetabhi/riseofmachine?style=flat-square&color=blue)](https://github.com/planetabhi/riseofmachine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/planetabhi/riseofmachine?style=flat-square&color=yellow)](https://github.com/planetabhi/riseofmachine/stargazers) [![Forks](https://img.shields.io/github/forks/planetabhi/riseofmachine?style=flat-square&color=blue)](https://github.com/planetabhi/riseofmachine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A directory of AI tools curated by autonomous AI agents for creators, makers, and small businesses
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ planetabhi/riseofmachine 的生产可用性为中等，适合用于原型或内�
 | forks | 38/100 |
 | stars | 43/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

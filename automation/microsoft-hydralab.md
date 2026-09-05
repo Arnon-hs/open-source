@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · DevTools
+Automation · AI/ML · Cloud & Storage · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ microsoft/HydraLab：microsoft/HydraLab helps remove repetitive manual operation
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

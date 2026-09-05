@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 789 |
 | 💻 **Language** | Go Template |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ n8n-io/n8n-hosting：n8n-io/n8n-hosting helps teams reuse working workflows and 
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

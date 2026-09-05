@@ -1,6 +1,6 @@
 # HaD0Yun/Doyunha-Gopeak
 
-[![Stars](https://img.shields.io/github/stars/HaD0Yun/Doyunha-Gopeak?style=flat-square&color=yellow)](https://github.com/HaD0Yun/Doyunha-Gopeak/stargazers) [![Forks](https://img.shields.io/github/forks/HaD0Yun/Doyunha-Gopeak?style=flat-square&color=blue)](https://github.com/HaD0Yun/Doyunha-Gopeak/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HaD0Yun/Doyunha-Gopeak?style=flat-square&color=yellow)](https://github.com/HaD0Yun/Doyunha-Gopeak/stargazers) [![Forks](https://img.shields.io/github/forks/HaD0Yun/Doyunha-Gopeak?style=flat-square&color=blue)](https://github.com/HaD0Yun/Doyunha-Gopeak/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > GoPeak — The most comprehensive MCP server for Godot Engine. 95+ tools: scene management, GDScript LSP, DAP debugger, screenshot capture, input injection, ClassDB introspection, CC0 asset library. npx gopeak
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Games & Graphics · Backend · DevTools
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ GoPeak（HaD0Yun/Doyunha‑Gopeak）是面向 Godot Engine 的全功能 MCP（Mo
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # xcslys99/FootageFlow
 
-[![Stars](https://img.shields.io/github/stars/xcslys99/FootageFlow?style=flat-square&color=yellow)](https://github.com/xcslys99/FootageFlow/stargazers) [![Forks](https://img.shields.io/github/forks/xcslys99/FootageFlow?style=flat-square&color=blue)](https://github.com/xcslys99/FootageFlow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xcslys99/FootageFlow?style=flat-square&color=yellow)](https://github.com/xcslys99/FootageFlow/stargazers) [![Forks](https://img.shields.io/github/forks/xcslys99/FootageFlow?style=flat-square&color=blue)](https://github.com/xcslys99/FootageFlow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source footage search & link downloader for macOS and Windows. Search multiple sources or paste media links to download.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Content Creation
+Video Editing · Content Creation · Productivity
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ FootageFlow 是一款面向 macOS 和 Windows 的开源素材搜索与链接下�
 | forks | 23/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

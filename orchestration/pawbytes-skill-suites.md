@@ -1,6 +1,6 @@
 # pawbytes/skill-suites
 
-[![Stars](https://img.shields.io/github/stars/pawbytes/skill-suites?style=flat-square&color=yellow)](https://github.com/pawbytes/skill-suites/stargazers) [![Forks](https://img.shields.io/github/forks/pawbytes/skill-suites?style=flat-square&color=blue)](https://github.com/pawbytes/skill-suites/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pawbytes/skill-suites?style=flat-square&color=yellow)](https://github.com/pawbytes/skill-suites/stargazers) [![Forks](https://img.shields.io/github/forks/pawbytes/skill-suites?style=flat-square&color=blue)](https://github.com/pawbytes/skill-suites/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 50+ AI agent skills for Claude, Codex, OpenClaw etc — agentic marketing automation, AI creative agency, and developer productivity tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Marketing
+Orchestration · Automation · AI/ML · Productivity · Marketing
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ pawbytes/skill-suites 的生产可用性为中等。它适用于内部开发或�
 | forks | 27/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

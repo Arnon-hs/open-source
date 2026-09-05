@@ -1,6 +1,6 @@
 # ajv-validator/ajv
 
-[![Stars](https://img.shields.io/github/stars/ajv-validator/ajv?style=flat-square&color=yellow)](https://github.com/ajv-validator/ajv/stargazers) [![Forks](https://img.shields.io/github/forks/ajv-validator/ajv?style=flat-square&color=blue)](https://github.com/ajv-validator/ajv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ajv-validator/ajv?style=flat-square&color=yellow)](https://github.com/ajv-validator/ajv/stargazers) [![Forks](https://img.shields.io/github/forks/ajv-validator/ajv?style=flat-square&color=blue)](https://github.com/ajv-validator/ajv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.8k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ ajv-validator/ajv：。适合用于Misc。
 | forks | 75/100 |
 | stars | 89/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 80/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 100/100 |
 | adoption | 85/100 |
-| production | 67/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

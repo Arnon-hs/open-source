@@ -1,6 +1,6 @@
 # ladybug-me/caelestia-dots-kde
 
-[![Stars](https://img.shields.io/github/stars/ladybug-me/caelestia-dots-kde?style=flat-square&color=yellow)](https://github.com/ladybug-me/caelestia-dots-kde/stargazers) [![Forks](https://img.shields.io/github/forks/ladybug-me/caelestia-dots-kde?style=flat-square&color=blue)](https://github.com/ladybug-me/caelestia-dots-kde/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ladybug-me/caelestia-dots-kde?style=flat-square&color=yellow)](https://github.com/ladybug-me/caelestia-dots-kde/stargazers) [![Forks](https://img.shields.io/github/forks/ladybug-me/caelestia-dots-kde?style=flat-square&color=blue)](https://github.com/ladybug-me/caelestia-dots-kde/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > caelestia-dots ported to KDE plasma 6
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ ladybug-me/caelestia-dots-kde 的价值在于，它可以帮助开发者快速�
 | forks | 27/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

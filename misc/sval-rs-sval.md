@@ -1,6 +1,6 @@
 # sval-rs/sval
 
-[![Stars](https://img.shields.io/github/stars/sval-rs/sval?style=flat-square&color=yellow)](https://github.com/sval-rs/sval/stargazers) [![Forks](https://img.shields.io/github/forks/sval-rs/sval?style=flat-square&color=blue)](https://github.com/sval-rs/sval/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sval-rs/sval?style=flat-square&color=yellow)](https://github.com/sval-rs/sval/stargazers) [![Forks](https://img.shields.io/github/forks/sval-rs/sval?style=flat-square&color=blue)](https://github.com/sval-rs/sval/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, no-std, object-safe, serialization-only framework for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ sval-rs/sval 是一个轻量级、无标准库依赖、对象安全的 Rust 序�
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 48/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 53/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

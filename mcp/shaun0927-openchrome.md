@@ -1,6 +1,6 @@
 # shaun0927/openchrome
 
-[![Stars](https://img.shields.io/github/stars/shaun0927/openchrome?style=flat-square&color=yellow)](https://github.com/shaun0927/openchrome/stargazers) [![Forks](https://img.shields.io/github/forks/shaun0927/openchrome?style=flat-square&color=blue)](https://github.com/shaun0927/openchrome/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shaun0927/openchrome?style=flat-square&color=yellow)](https://github.com/shaun0927/openchrome/stargazers) [![Forks](https://img.shields.io/github/forks/shaun0927/openchrome?style=flat-square&color=blue)](https://github.com/shaun0927/openchrome/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source browser automation MCP server. Control your real Chrome from any AI agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ OpenChrome (shaun0927/openchrome) is an open‑source MCP (Model Context Protoco
 | forks | 39/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

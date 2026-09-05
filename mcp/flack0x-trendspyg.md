@@ -1,6 +1,6 @@
 # flack0x/trendspyg
 
-[![Stars](https://img.shields.io/github/stars/flack0x/trendspyg?style=flat-square&color=yellow)](https://github.com/flack0x/trendspyg/stargazers) [![Forks](https://img.shields.io/github/forks/flack0x/trendspyg?style=flat-square&color=blue)](https://github.com/flack0x/trendspyg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flack0x/trendspyg?style=flat-square&color=yellow)](https://github.com/flack0x/trendspyg/stargazers) [![Forks](https://img.shields.io/github/forks/flack0x/trendspyg?style=flat-square&color=blue)](https://github.com/flack0x/trendspyg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Free, maintained Python library + CLI for Google Trends: trending now, plus keyword interest over time, related queries & interest by region. A modern pytrends alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ flack0x/trendspyg 的生产可用性较高，主要原因包括：
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

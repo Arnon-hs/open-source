@@ -1,6 +1,6 @@
 # lynxlangya/techne
 
-[![Stars](https://img.shields.io/github/stars/lynxlangya/techne?style=flat-square&color=yellow)](https://github.com/lynxlangya/techne/stargazers) [![Forks](https://img.shields.io/github/forks/lynxlangya/techne?style=flat-square&color=blue)](https://github.com/lynxlangya/techne/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lynxlangya/techne?style=flat-square&color=yellow)](https://github.com/lynxlangya/techne/stargazers) [![Forks](https://img.shields.io/github/forks/lynxlangya/techne?style=flat-square&color=blue)](https://github.com/lynxlangya/techne/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Forcing-function skills for AI agents — validated to improve behavior, not just change it.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ lynxlangya/techne 为 AI 代理提供“强制函数”(forcing‑function) 技�
 | forks | 32/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

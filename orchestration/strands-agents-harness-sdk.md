@@ -1,6 +1,6 @@
 # strands-agents/harness-sdk
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=flat-square&color=yellow)](https://github.com/strands-agents/harness-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/harness-sdk?style=flat-square&color=blue)](https://github.com/strands-agents/harness-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=flat-square&color=yellow)](https://github.com/strands-agents/harness-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/harness-sdk?style=flat-square&color=blue)](https://github.com/strands-agents/harness-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 896 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 89/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML
+Orchestration · MCP · Automation · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ Overall, strands‑agents/harness‑sdk provides a robust, model‑agnostic foun
 | forks | 74/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 88/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 67/100 |
+| production | 80/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

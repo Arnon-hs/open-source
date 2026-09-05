@@ -1,6 +1,6 @@
 # Work-Fisher/reference-first-motion-director
 
-[![Stars](https://img.shields.io/github/stars/Work-Fisher/reference-first-motion-director?style=flat-square&color=yellow)](https://github.com/Work-Fisher/reference-first-motion-director/stargazers) [![Forks](https://img.shields.io/github/forks/Work-Fisher/reference-first-motion-director?style=flat-square&color=blue)](https://github.com/Work-Fisher/reference-first-motion-director/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Work-Fisher/reference-first-motion-director?style=flat-square&color=yellow)](https://github.com/Work-Fisher/reference-first-motion-director/stargazers) [![Forks](https://img.shields.io/github/forks/Work-Fisher/reference-first-motion-director?style=flat-square&color=blue)](https://github.com/Work-Fisher/reference-first-motion-director/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Reference-first Codex workflow for edit planning, keyframe approval, and MiniMax H3 prompts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-28 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Work‑Fisher/reference-first-motion-director 通过 Codex 工作流和 MiniMax 
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 88/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

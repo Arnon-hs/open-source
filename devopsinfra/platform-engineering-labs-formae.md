@@ -1,0 +1,81 @@
+# platform-engineering-labs/formae
+
+[![Stars](https://img.shields.io/github/stars/platform-engineering-labs/formae?style=flat-square&color=yellow)](https://github.com/platform-engineering-labs/formae/stargazers) [![Forks](https://img.shields.io/github/forks/platform-engineering-labs/formae?style=flat-square&color=blue)](https://github.com/platform-engineering-labs/formae/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+
+> Infrastructure-as-Code Platform Built for the Future
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 724 |
+| 🍴 **Forks** | 39 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`devops` `iac` `infrastructure-as-code` `platform-engineering` `sre`
+
+## 🎯 Categories
+
+DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+**platform-engineering-labs/formae** is an open‑source Infrastructure‑as‑Code (IaC) platform designed to streamline the creation, management, and scaling of modern cloud environments. It combines a developer‑friendly frontend with robust DevOps/Infra tooling, enabling teams to define, version, and automate infrastructure resources in a future‑proof, reusable way.
+
+### Русский
+
+**platform-engineering-labs/formae** – это современная open‑source платформа Infrastructure‑as‑Code, разработанная для автоматизации и масштабирования инфраструктурных решений будущего. Проект сочетает удобный фронтенд для визуального управления ресурсами с мощными DevOps/Infra инструментами, позволяя быстро создавать, тестировать и поддерживать инфраструктуру как код. Он ориентирован на гибкость, модульность и лёгкую интеграцию в любые облачные и on‑premise среды.
+
+### 中文
+
+platform-engineering-labs/formae：platform-engineering-labs/formae may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** platform-engineering-labs/formae may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 724 GitHub stars
+- 39 forks
+- updated 2026-05-10
+- primary language: Go
+- 5 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 40/100 |
+| stars | 61/100 |
+| topics | 63/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/platform-engineering-labs/formae) · [← Back to DevOps & Infra](./README.md)</sub>

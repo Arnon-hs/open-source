@@ -1,6 +1,6 @@
 # ShreyPaharia/octomux
 
-[![Stars](https://img.shields.io/github/stars/ShreyPaharia/octomux?style=flat-square&color=yellow)](https://github.com/ShreyPaharia/octomux/stargazers) [![Forks](https://img.shields.io/github/forks/ShreyPaharia/octomux?style=flat-square&color=blue)](https://github.com/ShreyPaharia/octomux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShreyPaharia/octomux?style=flat-square&color=yellow)](https://github.com/ShreyPaharia/octomux/stargazers) [![Forks](https://img.shields.io/github/forks/ShreyPaharia/octomux?style=flat-square&color=blue)](https://github.com/ShreyPaharia/octomux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Local dashboard to run parallel Claude Code & Cursor agents — kanban fleet view, one permission inbox, in-app diff review. macOS, MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ ShreyPaharia/octomux 在生产环境中的可用性为中等（Medium）。它�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

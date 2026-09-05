@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Zeek |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ CriticalPathSecurity/Zeek-Intelligence-Feeds：CriticalPathSecurity/Zeek-Intelli
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

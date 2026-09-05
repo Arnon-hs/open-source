@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · MCP · Knowledge/RAG · AI/ML · Frontend
+Crypto · MCP · Knowledge/RAG · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ dappros/ethora：dappros/ethora helps prototype or inspect blockchain workflows 
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Doezer/Questarr
 
-[![Stars](https://img.shields.io/github/stars/Doezer/Questarr?style=flat-square&color=yellow)](https://github.com/Doezer/Questarr/stargazers) [![Forks](https://img.shields.io/github/forks/Doezer/Questarr?style=flat-square&color=blue)](https://github.com/Doezer/Questarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Doezer/Questarr?style=flat-square&color=yellow)](https://github.com/Doezer/Questarr/stargazers) [![Forks](https://img.shields.io/github/forks/Doezer/Questarr?style=flat-square&color=blue)](https://github.com/Doezer/Questarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Questarr 适合作为内部游戏资源管理的原型或部门级工具，具�
 | forks | 30/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

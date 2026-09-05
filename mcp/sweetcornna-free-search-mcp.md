@@ -1,6 +1,6 @@
 # sweetcornna/free-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/sweetcornna/free-search-mcp?style=flat-square&color=yellow)](https://github.com/sweetcornna/free-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sweetcornna/free-search-mcp?style=flat-square&color=blue)](https://github.com/sweetcornna/free-search-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sweetcornna/free-search-mcp?style=flat-square&color=yellow)](https://github.com/sweetcornna/free-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sweetcornna/free-search-mcp?style=flat-square&color=blue)](https://github.com/sweetcornna/free-search-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first, no-API-key MCP server for web search, fetch, and document reading. Multi-engine (DuckDuckGo, Mojeek, Startpage), smart Playwright fallback, FTS5 cache, LLM-tuned output.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -93,15 +93,15 @@ Here's a brief summary of the open-source project:
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

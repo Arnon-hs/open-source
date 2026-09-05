@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ Meirtz/Awesome-Context-Engineering：Meirtz/Awesome-Context-Engineering helps ma
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

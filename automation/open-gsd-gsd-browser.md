@@ -1,6 +1,6 @@
 # open-gsd/gsd-browser
 
-[![Stars](https://img.shields.io/github/stars/open-gsd/gsd-browser?style=flat-square&color=yellow)](https://github.com/open-gsd/gsd-browser/stargazers) [![Forks](https://img.shields.io/github/forks/open-gsd/gsd-browser?style=flat-square&color=blue)](https://github.com/open-gsd/gsd-browser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-gsd/gsd-browser?style=flat-square&color=yellow)](https://github.com/open-gsd/gsd-browser/stargazers) [![Forks](https://img.shields.io/github/forks/open-gsd/gsd-browser?style=flat-square&color=blue)](https://github.com/open-gsd/gsd-browser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, native browser automation CLI built from the ground up for AI agents, powered by Chrome DevTools Protocol. 63 commands covering navigation, interaction, screenshots, accessibility, network mocking, visual diffing, test generation, and more — all from a single binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ open-gsd/gsd-browser 的生产可用性为中等。它适合用于原型设计�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

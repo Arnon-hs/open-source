@@ -1,6 +1,6 @@
 # Starlight143/crucible
 
-[![Stars](https://img.shields.io/github/stars/Starlight143/crucible?style=flat-square&color=yellow)](https://github.com/Starlight143/crucible/stargazers) [![Forks](https://img.shields.io/github/forks/Starlight143/crucible?style=flat-square&color=blue)](https://github.com/Starlight143/crucible/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Starlight143/crucible?style=flat-square&color=yellow)](https://github.com/Starlight143/crucible/stargazers) [![Forks](https://img.shields.io/github/forks/Starlight143/crucible?style=flat-square&color=blue)](https://github.com/Starlight143/crucible/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native multi-agent research workflow: parallel evidence gathering, 7-direction debate, and risk-gated analysis — structured output, not one-shot prompts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Starlight143/crucible 是一个面向 AI 原生的多代理研究工作流框架
 | forks | 28/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

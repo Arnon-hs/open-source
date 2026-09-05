@@ -1,6 +1,6 @@
 # yaalalabs/agent-kernel
 
-[![Stars](https://img.shields.io/github/stars/yaalalabs/agent-kernel?style=flat-square&color=yellow)](https://github.com/yaalalabs/agent-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/yaalalabs/agent-kernel?style=flat-square&color=blue)](https://github.com/yaalalabs/agent-kernel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaalalabs/agent-kernel?style=flat-square&color=yellow)](https://github.com/yaalalabs/agent-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/yaalalabs/agent-kernel?style=flat-square&color=blue)](https://github.com/yaalalabs/agent-kernel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The Operating System for Scalable Enterprise AI Agents - Run, orchestrate, and deploy Compliant Enterprise AI Agents at scale across frameworks, without lock-in, rewrites or fragile glue code. Native support for MCP, A2A. Interface with all mainstream communication channels seamlessly out of the box, production ready from day one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Observability · DevOps/Infra
+Orchestration · MCP · AI/ML · Cloud & Storage · Observability
 
 ## 📝 Summary
 
@@ -109,11 +109,11 @@ yaalalabs/agent‑kernel 是一款面向企业级的大规模 AI 代理操作系
 | forks | 29/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

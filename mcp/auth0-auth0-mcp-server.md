@@ -1,6 +1,6 @@
 # auth0/auth0-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/auth0/auth0-mcp-server?style=flat-square&color=yellow)](https://github.com/auth0/auth0-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/auth0/auth0-mcp-server?style=flat-square&color=blue)](https://github.com/auth0/auth0-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/auth0/auth0-mcp-server?style=flat-square&color=yellow)](https://github.com/auth0/auth0-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/auth0/auth0-mcp-server?style=flat-square&color=blue)](https://github.com/auth0/auth0-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Connect LLMs and AI agents to Auth0 Management APIs via an MCP server. Use natural-language commands to create apps, deploy Actions, and query logs—runs locally and supports interactive tenant authentication for secure Auth0 administration from AI tools/CLIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Observability
+MCP · Libraries & SDKs · Observability · Security
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ auth0‑mcp‑server 为 AI 助手提供了一条安全、统一的通道，让�
 | forks | 40/100 |
 | stars | 43/100 |
 | topics | 25/100 |
-| outlook | 50/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

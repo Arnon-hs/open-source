@@ -1,6 +1,6 @@
 # zxyasfas/paper_format_agent
 
-[![Stars](https://img.shields.io/github/stars/zxyasfas/paper_format_agent?style=flat-square&color=yellow)](https://github.com/zxyasfas/paper_format_agent/stargazers) [![Forks](https://img.shields.io/github/forks/zxyasfas/paper_format_agent?style=flat-square&color=blue)](https://github.com/zxyasfas/paper_format_agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zxyasfas/paper_format_agent?style=flat-square&color=yellow)](https://github.com/zxyasfas/paper_format_agent/stargazers) [![Forks](https://img.shields.io/github/forks/zxyasfas/paper_format_agent?style=flat-square&color=blue)](https://github.com/zxyasfas/paper_format_agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > DOCX formatter for academic papers with a content-fingerprint guard: proves your text is never altered, only the formatting. Also installable as an agent skill.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ zxyasfas/paper_format_agent 是一个开源项目，用于为学术论文格式�
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # RandyChen1985/nanzi-ai-agent-platform
 
-[![Stars](https://img.shields.io/github/stars/RandyChen1985/nanzi-ai-agent-platform?style=flat-square&color=yellow)](https://github.com/RandyChen1985/nanzi-ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/RandyChen1985/nanzi-ai-agent-platform?style=flat-square&color=blue)](https://github.com/RandyChen1985/nanzi-ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RandyChen1985/nanzi-ai-agent-platform?style=flat-square&color=yellow)](https://github.com/RandyChen1985/nanzi-ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/RandyChen1985/nanzi-ai-agent-platform?style=flat-square&color=blue)](https://github.com/RandyChen1985/nanzi-ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 企业级多智能体编排与 ChatBI 数据洞察平台。支持多 Agent 协作、RAG 知识增强、物理数据源直连与安全沙箱执行、Redis 长期记忆引擎，并集成多模态 EmbedChat 挂件与全方位 Token 消耗审计看板。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Database
+Orchestration · Knowledge/RAG · AI/ML · Communication · Productivity
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ RandyChen1985/nanzi-ai-agent-platform是一个企业级多智能体编排与 Cha
 | forks | 28/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

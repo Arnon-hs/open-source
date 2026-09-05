@@ -1,6 +1,6 @@
 # k2-fsa/OmniVoice
 
-[![Stars](https://img.shields.io/github/stars/k2-fsa/OmniVoice?style=flat-square&color=yellow)](https://huggingface.co/k2-fsa/OmniVoice/stargazers) [![Forks](https://img.shields.io/github/forks/k2-fsa/OmniVoice?style=flat-square&color=blue)](https://huggingface.co/k2-fsa/OmniVoice/network) [![Language](https://img.shields.io/badge/lang-omnivoice-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k2-fsa/OmniVoice?style=flat-square&color=yellow)](https://huggingface.co/k2-fsa/OmniVoice/stargazers) [![Forks](https://img.shields.io/github/forks/k2-fsa/OmniVoice?style=flat-square&color=blue)](https://huggingface.co/k2-fsa/OmniVoice/network) [![Language](https://img.shields.io/badge/lang-omnivoice-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text to speech (text-to-speech) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | omnivoice |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ k2-fsa/OmniVoice 的生产可用性评定为中等（Medium）。它适合用于
 | forks | 0/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

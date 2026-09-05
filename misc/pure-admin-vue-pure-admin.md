@@ -1,6 +1,6 @@
 # pure-admin/vue-pure-admin
 
-[![Stars](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=flat-square&color=yellow)](https://github.com/pure-admin/vue-pure-admin/stargazers) [![Forks](https://img.shields.io/github/forks/pure-admin/vue-pure-admin?style=flat-square&color=blue)](https://github.com/pure-admin/vue-pure-admin/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=flat-square&color=yellow)](https://github.com/pure-admin/vue-pure-admin/stargazers) [![Forks](https://img.shields.io/github/forks/pure-admin/vue-pure-admin?style=flat-square&color=blue)](https://github.com/pure-admin/vue-pure-admin/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.4k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ pure‑admin/vue‑pure‑admin 是一款基于 ESM、Vue 3、Vite、Element�
 | forks | 89/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 62/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ythx-101/x-tweet-fetcher
 
-[![Stars](https://img.shields.io/github/stars/ythx-101/x-tweet-fetcher?style=flat-square&color=yellow)](https://github.com/ythx-101/x-tweet-fetcher/stargazers) [![Forks](https://img.shields.io/github/forks/ythx-101/x-tweet-fetcher?style=flat-square&color=blue)](https://github.com/ythx-101/x-tweet-fetcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ythx-101/x-tweet-fetcher?style=flat-square&color=yellow)](https://github.com/ythx-101/x-tweet-fetcher/stargazers) [![Forks](https://img.shields.io/github/forks/ythx-101/x-tweet-fetcher?style=flat-square&color=blue)](https://github.com/ythx-101/x-tweet-fetcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Fetch X/Twitter tweets, replies, timelines, and articles without login or API keys — field tool for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 894 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ythx-101/x-tweet-fetcher 的生产可用性较高，因为它有以下特点：
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

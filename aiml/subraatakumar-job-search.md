@@ -1,6 +1,6 @@
 # subraatakumar/job-search
 
-[![Stars](https://img.shields.io/github/stars/subraatakumar/job-search?style=flat-square&color=yellow)](https://github.com/subraatakumar/job-search/stargazers) [![Forks](https://img.shields.io/github/forks/subraatakumar/job-search?style=flat-square&color=blue)](https://github.com/subraatakumar/job-search/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/subraatakumar/job-search?style=flat-square&color=yellow)](https://github.com/subraatakumar/job-search/stargazers) [![Forks](https://img.shields.io/github/forks/subraatakumar/job-search?style=flat-square&color=blue)](https://github.com/subraatakumar/job-search/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI-assisted job search for international candidates. Find roles by location and visa sponsorship, import your resume, create tailored applications, prepare for interviews, and track applications with your preferred hosted or local AI provider.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ subraatakumar/job-search：subraatakumar/job-search helps add AI capability with
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

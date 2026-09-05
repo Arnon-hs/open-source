@@ -1,6 +1,6 @@
 # openziti/mcp-gateway
 
-[![Stars](https://img.shields.io/github/stars/openziti/mcp-gateway?style=flat-square&color=yellow)](https://github.com/openziti/mcp-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/openziti/mcp-gateway?style=flat-square&color=blue)](https://github.com/openziti/mcp-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openziti/mcp-gateway?style=flat-square&color=yellow)](https://github.com/openziti/mcp-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/openziti/mcp-gateway?style=flat-square&color=blue)](https://github.com/openziti/mcp-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Zero trust gateway for MCP servers. Aggregate, filter, and securely access MCP tools from anywhere without VPNs, open ports, or exposed endpoints. Built on OpenZiti, zrok, and Agora with cryptographic identity, mTLS, per-client isolation, and tool-level permission control.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · AI/ML · Networking · Backend · Security
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ openziti/mcp-gateway 在生产环境中具有较高的可用性，理由
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

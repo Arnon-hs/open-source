@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ ericbuess/claude-code-docs：ericbuess/claude-code-docs may be useful when its R
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

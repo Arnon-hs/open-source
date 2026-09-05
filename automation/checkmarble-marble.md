@@ -1,6 +1,6 @@
 # checkmarble/marble
 
-[![Stars](https://img.shields.io/github/stars/checkmarble/marble?style=flat-square&color=yellow)](https://github.com/checkmarble/marble/stargazers) [![Forks](https://img.shields.io/github/forks/checkmarble/marble?style=flat-square&color=blue)](https://github.com/checkmarble/marble/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/checkmarble/marble?style=flat-square&color=yellow)](https://github.com/checkmarble/marble/stargazers) [![Forks](https://img.shields.io/github/forks/checkmarble/marble?style=flat-square&color=blue)](https://github.com/checkmarble/marble/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Marble - the real time decision engine for fraud and AML
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 517 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Marble（checkmarble/marble）是面向欺诈与反洗钱（AML）的实时决�
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

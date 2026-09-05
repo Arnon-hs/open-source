@@ -1,6 +1,6 @@
 # alanagoyal/alanagoyal
 
-[![Stars](https://img.shields.io/github/stars/alanagoyal/alanagoyal?style=flat-square&color=yellow)](https://github.com/alanagoyal/alanagoyal/stargazers) [![Forks](https://img.shields.io/github/forks/alanagoyal/alanagoyal?style=flat-square&color=blue)](https://github.com/alanagoyal/alanagoyal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alanagoyal/alanagoyal?style=flat-square&color=yellow)](https://github.com/alanagoyal/alanagoyal/stargazers) [![Forks](https://img.shields.io/github/forks/alanagoyal/alanagoyal?style=flat-square&color=blue)](https://github.com/alanagoyal/alanagoyal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > apple-inspired personal website
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -79,11 +79,11 @@ Here's a brief summary and explanation of the project:
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

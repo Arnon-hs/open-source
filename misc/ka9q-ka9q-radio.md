@@ -1,6 +1,6 @@
 # ka9q/ka9q-radio
 
-[![Stars](https://img.shields.io/github/stars/ka9q/ka9q-radio?style=flat-square&color=yellow)](https://github.com/ka9q/ka9q-radio/stargazers) [![Forks](https://img.shields.io/github/forks/ka9q/ka9q-radio?style=flat-square&color=blue)](https://github.com/ka9q/ka9q-radio/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ka9q/ka9q-radio?style=flat-square&color=yellow)](https://github.com/ka9q/ka9q-radio/stargazers) [![Forks](https://img.shields.io/github/forks/ka9q/ka9q-radio?style=flat-square&color=blue)](https://github.com/ka9q/ka9q-radio/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Multichannel SDR based on fast convolution and IP multicasting
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ ka9q/ka9q‑radio 是一个基于快速卷积和 IP 多播的多信道软件无�
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

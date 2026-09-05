@@ -1,6 +1,6 @@
 # statiolake/proconio-rs
 
-[![Stars](https://img.shields.io/github/stars/statiolake/proconio-rs?style=flat-square&color=yellow)](https://github.com/statiolake/proconio-rs/stargazers) [![Forks](https://img.shields.io/github/forks/statiolake/proconio-rs?style=flat-square&color=blue)](https://github.com/statiolake/proconio-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/statiolake/proconio-rs?style=flat-square&color=yellow)](https://github.com/statiolake/proconio-rs/stargazers) [![Forks](https://img.shields.io/github/forks/statiolake/proconio-rs?style=flat-square&color=blue)](https://github.com/statiolake/proconio-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ statiolake/proconio‑rs 是一个基于 Rust 的输入/输出库，提供类似
 | forks | 26/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

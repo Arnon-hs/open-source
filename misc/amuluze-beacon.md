@@ -1,6 +1,6 @@
 # amuluze/beacon
 
-[![Stars](https://img.shields.io/github/stars/amuluze/beacon?style=flat-square&color=yellow)](https://github.com/amuluze/beacon/stargazers) [![Forks](https://img.shields.io/github/forks/amuluze/beacon?style=flat-square&color=blue)](https://github.com/amuluze/beacon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amuluze/beacon?style=flat-square&color=yellow)](https://github.com/amuluze/beacon/stargazers) [![Forks](https://img.shields.io/github/forks/amuluze/beacon?style=flat-square&color=blue)](https://github.com/amuluze/beacon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 轻量级主机及容器监控服务
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 509 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ amuluze/beacon 被评估为中等生产可用性（Medium）。它适合用于�
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

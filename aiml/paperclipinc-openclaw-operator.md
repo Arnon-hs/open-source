@@ -1,6 +1,6 @@
 # paperclipinc/openclaw-operator
 
-[![Stars](https://img.shields.io/github/stars/paperclipinc/openclaw-operator?style=flat-square&color=yellow)](https://github.com/paperclipinc/openclaw-operator/stargazers) [![Forks](https://img.shields.io/github/forks/paperclipinc/openclaw-operator?style=flat-square&color=blue)](https://github.com/paperclipinc/openclaw-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paperclipinc/openclaw-operator?style=flat-square&color=yellow)](https://github.com/paperclipinc/openclaw-operator/stargazers) [![Forks](https://img.shields.io/github/forks/paperclipinc/openclaw-operator?style=flat-square&color=blue)](https://github.com/paperclipinc/openclaw-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ paperclipinc/openclaw-operator 是一款基于 Kubernetes 的 Operator，用于�
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

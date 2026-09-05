@@ -1,6 +1,6 @@
 # rcarmo/python-office-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/rcarmo/python-office-mcp-server?style=flat-square&color=yellow)](https://github.com/rcarmo/python-office-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/python-office-mcp-server?style=flat-square&color=blue)](https://github.com/rcarmo/python-office-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rcarmo/python-office-mcp-server?style=flat-square&color=yellow)](https://github.com/rcarmo/python-office-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/python-office-mcp-server?style=flat-square&color=blue)](https://github.com/rcarmo/python-office-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server for OOXML documents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Documents · Backend
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ rcarmo/python-office-mcp-server 是一个用于连接 AI 代理到实时工具�
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 50/100 |
-| outlook | 47/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

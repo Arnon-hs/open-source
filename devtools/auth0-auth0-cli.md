@@ -1,6 +1,6 @@
 # auth0/auth0-cli
 
-[![Stars](https://img.shields.io/github/stars/auth0/auth0-cli?style=flat-square&color=yellow)](https://github.com/auth0/auth0-cli/stargazers) [![Forks](https://img.shields.io/github/forks/auth0/auth0-cli?style=flat-square&color=blue)](https://github.com/auth0/auth0-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/auth0/auth0-cli?style=flat-square&color=yellow)](https://github.com/auth0/auth0-cli/stargazers) [![Forks](https://img.shields.io/github/forks/auth0/auth0-cli?style=flat-square&color=blue)](https://github.com/auth0/auth0-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Build, manage and test your Auth0 integrations from the command line
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ auth0/auth0-cli 是一款基于 Go 实现的命令行工具，帮助开发者在
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

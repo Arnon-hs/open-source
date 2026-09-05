@@ -1,6 +1,6 @@
 # dedicatedcode/reitti
 
-[![Stars](https://img.shields.io/github/stars/dedicatedcode/reitti?style=flat-square&color=yellow)](https://github.com/dedicatedcode/reitti/stargazers) [![Forks](https://img.shields.io/github/forks/dedicatedcode/reitti?style=flat-square&color=blue)](https://github.com/dedicatedcode/reitti/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dedicatedcode/reitti?style=flat-square&color=yellow)](https://github.com/dedicatedcode/reitti/stargazers) [![Forks](https://img.shields.io/github/forks/dedicatedcode/reitti?style=flat-square&color=blue)](https://github.com/dedicatedcode/reitti/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name "Reitti" comes from Finnish, meaning "route" or "path".
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Reitti 具备较高的生产就绪度，适合作为位置数据的采集、存�
 | forks | 46/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # riscv/riscv-unified-db
 
-[![Stars](https://img.shields.io/github/stars/riscv/riscv-unified-db?style=flat-square&color=yellow)](https://github.com/riscv/riscv-unified-db/stargazers) [![Forks](https://img.shields.io/github/forks/riscv/riscv-unified-db?style=flat-square&color=blue)](https://github.com/riscv/riscv-unified-db/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riscv/riscv-unified-db?style=flat-square&color=yellow)](https://github.com/riscv/riscv-unified-db/stargazers) [![Forks](https://img.shields.io/github/forks/riscv/riscv-unified-db?style=flat-square&color=blue)](https://github.com/riscv/riscv-unified-db/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ riscv‑unified‑db 将 RISC‑V 规范以机器可读的形式统一存放，�
 | forks | 54/100 |
 | stars | 48/100 |
 | topics | 25/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

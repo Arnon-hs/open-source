@@ -1,6 +1,6 @@
 # DigitalShieldOfficial/Crypto-Payment-Gateway
 
-[![Stars](https://img.shields.io/github/stars/DigitalShieldOfficial/Crypto-Payment-Gateway?style=flat-square&color=yellow)](https://github.com/DigitalShieldOfficial/Crypto-Payment-Gateway/stargazers) [![Forks](https://img.shields.io/github/forks/DigitalShieldOfficial/Crypto-Payment-Gateway?style=flat-square&color=blue)](https://github.com/DigitalShieldOfficial/Crypto-Payment-Gateway/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DigitalShieldOfficial/Crypto-Payment-Gateway?style=flat-square&color=yellow)](https://github.com/DigitalShieldOfficial/Crypto-Payment-Gateway/stargazers) [![Forks](https://img.shields.io/github/forks/DigitalShieldOfficial/Crypto-Payment-Gateway?style=flat-square&color=blue)](https://github.com/DigitalShieldOfficial/Crypto-Payment-Gateway/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A blockchain payment gateway for USDT that monitors on-chain wallet addresses, detects incoming transactions in real time, and provides secure payment notifications via APIs and webhooks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ DigitalShieldOfficial/Crypto-Payment-Gateway 是一个基于区块链的支付�
 | forks | 31/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

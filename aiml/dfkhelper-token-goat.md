@@ -1,6 +1,6 @@
 # DFKHelper/token-goat
 
-[![Stars](https://img.shields.io/github/stars/DFKHelper/token-goat?style=flat-square&color=yellow)](https://github.com/DFKHelper/token-goat/stargazers) [![Forks](https://img.shields.io/github/forks/DFKHelper/token-goat?style=flat-square&color=blue)](https://github.com/DFKHelper/token-goat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DFKHelper/token-goat?style=flat-square&color=yellow)](https://github.com/DFKHelper/token-goat/stargazers) [![Forks](https://img.shields.io/github/forks/DFKHelper/token-goat?style=flat-square&color=blue)](https://github.com/DFKHelper/token-goat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Token burn reducer and focus keeper for Claude Code, Codex, Gemini CLI, Cline, Windsurf, Aider, Cursor, Copilot, and more: surgical read hints, PDF/Office/CSV/markdown file interception, 160+ filter & interception rules, compact manifest injection, image shrinking, and much more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Documents · Productivity · Backend · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ DFKHelper/token-goat 的生产可用性很高，尤其是考虑
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

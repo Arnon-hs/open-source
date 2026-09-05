@@ -1,6 +1,6 @@
 # llm2014/llm_benchmark
 
-[![Stars](https://img.shields.io/github/stars/llm2014/llm_benchmark?style=flat-square&color=yellow)](https://github.com/llm2014/llm_benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/llm2014/llm_benchmark?style=flat-square&color=blue)](https://github.com/llm2014/llm_benchmark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm2014/llm_benchmark?style=flat-square&color=yellow)](https://github.com/llm2014/llm_benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/llm2014/llm_benchmark?style=flat-square&color=blue)](https://github.com/llm2014/llm_benchmark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ llm2014/llm_benchmark 提供了一套现成的基准测试和工具链，帮助�
 | forks | 31/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # hamsavartn/raptor
 
-[![Stars](https://img.shields.io/github/stars/hamsavartn/raptor?style=flat-square&color=yellow)](https://github.com/hamsavartn/raptor/stargazers) [![Forks](https://img.shields.io/github/forks/hamsavartn/raptor?style=flat-square&color=blue)](https://github.com/hamsavartn/raptor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hamsavartn/raptor?style=flat-square&color=yellow)](https://github.com/hamsavartn/raptor/stargazers) [![Forks](https://img.shields.io/github/forks/hamsavartn/raptor?style=flat-square&color=blue)](https://github.com/hamsavartn/raptor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A zero-dependency Taskfile v3 task runner built with Go stdlib only. Hand-written YAML parser, DAG scheduler, cycle detection, incremental builds — no require block, no go.sum.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ hamsavartn/raptor：。适合用于Automation。
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 31/100 |
-| recency | 80/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 100/100 |
 | adoption | 0/100 |
-| production | 51/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

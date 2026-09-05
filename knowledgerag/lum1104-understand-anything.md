@@ -1,6 +1,6 @@
 # Lum1104/Understand-Anything
 
-[![Stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=flat-square&color=yellow)](https://github.com/Lum1104/Understand-Anything/stargazers) [![Forks](https://img.shields.io/github/forks/Lum1104/Understand-Anything?style=flat-square&color=blue)](https://github.com/Lum1104/Understand-Anything/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=flat-square&color=yellow)](https://github.com/Lum1104/Understand-Anything/stargazers) [![Forks](https://img.shields.io/github/forks/Lum1104/Understand-Anything?style=flat-square&color=blue)](https://github.com/Lum1104/Understand-Anything/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Lum1104/Understand-Anything 将任意代码库或知识库（如 Karpathy 的 LL
 | forks | 78/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 73/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 57/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

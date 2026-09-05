@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 914 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ steipete/CodexBar：steipete/CodexBar helps add AI capability without starting f
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

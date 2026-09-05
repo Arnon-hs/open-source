@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ scalikejdbc/scalikejdbc：scalikejdbc/scalikejdbc helps teams persist, query, an
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

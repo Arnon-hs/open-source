@@ -1,6 +1,6 @@
 # Emanuele-web04/synara
 
-[![Stars](https://img.shields.io/github/stars/Emanuele-web04/synara?style=flat-square&color=yellow)](https://github.com/Emanuele-web04/synara/stargazers) [![Forks](https://img.shields.io/github/forks/Emanuele-web04/synara?style=flat-square&color=blue)](https://github.com/Emanuele-web04/synara/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Emanuele-web04/synara?style=flat-square&color=yellow)](https://github.com/Emanuele-web04/synara/stargazers) [![Forks](https://img.shields.io/github/forks/Emanuele-web04/synara?style=flat-square&color=blue)](https://github.com/Emanuele-web04/synara/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The best place to build with your AI sub
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 958 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Synara（Emanuele‑web04/synara）是一个基于 TypeScript 的前端框架，
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

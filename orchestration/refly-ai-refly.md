@@ -1,6 +1,6 @@
 # refly-ai/refly
 
-[![Stars](https://img.shields.io/github/stars/refly-ai/refly?style=flat-square&color=yellow)](https://github.com/refly-ai/refly/stargazers) [![Forks](https://img.shields.io/github/forks/refly-ai/refly?style=flat-square&color=blue)](https://github.com/refly-ai/refly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/refly-ai/refly?style=flat-square&color=yellow)](https://github.com/refly-ai/refly/stargazers) [![Forks](https://img.shields.io/github/forks/refly-ai/refly?style=flat-square&color=blue)](https://github.com/refly-ai/refly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 723 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ refly-ai/refly
 | forks | 71/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 60/100 |
+| outlook | 88/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 69/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

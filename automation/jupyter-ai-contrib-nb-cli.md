@@ -1,6 +1,6 @@
 # jupyter-ai-contrib/nb-cli
 
-[![Stars](https://img.shields.io/github/stars/jupyter-ai-contrib/nb-cli?style=flat-square&color=yellow)](https://github.com/jupyter-ai-contrib/nb-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jupyter-ai-contrib/nb-cli?style=flat-square&color=blue)](https://github.com/jupyter-ai-contrib/nb-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jupyter-ai-contrib/nb-cli?style=flat-square&color=yellow)](https://github.com/jupyter-ai-contrib/nb-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jupyter-ai-contrib/nb-cli?style=flat-square&color=blue)](https://github.com/jupyter-ai-contrib/nb-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI-first interface for AI agents to work with notebooks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ jupyter-ai-contrib/nb-cli 的生产可用性为中等（Medium）。它适合用
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

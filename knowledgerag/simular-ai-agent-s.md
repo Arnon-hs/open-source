@@ -1,6 +1,6 @@
 # simular-ai/Agent-S
 
-[![Stars](https://img.shields.io/github/stars/simular-ai/Agent-S?style=flat-square&color=yellow)](https://github.com/simular-ai/Agent-S/stargazers) [![Forks](https://img.shields.io/github/forks/simular-ai/Agent-S?style=flat-square&color=blue)](https://github.com/simular-ai/Agent-S/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simular-ai/Agent-S?style=flat-square&color=yellow)](https://github.com/simular-ai/Agent-S/stargazers) [![Forks](https://img.shields.io/github/forks/simular-ai/Agent-S?style=flat-square&color=blue)](https://github.com/simular-ai/Agent-S/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Agent S: an open agentic framework that uses computers like a human
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Agent S（simular‑ai/Agent‑S）是一个开源的“类人”智能体框�
 | forks | 78/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 73/100 |
-| recency | 20/100 |
+| outlook | 87/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 55/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

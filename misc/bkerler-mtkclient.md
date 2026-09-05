@@ -1,6 +1,6 @@
 # bkerler/mtkclient
 
-[![Stars](https://img.shields.io/github/stars/bkerler/mtkclient?style=flat-square&color=yellow)](https://github.com/bkerler/mtkclient/stargazers) [![Forks](https://img.shields.io/github/forks/bkerler/mtkclient?style=flat-square&color=blue)](https://github.com/bkerler/mtkclient/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bkerler/mtkclient?style=flat-square&color=yellow)](https://github.com/bkerler/mtkclient/stargazers) [![Forks](https://img.shields.io/github/forks/bkerler/mtkclient?style=flat-square&color=blue)](https://github.com/bkerler/mtkclient/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Mediatek Flash and Repair Utility
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 896 |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ bkerler/mtkclient 的生产可用性为中等。它适合用于原型开发或�
 | forks | 56/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

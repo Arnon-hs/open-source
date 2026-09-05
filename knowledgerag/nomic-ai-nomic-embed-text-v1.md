@@ -1,6 +1,6 @@
 # nomic-ai/nomic-embed-text-v1
 
-[![Stars](https://img.shields.io/github/stars/nomic-ai/nomic-embed-text-v1?style=flat-square&color=yellow)](https://huggingface.co/nomic-ai/nomic-embed-text-v1/stargazers) [![Forks](https://img.shields.io/github/forks/nomic-ai/nomic-embed-text-v1?style=flat-square&color=blue)](https://huggingface.co/nomic-ai/nomic-embed-text-v1/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nomic-ai/nomic-embed-text-v1?style=flat-square&color=yellow)](https://huggingface.co/nomic-ai/nomic-embed-text-v1/stargazers) [![Forks](https://img.shields.io/github/forks/nomic-ai/nomic-embed-text-v1?style=flat-square&color=blue)](https://huggingface.co/nomic-ai/nomic-embed-text-v1/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Embeddings and similarity (sentence-similarity) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 579 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ nomic-ai/nomic-embed-text-v1 是一个开源项目，提供了一个流行的嵌
 | forks | 0/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 37/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 38/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

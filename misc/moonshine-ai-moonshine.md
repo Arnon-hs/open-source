@@ -1,6 +1,6 @@
 # moonshine-ai/moonshine
 
-[![Stars](https://img.shields.io/github/stars/moonshine-ai/moonshine?style=flat-square&color=yellow)](https://github.com/moonshine-ai/moonshine/stargazers) [![Forks](https://img.shields.io/github/forks/moonshine-ai/moonshine?style=flat-square&color=blue)](https://github.com/moonshine-ai/moonshine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moonshine-ai/moonshine?style=flat-square&color=yellow)](https://github.com/moonshine-ai/moonshine/stargazers) [![Forks](https://img.shields.io/github/forks/moonshine-ai/moonshine?style=flat-square&color=blue)](https://github.com/moonshine-ai/moonshine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.7k |
 | 🍴 **Forks** | 475 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Moonshine 在生产环境中具有较高的可用性，因为它有活跃的社�
 | forks | 67/100 |
 | stars | 84/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

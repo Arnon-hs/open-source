@@ -1,6 +1,6 @@
 # VeriTeknik/pluggedin-app
 
-[![Stars](https://img.shields.io/github/stars/VeriTeknik/pluggedin-app?style=flat-square&color=yellow)](https://github.com/VeriTeknik/pluggedin-app/stargazers) [![Forks](https://img.shields.io/github/forks/VeriTeknik/pluggedin-app?style=flat-square&color=blue)](https://github.com/VeriTeknik/pluggedin-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VeriTeknik/pluggedin-app?style=flat-square&color=yellow)](https://github.com/VeriTeknik/pluggedin-app/stargazers) [![Forks](https://img.shields.io/github/forks/VeriTeknik/pluggedin-app?style=flat-square&color=blue)](https://github.com/VeriTeknik/pluggedin-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The Crossroads for AI Data Exchanges. A unified, self-hostable web interface for discovering, configuring, and managing Model Context Protocol (MCP) servers—bringing together AI tools, workspaces, prompts, and logs from multiple MCP sources (Claude, Cursor, etc.) under one roof.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ VeriTeknik/pluggedin‑app 是一个可自托管的统一 Web 界面，聚合并
 | forks | 30/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

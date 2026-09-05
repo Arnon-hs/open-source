@@ -1,6 +1,6 @@
 # SaladDay/pi-from-scratch
 
-[![Stars](https://img.shields.io/github/stars/SaladDay/pi-from-scratch?style=flat-square&color=yellow)](https://github.com/SaladDay/pi-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/SaladDay/pi-from-scratch?style=flat-square&color=blue)](https://github.com/SaladDay/pi-from-scratch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SaladDay/pi-from-scratch?style=flat-square&color=yellow)](https://github.com/SaladDay/pi-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/SaladDay/pi-from-scratch?style=flat-square&color=blue)](https://github.com/SaladDay/pi-from-scratch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ SaladDay/pi-from-scratch 是一个开源项目，使用 600 行 TypeScript 代�
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

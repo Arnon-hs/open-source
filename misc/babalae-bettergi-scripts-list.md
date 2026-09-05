@@ -1,6 +1,6 @@
 # babalae/bettergi-scripts-list
 
-[![Stars](https://img.shields.io/github/stars/babalae/bettergi-scripts-list?style=flat-square&color=yellow)](https://github.com/babalae/bettergi-scripts-list/stargazers) [![Forks](https://img.shields.io/github/forks/babalae/bettergi-scripts-list?style=flat-square&color=blue)](https://github.com/babalae/bettergi-scripts-list/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/babalae/bettergi-scripts-list?style=flat-square&color=yellow)](https://github.com/babalae/bettergi-scripts-list/stargazers) [![Forks](https://img.shields.io/github/forks/babalae/bettergi-scripts-list?style=flat-square&color=blue)](https://github.com/babalae/bettergi-scripts-list/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 495 |
 | 🍴 **Forks** | 408 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ BetterGI 的脚本仓库是一个开源项目，包含了 BetterGI 的 JS 脚本
 | forks | 65/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

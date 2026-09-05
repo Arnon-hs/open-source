@@ -1,6 +1,6 @@
 # Text2SqlAgent/text2sql-framework
 
-[![Stars](https://img.shields.io/github/stars/Text2SqlAgent/text2sql-framework?style=flat-square&color=yellow)](https://github.com/Text2SqlAgent/text2sql-framework/stargazers) [![Forks](https://img.shields.io/github/forks/Text2SqlAgent/text2sql-framework?style=flat-square&color=blue)](https://github.com/Text2SqlAgent/text2sql-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Text2SqlAgent/text2sql-framework?style=flat-square&color=yellow)](https://github.com/Text2SqlAgent/text2sql-framework/stargazers) [![Forks](https://img.shields.io/github/forks/Text2SqlAgent/text2sql-framework?style=flat-square&color=blue)](https://github.com/Text2SqlAgent/text2sql-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic text-to-SQL SDK: hand the LLM one execute_sql tool and let it explore the schema, test queries, and self-correct — no RAG, no semantic layer. 20/20 on an 80-table Spider run. Built-in tracing and scenario support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Observability
+Knowledge/RAG · AI/ML · Libraries & SDKs · Observability
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ Text2SqlAgent/text2sql-framework 通过让 LLM 直接使用 `execute_sql` 工具
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

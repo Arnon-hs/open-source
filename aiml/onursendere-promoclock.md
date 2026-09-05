@@ -1,6 +1,6 @@
 # onursendere/promoclock
 
-[![Stars](https://img.shields.io/github/stars/onursendere/promoclock?style=flat-square&color=yellow)](https://github.com/onursendere/promoclock/stargazers) [![Forks](https://img.shields.io/github/forks/onursendere/promoclock?style=flat-square&color=blue)](https://github.com/onursendere/promoclock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onursendere/promoclock?style=flat-square&color=yellow)](https://github.com/onursendere/promoclock/stargazers) [![Forks](https://img.shields.io/github/forks/onursendere/promoclock?style=flat-square&color=blue)](https://github.com/onursendere/promoclock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time Claude peak hours tracker — know instantly when session limits drain faster. 10 languages, live countdown, JSON API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ onursendere/promoclock 是一个实时监控 Claude（Anthropic）高峰时段�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

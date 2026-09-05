@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -115,7 +115,7 @@ modelcontextprotocol/php-sdk 是 Model Context Protocol 的官方 PHP SDK，用�
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

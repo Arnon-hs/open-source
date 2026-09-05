@@ -1,6 +1,6 @@
 # grregis/MuckScraper
 
-[![Stars](https://img.shields.io/github/stars/grregis/MuckScraper?style=flat-square&color=yellow)](https://github.com/grregis/MuckScraper/stargazers) [![Forks](https://img.shields.io/github/forks/grregis/MuckScraper?style=flat-square&color=blue)](https://github.com/grregis/MuckScraper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grregis/MuckScraper?style=flat-square&color=yellow)](https://github.com/grregis/MuckScraper/stargazers) [![Forks](https://img.shields.io/github/forks/grregis/MuckScraper?style=flat-square&color=blue)](https://github.com/grregis/MuckScraper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted news aggregator with LLM bias scoring and summarization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ grregis/MuckScraper 的价值在于，它可以帮助开发者快速评估和构
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Glench/ExtPay
 
-[![Stars](https://img.shields.io/github/stars/Glench/ExtPay?style=flat-square&color=yellow)](https://github.com/Glench/ExtPay/stargazers) [![Forks](https://img.shields.io/github/forks/Glench/ExtPay?style=flat-square&color=blue)](https://github.com/Glench/ExtPay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Glench/ExtPay?style=flat-square&color=yellow)](https://github.com/Glench/ExtPay/stargazers) [![Forks](https://img.shields.io/github/forks/Glench/ExtPay?style=flat-square&color=blue)](https://github.com/Glench/ExtPay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Product
+Payments · Frontend · Product
 
 ## 📝 Summary
 
@@ -90,15 +90,15 @@ Glench/ExtPay 的生产可用性为中等（Medium），适合用于原型或内
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

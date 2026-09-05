@@ -1,6 +1,6 @@
 # pyrtlsdr/pyrtlsdr
 
-[![Stars](https://img.shields.io/github/stars/pyrtlsdr/pyrtlsdr?style=flat-square&color=yellow)](https://github.com/pyrtlsdr/pyrtlsdr/stargazers) [![Forks](https://img.shields.io/github/forks/pyrtlsdr/pyrtlsdr?style=flat-square&color=blue)](https://github.com/pyrtlsdr/pyrtlsdr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyrtlsdr/pyrtlsdr?style=flat-square&color=yellow)](https://github.com/pyrtlsdr/pyrtlsdr/stargazers) [![Forks](https://img.shields.io/github/forks/pyrtlsdr/pyrtlsdr?style=flat-square&color=blue)](https://github.com/pyrtlsdr/pyrtlsdr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 682 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ pyrtlsdr 适合作为原型开发、内部工具或教学实验的首选 SDR 接
 | forks | 53/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

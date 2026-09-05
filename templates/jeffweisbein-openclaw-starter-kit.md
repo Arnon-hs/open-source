@@ -1,6 +1,6 @@
 # jeffweisbein/openclaw-starter-kit
 
-[![Stars](https://img.shields.io/github/stars/jeffweisbein/openclaw-starter-kit?style=flat-square&color=yellow)](https://github.com/jeffweisbein/openclaw-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/jeffweisbein/openclaw-starter-kit?style=flat-square&color=blue)](https://github.com/jeffweisbein/openclaw-starter-kit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeffweisbein/openclaw-starter-kit?style=flat-square&color=yellow)](https://github.com/jeffweisbein/openclaw-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/jeffweisbein/openclaw-starter-kit?style=flat-square&color=blue)](https://github.com/jeffweisbein/openclaw-starter-kit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent personality, memory, and autonomy. Ready-to-use workspace template for OpenClaw.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ jeffweisbein/openclaw-starter-kit是一个开源项目，旨在为开发者提�
 | forks | 29/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

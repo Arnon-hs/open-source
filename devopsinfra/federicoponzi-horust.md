@@ -1,6 +1,6 @@
 # FedericoPonzi/Horust
 
-[![Stars](https://img.shields.io/github/stars/FedericoPonzi/Horust?style=flat-square&color=yellow)](https://github.com/FedericoPonzi/Horust/stargazers) [![Forks](https://img.shields.io/github/forks/FedericoPonzi/Horust?style=flat-square&color=blue)](https://github.com/FedericoPonzi/Horust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FedericoPonzi/Horust?style=flat-square&color=yellow)](https://github.com/FedericoPonzi/Horust/stargazers) [![Forks](https://img.shields.io/github/forks/FedericoPonzi/Horust?style=flat-square&color=blue)](https://github.com/FedericoPonzi/Horust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Horust is a supervisor / init system written in rust and designed to run inside containers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Horust 的生产可用性评估为中等（Medium）。它适合用于内部工�
 | forks | 36/100 |
 | stars | 52/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

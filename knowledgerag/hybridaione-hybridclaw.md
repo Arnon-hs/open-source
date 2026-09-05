@@ -1,6 +1,6 @@
 # HybridAIOne/hybridclaw
 
-[![Stars](https://img.shields.io/github/stars/HybridAIOne/hybridclaw?style=flat-square&color=yellow)](https://github.com/HybridAIOne/hybridclaw/stargazers) [![Forks](https://img.shields.io/github/forks/HybridAIOne/hybridclaw?style=flat-square&color=blue)](https://github.com/HybridAIOne/hybridclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HybridAIOne/hybridclaw?style=flat-square&color=yellow)](https://github.com/HybridAIOne/hybridclaw/stargazers) [![Forks](https://img.shields.io/github/forks/HybridAIOne/hybridclaw?style=flat-square&color=blue)](https://github.com/HybridAIOne/hybridclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ HybridAIOne/hybridclaw 为企业提供一套可自托管的 AI 助手运行时�
 | forks | 27/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 544 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Observability
+Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -111,7 +111,7 @@ Elastic APM 服务器项目（elastic/apm-server）是一款开源产品，帮�
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

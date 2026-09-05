@@ -1,6 +1,6 @@
 # aros-development-team/AROS
 
-[![Stars](https://img.shields.io/github/stars/aros-development-team/AROS?style=flat-square&color=yellow)](https://github.com/aros-development-team/AROS/stargazers) [![Forks](https://img.shields.io/github/forks/aros-development-team/AROS?style=flat-square&color=blue)](https://github.com/aros-development-team/AROS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aros-development-team/AROS?style=flat-square&color=yellow)](https://github.com/aros-development-team/AROS/stargazers) [![Forks](https://img.shields.io/github/forks/aros-development-team/AROS?style=flat-square&color=blue)](https://github.com/aros-development-team/AROS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Main AROS repository for active development. Contains the main Operating System components and Build System.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ AROS（AmigaOS‑like Runtime Operating System）是一个完整的开源操作�
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

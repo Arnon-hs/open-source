@@ -1,6 +1,6 @@
 # iart-ai/motion-skills
 
-[![Stars](https://img.shields.io/github/stars/iart-ai/motion-skills?style=flat-square&color=yellow)](https://github.com/iart-ai/motion-skills/stargazers) [![Forks](https://img.shields.io/github/forks/iart-ai/motion-skills?style=flat-square&color=blue)](https://github.com/iart-ai/motion-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iart-ai/motion-skills?style=flat-square&color=yellow)](https://github.com/iart-ai/motion-skills/stargazers) [![Forks](https://img.shields.io/github/forks/iart-ai/motion-skills?style=flat-square&color=blue)](https://github.com/iart-ai/motion-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · AI/ML · Design
+Video Editing · AI/ML · Games & Graphics · Design
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ iart-ai/motion-skills 的价值在于，它可以帮助您在不从头开始搭�
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

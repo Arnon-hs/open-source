@@ -1,6 +1,6 @@
 # sourcegraph/zoekt
 
-[![Stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=flat-square&color=yellow)](https://github.com/sourcegraph/zoekt/stargazers) [![Forks](https://img.shields.io/github/forks/sourcegraph/zoekt?style=flat-square&color=blue)](https://github.com/sourcegraph/zoekt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=flat-square&color=yellow)](https://github.com/sourcegraph/zoekt/stargazers) [![Forks](https://img.shields.io/github/forks/sourcegraph/zoekt?style=flat-square&color=blue)](https://github.com/sourcegraph/zoekt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Fast trigram based code search
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ sourcegraph/zoekt：sourcegraph/zoekt helps teams reuse service infrastructure i
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 13/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

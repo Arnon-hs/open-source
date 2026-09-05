@@ -1,6 +1,6 @@
 # sear-chat/SearChat
 
-[![Stars](https://img.shields.io/github/stars/sear-chat/SearChat?style=flat-square&color=yellow)](https://github.com/sear-chat/SearChat/stargazers) [![Forks](https://img.shields.io/github/forks/sear-chat/SearChat?style=flat-square&color=blue)](https://github.com/sear-chat/SearChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sear-chat/SearChat?style=flat-square&color=yellow)](https://github.com/sear-chat/SearChat/stargazers) [![Forks](https://img.shields.io/github/forks/sear-chat/SearChat?style=flat-square&color=blue)](https://github.com/sear-chat/SearChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · DevOps/Infra
+MCP · Knowledge/RAG · AI/ML · Communication · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ SearChat 将大语言模型的对话能力与实时网络搜索、深度文献�
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 56/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

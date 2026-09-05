@@ -1,6 +1,6 @@
 # nikolaizombie1/waytrogen
 
-[![Stars](https://img.shields.io/github/stars/nikolaizombie1/waytrogen?style=flat-square&color=yellow)](https://github.com/nikolaizombie1/waytrogen/stargazers) [![Forks](https://img.shields.io/github/forks/nikolaizombie1/waytrogen?style=flat-square&color=blue)](https://github.com/nikolaizombie1/waytrogen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikolaizombie1/waytrogen?style=flat-square&color=yellow)](https://github.com/nikolaizombie1/waytrogen/stargazers) [![Forks](https://img.shields.io/github/forks/nikolaizombie1/waytrogen?style=flat-square&color=blue)](https://github.com/nikolaizombie1/waytrogen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A lightning fast wallpaper setter for Wayland
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Waytrogen（nikolaizombie1/waytrogen）是一款基于 Rust 编写的超高速 W
 | forks | 24/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 45/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

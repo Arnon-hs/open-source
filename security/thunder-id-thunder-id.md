@@ -1,6 +1,6 @@
 # thunder-id/thunder-id
 
-[![Stars](https://img.shields.io/github/stars/thunder-id/thunder-id?style=flat-square&color=yellow)](https://github.com/thunder-id/thunder-id/stargazers) [![Forks](https://img.shields.io/github/forks/thunder-id/thunder-id?style=flat-square&color=blue)](https://github.com/thunder-id/thunder-id/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thunder-id/thunder-id?style=flat-square&color=yellow)](https://github.com/thunder-id/thunder-id/stargazers) [![Forks](https://img.shields.io/github/forks/thunder-id/thunder-id?style=flat-square&color=blue)](https://github.com/thunder-id/thunder-id/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Thunder is a Go based Identity and Access Management product by WSO2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Security · Product
+Security
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Thunder 是 WSO2 基于 Go 语言实现的身份与访问管理（IAM）系统�
 | forks | 62/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

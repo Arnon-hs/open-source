@@ -1,6 +1,6 @@
 # hhoao/huji
 
-[![Stars](https://img.shields.io/github/stars/hhoao/huji?style=flat-square&color=yellow)](https://github.com/hhoao/huji/stargazers) [![Forks](https://img.shields.io/github/forks/hhoao/huji?style=flat-square&color=blue)](https://github.com/hhoao/huji/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hhoao/huji?style=flat-square&color=yellow)](https://github.com/hhoao/huji/stargazers) [![Forks](https://img.shields.io/github/forks/hhoao/huji?style=flat-square&color=blue)](https://github.com/hhoao/huji/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 弧迹是一个跨平台的AI运动视频自动剪辑软件，它用于自动检测乒乓球、羽毛球比赛中的精彩回合，去除捡球等冗余片段，输出精简的比赛集锦。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ hhoao/huji 是一款跨平台 AI 运动视频自动剪辑软件，能够自动�
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

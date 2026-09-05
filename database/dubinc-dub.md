@@ -1,6 +1,6 @@
 # dubinc/dub
 
-[![Stars](https://img.shields.io/github/stars/dubinc/dub?style=flat-square&color=yellow)](https://github.com/dubinc/dub/stargazers) [![Forks](https://img.shields.io/github/forks/dubinc/dub?style=flat-square&color=blue)](https://github.com/dubinc/dub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dubinc/dub?style=flat-square&color=yellow)](https://github.com/dubinc/dub/stargazers) [![Forks](https://img.shields.io/github/forks/dubinc/dub?style=flat-square&color=blue)](https://github.com/dubinc/dub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.5k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ dubinc/dub 是一款面向现代营销团队的链接归因平台，已被 Frame
 | forks | 87/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 76/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

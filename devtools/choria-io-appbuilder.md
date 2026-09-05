@@ -1,6 +1,6 @@
 # choria-io/appbuilder
 
-[![Stars](https://img.shields.io/github/stars/choria-io/appbuilder?style=flat-square&color=yellow)](https://github.com/choria-io/appbuilder/stargazers) [![Forks](https://img.shields.io/github/forks/choria-io/appbuilder?style=flat-square&color=blue)](https://github.com/choria-io/appbuilder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/choria-io/appbuilder?style=flat-square&color=yellow)](https://github.com/choria-io/appbuilder/stargazers) [![Forks](https://img.shields.io/github/forks/choria-io/appbuilder?style=flat-square&color=blue)](https://github.com/choria-io/appbuilder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Tool to create friendly wrapping command lines over operations tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ choria-io/appbuilder is a Go‑based dev‑tool that lets teams quickly generate
 | forks | 15/100 |
 | stars | 44/100 |
 | topics | 38/100 |
-| outlook | 44/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

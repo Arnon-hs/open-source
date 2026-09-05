@@ -1,6 +1,6 @@
 # Yaxin9Luo/AutoDesign
 
-[![Stars](https://img.shields.io/github/stars/Yaxin9Luo/AutoDesign?style=flat-square&color=yellow)](https://github.com/Yaxin9Luo/AutoDesign/stargazers) [![Forks](https://img.shields.io/github/forks/Yaxin9Luo/AutoDesign?style=flat-square&color=blue)](https://github.com/Yaxin9Luo/AutoDesign/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yaxin9Luo/AutoDesign?style=flat-square&color=yellow)](https://github.com/Yaxin9Luo/AutoDesign/stargazers) [![Forks](https://img.shields.io/github/forks/Yaxin9Luo/AutoDesign?style=flat-square&color=blue)](https://github.com/Yaxin9Luo/AutoDesign/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source design agent and harness, better than Claude Design on academic communication artifacts production. This DesignHarness can also be used with any coding harness you like ( Codex/Claude Code/Kimi Code/Pi/OpenCode etc..) and any agentic model you want.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design · Product
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ Yaxin9Luo/AutoDesign 的生产可用性为中等（Medium）。它适合用于�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

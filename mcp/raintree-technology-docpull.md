@@ -1,6 +1,6 @@
 # raintree-technology/docpull
 
-[![Stars](https://img.shields.io/github/stars/raintree-technology/docpull?style=flat-square&color=yellow)](https://github.com/raintree-technology/docpull/stargazers) [![Forks](https://img.shields.io/github/forks/raintree-technology/docpull?style=flat-square&color=blue)](https://github.com/raintree-technology/docpull/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raintree-technology/docpull?style=flat-square&color=yellow)](https://github.com/raintree-technology/docpull/stargazers) [![Forks](https://img.shields.io/github/forks/raintree-technology/docpull?style=flat-square&color=blue)](https://github.com/raintree-technology/docpull/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Convert the public web into AI-ready Markdown with a local Python CLI/SDK/MCP crawler.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -103,11 +103,11 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # owasp-noir/noir
 
-[![Stars](https://img.shields.io/github/stars/owasp-noir/noir?style=flat-square&color=yellow)](https://github.com/owasp-noir/noir/stargazers) [![Forks](https://img.shields.io/github/forks/owasp-noir/noir?style=flat-square&color=blue)](https://github.com/owasp-noir/noir/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owasp-noir/noir?style=flat-square&color=yellow)](https://github.com/owasp-noir/noir/stargazers) [![Forks](https://img.shields.io/github/forks/owasp-noir/noir?style=flat-square&color=blue)](https://github.com/owasp-noir/noir/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Crystal |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ OWASP Noir（owasp-noir/noir）是一款基于 Crystal 的安全开发工具�
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

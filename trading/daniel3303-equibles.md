@@ -1,6 +1,6 @@
 # daniel3303/Equibles
 
-[![Stars](https://img.shields.io/github/stars/daniel3303/Equibles?style=flat-square&color=yellow)](https://github.com/daniel3303/Equibles/stargazers) [![Forks](https://img.shields.io/github/forks/daniel3303/Equibles?style=flat-square&color=blue)](https://github.com/daniel3303/Equibles/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daniel3303/Equibles?style=flat-square&color=yellow)](https://github.com/daniel3303/Equibles/stargazers) [![Forks](https://img.shields.io/github/forks/daniel3303/Equibles?style=flat-square&color=blue)](https://github.com/daniel3303/Equibles/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Equibles（daniel3303/Equibles）是一个开源、可自托管的轻量级 Bloo
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

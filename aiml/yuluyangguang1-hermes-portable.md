@@ -1,6 +1,6 @@
 # yuluyangguang1/hermes-portable
 
-[![Stars](https://img.shields.io/github/stars/yuluyangguang1/hermes-portable?style=flat-square&color=yellow)](https://github.com/yuluyangguang1/hermes-portable/stargazers) [![Forks](https://img.shields.io/github/forks/yuluyangguang1/hermes-portable?style=flat-square&color=blue)](https://github.com/yuluyangguang1/hermes-portable/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuluyangguang1/hermes-portable?style=flat-square&color=yellow)](https://github.com/yuluyangguang1/hermes-portable/stargazers) [![Forks](https://img.shields.io/github/forks/yuluyangguang1/hermes-portable?style=flat-square&color=blue)](https://github.com/yuluyangguang1/hermes-portable/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > → Plug-in-a-USB AI agent · zero-install, zero-trace, cross-platform · 插上U盘即用的 Hermes Agent 便携版
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ yuluyangguang1/hermes-portable 是一款“即插即用”的 Hermes AI 代理�
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

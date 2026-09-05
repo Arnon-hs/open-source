@@ -1,6 +1,6 @@
 # syswonder/hvisor
 
-[![Stars](https://img.shields.io/github/stars/syswonder/hvisor?style=flat-square&color=yellow)](https://github.com/syswonder/hvisor/stargazers) [![Forks](https://img.shields.io/github/forks/syswonder/hvisor?style=flat-square&color=blue)](https://github.com/syswonder/hvisor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syswonder/hvisor?style=flat-square&color=yellow)](https://github.com/syswonder/hvisor/stargazers) [![Forks](https://img.shields.io/github/forks/syswonder/hvisor?style=flat-square&color=blue)](https://github.com/syswonder/hvisor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > safe type-1 Rust Hypervisor for edge devices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ hvisor 提供了在边缘设备上运行 Type‑1 虚拟化的安全、轻量方
 | forks | 43/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 42/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 44/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

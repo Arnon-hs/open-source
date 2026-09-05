@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Design
+MCP · AI/ML · Documents · DevTools · Data
 
 ## 📝 Summary
 
 ### English
 
-Hasan-Laraib/Mirofy: . Use it for MCP, AI/ML, DevTools, Design. 
+Hasan-Laraib/Mirofy: . Use it for MCP, AI/ML, Documents, DevTools, Data. 
 
 ### Русский
 
-Hasan-Laraib/Mirofy: open-source проект в категориях MCP, AI/ML, DevTools, Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Hasan-Laraib/Mirofy: open-source проект в категориях MCP, AI/ML, Documents, DevTools, Data. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Hasan-Laraib/Mirofy：。适合用于MCP、AI/ML、DevTools、Design。
+Hasan-Laraib/Mirofy：。适合用于MCP、AI/ML、Documents、DevTools、Data。
 
 ## 🧭 Practical evaluation
 
@@ -70,7 +70,7 @@ Hasan-Laraib/Mirofy：。适合用于MCP、AI/ML、DevTools、Design。
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

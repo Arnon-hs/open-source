@@ -1,6 +1,6 @@
 # gowsp/cloud189
 
-[![Stars](https://img.shields.io/github/stars/gowsp/cloud189?style=flat-square&color=yellow)](https://github.com/gowsp/cloud189/stargazers) [![Forks](https://img.shields.io/github/forks/gowsp/cloud189?style=flat-square&color=blue)](https://github.com/gowsp/cloud189/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gowsp/cloud189?style=flat-square&color=yellow)](https://github.com/gowsp/cloud189/stargazers) [![Forks](https://img.shields.io/github/forks/gowsp/cloud189?style=flat-square&color=blue)](https://github.com/gowsp/cloud189/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 基于天翼云接口的go客户端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ gowsp/cloud189 是一个基于天翼云接口的 Go 客户端，旨在帮助内�
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

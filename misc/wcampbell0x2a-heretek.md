@@ -1,6 +1,6 @@
 # wcampbell0x2a/heretek
 
-[![Stars](https://img.shields.io/github/stars/wcampbell0x2a/heretek?style=flat-square&color=yellow)](https://github.com/wcampbell0x2a/heretek/stargazers) [![Forks](https://img.shields.io/github/forks/wcampbell0x2a/heretek?style=flat-square&color=blue)](https://github.com/wcampbell0x2a/heretek/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wcampbell0x2a/heretek?style=flat-square&color=yellow)](https://github.com/wcampbell0x2a/heretek/stargazers) [![Forks](https://img.shields.io/github/forks/wcampbell0x2a/heretek?style=flat-square&color=blue)](https://github.com/wcampbell0x2a/heretek/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > GDB TUI Dashboard for the understanding of vast knowledge
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ heretek 的生产可用性为中等水平。由于其依赖关系和维护成本
 | forks | 25/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

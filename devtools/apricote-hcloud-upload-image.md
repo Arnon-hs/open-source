@@ -1,6 +1,6 @@
 # apricote/hcloud-upload-image
 
-[![Stars](https://img.shields.io/github/stars/apricote/hcloud-upload-image?style=flat-square&color=yellow)](https://github.com/apricote/hcloud-upload-image/stargazers) [![Forks](https://img.shields.io/github/forks/apricote/hcloud-upload-image?style=flat-square&color=blue)](https://github.com/apricote/hcloud-upload-image/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apricote/hcloud-upload-image?style=flat-square&color=yellow)](https://github.com/apricote/hcloud-upload-image/stargazers) [![Forks](https://img.shields.io/github/forks/apricote/hcloud-upload-image?style=flat-square&color=blue)](https://github.com/apricote/hcloud-upload-image/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Quickly upload any raw disk images into your Hetzner Cloud projects!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ apricote/hcloud‑upload‑image 是一款用 Go 编写的轻量工具，能够�
 | forks | 28/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 48/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # frankbria/ralph-claude-code
 
-[![Stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=flat-square&color=yellow)](https://github.com/frankbria/ralph-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/frankbria/ralph-claude-code?style=flat-square&color=blue)](https://github.com/frankbria/ralph-claude-code/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=flat-square&color=yellow)](https://github.com/frankbria/ralph-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/frankbria/ralph-claude-code?style=flat-square&color=blue)](https://github.com/frankbria/ralph-claude-code/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI development loop for Claude Code with intelligent exit detection
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 726 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ frankbria/ralph-claude-code的生产可用性比较高。它有强大的社区�
 | forks | 72/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 88/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

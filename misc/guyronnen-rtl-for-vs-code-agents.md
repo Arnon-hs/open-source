@@ -1,6 +1,6 @@
 # GuyRonnen/rtl-for-vs-code-agents
 
-[![Stars](https://img.shields.io/github/stars/GuyRonnen/rtl-for-vs-code-agents?style=flat-square&color=yellow)](https://github.com/GuyRonnen/rtl-for-vs-code-agents/stargazers) [![Forks](https://img.shields.io/github/forks/GuyRonnen/rtl-for-vs-code-agents?style=flat-square&color=blue)](https://github.com/GuyRonnen/rtl-for-vs-code-agents/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GuyRonnen/rtl-for-vs-code-agents?style=flat-square&color=yellow)](https://github.com/GuyRonnen/rtl-for-vs-code-agents/stargazers) [![Forks](https://img.shields.io/github/forks/GuyRonnen/rtl-for-vs-code-agents?style=flat-square&color=blue)](https://github.com/GuyRonnen/rtl-for-vs-code-agents/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Native-like RTL support for VS Code AI Agents (i.e. GitHub Copilot) with proper LTR code block formatting. Optimized for Hebrew, Arabic, and Persian.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ GuyRonnen/rtl‑for‑vs‑code‑agents 为 VS Code 中的 AI 代码助手（
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 37/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 40/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

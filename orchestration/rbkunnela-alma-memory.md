@@ -1,6 +1,6 @@
 # RBKunnela/ALMA-memory
 
-[![Stars](https://img.shields.io/github/stars/RBKunnela/ALMA-memory?style=flat-square&color=yellow)](https://github.com/RBKunnela/ALMA-memory/stargazers) [![Forks](https://img.shields.io/github/forks/RBKunnela/ALMA-memory?style=flat-square&color=blue)](https://github.com/RBKunnela/ALMA-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RBKunnela/ALMA-memory?style=flat-square&color=yellow)](https://github.com/RBKunnela/ALMA-memory/stargazers) [![Forks](https://img.shields.io/github/forks/RBKunnela/ALMA-memory?style=flat-square&color=blue)](https://github.com/RBKunnela/ALMA-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory for AI agents - Learn, remember, improve.   Alternative to Mem0 with scoped learning, anti-patterns,   multi-agent sharing, and MCP integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ RBKunnela/ALMA‑memory 为 AI 代理提供持久化记忆能力，支持 scoped
 | forks | 31/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

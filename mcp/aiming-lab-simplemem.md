@@ -1,6 +1,6 @@
 # aiming-lab/SimpleMem
 
-[![Stars](https://img.shields.io/github/stars/aiming-lab/SimpleMem?style=flat-square&color=yellow)](https://github.com/aiming-lab/SimpleMem/stargazers) [![Forks](https://img.shields.io/github/forks/aiming-lab/SimpleMem?style=flat-square&color=blue)](https://github.com/aiming-lab/SimpleMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiming-lab/SimpleMem?style=flat-square&color=yellow)](https://github.com/aiming-lab/SimpleMem/stargazers) [![Forks](https://img.shields.io/github/forks/aiming-lab/SimpleMem?style=flat-square&color=blue)](https://github.com/aiming-lab/SimpleMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 365 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ SimpleMem（aiming‑lab/SimpleMem）是一套面向大语言模型（LLM）代�
 | forks | 64/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

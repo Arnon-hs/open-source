@@ -1,6 +1,6 @@
 # YauhenKavalchuk/interview-questions
 
-[![Stars](https://img.shields.io/github/stars/YauhenKavalchuk/interview-questions?style=flat-square&color=yellow)](https://github.com/YauhenKavalchuk/interview-questions/stargazers) [![Forks](https://img.shields.io/github/forks/YauhenKavalchuk/interview-questions?style=flat-square&color=blue)](https://github.com/YauhenKavalchuk/interview-questions/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YauhenKavalchuk/interview-questions?style=flat-square&color=yellow)](https://github.com/YauhenKavalchuk/interview-questions/stargazers) [![Forks](https://img.shields.io/github/forks/YauhenKavalchuk/interview-questions?style=flat-square&color=blue)](https://github.com/YauhenKavalchuk/interview-questions/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Популярные HTML / CSS / JavaScript / ECMAScript / TypeScript / React / Vue / Angular / Node вопросы на интервью и ответы на них (https://tinyurl.com/wxysrpsy)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 596 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Security
+Frontend · Backend · Security
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ YauhenKavalchuk/interview-questions 汇总了前端、后端以及 TypeScript/Re
 | forks | 69/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

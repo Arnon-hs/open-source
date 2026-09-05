@@ -1,6 +1,6 @@
 # Jacobtims/filament-breezy
 
-[![Stars](https://img.shields.io/github/stars/Jacobtims/filament-breezy?style=flat-square&color=yellow)](https://github.com/Jacobtims/filament-breezy/stargazers) [![Forks](https://img.shields.io/github/forks/Jacobtims/filament-breezy?style=flat-square&color=blue)](https://github.com/Jacobtims/filament-breezy/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jacobtims/filament-breezy?style=flat-square&color=yellow)](https://github.com/Jacobtims/filament-breezy/stargazers) [![Forks](https://img.shields.io/github/forks/Jacobtims/filament-breezy?style=flat-square&color=blue)](https://github.com/Jacobtims/filament-breezy/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Filament plugin for customizable profile page, two factor authentication & Sanctum token management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Jacobtims/filament-breezy 的生产可用性为中等。由于其主要用于 Pr
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

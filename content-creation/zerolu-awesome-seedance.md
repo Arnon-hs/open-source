@@ -1,6 +1,6 @@
 # ZeroLu/awesome-seedance
 
-[![Stars](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=flat-square&color=yellow)](https://github.com/ZeroLu/awesome-seedance/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroLu/awesome-seedance?style=flat-square&color=blue)](https://github.com/ZeroLu/awesome-seedance/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=flat-square&color=yellow)](https://github.com/ZeroLu/awesome-seedance/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroLu/awesome-seedance?style=flat-square&color=blue)](https://github.com/ZeroLu/awesome-seedance/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 231 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ ZeroLu/awesome‑seedance 汇集了高保真 Seedance 2.0 Prompt、API 文档�
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

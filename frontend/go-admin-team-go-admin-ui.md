@@ -1,6 +1,6 @@
 # go-admin-team/go-admin-ui
 
-[![Stars](https://img.shields.io/github/stars/go-admin-team/go-admin-ui?style=flat-square&color=yellow)](https://github.com/go-admin-team/go-admin-ui/stargazers) [![Forks](https://img.shields.io/github/forks/go-admin-team/go-admin-ui?style=flat-square&color=blue)](https://github.com/go-admin-team/go-admin-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-admin-team/go-admin-ui?style=flat-square&color=yellow)](https://github.com/go-admin-team/go-admin-ui/stargazers) [![Forks](https://img.shields.io/github/forks/go-admin-team/go-admin-ui?style=flat-square&color=blue)](https://github.com/go-admin-team/go-admin-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统的前端模块
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 782 |
+| 🍴 **Forks** | 781 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,39 +27,33 @@ Frontend · Design
 
 ### English
 
-go-admin-team/go-admin-ui: go-admin-team/go-admin-ui helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+go-admin-team/go-admin-ui: . Use it for Frontend, Design. 
 
 ### Русский
 
-go-admin-team/go-admin-ui: open-source проект в категориях Frontend, Design. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+go-admin-team/go-admin-ui: open-source проект в категориях Frontend, Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-go-admin-team/go-admin-ui：go-admin-team/go-admin-ui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+go-admin-team/go-admin-ui：。适合用于Frontend、Design。
 
 ## 🧭 Practical evaluation
 
-**Value:** go-admin-team/go-admin-ui helps ship user-facing interfaces with less custom UI work.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- build product UI faster
-- reuse interface components
-- improve frontend delivery
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1325 GitHub stars
-- 782 forks
-- updated 2026-08-23
-- primary language: Vue
-- 7 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
@@ -68,14 +62,15 @@ go-admin-team/go-admin-ui：go-admin-team/go-admin-ui helps ship user-facing int
 | forks | 72/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

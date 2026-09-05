@@ -1,6 +1,6 @@
 # vue-mini/vue-mini
 
-[![Stars](https://img.shields.io/github/stars/vue-mini/vue-mini?style=flat-square&color=yellow)](https://github.com/vue-mini/vue-mini/stargazers) [![Forks](https://img.shields.io/github/forks/vue-mini/vue-mini?style=flat-square&color=blue)](https://github.com/vue-mini/vue-mini/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vue-mini/vue-mini?style=flat-square&color=yellow)](https://github.com/vue-mini/vue-mini/stargazers) [![Forks](https://img.shields.io/github/forks/vue-mini/vue-mini?style=flat-square&color=blue)](https://github.com/vue-mini/vue-mini/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 Vue 3 的小程序框架。简单，强大，高性能。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ vue-mini/vue-mini 的生产可用性评级为中等（Medium）。它适合用�
 | forks | 49/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

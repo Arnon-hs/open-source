@@ -1,6 +1,6 @@
 # alfadur7/llm-wiki-newsroom
 
-[![Stars](https://img.shields.io/github/stars/alfadur7/llm-wiki-newsroom?style=flat-square&color=yellow)](https://github.com/alfadur7/llm-wiki-newsroom/stargazers) [![Forks](https://img.shields.io/github/forks/alfadur7/llm-wiki-newsroom?style=flat-square&color=blue)](https://github.com/alfadur7/llm-wiki-newsroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alfadur7/llm-wiki-newsroom?style=flat-square&color=yellow)](https://github.com/alfadur7/llm-wiki-newsroom/stargazers) [![Forks](https://img.shields.io/github/forks/alfadur7/llm-wiki-newsroom?style=flat-square&color=blue)](https://github.com/alfadur7/llm-wiki-newsroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving multi-agent "newsroom" that turns your documents into a cross-linked knowledge wiki — writer ≠ reviewer, local-first, no API keys, a structured alternative to RAG.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ alfadur7/llm-wiki-newsroom 帮助将孤立的提示和工具转换成可重复�
 | forks | 26/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

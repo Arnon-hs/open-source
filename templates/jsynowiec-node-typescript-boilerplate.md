@@ -1,6 +1,6 @@
 # jsynowiec/node-typescript-boilerplate
 
-[![Stars](https://img.shields.io/github/stars/jsynowiec/node-typescript-boilerplate?style=flat-square&color=yellow)](https://github.com/jsynowiec/node-typescript-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/jsynowiec/node-typescript-boilerplate?style=flat-square&color=blue)](https://github.com/jsynowiec/node-typescript-boilerplate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jsynowiec/node-typescript-boilerplate?style=flat-square&color=yellow)](https://github.com/jsynowiec/node-typescript-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/jsynowiec/node-typescript-boilerplate?style=flat-square&color=blue)](https://github.com/jsynowiec/node-typescript-boilerplate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready Node.js TypeScript boilerplate: ESM, Vitest, ESLint, Prettier, GitHub Actions, Mise, and AGENTS.md included.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 566 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Backend · Education
+Templates · Cloud & Storage · Backend · Education
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ jsynowiec/node-typescript-boilerplate 的生产可用性非常高。该项目最
 | forks | 69/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # podman-container-tools/buildah
 
-[![Stars](https://img.shields.io/github/stars/podman-container-tools/buildah?style=flat-square&color=yellow)](https://github.com/podman-container-tools/buildah/stargazers) [![Forks](https://img.shields.io/github/forks/podman-container-tools/buildah?style=flat-square&color=blue)](https://github.com/podman-container-tools/buildah/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/podman-container-tools/buildah?style=flat-square&color=yellow)](https://github.com/podman-container-tools/buildah/stargazers) [![Forks](https://img.shields.io/github/forks/podman-container-tools/buildah?style=flat-square&color=blue)](https://github.com/podman-container-tools/buildah/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A tool that facilitates building OCI images.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 916 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Buildah 在生产环境中的可用性很高，因为它有以下优势：
 | forks | 74/100 |
 | stars | 84/100 |
 | topics | 88/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 62/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

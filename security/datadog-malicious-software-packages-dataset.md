@@ -1,6 +1,6 @@
 # DataDog/malicious-software-packages-dataset
 
-[![Stars](https://img.shields.io/github/stars/DataDog/malicious-software-packages-dataset?style=flat-square&color=yellow)](https://github.com/DataDog/malicious-software-packages-dataset/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/malicious-software-packages-dataset?style=flat-square&color=blue)](https://github.com/DataDog/malicious-software-packages-dataset/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataDog/malicious-software-packages-dataset?style=flat-square&color=yellow)](https://github.com/DataDog/malicious-software-packages-dataset/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/malicious-software-packages-dataset?style=flat-square&color=blue)](https://github.com/DataDog/malicious-software-packages-dataset/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source dataset of malicious software packages found in the wild, 100% vetted by humans.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ DataDog/malicious-software-packages-dataset 的生产可用性为中等（Medium
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

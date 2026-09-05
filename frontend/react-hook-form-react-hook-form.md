@@ -1,6 +1,6 @@
 # react-hook-form/react-hook-form
 
-[![Stars](https://img.shields.io/github/stars/react-hook-form/react-hook-form?style=flat-square&color=yellow)](https://github.com/react-hook-form/react-hook-form/stargazers) [![Forks](https://img.shields.io/github/forks/react-hook-form/react-hook-form?style=flat-square&color=blue)](https://github.com/react-hook-form/react-hook-form/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/react-hook-form/react-hook-form?style=flat-square&color=yellow)](https://github.com/react-hook-form/react-hook-form/stargazers) [![Forks](https://img.shields.io/github/forks/react-hook-form/react-hook-form?style=flat-square&color=blue)](https://github.com/react-hook-form/react-hook-form/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 📋 React Hooks for form state management and validation (Web + React Native)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44.8k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ react-hook-form 是基于 React Hooks 的表单状态管理与校验库，兼容
 | forks | 85/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 83/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 95/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

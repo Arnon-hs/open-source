@@ -1,6 +1,6 @@
 # Warma10032/cyber-doctor
 
-[![Stars](https://img.shields.io/github/stars/Warma10032/cyber-doctor?style=flat-square&color=yellow)](https://github.com/Warma10032/cyber-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/Warma10032/cyber-doctor?style=flat-square&color=blue)](https://github.com/Warma10032/cyber-doctor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Warma10032/cyber-doctor?style=flat-square&color=yellow)](https://github.com/Warma10032/cyber-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/Warma10032/cyber-doctor?style=flat-square&color=blue)](https://github.com/Warma10032/cyber-doctor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 赛博医生项目——”赛博华佗“，基于多模态大模型的多功能智能体，一键搭建本地多模态大模型。接入医疗健康相关的知识图谱和知识库后可以进行疾病初诊，病历分析，专业知识问答等功能，成为你的私人医生。赛博华佗项目能帮助实现医疗资源的跨地域传播，让更多人借助大模型改善健康水平。"Cyber ​​Huatuo" - Easy to build a personal doctor agent based on LLM and Knowledge Graph/Knowledge Database.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Cyber Doctor demonstrates high production readiness, with recent activity, adopt
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

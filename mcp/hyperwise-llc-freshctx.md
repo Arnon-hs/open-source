@@ -1,6 +1,6 @@
 # Hyperwise-LLC/freshctx
 
-[![Stars](https://img.shields.io/github/stars/Hyperwise-LLC/freshctx?style=flat-square&color=yellow)](https://github.com/Hyperwise-LLC/freshctx/stargazers) [![Forks](https://img.shields.io/github/forks/Hyperwise-LLC/freshctx?style=flat-square&color=blue)](https://github.com/Hyperwise-LLC/freshctx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hyperwise-LLC/freshctx?style=flat-square&color=yellow)](https://github.com/Hyperwise-LLC/freshctx/stargazers) [![Forks](https://img.shields.io/github/forks/Hyperwise-LLC/freshctx?style=flat-square&color=blue)](https://github.com/Hyperwise-LLC/freshctx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Freshness enforcement for AI agent observations and reasoning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-28 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ Hyperwise-LLC/freshctx：Hyperwise-LLC/freshctx helps connect AI assistants to r
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

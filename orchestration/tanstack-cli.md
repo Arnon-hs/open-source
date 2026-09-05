@@ -1,6 +1,6 @@
 # TanStack/cli
 
-[![Stars](https://img.shields.io/github/stars/TanStack/cli?style=flat-square&color=yellow)](https://github.com/TanStack/cli/stargazers) [![Forks](https://img.shields.io/github/forks/TanStack/cli?style=flat-square&color=blue)](https://github.com/TanStack/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TanStack/cli?style=flat-square&color=yellow)](https://github.com/TanStack/cli/stargazers) [![Forks](https://img.shields.io/github/forks/TanStack/cli?style=flat-square&color=blue)](https://github.com/TanStack/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The official TanStack CLI - Project Scaffolding, MCP Server, Agent Skills Installation, etc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ TanStack/cli 是 TanStack 官方推出的全栈 CLI 工具，提供项目脚手�
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

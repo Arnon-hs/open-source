@@ -1,6 +1,6 @@
 # RykoTheDev/GodotHub
 
-[![Stars](https://img.shields.io/github/stars/RykoTheDev/GodotHub?style=flat-square&color=yellow)](https://github.com/RykoTheDev/GodotHub/stargazers) [![Forks](https://img.shields.io/github/forks/RykoTheDev/GodotHub?style=flat-square&color=blue)](https://github.com/RykoTheDev/GodotHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RykoTheDev/GodotHub?style=flat-square&color=yellow)](https://github.com/RykoTheDev/GodotHub/stargazers) [![Forks](https://img.shields.io/github/forks/RykoTheDev/GodotHub?style=flat-square&color=blue)](https://github.com/RykoTheDev/GodotHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > What if Unity Hub and Github Desktop had a Baby but its Adopted? Yeah..
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 553 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ RykoTheDev/GodotHub 的生产可用性为中等。它适合于 prototyping 或�
 | forks | 32/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

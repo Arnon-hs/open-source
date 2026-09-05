@@ -1,6 +1,6 @@
 # 23Star/xianyu-super-butler
 
-[![Stars](https://img.shields.io/github/stars/23Star/xianyu-super-butler?style=flat-square&color=yellow)](https://github.com/23Star/xianyu-super-butler/stargazers) [![Forks](https://img.shields.io/github/forks/23Star/xianyu-super-butler?style=flat-square&color=blue)](https://github.com/23Star/xianyu-super-butler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/23Star/xianyu-super-butler?style=flat-square&color=yellow)](https://github.com/23Star/xianyu-super-butler/stargazers) [![Forks](https://img.shields.io/github/forks/23Star/xianyu-super-butler?style=flat-square&color=blue)](https://github.com/23Star/xianyu-super-butler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 660 |
 | 🍴 **Forks** | 504 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ The project has a medium production readiness score, indicating that it is suita
 | forks | 68/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

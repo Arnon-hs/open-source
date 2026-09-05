@@ -1,6 +1,6 @@
 # labring/sealos
 
-[![Stars](https://img.shields.io/github/stars/labring/sealos?style=flat-square&color=yellow)](https://github.com/labring/sealos/stargazers) [![Forks](https://img.shields.io/github/forks/labring/sealos?style=flat-square&color=blue)](https://github.com/labring/sealos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/labring/sealos?style=flat-square&color=yellow)](https://github.com/labring/sealos/stargazers) [![Forks](https://img.shields.io/github/forks/labring/sealos?style=flat-square&color=blue)](https://github.com/labring/sealos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scaling modern AI applications, managed databases (MySQL, PostgreSQL, Redis, MongoDB) and complex microservice architectures.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.1k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Sealos（labring/sealos）是一款基于 Kubernetes 的 AI 原生云操作系�
 | forks | 85/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 80/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 69/100 |
+| production | 82/100 |
 | usefulness | 42/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

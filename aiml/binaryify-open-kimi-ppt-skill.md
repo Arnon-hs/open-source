@@ -1,6 +1,6 @@
 # Binaryify/open-kimi-ppt-skill
 
-[![Stars](https://img.shields.io/github/stars/Binaryify/open-kimi-ppt-skill?style=flat-square&color=yellow)](https://github.com/Binaryify/open-kimi-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Binaryify/open-kimi-ppt-skill?style=flat-square&color=blue)](https://github.com/Binaryify/open-kimi-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Binaryify/open-kimi-ppt-skill?style=flat-square&color=yellow)](https://github.com/Binaryify/open-kimi-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Binaryify/open-kimi-ppt-skill?style=flat-square&color=blue)](https://github.com/Binaryify/open-kimi-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Binaryify/open-kimi-ppt-skill 是一款开源项目，旨在为 AI 代理生成�
 | forks | 63/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

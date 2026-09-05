@@ -1,6 +1,6 @@
 # NikolaiRadke/AI.duino
 
-[![Stars](https://img.shields.io/github/stars/NikolaiRadke/AI.duino?style=flat-square&color=yellow)](https://github.com/NikolaiRadke/AI.duino/stargazers) [![Forks](https://img.shields.io/github/forks/NikolaiRadke/AI.duino?style=flat-square&color=blue)](https://github.com/NikolaiRadke/AI.duino/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NikolaiRadke/AI.duino?style=flat-square&color=yellow)](https://github.com/NikolaiRadke/AI.duino/stargazers) [![Forks](https://img.shields.io/github/forks/NikolaiRadke/AI.duino?style=flat-square&color=blue)](https://github.com/NikolaiRadke/AI.duino/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An Arduino AI Assistant. (4A! Yay!). This plugin integrates Claude, ChatGPT, Gemini, LM Studio and more directly into the Arduino IDE.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ NikolaiRadke/AI.duino 是一个 Arduino AI 助手插件，直接集成 Claude、
 | forks | 25/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

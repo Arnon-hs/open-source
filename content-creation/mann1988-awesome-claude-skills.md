@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · AI/ML · Backend · DevTools
+Content Creation · AI/ML · Productivity · Backend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Mann1988/awesome-claude-skills：Mann1988/awesome-claude-skills helps creators r
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

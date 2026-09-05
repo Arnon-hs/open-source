@@ -1,6 +1,6 @@
 # nflverse/nfldata
 
-[![Stars](https://img.shields.io/github/stars/nflverse/nfldata?style=flat-square&color=yellow)](https://github.com/nflverse/nfldata/stargazers) [![Forks](https://img.shields.io/github/forks/nflverse/nfldata?style=flat-square&color=blue)](https://github.com/nflverse/nfldata/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nflverse/nfldata?style=flat-square&color=yellow)](https://github.com/nflverse/nfldata/stargazers) [![Forks](https://img.shields.io/github/forks/nflverse/nfldata?style=flat-square&color=blue)](https://github.com/nflverse/nfldata/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > NFL Data (by Lee Sharpe)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | R |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ nflverse/nfldata是一款基于R语言的NFL数据处理工具。它能够将原
 | forks | 48/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

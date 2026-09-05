@@ -1,6 +1,6 @@
 # linuxserver/docker-transmission
 
-[![Stars](https://img.shields.io/github/stars/linuxserver/docker-transmission?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-transmission/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-transmission?style=flat-square&color=blue)](https://github.com/linuxserver/docker-transmission/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linuxserver/docker-transmission?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-transmission/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-transmission?style=flat-square&color=blue)](https://github.com/linuxserver/docker-transmission/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 733 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ linuxserver/docker-transmission 的生产可用性为中等（Medium）。它适
 | forks | 58/100 |
 | stars | 61/100 |
 | topics | 13/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

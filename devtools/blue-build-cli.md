@@ -1,6 +1,6 @@
 # blue-build/cli
 
-[![Stars](https://img.shields.io/github/stars/blue-build/cli?style=flat-square&color=yellow)](https://github.com/blue-build/cli/stargazers) [![Forks](https://img.shields.io/github/forks/blue-build/cli?style=flat-square&color=blue)](https://github.com/blue-build/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blue-build/cli?style=flat-square&color=yellow)](https://github.com/blue-build/cli/stargazers) [![Forks](https://img.shields.io/github/forks/blue-build/cli?style=flat-square&color=blue)](https://github.com/blue-build/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ BlueBuild 的 `cli` 是一款用 Rust 编写的命令行工具，能够根据项
 | forks | 37/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

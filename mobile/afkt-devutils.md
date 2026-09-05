@@ -1,6 +1,6 @@
 # afkT/DevUtils
 
-[![Stars](https://img.shields.io/github/stars/afkT/DevUtils?style=flat-square&color=yellow)](https://github.com/afkT/DevUtils/stargazers) [![Forks](https://img.shields.io/github/forks/afkT/DevUtils?style=flat-square&color=blue)](https://github.com/afkT/DevUtils/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/afkT/DevUtils?style=flat-square&color=yellow)](https://github.com/afkT/DevUtils/stargazers) [![Forks](https://img.shields.io/github/forks/afkT/DevUtils?style=flat-square&color=blue)](https://github.com/afkT/DevUtils/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > :fire:  ( 持续更新，目前含 300+ 工具类 ) DevUtils 是一个 Android 工具库，主要根据不同功能模块，封装快捷使用的工具类及 API 方法调用。该项目尽可能的便于开发人员，快捷、高效开发安全可靠的项目。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ DevUtils（afkT/DevUtils）是一套持续更新的 Android 工具库，已收�
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

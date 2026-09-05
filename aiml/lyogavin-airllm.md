@@ -1,6 +1,6 @@
 # lyogavin/airllm
 
-[![Stars](https://img.shields.io/github/stars/lyogavin/airllm?style=flat-square&color=yellow)](https://github.com/lyogavin/airllm/stargazers) [![Forks](https://img.shields.io/github/forks/lyogavin/airllm?style=flat-square&color=blue)](https://github.com/lyogavin/airllm/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lyogavin/airllm?style=flat-square&color=yellow)](https://github.com/lyogavin/airllm/stargazers) [![Forks](https://img.shields.io/github/forks/lyogavin/airllm?style=flat-square&color=blue)](https://github.com/lyogavin/airllm/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AirLLM 70B inference with single 4GB GPU
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.1k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ AirLLM 是一个能够在单块 4 GB GPU 上运行 70 B 参数大模型的�
 | forks | 85/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

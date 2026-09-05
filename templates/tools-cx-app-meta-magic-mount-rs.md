@@ -1,6 +1,6 @@
 # Tools-cx-app/meta-magic_mount-rs
 
-[![Stars](https://img.shields.io/github/stars/Tools-cx-app/meta-magic_mount-rs?style=flat-square&color=yellow)](https://github.com/Tools-cx-app/meta-magic_mount-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Tools-cx-app/meta-magic_mount-rs?style=flat-square&color=blue)](https://github.com/Tools-cx-app/meta-magic_mount-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tools-cx-app/meta-magic_mount-rs?style=flat-square&color=yellow)](https://github.com/Tools-cx-app/meta-magic_mount-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Tools-cx-app/meta-magic_mount-rs?style=flat-square&color=blue)](https://github.com/Tools-cx-app/meta-magic_mount-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Tools‑cx‑app/meta‑magic_mount‑rs 是一个基于 MKSU 的 Magic Mount �
 | forks | 32/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

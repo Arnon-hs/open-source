@@ -1,6 +1,6 @@
 # dhairyagothi/100_days_100_web_project
 
-[![Stars](https://img.shields.io/github/stars/dhairyagothi/100_days_100_web_project?style=flat-square&color=yellow)](https://github.com/dhairyagothi/100_days_100_web_project/stargazers) [![Forks](https://img.shields.io/github/forks/dhairyagothi/100_days_100_web_project?style=flat-square&color=blue)](https://github.com/dhairyagothi/100_days_100_web_project/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dhairyagothi/100_days_100_web_project?style=flat-square&color=yellow)](https://github.com/dhairyagothi/100_days_100_web_project/stargazers) [![Forks](https://img.shields.io/github/forks/dhairyagothi/100_days_100_web_project?style=flat-square&color=blue)](https://github.com/dhairyagothi/100_days_100_web_project/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains 100+ web projects from basic to advanced using html css and js and other web development tech stacks Please star the repo before start working on it
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ dhairyagothi/100_days_100_web_project 收录了 100+ 从入门到进阶的 Web �
 | forks | 79/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

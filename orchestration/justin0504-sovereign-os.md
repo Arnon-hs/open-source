@@ -1,6 +1,6 @@
 # Justin0504/Sovereign-OS
 
-[![Stars](https://img.shields.io/github/stars/Justin0504/Sovereign-OS?style=flat-square&color=yellow)](https://github.com/Justin0504/Sovereign-OS/stargazers) [![Forks](https://img.shields.io/github/forks/Justin0504/Sovereign-OS?style=flat-square&color=blue)](https://github.com/Justin0504/Sovereign-OS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Justin0504/Sovereign-OS?style=flat-square&color=yellow)](https://github.com/Justin0504/Sovereign-OS/stargazers) [![Forks](https://img.shields.io/github/forks/Justin0504/Sovereign-OS?style=flat-square&color=blue)](https://github.com/Justin0504/Sovereign-OS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans → CFO approves → Ledger tracks every cent & token → Auditor scores. 16 workers, Stripe, MCP. Think. Audit. Execute.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Sovereign‑OS 是一个「宪法优先」的 AI 编排平台，使用一份 YAM
 | forks | 27/100 |
 | stars | 42/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

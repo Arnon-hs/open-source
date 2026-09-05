@@ -1,6 +1,6 @@
 # facebook/detr-resnet-50
 
-[![Stars](https://img.shields.io/github/stars/facebook/detr-resnet-50?style=flat-square&color=yellow)](https://huggingface.co/facebook/detr-resnet-50/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/detr-resnet-50?style=flat-square&color=blue)](https://huggingface.co/facebook/detr-resnet-50/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/detr-resnet-50?style=flat-square&color=yellow)](https://huggingface.co/facebook/detr-resnet-50/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/detr-resnet-50?style=flat-square&color=blue)](https://huggingface.co/facebook/detr-resnet-50/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Object detection (object-detection) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 965 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Facebook/detr-resnet-50 是一个流行的开源模型，用于 Hugging Face 的
 | forks | 0/100 |
 | stars | 64/100 |
 | topics | 38/100 |
-| outlook | 38/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 38/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

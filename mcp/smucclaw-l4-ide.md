@@ -1,6 +1,6 @@
 # smucclaw/l4-ide
 
-[![Stars](https://img.shields.io/github/stars/smucclaw/l4-ide?style=flat-square&color=yellow)](https://github.com/smucclaw/l4-ide/stargazers) [![Forks](https://img.shields.io/github/forks/smucclaw/l4-ide?style=flat-square&color=blue)](https://github.com/smucclaw/l4-ide/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smucclaw/l4-ide?style=flat-square&color=yellow)](https://github.com/smucclaw/l4-ide/stargazers) [![Forks](https://img.shields.io/github/forks/smucclaw/l4-ide?style=flat-square&color=blue)](https://github.com/smucclaw/l4-ide/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > L4 - Rules-as-code - is an open-source functional specification language for business rules, legal contracts, and legislation/regulation, with a CNL syntax for isomorphism.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ smucclaw/l4-ide 是 L4 规则即代码（Rules‑as‑code）语言的 IDE 实�
 | forks | 25/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

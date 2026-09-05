@@ -1,6 +1,6 @@
 # raiyanyahya/kit
 
-[![Stars](https://img.shields.io/github/stars/raiyanyahya/kit?style=flat-square&color=yellow)](https://github.com/raiyanyahya/kit/stargazers) [![Forks](https://img.shields.io/github/forks/raiyanyahya/kit?style=flat-square&color=blue)](https://github.com/raiyanyahya/kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raiyanyahya/kit?style=flat-square&color=yellow)](https://github.com/raiyanyahya/kit/stargazers) [![Forks](https://img.shields.io/github/forks/raiyanyahya/kit?style=flat-square&color=blue)](https://github.com/raiyanyahya/kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🏵️ Editor, Browser, Mail, Terminal, Agents. AI at the center.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ raiyanyahya/kit 是一个以 AI 为核心的多功能开发套件，提供编辑
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

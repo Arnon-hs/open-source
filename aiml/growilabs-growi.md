@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevOps/Infra
+AI/ML · Documents · Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ growilabs/growi：growilabs/growi helps add AI capability without starting from 
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

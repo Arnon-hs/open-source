@@ -1,6 +1,6 @@
 # stx-labs/clarinet
 
-[![Stars](https://img.shields.io/github/stars/stx-labs/clarinet?style=flat-square&color=yellow)](https://github.com/stx-labs/clarinet/stargazers) [![Forks](https://img.shields.io/github/forks/stx-labs/clarinet?style=flat-square&color=blue)](https://github.com/stx-labs/clarinet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stx-labs/clarinet?style=flat-square&color=yellow)](https://github.com/stx-labs/clarinet/stargazers) [![Forks](https://img.shields.io/github/forks/stx-labs/clarinet?style=flat-square&color=blue)](https://github.com/stx-labs/clarinet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Write, test and deploy high-quality smart contracts to the Stacks blockchain and Bitcoin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Overall, Clarinet offers a compelling, open‑source way to accelerate Stacks sm
 | forks | 57/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 44/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

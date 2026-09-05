@@ -1,6 +1,6 @@
 # sbondCo/Watcharr
 
-[![Stars](https://img.shields.io/github/stars/sbondCo/Watcharr?style=flat-square&color=yellow)](https://github.com/sbondCo/Watcharr/stargazers) [![Forks](https://img.shields.io/github/forks/sbondCo/Watcharr?style=flat-square&color=blue)](https://github.com/sbondCo/Watcharr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbondCo/Watcharr?style=flat-square&color=yellow)](https://github.com/sbondCo/Watcharr/stargazers) [![Forks](https://img.shields.io/github/forks/sbondCo/Watcharr?style=flat-square&color=blue)](https://github.com/sbondCo/Watcharr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Watcharr具有高生产可用性，其GitHub星标数达到1408，fork数达到6
 | forks | 46/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

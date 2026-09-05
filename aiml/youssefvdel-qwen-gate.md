@@ -1,6 +1,6 @@
 # youssefvdel/qwen-gate
 
-[![Stars](https://img.shields.io/github/stars/youssefvdel/qwen-gate?style=flat-square&color=yellow)](https://github.com/youssefvdel/qwen-gate/stargazers) [![Forks](https://img.shields.io/github/forks/youssefvdel/qwen-gate?style=flat-square&color=blue)](https://github.com/youssefvdel/qwen-gate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/youssefvdel/qwen-gate?style=flat-square&color=yellow)](https://github.com/youssefvdel/qwen-gate/stargazers) [![Forks](https://img.shields.io/github/forks/youssefvdel/qwen-gate?style=flat-square&color=blue)](https://github.com/youssefvdel/qwen-gate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Drop-in OpenAI-compatible API gateway for Qwen AI models. Use your Qwen account (chat.qwen.ai) as a free AI API provider in any OpenAI-compatible client — Cursor, Continue.dev, Claude Code, VS Code Copilot, or any coding agent. Self-hosted, Chromium-based auth, streaming support, tool calling, dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Communication · Networking · Backend · Security
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ youssefvdel/qwen-gate：youssefvdel/qwen-gate helps add AI capability without st
 | forks | 31/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

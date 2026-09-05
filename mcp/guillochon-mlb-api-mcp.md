@@ -1,6 +1,6 @@
 # guillochon/mlb-api-mcp
 
-[![Stars](https://img.shields.io/github/stars/guillochon/mlb-api-mcp?style=flat-square&color=yellow)](https://github.com/guillochon/mlb-api-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/guillochon/mlb-api-mcp?style=flat-square&color=blue)](https://github.com/guillochon/mlb-api-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guillochon/mlb-api-mcp?style=flat-square&color=yellow)](https://github.com/guillochon/mlb-api-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/guillochon/mlb-api-mcp?style=flat-square&color=blue)](https://github.com/guillochon/mlb-api-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides comprehensive access to MLB statistics and baseball data through a FastMCP-based interface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ guillochon/mlb-api-mcp 是一个基于 Model Context Protocol（MCP）的 FastMC
 | forks | 28/100 |
 | stars | 38/100 |
 | topics | 13/100 |
-| outlook | 56/100 |
-| quality | 48/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

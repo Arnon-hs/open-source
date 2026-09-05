@@ -1,6 +1,6 @@
 # komodorio/helm-dashboard
 
-[![Stars](https://img.shields.io/github/stars/komodorio/helm-dashboard?style=flat-square&color=yellow)](https://github.com/komodorio/helm-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/komodorio/helm-dashboard?style=flat-square&color=blue)](https://github.com/komodorio/helm-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/komodorio/helm-dashboard?style=flat-square&color=yellow)](https://github.com/komodorio/helm-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/komodorio/helm-dashboard?style=flat-square&color=blue)](https://github.com/komodorio/helm-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The missing UI for Helm - visualize your releases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 360 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ komodorio/helm-dashboard 的价值在于，它可以帮助开发者：
 | forks | 64/100 |
 | stars | 80/100 |
 | topics | 75/100 |
-| outlook | 69/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 70/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

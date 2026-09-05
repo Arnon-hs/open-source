@@ -1,6 +1,6 @@
 # warpdotdev/themes
 
-[![Stars](https://img.shields.io/github/stars/warpdotdev/themes?style=flat-square&color=yellow)](https://github.com/warpdotdev/themes/stargazers) [![Forks](https://img.shields.io/github/forks/warpdotdev/themes?style=flat-square&color=blue)](https://github.com/warpdotdev/themes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warpdotdev/themes?style=flat-square&color=yellow)](https://github.com/warpdotdev/themes/stargazers) [![Forks](https://img.shields.io/github/forks/warpdotdev/themes?style=flat-square&color=blue)](https://github.com/warpdotdev/themes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ warpdotdev/themes 是一个开源项目，提供自定义主题仓库用于 Warp
 | forks | 60/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 67/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

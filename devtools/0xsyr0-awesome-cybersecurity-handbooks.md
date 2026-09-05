@@ -1,6 +1,6 @@
 # 0xsyr0/Awesome-Cybersecurity-Handbooks
 
-[![Stars](https://img.shields.io/github/stars/0xsyr0/Awesome-Cybersecurity-Handbooks?style=flat-square&color=yellow)](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/stargazers) [![Forks](https://img.shields.io/github/forks/0xsyr0/Awesome-Cybersecurity-Handbooks?style=flat-square&color=blue)](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xsyr0/Awesome-Cybersecurity-Handbooks?style=flat-square&color=yellow)](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/stargazers) [![Forks](https://img.shields.io/github/forks/0xsyr0/Awesome-Cybersecurity-Handbooks?style=flat-square&color=blue)](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 592 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Here's a brief summary of the open-source project:
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

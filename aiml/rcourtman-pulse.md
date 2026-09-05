@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ rcourtman/Pulse：rcourtman/Pulse helps add AI capability without starting from 
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # adamgell/cmtraceopen
 
-[![Stars](https://img.shields.io/github/stars/adamgell/cmtraceopen?style=flat-square&color=yellow)](https://github.com/adamgell/cmtraceopen/stargazers) [![Forks](https://img.shields.io/github/forks/adamgell/cmtraceopen?style=flat-square&color=blue)](https://github.com/adamgell/cmtraceopen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adamgell/cmtraceopen?style=flat-square&color=yellow)](https://github.com/adamgell/cmtraceopen/stargazers) [![Forks](https://img.shields.io/github/forks/adamgell/cmtraceopen?style=flat-square&color=blue)](https://github.com/adamgell/cmtraceopen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source log viewer inspired by Microsoft's CMTrace.exe.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ adamgell/cmtraceopen 的生产可用性为中等。它适合用于原型或内�
 | forks | 25/100 |
 | stars | 50/100 |
 | topics | 25/100 |
-| outlook | 46/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

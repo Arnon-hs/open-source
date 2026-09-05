@@ -1,6 +1,6 @@
 # MrGeDiao/shuorenhua
 
-[![Stars](https://img.shields.io/github/stars/MrGeDiao/shuorenhua?style=flat-square&color=yellow)](https://github.com/MrGeDiao/shuorenhua/stargazers) [![Forks](https://img.shields.io/github/forks/MrGeDiao/shuorenhua?style=flat-square&color=blue)](https://github.com/MrGeDiao/shuorenhua/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MrGeDiao/shuorenhua?style=flat-square&color=yellow)](https://github.com/MrGeDiao/shuorenhua/stargazers) [![Forks](https://img.shields.io/github/forks/MrGeDiao/shuorenhua?style=flat-square&color=blue)](https://github.com/MrGeDiao/shuorenhua/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ MrGeDiao/shuorenhua 是一个开源项目，旨在改写 AI 生成的文本，�
 | forks | 39/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

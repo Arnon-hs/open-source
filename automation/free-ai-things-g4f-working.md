@@ -1,6 +1,6 @@
 # Free-AI-Things/g4f-working
 
-[![Stars](https://img.shields.io/github/stars/Free-AI-Things/g4f-working?style=flat-square&color=yellow)](https://github.com/Free-AI-Things/g4f-working/stargazers) [![Forks](https://img.shields.io/github/forks/Free-AI-Things/g4f-working?style=flat-square&color=blue)](https://github.com/Free-AI-Things/g4f-working/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Free-AI-Things/g4f-working?style=flat-square&color=yellow)](https://github.com/Free-AI-Things/g4f-working/stargazers) [![Forks](https://img.shields.io/github/forks/Free-AI-Things/g4f-working?style=flat-square&color=blue)](https://github.com/Free-AI-Things/g4f-working/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > g4f-working is a daily-updated list of working no-auth AI providers and models from @xtekky/gpt4free. It helps developers, testers, and AI enthusiasts instantly find which models are currently online and accessible without any API keys, tokens, or cookies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · Observability · Security
+Automation · AI/ML · Backend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -100,11 +100,11 @@ Free-AI-Things/g4f-working 是一个开源项目，提供了一个每日更新�
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # chaos-zhu/easynode
 
-[![Stars](https://img.shields.io/github/stars/chaos-zhu/easynode?style=flat-square&color=yellow)](https://github.com/chaos-zhu/easynode/stargazers) [![Forks](https://img.shields.io/github/forks/chaos-zhu/easynode?style=flat-square&color=blue)](https://github.com/chaos-zhu/easynode/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chaos-zhu/easynode?style=flat-square&color=yellow)](https://github.com/chaos-zhu/easynode/stargazers) [![Forks](https://img.shields.io/github/forks/chaos-zhu/easynode?style=flat-square&color=blue)](https://github.com/chaos-zhu/easynode/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 275 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ chaos-zhu/easynode 的生产可用性为中等（Medium）。它可以用于内�
 | forks | 61/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

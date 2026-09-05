@@ -1,6 +1,6 @@
 # risesoft-y9/Digital-Infrastructure
 
-[![Stars](https://img.shields.io/github/stars/risesoft-y9/Digital-Infrastructure?style=flat-square&color=yellow)](https://github.com/risesoft-y9/Digital-Infrastructure/stargazers) [![Forks](https://img.shields.io/github/forks/risesoft-y9/Digital-Infrastructure?style=flat-square&color=blue)](https://github.com/risesoft-y9/Digital-Infrastructure/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/risesoft-y9/Digital-Infrastructure?style=flat-square&color=yellow)](https://github.com/risesoft-y9/Digital-Infrastructure/stargazers) [![Forks](https://img.shields.io/github/forks/risesoft-y9/Digital-Infrastructure?style=flat-square&color=blue)](https://github.com/risesoft-y9/Digital-Infrastructure/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 数字底座是一款面向大型政府、企业数字化转型，基于身份认证、组织架构、岗位职务、应用系统、资源角色、数据目录、安全控制等功能构建的统一且安全的管理支撑平台。数字底座基于三员管理模式，具备微服务、多租户、容器化和国产化，支持用户利用代码生成器快速构建自己的业务应用，同时可关联诸多成熟且好用的内部生态应用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 441 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database · DevOps/Infra
+Backend · Database · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -93,15 +93,15 @@ Risesoft‑y9/Digital‑
 | forks | 66/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

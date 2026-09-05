@@ -1,6 +1,6 @@
 # KarryViber/Orb
 
-[![Stars](https://img.shields.io/github/stars/KarryViber/Orb?style=flat-square&color=yellow)](https://github.com/KarryViber/Orb/stargazers) [![Forks](https://img.shields.io/github/forks/KarryViber/Orb?style=flat-square&color=blue)](https://github.com/KarryViber/Orb/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KarryViber/Orb?style=flat-square&color=yellow)](https://github.com/KarryViber/Orb/stargazers) [![Forks](https://img.shields.io/github/forks/KarryViber/Orb?style=flat-square&color=blue)](https://github.com/KarryViber/Orb/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving AI agent framework — wraps Claude Code CLI with persistent memory, multi-profile isolation, and messaging platform integration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ KarryViber/Orb 是一个自我进化的 AI 代理框架，它在 Claude Code�
 | forks | 23/100 |
 | stars | 38/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

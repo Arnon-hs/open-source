@@ -1,6 +1,6 @@
 # danielgtaylor/huma
 
-[![Stars](https://img.shields.io/github/stars/danielgtaylor/huma?style=flat-square&color=yellow)](https://github.com/danielgtaylor/huma/stargazers) [![Forks](https://img.shields.io/github/forks/danielgtaylor/huma?style=flat-square&color=blue)](https://github.com/danielgtaylor/huma/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielgtaylor/huma?style=flat-square&color=yellow)](https://github.com/danielgtaylor/huma/stargazers) [![Forks](https://img.shields.io/github/forks/danielgtaylor/huma?style=flat-square&color=blue)](https://github.com/danielgtaylor/huma/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Huma 的生产可用性较高，主要原因是：
 | forks | 61/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

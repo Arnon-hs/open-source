@@ -1,6 +1,6 @@
 # Xe/site
 
-[![Stars](https://img.shields.io/github/stars/Xe/site?style=flat-square&color=yellow)](https://github.com/Xe/site/stargazers) [![Forks](https://img.shields.io/github/forks/Xe/site?style=flat-square&color=blue)](https://github.com/Xe/site/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xe/site?style=flat-square&color=yellow)](https://github.com/Xe/site/stargazers) [![Forks](https://img.shields.io/github/forks/Xe/site?style=flat-square&color=blue)](https://github.com/Xe/site/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The new frontend/backend code for https://xeiaso.net
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 728 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Xe/site 的生产可用性较高，主要原因是：
 | forks | 52/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

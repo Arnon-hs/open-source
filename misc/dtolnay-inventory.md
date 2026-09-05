@@ -1,6 +1,6 @@
 # dtolnay/inventory
 
-[![Stars](https://img.shields.io/github/stars/dtolnay/inventory?style=flat-square&color=yellow)](https://github.com/dtolnay/inventory/stargazers) [![Forks](https://img.shields.io/github/forks/dtolnay/inventory?style=flat-square&color=blue)](https://github.com/dtolnay/inventory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtolnay/inventory?style=flat-square&color=yellow)](https://github.com/dtolnay/inventory/stargazers) [![Forks](https://img.shields.io/github/forks/dtolnay/inventory?style=flat-square&color=blue)](https://github.com/dtolnay/inventory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Typed distributed plugin registration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ dtolnay/inventory 提供了类型化的分布式插件注册机制，能够在 R
 | forks | 44/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

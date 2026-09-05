@@ -1,6 +1,6 @@
 # facebook/fboss
 
-[![Stars](https://img.shields.io/github/stars/facebook/fboss?style=flat-square&color=yellow)](https://github.com/facebook/fboss/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/fboss?style=flat-square&color=blue)](https://github.com/facebook/fboss/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/fboss?style=flat-square&color=yellow)](https://github.com/facebook/fboss/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/fboss?style=flat-square&color=blue)](https://github.com/facebook/fboss/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Facebook Open Switching System  Software for controlling network switches.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 967 |
 | 🍴 **Forks** | 385 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ facebook/fboss（Facebook Open Switching System）是 Facebook 开源的网络�
 | forks | 65/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

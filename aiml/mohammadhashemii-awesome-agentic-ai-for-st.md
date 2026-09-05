@@ -1,6 +1,6 @@
 # mohammadhashemii/awesome-agentic-AI-for-ST
 
-[![Stars](https://img.shields.io/github/stars/mohammadhashemii/awesome-agentic-AI-for-ST?style=flat-square&color=yellow)](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/stargazers) [![Forks](https://img.shields.io/github/forks/mohammadhashemii/awesome-agentic-AI-for-ST?style=flat-square&color=blue)](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohammadhashemii/awesome-agentic-AI-for-ST?style=flat-square&color=yellow)](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/stargazers) [![Forks](https://img.shields.io/github/forks/mohammadhashemii/awesome-agentic-AI-for-ST?style=flat-square&color=blue)](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Papers about agentic AI and AI agents for spatio-temporal data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ mohammadhashemii/awesome-agentic-AI-for-ST 是一个开源项目，聚集了关�
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 46/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

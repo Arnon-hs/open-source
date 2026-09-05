@@ -1,6 +1,6 @@
 # badabing2005/PixelFlasher
 
-[![Stars](https://img.shields.io/github/stars/badabing2005/PixelFlasher?style=flat-square&color=yellow)](https://github.com/badabing2005/PixelFlasher/stargazers) [![Forks](https://img.shields.io/github/forks/badabing2005/PixelFlasher?style=flat-square&color=blue)](https://github.com/badabing2005/PixelFlasher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/badabing2005/PixelFlasher?style=flat-square&color=yellow)](https://github.com/badabing2005/PixelFlasher/stargazers) [![Forks](https://img.shields.io/github/forks/badabing2005/PixelFlasher?style=flat-square&color=blue)](https://github.com/badabing2005/PixelFlasher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Pixel™ phone flashing GUI utility with features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 270 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ PixelFlasher 是一款面向 Pixel™ 手机的刷机图形化工具，提供完
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

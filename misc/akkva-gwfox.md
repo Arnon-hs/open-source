@@ -1,6 +1,6 @@
 # akkva/gwfox
 
-[![Stars](https://img.shields.io/github/stars/akkva/gwfox?style=flat-square&color=yellow)](https://github.com/akkva/gwfox/stargazers) [![Forks](https://img.shields.io/github/forks/akkva/gwfox?style=flat-square&color=blue)](https://github.com/akkva/gwfox/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akkva/gwfox?style=flat-square&color=yellow)](https://github.com/akkva/gwfox/stargazers) [![Forks](https://img.shields.io/github/forks/akkva/gwfox?style=flat-square&color=blue)](https://github.com/akkva/gwfox/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Bringing a crisp new look to Firefox
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 885 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ akkva/gwfox 的生产可用性为中等（Medium）。它适合用于原型开�
 | forks | 39/100 |
 | stars | 63/100 |
 | topics | 13/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

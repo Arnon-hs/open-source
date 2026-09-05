@@ -1,6 +1,6 @@
 # auyer/Protonup-rs
 
-[![Stars](https://img.shields.io/github/stars/auyer/Protonup-rs?style=flat-square&color=yellow)](https://github.com/auyer/Protonup-rs/stargazers) [![Forks](https://img.shields.io/github/forks/auyer/Protonup-rs?style=flat-square&color=blue)](https://github.com/auyer/Protonup-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/auyer/Protonup-rs?style=flat-square&color=yellow)](https://github.com/auyer/Protonup-rs/stargazers) [![Forks](https://img.shields.io/github/forks/auyer/Protonup-rs?style=flat-square&color=blue)](https://github.com/auyer/Protonup-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust app to automate the installation and update of Linux Gaming Compatibility tools, like ProtonGE, Luxtorpeda, Boxtron and others.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ auyer/Protonup-rs 是一个用于自动安装和更新 Linux 游戏兼容性工�
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

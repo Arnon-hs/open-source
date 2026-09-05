@@ -1,6 +1,6 @@
 # textbrowser/dooble
 
-[![Stars](https://img.shields.io/github/stars/textbrowser/dooble?style=flat-square&color=yellow)](https://github.com/textbrowser/dooble/stargazers) [![Forks](https://img.shields.io/github/forks/textbrowser/dooble?style=flat-square&color=blue)](https://github.com/textbrowser/dooble/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/textbrowser/dooble?style=flat-square&color=yellow)](https://github.com/textbrowser/dooble/stargazers) [![Forks](https://img.shields.io/github/forks/textbrowser/dooble?style=flat-square&color=blue)](https://github.com/textbrowser/dooble/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Dooble is a scientific browser. Minimal, cute, unusually stable, and available almost everyware. Completed?
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 527 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ textbrowser/dooble 是一款面向科研的轻量级浏览器，界面简洁、�
 | forks | 41/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

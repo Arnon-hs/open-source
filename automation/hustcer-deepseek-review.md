@@ -1,6 +1,6 @@
 # hustcer/deepseek-review
 
-[![Stars](https://img.shields.io/github/stars/hustcer/deepseek-review?style=flat-square&color=yellow)](https://github.com/hustcer/deepseek-review/stargazers) [![Forks](https://img.shields.io/github/forks/hustcer/deepseek-review?style=flat-square&color=blue)](https://github.com/hustcer/deepseek-review/network) [![Language](https://img.shields.io/badge/lang-Nushell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hustcer/deepseek-review?style=flat-square&color=yellow)](https://github.com/hustcer/deepseek-review/stargazers) [![Forks](https://img.shields.io/github/forks/hustcer/deepseek-review?style=flat-square&color=blue)](https://github.com/hustcer/deepseek-review/network) [![Language](https://img.shields.io/badge/lang-Nushell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with DeepSeek Code Review 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Nushell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ hustcer/deepseek-review 是一款基于 DeepSeek 大模型的代码审查工具�
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

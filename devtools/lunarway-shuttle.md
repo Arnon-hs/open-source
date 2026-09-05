@@ -1,6 +1,6 @@
 # lunarway/shuttle
 
-[![Stars](https://img.shields.io/github/stars/lunarway/shuttle?style=flat-square&color=yellow)](https://github.com/lunarway/shuttle/stargazers) [![Forks](https://img.shields.io/github/forks/lunarway/shuttle?style=flat-square&color=blue)](https://github.com/lunarway/shuttle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lunarway/shuttle?style=flat-square&color=yellow)](https://github.com/lunarway/shuttle/stargazers) [![Forks](https://img.shields.io/github/forks/lunarway/shuttle?style=flat-square&color=blue)](https://github.com/lunarway/shuttle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for handling shared build and deploy tools between projects no matter what technologies the projects are using
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ lunarway/shuttle 是一款用 Go 编写的跨语言 CLI 工具，能够在不同
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 25/100 |
-| outlook | 45/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # violentmonkey/violentmonkey
 
-[![Stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey?style=flat-square&color=yellow)](https://github.com/violentmonkey/violentmonkey/stargazers) [![Forks](https://img.shields.io/github/forks/violentmonkey/violentmonkey?style=flat-square&color=blue)](https://github.com/violentmonkey/violentmonkey/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey?style=flat-square&color=yellow)](https://github.com/violentmonkey/violentmonkey/stargazers) [![Forks](https://img.shields.io/github/forks/violentmonkey/violentmonkey?style=flat-square&color=blue)](https://github.com/violentmonkey/violentmonkey/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 735 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ Violentmonkey 的生产可用性为中等（Medium）。它适合用于原型或
 | forks | 72/100 |
 | stars | 84/100 |
 | topics | 38/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

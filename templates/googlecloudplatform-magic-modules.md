@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/magic-modules
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/magic-modules?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/magic-modules/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/magic-modules?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/magic-modules/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/magic-modules?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/magic-modules/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/magic-modules?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/magic-modules/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Add Google Cloud Platform support to Terraform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 951 |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Go Template |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · DevOps/Infra
+Templates · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ GoogleCloudPlatform/magic-modules 为 Terraform 提供完整的 Google Cloud Pla
 | forks | 84/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

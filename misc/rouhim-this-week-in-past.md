@@ -1,6 +1,6 @@
 # RouHim/this-week-in-past
 
-[![Stars](https://img.shields.io/github/stars/RouHim/this-week-in-past?style=flat-square&color=yellow)](https://github.com/RouHim/this-week-in-past/stargazers) [![Forks](https://img.shields.io/github/forks/RouHim/this-week-in-past?style=flat-square&color=blue)](https://github.com/RouHim/this-week-in-past/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RouHim/this-week-in-past?style=flat-square&color=yellow)](https://github.com/RouHim/this-week-in-past/stargazers) [![Forks](https://img.shields.io/github/forks/RouHim/this-week-in-past?style=flat-square&color=blue)](https://github.com/RouHim/this-week-in-past/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ RouHim/this-week-in-past 的价值在于，它可以帮助用户查阅过去的�
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 47/100 |
-| recency | 60/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 53/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

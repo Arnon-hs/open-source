@@ -1,6 +1,6 @@
 # ta867070117/video-analyse
 
-[![Stars](https://img.shields.io/github/stars/ta867070117/video-analyse?style=flat-square&color=yellow)](https://github.com/ta867070117/video-analyse/stargazers) [![Forks](https://img.shields.io/github/forks/ta867070117/video-analyse?style=flat-square&color=blue)](https://github.com/ta867070117/video-analyse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ta867070117/video-analyse?style=flat-square&color=yellow)](https://github.com/ta867070117/video-analyse/stargazers) [![Forks](https://img.shields.io/github/forks/ta867070117/video-analyse?style=flat-square&color=blue)](https://github.com/ta867070117/video-analyse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 短视频解析平台支持解析 抖音、快手、ins、faceBook、youtobe、西瓜视频、今日头条、小红书、微视、火山小视频、陌陌视频、映客视频、小咖秀、开眼、全民小视频、全民K歌、最右、小影、微博、美拍、皮皮虾等平台的短视频去水印解析API接口
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 565 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ Ta867070117/video-analyse
 | forks | 38/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # cunarist/rinf
 
-[![Stars](https://img.shields.io/github/stars/cunarist/rinf?style=flat-square&color=yellow)](https://github.com/cunarist/rinf/stargazers) [![Forks](https://img.shields.io/github/forks/cunarist/rinf?style=flat-square&color=blue)](https://github.com/cunarist/rinf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cunarist/rinf?style=flat-square&color=yellow)](https://github.com/cunarist/rinf/stargazers) [![Forks](https://img.shields.io/github/forks/cunarist/rinf?style=flat-square&color=blue)](https://github.com/cunarist/rinf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Rust for native business logic, Flutter for flexible and beautiful GUI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ cunarist/rinf 项目具有高生产可用性。它有近 2.7k 个 GitHub 星，�
 | forks | 51/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mnemosyne-oss/mnemosyne
 
-[![Stars](https://img.shields.io/github/stars/mnemosyne-oss/mnemosyne?style=flat-square&color=yellow)](https://github.com/mnemosyne-oss/mnemosyne/stargazers) [![Forks](https://img.shields.io/github/forks/mnemosyne-oss/mnemosyne?style=flat-square&color=blue)](https://github.com/mnemosyne-oss/mnemosyne/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mnemosyne-oss/mnemosyne?style=flat-square&color=yellow)](https://github.com/mnemosyne-oss/mnemosyne/stargazers) [![Forks](https://img.shields.io/github/forks/mnemosyne-oss/mnemosyne?style=flat-square&color=blue)](https://github.com/mnemosyne-oss/mnemosyne/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents and Everyone Else!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ mnemosyne-oss/mnemosyne 的生产可用性较高，因为它有以下优点：
 | forks | 55/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 67/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

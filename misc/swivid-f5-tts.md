@@ -1,6 +1,6 @@
 # SWivid/F5-TTS
 
-[![Stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=flat-square&color=yellow)](https://huggingface.co/SWivid/F5-TTS/stargazers) [![Forks](https://img.shields.io/github/forks/SWivid/F5-TTS?style=flat-square&color=blue)](https://huggingface.co/SWivid/F5-TTS/network) [![Language](https://img.shields.io/badge/lang-f5-tts-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=flat-square&color=yellow)](https://huggingface.co/SWivid/F5-TTS/stargazers) [![Forks](https://img.shields.io/github/forks/SWivid/F5-TTS?style=flat-square&color=blue)](https://huggingface.co/SWivid/F5-TTS/network) [![Language](https://img.shields.io/badge/lang-f5-tts-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text to speech (text-to-speech) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | f5-tts |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ SWivid/F5-TTS 的生产可用性尚不明确。由于其 README 和活动信息�
 | forks | 0/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 38/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 38/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

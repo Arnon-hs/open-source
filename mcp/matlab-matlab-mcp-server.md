@@ -1,6 +1,6 @@
 # matlab/matlab-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/matlab/matlab-mcp-server?style=flat-square&color=yellow)](https://github.com/matlab/matlab-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/matlab/matlab-mcp-server?style=flat-square&color=blue)](https://github.com/matlab/matlab-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matlab/matlab-mcp-server?style=flat-square&color=yellow)](https://github.com/matlab/matlab-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/matlab/matlab-mcp-server?style=flat-square&color=blue)](https://github.com/matlab/matlab-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ matlab/matlab-mcp-server 帮助连接 AI 助手到真实的工具和数据，通
 | forks | 50/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

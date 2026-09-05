@@ -1,6 +1,6 @@
 # benlamiro/ShipGenAI
 
-[![Stars](https://img.shields.io/github/stars/benlamiro/ShipGenAI?style=flat-square&color=yellow)](https://github.com/benlamiro/ShipGenAI/stargazers) [![Forks](https://img.shields.io/github/forks/benlamiro/ShipGenAI?style=flat-square&color=blue)](https://github.com/benlamiro/ShipGenAI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benlamiro/ShipGenAI?style=flat-square&color=yellow)](https://github.com/benlamiro/ShipGenAI/stargazers) [![Forks](https://img.shields.io/github/forks/benlamiro/ShipGenAI?style=flat-square&color=blue)](https://github.com/benlamiro/ShipGenAI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Templates · Payments · AI/ML · Education
+Content Creation · Templates · Payments · AI/ML · Security
 
 ## 📝 Summary
 
@@ -112,11 +112,11 @@ benlamiro/ShipGenAI 提供 50 套「即插即用」的生成式 AI SaaS 应用�
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

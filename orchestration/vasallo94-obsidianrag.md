@@ -1,6 +1,6 @@
 # Vasallo94/ObsidianRAG
 
-[![Stars](https://img.shields.io/github/stars/Vasallo94/ObsidianRAG?style=flat-square&color=yellow)](https://github.com/Vasallo94/ObsidianRAG/stargazers) [![Forks](https://img.shields.io/github/forks/Vasallo94/ObsidianRAG?style=flat-square&color=blue)](https://github.com/Vasallo94/ObsidianRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vasallo94/ObsidianRAG?style=flat-square&color=yellow)](https://github.com/Vasallo94/ObsidianRAG/stargazers) [![Forks](https://img.shields.io/github/forks/Vasallo94/ObsidianRAG?style=flat-square&color=blue)](https://github.com/Vasallo94/ObsidianRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Ask questions about your Obsidian notes using local AI. Privacy-first RAG with Ollama, LM Studio, or any OpenAI-compatible server. Obsidian plugin + Docker + PyPI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · DevOps/Infra
+Orchestration · Knowledge/RAG · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Vasallo94/ObsidianRAG 的生产可用性较高，主要原因是：
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

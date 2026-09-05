@@ -1,6 +1,6 @@
 # TrustSafeAI/RADAR-Vicuna-7B
 
-[![Stars](https://img.shields.io/github/stars/TrustSafeAI/RADAR-Vicuna-7B?style=flat-square&color=yellow)](https://huggingface.co/TrustSafeAI/RADAR-Vicuna-7B/stargazers) [![Forks](https://img.shields.io/github/forks/TrustSafeAI/RADAR-Vicuna-7B?style=flat-square&color=blue)](https://huggingface.co/TrustSafeAI/RADAR-Vicuna-7B/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TrustSafeAI/RADAR-Vicuna-7B?style=flat-square&color=yellow)](https://huggingface.co/TrustSafeAI/RADAR-Vicuna-7B/stargazers) [![Forks](https://img.shields.io/github/forks/TrustSafeAI/RADAR-Vicuna-7B?style=flat-square&color=blue)](https://huggingface.co/TrustSafeAI/RADAR-Vicuna-7B/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text classification (text-classification) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 32/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ TrustSafeAI/RADAR-Vicuna-7B 的价值在于它可以帮助开发者快速添加 
 | forks | 0/100 |
 | stars | 24/100 |
 | topics | 38/100 |
-| outlook | 31/100 |
-| quality | 29/100 |
-| recency | 20/100 |
+| outlook | 52/100 |
+| quality | 44/100 |
+| recency | 80/100 |
 | adoption | 18/100 |
-| production | 34/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # aurelia/aurelia
 
-[![Stars](https://img.shields.io/github/stars/aurelia/aurelia?style=flat-square&color=yellow)](https://github.com/aurelia/aurelia/stargazers) [![Forks](https://img.shields.io/github/forks/aurelia/aurelia?style=flat-square&color=blue)](https://github.com/aurelia/aurelia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aurelia/aurelia?style=flat-square&color=yellow)](https://github.com/aurelia/aurelia/stargazers) [![Forks](https://img.shields.io/github/forks/aurelia/aurelia?style=flat-square&color=blue)](https://github.com/aurelia/aurelia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ Aurelia 2 具有很高的生产可用性，特别是考虑到它的开源特性�
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

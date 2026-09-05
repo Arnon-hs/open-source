@@ -1,6 +1,6 @@
 # jarredkenny/jmux
 
-[![Stars](https://img.shields.io/github/stars/jarredkenny/jmux?style=flat-square&color=yellow)](https://github.com/jarredkenny/jmux/stargazers) [![Forks](https://img.shields.io/github/forks/jarredkenny/jmux?style=flat-square&color=blue)](https://github.com/jarredkenny/jmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jarredkenny/jmux?style=flat-square&color=yellow)](https://github.com/jarredkenny/jmux/stargazers) [![Forks](https://img.shields.io/github/forks/jarredkenny/jmux?style=flat-square&color=blue)](https://github.com/jarredkenny/jmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A tmux environment built for running coding agents in parallel — with a persistent sidebar that shows every session, what's running, and what needs your attention.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ To adopt jarredkenny/jmux, developers can start by evaluating the project's feas
 | forks | 27/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

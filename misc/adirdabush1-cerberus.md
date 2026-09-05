@@ -1,6 +1,6 @@
 # Adirdabush1/cerberus
 
-[![Stars](https://img.shields.io/github/stars/Adirdabush1/cerberus?style=flat-square&color=yellow)](https://github.com/Adirdabush1/cerberus/stargazers) [![Forks](https://img.shields.io/github/forks/Adirdabush1/cerberus?style=flat-square&color=blue)](https://github.com/Adirdabush1/cerberus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adirdabush1/cerberus?style=flat-square&color=yellow)](https://github.com/Adirdabush1/cerberus/stargazers) [![Forks](https://img.shields.io/github/forks/Adirdabush1/cerberus?style=flat-square&color=blue)](https://github.com/Adirdabush1/cerberus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Cerberus 是一款面向 AI 代理的本地防火墙，用于拦截、审计和�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 39/100 |
-| quality | 26/100 |
-| recency | 40/100 |
+| outlook | 53/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 38/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

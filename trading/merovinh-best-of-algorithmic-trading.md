@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ merovinh/best-of-algorithmic-trading：merovinh/best-of-algorithmic-trading help
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

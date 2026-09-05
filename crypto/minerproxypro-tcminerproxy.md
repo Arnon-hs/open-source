@@ -1,6 +1,6 @@
 # MinerProxyPro/TCMinerProxy
 
-[![Stars](https://img.shields.io/github/stars/MinerProxyPro/TCMinerProxy?style=flat-square&color=yellow)](https://github.com/MinerProxyPro/TCMinerProxy/stargazers) [![Forks](https://img.shields.io/github/forks/MinerProxyPro/TCMinerProxy?style=flat-square&color=blue)](https://github.com/MinerProxyPro/TCMinerProxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MinerProxyPro/TCMinerProxy?style=flat-square&color=yellow)](https://github.com/MinerProxyPro/TCMinerProxy/stargazers) [![Forks](https://img.shields.io/github/forks/MinerProxyPro/TCMinerProxy?style=flat-square&color=blue)](https://github.com/MinerProxyPro/TCMinerProxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > MinerProxy矿池抽水 矿池代理 矿池中转 矿池抽水  纯中转Rust全新独立架构矿池中转 / 算力抽水工具 TCMinerProxy；近年全球大型矿场主流 Stratum 矿池代理，支持算力分流、自建私有矿池、TMS 加密隧道，适配全币种比特币挖矿等POW 算力运维软件。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Networking
 
 ## 📝 Summary
 
@@ -90,15 +90,15 @@ MinerProxyPro/TCMinerProxy 的生产可用性为中等。它适用于原型或�
 | forks | 24/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

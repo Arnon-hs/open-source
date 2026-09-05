@@ -1,6 +1,6 @@
 # SimonSchubert/Kai
 
-[![Stars](https://img.shields.io/github/stars/SimonSchubert/Kai?style=flat-square&color=yellow)](https://github.com/SimonSchubert/Kai/stargazers) [![Forks](https://img.shields.io/github/forks/SimonSchubert/Kai?style=flat-square&color=blue)](https://github.com/SimonSchubert/Kai/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SimonSchubert/Kai?style=flat-square&color=yellow)](https://github.com/SimonSchubert/Kai/stargazers) [![Forks](https://img.shields.io/github/forks/SimonSchubert/Kai?style=flat-square&color=blue)](https://github.com/SimonSchubert/Kai/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > OpenClaw alternative in your pocket
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 764 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ SimonSchubert/Kai 是一款基于 Kotlin 的移动端自动化平台，旨在把
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

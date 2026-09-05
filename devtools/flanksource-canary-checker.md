@@ -1,6 +1,6 @@
 # flanksource/canary-checker
 
-[![Stars](https://img.shields.io/github/stars/flanksource/canary-checker?style=flat-square&color=yellow)](https://github.com/flanksource/canary-checker/stargazers) [![Forks](https://img.shields.io/github/forks/flanksource/canary-checker?style=flat-square&color=blue)](https://github.com/flanksource/canary-checker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flanksource/canary-checker?style=flat-square&color=yellow)](https://github.com/flanksource/canary-checker/stargazers) [![Forks](https://img.shields.io/github/forks/flanksource/canary-checker?style=flat-square&color=blue)](https://github.com/flanksource/canary-checker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Native Health Check Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database · Observability · DevOps/Infra
+DevTools · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ flanksource/canary-checker 是一款 **Kubernetes 原生的健康检查平台**�
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

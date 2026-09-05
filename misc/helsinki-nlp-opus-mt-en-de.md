@@ -1,6 +1,6 @@
 # Helsinki-NLP/opus-mt-en-de
 
-[![Stars](https://img.shields.io/github/stars/Helsinki-NLP/opus-mt-en-de?style=flat-square&color=yellow)](https://huggingface.co/Helsinki-NLP/opus-mt-en-de/stargazers) [![Forks](https://img.shields.io/github/forks/Helsinki-NLP/opus-mt-en-de?style=flat-square&color=blue)](https://huggingface.co/Helsinki-NLP/opus-mt-en-de/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Helsinki-NLP/opus-mt-en-de?style=flat-square&color=yellow)](https://huggingface.co/Helsinki-NLP/opus-mt-en-de/stargazers) [![Forks](https://img.shields.io/github/forks/Helsinki-NLP/opus-mt-en-de?style=flat-square&color=blue)](https://huggingface.co/Helsinki-NLP/opus-mt-en-de/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Translation (translation) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Helsinki-NLP/opus-mt-en-de 是一个用于翻译的流行开源模型，托管�
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 38/100 |
-| outlook | 33/100 |
-| quality | 33/100 |
-| recency | 20/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 35/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

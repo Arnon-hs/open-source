@@ -1,6 +1,6 @@
 # lonewolfyx/usage-board
 
-[![Stars](https://img.shields.io/github/stars/lonewolfyx/usage-board?style=flat-square&color=yellow)](https://github.com/lonewolfyx/usage-board/stargazers) [![Forks](https://img.shields.io/github/forks/lonewolfyx/usage-board?style=flat-square&color=blue)](https://github.com/lonewolfyx/usage-board/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lonewolfyx/usage-board?style=flat-square&color=yellow)](https://github.com/lonewolfyx/usage-board/stargazers) [![Forks](https://img.shields.io/github/forks/lonewolfyx/usage-board?style=flat-square&color=blue)](https://github.com/lonewolfyx/usage-board/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An all-in-one dashboard to quickly analyze token usage from local json files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ lonewolfyx/usage-board 是一个基于 Vue 的一体化仪表盘，可直接读�
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

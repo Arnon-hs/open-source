@@ -1,6 +1,6 @@
 # Sheldenshi/gini-agent
 
-[![Stars](https://img.shields.io/github/stars/Sheldenshi/gini-agent?style=flat-square&color=yellow)](https://github.com/Sheldenshi/gini-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Sheldenshi/gini-agent?style=flat-square&color=blue)](https://github.com/Sheldenshi/gini-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sheldenshi/gini-agent?style=flat-square&color=yellow)](https://github.com/Sheldenshi/gini-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Sheldenshi/gini-agent?style=flat-square&color=blue)](https://github.com/Sheldenshi/gini-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The agent that remembers and learns.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 669 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Sheldenshi/gini-agent 是一款能够记忆与学习的 AI 代理，提供统一
 | forks | 55/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

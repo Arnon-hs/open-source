@@ -1,6 +1,6 @@
 # ChilliCream/graphql-platform
 
-[![Stars](https://img.shields.io/github/stars/ChilliCream/graphql-platform?style=flat-square&color=yellow)](https://github.com/ChilliCream/graphql-platform/stargazers) [![Forks](https://img.shields.io/github/forks/ChilliCream/graphql-platform?style=flat-square&color=blue)](https://github.com/ChilliCream/graphql-platform/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChilliCream/graphql-platform?style=flat-square&color=yellow)](https://github.com/ChilliCream/graphql-platform/stargazers) [![Forks](https://img.shields.io/github/forks/ChilliCream/graphql-platform?style=flat-square&color=blue)](https://github.com/ChilliCream/graphql-platform/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro the awesome Monaco based GraphQL IDE.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 808 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ ChilliCream/graphql-platform 是 .NET 生态下的完整 GraphQL 解决方案，
 | forks | 73/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # skygazer42/MimirQ
 
-[![Stars](https://img.shields.io/github/stars/skygazer42/MimirQ?style=flat-square&color=yellow)](https://github.com/skygazer42/MimirQ/stargazers) [![Forks](https://img.shields.io/github/forks/skygazer42/MimirQ?style=flat-square&color=blue)](https://github.com/skygazer42/MimirQ/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skygazer42/MimirQ?style=flat-square&color=yellow)](https://github.com/skygazer42/MimirQ/stargazers) [![Forks](https://img.shields.io/github/forks/skygazer42/MimirQ?style=flat-square&color=blue)](https://github.com/skygazer42/MimirQ/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 中文优先的企业 RAG 知识库：可控解析、治理、切块、混合检索、重排、引用、GraphRAG、评测与 Dify 接入。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ MimirQ 的生产可用性很高，社区活跃，更新频繁。它已经被评�
 | forks | 42/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

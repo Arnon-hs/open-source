@@ -1,6 +1,6 @@
 # hashicorp/vault-secrets-operator
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/vault-secrets-operator?style=flat-square&color=yellow)](https://github.com/hashicorp/vault-secrets-operator/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/vault-secrets-operator?style=flat-square&color=blue)](https://github.com/hashicorp/vault-secrets-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/vault-secrets-operator?style=flat-square&color=yellow)](https://github.com/hashicorp/vault-secrets-operator/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/vault-secrets-operator?style=flat-square&color=blue)](https://github.com/hashicorp/vault-secrets-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 593 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Hashicorp/vault-secrets-operator 在生产环境中非常可靠，拥有强大�
 | forks | 54/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

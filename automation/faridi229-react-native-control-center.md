@@ -1,6 +1,6 @@
 # faridi229/react-native-control-center
 
-[![Stars](https://img.shields.io/github/stars/faridi229/react-native-control-center?style=flat-square&color=yellow)](https://github.com/faridi229/react-native-control-center/stargazers) [![Forks](https://img.shields.io/github/forks/faridi229/react-native-control-center?style=flat-square&color=blue)](https://github.com/faridi229/react-native-control-center/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/faridi229/react-native-control-center?style=flat-square&color=yellow)](https://github.com/faridi229/react-native-control-center/stargazers) [![Forks](https://img.shields.io/github/forks/faridi229/react-native-control-center?style=flat-square&color=blue)](https://github.com/faridi229/react-native-control-center/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Ultimate React Native Workflow 2026 – One-Click Simulator & Metro Control
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ faridi229/react-native-control-center 的生产可用性为中等（Medium），
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

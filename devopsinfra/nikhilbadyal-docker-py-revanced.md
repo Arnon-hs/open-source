@@ -1,6 +1,6 @@
 # nikhilbadyal/docker-py-revanced
 
-[![Stars](https://img.shields.io/github/stars/nikhilbadyal/docker-py-revanced?style=flat-square&color=yellow)](https://github.com/nikhilbadyal/docker-py-revanced/stargazers) [![Forks](https://img.shields.io/github/forks/nikhilbadyal/docker-py-revanced?style=flat-square&color=blue)](https://github.com/nikhilbadyal/docker-py-revanced/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikhilbadyal/docker-py-revanced?style=flat-square&color=yellow)](https://github.com/nikhilbadyal/docker-py-revanced/stargazers) [![Forks](https://img.shields.io/github/forks/nikhilbadyal/docker-py-revanced?style=flat-square&color=blue)](https://github.com/nikhilbadyal/docker-py-revanced/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > One Click Python util to build all Revanced apps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 650 |
 | 🍴 **Forks** | 433 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ nikhilbadyal/docker-py-revanced 是一个“一键式”Python工具，基于 Do
 | forks | 66/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

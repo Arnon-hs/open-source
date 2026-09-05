@@ -1,6 +1,6 @@
 # am32-firmware/AM32
 
-[![Stars](https://img.shields.io/github/stars/am32-firmware/AM32?style=flat-square&color=yellow)](https://github.com/am32-firmware/AM32/stargazers) [![Forks](https://img.shields.io/github/forks/am32-firmware/AM32?style=flat-square&color=blue)](https://github.com/am32-firmware/AM32/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/am32-firmware/AM32?style=flat-square&color=yellow)](https://github.com/am32-firmware/AM32/stargazers) [![Forks](https://img.shields.io/github/forks/am32-firmware/AM32?style=flat-square&color=blue)](https://github.com/am32-firmware/AM32/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 910 |
 | 🍴 **Forks** | 420 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ AM32的生产可用性为中等。它适用于原型或内部工作流程，需�
 | forks | 66/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

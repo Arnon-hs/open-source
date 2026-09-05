@@ -1,6 +1,6 @@
 # gluonfield/jaz
 
-[![Stars](https://img.shields.io/github/stars/gluonfield/jaz?style=flat-square&color=yellow)](https://github.com/gluonfield/jaz/stargazers) [![Forks](https://img.shields.io/github/forks/gluonfield/jaz?style=flat-square&color=blue)](https://github.com/gluonfield/jaz/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gluonfield/jaz?style=flat-square&color=yellow)](https://github.com/gluonfield/jaz/stargazers) [![Forks](https://img.shields.io/github/forks/gluonfield/jaz?style=flat-square&color=blue)](https://github.com/gluonfield/jaz/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A personal AI on machines you own — any agent, loops that run overnight, boards, memory, and git control. Client/server split, always-on, open source end to end.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ gluonfield/jaz 适合希望在自有基础设施上快速实验 AI 代理、RAG 
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 75/100 |
-| outlook | 52/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # nopefallacy/vertical-video-editing-skills
 
-[![Stars](https://img.shields.io/github/stars/nopefallacy/vertical-video-editing-skills?style=flat-square&color=yellow)](https://github.com/nopefallacy/vertical-video-editing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/nopefallacy/vertical-video-editing-skills?style=flat-square&color=blue)](https://github.com/nopefallacy/vertical-video-editing-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nopefallacy/vertical-video-editing-skills?style=flat-square&color=yellow)](https://github.com/nopefallacy/vertical-video-editing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/nopefallacy/vertical-video-editing-skills?style=flat-square&color=blue)](https://github.com/nopefallacy/vertical-video-editing-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill for AI-assisted vertical (9:16) and multi-ratio video editing — captions, b-roll, transitions, and reusable style presets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Vertical Video · Video Editing · Templates
+Vertical Video · Video Editing · Templates · AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ nopefallacy/vertical-video-editing-skills：nopefallacy/vertical-video-editing-s
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 65/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

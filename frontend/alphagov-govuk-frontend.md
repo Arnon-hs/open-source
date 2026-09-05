@@ -1,6 +1,6 @@
 # alphagov/govuk-frontend
 
-[![Stars](https://img.shields.io/github/stars/alphagov/govuk-frontend?style=flat-square&color=yellow)](https://github.com/alphagov/govuk-frontend/stargazers) [![Forks](https://img.shields.io/github/forks/alphagov/govuk-frontend?style=flat-square&color=blue)](https://github.com/alphagov/govuk-frontend/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alphagov/govuk-frontend?style=flat-square&color=yellow)](https://github.com/alphagov/govuk-frontend/stargazers) [![Forks](https://img.shields.io/github/forks/alphagov/govuk-frontend?style=flat-square&color=blue)](https://github.com/alphagov/govuk-frontend/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ The **govuk-frontend** library from the UK government provides a ready‑made se
 | forks | 64/100 |
 | stars | 67/100 |
 | topics | 38/100 |
-| outlook | 46/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

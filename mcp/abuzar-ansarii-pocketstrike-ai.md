@@ -1,6 +1,6 @@
 # AbuZar-Ansarii/PocketStrike-AI
 
-[![Stars](https://img.shields.io/github/stars/AbuZar-Ansarii/PocketStrike-AI?style=flat-square&color=yellow)](https://github.com/AbuZar-Ansarii/PocketStrike-AI/stargazers) [![Forks](https://img.shields.io/github/forks/AbuZar-Ansarii/PocketStrike-AI?style=flat-square&color=blue)](https://github.com/AbuZar-Ansarii/PocketStrike-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AbuZar-Ansarii/PocketStrike-AI?style=flat-square&color=yellow)](https://github.com/AbuZar-Ansarii/PocketStrike-AI/stargazers) [![Forks](https://img.shields.io/github/forks/AbuZar-Ansarii/PocketStrike-AI?style=flat-square&color=blue)](https://github.com/AbuZar-Ansarii/PocketStrike-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Turn Android Termux into an autonomous AI agent and security orchestrator. Powered by a local ReAct framework with 50 system tools and MCP support, a background task   │ scheduler, on-device ADB controls, and a unified Web UI & Telegram Bot.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ AbuZar-Ansarii/PocketStrike-AI 的价值在于，它帮助连接 AI 助手到现
 | forks | 35/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

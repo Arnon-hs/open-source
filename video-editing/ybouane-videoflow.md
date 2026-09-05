@@ -1,6 +1,6 @@
 # ybouane/VideoFlow
 
-[![Stars](https://img.shields.io/github/stars/ybouane/VideoFlow?style=flat-square&color=yellow)](https://github.com/ybouane/VideoFlow/stargazers) [![Forks](https://img.shields.io/github/forks/ybouane/VideoFlow?style=flat-square&color=blue)](https://github.com/ybouane/VideoFlow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ybouane/VideoFlow?style=flat-square&color=yellow)](https://github.com/ybouane/VideoFlow/stargazers) [![Forks](https://img.shields.io/github/forks/ybouane/VideoFlow?style=flat-square&color=blue)](https://github.com/ybouane/VideoFlow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Programmatic video for the web. Define videos with a fluent TypeScript API, compile them to a portable JSON format, and render to MP4 — in the browser, on the server, or play them back live with full scrubbing controls.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ybouane/VideoFlow：ybouane/VideoFlow helps turn media editing, captions, render
 | forks | 39/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # weilin9999/WeiLin-Comfyui-Tools
 
-[![Stars](https://img.shields.io/github/stars/weilin9999/WeiLin-Comfyui-Tools?style=flat-square&color=yellow)](https://github.com/weilin9999/WeiLin-Comfyui-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/weilin9999/WeiLin-Comfyui-Tools?style=flat-square&color=blue)](https://github.com/weilin9999/WeiLin-Comfyui-Tools/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weilin9999/WeiLin-Comfyui-Tools?style=flat-square&color=yellow)](https://github.com/weilin9999/WeiLin-Comfyui-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/weilin9999/WeiLin-Comfyui-Tools?style=flat-square&color=blue)](https://github.com/weilin9999/WeiLin-Comfyui-Tools/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 让你在 ComfyUI 中快捷的使用提示词工具 quickly use the prompt word tool in ComfyUI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -174,11 +174,11 @@ WeiLin‑Comfyui‑Tools 为 ComfyUI 提供了即插即用的 Prompt 编辑组�
 | forks | 34/100 |
 | stars | 57/100 |
 | topics | 13/100 |
-| outlook | 49/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

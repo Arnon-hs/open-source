@@ -1,6 +1,6 @@
 # Felix3322/PotPlayer_ChatGPT_Translate
 
-[![Stars](https://img.shields.io/github/stars/Felix3322/PotPlayer_ChatGPT_Translate?style=flat-square&color=yellow)](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate/stargazers) [![Forks](https://img.shields.io/github/forks/Felix3322/PotPlayer_ChatGPT_Translate?style=flat-square&color=blue)](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Felix3322/PotPlayer_ChatGPT_Translate?style=flat-square&color=yellow)](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate/stargazers) [![Forks](https://img.shields.io/github/forks/Felix3322/PotPlayer_ChatGPT_Translate?style=flat-square&color=blue)](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 【兼容ollama和其他模型】将何具有OpenAI API调用方法的模型集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to translate subtitles on-the-fly while watching videos.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 959 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Felix3322/PotPlayer_ChatGPT_Translate 是一款将具备 OpenAI API 调用方式
 | forks | 45/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

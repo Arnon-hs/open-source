@@ -1,6 +1,6 @@
 # pi-hole/docker-pi-hole
 
-[![Stars](https://img.shields.io/github/stars/pi-hole/docker-pi-hole?style=flat-square&color=yellow)](https://github.com/pi-hole/docker-pi-hole/stargazers) [![Forks](https://img.shields.io/github/forks/pi-hole/docker-pi-hole?style=flat-square&color=blue)](https://github.com/pi-hole/docker-pi-hole/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pi-hole/docker-pi-hole?style=flat-square&color=yellow)](https://github.com/pi-hole/docker-pi-hole/stargazers) [![Forks](https://img.shields.io/github/forks/pi-hole/docker-pi-hole?style=flat-square&color=blue)](https://github.com/pi-hole/docker-pi-hole/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The official Pi-hole Docker image from pi-hole.net
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Pi-hole 的生产可用性非常高。它有强大的社区支持，最近的活
 | forks | 77/100 |
 | stars | 86/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

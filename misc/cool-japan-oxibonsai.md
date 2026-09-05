@@ -1,6 +1,6 @@
 # cool-japan/oxibonsai
 
-[![Stars](https://img.shields.io/github/stars/cool-japan/oxibonsai?style=flat-square&color=yellow)](https://github.com/cool-japan/oxibonsai/stargazers) [![Forks](https://img.shields.io/github/forks/cool-japan/oxibonsai?style=flat-square&color=blue)](https://github.com/cool-japan/oxibonsai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cool-japan/oxibonsai?style=flat-square&color=yellow)](https://github.com/cool-japan/oxibonsai/stargazers) [![Forks](https://img.shields.io/github/forks/cool-japan/oxibonsai?style=flat-square&color=blue)](https://github.com/cool-japan/oxibonsai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > OxiBonsai is a zero-FFI, zero-C/C++ inference engine for PrismML's sub-2-bit Bonsai family — both the 1-bit line (Q1_0_g128) and the ternary line (TQ2_0_g128). It runs on CPU (SIMD), Apple Silicon (Metal), and NVIDIA (CUDA) without depending on llama.cpp, BLAS, or any C/Fortran runtime.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Oxi
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 50/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

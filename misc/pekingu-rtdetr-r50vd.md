@@ -1,6 +1,6 @@
 # PekingU/rtdetr_r50vd
 
-[![Stars](https://img.shields.io/github/stars/PekingU/rtdetr_r50vd?style=flat-square&color=yellow)](https://huggingface.co/PekingU/rtdetr_r50vd/stargazers) [![Forks](https://img.shields.io/github/forks/PekingU/rtdetr_r50vd?style=flat-square&color=blue)](https://huggingface.co/PekingU/rtdetr_r50vd/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PekingU/rtdetr_r50vd?style=flat-square&color=yellow)](https://huggingface.co/PekingU/rtdetr_r50vd/stargazers) [![Forks](https://img.shields.io/github/forks/PekingU/rtdetr_r50vd?style=flat-square&color=blue)](https://huggingface.co/PekingU/rtdetr_r50vd/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Object detection (object-detection) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ PekingU/rtdetr_r50vd 的价值在于，它可以帮助您在不从零开始构�
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 32/100 |
-| quality | 32/100 |
-| recency | 20/100 |
+| outlook | 53/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 35/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

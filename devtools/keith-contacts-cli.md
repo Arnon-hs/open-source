@@ -1,6 +1,6 @@
 # keith/contacts-cli
 
-[![Stars](https://img.shields.io/github/stars/keith/contacts-cli?style=flat-square&color=yellow)](https://github.com/keith/contacts-cli/stargazers) [![Forks](https://img.shields.io/github/forks/keith/contacts-cli?style=flat-square&color=blue)](https://github.com/keith/contacts-cli/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keith/contacts-cli?style=flat-square&color=yellow)](https://github.com/keith/contacts-cli/stargazers) [![Forks](https://img.shields.io/github/forks/keith/contacts-cli?style=flat-square&color=blue)](https://github.com/keith/contacts-cli/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Query macOS contacts from the command line
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ keith/contacts-cli 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 23/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

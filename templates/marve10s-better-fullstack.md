@@ -1,6 +1,6 @@
 # Marve10s/Better-Fullstack
 
-[![Stars](https://img.shields.io/github/stars/Marve10s/Better-Fullstack?style=flat-square&color=yellow)](https://github.com/Marve10s/Better-Fullstack/stargazers) [![Forks](https://img.shields.io/github/forks/Marve10s/Better-Fullstack?style=flat-square&color=blue)](https://github.com/Marve10s/Better-Fullstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Marve10s/Better-Fullstack?style=flat-square&color=yellow)](https://github.com/Marve10s/Better-Fullstack/stargazers) [![Forks](https://img.shields.io/github/forks/Marve10s/Better-Fullstack?style=flat-square&color=blue)](https://github.com/Marve10s/Better-Fullstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Scaffold fullstack apps with your exact stack in seconds. 270+ options across TypeScript, Rust, Python & Go — everything configured and ready to build.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Frontend · DevTools · Database · Education
+Templates · Frontend · Backend · DevTools · Database
 
 ## 📝 Summary
 
@@ -103,11 +103,11 @@ Marve10s/Better‑Fullstack 是一个脚手架工具，能够在几秒钟内为�
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 57/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

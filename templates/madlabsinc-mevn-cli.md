@@ -1,6 +1,6 @@
 # madlabsinc/mevn-cli
 
-[![Stars](https://img.shields.io/github/stars/madlabsinc/mevn-cli?style=flat-square&color=yellow)](https://github.com/madlabsinc/mevn-cli/stargazers) [![Forks](https://img.shields.io/github/forks/madlabsinc/mevn-cli?style=flat-square&color=blue)](https://github.com/madlabsinc/mevn-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madlabsinc/mevn-cli?style=flat-square&color=yellow)](https://github.com/madlabsinc/mevn-cli/stargazers) [![Forks](https://img.shields.io/github/forks/madlabsinc/mevn-cli?style=flat-square&color=blue)](https://github.com/madlabsinc/mevn-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Light speed setup for MEVN(Mongo Express Vue Node)  Apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 829 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Frontend · DevTools · Database
+Templates · Frontend · Backend · DevTools · Database
 
 ## 📝 Summary
 
@@ -117,15 +117,15 @@ madlabsinc/mevn-cli 的生产可用性较高，因为它有：
 | forks | 54/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · DevOps/Infra
+Knowledge/RAG · Documents · Productivity · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ gamosoft/NoteDiscovery：gamosoft/NoteDiscovery helps make internal knowledge se
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

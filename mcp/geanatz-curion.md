@@ -1,6 +1,6 @@
 # geanatz/curion
 
-[![Stars](https://img.shields.io/github/stars/geanatz/curion?style=flat-square&color=yellow)](https://github.com/geanatz/curion/stargazers) [![Forks](https://img.shields.io/github/forks/geanatz/curion?style=flat-square&color=blue)](https://github.com/geanatz/curion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geanatz/curion?style=flat-square&color=yellow)](https://github.com/geanatz/curion/stargazers) [![Forks](https://img.shields.io/github/forks/geanatz/curion?style=flat-square&color=blue)](https://github.com/geanatz/curion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Curion is a project-local memory layer for AI coding agents, published as an MCP server for Claude Code, Codex, OpenCode, and other MCP clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Curion 的生产可用性较高，主要原因是：
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

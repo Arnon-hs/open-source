@@ -1,6 +1,6 @@
 # Pineconox1/polymarket-arbitrage-bot
 
-[![Stars](https://img.shields.io/github/stars/Pineconox1/polymarket-arbitrage-bot?style=flat-square&color=yellow)](https://github.com/Pineconox1/polymarket-arbitrage-bot/stargazers) [![Forks](https://img.shields.io/github/forks/Pineconox1/polymarket-arbitrage-bot?style=flat-square&color=blue)](https://github.com/Pineconox1/polymarket-arbitrage-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pineconox1/polymarket-arbitrage-bot?style=flat-square&color=yellow)](https://github.com/Pineconox1/polymarket-arbitrage-bot/stargazers) [![Forks](https://img.shields.io/github/forks/Pineconox1/polymarket-arbitrage-bot?style=flat-square&color=blue)](https://github.com/Pineconox1/polymarket-arbitrage-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Pineconox1/polymarket-arbitrage-bot 是一个开源项目，用于实现 Polymar
 | forks | 93/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

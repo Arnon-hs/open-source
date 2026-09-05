@@ -1,6 +1,6 @@
 # biomejs/biome-vscode
 
-[![Stars](https://img.shields.io/github/stars/biomejs/biome-vscode?style=flat-square&color=yellow)](https://github.com/biomejs/biome-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/biomejs/biome-vscode?style=flat-square&color=blue)](https://github.com/biomejs/biome-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/biomejs/biome-vscode?style=flat-square&color=yellow)](https://github.com/biomejs/biome-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/biomejs/biome-vscode?style=flat-square&color=blue)](https://github.com/biomejs/biome-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Biome extension for VS Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 421 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Biome‑VSCode 是 Biome 团队为 Visual Studio Code 打造的官方插件�
 | forks | 46/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

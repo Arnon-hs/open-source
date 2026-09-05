@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Observability
+Automation · AI/ML · Cloud & Storage · Communication · Observability
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ VersusControl/versus-incident：VersusControl/versus-incident helps remove repet
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

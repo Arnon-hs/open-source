@@ -1,6 +1,6 @@
 # DrJonaC/Pensieve
 
-[![Stars](https://img.shields.io/github/stars/DrJonaC/Pensieve?style=flat-square&color=yellow)](https://github.com/DrJonaC/Pensieve/stargazers) [![Forks](https://img.shields.io/github/forks/DrJonaC/Pensieve?style=flat-square&color=blue)](https://github.com/DrJonaC/Pensieve/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DrJonaC/Pensieve?style=flat-square&color=yellow)](https://github.com/DrJonaC/Pensieve/stargazers) [![Forks](https://img.shields.io/github/forks/DrJonaC/Pensieve?style=flat-square&color=blue)](https://github.com/DrJonaC/Pensieve/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Observe how memory shapes an answer.  Pensieve is an interactive system for visualizing, interpreting, and managing how Large Language Models (LLMs) “remember” a user. It bridges the gap between model-level mechanisms and user-level understanding, making AI memory observable, explainable, and partially controllable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Pensieve的生产可用性为中等。它适用于原型开发或内部工作流
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 57/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

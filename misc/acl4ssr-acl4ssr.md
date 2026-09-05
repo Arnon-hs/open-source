@@ -1,6 +1,6 @@
 # ACL4SSR/ACL4SSR
 
-[![Stars](https://img.shields.io/github/stars/ACL4SSR/ACL4SSR?style=flat-square&color=yellow)](https://github.com/ACL4SSR/ACL4SSR/stargazers) [![Forks](https://img.shields.io/github/forks/ACL4SSR/ACL4SSR?style=flat-square&color=blue)](https://github.com/ACL4SSR/ACL4SSR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ACL4SSR/ACL4SSR?style=flat-square&color=yellow)](https://github.com/ACL4SSR/ACL4SSR/stargazers) [![Forks](https://img.shields.io/github/forks/ACL4SSR/ACL4SSR?style=flat-square&color=blue)](https://github.com/ACL4SSR/ACL4SSR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ACL4SSR 是一套基于 SSR（ShadowsocksR）/SS 的去广告与科学上网 ACL
 | forks | 83/100 |
 | stars | 81/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

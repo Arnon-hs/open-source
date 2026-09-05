@@ -1,6 +1,6 @@
 # seatedro/diffy
 
-[![Stars](https://img.shields.io/github/stars/seatedro/diffy?style=flat-square&color=yellow)](https://github.com/seatedro/diffy/stargazers) [![Forks](https://img.shields.io/github/forks/seatedro/diffy?style=flat-square&color=blue)](https://github.com/seatedro/diffy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seatedro/diffy?style=flat-square&color=yellow)](https://github.com/seatedro/diffy/stargazers) [![Forks](https://img.shields.io/github/forks/seatedro/diffy?style=flat-square&color=blue)](https://github.com/seatedro/diffy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Native, cross platform, VCS agnostic Diff tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ seatedro/diffy 是一款用 Rust 编写的原生跨平台 Diff 工具，摆脱�
 | forks | 8/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 37/100 |
-| quality | 36/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 39/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

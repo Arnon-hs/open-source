@@ -1,6 +1,6 @@
 # novitalabs/pegaflow
 
-[![Stars](https://img.shields.io/github/stars/novitalabs/pegaflow?style=flat-square&color=yellow)](https://github.com/novitalabs/pegaflow/stargazers) [![Forks](https://img.shields.io/github/forks/novitalabs/pegaflow?style=flat-square&color=blue)](https://github.com/novitalabs/pegaflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/novitalabs/pegaflow?style=flat-square&color=yellow)](https://github.com/novitalabs/pegaflow/stargazers) [![Forks](https://img.shields.io/github/forks/novitalabs/pegaflow?style=flat-square&color=blue)](https://github.com/novitalabs/pegaflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance KV cache storage for LLM inference — GPU offloading, SSD caching, and cross-node sharing via RDMA. Works with vLLM and SGLang.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ novitalabs/pegaflow 在生产环境中有中等程度的可用性。它适合用
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

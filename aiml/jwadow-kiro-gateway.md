@@ -1,6 +1,6 @@
 # jwadow/kiro-gateway
 
-[![Stars](https://img.shields.io/github/stars/jwadow/kiro-gateway?style=flat-square&color=yellow)](https://github.com/jwadow/kiro-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/jwadow/kiro-gateway?style=flat-square&color=blue)](https://github.com/jwadow/kiro-gateway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jwadow/kiro-gateway?style=flat-square&color=yellow)](https://github.com/jwadow/kiro-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/jwadow/kiro-gateway?style=flat-square&color=blue)](https://github.com/jwadow/kiro-gateway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Cloud & Storage · Networking · Backend · DevTools
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ jwadow/kiro-gateway 是一个基于 Python 实现的轻量级 API Gateway，�
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # microsoft/VFSForGit
 
-[![Stars](https://img.shields.io/github/stars/microsoft/VFSForGit?style=flat-square&color=yellow)](https://github.com/microsoft/VFSForGit/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/VFSForGit?style=flat-square&color=blue)](https://github.com/microsoft/VFSForGit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/VFSForGit?style=flat-square&color=yellow)](https://github.com/microsoft/VFSForGit/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/VFSForGit?style=flat-square&color=blue)](https://github.com/microsoft/VFSForGit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Virtual File System for Git: Enable Git at Enterprise Scale
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 473 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ microsoft/VFSForGit 提供了一个虚拟文件系统，使得超大型代码库
 | forks | 67/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

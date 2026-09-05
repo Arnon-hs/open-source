@@ -1,6 +1,6 @@
 # strands-labs/ai-functions
 
-[![Stars](https://img.shields.io/github/stars/strands-labs/ai-functions?style=flat-square&color=yellow)](https://github.com/strands-labs/ai-functions/stargazers) [![Forks](https://img.shields.io/github/forks/strands-labs/ai-functions?style=flat-square&color=blue)](https://github.com/strands-labs/ai-functions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-labs/ai-functions?style=flat-square&color=yellow)](https://github.com/strands-labs/ai-functions/stargazers) [![Forks](https://img.shields.io/github/forks/strands-labs/ai-functions?style=flat-square&color=blue)](https://github.com/strands-labs/ai-functions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ strands‑labs/ai‑functions 是一套基于 AI 代理的 Python 函数库，�
 | forks | 36/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

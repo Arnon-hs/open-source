@@ -1,6 +1,6 @@
 # c-ares/c-ares
 
-[![Stars](https://img.shields.io/github/stars/c-ares/c-ares?style=flat-square&color=yellow)](https://github.com/c-ares/c-ares/stargazers) [![Forks](https://img.shields.io/github/forks/c-ares/c-ares?style=flat-square&color=blue)](https://github.com/c-ares/c-ares/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/c-ares/c-ares?style=flat-square&color=yellow)](https://github.com/c-ares/c-ares/stargazers) [![Forks](https://img.shields.io/github/forks/c-ares/c-ares?style=flat-square&color=blue)](https://github.com/c-ares/c-ares/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A C library for asynchronous DNS requests
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 667 |
 | 💻 **Language** | C |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ c-ares 在生产环境中有很高的可用性，因为它最近有活动，已�
 | forks | 71/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

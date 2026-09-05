@@ -1,6 +1,6 @@
 # pytorch/helion
 
-[![Stars](https://img.shields.io/github/stars/pytorch/helion?style=flat-square&color=yellow)](https://github.com/pytorch/helion/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/helion?style=flat-square&color=blue)](https://github.com/pytorch/helion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pytorch/helion?style=flat-square&color=yellow)](https://github.com/pytorch/helion/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/helion?style=flat-square&color=blue)](https://github.com/pytorch/helion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 860 |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Templates
+Templates · AI/ML
 
 ## 📝 Summary
 
@@ -116,15 +116,15 @@ pytorch/helion — это встраиваемый DSL на Python, позво
 | forks | 54/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

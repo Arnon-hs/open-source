@@ -1,6 +1,6 @@
 # Quantova/Q-Lightclient
 
-[![Stars](https://img.shields.io/github/stars/Quantova/Q-Lightclient?style=flat-square&color=yellow)](https://github.com/Quantova/Q-Lightclient/stargazers) [![Forks](https://img.shields.io/github/forks/Quantova/Q-Lightclient?style=flat-square&color=blue)](https://github.com/Quantova/Q-Lightclient/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quantova/Q-Lightclient?style=flat-square&color=yellow)](https://github.com/Quantova/Q-Lightclient/stargazers) [![Forks](https://img.shields.io/github/forks/Quantova/Q-Lightclient?style=flat-square&color=blue)](https://github.com/Quantova/Q-Lightclient/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Post quantum light client for Quantova. Header sync and hash based proof verification, embedded by wallets and QCore.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Quantova/Q-Lightclient 的生产可用性为中等。虽然它可以用于 proto
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 44/100 |
-| recency | 60/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 54/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

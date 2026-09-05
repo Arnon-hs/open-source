@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 676 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation
+Automation · Security
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ QLHazyCoder/codex-oauth-automation-extension：QLHazyCoder/codex-oauth-automatio
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

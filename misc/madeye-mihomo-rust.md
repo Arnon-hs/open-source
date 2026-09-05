@@ -1,6 +1,6 @@
 # madeye/mihomo-rust
 
-[![Stars](https://img.shields.io/github/stars/madeye/mihomo-rust?style=flat-square&color=yellow)](https://github.com/madeye/mihomo-rust/stargazers) [![Forks](https://img.shields.io/github/forks/madeye/mihomo-rust?style=flat-square&color=blue)](https://github.com/madeye/mihomo-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madeye/mihomo-rust?style=flat-square&color=yellow)](https://github.com/madeye/mihomo-rust/stargazers) [![Forks](https://img.shields.io/github/forks/madeye/mihomo-rust?style=flat-square&color=blue)](https://github.com/madeye/mihomo-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ With these safeguards, madeye/mihomo-rust can become a reliable component in pro
 | forks | 31/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 37/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 39/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

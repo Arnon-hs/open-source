@@ -1,6 +1,6 @@
 # vernu/textbee
 
-[![Stars](https://img.shields.io/github/stars/vernu/textbee?style=flat-square&color=yellow)](https://github.com/vernu/textbee/stargazers) [![Forks](https://img.shields.io/github/forks/vernu/textbee?style=flat-square&color=blue)](https://github.com/vernu/textbee/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vernu/textbee?style=flat-square&color=yellow)](https://github.com/vernu/textbee/stargazers) [![Forks](https://img.shields.io/github/forks/vernu/textbee?style=flat-square&color=blue)](https://github.com/vernu/textbee/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > open-source sms-gateway. turn any android phone into an sms gateway
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 385 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ vernu/textbee 是一个开源的 SMS Gateway，能够把任意 Android 手机�
 | forks | 65/100 |
 | stars | 74/100 |
 | topics | 88/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

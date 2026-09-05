@@ -1,6 +1,6 @@
 # haifengl/smile
 
-[![Stars](https://img.shields.io/github/stars/haifengl/smile?style=flat-square&color=yellow)](https://github.com/haifengl/smile/stargazers) [![Forks](https://img.shields.io/github/forks/haifengl/smile?style=flat-square&color=blue)](https://github.com/haifengl/smile/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haifengl/smile?style=flat-square&color=yellow)](https://github.com/haifengl/smile/stargazers) [![Forks](https://img.shields.io/github/forks/haifengl/smile?style=flat-square&color=blue)](https://github.com/haifengl/smile/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Statistical Machine Intelligence & Learning Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ haifengl/smile 具备高质量的代码基底、丰富的算法实现和良好�
 | forks | 76/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

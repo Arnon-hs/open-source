@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-dotnet
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-dotnet?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-dotnet?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-dotnet?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-dotnet?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The OpenTelemetry .NET Client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 890 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ open-telemetry/opentelemetry-dotnet 的价值在于它可以帮助工程师：
 | forks | 74/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 79/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

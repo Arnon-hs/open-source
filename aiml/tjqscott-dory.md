@@ -1,6 +1,6 @@
 # tjqscott/dory
 
-[![Stars](https://img.shields.io/github/stars/tjqscott/dory?style=flat-square&color=yellow)](https://github.com/tjqscott/dory/stargazers) [![Forks](https://img.shields.io/github/forks/tjqscott/dory?style=flat-square&color=blue)](https://github.com/tjqscott/dory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tjqscott/dory?style=flat-square&color=yellow)](https://github.com/tjqscott/dory/stargazers) [![Forks](https://img.shields.io/github/forks/tjqscott/dory?style=flat-square&color=blue)](https://github.com/tjqscott/dory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Dory treats hosted LLM interfaces as disposable tools by offloading state to your local environment and enforcing atomic sessions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Dory 的生产可用性评估为中等（Medium），适合用于以下场景：
 | forks | 0/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

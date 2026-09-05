@@ -1,6 +1,6 @@
 # verygoodplugins/mcp-freescout
 
-[![Stars](https://img.shields.io/github/stars/verygoodplugins/mcp-freescout?style=flat-square&color=yellow)](https://github.com/verygoodplugins/mcp-freescout/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/mcp-freescout?style=flat-square&color=blue)](https://github.com/verygoodplugins/mcp-freescout/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verygoodplugins/mcp-freescout?style=flat-square&color=yellow)](https://github.com/verygoodplugins/mcp-freescout/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/mcp-freescout?style=flat-square&color=blue)](https://github.com/verygoodplugins/mcp-freescout/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP (Model Context Protocol) server for FreeScout helpdesk ticket management and workflow automation. This server provides tools to interact with FreeScout tickets, analyze issues, manage responses, and integrate with Git workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ verygoodplugins/mcp-freescout 在生产环境中有很高的可用性。它具�
 | forks | 26/100 |
 | stars | 30/100 |
 | topics | 88/100 |
-| outlook | 67/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

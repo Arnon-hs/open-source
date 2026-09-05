@@ -1,6 +1,6 @@
 # tamtom/gplay-cli-skills
 
-[![Stars](https://img.shields.io/github/stars/tamtom/gplay-cli-skills?style=flat-square&color=yellow)](https://github.com/tamtom/gplay-cli-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tamtom/gplay-cli-skills?style=flat-square&color=blue)](https://github.com/tamtom/gplay-cli-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tamtom/gplay-cli-skills?style=flat-square&color=yellow)](https://github.com/tamtom/gplay-cli-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tamtom/gplay-cli-skills?style=flat-square&color=blue)](https://github.com/tamtom/gplay-cli-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Skills for Google Play Console CLI (gplay)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ tamtom/gplay-cli-skills - это открытый проект, который �
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 39/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Knowledge/RAG · Frontend
+Templates · Knowledge/RAG · Documents · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -118,7 +118,7 @@ rockbenben/LearnData 的生产可用性较高，因为它有活跃的社区支�
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

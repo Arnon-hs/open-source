@@ -1,6 +1,6 @@
 # enricoros/big-AGI
 
-[![Stars](https://img.shields.io/github/stars/enricoros/big-AGI?style=flat-square&color=yellow)](https://github.com/enricoros/big-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/enricoros/big-AGI?style=flat-square&color=blue)](https://github.com/enricoros/big-AGI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enricoros/big-AGI?style=flat-square&color=yellow)](https://github.com/enricoros/big-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/enricoros/big-AGI?style=flat-square&color=blue)](https://github.com/enricoros/big-AGI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · AI/ML · Backend
+Templates · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ enricoros/big-AGI 是一套基于最新大模型的 AI 开发平台，提供 AI 
 | forks | 80/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 72/100 |
-| recency | 20/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

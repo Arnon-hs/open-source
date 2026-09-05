@@ -1,6 +1,6 @@
 # Google-Cloud-AI/agent-platform
 
-[![Stars](https://img.shields.io/github/stars/Google-Cloud-AI/agent-platform?style=flat-square&color=yellow)](https://github.com/Google-Cloud-AI/agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/Google-Cloud-AI/agent-platform?style=flat-square&color=blue)](https://github.com/Google-Cloud-AI/agent-platform/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Google-Cloud-AI/agent-platform?style=flat-square&color=yellow)](https://github.com/Google-Cloud-AI/agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/Google-Cloud-AI/agent-platform?style=flat-square&color=blue)](https://github.com/Google-Cloud-AI/agent-platform/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -117,15 +117,15 @@ Google-Cloud-AI/agent-platform 是一套精选的代码示例和教程，帮助�
 | forks | 36/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

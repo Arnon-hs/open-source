@@ -1,6 +1,6 @@
 # taskade/mcp
 
-[![Stars](https://img.shields.io/github/stars/taskade/mcp?style=flat-square&color=yellow)](https://github.com/taskade/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/taskade/mcp?style=flat-square&color=blue)](https://github.com/taskade/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taskade/mcp?style=flat-square&color=yellow)](https://github.com/taskade/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/taskade/mcp?style=flat-square&color=blue)](https://github.com/taskade/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
@@ -135,15 +135,15 @@ await client.registerTool({
 | forks | 39/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

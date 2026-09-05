@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ Adyen/adyen-dotnet-api-library：Adyen/adyen-dotnet-api-library helps integrate 
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

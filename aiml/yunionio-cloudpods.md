@@ -1,6 +1,6 @@
 # yunionio/cloudpods
 
-[![Stars](https://img.shields.io/github/stars/yunionio/cloudpods?style=flat-square&color=yellow)](https://github.com/yunionio/cloudpods/stargazers) [![Forks](https://img.shields.io/github/forks/yunionio/cloudpods?style=flat-square&color=blue)](https://github.com/yunionio/cloudpods/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yunionio/cloudpods?style=flat-square&color=yellow)](https://github.com/yunionio/cloudpods/stargazers) [![Forks](https://img.shields.io/github/forks/yunionio/cloudpods?style=flat-square&color=blue)](https://github.com/yunionio/cloudpods/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source cloud-native unified-cloud platform. 开源云原生融合云平台
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 632 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ yunionio/cloudpods 是一款开源的云原生融合云平台，提供统一的�
 | forks | 70/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

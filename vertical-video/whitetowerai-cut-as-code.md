@@ -1,6 +1,6 @@
 # WhiteTowerAI/cut-as-code
 
-[![Stars](https://img.shields.io/github/stars/WhiteTowerAI/cut-as-code?style=flat-square&color=yellow)](https://github.com/WhiteTowerAI/cut-as-code/stargazers) [![Forks](https://img.shields.io/github/forks/WhiteTowerAI/cut-as-code?style=flat-square&color=blue)](https://github.com/WhiteTowerAI/cut-as-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WhiteTowerAI/cut-as-code?style=flat-square&color=yellow)](https://github.com/WhiteTowerAI/cut-as-code/stargazers) [![Forks](https://img.shields.io/github/forks/WhiteTowerAI/cut-as-code?style=flat-square&color=blue)](https://github.com/WhiteTowerAI/cut-as-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source agentic video editing skills — an AI-powered alternative to Opus Clip and CapCut
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ WhiteTowerAI/cut-as-code 是一款基于 AI 的开源视频编辑工具，能够
 | forks | 0/100 |
 | stars | 23/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 17/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

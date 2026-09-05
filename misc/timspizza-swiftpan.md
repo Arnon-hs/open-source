@@ -1,6 +1,6 @@
 # TimsPizza/SwiftPan
 
-[![Stars](https://img.shields.io/github/stars/TimsPizza/SwiftPan?style=flat-square&color=yellow)](https://github.com/TimsPizza/SwiftPan/stargazers) [![Forks](https://img.shields.io/github/forks/TimsPizza/SwiftPan?style=flat-square&color=blue)](https://github.com/TimsPizza/SwiftPan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TimsPizza/SwiftPan?style=flat-square&color=yellow)](https://github.com/TimsPizza/SwiftPan/stargazers) [![Forks](https://img.shields.io/github/forks/TimsPizza/SwiftPan?style=flat-square&color=blue)](https://github.com/TimsPizza/SwiftPan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A cloud drive app using Cloudflare R2 storage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ TimsPizza/SwiftPan 的生产可用性为中等，即可用于原型或内部工�
 | forks | 0/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 45/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 52/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

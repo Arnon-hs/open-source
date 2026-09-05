@@ -1,6 +1,6 @@
 # kubernetes-sigs/jobset
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/jobset?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/jobset/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/jobset?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/jobset/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/jobset?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/jobset/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/jobset?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/jobset/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > JobSet: a k8s native API for distributed ML training and HPC workloads
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ kubernetes-sigs/jobset 具有较高的生产可用性，主要原因是：
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

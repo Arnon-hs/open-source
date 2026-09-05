@@ -1,6 +1,6 @@
 # 7xuanlu/wenlan
 
-[![Stars](https://img.shields.io/github/stars/7xuanlu/wenlan?style=flat-square&color=yellow)](https://github.com/7xuanlu/wenlan/stargazers) [![Forks](https://img.shields.io/github/forks/7xuanlu/wenlan?style=flat-square&color=blue)](https://github.com/7xuanlu/wenlan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/7xuanlu/wenlan?style=flat-square&color=yellow)](https://github.com/7xuanlu/wenlan/stargazers) [![Forks](https://img.shields.io/github/forks/7xuanlu/wenlan?style=flat-square&color=blue)](https://github.com/7xuanlu/wenlan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A personal knowledge library for the AI-native age. Your AI agents capture what they learn, Wenlan keeps it current and distills it into source-cited wiki pages you can trust, across Claude Code, Codex, Cursor, and any MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Wenlan is an open‑source personal knowledge library designed for the AI‑nati
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # facebook/stylex
 
-[![Stars](https://img.shields.io/github/stars/facebook/stylex?style=flat-square&color=yellow)](https://github.com/facebook/stylex/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/stylex?style=flat-square&color=blue)](https://github.com/facebook/stylex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/stylex?style=flat-square&color=yellow)](https://github.com/facebook/stylex/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/stylex?style=flat-square&color=blue)](https://github.com/facebook/stylex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > StyleX is the styling system for ambitious user interfaces.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 412 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ StyleX 是 Facebook 开源的下一代样式系统，旨在为大型、交互复
 | forks | 65/100 |
 | stars | 84/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

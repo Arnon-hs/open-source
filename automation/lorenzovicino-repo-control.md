@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · DevOps/Infra
+Automation · AI/ML · Productivity · Frontend · Backend
 
 ## 📝 Summary
 
 ### English
 
-LorenzoVicino/repo-control: . Use it for Automation, AI/ML, Frontend, DevTools, DevOps/Infra. 
+LorenzoVicino/repo-control: . Use it for Automation, AI/ML, Productivity, Frontend, Backend. 
 
 ### Русский
 
-LorenzoVicino/repo-control: open-source проект в категориях Automation, AI/ML, Frontend, DevTools, DevOps/Infra. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+LorenzoVicino/repo-control: open-source проект в категориях Automation, AI/ML, Productivity, Frontend, Backend. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-LorenzoVicino/repo-control：。适合用于Automation、AI/ML、Frontend、DevTools、DevOps/Infra。
+LorenzoVicino/repo-control：。适合用于Automation、AI/ML、Productivity、Frontend、Backend。
 
 ## 🧭 Practical evaluation
 

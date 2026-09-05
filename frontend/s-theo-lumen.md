@@ -1,6 +1,6 @@
 # s-theo/lumen
 
-[![Stars](https://img.shields.io/github/stars/s-theo/lumen?style=flat-square&color=yellow)](https://github.com/s-theo/lumen/stargazers) [![Forks](https://img.shields.io/github/forks/s-theo/lumen?style=flat-square&color=blue)](https://github.com/s-theo/lumen/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s-theo/lumen?style=flat-square&color=yellow)](https://github.com/s-theo/lumen/stargazers) [![Forks](https://img.shields.io/github/forks/s-theo/lumen?style=flat-square&color=blue)](https://github.com/s-theo/lumen/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ 专为 VitePress 打造的主题美化与 Vue 扩展组件库
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ s-theo/lumen 的生产可用性较高，理由如下：
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

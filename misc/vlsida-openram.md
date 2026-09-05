@@ -1,6 +1,6 @@
 # VLSIDA/OpenRAM
 
-[![Stars](https://img.shields.io/github/stars/VLSIDA/OpenRAM?style=flat-square&color=yellow)](https://github.com/VLSIDA/OpenRAM/stargazers) [![Forks](https://img.shields.io/github/forks/VLSIDA/OpenRAM?style=flat-square&color=blue)](https://github.com/VLSIDA/OpenRAM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VLSIDA/OpenRAM?style=flat-square&color=yellow)](https://github.com/VLSIDA/OpenRAM/stargazers) [![Forks](https://img.shields.io/github/forks/VLSIDA/OpenRAM?style=flat-square&color=blue)](https://github.com/VLSIDA/OpenRAM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source static random access memory (SRAM) compiler.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ VLSIDA/OpenRAM 是一个开源的 SRAM（静态随机存取存储器）编译器
 | forks | 61/100 |
 | stars | 65/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

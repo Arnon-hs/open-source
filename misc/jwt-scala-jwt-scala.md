@@ -1,6 +1,6 @@
 # jwt-scala/jwt-scala
 
-[![Stars](https://img.shields.io/github/stars/jwt-scala/jwt-scala?style=flat-square&color=yellow)](https://github.com/jwt-scala/jwt-scala/stargazers) [![Forks](https://img.shields.io/github/forks/jwt-scala/jwt-scala?style=flat-square&color=blue)](https://github.com/jwt-scala/jwt-scala/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jwt-scala/jwt-scala?style=flat-square&color=yellow)](https://github.com/jwt-scala/jwt-scala/stargazers) [![Forks](https://img.shields.io/github/forks/jwt-scala/jwt-scala?style=flat-square&color=blue)](https://github.com/jwt-scala/jwt-scala/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > JWT support for Scala. Bonus extensions for Play, Play JSON, Json4s, Circe, uPickle, Spray and Argonaut
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 676 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -165,11 +165,11 @@ In short, `jwt-scala/jwt-scala` offers a convenient, Scala‑native JWT solution
 | forks | 54/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 44/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

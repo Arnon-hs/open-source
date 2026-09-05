@@ -1,6 +1,6 @@
 # demisto/content
 
-[![Stars](https://img.shields.io/github/stars/demisto/content?style=flat-square&color=yellow)](https://github.com/demisto/content/stargazers) [![Forks](https://img.shields.io/github/forks/demisto/content?style=flat-square&color=blue)](https://github.com/demisto/content/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/demisto/content?style=flat-square&color=yellow)](https://github.com/demisto/content/stargazers) [![Forks](https://img.shields.io/github/forks/demisto/content?style=flat-square&color=blue)](https://github.com/demisto/content/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ demisto/content 是 Cortex XSOAR（原 Demisto）官方的内容仓库，提�
 | forks | 82/100 |
 | stars | 66/100 |
 | topics | 25/100 |
-| outlook | 46/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # JetBrains/compose-hot-reload
 
-[![Stars](https://img.shields.io/github/stars/JetBrains/compose-hot-reload?style=flat-square&color=yellow)](https://github.com/JetBrains/compose-hot-reload/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/compose-hot-reload?style=flat-square&color=blue)](https://github.com/JetBrains/compose-hot-reload/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetBrains/compose-hot-reload?style=flat-square&color=yellow)](https://github.com/JetBrains/compose-hot-reload/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/compose-hot-reload?style=flat-square&color=blue)](https://github.com/JetBrains/compose-hot-reload/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Compose Hot Reload: Make changes to your UI code in a Compose Multiplatform application, and see the results in real time. No restarts required. Compose Hot Reload runs your application on the JetBrains Runtime and intelligently reloads your code whenever it is changed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ Compose Hot Reload 是提升 Compose Multiplatform 开发效率的利器�
 | forks | 41/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

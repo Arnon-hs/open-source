@@ -1,6 +1,6 @@
 # fluttercandies/flutter_photo_manager
 
-[![Stars](https://img.shields.io/github/stars/fluttercandies/flutter_photo_manager?style=flat-square&color=yellow)](https://github.com/fluttercandies/flutter_photo_manager/stargazers) [![Forks](https://img.shields.io/github/forks/fluttercandies/flutter_photo_manager?style=flat-square&color=blue)](https://github.com/fluttercandies/flutter_photo_manager/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluttercandies/flutter_photo_manager?style=flat-square&color=yellow)](https://github.com/fluttercandies/flutter_photo_manager/stargazers) [![Forks](https://img.shields.io/github/forks/fluttercandies/flutter_photo_manager?style=flat-square&color=blue)](https://github.com/fluttercandies/flutter_photo_manager/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, macOS and OpenHarmony.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 767 |
 | 🍴 **Forks** | 384 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,11 +128,11 @@ fluttercandies/flutter_photo_manager 是一款跨平台的 Flutter 插件，提�
 | forks | 65/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

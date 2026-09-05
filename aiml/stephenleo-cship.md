@@ -1,6 +1,6 @@
 # stephenleo/cship
 
-[![Stars](https://img.shields.io/github/stars/stephenleo/cship?style=flat-square&color=yellow)](https://github.com/stephenleo/cship/stargazers) [![Forks](https://img.shields.io/github/forks/stephenleo/cship?style=flat-square&color=blue)](https://github.com/stephenleo/cship/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stephenleo/cship?style=flat-square&color=yellow)](https://github.com/stephenleo/cship/stargazers) [![Forks](https://img.shields.io/github/forks/stephenleo/cship?style=flat-square&color=blue)](https://github.com/stephenleo/cship/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ A beautiful, fully customizable statusline for Claude Code - Starship-style TOML config, themeable colours, Nerd Font glyphs, and tunable cost/context/usage thresholds.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ AI/ML
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

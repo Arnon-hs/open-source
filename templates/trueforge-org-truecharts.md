@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 610 |
 | 💻 **Language** | Go Template |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,6 +78,7 @@ trueforge-org/truecharts：trueforge-org/truecharts helps teams reuse working wo
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

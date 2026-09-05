@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 528 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database
+MCP · AI/ML · Communication · Productivity · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ NateBJones-Projects/OB1：NateBJones-Projects/OB1 helps connect AI assistants to
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zentralopensource/zentral
 
-[![Stars](https://img.shields.io/github/stars/zentralopensource/zentral?style=flat-square&color=yellow)](https://github.com/zentralopensource/zentral/stargazers) [![Forks](https://img.shields.io/github/forks/zentralopensource/zentral?style=flat-square&color=blue)](https://github.com/zentralopensource/zentral/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zentralopensource/zentral?style=flat-square&color=yellow)](https://github.com/zentralopensource/zentral/stargazers) [![Forks](https://img.shields.io/github/forks/zentralopensource/zentral?style=flat-square&color=blue)](https://github.com/zentralopensource/zentral/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 860 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Zentral 是面向企业的 Apple 终端管理平台，提供统一的可观测�
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

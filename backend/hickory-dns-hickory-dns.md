@@ -1,6 +1,6 @@
 # hickory-dns/hickory-dns
 
-[![Stars](https://img.shields.io/github/stars/hickory-dns/hickory-dns?style=flat-square&color=yellow)](https://github.com/hickory-dns/hickory-dns/stargazers) [![Forks](https://img.shields.io/github/forks/hickory-dns/hickory-dns?style=flat-square&color=blue)](https://github.com/hickory-dns/hickory-dns/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hickory-dns/hickory-dns?style=flat-square&color=yellow)](https://github.com/hickory-dns/hickory-dns/stargazers) [![Forks](https://img.shields.io/github/forks/hickory-dns/hickory-dns?style=flat-square&color=blue)](https://github.com/hickory-dns/hickory-dns/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust based DNS client, server, and resolver
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 583 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ hickory-dns 是用 Rust 编写的高性能 DNS 客户端、服务器和解析器
 | forks | 69/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

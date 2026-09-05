@@ -1,6 +1,6 @@
 # KomorGiaoGiao/FirstCoder
 
-[![Stars](https://img.shields.io/github/stars/KomorGiaoGiao/FirstCoder?style=flat-square&color=yellow)](https://github.com/KomorGiaoGiao/FirstCoder/stargazers) [![Forks](https://img.shields.io/github/forks/KomorGiaoGiao/FirstCoder?style=flat-square&color=blue)](https://github.com/KomorGiaoGiao/FirstCoder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KomorGiaoGiao/FirstCoder?style=flat-square&color=yellow)](https://github.com/KomorGiaoGiao/FirstCoder/stargazers) [![Forks](https://img.shields.io/github/forks/KomorGiaoGiao/FirstCoder?style=flat-square&color=blue)](https://github.com/KomorGiaoGiao/FirstCoder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > FirstCoder——你见过的最好的可读可用可学的agent项目，将它加入你的作品集和简历项目当中吧
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ FirstCoder 的生产可用性为中等（Medium）。它适合用于快速 proto
 | forks | 19/100 |
 | stars | 37/100 |
 | topics | 88/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

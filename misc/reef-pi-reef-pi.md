@@ -1,6 +1,6 @@
 # reef-pi/reef-pi
 
-[![Stars](https://img.shields.io/github/stars/reef-pi/reef-pi?style=flat-square&color=yellow)](https://github.com/reef-pi/reef-pi/stargazers) [![Forks](https://img.shields.io/github/forks/reef-pi/reef-pi?style=flat-square&color=blue)](https://github.com/reef-pi/reef-pi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reef-pi/reef-pi?style=flat-square&color=yellow)](https://github.com/reef-pi/reef-pi/stargazers) [![Forks](https://img.shields.io/github/forks/reef-pi/reef-pi?style=flat-square&color=blue)](https://github.com/reef-pi/reef-pi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An opensource reef tank controller based on Raspberry Pi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 433 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Reef‑Pi 是基于 Raspberry Pi 的开源珊瑚礁水族箱控制系统，提
 | forks | 54/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

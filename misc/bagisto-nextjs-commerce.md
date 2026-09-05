@@ -1,6 +1,6 @@
 # bagisto/nextjs-commerce
 
-[![Stars](https://img.shields.io/github/stars/bagisto/nextjs-commerce?style=flat-square&color=yellow)](https://github.com/bagisto/nextjs-commerce/stargazers) [![Forks](https://img.shields.io/github/forks/bagisto/nextjs-commerce?style=flat-square&color=blue)](https://github.com/bagisto/nextjs-commerce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bagisto/nextjs-commerce?style=flat-square&color=yellow)](https://github.com/bagisto/nextjs-commerce/stargazers) [![Forks](https://img.shields.io/github/forks/bagisto/nextjs-commerce?style=flat-square&color=blue)](https://github.com/bagisto/nextjs-commerce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open source headless commerce that’s fast, flexible, and built to scale,launch stunning storefronts that convert and grow your business without limits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Bagisto Next.js Commerce 是一套基于 Next.js 的开源 Headless 电商�
 | forks | 50/100 |
 | stars | 79/100 |
 | topics | 63/100 |
-| outlook | 49/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

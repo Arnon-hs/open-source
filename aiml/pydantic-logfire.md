@@ -1,6 +1,6 @@
 # pydantic/logfire
 
-[![Stars](https://img.shields.io/github/stars/pydantic/logfire?style=flat-square&color=yellow)](https://github.com/pydantic/logfire/stargazers) [![Forks](https://img.shields.io/github/forks/pydantic/logfire?style=flat-square&color=blue)](https://github.com/pydantic/logfire/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pydantic/logfire?style=flat-square&color=yellow)](https://github.com/pydantic/logfire/stargazers) [![Forks](https://img.shields.io/github/forks/pydantic/logfire?style=flat-square&color=blue)](https://github.com/pydantic/logfire/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > AI observability platform for production LLM and agent systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Observability
+AI/ML · Backend · Observability
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ pydantic/logfire 是一款面向生产环境的 AI 可观测平台，能够快�
 | forks | 61/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 78/100 |
-| recency | 60/100 |
+| outlook | 84/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

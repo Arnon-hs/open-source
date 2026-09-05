@@ -1,6 +1,6 @@
 # htmlradar/htmlradar
 
-[![Stars](https://img.shields.io/github/stars/htmlradar/htmlradar?style=flat-square&color=yellow)](https://github.com/htmlradar/htmlradar/stargazers) [![Forks](https://img.shields.io/github/forks/htmlradar/htmlradar?style=flat-square&color=blue)](https://github.com/htmlradar/htmlradar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/htmlradar/htmlradar?style=flat-square&color=yellow)](https://github.com/htmlradar/htmlradar/stargazers) [![Forks](https://img.shields.io/github/forks/htmlradar/htmlradar?style=flat-square&color=blue)](https://github.com/htmlradar/htmlradar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source DocSend for HTML. Send a tracked link, see who read what, get pinged the moment they do.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Data · Product
+MCP · AI/ML · Documents · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-htmlradar/htmlradar: . Use it for MCP, Backend, DevTools, Data, Product. 
+htmlradar/htmlradar: . Use it for MCP, AI/ML, Documents, Backend, DevTools. 
 
 ### Русский
 
-htmlradar/htmlradar: open-source проект в категориях MCP, Backend, DevTools, Data, Product. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+htmlradar/htmlradar: open-source проект в категориях MCP, AI/ML, Documents, Backend, DevTools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-htmlradar/htmlradar：。适合用于MCP、Backend、DevTools、Data、Product。
+htmlradar/htmlradar：。适合用于MCP、AI/ML、Documents、Backend、DevTools。
 
 ## 🧭 Practical evaluation
 
@@ -62,11 +62,11 @@ htmlradar/htmlradar：。适合用于MCP、Backend、DevTools、Data、Product�
 | forks | 8/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 49/100 |
-| recency | 80/100 |
+| outlook | 72/100 |
+| quality | 54/100 |
+| recency | 100/100 |
 | adoption | 7/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |

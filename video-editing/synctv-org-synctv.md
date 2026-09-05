@@ -1,6 +1,6 @@
 # synctv-org/synctv
 
-[![Stars](https://img.shields.io/github/stars/synctv-org/synctv?style=flat-square&color=yellow)](https://github.com/synctv-org/synctv/stargazers) [![Forks](https://img.shields.io/github/forks/synctv-org/synctv?style=flat-square&color=blue)](https://github.com/synctv-org/synctv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/synctv-org/synctv?style=flat-square&color=yellow)](https://github.com/synctv-org/synctv/stargazers) [![Forks](https://img.shields.io/github/forks/synctv-org/synctv?style=flat-square&color=blue)](https://github.com/synctv-org/synctv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Synchronized viewing, theater, live streaming, video
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Database
+Video Editing · Networking · Database
 
 ## 📝 Summary
 
@@ -88,15 +88,15 @@ synctv-org/synctv 的生产可用性是较高的，主要是因为最近的活�
 | forks | 60/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 76/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

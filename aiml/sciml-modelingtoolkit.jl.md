@@ -1,6 +1,6 @@
 # SciML/ModelingToolkit.jl
 
-[![Stars](https://img.shields.io/github/stars/SciML/ModelingToolkit.jl?style=flat-square&color=yellow)](https://github.com/SciML/ModelingToolkit.jl/stargazers) [![Forks](https://img.shields.io/github/forks/SciML/ModelingToolkit.jl?style=flat-square&color=blue)](https://github.com/SciML/ModelingToolkit.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SciML/ModelingToolkit.jl?style=flat-square&color=yellow)](https://github.com/SciML/ModelingToolkit.jl/stargazers) [![Forks](https://img.shields.io/github/forks/SciML/ModelingToolkit.jl?style=flat-square&color=blue)](https://github.com/SciML/ModelingToolkit.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ SciML/ModelingToolkit.jl 为 Julia 生态提供了“一站式”符号计算与
 | forks | 60/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ucsandman/DashClaw
 
-[![Stars](https://img.shields.io/github/stars/ucsandman/DashClaw?style=flat-square&color=yellow)](https://github.com/ucsandman/DashClaw/stargazers) [![Forks](https://img.shields.io/github/forks/ucsandman/DashClaw?style=flat-square&color=blue)](https://github.com/ucsandman/DashClaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ucsandman/DashClaw?style=flat-square&color=yellow)](https://github.com/ucsandman/DashClaw/stargazers) [![Forks](https://img.shields.io/github/forks/ucsandman/DashClaw?style=flat-square&color=blue)](https://github.com/ucsandman/DashClaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ DashClaw（ucsandman/DashClaw）是一套面向 AI 代理的决策基础设施�
 | forks | 42/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # lablup/all-smi
 
-[![Stars](https://img.shields.io/github/stars/lablup/all-smi?style=flat-square&color=yellow)](https://github.com/lablup/all-smi/stargazers) [![Forks](https://img.shields.io/github/forks/lablup/all-smi?style=flat-square&color=blue)](https://github.com/lablup/all-smi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lablup/all-smi?style=flat-square&color=yellow)](https://github.com/lablup/all-smi/stargazers) [![Forks](https://img.shields.io/github/forks/lablup/all-smi?style=flat-square&color=blue)](https://github.com/lablup/all-smi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line utility for monitoring GPU hardware.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ lablup/all‑smi 是一个基于 Rust 实现的命令行工具，用于实时监
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

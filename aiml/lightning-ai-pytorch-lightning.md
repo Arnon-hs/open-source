@@ -1,6 +1,6 @@
 # Lightning-AI/pytorch-lightning
 
-[![Stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square&color=yellow)](https://github.com/Lightning-AI/pytorch-lightning/stargazers) [![Forks](https://img.shields.io/github/forks/Lightning-AI/pytorch-lightning?style=flat-square&color=blue)](https://github.com/Lightning-AI/pytorch-lightning/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square&color=yellow)](https://github.com/Lightning-AI/pytorch-lightning/stargazers) [![Forks](https://img.shields.io/github/forks/Lightning-AI/pytorch-lightning?style=flat-square&color=blue)](https://github.com/Lightning-AI/pytorch-lightning/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31.1k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Lightning‑AI/pytorch‑lightning 是一个轻量级的 PyTorch 封装库，能
 | forks | 89/100 |
 | stars | 96/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 56/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

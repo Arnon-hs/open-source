@@ -1,6 +1,6 @@
 # noctalia-dev/noctalia
 
-[![Stars](https://img.shields.io/github/stars/noctalia-dev/noctalia?style=flat-square&color=yellow)](https://github.com/noctalia-dev/noctalia/stargazers) [![Forks](https://img.shields.io/github/forks/noctalia-dev/noctalia?style=flat-square&color=blue)](https://github.com/noctalia-dev/noctalia/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noctalia-dev/noctalia?style=flat-square&color=yellow)](https://github.com/noctalia-dev/noctalia/stargazers) [![Forks](https://img.shields.io/github/forks/noctalia-dev/noctalia?style=flat-square&color=blue)](https://github.com/noctalia-dev/noctalia/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 564 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ noctalia-dev/noctalia 是一套为 Wayland 环境精心打造的极简主义桌�
 | forks | 69/100 |
 | stars | 83/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

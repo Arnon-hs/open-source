@@ -1,6 +1,6 @@
 # abundant-ai/swe-marathon
 
-[![Stars](https://img.shields.io/github/stars/abundant-ai/swe-marathon?style=flat-square&color=yellow)](https://github.com/abundant-ai/swe-marathon/stargazers) [![Forks](https://img.shields.io/github/forks/abundant-ai/swe-marathon?style=flat-square&color=blue)](https://github.com/abundant-ai/swe-marathon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abundant-ai/swe-marathon?style=flat-square&color=yellow)](https://github.com/abundant-ai/swe-marathon/stargazers) [![Forks](https://img.shields.io/github/forks/abundant-ai/swe-marathon?style=flat-square&color=blue)](https://github.com/abundant-ai/swe-marathon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > SWE-Marathon: an ultra long-horizon SWE benchmark
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ SWE-Marathon是一个超长视角的软件工程（SWE）基准测试套件，�
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 48/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

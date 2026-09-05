@@ -1,6 +1,6 @@
 # unkn0wn-root/resterm
 
-[![Stars](https://img.shields.io/github/stars/unkn0wn-root/resterm?style=flat-square&color=yellow)](https://github.com/unkn0wn-root/resterm/stargazers) [![Forks](https://img.shields.io/github/forks/unkn0wn-root/resterm?style=flat-square&color=blue)](https://github.com/unkn0wn-root/resterm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unkn0wn-root/resterm?style=flat-square&color=yellow)](https://github.com/unkn0wn-root/resterm/stargazers) [![Forks](https://img.shields.io/github/forks/unkn0wn-root/resterm?style=flat-square&color=blue)](https://github.com/unkn0wn-root/resterm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevOps/Infra
+Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ Backend · DevOps/Infra
 | forks | 42/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 64/100 |
+| production | 78/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

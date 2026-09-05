@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ ErikEJ/EFCorePowerTools：ErikEJ/EFCorePowerTools helps teams reuse service infr
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

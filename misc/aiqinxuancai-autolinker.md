@@ -1,6 +1,6 @@
 # aiqinxuancai/AutoLinker
 
-[![Stars](https://img.shields.io/github/stars/aiqinxuancai/AutoLinker?style=flat-square&color=yellow)](https://github.com/aiqinxuancai/AutoLinker/stargazers) [![Forks](https://img.shields.io/github/forks/aiqinxuancai/AutoLinker?style=flat-square&color=blue)](https://github.com/aiqinxuancai/AutoLinker/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiqinxuancai/AutoLinker?style=flat-square&color=yellow)](https://github.com/aiqinxuancai/AutoLinker/stargazers) [![Forks](https://img.shields.io/github/forks/aiqinxuancai/AutoLinker?style=flat-square&color=blue)](https://github.com/aiqinxuancai/AutoLinker/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AutoLinker支持库，易语言AI Agent、MCP服务。另外支持不同源文件使用不同的Linker，调试编译时动态与静态ec自动切换等功能。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ AutoLinker 为 AI 助手与真实工具之间提供了“一站式”链接解�
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ihub-pub/plugins
 
-[![Stars](https://img.shields.io/github/stars/ihub-pub/plugins?style=flat-square&color=yellow)](https://github.com/ihub-pub/plugins/stargazers) [![Forks](https://img.shields.io/github/forks/ihub-pub/plugins?style=flat-square&color=blue)](https://github.com/ihub-pub/plugins/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ihub-pub/plugins?style=flat-square&color=yellow)](https://github.com/ihub-pub/plugins/stargazers) [![Forks](https://img.shields.io/github/forks/ihub-pub/plugins?style=flat-square&color=blue)](https://github.com/ihub-pub/plugins/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A set of Gradle plugins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 711 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Groovy |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ ihub-pub/plugins 的生产可用性很高，主要原因是其最近的更新、
 | forks | 29/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

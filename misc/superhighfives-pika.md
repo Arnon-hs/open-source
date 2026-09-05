@@ -1,6 +1,6 @@
 # superhighfives/pika
 
-[![Stars](https://img.shields.io/github/stars/superhighfives/pika?style=flat-square&color=yellow)](https://github.com/superhighfives/pika/stargazers) [![Forks](https://img.shields.io/github/forks/superhighfives/pika?style=flat-square&color=blue)](https://github.com/superhighfives/pika/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superhighfives/pika?style=flat-square&color=yellow)](https://github.com/superhighfives/pika/stargazers) [![Forks](https://img.shields.io/github/forks/superhighfives/pika?style=flat-square&color=blue)](https://github.com/superhighfives/pika/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source colour picker app for macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ superhighfives/pika 的生产可用性为中等。它适合用于原型或内部
 | forks | 48/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

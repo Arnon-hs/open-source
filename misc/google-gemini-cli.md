@@ -1,6 +1,6 @@
 # google/gemini-cli
 
-[![Stars](https://img.shields.io/github/stars/google/gemini-cli?style=flat-square&color=yellow)](https://github.com/google/gemini-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google/gemini-cli?style=flat-square&color=blue)](https://github.com/google/gemini-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/gemini-cli?style=flat-square&color=yellow)](https://github.com/google/gemini-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google/gemini-cli?style=flat-square&color=blue)](https://github.com/google/gemini-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ google/gemini-cli: . Use it for Misc.
 
 ### Русский
 
-google/gemini-cli: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+google/gemini-cli: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ google/gemini-cli：。适合用于Misc。
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 26/100 |
-| quality | 16/100 |
-| recency | 20/100 |
+| outlook | 54/100 |
+| quality | 36/100 |
+| recency | 100/100 |
 | adoption | 0/100 |
-| production | 32/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 50/100 |
 | sourceTrust | 70/100 |

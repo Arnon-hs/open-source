@@ -1,6 +1,6 @@
 # magnussolution/magnusbilling7
 
-[![Stars](https://img.shields.io/github/stars/magnussolution/magnusbilling7?style=flat-square&color=yellow)](https://github.com/magnussolution/magnusbilling7/stargazers) [![Forks](https://img.shields.io/github/forks/magnussolution/magnusbilling7?style=flat-square&color=blue)](https://github.com/magnussolution/magnusbilling7/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magnussolution/magnusbilling7?style=flat-square&color=yellow)](https://github.com/magnussolution/magnusbilling7/stargazers) [![Forks](https://img.shields.io/github/forks/magnussolution/magnusbilling7?style=flat-square&color=blue)](https://github.com/magnussolution/magnusbilling7/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MagnusBilling is a fast, secure, efficient, high availability, VOIP Billing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ MagnusBilling 是一款面向 VOIP 的高性能计费系统，具备快速、安
 | forks | 55/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

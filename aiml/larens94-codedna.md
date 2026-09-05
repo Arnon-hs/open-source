@@ -1,6 +1,6 @@
 # Larens94/codedna
 
-[![Stars](https://img.shields.io/github/stars/Larens94/codedna?style=flat-square&color=yellow)](https://github.com/Larens94/codedna/stargazers) [![Forks](https://img.shields.io/github/forks/Larens94/codedna?style=flat-square&color=blue)](https://github.com/Larens94/codedna/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Larens94/codedna?style=flat-square&color=yellow)](https://github.com/Larens94/codedna/stargazers) [![Forks](https://img.shields.io/github/forks/Larens94/codedna?style=flat-square&color=blue)](https://github.com/Larens94/codedna/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight annotation standard that helps AI agents navigate codebases faster, with fewer file reads and tool calls
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ Larens94/codedna 的生产可用性为中等（Medium），适合用于原型开
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

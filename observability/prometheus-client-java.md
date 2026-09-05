@@ -1,6 +1,6 @@
 # prometheus/client_java
 
-[![Stars](https://img.shields.io/github/stars/prometheus/client_java?style=flat-square&color=yellow)](https://github.com/prometheus/client_java/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus/client_java?style=flat-square&color=blue)](https://github.com/prometheus/client_java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prometheus/client_java?style=flat-square&color=yellow)](https://github.com/prometheus/client_java/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus/client_java?style=flat-square&color=blue)](https://github.com/prometheus/client_java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus instrumentation library for JVM applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 831 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ The project shows high production readiness: recent commits (as of 2026‑05�
 | forks | 73/100 |
 | stars | 71/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

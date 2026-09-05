@@ -1,6 +1,6 @@
 # Notifuse/notifuse
 
-[![Stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=flat-square&color=yellow)](https://github.com/Notifuse/notifuse/stargazers) [![Forks](https://img.shields.io/github/forks/Notifuse/notifuse?style=flat-square&color=blue)](https://github.com/Notifuse/notifuse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=flat-square&color=yellow)](https://github.com/Notifuse/notifuse/stargazers) [![Forks](https://img.shields.io/github/forks/Notifuse/notifuse?style=flat-square&color=blue)](https://github.com/Notifuse/notifuse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Notifuse is an open-source & modern emailing platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Backend
+Content Creation · Communication · Backend
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ Notifuse（GitHub: Notifuse/notifuse）是一款开源、现代化的邮件发
 | forks | 57/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

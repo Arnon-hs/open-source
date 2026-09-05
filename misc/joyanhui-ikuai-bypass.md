@@ -1,6 +1,6 @@
 # joyanhui/ikuai-bypass
 
-[![Stars](https://img.shields.io/github/stars/joyanhui/ikuai-bypass?style=flat-square&color=yellow)](https://github.com/joyanhui/ikuai-bypass/stargazers) [![Forks](https://img.shields.io/github/forks/joyanhui/ikuai-bypass?style=flat-square&color=blue)](https://github.com/joyanhui/ikuai-bypass/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joyanhui/ikuai-bypass?style=flat-square&color=yellow)](https://github.com/joyanhui/ikuai-bypass/stargazers) [![Forks](https://img.shields.io/github/forks/joyanhui/ikuai-bypass?style=flat-square&color=blue)](https://github.com/joyanhui/ikuai-bypass/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 爱快分流规则维护：自动将通过指定的远程配置文件把区域ip，域名等，整理到爱快，实现旁路由自动切换，域名分流、端口分流（IP分组分流）、自定义运营商、广告屏蔽等
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 640 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -125,11 +125,11 @@ joyanhui/ikuai-bypass 是一套针对爱快（iKuai）路由器的分流规则�
 | forks | 46/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

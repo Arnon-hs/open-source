@@ -1,6 +1,6 @@
 # scadastrangelove/awesome-ai-security-tools
 
-[![Stars](https://img.shields.io/github/stars/scadastrangelove/awesome-ai-security-tools?style=flat-square&color=yellow)](https://github.com/scadastrangelove/awesome-ai-security-tools/stargazers) [![Forks](https://img.shields.io/github/forks/scadastrangelove/awesome-ai-security-tools?style=flat-square&color=blue)](https://github.com/scadastrangelove/awesome-ai-security-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scadastrangelove/awesome-ai-security-tools?style=flat-square&color=yellow)](https://github.com/scadastrangelove/awesome-ai-security-tools/stargazers) [![Forks](https://img.shields.io/github/forks/scadastrangelove/awesome-ai-security-tools?style=flat-square&color=blue)](https://github.com/scadastrangelove/awesome-ai-security-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ The scadastrangelove/awesome-ai-security-tools project is an open-source collect
 | forks | 40/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

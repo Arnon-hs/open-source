@@ -1,6 +1,6 @@
 # karakeep-app/karakeep
 
-[![Stars](https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&color=yellow)](https://github.com/karakeep-app/karakeep/stargazers) [![Forks](https://img.shields.io/github/forks/karakeep-app/karakeep?style=flat-square&color=blue)](https://github.com/karakeep-app/karakeep/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&color=yellow)](https://github.com/karakeep-app/karakeep/stargazers) [![Forks](https://img.shields.io/github/forks/karakeep-app/karakeep?style=flat-square&color=blue)](https://github.com/karakeep-app/karakeep/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ karakeep-app/karakeep：karakeep-app/karakeep helps add AI capability without st
 | forks | 78/100 |
 | stars | 94/100 |
 | topics | 88/100 |
-| outlook | 67/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

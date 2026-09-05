@@ -1,6 +1,6 @@
 # fabricioctelles/skills
 
-[![Stars](https://img.shields.io/github/stars/fabricioctelles/skills?style=flat-square&color=yellow)](https://github.com/fabricioctelles/skills/stargazers) [![Forks](https://img.shields.io/github/forks/fabricioctelles/skills?style=flat-square&color=blue)](https://github.com/fabricioctelles/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fabricioctelles/skills?style=flat-square&color=yellow)](https://github.com/fabricioctelles/skills/stargazers) [![Forks](https://img.shields.io/github/forks/fabricioctelles/skills?style=flat-square&color=blue)](https://github.com/fabricioctelles/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of skills for AI agents (Kiro, Cursor, Windsurf, Claude Code, and others). Each skill is a reusable module that teaches the agent to perform complex tasks with context, structure, and best practices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ fabricioctelles/skills 的价值在于，它可以帮助用户快速添加 AI �
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 50/100 |
-| outlook | 47/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

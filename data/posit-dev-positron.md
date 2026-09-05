@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,25 +27,23 @@ Data
 
 ### English
 
-posit-dev/positron: posit-dev/positron helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+posit-dev/positron: posit-dev/positron may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-posit-dev/positron: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+posit-dev/positron: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-posit-dev/positron：posit-dev/positron helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+posit-dev/positron：posit-dev/positron may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** posit-dev/positron helps convert raw data into searchable, analyzable, or automated pipelines.
+**Value:** posit-dev/positron may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- organize analytics pipelines
-- process datasets
-- improve reporting workflows
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -64,17 +62,18 @@ posit-dev/positron：posit-dev/positron helps convert raw data into searchable, 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 71/100 |
-| stars | 77/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

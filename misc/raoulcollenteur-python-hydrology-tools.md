@@ -1,6 +1,6 @@
 # raoulcollenteur/Python-Hydrology-Tools
 
-[![Stars](https://img.shields.io/github/stars/raoulcollenteur/Python-Hydrology-Tools?style=flat-square&color=yellow)](https://github.com/raoulcollenteur/Python-Hydrology-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/raoulcollenteur/Python-Hydrology-Tools?style=flat-square&color=blue)](https://github.com/raoulcollenteur/Python-Hydrology-Tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raoulcollenteur/Python-Hydrology-Tools?style=flat-square&color=yellow)](https://github.com/raoulcollenteur/Python-Hydrology-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/raoulcollenteur/Python-Hydrology-Tools?style=flat-square&color=blue)](https://github.com/raoulcollenteur/Python-Hydrology-Tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > :droplet: This repository holds a list of open source Python packages interesting to Hydrologists
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ In summary, *Python‑Hydrology‑Tools* is a valuable “starter kit” for hyd
 | forks | 52/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

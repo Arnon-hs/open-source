@@ -1,6 +1,6 @@
 # vawser/Smithbox
 
-[![Stars](https://img.shields.io/github/stars/vawser/Smithbox?style=flat-square&color=yellow)](https://github.com/vawser/Smithbox/stargazers) [![Forks](https://img.shields.io/github/forks/vawser/Smithbox?style=flat-square&color=blue)](https://github.com/vawser/Smithbox/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vawser/Smithbox?style=flat-square&color=yellow)](https://github.com/vawser/Smithbox/stargazers) [![Forks](https://img.shields.io/github/forks/vawser/Smithbox?style=flat-square&color=blue)](https://github.com/vawser/Smithbox/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ vawser/Smithbox：vawser/Smithbox may be useful when its README and activity mat
 | forks | 48/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

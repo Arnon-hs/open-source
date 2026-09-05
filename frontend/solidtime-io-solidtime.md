@@ -1,6 +1,6 @@
 # solidtime-io/solidtime
 
-[![Stars](https://img.shields.io/github/stars/solidtime-io/solidtime?style=flat-square&color=yellow)](https://github.com/solidtime-io/solidtime/stargazers) [![Forks](https://img.shields.io/github/forks/solidtime-io/solidtime?style=flat-square&color=blue)](https://github.com/solidtime-io/solidtime/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solidtime-io/solidtime?style=flat-square&color=yellow)](https://github.com/solidtime-io/solidtime/stargazers) [![Forks](https://img.shields.io/github/forks/solidtime-io/solidtime?style=flat-square&color=blue)](https://github.com/solidtime-io/solidtime/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Modern open-source time-tracking app
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Solidtime 是一款现代化的开源工时追踪系统，提供即插即用的�
 | forks | 66/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 70/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 52/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

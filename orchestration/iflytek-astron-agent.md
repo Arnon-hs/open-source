@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 839 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ iflytek/astron-agent：iflytek/astron-agent helps turn isolated prompts and tool
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # HCF-STUDIOS/openhermit
 
-[![Stars](https://img.shields.io/github/stars/HCF-STUDIOS/openhermit?style=flat-square&color=yellow)](https://github.com/HCF-STUDIOS/openhermit/stargazers) [![Forks](https://img.shields.io/github/forks/HCF-STUDIOS/openhermit?style=flat-square&color=blue)](https://github.com/HCF-STUDIOS/openhermit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HCF-STUDIOS/openhermit?style=flat-square&color=yellow)](https://github.com/HCF-STUDIOS/openhermit/stargazers) [![Forks](https://img.shields.io/github/forks/HCF-STUDIOS/openhermit?style=flat-square&color=blue)](https://github.com/HCF-STUDIOS/openhermit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > OpenHermit is the open-source platform for deploying fleets of AI agents as production services — durable state, sandboxed execution, managed at scale, and the channels you already use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ OpenHermit 是一套开源平台，能够把成百上千的 AI 代理以持久�
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 50/100 |
-| outlook | 44/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # chao325/MaoTai_GUIT
 
-[![Stars](https://img.shields.io/github/stars/chao325/MaoTai_GUIT?style=flat-square&color=yellow)](https://github.com/chao325/MaoTai_GUIT/stargazers) [![Forks](https://img.shields.io/github/forks/chao325/MaoTai_GUIT?style=flat-square&color=blue)](https://github.com/chao325/MaoTai_GUIT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chao325/MaoTai_GUIT?style=flat-square&color=yellow)](https://github.com/chao325/MaoTai_GUIT/stargazers) [![Forks](https://img.shields.io/github/forks/chao325/MaoTai_GUIT?style=flat-square&color=blue)](https://github.com/chao325/MaoTai_GUIT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 天猫 TaoBao i茅台  iMatoTai JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境。开发在即（开源协议采用 Apache License）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 315 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ chao325/MaoTai_GUIT 的生产可用性为中等（Medium），适用于快速 pr
 | forks | 62/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

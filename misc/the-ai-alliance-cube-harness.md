@@ -1,6 +1,6 @@
 # The-AI-Alliance/cube-harness
 
-[![Stars](https://img.shields.io/github/stars/The-AI-Alliance/cube-harness?style=flat-square&color=yellow)](https://github.com/The-AI-Alliance/cube-harness/stargazers) [![Forks](https://img.shields.io/github/forks/The-AI-Alliance/cube-harness?style=flat-square&color=blue)](https://github.com/The-AI-Alliance/cube-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-AI-Alliance/cube-harness?style=flat-square&color=yellow)](https://github.com/The-AI-Alliance/cube-harness/stargazers) [![Forks](https://img.shields.io/github/forks/The-AI-Alliance/cube-harness?style=flat-square&color=blue)](https://github.com/The-AI-Alliance/cube-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Drive OSS standards and tools for data curation and evaluation creation for state of the art AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ The‑AI‑Alliance 的 **cube‑harness** 提供一套开源标准与工具，�
 | forks | 17/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 34/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 41/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

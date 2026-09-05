@@ -1,6 +1,6 @@
 # NetBSD/src
 
-[![Stars](https://img.shields.io/github/stars/NetBSD/src?style=flat-square&color=yellow)](https://github.com/NetBSD/src/stargazers) [![Forks](https://img.shields.io/github/forks/NetBSD/src?style=flat-square&color=blue)](https://github.com/NetBSD/src/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NetBSD/src?style=flat-square&color=yellow)](https://github.com/NetBSD/src/stargazers) [![Forks](https://img.shields.io/github/forks/NetBSD/src?style=flat-square&color=blue)](https://github.com/NetBSD/src/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic conversion of the NetBSD src CVS module, use with care. Please submit bugs/changes via https://gnats.netbsd.org
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 968 |
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ NetBSD/src 的生产可用性为 中等。它适合用于原型或内部工作�
 | forks | 64/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

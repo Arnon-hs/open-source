@@ -1,6 +1,6 @@
 # basilisk-labs/agentplane
 
-[![Stars](https://img.shields.io/github/stars/basilisk-labs/agentplane?style=flat-square&color=yellow)](https://github.com/basilisk-labs/agentplane/stargazers) [![Forks](https://img.shields.io/github/forks/basilisk-labs/agentplane?style=flat-square&color=blue)](https://github.com/basilisk-labs/agentplane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basilisk-labs/agentplane?style=flat-square&color=yellow)](https://github.com/basilisk-labs/agentplane/stargazers) [![Forks](https://img.shields.io/github/forks/basilisk-labs/agentplane?style=flat-square&color=blue)](https://github.com/basilisk-labs/agentplane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🛩️ Git-native workflow control for coding agents: approved plans, verification, and reviewable evidence for Claude Code, Codex, Cursor, and Aider.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ basilisk-labs/agentplane 是一款 Git 原生的工作流控制框架，专为 C
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

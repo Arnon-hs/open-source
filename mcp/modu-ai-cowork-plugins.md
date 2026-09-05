@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Marketing
+MCP · Automation · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ modu-ai/cowork-plugins：modu-ai/cowork-plugins helps connect AI assistants to r
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

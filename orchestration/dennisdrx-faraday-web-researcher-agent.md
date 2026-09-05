@@ -1,6 +1,6 @@
 # DennisDRX/Faraday-Web-Researcher-Agent
 
-[![Stars](https://img.shields.io/github/stars/DennisDRX/Faraday-Web-Researcher-Agent?style=flat-square&color=yellow)](https://github.com/DennisDRX/Faraday-Web-Researcher-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/DennisDRX/Faraday-Web-Researcher-Agent?style=flat-square&color=blue)](https://github.com/DennisDRX/Faraday-Web-Researcher-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DennisDRX/Faraday-Web-Researcher-Agent?style=flat-square&color=yellow)](https://github.com/DennisDRX/Faraday-Web-Researcher-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/DennisDRX/Faraday-Web-Researcher-Agent?style=flat-square&color=blue)](https://github.com/DennisDRX/Faraday-Web-Researcher-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Faraday: An Autonomous Web Research Agent (LangGraph/Streamlit). 🕵️♀️ Investigates queries using dynamic tools (Tavily, Google, NewsAPI, etc.), gathers multi-source info, and synthesizes structured reports in a Streamlit UI. Features agentic workflow & source tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ DennisDRX/Faraday-Web-Researcher-Agent 的价值在于，它可以帮助将孤�
 | forks | 12/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

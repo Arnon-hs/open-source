@@ -1,6 +1,6 @@
 # yv1ing/Z3r0
 
-[![Stars](https://img.shields.io/github/stars/yv1ing/Z3r0?style=flat-square&color=yellow)](https://github.com/yv1ing/Z3r0/stargazers) [![Forks](https://img.shields.io/github/forks/yv1ing/Z3r0?style=flat-square&color=blue)](https://github.com/yv1ing/Z3r0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yv1ing/Z3r0?style=flat-square&color=yellow)](https://github.com/yv1ing/Z3r0/stargazers) [![Forks](https://img.shields.io/github/forks/yv1ing/Z3r0?style=flat-square&color=blue)](https://github.com/yv1ing/Z3r0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Security
+Automation · DevTools · Security
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ yv1ing/Z3r0 的生产可用性为中等（Medium），适合用于原型或内�
 | forks | 50/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

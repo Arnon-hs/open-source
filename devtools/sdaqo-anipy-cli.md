@@ -1,6 +1,6 @@
 # sdaqo/anipy-cli
 
-[![Stars](https://img.shields.io/github/stars/sdaqo/anipy-cli?style=flat-square&color=yellow)](https://github.com/sdaqo/anipy-cli/stargazers) [![Forks](https://img.shields.io/github/forks/sdaqo/anipy-cli?style=flat-square&color=blue)](https://github.com/sdaqo/anipy-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdaqo/anipy-cli?style=flat-square&color=yellow)](https://github.com/sdaqo/anipy-cli/stargazers) [![Forks](https://img.shields.io/github/forks/sdaqo/anipy-cli?style=flat-square&color=blue)](https://github.com/sdaqo/anipy-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Little tool in python to watch and download anime from the terminal  (the better way to watch anime). Also applicable as an API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Overall, anipy‑cli is a high‑readiness OSS component that can be quickly eva
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

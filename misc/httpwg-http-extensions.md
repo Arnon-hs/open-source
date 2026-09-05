@@ -1,6 +1,6 @@
 # httpwg/http-extensions
 
-[![Stars](https://img.shields.io/github/stars/httpwg/http-extensions?style=flat-square&color=yellow)](https://github.com/httpwg/http-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/httpwg/http-extensions?style=flat-square&color=blue)](https://github.com/httpwg/http-extensions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/httpwg/http-extensions?style=flat-square&color=yellow)](https://github.com/httpwg/http-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/httpwg/http-extensions?style=flat-square&color=blue)](https://github.com/httpwg/http-extensions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > HTTP Extensions in progress
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 493 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ httpwg/http-extensions 是一个正在进行的 HTTP 扩展规范实现，提供
 | forks | 56/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

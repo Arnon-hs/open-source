@@ -1,6 +1,6 @@
 # laruence/yac
 
-[![Stars](https://img.shields.io/github/stars/laruence/yac?style=flat-square&color=yellow)](https://github.com/laruence/yac/stargazers) [![Forks](https://img.shields.io/github/forks/laruence/yac?style=flat-square&color=blue)](https://github.com/laruence/yac/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laruence/yac?style=flat-square&color=yellow)](https://github.com/laruence/yac/stargazers) [![Forks](https://img.shields.io/github/forks/laruence/yac?style=flat-square&color=blue)](https://github.com/laruence/yac/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, lock-free, shared memory user data cache for PHP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 827 |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ laruence/yac：laruence/yac helps make internal knowledge searchable and usable 
 | forks | 57/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

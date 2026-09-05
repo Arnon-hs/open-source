@@ -1,6 +1,6 @@
 # johansan/notebook-navigator
 
-[![Stars](https://img.shields.io/github/stars/johansan/notebook-navigator?style=flat-square&color=yellow)](https://github.com/johansan/notebook-navigator/stargazers) [![Forks](https://img.shields.io/github/forks/johansan/notebook-navigator?style=flat-square&color=blue)](https://github.com/johansan/notebook-navigator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johansan/notebook-navigator?style=flat-square&color=yellow)](https://github.com/johansan/notebook-navigator/stargazers) [![Forks](https://img.shields.io/github/forks/johansan/notebook-navigator?style=flat-square&color=blue)](https://github.com/johansan/notebook-navigator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ johansan/notebook‑navigator 用一个简洁的双栏 UI 取代 Obsidian 默认
 | forks | 46/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # k4yt3x/meka
 
-[![Stars](https://img.shields.io/github/stars/k4yt3x/meka?style=flat-square&color=yellow)](https://github.com/k4yt3x/meka/stargazers) [![Forks](https://img.shields.io/github/forks/k4yt3x/meka?style=flat-square&color=blue)](https://github.com/k4yt3x/meka/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k4yt3x/meka?style=flat-square&color=yellow)](https://github.com/k4yt3x/meka/stargazers) [![Forks](https://img.shields.io/github/forks/k4yt3x/meka?style=flat-square&color=blue)](https://github.com/k4yt3x/meka/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A general-purpose AI agent harness.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ k4yt3x/meka 是一个通用的 AI 代理框架，提供了快速接入 AI 能力
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 38/100 |
-| outlook | 47/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

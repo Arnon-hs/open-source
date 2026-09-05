@@ -1,6 +1,6 @@
 # kubeshark/kubeshark
 
-[![Stars](https://img.shields.io/github/stars/kubeshark/kubeshark?style=flat-square&color=yellow)](https://github.com/kubeshark/kubeshark/stargazers) [![Forks](https://img.shields.io/github/forks/kubeshark/kubeshark?style=flat-square&color=blue)](https://github.com/kubeshark/kubeshark/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeshark/kubeshark?style=flat-square&color=yellow)](https://github.com/kubeshark/kubeshark/stargazers) [![Forks](https://img.shields.io/github/forks/kubeshark/kubeshark?style=flat-square&color=blue)](https://github.com/kubeshark/kubeshark/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 537 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Observability · DevOps/Infra · Security
+MCP · Cloud & Storage · Observability · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ kubeshark/kubeshark 是一款基于 eBPF 的 Kubernetes 网络可观测平台，
 | forks | 68/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 72/100 |
-| recency | 20/100 |
+| outlook | 86/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 61/100 |
+| production | 81/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

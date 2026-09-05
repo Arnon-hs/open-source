@@ -1,6 +1,6 @@
 # blacktop/ipsw
 
-[![Stars](https://img.shields.io/github/stars/blacktop/ipsw?style=flat-square&color=yellow)](https://github.com/blacktop/ipsw/stargazers) [![Forks](https://img.shields.io/github/forks/blacktop/ipsw?style=flat-square&color=blue)](https://github.com/blacktop/ipsw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blacktop/ipsw?style=flat-square&color=yellow)](https://github.com/blacktop/ipsw/stargazers) [![Forks](https://img.shields.io/github/forks/blacktop/ipsw?style=flat-square&color=blue)](https://github.com/blacktop/ipsw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > iOS/macOS Research Swiss Army Knife
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 285 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ blacktop/ipsw 是一把面向 iOS/macOS 的研究瑞士军刀，提供从固件�
 | forks | 61/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

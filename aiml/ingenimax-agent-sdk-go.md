@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ Ingenimax/agent-sdk-go：Ingenimax/agent-sdk-go helps add AI capability without 
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mondaycom/vibe
 
-[![Stars](https://img.shields.io/github/stars/mondaycom/vibe?style=flat-square&color=yellow)](https://github.com/mondaycom/vibe/stargazers) [![Forks](https://img.shields.io/github/forks/mondaycom/vibe?style=flat-square&color=blue)](https://github.com/mondaycom/vibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mondaycom/vibe?style=flat-square&color=yellow)](https://github.com/mondaycom/vibe/stargazers) [![Forks](https://img.shields.io/github/forks/mondaycom/vibe?style=flat-square&color=blue)](https://github.com/mondaycom/vibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🎨 Vibe Design System - Official monday.com UI resources for application development in React.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 655 |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Vibe Design System 是 monday.com 官方推出的 React.js UI 资源库，提供
 | forks | 64/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

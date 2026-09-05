@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · DevOps/Infra
+Orchestration · MCP · AI/ML · Cloud & Storage · Frontend
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ Azure-Samples/azure-ai-travel-agents：Azure-Samples/azure-ai-travel-agents help
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # agenticenv/agent-sdk-go
 
-[![Stars](https://img.shields.io/github/stars/agenticenv/agent-sdk-go?style=flat-square&color=yellow)](https://github.com/agenticenv/agent-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/agenticenv/agent-sdk-go?style=flat-square&color=blue)](https://github.com/agenticenv/agent-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agenticenv/agent-sdk-go?style=flat-square&color=yellow)](https://github.com/agenticenv/agent-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/agenticenv/agent-sdk-go?style=flat-square&color=blue)](https://github.com/agenticenv/agent-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents in Go — Temporal for durable, crash-resilient execution or run in-process with zero setup. OpenAI, Anthropic, Gemini, tools, MCP, A2A, RAG, memory, conversations, AG-UI, streaming, sub-agents & human-in-the-loop.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,11 +82,11 @@ agenticenv/agent-sdk-go 在生产环境中的可用性很高。该项目有最�
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

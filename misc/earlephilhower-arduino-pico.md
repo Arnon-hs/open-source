@@ -1,6 +1,6 @@
 # earlephilhower/arduino-pico
 
-[![Stars](https://img.shields.io/github/stars/earlephilhower/arduino-pico?style=flat-square&color=yellow)](https://github.com/earlephilhower/arduino-pico/stargazers) [![Forks](https://img.shields.io/github/forks/earlephilhower/arduino-pico?style=flat-square&color=blue)](https://github.com/earlephilhower/arduino-pico/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earlephilhower/arduino-pico?style=flat-square&color=yellow)](https://github.com/earlephilhower/arduino-pico/stargazers) [![Forks](https://img.shields.io/github/forks/earlephilhower/arduino-pico?style=flat-square&color=blue)](https://github.com/earlephilhower/arduino-pico/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Raspberry Pi Pico Arduino core, for all RP2040 and RP2350 boards
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 560 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ earlephilhower/arduino-pico 的价值在于它能够帮助开发者快速构建�
 | forks | 69/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

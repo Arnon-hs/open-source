@@ -1,6 +1,6 @@
 # keygen-sh/keygen-api
 
-[![Stars](https://img.shields.io/github/stars/keygen-sh/keygen-api?style=flat-square&color=yellow)](https://github.com/keygen-sh/keygen-api/stargazers) [![Forks](https://img.shields.io/github/forks/keygen-sh/keygen-api?style=flat-square&color=blue)](https://github.com/keygen-sh/keygen-api/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keygen-sh/keygen-api?style=flat-square&color=yellow)](https://github.com/keygen-sh/keygen-api/stargazers) [![Forks](https://img.shields.io/github/forks/keygen-sh/keygen-api?style=flat-square&color=blue)](https://github.com/keygen-sh/keygen-api/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Gherkin |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ keygen-sh/keygen-api 的生产可用性高，因为它有以下优势：
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

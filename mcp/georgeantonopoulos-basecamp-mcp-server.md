@@ -1,6 +1,6 @@
 # georgeantonopoulos/Basecamp-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/georgeantonopoulos/Basecamp-MCP-Server?style=flat-square&color=yellow)](https://github.com/georgeantonopoulos/Basecamp-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/georgeantonopoulos/Basecamp-MCP-Server?style=flat-square&color=blue)](https://github.com/georgeantonopoulos/Basecamp-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/georgeantonopoulos/Basecamp-MCP-Server?style=flat-square&color=yellow)](https://github.com/georgeantonopoulos/Basecamp-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/georgeantonopoulos/Basecamp-MCP-Server?style=flat-square&color=blue)](https://github.com/georgeantonopoulos/Basecamp-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Basecamp 3 with OAuth, FastMCP, and 75 tools for projects, todos, messages, card tables, docs, uploads, and search.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Productivity · Backend · Security
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ georgeantonopoulos/Basecamp-MCP-Server 是一个开源项目，用于为 Basecam
 | forks | 40/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

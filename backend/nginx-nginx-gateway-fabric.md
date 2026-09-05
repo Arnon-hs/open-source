@@ -1,6 +1,6 @@
 # nginx/nginx-gateway-fabric
 
-[![Stars](https://img.shields.io/github/stars/nginx/nginx-gateway-fabric?style=flat-square&color=yellow)](https://github.com/nginx/nginx-gateway-fabric/stargazers) [![Forks](https://img.shields.io/github/forks/nginx/nginx-gateway-fabric?style=flat-square&color=blue)](https://github.com/nginx/nginx-gateway-fabric/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nginx/nginx-gateway-fabric?style=flat-square&color=yellow)](https://github.com/nginx/nginx-gateway-fabric/stargazers) [![Forks](https://img.shields.io/github/forks/nginx/nginx-gateway-fabric?style=flat-square&color=blue)](https://github.com/nginx/nginx-gateway-fabric/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 198 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ NGINX Gateway Fabric 是基于 NGINX 实现的 Gateway API，提供统一的入�
 | forks | 57/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

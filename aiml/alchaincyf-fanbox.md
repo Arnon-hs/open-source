@@ -1,6 +1,6 @@
 # alchaincyf/fanbox
 
-[![Stars](https://img.shields.io/github/stars/alchaincyf/fanbox?style=flat-square&color=yellow)](https://github.com/alchaincyf/fanbox/stargazers) [![Forks](https://img.shields.io/github/forks/alchaincyf/fanbox?style=flat-square&color=blue)](https://github.com/alchaincyf/fanbox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alchaincyf/fanbox?style=flat-square&color=yellow)](https://github.com/alchaincyf/fanbox/stargazers) [![Forks](https://img.shields.io/github/forks/alchaincyf/fanbox?style=flat-square&color=blue)](https://github.com/alchaincyf/fanbox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 811 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,11 +123,11 @@ alchaincyf/fanbox 是面向 “vibe coding” 的交互式开发舱：左侧文�
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

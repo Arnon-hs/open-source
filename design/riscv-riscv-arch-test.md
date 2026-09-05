@@ -1,6 +1,6 @@
 # riscv/riscv-arch-test
 
-[![Stars](https://img.shields.io/github/stars/riscv/riscv-arch-test?style=flat-square&color=yellow)](https://github.com/riscv/riscv-arch-test/stargazers) [![Forks](https://img.shields.io/github/forks/riscv/riscv-arch-test?style=flat-square&color=blue)](https://github.com/riscv/riscv-arch-test/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riscv/riscv-arch-test?style=flat-square&color=yellow)](https://github.com/riscv/riscv-arch-test/stargazers) [![Forks](https://img.shields.io/github/forks/riscv/riscv-arch-test?style=flat-square&color=blue)](https://github.com/riscv/riscv-arch-test/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 734 |
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | Assembly |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ riscv‑arch‑test 为 RISC‑V 处理器实现提供了官方的体系结构�
 | forks | 63/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

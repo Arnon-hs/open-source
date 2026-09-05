@@ -1,6 +1,6 @@
 # giovantenne/lastsignal
 
-[![Stars](https://img.shields.io/github/stars/giovantenne/lastsignal?style=flat-square&color=yellow)](https://github.com/giovantenne/lastsignal/stargazers) [![Forks](https://img.shields.io/github/forks/giovantenne/lastsignal?style=flat-square&color=blue)](https://github.com/giovantenne/lastsignal/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giovantenne/lastsignal?style=flat-square&color=yellow)](https://github.com/giovantenne/lastsignal/stargazers) [![Forks](https://img.shields.io/github/forks/giovantenne/lastsignal?style=flat-square&color=blue)](https://github.com/giovantenne/lastsignal/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 665 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ giovantenne/lastsignal 是一款自托管的“死亡开关”服务，能够在
 | forks | 31/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

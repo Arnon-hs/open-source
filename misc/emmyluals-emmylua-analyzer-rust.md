@@ -1,6 +1,6 @@
 # EmmyLuaLs/emmylua-analyzer-rust
 
-[![Stars](https://img.shields.io/github/stars/EmmyLuaLs/emmylua-analyzer-rust?style=flat-square&color=yellow)](https://github.com/EmmyLuaLs/emmylua-analyzer-rust/stargazers) [![Forks](https://img.shields.io/github/forks/EmmyLuaLs/emmylua-analyzer-rust?style=flat-square&color=blue)](https://github.com/EmmyLuaLs/emmylua-analyzer-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmmyLuaLs/emmylua-analyzer-rust?style=flat-square&color=yellow)](https://github.com/EmmyLuaLs/emmylua-analyzer-rust/stargazers) [![Forks](https://img.shields.io/github/forks/EmmyLuaLs/emmylua-analyzer-rust?style=flat-square&color=blue)](https://github.com/EmmyLuaLs/emmylua-analyzer-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 449 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ EmmyLuaLs/emmylua-analyzer-rust 是一个用 Rust 实现的 EmmyLua 语言服务
 | forks | 47/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

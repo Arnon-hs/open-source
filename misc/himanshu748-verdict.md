@@ -1,6 +1,6 @@
 # himanshu748/verdict
 
-[![Stars](https://img.shields.io/github/stars/himanshu748/verdict?style=flat-square&color=yellow)](https://github.com/himanshu748/verdict/stargazers) [![Forks](https://img.shields.io/github/forks/himanshu748/verdict?style=flat-square&color=blue)](https://github.com/himanshu748/verdict/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/himanshu748/verdict?style=flat-square&color=yellow)](https://github.com/himanshu748/verdict/stargazers) [![Forks](https://img.shields.io/github/forks/himanshu748/verdict?style=flat-square&color=blue)](https://github.com/himanshu748/verdict/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Prove the bug before your agent fixes it. Built for the Agent Harness Hackathon.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-30 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ himanshu748/verdict：himanshu748/verdict may be useful when its README and acti
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

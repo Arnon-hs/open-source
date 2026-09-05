@@ -1,6 +1,6 @@
 # WhiteBite/opencode-dejavu
 
-[![Stars](https://img.shields.io/github/stars/WhiteBite/opencode-dejavu?style=flat-square&color=yellow)](https://github.com/WhiteBite/opencode-dejavu/stargazers) [![Forks](https://img.shields.io/github/forks/WhiteBite/opencode-dejavu?style=flat-square&color=blue)](https://github.com/WhiteBite/opencode-dejavu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WhiteBite/opencode-dejavu?style=flat-square&color=yellow)](https://github.com/WhiteBite/opencode-dejavu/stargazers) [![Forks](https://img.shields.io/github/forks/WhiteBite/opencode-dejavu?style=flat-square&color=blue)](https://github.com/WhiteBite/opencode-dejavu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode plugin: cross-session memory for recurring tool-call failures. Detects repeating bash/read/edit/grep failures, promotes them into enforced gates — remind first, hard-block on same-session repeat. TypeScript + Bun, no build step.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -62,11 +62,11 @@ WhiteBite/opencode-dejavu：。适合用于AI/ML、DevTools。
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 66/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

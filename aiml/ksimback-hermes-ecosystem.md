@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ksimback/hermes-ecosystem：ksimback/hermes-ecosystem helps add AI capability wi
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # AmbroseX/larksnap
 
-[![Stars](https://img.shields.io/github/stars/AmbroseX/larksnap?style=flat-square&color=yellow)](https://github.com/AmbroseX/larksnap/stargazers) [![Forks](https://img.shields.io/github/forks/AmbroseX/larksnap?style=flat-square&color=blue)](https://github.com/AmbroseX/larksnap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmbroseX/larksnap?style=flat-square&color=yellow)](https://github.com/AmbroseX/larksnap/stargazers) [![Forks](https://img.shields.io/github/forks/AmbroseX/larksnap?style=flat-square&color=blue)](https://github.com/AmbroseX/larksnap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 飞书 / Lark 文档导出浏览器扩展（MV3）—— 持登录态直导私有化部署与 「官方导出已关闭」的文档，把 Markdown 写回飞书文档；任意网页转 Markdown、整页截图、 AI 总结、解除复制、下载视频，并可桥接 Claude Code / CLI 落到本地目录
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -121,14 +121,15 @@ AmbroseX/larksnap 的生产可用性较高，理由如下：
 | forks | 28/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

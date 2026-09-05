@@ -1,6 +1,6 @@
 # jina-ai/reader
 
-[![Stars](https://img.shields.io/github/stars/jina-ai/reader?style=flat-square&color=yellow)](https://github.com/jina-ai/reader/stargazers) [![Forks](https://img.shields.io/github/forks/jina-ai/reader?style=flat-square&color=blue)](https://github.com/jina-ai/reader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jina-ai/reader?style=flat-square&color=yellow)](https://github.com/jina-ai/reader/stargazers) [![Forks](https://img.shields.io/github/forks/jina-ai/reader?style=flat-square&color=blue)](https://github.com/jina-ai/reader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 808 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -124,15 +124,15 @@ The project scores high on readiness: it shows recent activity (last update 20
 | forks | 73/100 |
 | stars | 86/100 |
 | topics | 25/100 |
-| outlook | 48/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

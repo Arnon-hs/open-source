@@ -1,6 +1,6 @@
 # trip2g/trip2g
 
-[![Stars](https://img.shields.io/github/stars/trip2g/trip2g?style=flat-square&color=yellow)](https://github.com/trip2g/trip2g/stargazers) [![Forks](https://img.shields.io/github/forks/trip2g/trip2g?style=flat-square&color=blue)](https://github.com/trip2g/trip2g/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trip2g/trip2g?style=flat-square&color=yellow)](https://github.com/trip2g/trip2g/stargazers) [![Forks](https://img.shields.io/github/forks/trip2g/trip2g?style=flat-square&color=blue)](https://github.com/trip2g/trip2g/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source MCP knowledge mesh - self-host your second brain, expose it to AI agents, federate with peers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -104,11 +104,11 @@ trip2g/trip2g 的生产可用性为
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

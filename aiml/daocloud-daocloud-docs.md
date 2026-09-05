@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Observability · DevOps/Infra
+AI/ML · Cloud & Storage · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ DaoCloud/DaoCloud-docs：DaoCloud/DaoCloud-docs helps add AI capability without 
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

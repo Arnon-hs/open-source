@@ -1,6 +1,6 @@
 # diesel-rs/diesel
 
-[![Stars](https://img.shields.io/github/stars/diesel-rs/diesel?style=flat-square&color=yellow)](https://github.com/diesel-rs/diesel/stargazers) [![Forks](https://img.shields.io/github/forks/diesel-rs/diesel?style=flat-square&color=blue)](https://github.com/diesel-rs/diesel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diesel-rs/diesel?style=flat-square&color=yellow)](https://github.com/diesel-rs/diesel/stargazers) [![Forks](https://img.shields.io/github/forks/diesel-rs/diesel?style=flat-square&color=blue)](https://github.com/diesel-rs/diesel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A safe, extensible ORM and Query Builder for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Diesel（diesel‑rs/diesel）是 Rust 生态中安全、可扩展的 ORM 与查
 | forks | 77/100 |
 | stars | 88/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 70/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

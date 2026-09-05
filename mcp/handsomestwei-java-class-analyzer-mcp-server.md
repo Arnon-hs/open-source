@@ -1,6 +1,6 @@
 # handsomestWei/java-class-analyzer-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/handsomestWei/java-class-analyzer-mcp-server?style=flat-square&color=yellow)](https://github.com/handsomestWei/java-class-analyzer-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/handsomestWei/java-class-analyzer-mcp-server?style=flat-square&color=blue)](https://github.com/handsomestWei/java-class-analyzer-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/handsomestWei/java-class-analyzer-mcp-server?style=flat-square&color=yellow)](https://github.com/handsomestWei/java-class-analyzer-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/handsomestWei/java-class-analyzer-mcp-server?style=flat-square&color=blue)](https://github.com/handsomestWei/java-class-analyzer-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > java class反编译mcp server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ handsomestWei/java-class-analyzer-mcp-server - это открытый исхо�
 | forks | 26/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 50/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

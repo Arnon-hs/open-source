@@ -1,6 +1,6 @@
 # socketry/async-http
 
-[![Stars](https://img.shields.io/github/stars/socketry/async-http?style=flat-square&color=yellow)](https://github.com/socketry/async-http/stargazers) [![Forks](https://img.shields.io/github/forks/socketry/async-http?style=flat-square&color=blue)](https://github.com/socketry/async-http/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/socketry/async-http?style=flat-square&color=yellow)](https://github.com/socketry/async-http/stargazers) [![Forks](https://img.shields.io/github/forks/socketry/async-http?style=flat-square&color=blue)](https://github.com/socketry/async-http/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,11 +81,11 @@ socketry/async-http 的生产可用性为中等，适合用于原型开发、内
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ christianhaitian/dArkOS：christianhaitian/dArkOS may be useful when its README 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

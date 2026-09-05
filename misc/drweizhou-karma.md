@@ -1,6 +1,6 @@
 # DrWeiZhou/Karma
 
-[![Stars](https://img.shields.io/github/stars/DrWeiZhou/Karma?style=flat-square&color=yellow)](https://github.com/DrWeiZhou/Karma/stargazers) [![Forks](https://img.shields.io/github/forks/DrWeiZhou/Karma?style=flat-square&color=blue)](https://github.com/DrWeiZhou/Karma/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DrWeiZhou/Karma?style=flat-square&color=yellow)](https://github.com/DrWeiZhou/Karma/stargazers) [![Forks](https://img.shields.io/github/forks/DrWeiZhou/Karma?style=flat-square&color=blue)](https://github.com/DrWeiZhou/Karma/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Have a good life
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ DrWeiZhou/Karma：DrWeiZhou/Karma may be useful when its README and activity mat
 | forks | 38/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

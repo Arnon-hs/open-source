@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 913 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ DataTalksClub/llm-zoomcamp：DataTalksClub/llm-zoomcamp helps make internal know
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # project-chip/rs-matter
 
-[![Stars](https://img.shields.io/github/stars/project-chip/rs-matter?style=flat-square&color=yellow)](https://github.com/project-chip/rs-matter/stargazers) [![Forks](https://img.shields.io/github/forks/project-chip/rs-matter?style=flat-square&color=blue)](https://github.com/project-chip/rs-matter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/project-chip/rs-matter?style=flat-square&color=yellow)](https://github.com/project-chip/rs-matter/stargazers) [![Forks](https://img.shields.io/github/forks/project-chip/rs-matter?style=flat-square&color=blue)](https://github.com/project-chip/rs-matter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of the Matter protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 542 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Misc
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

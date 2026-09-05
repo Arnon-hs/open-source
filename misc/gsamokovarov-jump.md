@@ -1,6 +1,6 @@
 # gsamokovarov/jump
 
-[![Stars](https://img.shields.io/github/stars/gsamokovarov/jump?style=flat-square&color=yellow)](https://github.com/gsamokovarov/jump/stargazers) [![Forks](https://img.shields.io/github/forks/gsamokovarov/jump?style=flat-square&color=blue)](https://github.com/gsamokovarov/jump/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gsamokovarov/jump?style=flat-square&color=yellow)](https://github.com/gsamokovarov/jump/stargazers) [![Forks](https://img.shields.io/github/forks/gsamokovarov/jump?style=flat-square&color=blue)](https://github.com/gsamokovarov/jump/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Jump helps you navigate faster by learning your habits. ✌️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Jump 的生产可用性得到了强烈的支持，包括：
 | forks | 45/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

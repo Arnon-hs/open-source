@@ -1,6 +1,6 @@
 # overflow65537/MAA_SnowBreak
 
-[![Stars](https://img.shields.io/github/stars/overflow65537/MAA_SnowBreak?style=flat-square&color=yellow)](https://github.com/overflow65537/MAA_SnowBreak/stargazers) [![Forks](https://img.shields.io/github/forks/overflow65537/MAA_SnowBreak?style=flat-square&color=blue)](https://github.com/overflow65537/MAA_SnowBreak/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/overflow65537/MAA_SnowBreak?style=flat-square&color=yellow)](https://github.com/overflow65537/MAA_SnowBreak/stargazers) [![Forks](https://img.shields.io/github/forks/overflow65537/MAA_SnowBreak?style=flat-square&color=blue)](https://github.com/overflow65537/MAA_SnowBreak/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 尘白禁区每日任务自动化 | Assistant For Snowbreak: Containment Zone
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ overflow65537/MAA_SnowBreak 是一款面向《尘白禁区》每日任务的自�
 | forks | 31/100 |
 | stars | 55/100 |
 | topics | 13/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # microsoft/STATE-Bench
 
-[![Stars](https://img.shields.io/github/stars/microsoft/STATE-Bench?style=flat-square&color=yellow)](https://github.com/microsoft/STATE-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/STATE-Bench?style=flat-square&color=blue)](https://github.com/microsoft/STATE-Bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/STATE-Bench?style=flat-square&color=yellow)](https://github.com/microsoft/STATE-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/STATE-Bench?style=flat-square&color=blue)](https://github.com/microsoft/STATE-Bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Benchmark AI Agents on Enterprise Workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Microsoft/STATE‑Bench 是一个用于在企业级工作流中评估 AI 代理�
 | forks | 25/100 |
 | stars | 38/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

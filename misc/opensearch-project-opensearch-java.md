@@ -1,6 +1,6 @@
 # opensearch-project/opensearch-java
 
-[![Stars](https://img.shields.io/github/stars/opensearch-project/opensearch-java?style=flat-square&color=yellow)](https://github.com/opensearch-project/opensearch-java/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/opensearch-java?style=flat-square&color=blue)](https://github.com/opensearch-project/opensearch-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensearch-project/opensearch-java?style=flat-square&color=yellow)](https://github.com/opensearch-project/opensearch-java/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/opensearch-java?style=flat-square&color=blue)](https://github.com/opensearch-project/opensearch-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Java Client for OpenSearch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ opensearch-project/opensearch-java 的生产可用性为 Medium（中等），�
 | forks | 60/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

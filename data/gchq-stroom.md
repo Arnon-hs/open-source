@@ -1,6 +1,6 @@
 # gchq/stroom
 
-[![Stars](https://img.shields.io/github/stars/gchq/stroom?style=flat-square&color=yellow)](https://github.com/gchq/stroom/stargazers) [![Forks](https://img.shields.io/github/forks/gchq/stroom?style=flat-square&color=blue)](https://github.com/gchq/stroom/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gchq/stroom?style=flat-square&color=yellow)](https://github.com/gchq/stroom/stargazers) [![Forks](https://img.shields.io/github/forks/gchq/stroom?style=flat-square&color=blue)](https://github.com/gchq/stroom/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Stroom is a highly scalable data storage, processing and analysis platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Stroom 在生产环境中的可用性为中等（Medium）。它适合用于原�
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

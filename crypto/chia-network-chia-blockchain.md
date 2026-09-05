@@ -1,6 +1,6 @@
 # Chia-Network/chia-blockchain
 
-[![Stars](https://img.shields.io/github/stars/Chia-Network/chia-blockchain?style=flat-square&color=yellow)](https://github.com/Chia-Network/chia-blockchain/stargazers) [![Forks](https://img.shields.io/github/forks/Chia-Network/chia-blockchain?style=flat-square&color=blue)](https://github.com/Chia-Network/chia-blockchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chia-Network/chia-blockchain?style=flat-square&color=yellow)](https://github.com/Chia-Network/chia-blockchain/stargazers) [![Forks](https://img.shields.io/github/forks/Chia-Network/chia-blockchain?style=flat-square&color=blue)](https://github.com/Chia-Network/chia-blockchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Chia-Network/chia-blockchain 是一个开源项目，提供了 Chia blockchain �
 | forks | 83/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 83/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

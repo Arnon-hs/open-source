@@ -1,6 +1,6 @@
 # lezli01/vincent
 
-[![Stars](https://img.shields.io/github/stars/lezli01/vincent?style=flat-square&color=yellow)](https://github.com/lezli01/vincent/stargazers) [![Forks](https://img.shields.io/github/forks/lezli01/vincent?style=flat-square&color=blue)](https://github.com/lezli01/vincent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lezli01/vincent?style=flat-square&color=yellow)](https://github.com/lezli01/vincent/stargazers) [![Forks](https://img.shields.io/github/forks/lezli01/vincent?style=flat-square&color=blue)](https://github.com/lezli01/vincent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first orchestrator for AI coding-agent workloads
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ lezli01/vincent：lezli01/vincent helps turn isolated prompts and tools into rep
 | forks | 0/100 |
 | stars | 22/100 |
 | topics | 88/100 |
-| outlook | 70/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 16/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

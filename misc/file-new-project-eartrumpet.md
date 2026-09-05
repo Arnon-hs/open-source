@@ -1,6 +1,6 @@
 # File-New-Project/EarTrumpet
 
-[![Stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat-square&color=yellow)](https://github.com/File-New-Project/EarTrumpet/stargazers) [![Forks](https://img.shields.io/github/forks/File-New-Project/EarTrumpet?style=flat-square&color=blue)](https://github.com/File-New-Project/EarTrumpet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat-square&color=yellow)](https://github.com/File-New-Project/EarTrumpet/stargazers) [![Forks](https://img.shields.io/github/forks/File-New-Project/EarTrumpet?style=flat-square&color=blue)](https://github.com/File-New-Project/EarTrumpet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > EarTrumpet - Volume Control for Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 582 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ EarTrumpet 是一款开源的 Windows 音量控制工具，提供现代化的系
 | forks | 69/100 |
 | stars | 86/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

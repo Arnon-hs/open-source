@@ -1,6 +1,6 @@
 # 9001/copyparty
 
-[![Stars](https://img.shields.io/github/stars/9001/copyparty?style=flat-square&color=yellow)](https://github.com/9001/copyparty/stargazers) [![Forks](https://img.shields.io/github/forks/9001/copyparty?style=flat-square&color=blue)](https://github.com/9001/copyparty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/9001/copyparty?style=flat-square&color=yellow)](https://github.com/9001/copyparty/stargazers) [![Forks](https://img.shields.io/github/forks/9001/copyparty?style=flat-square&color=blue)](https://github.com/9001/copyparty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45.9k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ To adopt 9001/copyparty, developers can start by evaluating the project through 
 | forks | 82/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 87/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 70/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

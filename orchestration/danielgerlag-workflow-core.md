@@ -1,6 +1,6 @@
 # danielgerlag/workflow-core
 
-[![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core?style=flat-square&color=yellow)](https://github.com/danielgerlag/workflow-core/stargazers) [![Forks](https://img.shields.io/github/forks/danielgerlag/workflow-core?style=flat-square&color=blue)](https://github.com/danielgerlag/workflow-core/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core?style=flat-square&color=yellow)](https://github.com/danielgerlag/workflow-core/stargazers) [![Forks](https://img.shields.io/github/forks/danielgerlag/workflow-core?style=flat-square&color=blue)](https://github.com/danielgerlag/workflow-core/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight workflow engine for .NET Standard
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ danielgerlag/workflow-core：danielgerlag/workflow-core helps remove repetitive 
 | forks | 78/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

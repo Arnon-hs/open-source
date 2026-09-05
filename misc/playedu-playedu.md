@@ -1,6 +1,6 @@
 # PlayEdu/PlayEdu
 
-[![Stars](https://img.shields.io/github/stars/PlayEdu/PlayEdu?style=flat-square&color=yellow)](https://github.com/PlayEdu/PlayEdu/stargazers) [![Forks](https://img.shields.io/github/forks/PlayEdu/PlayEdu?style=flat-square&color=blue)](https://github.com/PlayEdu/PlayEdu/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PlayEdu/PlayEdu?style=flat-square&color=yellow)](https://github.com/PlayEdu/PlayEdu/stargazers) [![Forks](https://img.shields.io/github/forks/PlayEdu/PlayEdu?style=flat-square&color=blue)](https://github.com/PlayEdu/PlayEdu/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 561 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ PlayEdu 是一款 100% 开源的企业培训系统，界面美观、操作简洁
 | forks | 69/100 |
 | stars | 75/100 |
 | topics | 25/100 |
-| outlook | 46/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

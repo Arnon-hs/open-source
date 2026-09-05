@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
 | 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2025-04-04 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ Wan-AI/Wan2.1-T2V-1.3B-Diffusers：Wan-AI/Wan2.1-T2V-1.3B-Diffusers helps creato
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dennisadriaans/vue-chrts
 
-[![Stars](https://img.shields.io/github/stars/dennisadriaans/vue-chrts?style=flat-square&color=yellow)](https://github.com/dennisadriaans/vue-chrts/stargazers) [![Forks](https://img.shields.io/github/forks/dennisadriaans/vue-chrts?style=flat-square&color=blue)](https://github.com/dennisadriaans/vue-chrts/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dennisadriaans/vue-chrts?style=flat-square&color=yellow)](https://github.com/dennisadriaans/vue-chrts/stargazers) [![Forks](https://img.shields.io/github/forks/dennisadriaans/vue-chrts?style=flat-square&color=blue)](https://github.com/dennisadriaans/vue-chrts/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > This is a Vue 3 chart package inspired by Tremor, built on top of Unovis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 426 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ dennisadriaans/vue-chrts 的生产可用性为中等（Medium）。它适合用�
 | forks | 35/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

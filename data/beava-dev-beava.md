@@ -1,6 +1,6 @@
 # beava-dev/beava
 
-[![Stars](https://img.shields.io/github/stars/beava-dev/beava?style=flat-square&color=yellow)](https://github.com/beava-dev/beava/stargazers) [![Forks](https://img.shields.io/github/forks/beava-dev/beava?style=flat-square&color=blue)](https://github.com/beava-dev/beava/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beava-dev/beava?style=flat-square&color=yellow)](https://github.com/beava-dev/beava/stargazers) [![Forks](https://img.shields.io/github/forks/beava-dev/beava?style=flat-square&color=blue)](https://github.com/beava-dev/beava/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time feature server for fraud, ad-tech, and behavioral analytics.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ beava-dev/beava 是一款实时特征服务，专注于欺诈检测、广告技�
 | forks | 19/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 43/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Azure/PSRule.Rules.Azure
 
-[![Stars](https://img.shields.io/github/stars/Azure/PSRule.Rules.Azure?style=flat-square&color=yellow)](https://github.com/Azure/PSRule.Rules.Azure/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/PSRule.Rules.Azure?style=flat-square&color=blue)](https://github.com/Azure/PSRule.Rules.Azure/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/PSRule.Rules.Azure?style=flat-square&color=yellow)](https://github.com/Azure/PSRule.Rules.Azure/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/PSRule.Rules.Azure?style=flat-square&color=blue)](https://github.com/Azure/PSRule.Rules.Azure/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 448 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates
+Templates · Cloud & Storage · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ Azure/PSRule.Rules.Azure 是一套基于 PSRule 的 Azure 资源和基础设施�
 | forks | 50/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

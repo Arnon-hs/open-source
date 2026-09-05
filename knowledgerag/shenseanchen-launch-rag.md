@@ -1,6 +1,6 @@
 # ShenSeanChen/launch-rag
 
-[![Stars](https://img.shields.io/github/stars/ShenSeanChen/launch-rag?style=flat-square&color=yellow)](https://github.com/ShenSeanChen/launch-rag/stargazers) [![Forks](https://img.shields.io/github/forks/ShenSeanChen/launch-rag?style=flat-square&color=blue)](https://github.com/ShenSeanChen/launch-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShenSeanChen/launch-rag?style=flat-square&color=yellow)](https://github.com/ShenSeanChen/launch-rag/stargazers) [![Forks](https://img.shields.io/github/forks/ShenSeanChen/launch-rag?style=flat-square&color=blue)](https://github.com/ShenSeanChen/launch-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > You Can Learn RAG AI Agent Design & Launch In 35 Min | Supabase Vector Database, Google Cloud GCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database · Design
+Knowledge/RAG · AI/ML · Cloud & Storage · Database · Design
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ ShenSeanChen/launch-rag 的生产可用性为中等（Medium），适合用于�
 | forks | 34/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ghimiresunil/Top-AI-Tools
 
-[![Stars](https://img.shields.io/github/stars/ghimiresunil/Top-AI-Tools?style=flat-square&color=yellow)](https://github.com/ghimiresunil/Top-AI-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/ghimiresunil/Top-AI-Tools?style=flat-square&color=blue)](https://github.com/ghimiresunil/Top-AI-Tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghimiresunil/Top-AI-Tools?style=flat-square&color=yellow)](https://github.com/ghimiresunil/Top-AI-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/ghimiresunil/Top-AI-Tools?style=flat-square&color=blue)](https://github.com/ghimiresunil/Top-AI-Tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of AI Tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 928 |
 | 🍴 **Forks** | 575 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ ghimiresunil/Top-AI-Tools 是一个开源项目，提供了一个精选列表的
 | forks | 69/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # marselsel/lexware-mcp
 
-[![Stars](https://img.shields.io/github/stars/marselsel/lexware-mcp?style=flat-square&color=yellow)](https://github.com/marselsel/lexware-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/marselsel/lexware-mcp?style=flat-square&color=blue)](https://github.com/marselsel/lexware-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marselsel/lexware-mcp?style=flat-square&color=yellow)](https://github.com/marselsel/lexware-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/marselsel/lexware-mcp?style=flat-square&color=blue)](https://github.com/marselsel/lexware-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hostable MCP server for the Lexware Office (lexoffice) accounting API — comprehensive coverage: contacts, articles, bookkeeping vouchers, the sales-document family (invoices/quotations/credit-notes, draft + finalize), and file/PDF upload & download. OAuth, Cloud Run; connects to Claude & ChatGPT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Documents · Backend · Security
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ marselsel/lexware-mcp 是一套开源、可自行托管的 MCP（Middle‑Custom
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lorint/brick
 
-[![Stars](https://img.shields.io/github/stars/lorint/brick?style=flat-square&color=yellow)](https://github.com/lorint/brick/stargazers) [![Forks](https://img.shields.io/github/forks/lorint/brick?style=flat-square&color=blue)](https://github.com/lorint/brick/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lorint/brick?style=flat-square&color=yellow)](https://github.com/lorint/brick/stargazers) [![Forks](https://img.shields.io/github/forks/lorint/brick?style=flat-square&color=blue)](https://github.com/lorint/brick/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-generate models, views, controllers, and routes in a Rails app based on database structure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 387 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Lorint/Brick 的生产可用性为中等。它适合用于快速构建内部工�
 | forks | 25/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

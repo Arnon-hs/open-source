@@ -1,6 +1,6 @@
 # jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software
 
-[![Stars](https://img.shields.io/github/stars/jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software?style=flat-square&color=yellow)](https://github.com/jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software/stargazers) [![Forks](https://img.shields.io/github/forks/jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software?style=flat-square&color=blue)](https://github.com/jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software?style=flat-square&color=yellow)](https://github.com/jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software/stargazers) [![Forks](https://img.shields.io/github/forks/jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software?style=flat-square&color=blue)](https://github.com/jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Windows-first local MCP stdio server and safety bridge for AI agents connecting to ComfyUI, Blender, AutoCAD/DXF, Photoshop, Illustrator, and CapCut/Jianying.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software 是一个开�
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

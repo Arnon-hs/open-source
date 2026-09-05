@@ -1,6 +1,6 @@
 # oleg-vdv/AutoGov
 
-[![Stars](https://img.shields.io/github/stars/oleg-vdv/AutoGov?style=flat-square&color=yellow)](https://github.com/oleg-vdv/AutoGov/stargazers) [![Forks](https://img.shields.io/github/forks/oleg-vdv/AutoGov?style=flat-square&color=blue)](https://github.com/oleg-vdv/AutoGov/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oleg-vdv/AutoGov?style=flat-square&color=yellow)](https://github.com/oleg-vdv/AutoGov/stargazers) [![Forks](https://img.shields.io/github/forks/oleg-vdv/AutoGov?style=flat-square&color=blue)](https://github.com/oleg-vdv/AutoGov/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Discover shadow n8n automations running on laptops and servers, and map which production credentials they can reach - the self-hosted automation blind spot SaaS discovery tools miss
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ oleg-vdv/AutoGov：。适合用于Automation、Security。
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 48/100 |
-| recency | 80/100 |
+| outlook | 71/100 |
+| quality | 53/100 |
+| recency | 100/100 |
 | adoption | 5/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

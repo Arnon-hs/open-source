@@ -1,6 +1,6 @@
 # umbraaeternaa/loom
 
-[![Stars](https://img.shields.io/github/stars/umbraaeternaa/loom?style=flat-square&color=yellow)](https://github.com/umbraaeternaa/loom/stargazers) [![Forks](https://img.shields.io/github/forks/umbraaeternaa/loom?style=flat-square&color=blue)](https://github.com/umbraaeternaa/loom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umbraaeternaa/loom?style=flat-square&color=yellow)](https://github.com/umbraaeternaa/loom/stargazers) [![Forks](https://img.shields.io/github/forks/umbraaeternaa/loom?style=flat-square&color=blue)](https://github.com/umbraaeternaa/loom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A tiny effect-typed language exploring a trust layer for AI-written code. AI proposes, the compiler disposes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML · DevTools · Design
 
 ## 📝 Summary
 
@@ -67,15 +67,15 @@ umbraaeternaa/loom：umbraaeternaa/loom helps add AI capability without starting
 | forks | 0/100 |
 | stars | 13/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 9/100 |
-| production | 64/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

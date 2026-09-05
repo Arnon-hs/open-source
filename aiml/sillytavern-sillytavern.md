@@ -1,6 +1,6 @@
 # SillyTavern/SillyTavern
 
-[![Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square&color=yellow)](https://github.com/SillyTavern/SillyTavern/stargazers) [![Forks](https://img.shields.io/github/forks/SillyTavern/SillyTavern?style=flat-square&color=blue)](https://github.com/SillyTavern/SillyTavern/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square&color=yellow)](https://github.com/SillyTavern/SillyTavern/stargazers) [![Forks](https://img.shields.io/github/forks/SillyTavern/SillyTavern?style=flat-square&color=blue)](https://github.com/SillyTavern/SillyTavern/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > LLM Frontend for Power Users.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.5k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ SillyTavern 是面向高级用户的 LLM 前端，提供可视化的聊天、角
 | forks | 93/100 |
 | stars | 94/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 68/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

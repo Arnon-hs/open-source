@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Backend · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ oven-sh/bun：oven-sh/bun helps ship user-facing interfaces with less custom UI 
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

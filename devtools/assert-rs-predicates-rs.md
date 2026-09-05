@@ -1,6 +1,6 @@
 # assert-rs/predicates-rs
 
-[![Stars](https://img.shields.io/github/stars/assert-rs/predicates-rs?style=flat-square&color=yellow)](https://github.com/assert-rs/predicates-rs/stargazers) [![Forks](https://img.shields.io/github/forks/assert-rs/predicates-rs?style=flat-square&color=blue)](https://github.com/assert-rs/predicates-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/assert-rs/predicates-rs?style=flat-square&color=yellow)](https://github.com/assert-rs/predicates-rs/stargazers) [![Forks](https://img.shields.io/github/forks/assert-rs/predicates-rs?style=flat-square&color=blue)](https://github.com/assert-rs/predicates-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Boolean-valued predicate functions in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ assert-rs/predicates-rs 提供了易于使用的布尔值谓词函数，帮助�
 | forks | 38/100 |
 | stars | 49/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

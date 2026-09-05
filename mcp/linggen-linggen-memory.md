@@ -1,6 +1,6 @@
 # linggen/linggen-memory
 
-[![Stars](https://img.shields.io/github/stars/linggen/linggen-memory?style=flat-square&color=yellow)](https://github.com/linggen/linggen-memory/stargazers) [![Forks](https://img.shields.io/github/forks/linggen/linggen-memory?style=flat-square&color=blue)](https://github.com/linggen/linggen-memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linggen/linggen-memory?style=flat-square&color=yellow)](https://github.com/linggen/linggen-memory/stargazers) [![Forks](https://img.shields.io/github/forks/linggen/linggen-memory?style=flat-square&color=blue)](https://github.com/linggen/linggen-memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first memory layer for AI (Cursor, Zed, Claude). Persistent architectural context via semantic search.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ linggen/linggen-memory 是一个面向本地优先的 AI 记忆层，实现了�
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 48/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # coqui/XTTS-v2
 
-[![Stars](https://img.shields.io/github/stars/coqui/XTTS-v2?style=flat-square&color=yellow)](https://huggingface.co/coqui/XTTS-v2/stargazers) [![Forks](https://img.shields.io/github/forks/coqui/XTTS-v2?style=flat-square&color=blue)](https://huggingface.co/coqui/XTTS-v2/network) [![Language](https://img.shields.io/badge/lang-coqui-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coqui/XTTS-v2?style=flat-square&color=yellow)](https://huggingface.co/coqui/XTTS-v2/stargazers) [![Forks](https://img.shields.io/github/forks/coqui/XTTS-v2?style=flat-square&color=blue)](https://huggingface.co/coqui/XTTS-v2/network) [![Language](https://img.shields.io/badge/lang-coqui-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text to speech (text-to-speech) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | coqui |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ coqui/XTTS-v2 的生产可用性为 Early or unclear，意味着该模型仍处�
 | forks | 0/100 |
 | stars | 76/100 |
 | topics | 38/100 |
-| outlook | 40/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 40/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

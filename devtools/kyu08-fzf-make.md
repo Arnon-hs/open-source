@@ -1,6 +1,6 @@
 # kyu08/fzf-make
 
-[![Stars](https://img.shields.io/github/stars/kyu08/fzf-make?style=flat-square&color=yellow)](https://github.com/kyu08/fzf-make/stargazers) [![Forks](https://img.shields.io/github/forks/kyu08/fzf-make?style=flat-square&color=blue)](https://github.com/kyu08/fzf-make/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kyu08/fzf-make?style=flat-square&color=yellow)](https://github.com/kyu08/fzf-make/stargazers) [![Forks](https://img.shields.io/github/forks/kyu08/fzf-make?style=flat-square&color=blue)](https://github.com/kyu08/fzf-make/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A command line tool that executes commands using fuzzy finder with preview window for make, npm, pnpm, yarn, just and task.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ kyu08/fzf-make 的生产可用性较高。根据 GitHub 的数据，kyu08/fzf-ma
 | forks | 33/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

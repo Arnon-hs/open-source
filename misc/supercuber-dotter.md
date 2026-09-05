@@ -1,6 +1,6 @@
 # SuperCuber/dotter
 
-[![Stars](https://img.shields.io/github/stars/SuperCuber/dotter?style=flat-square&color=yellow)](https://github.com/SuperCuber/dotter/stargazers) [![Forks](https://img.shields.io/github/forks/SuperCuber/dotter?style=flat-square&color=blue)](https://github.com/SuperCuber/dotter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SuperCuber/dotter?style=flat-square&color=yellow)](https://github.com/SuperCuber/dotter/stargazers) [![Forks](https://img.shields.io/github/forks/SuperCuber/dotter?style=flat-square&color=blue)](https://github.com/SuperCuber/dotter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A dotfile manager and templater written in rust 🦀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ SuperCuber/dotter 是用 Rust 编写的点文件（dotfile）管理与模板化�
 | forks | 47/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

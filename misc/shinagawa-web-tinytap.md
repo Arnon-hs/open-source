@@ -1,6 +1,6 @@
 # shinagawa-web/tinytap
 
-[![Stars](https://img.shields.io/github/stars/shinagawa-web/tinytap?style=flat-square&color=yellow)](https://github.com/shinagawa-web/tinytap/stargazers) [![Forks](https://img.shields.io/github/forks/shinagawa-web/tinytap?style=flat-square&color=blue)](https://github.com/shinagawa-web/tinytap/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinagawa-web/tinytap?style=flat-square&color=yellow)](https://github.com/shinagawa-web/tinytap/stargazers) [![Forks](https://img.shields.io/github/forks/shinagawa-web/tinytap?style=flat-square&color=blue)](https://github.com/shinagawa-web/tinytap/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ shinagawa-web/tinytap: . Use it for Misc.
 
 ### Русский
 
-shinagawa-web/tinytap: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+shinagawa-web/tinytap: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ shinagawa-web/tinytap：。适合用于Misc。
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 31/100 |
-| recency | 80/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 100/100 |
 | adoption | 0/100 |
-| production | 47/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 70/100 |

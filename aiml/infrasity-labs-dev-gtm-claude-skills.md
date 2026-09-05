@@ -1,6 +1,6 @@
 # Infrasity-Labs/dev-gtm-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/Infrasity-Labs/dev-gtm-claude-skills?style=flat-square&color=yellow)](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Infrasity-Labs/dev-gtm-claude-skills?style=flat-square&color=blue)](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Infrasity-Labs/dev-gtm-claude-skills?style=flat-square&color=yellow)](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Infrasity-Labs/dev-gtm-claude-skills?style=flat-square&color=blue)](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companies that want their documentation to be found, parsed, and cited by AI systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Infrasity‑Labs/dev‑gtm‑claude‑skills 是一套开源的 Claude Skill �
 | forks | 8/100 |
 | stars | 40/100 |
 | topics | 88/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

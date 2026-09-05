@@ -1,6 +1,6 @@
 # juancarlospaco/awesome-streaming-tools
 
-[![Stars](https://img.shields.io/github/stars/juancarlospaco/awesome-streaming-tools?style=flat-square&color=yellow)](https://github.com/juancarlospaco/awesome-streaming-tools/stargazers) [![Forks](https://img.shields.io/github/forks/juancarlospaco/awesome-streaming-tools?style=flat-square&color=blue)](https://github.com/juancarlospaco/awesome-streaming-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juancarlospaco/awesome-streaming-tools?style=flat-square&color=yellow)](https://github.com/juancarlospaco/awesome-streaming-tools/stargazers) [![Forks](https://img.shields.io/github/forks/juancarlospaco/awesome-streaming-tools?style=flat-square&color=blue)](https://github.com/juancarlospaco/awesome-streaming-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Streaming Tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ juancarlospaco/awesome‑streaming‑tools 是一个收集并整理常用后端�
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

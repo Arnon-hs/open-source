@@ -1,6 +1,6 @@
 # timothystewart6/techno-tim.github.io
 
-[![Stars](https://img.shields.io/github/stars/timothystewart6/techno-tim.github.io?style=flat-square&color=yellow)](https://github.com/timothystewart6/techno-tim.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/timothystewart6/techno-tim.github.io?style=flat-square&color=blue)](https://github.com/timothystewart6/techno-tim.github.io/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timothystewart6/techno-tim.github.io?style=flat-square&color=yellow)](https://github.com/timothystewart6/techno-tim.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/timothystewart6/techno-tim.github.io?style=flat-square&color=blue)](https://github.com/timothystewart6/techno-tim.github.io/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Techno‑Tim 是一个社区驱动的开源文档站点，专门收录并演示 
 | forks | 63/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

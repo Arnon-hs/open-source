@@ -1,6 +1,6 @@
 # pathwaycom/llm-app
 
-[![Stars](https://img.shields.io/github/stars/pathwaycom/llm-app?style=flat-square&color=yellow)](https://github.com/pathwaycom/llm-app/stargazers) [![Forks](https://img.shields.io/github/forks/pathwaycom/llm-app?style=flat-square&color=blue)](https://github.com/pathwaycom/llm-app/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pathwaycom/llm-app?style=flat-square&color=yellow)](https://github.com/pathwaycom/llm-app/stargazers) [![Forks](https://img.shields.io/github/forks/pathwaycom/llm-app?style=flat-square&color=blue)](https://github.com/pathwaycom/llm-app/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59.2k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 90/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Knowledge/RAG · AI/ML · Database · DevOps/Infra
+Templates · Knowledge/RAG · AI/ML · Cloud & Storage · Database
 
 ## 📝 Summary
 
@@ -110,11 +110,11 @@ pathwaycom/llm-app 是一个开源项目，提供了可运行的云模板，用�
 | forks | 79/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 90/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 70/100 |
+| production | 83/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

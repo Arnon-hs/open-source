@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 734 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-05 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ laravel/cashier-stripe：laravel/cashier-stripe helps integrate monetization, bi
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

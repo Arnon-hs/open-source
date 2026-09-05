@@ -1,6 +1,6 @@
 # alltuner/factoryfloor
 
-[![Stars](https://img.shields.io/github/stars/alltuner/factoryfloor?style=flat-square&color=yellow)](https://github.com/alltuner/factoryfloor/stargazers) [![Forks](https://img.shields.io/github/forks/alltuner/factoryfloor?style=flat-square&color=blue)](https://github.com/alltuner/factoryfloor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alltuner/factoryfloor?style=flat-square&color=yellow)](https://github.com/alltuner/factoryfloor/stargazers) [![Forks](https://img.shields.io/github/forks/alltuner/factoryfloor?style=flat-square&color=blue)](https://github.com/alltuner/factoryfloor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered macOS development workspace. Git worktrees, Claude Code sessions, and dev servers in a single native app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ alltuner/factoryfloor 是一款基于 AI 的 macOS 开发工作区，集成了 G
 | forks | 25/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

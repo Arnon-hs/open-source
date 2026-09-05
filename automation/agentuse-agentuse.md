@@ -1,6 +1,6 @@
 # agentuse/agentuse
 
-[![Stars](https://img.shields.io/github/stars/agentuse/agentuse?style=flat-square&color=yellow)](https://github.com/agentuse/agentuse/stargazers) [![Forks](https://img.shields.io/github/forks/agentuse/agentuse?style=flat-square&color=blue)](https://github.com/agentuse/agentuse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentuse/agentuse?style=flat-square&color=yellow)](https://github.com/agentuse/agentuse/stargazers) [![Forks](https://img.shields.io/github/forks/agentuse/agentuse?style=flat-square&color=blue)](https://github.com/agentuse/agentuse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 AI agents on autopilot. Any model. Runs local, cron, CI/CD, or Docker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 193 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ agentuse/agentuse 的生产可用性很高，主要原因是：
 | forks | 32/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

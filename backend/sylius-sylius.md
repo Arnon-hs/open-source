@@ -1,6 +1,6 @@
 # Sylius/Sylius
 
-[![Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=flat-square&color=yellow)](https://github.com/Sylius/Sylius/stargazers) [![Forks](https://img.shields.io/github/forks/Sylius/Sylius?style=flat-square&color=blue)](https://github.com/Sylius/Sylius/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=flat-square&color=yellow)](https://github.com/Sylius/Sylius/stargazers) [![Forks](https://img.shields.io/github/forks/Sylius/Sylius?style=flat-square&color=blue)](https://github.com/Sylius/Sylius/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Sylius/Sylius 的生产可用性很高，最近活动、采用和生态系统信
 | forks | 83/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 83/100 |
-| recency | 60/100 |
+| outlook | 84/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

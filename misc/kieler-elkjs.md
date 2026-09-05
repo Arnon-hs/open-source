@@ -1,6 +1,6 @@
 # kieler/elkjs
 
-[![Stars](https://img.shields.io/github/stars/kieler/elkjs?style=flat-square&color=yellow)](https://github.com/kieler/elkjs/stargazers) [![Forks](https://img.shields.io/github/forks/kieler/elkjs?style=flat-square&color=blue)](https://github.com/kieler/elkjs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kieler/elkjs?style=flat-square&color=yellow)](https://github.com/kieler/elkjs/stargazers) [![Forks](https://img.shields.io/github/forks/kieler/elkjs?style=flat-square&color=blue)](https://github.com/kieler/elkjs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ELK's layout algorithms for JavaScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ kieler/elkjs：。适合用于Misc。
 | forks | 52/100 |
 | stars | 73/100 |
 | topics | 50/100 |
-| outlook | 65/100 |
-| quality | 68/100 |
-| recency | 80/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 100/100 |
 | adoption | 67/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

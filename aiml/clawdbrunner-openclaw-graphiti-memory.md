@@ -1,6 +1,6 @@
 # clawdbrunner/openclaw-graphiti-memory
 
-[![Stars](https://img.shields.io/github/stars/clawdbrunner/openclaw-graphiti-memory?style=flat-square&color=yellow)](https://github.com/clawdbrunner/openclaw-graphiti-memory/stargazers) [![Forks](https://img.shields.io/github/forks/clawdbrunner/openclaw-graphiti-memory?style=flat-square&color=blue)](https://github.com/clawdbrunner/openclaw-graphiti-memory/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clawdbrunner/openclaw-graphiti-memory?style=flat-square&color=yellow)](https://github.com/clawdbrunner/openclaw-graphiti-memory/stargazers) [![Forks](https://img.shields.io/github/forks/clawdbrunner/openclaw-graphiti-memory?style=flat-square&color=blue)](https://github.com/clawdbrunner/openclaw-graphiti-memory/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Hybrid memory system for OpenClaw using Graphiti temporal knowledge graph
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ clawdbrunner/openclaw-graphiti-memory 是一个开源项目，利用 Graphiti �
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

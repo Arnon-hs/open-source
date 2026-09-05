@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | C |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ espressif/esp-claw：espressif/esp-claw helps turn isolated prompts and tools in
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

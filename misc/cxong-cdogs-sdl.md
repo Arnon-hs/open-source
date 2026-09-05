@@ -1,6 +1,6 @@
 # cxong/cdogs-sdl
 
-[![Stars](https://img.shields.io/github/stars/cxong/cdogs-sdl?style=flat-square&color=yellow)](https://github.com/cxong/cdogs-sdl/stargazers) [![Forks](https://img.shields.io/github/forks/cxong/cdogs-sdl?style=flat-square&color=blue)](https://github.com/cxong/cdogs-sdl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cxong/cdogs-sdl?style=flat-square&color=yellow)](https://github.com/cxong/cdogs-sdl/stargazers) [![Forks](https://img.shields.io/github/forks/cxong/cdogs-sdl?style=flat-square&color=blue)](https://github.com/cxong/cdogs-sdl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Classic overhead run-and-gun game
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ cxong/cdogs-sdl 是一款经典的俯视跑酷射击游戏，基于 C 语言实�
 | forks | 54/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

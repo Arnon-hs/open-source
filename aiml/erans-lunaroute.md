@@ -1,6 +1,6 @@
 # erans/lunaroute
 
-[![Stars](https://img.shields.io/github/stars/erans/lunaroute?style=flat-square&color=yellow)](https://github.com/erans/lunaroute/stargazers) [![Forks](https://img.shields.io/github/forks/erans/lunaroute?style=flat-square&color=blue)](https://github.com/erans/lunaroute/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erans/lunaroute?style=flat-square&color=yellow)](https://github.com/erans/lunaroute/stargazers) [![Forks](https://img.shields.io/github/forks/erans/lunaroute?style=flat-square&color=blue)](https://github.com/erans/lunaroute/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > LunaRoute is a high-performance local proxy for AI coding assistants like Claude Code, OpenAI Codex CLI, and OpenCode. Get complete visibility into every LLM interaction with zero-overhead passthrough, comprehensive session recording, and powerful debugging capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Networking · DevTools
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ LunaRoute 是一款基于 Rust 的高性能本地代理，专为 Claude Code、O
 | forks | 30/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

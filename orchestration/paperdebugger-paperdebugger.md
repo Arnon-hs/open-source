@@ -1,6 +1,6 @@
 # PaperDebugger/paperdebugger
 
-[![Stars](https://img.shields.io/github/stars/PaperDebugger/paperdebugger?style=flat-square&color=yellow)](https://github.com/PaperDebugger/paperdebugger/stargazers) [![Forks](https://img.shields.io/github/forks/PaperDebugger/paperdebugger?style=flat-square&color=blue)](https://github.com/PaperDebugger/paperdebugger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaperDebugger/paperdebugger?style=flat-square&color=yellow)](https://github.com/PaperDebugger/paperdebugger/stargazers) [![Forks](https://img.shields.io/github/forks/PaperDebugger/paperdebugger?style=flat-square&color=blue)](https://github.com/PaperDebugger/paperdebugger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ PaperDebugger 是一个基于插件的多智能体系统，专为编辑器内的
 | forks | 46/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 64/100 |
+| production | 78/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

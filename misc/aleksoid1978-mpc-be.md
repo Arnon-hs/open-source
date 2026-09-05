@@ -1,6 +1,6 @@
 # Aleksoid1978/MPC-BE
 
-[![Stars](https://img.shields.io/github/stars/Aleksoid1978/MPC-BE?style=flat-square&color=yellow)](https://github.com/Aleksoid1978/MPC-BE/stargazers) [![Forks](https://img.shields.io/github/forks/Aleksoid1978/MPC-BE?style=flat-square&color=blue)](https://github.com/Aleksoid1978/MPC-BE/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aleksoid1978/MPC-BE?style=flat-square&color=yellow)](https://github.com/Aleksoid1978/MPC-BE/stargazers) [![Forks](https://img.shields.io/github/forks/Aleksoid1978/MPC-BE?style=flat-square&color=blue)](https://github.com/Aleksoid1978/MPC-BE/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ MPC‑BE 通过轻量级的本地播放器实现了几乎全格式的音视频�
 | forks | 56/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

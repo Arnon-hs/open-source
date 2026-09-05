@@ -1,6 +1,6 @@
 # ekkx/yaylib
 
-[![Stars](https://img.shields.io/github/stars/ekkx/yaylib?style=flat-square&color=yellow)](https://github.com/ekkx/yaylib/stargazers) [![Forks](https://img.shields.io/github/forks/ekkx/yaylib?style=flat-square&color=blue)](https://github.com/ekkx/yaylib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ekkx/yaylib?style=flat-square&color=yellow)](https://github.com/ekkx/yaylib/stargazers) [![Forks](https://img.shields.io/github/forks/ekkx/yaylib?style=flat-square&color=blue)](https://github.com/ekkx/yaylib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > nanameue, Inc. Yay! (イェイ) - API ライブラリ 🛠️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ ekkx/yaylib 是 nanameue, Inc. 开发的 “Yay!” API 库（Rust 实现），�
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

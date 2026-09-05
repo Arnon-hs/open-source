@@ -1,6 +1,6 @@
 # getsentry/sentry-go
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-go?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-go/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-go?style=flat-square&color=blue)](https://github.com/getsentry/sentry-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-go?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-go/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-go?style=flat-square&color=blue)](https://github.com/getsentry/sentry-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The official Go SDK for Sentry (sentry.io)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Observability
+Backend · Libraries & SDKs · Observability
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ getsentry/sentry-go 在生产环境中非常可靠，主要理由包括：
 | forks | 60/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Ortus-Solutions/commandbox
 
-[![Stars](https://img.shields.io/github/stars/Ortus-Solutions/commandbox?style=flat-square&color=yellow)](https://github.com/Ortus-Solutions/commandbox/stargazers) [![Forks](https://img.shields.io/github/forks/Ortus-Solutions/commandbox?style=flat-square&color=blue)](https://github.com/Ortus-Solutions/commandbox/network) [![Language](https://img.shields.io/badge/lang-ColdFusion-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ortus-Solutions/commandbox?style=flat-square&color=yellow)](https://github.com/Ortus-Solutions/commandbox/stargazers) [![Forks](https://img.shields.io/github/forks/Ortus-Solutions/commandbox?style=flat-square&color=blue)](https://github.com/Ortus-Solutions/commandbox/network) [![Language](https://img.shields.io/badge/lang-ColdFusion-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CommandBox ColdFusion (CFML) CLI, Package Manager, REPL and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | ColdFusion |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ CommandBox 为 CFML 开发者提供了“一站式”开发、部署与 AI 集�
 | forks | 49/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

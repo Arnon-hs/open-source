@@ -1,6 +1,6 @@
 # renezander030/capcut-cli
 
-[![Stars](https://img.shields.io/github/stars/renezander030/capcut-cli?style=flat-square&color=yellow)](https://github.com/renezander030/capcut-cli/stargazers) [![Forks](https://img.shields.io/github/forks/renezander030/capcut-cli?style=flat-square&color=blue)](https://github.com/renezander030/capcut-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/renezander030/capcut-cli?style=flat-square&color=yellow)](https://github.com/renezander030/capcut-cli/stargazers) [![Forks](https://img.shields.io/github/forks/renezander030/capcut-cli?style=flat-square&color=blue)](https://github.com/renezander030/capcut-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json directly. Not affiliated with ByteDance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Templates · Automation · Backend · DevTools
+Video Editing · Templates · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,11 +107,11 @@ renezander030/capcut-cli 帮助用户减少重复的手动操作，提高工作�
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

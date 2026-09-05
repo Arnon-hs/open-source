@@ -1,6 +1,6 @@
 # bluesky-social/pds
 
-[![Stars](https://img.shields.io/github/stars/bluesky-social/pds?style=flat-square&color=yellow)](https://github.com/bluesky-social/pds/stargazers) [![Forks](https://img.shields.io/github/forks/bluesky-social/pds?style=flat-square&color=blue)](https://github.com/bluesky-social/pds/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluesky-social/pds?style=flat-square&color=yellow)](https://github.com/bluesky-social/pds/stargazers) [![Forks](https://img.shields.io/github/forks/bluesky-social/pds?style=flat-square&color=blue)](https://github.com/bluesky-social/pds/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Bluesky PDS（Personal Data Server）提供了完整的容器镜像、Docker‑C
 | forks | 62/100 |
 | stars | 72/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

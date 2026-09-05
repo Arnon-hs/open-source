@@ -1,6 +1,6 @@
 # facebook/starlark-rust
 
-[![Stars](https://img.shields.io/github/stars/facebook/starlark-rust?style=flat-square&color=yellow)](https://github.com/facebook/starlark-rust/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/starlark-rust?style=flat-square&color=blue)](https://github.com/facebook/starlark-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/starlark-rust?style=flat-square&color=yellow)](https://github.com/facebook/starlark-rust/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/starlark-rust?style=flat-square&color=blue)](https://github.com/facebook/starlark-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust implementation of the Starlark language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 991 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ facebook/starlark-rust：facebook/starlark-rust may be useful when its README an
 | forks | 51/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

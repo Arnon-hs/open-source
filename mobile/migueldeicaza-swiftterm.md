@@ -1,6 +1,6 @@
 # migueldeicaza/SwiftTerm
 
-[![Stars](https://img.shields.io/github/stars/migueldeicaza/SwiftTerm?style=flat-square&color=yellow)](https://github.com/migueldeicaza/SwiftTerm/stargazers) [![Forks](https://img.shields.io/github/forks/migueldeicaza/SwiftTerm?style=flat-square&color=blue)](https://github.com/migueldeicaza/SwiftTerm/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/migueldeicaza/SwiftTerm?style=flat-square&color=yellow)](https://github.com/migueldeicaza/SwiftTerm/stargazers) [![Forks](https://img.shields.io/github/forks/migueldeicaza/SwiftTerm?style=flat-square&color=blue)](https://github.com/migueldeicaza/SwiftTerm/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Xterm/VT100 Terminal emulator in Swift
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ SwiftTerm 在生产环境中具有较高的可用性，主要原因是其最近�
 | forks | 66/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

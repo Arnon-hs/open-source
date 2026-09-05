@@ -1,6 +1,6 @@
 # PriNova/graphone
 
-[![Stars](https://img.shields.io/github/stars/PriNova/graphone?style=flat-square&color=yellow)](https://github.com/PriNova/graphone/stargazers) [![Forks](https://img.shields.io/github/forks/PriNova/graphone?style=flat-square&color=blue)](https://github.com/PriNova/graphone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PriNova/graphone?style=flat-square&color=yellow)](https://github.com/PriNova/graphone/stargazers) [![Forks](https://img.shields.io/github/forks/PriNova/graphone?style=flat-square&color=blue)](https://github.com/PriNova/graphone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A visual workbench for coding agent orchestration for Windows, Linux & macOS. Chat interface for local & remote LLMs. Built with Tauri 2.x and Svelte 5.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Communication · DevTools
 
 ## 📝 Summary
 
@@ -118,15 +118,15 @@ PriNova / graphone 将零散的 Prompt、工具和模型包装成可视化�
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

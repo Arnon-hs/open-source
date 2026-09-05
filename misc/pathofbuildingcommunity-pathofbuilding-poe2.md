@@ -1,6 +1,6 @@
 # PathOfBuildingCommunity/PathOfBuilding-PoE2
 
-[![Stars](https://img.shields.io/github/stars/PathOfBuildingCommunity/PathOfBuilding-PoE2?style=flat-square&color=yellow)](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/stargazers) [![Forks](https://img.shields.io/github/forks/PathOfBuildingCommunity/PathOfBuilding-PoE2?style=flat-square&color=blue)](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PathOfBuildingCommunity/PathOfBuilding-PoE2?style=flat-square&color=yellow)](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/stargazers) [![Forks](https://img.shields.io/github/forks/PathOfBuildingCommunity/PathOfBuilding-PoE2?style=flat-square&color=blue)](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 404 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ PathOfBuildingCommunity/PathOfBuilding-PoE2 是一个基于 Lua 的前端工具�
 | forks | 65/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

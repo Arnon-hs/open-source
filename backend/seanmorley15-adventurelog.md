@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Svelte |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ seanmorley15/AdventureLog：seanmorley15/AdventureLog helps teams reuse service 
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

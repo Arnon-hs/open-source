@@ -1,6 +1,6 @@
 # MorpheApp/morphe-cli
 
-[![Stars](https://img.shields.io/github/stars/MorpheApp/morphe-cli?style=flat-square&color=yellow)](https://github.com/MorpheApp/morphe-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MorpheApp/morphe-cli?style=flat-square&color=blue)](https://github.com/MorpheApp/morphe-cli/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MorpheApp/morphe-cli?style=flat-square&color=yellow)](https://github.com/MorpheApp/morphe-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MorpheApp/morphe-cli?style=flat-square&color=blue)](https://github.com/MorpheApp/morphe-cli/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Morphe desktop patching tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ MorpheApp/morphe-cli 的生产可用性为中等（Medium）。它适合用于�
 | forks | 31/100 |
 | stars | 52/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

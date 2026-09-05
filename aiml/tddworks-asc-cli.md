@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ tddworks/asc-cli：tddworks/asc-cli helps add AI capability without starting fro
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ShekharBhardwaj/AgenticLedger
 
-[![Stars](https://img.shields.io/github/stars/ShekharBhardwaj/AgenticLedger?style=flat-square&color=yellow)](https://github.com/ShekharBhardwaj/AgenticLedger/stargazers) [![Forks](https://img.shields.io/github/forks/ShekharBhardwaj/AgenticLedger?style=flat-square&color=blue)](https://github.com/ShekharBhardwaj/AgenticLedger/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShekharBhardwaj/AgenticLedger?style=flat-square&color=yellow)](https://github.com/ShekharBhardwaj/AgenticLedger/stargazers) [![Forks](https://img.shields.io/github/forks/ShekharBhardwaj/AgenticLedger?style=flat-square&color=blue)](https://github.com/ShekharBhardwaj/AgenticLedger/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first flight recorder for AI agents: every LLM call, tool call, cost, and loop captured by a transparent proxy. Zero code changes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Observability
+MCP · AI/ML · Networking · Backend · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ShekharBhardwaj/AgenticLedger：ShekharBhardwaj/AgenticLedger helps connect AI a
 | forks | 12/100 |
 | stars | 17/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 15/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # antvis/chart-visualization-skills
 
-[![Stars](https://img.shields.io/github/stars/antvis/chart-visualization-skills?style=flat-square&color=yellow)](https://github.com/antvis/chart-visualization-skills/stargazers) [![Forks](https://img.shields.io/github/forks/antvis/chart-visualization-skills?style=flat-square&color=blue)](https://github.com/antvis/chart-visualization-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antvis/chart-visualization-skills?style=flat-square&color=yellow)](https://github.com/antvis/chart-visualization-skills/stargazers) [![Forks](https://img.shields.io/github/forks/antvis/chart-visualization-skills?style=flat-square&color=blue)](https://github.com/antvis/chart-visualization-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > ⛏️ Turning data into a visual language for better thinking with Skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · DevTools · Data
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ antvis/chart-visualization-skills 是一个开源项目，旨在帮助开发者�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

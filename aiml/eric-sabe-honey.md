@@ -1,6 +1,6 @@
 # eric-sabe/honey
 
-[![Stars](https://img.shields.io/github/stars/eric-sabe/honey?style=flat-square&color=yellow)](https://github.com/eric-sabe/honey/stargazers) [![Forks](https://img.shields.io/github/forks/eric-sabe/honey?style=flat-square&color=blue)](https://github.com/eric-sabe/honey/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eric-sabe/honey?style=flat-square&color=yellow)](https://github.com/eric-sabe/honey/stargazers) [![Forks](https://img.shields.io/github/forks/eric-sabe/honey?style=flat-square&color=blue)](https://github.com/eric-sabe/honey/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Hands-off supply-chain watchdog for dev machines: orchestrates multiple security scanners (Perplexity bumblebee + osv-scanner, govulncheck, NVIDIA SkillSpector) into one daily verdict — via Claude/Slack, desktop notification, or plain CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · Communication · Security
 
 ## 📝 Summary
 
@@ -94,15 +94,15 @@ eric-sabe/honey的价值在于，它可以帮助开发者在不需要从头开�
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

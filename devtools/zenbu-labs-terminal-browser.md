@@ -1,6 +1,6 @@
 # zenbu-labs/terminal-browser
 
-[![Stars](https://img.shields.io/github/stars/zenbu-labs/terminal-browser?style=flat-square&color=yellow)](https://github.com/zenbu-labs/terminal-browser/stargazers) [![Forks](https://img.shields.io/github/forks/zenbu-labs/terminal-browser?style=flat-square&color=blue)](https://github.com/zenbu-labs/terminal-browser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zenbu-labs/terminal-browser?style=flat-square&color=yellow)](https://github.com/zenbu-labs/terminal-browser/stargazers) [![Forks](https://img.shields.io/github/forks/zenbu-labs/terminal-browser?style=flat-square&color=blue)](https://github.com/zenbu-labs/terminal-browser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A browser that runs directly inside your existing terminal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 526 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ zenbu-labs/terminal-browser 是一个直接在终端内运行的浏览器，帮�
 | forks | 34/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

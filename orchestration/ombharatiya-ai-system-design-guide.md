@@ -1,6 +1,6 @@
 # ombharatiya/ai-system-design-guide
 
-[![Stars](https://img.shields.io/github/stars/ombharatiya/ai-system-design-guide?style=flat-square&color=yellow)](https://github.com/ombharatiya/ai-system-design-guide/stargazers) [![Forks](https://img.shields.io/github/forks/ombharatiya/ai-system-design-guide?style=flat-square&color=blue)](https://github.com/ombharatiya/ai-system-design-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ombharatiya/ai-system-design-guide?style=flat-square&color=yellow)](https://github.com/ombharatiya/ai-system-design-guide/stargazers) [![Forks](https://img.shields.io/github/forks/ombharatiya/ai-system-design-guide?style=flat-square&color=blue)](https://github.com/ombharatiya/ai-system-design-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI system design guide for engineers building production AI systems and evals.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Design
+Orchestration · Knowledge/RAG · Automation · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -127,11 +127,11 @@ The project scores 74/100 and shows strong OSS health signals: 1,897 GitHub star
 | forks | 65/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

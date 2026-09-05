@@ -1,6 +1,6 @@
 # stefanpejcic/OpenPanel
 
-[![Stars](https://img.shields.io/github/stars/stefanpejcic/OpenPanel?style=flat-square&color=yellow)](https://github.com/stefanpejcic/OpenPanel/stargazers) [![Forks](https://img.shields.io/github/forks/stefanpejcic/OpenPanel?style=flat-square&color=blue)](https://github.com/stefanpejcic/OpenPanel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefanpejcic/OpenPanel?style=flat-square&color=yellow)](https://github.com/stefanpejcic/OpenPanel/stargazers) [![Forks](https://img.shields.io/github/forks/stefanpejcic/OpenPanel?style=flat-square&color=blue)](https://github.com/stefanpejcic/OpenPanel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A highly customizable web hosting control panel built around containers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 687 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ OpenPanel（stefanpejcic/OpenPanel）是一个基于容器的高度可定制化 
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

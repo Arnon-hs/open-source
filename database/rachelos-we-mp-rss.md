@@ -1,6 +1,6 @@
 # rachelos/we-mp-rss
 
-[![Stars](https://img.shields.io/github/stars/rachelos/we-mp-rss?style=flat-square&color=yellow)](https://github.com/rachelos/we-mp-rss/stargazers) [![Forks](https://img.shields.io/github/forks/rachelos/we-mp-rss?style=flat-square&color=blue)](https://github.com/rachelos/we-mp-rss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rachelos/we-mp-rss?style=flat-square&color=yellow)](https://github.com/rachelos/we-mp-rss/stargazers) [![Forks](https://img.shields.io/github/forks/rachelos/we-mp-rss?style=flat-square&color=blue)](https://github.com/rachelos/we-mp-rss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 539 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ rachelos/we‑mp‑rss 是一个基于 Python 的开源工具，能够把微信�
 | forks | 68/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 68/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

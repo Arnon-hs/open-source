@@ -1,6 +1,6 @@
 # ecomfe/tempad-dev
 
-[![Stars](https://img.shields.io/github/stars/ecomfe/tempad-dev?style=flat-square&color=yellow)](https://github.com/ecomfe/tempad-dev/stargazers) [![Forks](https://img.shields.io/github/forks/ecomfe/tempad-dev?style=flat-square&color=blue)](https://github.com/ecomfe/tempad-dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ecomfe/tempad-dev?style=flat-square&color=yellow)](https://github.com/ecomfe/tempad-dev/stargazers) [![Forks](https://img.shields.io/github/forks/ecomfe/tempad-dev?style=flat-square&color=blue)](https://github.com/ecomfe/tempad-dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open handoff tooling for Figma
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ ecomfe/tempad-dev 是一款面向 Figma 的开源交付工具，帮助工程师�
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

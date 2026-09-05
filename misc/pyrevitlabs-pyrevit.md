@@ -1,6 +1,6 @@
 # pyrevitlabs/pyRevit
 
-[![Stars](https://img.shields.io/github/stars/pyrevitlabs/pyRevit?style=flat-square&color=yellow)](https://github.com/pyrevitlabs/pyRevit/stargazers) [![Forks](https://img.shields.io/github/forks/pyrevitlabs/pyRevit?style=flat-square&color=blue)](https://github.com/pyrevitlabs/pyRevit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyrevitlabs/pyRevit?style=flat-square&color=yellow)](https://github.com/pyrevitlabs/pyRevit/stargazers) [![Forks](https://img.shields.io/github/forks/pyrevitlabs/pyRevit?style=flat-square&color=blue)](https://github.com/pyrevitlabs/pyRevit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Rapid Application Development (RAD) Environment for Autodesk Revit®
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 442 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ pyrevitlabs/pyRevit 是面向 Autodesk Revit® 的快速应用开发（RAD）环
 | forks | 66/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

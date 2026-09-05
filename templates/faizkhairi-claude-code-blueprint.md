@@ -1,6 +1,6 @@
 # faizkhairi/claude-code-blueprint
 
-[![Stars](https://img.shields.io/github/stars/faizkhairi/claude-code-blueprint?style=flat-square&color=yellow)](https://github.com/faizkhairi/claude-code-blueprint/stargazers) [![Forks](https://img.shields.io/github/forks/faizkhairi/claude-code-blueprint?style=flat-square&color=blue)](https://github.com/faizkhairi/claude-code-blueprint/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/faizkhairi/claude-code-blueprint?style=flat-square&color=yellow)](https://github.com/faizkhairi/claude-code-blueprint/stargazers) [![Forks](https://img.shields.io/github/forks/faizkhairi/claude-code-blueprint?style=flat-square&color=blue)](https://github.com/faizkhairi/claude-code-blueprint/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A battle-tested, framework-agnostic reference architecture for Claude Code. Beginner-friendly with graduated adoption (minimal / standard / core / full presets). 11 agents, 17 skills, 12 hooks, 6 rules -- with reasoning behind every decision.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · MCP · AI/ML · DevTools
+Templates · MCP · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ faizkhairi/claude-code-blueprint 是一套经过实战检验、与框架无关�
 | forks | 31/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | C |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing
+Video Editing · Games & Graphics
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ haasn/libplacebo：haasn/libplacebo helps turn media editing, captions, renderin
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mit-cml/appinventor-sources
 
-[![Stars](https://img.shields.io/github/stars/mit-cml/appinventor-sources?style=flat-square&color=yellow)](https://github.com/mit-cml/appinventor-sources/stargazers) [![Forks](https://img.shields.io/github/forks/mit-cml/appinventor-sources?style=flat-square&color=blue)](https://github.com/mit-cml/appinventor-sources/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mit-cml/appinventor-sources?style=flat-square&color=yellow)](https://github.com/mit-cml/appinventor-sources/stargazers) [![Forks](https://img.shields.io/github/forks/mit-cml/appinventor-sources?style=flat-square&color=blue)](https://github.com/mit-cml/appinventor-sources/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > MIT App Inventor Public Open Source
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ MIT App Inventor 公开源项目（mit-cml/appinventor-sources）是一个开源
 | forks | 84/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

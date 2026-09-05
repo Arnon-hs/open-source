@@ -1,6 +1,6 @@
 # hexgrad/Kokoro-82M
 
-[![Stars](https://img.shields.io/github/stars/hexgrad/Kokoro-82M?style=flat-square&color=yellow)](https://huggingface.co/hexgrad/Kokoro-82M/stargazers) [![Forks](https://img.shields.io/github/forks/hexgrad/Kokoro-82M?style=flat-square&color=blue)](https://huggingface.co/hexgrad/Kokoro-82M/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexgrad/Kokoro-82M?style=flat-square&color=yellow)](https://huggingface.co/hexgrad/Kokoro-82M/stargazers) [![Forks](https://img.shields.io/github/forks/hexgrad/Kokoro-82M?style=flat-square&color=blue)](https://huggingface.co/hexgrad/Kokoro-82M/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text to speech (text-to-speech) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ hexgrad/Kokoro-82M 的生产可用性处于早期或不明确的阶段。应将�
 | forks | 0/100 |
 | stars | 81/100 |
 | topics | 38/100 |
-| outlook | 41/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

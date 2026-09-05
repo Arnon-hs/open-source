@@ -1,6 +1,6 @@
 # browserbase/stagehand
 
-[![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square&color=yellow)](https://github.com/browserbase/stagehand/stargazers) [![Forks](https://img.shields.io/github/forks/browserbase/stagehand?style=flat-square&color=blue)](https://github.com/browserbase/stagehand/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square&color=yellow)](https://github.com/browserbase/stagehand/stargazers) [![Forks](https://img.shields.io/github/forks/browserbase/stagehand?style=flat-square&color=blue)](https://github.com/browserbase/stagehand/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The SDK For Browser Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.4k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -85,15 +85,15 @@ browserbase/stagehand 是一款面向浏览器代理的 SDK，帮助开发者在
 | forks | 80/100 |
 | stars | 93/100 |
 | topics | 75/100 |
-| outlook | 69/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

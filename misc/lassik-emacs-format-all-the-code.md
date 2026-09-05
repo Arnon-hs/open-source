@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Emacs Lisp |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ lassik/emacs-format-all-the-code：lassik/emacs-format-all-the-code may be usefu
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

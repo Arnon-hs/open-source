@@ -1,6 +1,6 @@
 # paypal/PayPal-PHP-Server-SDK
 
-[![Stars](https://img.shields.io/github/stars/paypal/PayPal-PHP-Server-SDK?style=flat-square&color=yellow)](https://github.com/paypal/PayPal-PHP-Server-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/paypal/PayPal-PHP-Server-SDK?style=flat-square&color=blue)](https://github.com/paypal/PayPal-PHP-Server-SDK/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paypal/PayPal-PHP-Server-SDK?style=flat-square&color=yellow)](https://github.com/paypal/PayPal-PHP-Server-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/paypal/PayPal-PHP-Server-SDK?style=flat-square&color=blue)](https://github.com/paypal/PayPal-PHP-Server-SDK/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The PayPal Server SDK provides integration access to the PayPal REST APIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -116,15 +116,15 @@ PayPal-PHP-Server-SDK 的生产可用性非常高，主要原因包括：
 | forks | 32/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

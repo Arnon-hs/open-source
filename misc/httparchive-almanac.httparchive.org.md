@@ -1,6 +1,6 @@
 # HTTPArchive/almanac.httparchive.org
 
-[![Stars](https://img.shields.io/github/stars/HTTPArchive/almanac.httparchive.org?style=flat-square&color=yellow)](https://github.com/HTTPArchive/almanac.httparchive.org/stargazers) [![Forks](https://img.shields.io/github/forks/HTTPArchive/almanac.httparchive.org?style=flat-square&color=blue)](https://github.com/HTTPArchive/almanac.httparchive.org/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HTTPArchive/almanac.httparchive.org?style=flat-square&color=yellow)](https://github.com/HTTPArchive/almanac.httparchive.org/stargazers) [![Forks](https://img.shields.io/github/forks/HTTPArchive/almanac.httparchive.org?style=flat-square&color=blue)](https://github.com/HTTPArchive/almanac.httparchive.org/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > HTTP Archive's annual "State of the Web" report made by the web community
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 686 |
 | 🍴 **Forks** | 209 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ HTTP Archive 的年度《State of the Web》报告（almanac.httparchive.org�
 | forks | 58/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # patsnap/patent-literature-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/patsnap/patent-literature-search-mcp?style=flat-square&color=yellow)](https://github.com/patsnap/patent-literature-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/patsnap/patent-literature-search-mcp?style=flat-square&color=blue)](https://github.com/patsnap/patent-literature-search-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patsnap/patent-literature-search-mcp?style=flat-square&color=yellow)](https://github.com/patsnap/patent-literature-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/patsnap/patent-literature-search-mcp?style=flat-square&color=blue)](https://github.com/patsnap/patent-literature-search-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ patsnap/patent-literature-search-mcp 的主要价值在于，它可以连接 AI 
 | forks | 15/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

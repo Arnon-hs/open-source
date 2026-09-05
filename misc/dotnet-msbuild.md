@@ -1,6 +1,6 @@
 # dotnet/msbuild
 
-[![Stars](https://img.shields.io/github/stars/dotnet/msbuild?style=flat-square&color=yellow)](https://github.com/dotnet/msbuild/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/msbuild?style=flat-square&color=blue)](https://github.com/dotnet/msbuild/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/msbuild?style=flat-square&color=yellow)](https://github.com/dotnet/msbuild/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/msbuild?style=flat-square&color=blue)](https://github.com/dotnet/msbuild/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ dotnet/msbuild 是微软的构建引擎，也是 .NET 与 Visual Studio 官方
 | forks | 79/100 |
 | stars | 80/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

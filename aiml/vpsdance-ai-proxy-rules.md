@@ -1,6 +1,6 @@
 # VPSDance/ai-proxy-rules
 
-[![Stars](https://img.shields.io/github/stars/VPSDance/ai-proxy-rules?style=flat-square&color=yellow)](https://github.com/VPSDance/ai-proxy-rules/stargazers) [![Forks](https://img.shields.io/github/forks/VPSDance/ai-proxy-rules?style=flat-square&color=blue)](https://github.com/VPSDance/ai-proxy-rules/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VPSDance/ai-proxy-rules?style=flat-square&color=yellow)](https://github.com/VPSDance/ai-proxy-rules/stargazers) [![Forks](https://img.shields.io/github/forks/VPSDance/ai-proxy-rules?style=flat-square&color=blue)](https://github.com/VPSDance/ai-proxy-rules/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI 服务分流规则聚合: 多源合并 | 按 provider   精修 | 每日自动同步. 覆盖 OpenAI / Anthropic / Gemini / Cursor / Copilot 等主流 AI 服务, 适配   Clash / Mihomo / sing-box / Surge 等主流客户端.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ VPSDance/ai-proxy-rules 是一个开源项目，聚合了多个 AI 服务分流�
 | forks | 24/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # snowsky/yourfinanceworks
 
-[![Stars](https://img.shields.io/github/stars/snowsky/yourfinanceworks?style=flat-square&color=yellow)](https://github.com/snowsky/yourfinanceworks/stargazers) [![Forks](https://img.shields.io/github/forks/snowsky/yourfinanceworks?style=flat-square&color=blue)](https://github.com/snowsky/yourfinanceworks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/snowsky/yourfinanceworks?style=flat-square&color=yellow)](https://github.com/snowsky/yourfinanceworks/stargazers) [![Forks](https://img.shields.io/github/forks/snowsky/yourfinanceworks?style=flat-square&color=blue)](https://github.com/snowsky/yourfinanceworks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > self-hosted finance books for developers and small businesses
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ snowsky/yourfinanceworks：snowsky/yourfinanceworks helps add AI capability with
 | forks | 17/100 |
 | stars | 26/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 52/100 |
-| recency | 80/100 |
+| outlook | 53/100 |
+| quality | 47/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 59/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

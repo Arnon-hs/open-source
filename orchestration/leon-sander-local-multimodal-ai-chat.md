@@ -1,6 +1,6 @@
 # Leon-Sander/Local-Multimodal-AI-Chat
 
-[![Stars](https://img.shields.io/github/stars/Leon-Sander/Local-Multimodal-AI-Chat?style=flat-square&color=yellow)](https://github.com/Leon-Sander/Local-Multimodal-AI-Chat/stargazers) [![Forks](https://img.shields.io/github/forks/Leon-Sander/Local-Multimodal-AI-Chat?style=flat-square&color=blue)](https://github.com/Leon-Sander/Local-Multimodal-AI-Chat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leon-Sander/Local-Multimodal-AI-Chat?style=flat-square&color=yellow)](https://github.com/Leon-Sander/Local-Multimodal-AI-Chat/stargazers) [![Forks](https://img.shields.io/github/forks/Leon-Sander/Local-Multimodal-AI-Chat?style=flat-square&color=blue)](https://github.com/Leon-Sander/Local-Multimodal-AI-Chat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable multimodal chat with local LLMs (Ollama/OpenAI): PDF RAG, image chat, and Whisper voice, Streamlit + Docker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · DevOps/Infra
+Orchestration · Knowledge/RAG · AI/ML · Communication · Documents
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ Leon-Sander/Local-Multimodal-AI-Chat 的价值在于，它可以将孤立的提�
 | forks | 51/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

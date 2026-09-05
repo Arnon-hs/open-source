@@ -1,6 +1,6 @@
 # VIKAS9793/AndroJack-mcp
 
-[![Stars](https://img.shields.io/github/stars/VIKAS9793/AndroJack-mcp?style=flat-square&color=yellow)](https://github.com/VIKAS9793/AndroJack-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/VIKAS9793/AndroJack-mcp?style=flat-square&color=blue)](https://github.com/VIKAS9793/AndroJack-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VIKAS9793/AndroJack-mcp?style=flat-square&color=yellow)](https://github.com/VIKAS9793/AndroJack-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/VIKAS9793/AndroJack-mcp?style=flat-square&color=blue)](https://github.com/VIKAS9793/AndroJack-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AndroJack: AI that actually knows Android. Real-time dependency tracking, modern architectures, and zero hallucinations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ AndroJack‑mcp 为 AI 与 Android 开发工具之间搭建了可靠的桥梁，
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

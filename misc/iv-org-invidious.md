@@ -1,6 +1,6 @@
 # iv-org/invidious
 
-[![Stars](https://img.shields.io/github/stars/iv-org/invidious?style=flat-square&color=yellow)](https://github.com/iv-org/invidious/stargazers) [![Forks](https://img.shields.io/github/forks/iv-org/invidious?style=flat-square&color=blue)](https://github.com/iv-org/invidious/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iv-org/invidious?style=flat-square&color=yellow)](https://github.com/iv-org/invidious/stargazers) [![Forks](https://img.shields.io/github/forks/iv-org/invidious?style=flat-square&color=blue)](https://github.com/iv-org/invidious/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Invidious is an alternative front-end to YouTube
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Crystal |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Invidious 为 YouTube 提供了一个轻量、去中心化的前端，能够在�
 | forks | 84/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

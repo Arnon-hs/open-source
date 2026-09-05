@@ -1,6 +1,6 @@
 # X1a0He/X1a0HeWeChatPlugin
 
-[![Stars](https://img.shields.io/github/stars/X1a0He/X1a0HeWeChatPlugin?style=flat-square&color=yellow)](https://github.com/X1a0He/X1a0HeWeChatPlugin/stargazers) [![Forks](https://img.shields.io/github/forks/X1a0He/X1a0HeWeChatPlugin?style=flat-square&color=blue)](https://github.com/X1a0He/X1a0HeWeChatPlugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/X1a0He/X1a0HeWeChatPlugin?style=flat-square&color=yellow)](https://github.com/X1a0He/X1a0HeWeChatPlugin/stargazers) [![Forks](https://img.shields.io/github/forks/X1a0He/X1a0HeWeChatPlugin?style=flat-square&color=blue)](https://github.com/X1a0He/X1a0HeWeChatPlugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 一个随手写的插件 提供消息防撤回、多开、禁用更新和日志上报等功能。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ X1a0He/X1a0HeWeChatPlugin 是一个开源的微信插件，提供消息防撤回
 | forks | 50/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

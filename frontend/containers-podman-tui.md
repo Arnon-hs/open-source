@@ -1,6 +1,6 @@
 # containers/podman-tui
 
-[![Stars](https://img.shields.io/github/stars/containers/podman-tui?style=flat-square&color=yellow)](https://github.com/containers/podman-tui/stargazers) [![Forks](https://img.shields.io/github/forks/containers/podman-tui?style=flat-square&color=blue)](https://github.com/containers/podman-tui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containers/podman-tui?style=flat-square&color=yellow)](https://github.com/containers/podman-tui/stargazers) [![Forks](https://img.shields.io/github/forks/containers/podman-tui?style=flat-square&color=blue)](https://github.com/containers/podman-tui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Podman Terminal UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Rated “Medium”: the project is mature enough for internal prototypes and con
 | forks | 43/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

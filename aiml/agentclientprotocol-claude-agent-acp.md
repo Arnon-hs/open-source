@@ -1,6 +1,6 @@
 # agentclientprotocol/claude-agent-acp
 
-[![Stars](https://img.shields.io/github/stars/agentclientprotocol/claude-agent-acp?style=flat-square&color=yellow)](https://github.com/agentclientprotocol/claude-agent-acp/stargazers) [![Forks](https://img.shields.io/github/forks/agentclientprotocol/claude-agent-acp?style=flat-square&color=blue)](https://github.com/agentclientprotocol/claude-agent-acp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentclientprotocol/claude-agent-acp?style=flat-square&color=yellow)](https://github.com/agentclientprotocol/claude-agent-acp/stargazers) [![Forks](https://img.shields.io/github/forks/agentclientprotocol/claude-agent-acp?style=flat-square&color=blue)](https://github.com/agentclientprotocol/claude-agent-acp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Use Claude Agent SDK from any ACP client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Here's a brief summary of the agentclientprotocol/claude-agent-acp project:
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 80/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

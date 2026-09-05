@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ mozilla-mobile/reference-browser：mozilla-mobile/reference-browser may be usefu
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

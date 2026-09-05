@@ -1,6 +1,6 @@
 # roots/trellis-cli
 
-[![Stars](https://img.shields.io/github/stars/roots/trellis-cli?style=flat-square&color=yellow)](https://github.com/roots/trellis-cli/stargazers) [![Forks](https://img.shields.io/github/forks/roots/trellis-cli?style=flat-square&color=blue)](https://github.com/roots/trellis-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roots/trellis-cli?style=flat-square&color=yellow)](https://github.com/roots/trellis-cli/stargazers) [![Forks](https://img.shields.io/github/forks/roots/trellis-cli?style=flat-square&color=blue)](https://github.com/roots/trellis-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI to manage Trellis projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ roots/trellis-cli 是一款基于 Go 实现的命令行工具，用于统一管�
 | forks | 38/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

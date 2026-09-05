@@ -1,6 +1,6 @@
 # Miosa-osa/BusinessOS
 
-[![Stars](https://img.shields.io/github/stars/Miosa-osa/BusinessOS?style=flat-square&color=yellow)](https://github.com/Miosa-osa/BusinessOS/stargazers) [![Forks](https://img.shields.io/github/forks/Miosa-osa/BusinessOS?style=flat-square&color=blue)](https://github.com/Miosa-osa/BusinessOS/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Miosa-osa/BusinessOS?style=flat-square&color=yellow)](https://github.com/Miosa-osa/BusinessOS/stargazers) [![Forks](https://img.shields.io/github/forks/Miosa-osa/BusinessOS?style=flat-square&color=blue)](https://github.com/Miosa-osa/BusinessOS/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Your business, on autopilot. AI-native business OS — projects, CRM, docs, calendar, terminal, and AI agents that actually run your business. A MIOSA template.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Templates
+Templates · Communication
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ Miosa-osa/BusinessOS 的生产可用性为中等。它适合用于原型开发�
 | forks | 35/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # FlyFission/nuclear-grade-context-engineering
 
-[![Stars](https://img.shields.io/github/stars/FlyFission/nuclear-grade-context-engineering?style=flat-square&color=yellow)](https://github.com/FlyFission/nuclear-grade-context-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/FlyFission/nuclear-grade-context-engineering?style=flat-square&color=blue)](https://github.com/FlyFission/nuclear-grade-context-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlyFission/nuclear-grade-context-engineering?style=flat-square&color=yellow)](https://github.com/FlyFission/nuclear-grade-context-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/FlyFission/nuclear-grade-context-engineering?style=flat-square&color=blue)](https://github.com/FlyFission/nuclear-grade-context-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear’s control loop, ported to AI-assisted software engineering.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ FlyFission/nuclear‑grade‑context‑engineering 为 AI 代理提供“核级�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

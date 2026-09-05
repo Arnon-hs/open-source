@@ -1,6 +1,6 @@
 # coredns/coredns
 
-[![Stars](https://img.shields.io/github/stars/coredns/coredns?style=flat-square&color=yellow)](https://github.com/coredns/coredns/stargazers) [![Forks](https://img.shields.io/github/forks/coredns/coredns?style=flat-square&color=blue)](https://github.com/coredns/coredns/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coredns/coredns?style=flat-square&color=yellow)](https://github.com/coredns/coredns/stargazers) [![Forks](https://img.shields.io/github/forks/coredns/coredns?style=flat-square&color=blue)](https://github.com/coredns/coredns/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > CoreDNS is a DNS server that chains plugins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ CoreDNS 是一个基于插件链式机制的高性能 DNS 服务器，使用 Go 
 | forks | 85/100 |
 | stars | 88/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

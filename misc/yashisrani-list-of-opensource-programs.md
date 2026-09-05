@@ -1,6 +1,6 @@
 # yashisrani/List-of-OpenSource-Programs
 
-[![Stars](https://img.shields.io/github/stars/yashisrani/List-of-OpenSource-Programs?style=flat-square&color=yellow)](https://github.com/yashisrani/List-of-OpenSource-Programs/stargazers) [![Forks](https://img.shields.io/github/forks/yashisrani/List-of-OpenSource-Programs?style=flat-square&color=blue)](https://github.com/yashisrani/List-of-OpenSource-Programs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yashisrani/List-of-OpenSource-Programs?style=flat-square&color=yellow)](https://github.com/yashisrani/List-of-OpenSource-Programs/stargazers) [![Forks](https://img.shields.io/github/forks/yashisrani/List-of-OpenSource-Programs?style=flat-square&color=blue)](https://github.com/yashisrani/List-of-OpenSource-Programs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An accurate list of all the Open-Source Internships/Programs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ yashisrani/List-of-OpenSource-Programs 是一个持续更新的仓库，汇总�
 | forks | 34/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

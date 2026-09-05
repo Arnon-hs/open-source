@@ -1,6 +1,6 @@
 # us/mocker
 
-[![Stars](https://img.shields.io/github/stars/us/mocker?style=flat-square&color=yellow)](https://github.com/us/mocker/stargazers) [![Forks](https://img.shields.io/github/forks/us/mocker?style=flat-square&color=blue)](https://github.com/us/mocker/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/us/mocker?style=flat-square&color=yellow)](https://github.com/us/mocker/stargazers) [![Forks](https://img.shields.io/github/forks/us/mocker?style=flat-square&color=blue)](https://github.com/us/mocker/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ us/mocker 是一款基于 Apple Containerization 框架实现的 Docker 兼容�
 | forks | 24/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

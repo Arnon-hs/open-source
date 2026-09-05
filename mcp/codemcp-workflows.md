@@ -1,6 +1,6 @@
 # codemcp/workflows
 
-[![Stars](https://img.shields.io/github/stars/codemcp/workflows?style=flat-square&color=yellow)](https://github.com/codemcp/workflows/stargazers) [![Forks](https://img.shields.io/github/forks/codemcp/workflows?style=flat-square&color=blue)](https://github.com/codemcp/workflows/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codemcp/workflows?style=flat-square&color=yellow)](https://github.com/codemcp/workflows/stargazers) [![Forks](https://img.shields.io/github/forks/codemcp/workflows?style=flat-square&color=blue)](https://github.com/codemcp/workflows/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server who knows a development process and helps vibing the structured way
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ codemcp/workflows 的生产可用性
 | forks | 33/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

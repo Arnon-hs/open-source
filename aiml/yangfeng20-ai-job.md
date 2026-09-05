@@ -1,6 +1,6 @@
 # yangfeng20/ai-job
 
-[![Stars](https://img.shields.io/github/stars/yangfeng20/ai-job?style=flat-square&color=yellow)](https://github.com/yangfeng20/ai-job/stargazers) [![Forks](https://img.shields.io/github/forks/yangfeng20/ai-job?style=flat-square&color=blue)](https://github.com/yangfeng20/ai-job/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yangfeng20/ai-job?style=flat-square&color=yellow)](https://github.com/yangfeng20/ai-job/stargazers) [![Forks](https://img.shields.io/github/forks/yangfeng20/ai-job?style=flat-square&color=blue)](https://github.com/yangfeng20/ai-job/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 475 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,14 +130,15 @@ yangfeng20/ai-job 是一款基于 DeepSeek 与 ChatGPT 的 AI 求职助理，能
 | forks | 47/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

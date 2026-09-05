@@ -1,6 +1,6 @@
 # nbdd0121/unwinding
 
-[![Stars](https://img.shields.io/github/stars/nbdd0121/unwinding?style=flat-square&color=yellow)](https://github.com/nbdd0121/unwinding/stargazers) [![Forks](https://img.shields.io/github/forks/nbdd0121/unwinding?style=flat-square&color=blue)](https://github.com/nbdd0121/unwinding/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nbdd0121/unwinding?style=flat-square&color=yellow)](https://github.com/nbdd0121/unwinding/stargazers) [![Forks](https://img.shields.io/github/forks/nbdd0121/unwinding?style=flat-square&color=blue)](https://github.com/nbdd0121/unwinding/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Stack unwinding library in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ nbdd0121/unwinding的生产可用性为中等（Medium）。它适合用于原�
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

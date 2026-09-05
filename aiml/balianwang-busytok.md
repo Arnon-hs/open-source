@@ -1,6 +1,6 @@
 # BalianWang/busytok
 
-[![Stars](https://img.shields.io/github/stars/BalianWang/busytok?style=flat-square&color=yellow)](https://github.com/BalianWang/busytok/stargazers) [![Forks](https://img.shields.io/github/forks/BalianWang/busytok?style=flat-square&color=blue)](https://github.com/BalianWang/busytok/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BalianWang/busytok?style=flat-square&color=yellow)](https://github.com/BalianWang/busytok/stargazers) [![Forks](https://img.shields.io/github/forks/BalianWang/busytok?style=flat-square&color=blue)](https://github.com/BalianWang/busytok/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first agent token usage audit dashboard
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ BalianWang/busytok 的生产可用性为中等（Medium），因为它主要适�
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # infokiller/web-search-navigator
 
-[![Stars](https://img.shields.io/github/stars/infokiller/web-search-navigator?style=flat-square&color=yellow)](https://github.com/infokiller/web-search-navigator/stargazers) [![Forks](https://img.shields.io/github/forks/infokiller/web-search-navigator?style=flat-square&color=blue)](https://github.com/infokiller/web-search-navigator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infokiller/web-search-navigator?style=flat-square&color=yellow)](https://github.com/infokiller/web-search-navigator/stargazers) [![Forks](https://img.shields.io/github/forks/infokiller/web-search-navigator?style=flat-square&color=blue)](https://github.com/infokiller/web-search-navigator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 954 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ infokiller/web-search-navigator 是一个开源项目，旨在为 Google、YouTu
 | forks | 48/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

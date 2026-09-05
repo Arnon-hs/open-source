@@ -1,6 +1,6 @@
 # flux-iac/tofu-controller
 
-[![Stars](https://img.shields.io/github/stars/flux-iac/tofu-controller?style=flat-square&color=yellow)](https://github.com/flux-iac/tofu-controller/stargazers) [![Forks](https://img.shields.io/github/forks/flux-iac/tofu-controller?style=flat-square&color=blue)](https://github.com/flux-iac/tofu-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flux-iac/tofu-controller?style=flat-square&color=yellow)](https://github.com/flux-iac/tofu-controller/stargazers) [![Forks](https://img.shields.io/github/forks/flux-iac/tofu-controller?style=flat-square&color=blue)](https://github.com/flux-iac/tofu-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A GitOps OpenTofu and Terraform controller for Flux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ flux-iac/tofu‑controller 是一个基于 GitOps 的 OpenTofu 与 Terraform 控
 | forks | 57/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 48/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

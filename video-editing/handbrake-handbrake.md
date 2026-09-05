@@ -1,6 +1,6 @@
 # HandBrake/HandBrake
 
-[![Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat-square&color=yellow)](https://github.com/HandBrake/HandBrake/stargazers) [![Forks](https://img.shields.io/github/forks/HandBrake/HandBrake?style=flat-square&color=blue)](https://github.com/HandBrake/HandBrake/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat-square&color=yellow)](https://github.com/HandBrake/HandBrake/stargazers) [![Forks](https://img.shields.io/github/forks/HandBrake/HandBrake?style=flat-square&color=blue)](https://github.com/HandBrake/HandBrake/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > HandBrake's development repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.5k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ HandBrake/HandBrake 是 HandBrake 视频转码工具的官方开发仓库，采�
 | forks | 80/100 |
 | stars | 93/100 |
 | topics | 38/100 |
-| outlook | 59/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

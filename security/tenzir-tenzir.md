@@ -1,6 +1,6 @@
 # tenzir/tenzir
 
-[![Stars](https://img.shields.io/github/stars/tenzir/tenzir?style=flat-square&color=yellow)](https://github.com/tenzir/tenzir/stargazers) [![Forks](https://img.shields.io/github/forks/tenzir/tenzir?style=flat-square&color=blue)](https://github.com/tenzir/tenzir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tenzir/tenzir?style=flat-square&color=yellow)](https://github.com/tenzir/tenzir/stargazers) [![Forks](https://img.shields.io/github/forks/tenzir/tenzir?style=flat-square&color=blue)](https://github.com/tenzir/tenzir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Tenzir is the data pipeline engine for security teams.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 737 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Tenzir（tenzir/tenzir）是面向安全团队的数据管道引擎，能够把�
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

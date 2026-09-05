@@ -1,6 +1,6 @@
 # AI-agents-incubator/news
 
-[![Stars](https://img.shields.io/github/stars/AI-agents-incubator/news?style=flat-square&color=yellow)](https://github.com/AI-agents-incubator/news/stargazers) [![Forks](https://img.shields.io/github/forks/AI-agents-incubator/news?style=flat-square&color=blue)](https://github.com/AI-agents-incubator/news/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI-agents-incubator/news?style=flat-square&color=yellow)](https://github.com/AI-agents-incubator/news/stargazers) [![Forks](https://img.shields.io/github/forks/AI-agents-incubator/news?style=flat-square&color=blue)](https://github.com/AI-agents-incubator/news/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Автоматический новостной дайджест: Perplexity → Claude API (Opus 4) → Telegram + Facebook. Генерирует ироничные авторские комментарии и публикует одним кликом.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ AI-agents-incubator/news 的价值在于它可以帮助用户:
 | forks | 41/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

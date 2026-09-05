@@ -1,6 +1,6 @@
 # rex-rs/rex
 
-[![Stars](https://img.shields.io/github/stars/rex-rs/rex?style=flat-square&color=yellow)](https://github.com/rex-rs/rex/stargazers) [![Forks](https://img.shields.io/github/forks/rex-rs/rex?style=flat-square&color=blue)](https://github.com/rex-rs/rex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rex-rs/rex?style=flat-square&color=yellow)](https://github.com/rex-rs/rex/stargazers) [![Forks](https://img.shields.io/github/forks/rex-rs/rex?style=flat-square&color=blue)](https://github.com/rex-rs/rex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Rex is a safe and usable kernel extension framework that allows loading and executing Rust kernel extension programs in the place of eBPF.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Rex（`rex-rs/rex`）是一个安全、易用的内核扩展框架，能够在 L
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

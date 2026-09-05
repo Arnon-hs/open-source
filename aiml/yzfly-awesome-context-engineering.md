@@ -1,6 +1,6 @@
 # yzfly/awesome-context-engineering
 
-[![Stars](https://img.shields.io/github/stars/yzfly/awesome-context-engineering?style=flat-square&color=yellow)](https://github.com/yzfly/awesome-context-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/yzfly/awesome-context-engineering?style=flat-square&color=blue)](https://github.com/yzfly/awesome-context-engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzfly/awesome-context-engineering?style=flat-square&color=yellow)](https://github.com/yzfly/awesome-context-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/yzfly/awesome-context-engineering?style=flat-square&color=blue)](https://github.com/yzfly/awesome-context-engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of resources, papers, tools, and best practices for Context Engineering in AI agents and Large Language Models (LLMs).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ yzfly/awesome-context-engineering 是一个精选的资源库，汇集了关于 
 | forks | 33/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

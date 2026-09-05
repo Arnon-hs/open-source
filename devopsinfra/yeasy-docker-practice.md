@@ -1,6 +1,6 @@
 # yeasy/docker_practice
 
-[![Stars](https://img.shields.io/github/stars/yeasy/docker_practice?style=flat-square&color=yellow)](https://github.com/yeasy/docker_practice/stargazers) [![Forks](https://img.shields.io/github/forks/yeasy/docker_practice?style=flat-square&color=blue)](https://github.com/yeasy/docker_practice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yeasy/docker_practice?style=flat-square&color=yellow)](https://github.com/yeasy/docker_practice/stargazers) [![Forks](https://img.shields.io/github/forks/yeasy/docker_practice?style=flat-square&color=blue)](https://github.com/yeasy/docker_practice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.2k |
 | 🍴 **Forks** | 5.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ yeasy/docker_practice 的生产可用性很高。该项目有强大的生态系�
 | forks | 94/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 87/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 74/100 |
+| production | 81/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

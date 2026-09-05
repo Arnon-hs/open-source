@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 608 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ openfoodfacts/openfoodfacts-server：openfoodfacts/openfoodfacts-server helps te
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

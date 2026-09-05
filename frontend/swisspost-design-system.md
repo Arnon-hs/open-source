@@ -1,6 +1,6 @@
 # swisspost/design-system
 
-[![Stars](https://img.shields.io/github/stars/swisspost/design-system?style=flat-square&color=yellow)](https://github.com/swisspost/design-system/stargazers) [![Forks](https://img.shields.io/github/forks/swisspost/design-system?style=flat-square&color=blue)](https://github.com/swisspost/design-system/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swisspost/design-system?style=flat-square&color=yellow)](https://github.com/swisspost/design-system/stargazers) [![Forks](https://img.shields.io/github/forks/swisspost/design-system?style=flat-square&color=blue)](https://github.com/swisspost/design-system/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Patterns, components and guidance for a consistent and inclusive user experience across the web platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | SCSS |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Design
+Frontend · Design
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ swisspost/design-system 的生产可用性为Medium，适合用于原型或内�
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

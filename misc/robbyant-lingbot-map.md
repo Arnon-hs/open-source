@@ -1,6 +1,6 @@
 # Robbyant/lingbot-map
 
-[![Stars](https://img.shields.io/github/stars/Robbyant/lingbot-map?style=flat-square&color=yellow)](https://github.com/Robbyant/lingbot-map/stargazers) [![Forks](https://img.shields.io/github/forks/Robbyant/lingbot-map?style=flat-square&color=blue)](https://github.com/Robbyant/lingbot-map/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Robbyant/lingbot-map?style=flat-square&color=yellow)](https://github.com/Robbyant/lingbot-map/stargazers) [![Forks](https://img.shields.io/github/forks/Robbyant/lingbot-map?style=flat-square&color=blue)](https://github.com/Robbyant/lingbot-map/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 724 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Robbyant/lingbot‑map 是一个前馈式 3D 基础模型，能够基于连续�
 | forks | 72/100 |
 | stars | 82/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

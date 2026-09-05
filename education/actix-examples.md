@@ -1,6 +1,6 @@
 # actix/examples
 
-[![Stars](https://img.shields.io/github/stars/actix/examples?style=flat-square&color=yellow)](https://github.com/actix/examples/stargazers) [![Forks](https://img.shields.io/github/forks/actix/examples?style=flat-square&color=blue)](https://github.com/actix/examples/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/actix/examples?style=flat-square&color=yellow)](https://github.com/actix/examples/stargazers) [![Forks](https://img.shields.io/github/forks/actix/examples?style=flat-square&color=blue)](https://github.com/actix/examples/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Community showcase and examples of Actix Web ecosystem usage.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 803 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ actix/examples 的主要价值在于帮助学习者从实际的代码中学习�
 | forks | 73/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

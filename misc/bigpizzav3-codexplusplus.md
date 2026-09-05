@@ -1,6 +1,6 @@
 # BigPizzaV3/CodexPlusPlus
 
-[![Stars](https://img.shields.io/github/stars/BigPizzaV3/CodexPlusPlus?style=flat-square&color=yellow)](https://github.com/BigPizzaV3/CodexPlusPlus/stargazers) [![Forks](https://img.shields.io/github/forks/BigPizzaV3/CodexPlusPlus?style=flat-square&color=blue)](https://github.com/BigPizzaV3/CodexPlusPlus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BigPizzaV3/CodexPlusPlus?style=flat-square&color=yellow)](https://github.com/BigPizzaV3/CodexPlusPlus/stargazers) [![Forks](https://img.shields.io/github/forks/BigPizzaV3/CodexPlusPlus?style=flat-square&color=blue)](https://github.com/BigPizzaV3/CodexPlusPlus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ BigPizzaV3/CodexPlusPlus：BigPizzaV3/CodexPlusPlus may be useful when its READM
 | forks | 79/100 |
 | stars | 92/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

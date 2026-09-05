@@ -1,0 +1,81 @@
+# freenet/freenet-core
+
+[![Stars](https://img.shields.io/github/stars/freenet/freenet-core?style=flat-square&color=yellow)](https://github.com/freenet/freenet-core/stargazers) [![Forks](https://img.shields.io/github/forks/freenet/freenet-core?style=flat-square&color=blue)](https://github.com/freenet/freenet-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+
+> Declare your digital independence
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2.7k |
+| 🍴 **Forks** | 132 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cryptography` `decentralized` `distributed-hash-table` `freenet` `p2p` `privacy` `rust`
+
+## 🎯 Categories
+
+Networking
+
+## 📝 Summary
+
+### English
+
+freenet/freenet-core: freenet/freenet-core may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+freenet/freenet-core: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+freenet/freenet-core：freenet/freenet-core may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** freenet/freenet-core may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 2701 GitHub stars
+- 132 forks
+- updated 2026-05-07
+- primary language: Rust
+- 7 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 53/100 |
+| stars | 73/100 |
+| topics | 88/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/freenet/freenet-core) · [← Back to Networking](./README.md)</sub>

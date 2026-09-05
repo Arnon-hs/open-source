@@ -1,6 +1,6 @@
 # python/typeshed
 
-[![Stars](https://img.shields.io/github/stars/python/typeshed?style=flat-square&color=yellow)](https://github.com/python/typeshed/stargazers) [![Forks](https://img.shields.io/github/forks/python/typeshed?style=flat-square&color=blue)](https://github.com/python/typeshed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python/typeshed?style=flat-square&color=yellow)](https://github.com/python/typeshed/stargazers) [![Forks](https://img.shields.io/github/forks/python/typeshed?style=flat-square&color=blue)](https://github.com/python/typeshed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of library stubs for Python, with static types
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ With 5083 GitHub stars, 2043 forks, and recent activity, python/typeshed demonst
 | forks | 83/100 |
 | stars | 79/100 |
 | topics | 50/100 |
-| outlook | 57/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

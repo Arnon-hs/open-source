@@ -1,6 +1,6 @@
 # andreknieriem/open-headunit
 
-[![Stars](https://img.shields.io/github/stars/andreknieriem/open-headunit?style=flat-square&color=yellow)](https://github.com/andreknieriem/open-headunit/stargazers) [![Forks](https://img.shields.io/github/forks/andreknieriem/open-headunit?style=flat-square&color=blue)](https://github.com/andreknieriem/open-headunit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andreknieriem/open-headunit?style=flat-square&color=yellow)](https://github.com/andreknieriem/open-headunit/stargazers) [![Forks](https://img.shields.io/github/forks/andreknieriem/open-headunit?style=flat-square&color=blue)](https://github.com/andreknieriem/open-headunit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Headunit App for displaying Android Auto
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ andreknieriem/open-headunit 是一个开源项目，旨在为 Android Auto 提�
 | forks | 55/100 |
 | stars | 71/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

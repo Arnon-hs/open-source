@@ -1,6 +1,6 @@
 # leahneukirchen/px
 
-[![Stars](https://img.shields.io/github/stars/leahneukirchen/px?style=flat-square&color=yellow)](https://github.com/leahneukirchen/px/stargazers) [![Forks](https://img.shields.io/github/forks/leahneukirchen/px?style=flat-square&color=blue)](https://github.com/leahneukirchen/px/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leahneukirchen/px?style=flat-square&color=yellow)](https://github.com/leahneukirchen/px/stargazers) [![Forks](https://img.shields.io/github/forks/leahneukirchen/px?style=flat-square&color=blue)](https://github.com/leahneukirchen/px/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #opensource by @r1w1s1
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | mastodon |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ px 的生产可用性为中等。它适合用于内部工作流程或原型开�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 39/100 |
-| quality | 29/100 |
-| recency | 60/100 |
+| outlook | 46/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 43/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

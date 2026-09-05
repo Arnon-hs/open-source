@@ -1,6 +1,6 @@
 # kaikramer/keystore-explorer
 
-[![Stars](https://img.shields.io/github/stars/kaikramer/keystore-explorer?style=flat-square&color=yellow)](https://github.com/kaikramer/keystore-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/kaikramer/keystore-explorer?style=flat-square&color=blue)](https://github.com/kaikramer/keystore-explorer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaikramer/keystore-explorer?style=flat-square&color=yellow)](https://github.com/kaikramer/keystore-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/kaikramer/keystore-explorer?style=flat-square&color=blue)](https://github.com/kaikramer/keystore-explorer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 312 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ kaikramer/keystore-explorer 帮助开发者快速添加 AI 能力，节省了从
 | forks | 62/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # rustdesk/rustdesk-server
 
-[![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk-server?style=flat-square&color=yellow)](https://github.com/rustdesk/rustdesk-server/stargazers) [![Forks](https://img.shields.io/github/forks/rustdesk/rustdesk-server?style=flat-square&color=blue)](https://github.com/rustdesk/rustdesk-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk-server?style=flat-square&color=yellow)](https://github.com/rustdesk/rustdesk-server/stargazers) [![Forks](https://img.shields.io/github/forks/rustdesk/rustdesk-server?style=flat-square&color=blue)](https://github.com/rustdesk/rustdesk-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > RustDesk Server Program
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ RustDesk Server 是 RustDesk 远程桌面方案的后端服务组件，提供安
 | forks | 85/100 |
 | stars | 85/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

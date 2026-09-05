@@ -1,6 +1,6 @@
 # BAAI/bge-m3
 
-[![Stars](https://img.shields.io/github/stars/BAAI/bge-m3?style=flat-square&color=yellow)](https://huggingface.co/BAAI/bge-m3/stargazers) [![Forks](https://img.shields.io/github/forks/BAAI/bge-m3?style=flat-square&color=blue)](https://huggingface.co/BAAI/bge-m3/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BAAI/bge-m3?style=flat-square&color=yellow)](https://huggingface.co/BAAI/bge-m3/stargazers) [![Forks](https://img.shields.io/github/forks/BAAI/bge-m3?style=flat-square&color=blue)](https://huggingface.co/BAAI/bge-m3/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Embeddings and similarity (sentence-similarity) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ BAAI/bge-m3 的价值在于它可以使内部知识变得可搜索和可使用�
 | forks | 0/100 |
 | stars | 75/100 |
 | topics | 38/100 |
-| outlook | 40/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 40/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

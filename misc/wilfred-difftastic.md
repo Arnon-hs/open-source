@@ -1,6 +1,6 @@
 # Wilfred/difftastic
 
-[![Stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat-square&color=yellow)](https://github.com/Wilfred/difftastic/stargazers) [![Forks](https://img.shields.io/github/forks/Wilfred/difftastic?style=flat-square&color=blue)](https://github.com/Wilfred/difftastic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat-square&color=yellow)](https://github.com/Wilfred/difftastic/stargazers) [![Forks](https://img.shields.io/github/forks/Wilfred/difftastic?style=flat-square&color=blue)](https://github.com/Wilfred/difftastic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > a structural diff that understands syntax 🟥🟩
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.6k |
 | 🍴 **Forks** | 497 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Wilfred/difftastic 的生产可用性较高，因为它有较多的活跃用户�
 | forks | 67/100 |
 | stars | 94/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

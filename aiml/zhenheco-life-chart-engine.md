@@ -1,6 +1,6 @@
 # zhenheco/life-chart-engine
 
-[![Stars](https://img.shields.io/github/stars/zhenheco/life-chart-engine?style=flat-square&color=yellow)](https://github.com/zhenheco/life-chart-engine/stargazers) [![Forks](https://img.shields.io/github/forks/zhenheco/life-chart-engine?style=flat-square&color=blue)](https://github.com/zhenheco/life-chart-engine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhenheco/life-chart-engine?style=flat-square&color=yellow)](https://github.com/zhenheco/life-chart-engine/stargazers) [![Forks](https://img.shields.io/github/forks/zhenheco/life-chart-engine?style=flat-square&color=blue)](https://github.com/zhenheco/life-chart-engine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 三合一排盤引擎：西洋星盤 + 人類圖 + 紫微斗數，原生天文/曆法計算，CLI + JSON(供 AI agent)。AGPL-3.0。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ zhenheco/life-chart-engine：zhenheco/life-chart-engine helps add AI capability 
 | forks | 26/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 40/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

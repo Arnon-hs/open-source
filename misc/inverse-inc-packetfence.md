@@ -1,6 +1,6 @@
 # inverse-inc/packetfence
 
-[![Stars](https://img.shields.io/github/stars/inverse-inc/packetfence?style=flat-square&color=yellow)](https://github.com/inverse-inc/packetfence/stargazers) [![Forks](https://img.shields.io/github/forks/inverse-inc/packetfence?style=flat-square&color=blue)](https://github.com/inverse-inc/packetfence/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inverse-inc/packetfence?style=flat-square&color=yellow)](https://github.com/inverse-inc/packetfence/stargazers) [![Forks](https://img.shields.io/github/forks/inverse-inc/packetfence?style=flat-square&color=blue)](https://github.com/inverse-inc/packetfence/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ PacketFence（inverse‑inc/packetfence）是一款功能完整、免费开源�
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

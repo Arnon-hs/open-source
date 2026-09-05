@@ -1,6 +1,6 @@
 # unicity-astrid/astrid
 
-[![Stars](https://img.shields.io/github/stars/unicity-astrid/astrid?style=flat-square&color=yellow)](https://github.com/unicity-astrid/astrid/stargazers) [![Forks](https://img.shields.io/github/forks/unicity-astrid/astrid?style=flat-square&color=blue)](https://github.com/unicity-astrid/astrid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unicity-astrid/astrid?style=flat-square&color=yellow)](https://github.com/unicity-astrid/astrid/stargazers) [![Forks](https://img.shields.io/github/forks/unicity-astrid/astrid?style=flat-square&color=blue)](https://github.com/unicity-astrid/astrid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An operating system for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -125,11 +125,11 @@ let response = agent.run("帮我规划一次七天的日本自驾游").await?;
 | forks | 51/100 |
 | stars | 85/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

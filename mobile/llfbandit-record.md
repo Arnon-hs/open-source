@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 295 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ llfbandit/record：llfbandit/record may be useful when its README and activity m
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

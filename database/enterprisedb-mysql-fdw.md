@@ -1,6 +1,6 @@
 # EnterpriseDB/mysql_fdw
 
-[![Stars](https://img.shields.io/github/stars/EnterpriseDB/mysql_fdw?style=flat-square&color=yellow)](https://github.com/EnterpriseDB/mysql_fdw/stargazers) [![Forks](https://img.shields.io/github/forks/EnterpriseDB/mysql_fdw?style=flat-square&color=blue)](https://github.com/EnterpriseDB/mysql_fdw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EnterpriseDB/mysql_fdw?style=flat-square&color=yellow)](https://github.com/EnterpriseDB/mysql_fdw/stargazers) [![Forks](https://img.shields.io/github/forks/EnterpriseDB/mysql_fdw?style=flat-square&color=blue)](https://github.com/EnterpriseDB/mysql_fdw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > PostgreSQL foreign data wrapper for MySQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 596 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ EnterpriseDB/mysql_fdw 的生产可用性为中等（Medium）。它适合用于
 | forks | 55/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

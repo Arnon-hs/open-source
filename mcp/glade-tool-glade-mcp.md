@@ -1,6 +1,6 @@
 # Glade-tool/glade-mcp
 
-[![Stars](https://img.shields.io/github/stars/Glade-tool/glade-mcp?style=flat-square&color=yellow)](https://github.com/Glade-tool/glade-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Glade-tool/glade-mcp?style=flat-square&color=blue)](https://github.com/Glade-tool/glade-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Glade-tool/glade-mcp?style=flat-square&color=yellow)](https://github.com/Glade-tool/glade-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Glade-tool/glade-mcp?style=flat-square&color=blue)](https://github.com/Glade-tool/glade-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 235+ granular tools, a Unity-aware system prompt, game design document project context, script semantic search, and skill calibration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Design
+MCP · Knowledge/RAG · AI/ML · Documents · Games & Graphics
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ Glade‑tool / glade‑mcp 是一个开源框架，能够把任何遵循 MCP（M
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

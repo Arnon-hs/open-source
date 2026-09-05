@@ -1,6 +1,6 @@
 # Logflare/logflare
 
-[![Stars](https://img.shields.io/github/stars/Logflare/logflare?style=flat-square&color=yellow)](https://github.com/Logflare/logflare/stargazers) [![Forks](https://img.shields.io/github/forks/Logflare/logflare?style=flat-square&color=blue)](https://github.com/Logflare/logflare/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Logflare/logflare?style=flat-square&color=yellow)](https://github.com/Logflare/logflare/stargazers) [![Forks](https://img.shields.io/github/forks/Logflare/logflare?style=flat-square&color=blue)](https://github.com/Logflare/logflare/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 985 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Logflare（GitHub logflare/logflare）提供面向 Cloudflare、Vercel、Elixi
 | forks | 48/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

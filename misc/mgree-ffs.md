@@ -1,6 +1,6 @@
 # mgree/ffs
 
-[![Stars](https://img.shields.io/github/stars/mgree/ffs?style=flat-square&color=yellow)](https://github.com/mgree/ffs/stargazers) [![Forks](https://img.shields.io/github/forks/mgree/ffs?style=flat-square&color=blue)](https://github.com/mgree/ffs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mgree/ffs?style=flat-square&color=yellow)](https://github.com/mgree/ffs/stargazers) [![Forks](https://img.shields.io/github/forks/mgree/ffs?style=flat-square&color=blue)](https://github.com/mgree/ffs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 493 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -129,11 +129,11 @@ mgree/ffs 是一个基于 Rust 实现的文件系统层，将半结构化数据�
 | forks | 31/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

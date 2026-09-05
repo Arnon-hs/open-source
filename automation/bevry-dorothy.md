@@ -1,6 +1,6 @@
 # bevry/dorothy
 
-[![Stars](https://img.shields.io/github/stars/bevry/dorothy?style=flat-square&color=yellow)](https://github.com/bevry/dorothy/stargazers) [![Forks](https://img.shields.io/github/forks/bevry/dorothy?style=flat-square&color=blue)](https://github.com/bevry/dorothy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bevry/dorothy?style=flat-square&color=yellow)](https://github.com/bevry/dorothy/stargazers) [![Forks](https://img.shields.io/github/forks/bevry/dorothy?style=flat-square&color=blue)](https://github.com/bevry/dorothy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source packages/apps/utilities: github/brew/apt/flatpak/appimage/cargo/npm/… ④ Hundreds of cross-os commands: macos/linux/windows, x86/arm.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ bevry/dorothy 是一个跨终端生态框架，能够统一 bash、nu、deno 等
 | forks | 39/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

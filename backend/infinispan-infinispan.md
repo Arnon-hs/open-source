@@ -1,6 +1,6 @@
 # infinispan/infinispan
 
-[![Stars](https://img.shields.io/github/stars/infinispan/infinispan?style=flat-square&color=yellow)](https://github.com/infinispan/infinispan/stargazers) [![Forks](https://img.shields.io/github/forks/infinispan/infinispan?style=flat-square&color=blue)](https://github.com/infinispan/infinispan/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infinispan/infinispan?style=flat-square&color=yellow)](https://github.com/infinispan/infinispan/stargazers) [![Forks](https://img.shields.io/github/forks/infinispan/infinispan?style=flat-square&color=blue)](https://github.com/infinispan/infinispan/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 651 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · Database
 
 ## 📝 Summary
 
@@ -117,15 +117,15 @@ Infinispan 是一款开源的分布式数据网格平台，提供高可扩展的
 | forks | 70/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
 ### English
 
-theagentplane/tokenops: . Use it for Orchestration, AI/ML. 
+theagentplane/tokenops: . Use it for Orchestration, AI/ML, Backend. 
 
 ### Русский
 
-theagentplane/tokenops: open-source проект в категориях Orchestration, AI/ML. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+theagentplane/tokenops: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-theagentplane/tokenops：。适合用于Orchestration、AI/ML。
+theagentplane/tokenops：。适合用于Orchestration、AI/ML、Backend。
 
 ## 🧭 Practical evaluation
 
@@ -70,7 +70,7 @@ theagentplane/tokenops：。适合用于Orchestration、AI/ML。
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

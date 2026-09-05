@@ -1,6 +1,6 @@
 # fushengqian/fuint
 
-[![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=flat-square&color=yellow)](https://github.com/fushengqian/fuint/stargazers) [![Forks](https://img.shields.io/github/forks/fushengqian/fuint?style=flat-square&color=blue)](https://github.com/fushengqian/fuint/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=flat-square&color=yellow)](https://github.com/fushengqian/fuint/stargazers) [![Forks](https://img.shields.io/github/forks/fushengqian/fuint?style=flat-square&color=blue)](https://github.com/fushengqian/fuint/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > fuint门店会员营销系统是一款集店铺收银、线上积分商城、营销一体的系统。基于Java SpringBoot、Vue、Uniapp，含微信小程序、h5、后台管理。具有优惠券、预存卡、实体卡、次卡、储值卡、电子券，会员积分体系，会员等级等营销功能。适合实体店铺结合线上电商系统，如：生鲜、零售超市、汽车4S店、花店、甜品店、餐饮等。可当收银系统使用，打通线下收银系统和线上商城
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 399 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ fushengqian/fuint 的生产可用性为中等（Medium），适合用于原型�
 | forks | 65/100 |
 | stars | 69/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

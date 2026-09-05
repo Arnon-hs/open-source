@@ -1,6 +1,6 @@
 # Clear-Capabilities/agentic-security
 
-[![Stars](https://img.shields.io/github/stars/Clear-Capabilities/agentic-security?style=flat-square&color=yellow)](https://github.com/Clear-Capabilities/agentic-security/stargazers) [![Forks](https://img.shields.io/github/forks/Clear-Capabilities/agentic-security?style=flat-square&color=blue)](https://github.com/Clear-Capabilities/agentic-security/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Clear-Capabilities/agentic-security?style=flat-square&color=yellow)](https://github.com/Clear-Capabilities/agentic-security/stargazers) [![Forks](https://img.shields.io/github/forks/Clear-Capabilities/agentic-security?style=flat-square&color=blue)](https://github.com/Clear-Capabilities/agentic-security/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Build faster with an Agentic Workforce. Safe, secure, and compliant is now the default.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Clear‑Capabilities/agentic‑security 是一个可快速上手的 AI 安全框
 | forks | 28/100 |
 | stars | 39/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

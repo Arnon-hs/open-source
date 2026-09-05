@@ -1,6 +1,6 @@
 # ashishb/adb-enhanced
 
-[![Stars](https://img.shields.io/github/stars/ashishb/adb-enhanced?style=flat-square&color=yellow)](https://github.com/ashishb/adb-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/ashishb/adb-enhanced?style=flat-square&color=blue)](https://github.com/ashishb/adb-enhanced/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashishb/adb-enhanced?style=flat-square&color=yellow)](https://github.com/ashishb/adb-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/ashishb/adb-enhanced?style=flat-square&color=blue)](https://github.com/ashishb/adb-enhanced/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ ashishb/adb‑enhanced 是一款基于 Python 的 “瑞士军刀”式 ADB 工�
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

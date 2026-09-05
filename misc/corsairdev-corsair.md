@@ -1,6 +1,6 @@
 # corsairdev/corsair
 
-[![Stars](https://img.shields.io/github/stars/corsairdev/corsair?style=flat-square&color=yellow)](https://github.com/corsairdev/corsair/stargazers) [![Forks](https://img.shields.io/github/forks/corsairdev/corsair?style=flat-square&color=blue)](https://github.com/corsairdev/corsair/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/corsairdev/corsair?style=flat-square&color=yellow)](https://github.com/corsairdev/corsair/stargazers) [![Forks](https://img.shields.io/github/forks/corsairdev/corsair?style=flat-square&color=blue)](https://github.com/corsairdev/corsair/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Your Agent's Integration Layer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ corsairdev/corsair 是一个 AI/ML 集成层，能够让开发者快速为现有
 | forks | 53/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # shopware5/shopware
 
-[![Stars](https://img.shields.io/github/stars/shopware5/shopware?style=flat-square&color=yellow)](https://github.com/shopware5/shopware/stargazers) [![Forks](https://img.shields.io/github/forks/shopware5/shopware?style=flat-square&color=blue)](https://github.com/shopware5/shopware/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shopware5/shopware?style=flat-square&color=yellow)](https://github.com/shopware5/shopware/stargazers) [![Forks](https://img.shields.io/github/forks/shopware5/shopware?style=flat-square&color=blue)](https://github.com/shopware5/shopware/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Shopware 5 core
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 771 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ Shopware 5 core 是一个开源项目，帮助开发团队更好地管理数据�
 | forks | 72/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 76/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

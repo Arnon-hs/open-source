@@ -1,6 +1,6 @@
 # AtomGraph/LinkedDataHub
 
-[![Stars](https://img.shields.io/github/stars/AtomGraph/LinkedDataHub?style=flat-square&color=yellow)](https://github.com/AtomGraph/LinkedDataHub/stargazers) [![Forks](https://img.shields.io/github/forks/AtomGraph/LinkedDataHub?style=flat-square&color=blue)](https://github.com/AtomGraph/LinkedDataHub/network) [![Language](https://img.shields.io/badge/lang-XSLT-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AtomGraph/LinkedDataHub?style=flat-square&color=yellow)](https://github.com/AtomGraph/LinkedDataHub/stargazers) [![Forks](https://img.shields.io/github/forks/AtomGraph/LinkedDataHub?style=flat-square&color=blue)](https://github.com/AtomGraph/LinkedDataHub/network) [![Language](https://img.shields.io/badge/lang-XSLT-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The low-code Knowledge Graph application platform. Apache license.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 624 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | XSLT |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data
+Data · Security
 
 ## 📝 Summary
 
@@ -94,15 +94,15 @@ AtomGraph/LinkedDataHub 的生产可用性为中等。它适合用于原型开�
 | forks | 54/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

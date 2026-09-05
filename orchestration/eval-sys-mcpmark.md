@@ -1,6 +1,6 @@
 # eval-sys/mcpmark
 
-[![Stars](https://img.shields.io/github/stars/eval-sys/mcpmark?style=flat-square&color=yellow)](https://github.com/eval-sys/mcpmark/stargazers) [![Forks](https://img.shields.io/github/forks/eval-sys/mcpmark?style=flat-square&color=blue)](https://github.com/eval-sys/mcpmark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eval-sys/mcpmark?style=flat-square&color=yellow)](https://github.com/eval-sys/mcpmark/stargazers) [![Forks](https://img.shields.io/github/forks/eval-sys/mcpmark?style=flat-square&color=blue)](https://github.com/eval-sys/mcpmark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 416 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ MCPMark 是面向真实业务场景的 MCP（Multi‑Component Processing）�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

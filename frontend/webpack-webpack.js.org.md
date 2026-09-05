@@ -1,6 +1,6 @@
 # webpack/webpack.js.org
 
-[![Stars](https://img.shields.io/github/stars/webpack/webpack.js.org?style=flat-square&color=yellow)](https://github.com/webpack/webpack.js.org/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack.js.org?style=flat-square&color=blue)](https://github.com/webpack/webpack.js.org/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webpack/webpack.js.org?style=flat-square&color=yellow)](https://github.com/webpack/webpack.js.org/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack.js.org?style=flat-square&color=blue)](https://github.com/webpack/webpack.js.org/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for webpack documentation and more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Education
+Frontend · Backend · Education
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ webpack/webpack.js.org 是 webpack 官方文档站点的源码仓库，提供完
 | forks | 88/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

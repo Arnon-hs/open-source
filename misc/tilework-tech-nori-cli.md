@@ -1,6 +1,6 @@
 # tilework-tech/nori-cli
 
-[![Stars](https://img.shields.io/github/stars/tilework-tech/nori-cli?style=flat-square&color=yellow)](https://github.com/tilework-tech/nori-cli/stargazers) [![Forks](https://img.shields.io/github/forks/tilework-tech/nori-cli?style=flat-square&color=blue)](https://github.com/tilework-tech/nori-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tilework-tech/nori-cli?style=flat-square&color=yellow)](https://github.com/tilework-tech/nori-cli/stargazers) [![Forks](https://img.shields.io/github/forks/tilework-tech/nori-cli?style=flat-square&color=blue)](https://github.com/tilework-tech/nori-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A simple CLI for working with any agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ tilework‑tech/nori‑cli 是一款基于 Rust 实现的轻量级命令行工�
 | forks | 24/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 38/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

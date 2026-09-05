@@ -1,6 +1,6 @@
 # ThinkyMiner/codeTree
 
-[![Stars](https://img.shields.io/github/stars/ThinkyMiner/codeTree?style=flat-square&color=yellow)](https://github.com/ThinkyMiner/codeTree/stargazers) [![Forks](https://img.shields.io/github/forks/ThinkyMiner/codeTree?style=flat-square&color=blue)](https://github.com/ThinkyMiner/codeTree/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThinkyMiner/codeTree?style=flat-square&color=yellow)](https://github.com/ThinkyMiner/codeTree/stargazers) [![Forks](https://img.shields.io/github/forks/ThinkyMiner/codeTree?style=flat-square&color=blue)](https://github.com/ThinkyMiner/codeTree/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server with 23 tools for structured code understanding via tree-sitter. 10 languages. 999 tests. One-command install.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ThinkyMiner/codeTree 是一个基于 **tree‑sitter** 的 MCP（Model Context P
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

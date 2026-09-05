@@ -1,6 +1,6 @@
 # veebch/boostbox
 
-[![Stars](https://img.shields.io/github/stars/veebch/boostbox?style=flat-square&color=yellow)](https://github.com/veebch/boostbox/stargazers) [![Forks](https://img.shields.io/github/forks/veebch/boostbox?style=flat-square&color=blue)](https://github.com/veebch/boostbox/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/veebch/boostbox?style=flat-square&color=yellow)](https://github.com/veebch/boostbox/stargazers) [![Forks](https://img.shields.io/github/forks/veebch/boostbox?style=flat-square&color=blue)](https://github.com/veebch/boostbox/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Some notes on a cli terminal, upcycling an old super 8 film viewer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Boostbox 在生产环境中的可用性为中等（Medium），适合用于原�
 | forks | 19/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

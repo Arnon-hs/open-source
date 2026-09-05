@@ -1,6 +1,6 @@
 # nashaofu/xcap
 
-[![Stars](https://img.shields.io/github/stars/nashaofu/xcap?style=flat-square&color=yellow)](https://github.com/nashaofu/xcap/stargazers) [![Forks](https://img.shields.io/github/forks/nashaofu/xcap?style=flat-square&color=blue)](https://github.com/nashaofu/xcap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nashaofu/xcap?style=flat-square&color=yellow)](https://github.com/nashaofu/xcap/stargazers) [![Forks](https://img.shields.io/github/forks/nashaofu/xcap?style=flat-square&color=blue)](https://github.com/nashaofu/xcap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (WIP).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 998 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ nashaofu/xcap 在生产环境中有中等的可用性。它适合用于快速原
 | forks | 54/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

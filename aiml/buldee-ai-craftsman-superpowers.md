@@ -1,6 +1,6 @@
 # BULDEE/ai-craftsman-superpowers
 
-[![Stars](https://img.shields.io/github/stars/BULDEE/ai-craftsman-superpowers?style=flat-square&color=yellow)](https://github.com/BULDEE/ai-craftsman-superpowers/stargazers) [![Forks](https://img.shields.io/github/forks/BULDEE/ai-craftsman-superpowers?style=flat-square&color=blue)](https://github.com/BULDEE/ai-craftsman-superpowers/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BULDEE/ai-craftsman-superpowers?style=flat-square&color=yellow)](https://github.com/BULDEE/ai-craftsman-superpowers/stargazers) [![Forks](https://img.shields.io/github/forks/BULDEE/ai-craftsman-superpowers?style=flat-square&color=blue)](https://github.com/BULDEE/ai-craftsman-superpowers/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin for senior craftsmen. Multi-pack architecture (core, symfony, react) with DDD patterns, Clean Architecture, TDD workflows, and intelligent scaffold system. Includes design/debug/spec/plan skills, security pentester agent, and branded types for TypeScript.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ BULDEE/ai-craftsman-superpowers 的价值在于帮助工程师移除重复的手
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

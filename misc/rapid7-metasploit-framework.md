@@ -1,6 +1,6 @@
 # rapid7/metasploit-framework
 
-[![Stars](https://img.shields.io/github/stars/rapid7/metasploit-framework?style=flat-square&color=yellow)](https://github.com/rapid7/metasploit-framework/stargazers) [![Forks](https://img.shields.io/github/forks/rapid7/metasploit-framework?style=flat-square&color=blue)](https://github.com/rapid7/metasploit-framework/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rapid7/metasploit-framework?style=flat-square&color=yellow)](https://github.com/rapid7/metasploit-framework/stargazers) [![Forks](https://img.shields.io/github/forks/rapid7/metasploit-framework?style=flat-square&color=blue)](https://github.com/rapid7/metasploit-framework/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Metasploit Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38.6k |
 | 🍴 **Forks** | 14.9k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Metasploit Framework 在生产环境中具有较高的可用性，主要原因�
 | forks | 100/100 |
 | stars | 98/100 |
 | topics | 13/100 |
-| outlook | 65/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

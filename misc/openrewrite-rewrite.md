@@ -1,6 +1,6 @@
 # openrewrite/rewrite
 
-[![Stars](https://img.shields.io/github/stars/openrewrite/rewrite?style=flat-square&color=yellow)](https://github.com/openrewrite/rewrite/stargazers) [![Forks](https://img.shields.io/github/forks/openrewrite/rewrite?style=flat-square&color=blue)](https://github.com/openrewrite/rewrite/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openrewrite/rewrite?style=flat-square&color=yellow)](https://github.com/openrewrite/rewrite/stargazers) [![Forks](https://img.shields.io/github/forks/openrewrite/rewrite?style=flat-square&color=blue)](https://github.com/openrewrite/rewrite/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Automated mass refactoring of source code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 521 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ OpenRewrite（`openrewrite/rewrite`）是一套基于 Java 的自动化大规模
 | forks | 68/100 |
 | stars | 75/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

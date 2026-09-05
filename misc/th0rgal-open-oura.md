@@ -1,6 +1,6 @@
 # Th0rgal/open_oura
 
-[![Stars](https://img.shields.io/github/stars/Th0rgal/open_oura?style=flat-square&color=yellow)](https://github.com/Th0rgal/open_oura/stargazers) [![Forks](https://img.shields.io/github/forks/Th0rgal/open_oura?style=flat-square&color=blue)](https://github.com/Th0rgal/open_oura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Th0rgal/open_oura?style=flat-square&color=yellow)](https://github.com/Th0rgal/open_oura/stargazers) [![Forks](https://img.shields.io/github/forks/Th0rgal/open_oura?style=flat-square&color=blue)](https://github.com/Th0rgal/open_oura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 269 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Th0rgal/open_oura 是一个基于 Rust 的 Oura Ring（第 3/4/5 代）工具箱
 | forks | 40/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

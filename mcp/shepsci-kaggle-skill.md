@@ -1,6 +1,6 @@
 # shepsci/kaggle-skill
 
-[![Stars](https://img.shields.io/github/stars/shepsci/kaggle-skill?style=flat-square&color=yellow)](https://github.com/shepsci/kaggle-skill/stargazers) [![Forks](https://img.shields.io/github/forks/shepsci/kaggle-skill?style=flat-square&color=blue)](https://github.com/shepsci/kaggle-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shepsci/kaggle-skill?style=flat-square&color=yellow)](https://github.com/shepsci/kaggle-skill/stargazers) [![Forks](https://img.shields.io/github/forks/shepsci/kaggle-skill?style=flat-square&color=blue)](https://github.com/shepsci/kaggle-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Complete Kaggle integration plugin/skill for AI coding agents — competition reports, dataset/model downloads, notebook execution, and badge collection. Works with Claude Code, Gemini CLI, Cursor, Codex, OpenClaw, and 35+ agents via skills.sh.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ shepsci/kaggle‑skill 是一套完整的 Kaggle 集成插件/skill，能够让 
 | forks | 15/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

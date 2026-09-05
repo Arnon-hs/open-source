@@ -1,6 +1,6 @@
 # Esri/calcite-design-system
 
-[![Stars](https://img.shields.io/github/stars/Esri/calcite-design-system?style=flat-square&color=yellow)](https://github.com/Esri/calcite-design-system/stargazers) [![Forks](https://img.shields.io/github/forks/Esri/calcite-design-system?style=flat-square&color=blue)](https://github.com/Esri/calcite-design-system/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Esri/calcite-design-system?style=flat-square&color=yellow)](https://github.com/Esri/calcite-design-system/stargazers) [![Forks](https://img.shields.io/github/forks/Esri/calcite-design-system?style=flat-square&color=blue)](https://github.com/Esri/calcite-design-system/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A monorepo containing the packages for Esri's Calcite Design System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 361 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Esri 的 Calcite Design System 是一个 monorepo，统一维护了构建 Esri U
 | forks | 49/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

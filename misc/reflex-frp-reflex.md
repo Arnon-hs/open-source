@@ -1,6 +1,6 @@
 # reflex-frp/reflex
 
-[![Stars](https://img.shields.io/github/stars/reflex-frp/reflex?style=flat-square&color=yellow)](https://github.com/reflex-frp/reflex/stargazers) [![Forks](https://img.shields.io/github/forks/reflex-frp/reflex?style=flat-square&color=blue)](https://github.com/reflex-frp/reflex/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reflex-frp/reflex?style=flat-square&color=yellow)](https://github.com/reflex-frp/reflex/stargazers) [![Forks](https://img.shields.io/github/forks/reflex-frp/reflex?style=flat-square&color=blue)](https://github.com/reflex-frp/reflex/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ reflex-frp/reflex的生产可用性为中等（Medium）。它适用于以下场
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

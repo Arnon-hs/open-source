@@ -1,6 +1,6 @@
 # alekspetrov/navigator
 
-[![Stars](https://img.shields.io/github/stars/alekspetrov/navigator?style=flat-square&color=yellow)](https://github.com/alekspetrov/navigator/stargazers) [![Forks](https://img.shields.io/github/forks/alekspetrov/navigator?style=flat-square&color=blue)](https://github.com/alekspetrov/navigator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alekspetrov/navigator?style=flat-square&color=yellow)](https://github.com/alekspetrov/navigator/stargazers) [![Forks](https://img.shields.io/github/forks/alekspetrov/navigator?style=flat-square&color=blue)](https://github.com/alekspetrov/navigator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Finish What You Start — Context engineering for Claude Code.         Sessions last 20+ exchanges instead of crashing at 7.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ Overall, `alekspetrov/navigator` is a high‑readiness OSS candidate for teams l
 | forks | 24/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

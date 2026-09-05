@@ -1,6 +1,6 @@
 # DonnieDice/protondrive-linux
 
-[![Stars](https://img.shields.io/github/stars/DonnieDice/protondrive-linux?style=flat-square&color=yellow)](https://github.com/DonnieDice/protondrive-linux/stargazers) [![Forks](https://img.shields.io/github/forks/DonnieDice/protondrive-linux?style=flat-square&color=blue)](https://github.com/DonnieDice/protondrive-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DonnieDice/protondrive-linux?style=flat-square&color=yellow)](https://github.com/DonnieDice/protondrive-linux/stargazers) [![Forks](https://img.shields.io/github/forks/DonnieDice/protondrive-linux?style=flat-square&color=blue)](https://github.com/DonnieDice/protondrive-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🐧The first unofficial desktop client for Proton Drive on Linux. Fast, lightweight, and built with Tauri.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 283 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ DonnieDice /protondrive‑linux 是首个面向 Linux 的非官方 Proton Dr
 | forks | 34/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # knownsec/404StarLink
 
-[![Stars](https://img.shields.io/github/stars/knownsec/404StarLink?style=flat-square&color=yellow)](https://github.com/knownsec/404StarLink/stargazers) [![Forks](https://img.shields.io/github/forks/knownsec/404StarLink?style=flat-square&color=blue)](https://github.com/knownsec/404StarLink/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knownsec/404StarLink?style=flat-square&color=yellow)](https://github.com/knownsec/404StarLink/stargazers) [![Forks](https://img.shields.io/github/forks/knownsec/404StarLink?style=flat-square&color=blue)](https://github.com/knownsec/404StarLink/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 944 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ The project scores high on production readiness: recent activity (last update 
 | forks | 74/100 |
 | stars | 86/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

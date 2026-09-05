@@ -1,6 +1,6 @@
 # tiezhu0415/grounded-ios-to-web-harness
 
-[![Stars](https://img.shields.io/github/stars/tiezhu0415/grounded-ios-to-web-harness?style=flat-square&color=yellow)](https://github.com/tiezhu0415/grounded-ios-to-web-harness/stargazers) [![Forks](https://img.shields.io/github/forks/tiezhu0415/grounded-ios-to-web-harness?style=flat-square&color=blue)](https://github.com/tiezhu0415/grounded-ios-to-web-harness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tiezhu0415/grounded-ios-to-web-harness?style=flat-square&color=yellow)](https://github.com/tiezhu0415/grounded-ios-to-web-harness/stargazers) [![Forks](https://img.shields.io/github/forks/tiezhu0415/grounded-ios-to-web-harness?style=flat-square&color=blue)](https://github.com/tiezhu0415/grounded-ios-to-web-harness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-grounded iOS to mobile WebApp migration with behavior verification and critical-state visual regression
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Mobile
+AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -66,15 +66,15 @@ tiezhu0415/grounded-ios-to-web-harness：tiezhu0415/grounded-ios-to-web-harness 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

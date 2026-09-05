@@ -1,6 +1,6 @@
 # brandonyoungdev/tldx
 
-[![Stars](https://img.shields.io/github/stars/brandonyoungdev/tldx?style=flat-square&color=yellow)](https://github.com/brandonyoungdev/tldx/stargazers) [![Forks](https://img.shields.io/github/forks/brandonyoungdev/tldx?style=flat-square&color=blue)](https://github.com/brandonyoungdev/tldx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brandonyoungdev/tldx?style=flat-square&color=yellow)](https://github.com/brandonyoungdev/tldx/stargazers) [![Forks](https://img.shields.io/github/forks/brandonyoungdev/tldx?style=flat-square&color=blue)](https://github.com/brandonyoungdev/tldx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Domain Availability Research Tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ brandonyoungdev/tldx 是一款基于 Go 实现的域名可用性研究工具，�
 | forks | 47/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

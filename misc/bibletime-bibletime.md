@@ -1,6 +1,6 @@
 # bibletime/bibletime
 
-[![Stars](https://img.shields.io/github/stars/bibletime/bibletime?style=flat-square&color=yellow)](https://github.com/bibletime/bibletime/stargazers) [![Forks](https://img.shields.io/github/forks/bibletime/bibletime?style=flat-square&color=blue)](https://github.com/bibletime/bibletime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bibletime/bibletime?style=flat-square&color=yellow)](https://github.com/bibletime/bibletime/stargazers) [![Forks](https://img.shields.io/github/forks/bibletime/bibletime?style=flat-square&color=blue)](https://github.com/bibletime/bibletime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > :book: BibleTime is a powerful cross platform Bible study tool.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 406 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ BibleTime 是一款跨平台的圣经研读工具，采用 C++ 开发，提供�
 | forks | 48/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

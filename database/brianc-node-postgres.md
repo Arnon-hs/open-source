@@ -1,6 +1,6 @@
 # brianc/node-postgres
 
-[![Stars](https://img.shields.io/github/stars/brianc/node-postgres?style=flat-square&color=yellow)](https://github.com/brianc/node-postgres/stargazers) [![Forks](https://img.shields.io/github/forks/brianc/node-postgres?style=flat-square&color=blue)](https://github.com/brianc/node-postgres/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brianc/node-postgres?style=flat-square&color=yellow)](https://github.com/brianc/node-postgres/stargazers) [![Forks](https://img.shields.io/github/forks/brianc/node-postgres?style=flat-square&color=blue)](https://github.com/brianc/node-postgres/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > PostgreSQL client for node.js.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ brianc/node-postgres 是一款在 Node.js 环境下使用的 PostgreSQL 客户�
 | forks | 78/100 |
 | stars | 88/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 68/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

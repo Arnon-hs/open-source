@@ -1,6 +1,6 @@
 # flutter/packages
 
-[![Stars](https://img.shields.io/github/stars/flutter/packages?style=flat-square&color=yellow)](https://github.com/flutter/packages/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/packages?style=flat-square&color=blue)](https://github.com/flutter/packages/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flutter/packages?style=flat-square&color=yellow)](https://github.com/flutter/packages/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/packages?style=flat-square&color=blue)](https://github.com/flutter/packages/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of useful packages maintained by the Flutter team
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ flutter/packages 汇集了 Flutter 官方团队维护的实用 Dart 包，能够
 | forks | 89/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

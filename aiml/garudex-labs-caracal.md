@@ -1,6 +1,6 @@
 # Garudex-Labs/caracal
 
-[![Stars](https://img.shields.io/github/stars/Garudex-Labs/caracal?style=flat-square&color=yellow)](https://github.com/Garudex-Labs/caracal/stargazers) [![Forks](https://img.shields.io/github/forks/Garudex-Labs/caracal?style=flat-square&color=blue)](https://github.com/Garudex-Labs/caracal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Garudex-Labs/caracal?style=flat-square&color=yellow)](https://github.com/Garudex-Labs/caracal/stargazers) [![Forks](https://img.shields.io/github/forks/Garudex-Labs/caracal?style=flat-square&color=blue)](https://github.com/Garudex-Labs/caracal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🐾 Authority, not credentials, for AI agents: policy-approved actions, delegation that can only narrow, instant revocation, tamper-evident audit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Garudex‑Labs 的 **caracal**（🐾）提供“权威而非凭证”的 AI 代
 | forks | 44/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

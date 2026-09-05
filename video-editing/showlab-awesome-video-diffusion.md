@@ -1,6 +1,6 @@
 # showlab/Awesome-Video-Diffusion
 
-[![Stars](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=flat-square&color=yellow)](https://github.com/showlab/Awesome-Video-Diffusion/stargazers) [![Forks](https://img.shields.io/github/forks/showlab/Awesome-Video-Diffusion?style=flat-square&color=blue)](https://github.com/showlab/Awesome-Video-Diffusion/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=flat-square&color=yellow)](https://github.com/showlab/Awesome-Video-Diffusion/stargazers) [![Forks](https://img.shields.io/github/forks/showlab/Awesome-Video-Diffusion?style=flat-square&color=blue)](https://github.com/showlab/Awesome-Video-Diffusion/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of recent diffusion models for video generation, editing, and various other applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 373 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ showlab/Awesome-Video-Diffusion：showlab/Awesome-Video-Diffusion helps turn med
 | forks | 64/100 |
 | stars | 80/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 76/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

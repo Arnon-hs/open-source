@@ -1,6 +1,6 @@
 # matrixorigin/Memoria
 
-[![Stars](https://img.shields.io/github/stars/matrixorigin/Memoria?style=flat-square&color=yellow)](https://github.com/matrixorigin/Memoria/stargazers) [![Forks](https://img.shields.io/github/forks/matrixorigin/Memoria?style=flat-square&color=blue)](https://github.com/matrixorigin/Memoria/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matrixorigin/Memoria?style=flat-square&color=yellow)](https://github.com/matrixorigin/Memoria/stargazers) [![Forks](https://img.shields.io/github/forks/matrixorigin/Memoria?style=flat-square&color=blue)](https://github.com/matrixorigin/Memoria/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 259 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -155,11 +155,11 @@ MatrixOrigin / Memoria 是面向 AI 代理的安全记忆管理库，能够�
 | forks | 39/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

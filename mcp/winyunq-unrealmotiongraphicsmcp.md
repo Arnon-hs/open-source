@@ -1,6 +1,6 @@
 # winyunq/UnrealMotionGraphicsMCP
 
-[![Stars](https://img.shields.io/github/stars/winyunq/UnrealMotionGraphicsMCP?style=flat-square&color=yellow)](https://github.com/winyunq/UnrealMotionGraphicsMCP/stargazers) [![Forks](https://img.shields.io/github/forks/winyunq/UnrealMotionGraphicsMCP?style=flat-square&color=blue)](https://github.com/winyunq/UnrealMotionGraphicsMCP/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/winyunq/UnrealMotionGraphicsMCP?style=flat-square&color=yellow)](https://github.com/winyunq/UnrealMotionGraphicsMCP/stargazers) [![Forks](https://img.shields.io/github/forks/winyunq/UnrealMotionGraphicsMCP?style=flat-square&color=blue)](https://github.com/winyunq/UnrealMotionGraphicsMCP/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 UE5-UMG-MCP: A deep-focused MCP for Unreal Engine UMG layout. Designed to maximize AI efficiency within limited context windows by prioritizing precision in UI structure, animations, and blueprint integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Games & Graphics · Frontend
 
 ## 📝 Summary
 
@@ -101,11 +101,11 @@ winyunq/UnrealMotionGraphicsMCP 为 Unreal Engine 5 的 UMG（UI）提供了�
 | forks | 39/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

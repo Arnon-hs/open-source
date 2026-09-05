@@ -1,6 +1,6 @@
 # bacalhau-project/bacalhau
 
-[![Stars](https://img.shields.io/github/stars/bacalhau-project/bacalhau?style=flat-square&color=yellow)](https://github.com/bacalhau-project/bacalhau/stargazers) [![Forks](https://img.shields.io/github/forks/bacalhau-project/bacalhau?style=flat-square&color=blue)](https://github.com/bacalhau-project/bacalhau/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bacalhau-project/bacalhau?style=flat-square&color=yellow)](https://github.com/bacalhau-project/bacalhau/stargazers) [![Forks](https://img.shields.io/github/forks/bacalhau-project/bacalhau?style=flat-square&color=blue)](https://github.com/bacalhau-project/bacalhau/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Community-driven, simple, yet powerful framework for fast, cost-effective distributed Compute over Data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 867 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · Networking · Data
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ Bacalhau的生产可用性是较高的，主要原因是：
 | forks | 50/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

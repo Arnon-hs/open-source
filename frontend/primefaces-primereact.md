@@ -1,6 +1,6 @@
 # primefaces/primereact
 
-[![Stars](https://img.shields.io/github/stars/primefaces/primereact?style=flat-square&color=yellow)](https://github.com/primefaces/primereact/stargazers) [![Forks](https://img.shields.io/github/forks/primefaces/primereact?style=flat-square&color=blue)](https://github.com/primefaces/primereact/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/primefaces/primereact?style=flat-square&color=yellow)](https://github.com/primefaces/primereact/stargazers) [![Forks](https://img.shields.io/github/forks/primefaces/primereact?style=flat-square&color=blue)](https://github.com/primefaces/primereact/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Most Complete React UI Component Library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ PrimeFaces / PrimeReact 是目前最完整的 React UI 组件库，提供 30
 | forks | 77/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

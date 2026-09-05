@@ -1,6 +1,6 @@
 # Ghost-Clocker/V2raySSSSRShare
 
-[![Stars](https://img.shields.io/github/stars/Ghost-Clocker/V2raySSSSRShare?style=flat-square&color=yellow)](https://github.com/Ghost-Clocker/V2raySSSSRShare/stargazers) [![Forks](https://img.shields.io/github/forks/Ghost-Clocker/V2raySSSSRShare?style=flat-square&color=blue)](https://github.com/Ghost-Clocker/V2raySSSSRShare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ghost-Clocker/V2raySSSSRShare?style=flat-square&color=yellow)](https://github.com/Ghost-Clocker/V2raySSSSRShare/stargazers) [![Forks](https://img.shields.io/github/forks/Ghost-Clocker/V2raySSSSRShare?style=flat-square&color=blue)](https://github.com/Ghost-Clocker/V2raySSSSRShare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 2026年最新科学上网，vpn机场推荐，支持shadowrocket，ss, ssr, v2ray, trojan, clash,clashr,需要自取（每日更新）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,11 +82,11 @@ Ghost-Clocker/V2raySSSSRShare 提供每日更新的科学上网节点和机场�
 | forks | 47/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

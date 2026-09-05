@@ -1,6 +1,6 @@
 # greta-dev/greta
 
-[![Stars](https://img.shields.io/github/stars/greta-dev/greta?style=flat-square&color=yellow)](https://github.com/greta-dev/greta/stargazers) [![Forks](https://img.shields.io/github/forks/greta-dev/greta?style=flat-square&color=blue)](https://github.com/greta-dev/greta/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/greta-dev/greta?style=flat-square&color=yellow)](https://github.com/greta-dev/greta/stargazers) [![Forks](https://img.shields.io/github/forks/greta-dev/greta?style=flat-square&color=blue)](https://github.com/greta-dev/greta/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > simple and scalable statistical modelling in R
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -150,11 +150,11 @@ greta（greta‑dev/greta）是一个基于 R 的统计建模框架，旨在以 
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

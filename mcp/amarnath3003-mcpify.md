@@ -1,6 +1,6 @@
 # amarnath3003/MCPify
 
-[![Stars](https://img.shields.io/github/stars/amarnath3003/MCPify?style=flat-square&color=yellow)](https://github.com/amarnath3003/MCPify/stargazers) [![Forks](https://img.shields.io/github/forks/amarnath3003/MCPify?style=flat-square&color=blue)](https://github.com/amarnath3003/MCPify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amarnath3003/MCPify?style=flat-square&color=yellow)](https://github.com/amarnath3003/MCPify/stargazers) [![Forks](https://img.shields.io/github/forks/amarnath3003/MCPify?style=flat-square&color=blue)](https://github.com/amarnath3003/MCPify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ MCPify 的生产可用性为中等水平。它适用于原型或内部工作流�
 | forks | 21/100 |
 | stars | 40/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

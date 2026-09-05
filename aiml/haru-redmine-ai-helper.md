@@ -1,6 +1,6 @@
 # haru/redmine_ai_helper
 
-[![Stars](https://img.shields.io/github/stars/haru/redmine_ai_helper?style=flat-square&color=yellow)](https://github.com/haru/redmine_ai_helper/stargazers) [![Forks](https://img.shields.io/github/forks/haru/redmine_ai_helper?style=flat-square&color=blue)](https://github.com/haru/redmine_ai_helper/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haru/redmine_ai_helper?style=flat-square&color=yellow)](https://github.com/haru/redmine_ai_helper/stargazers) [![Forks](https://img.shields.io/github/forks/haru/redmine_ai_helper?style=flat-square&color=blue)](https://github.com/haru/redmine_ai_helper/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Add AI Agent to Redmine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ haru/redmine_ai_helper 为 Redmine 添加 AI 能力，提供现成的代理/检�
 | forks | 34/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 46/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

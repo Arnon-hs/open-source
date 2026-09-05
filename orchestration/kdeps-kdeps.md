@@ -1,6 +1,6 @@
 # kdeps/kdeps
 
-[![Stars](https://img.shields.io/github/stars/kdeps/kdeps?style=flat-square&color=yellow)](https://github.com/kdeps/kdeps/stargazers) [![Forks](https://img.shields.io/github/forks/kdeps/kdeps?style=flat-square&color=blue)](https://github.com/kdeps/kdeps/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kdeps/kdeps?style=flat-square&color=yellow)](https://github.com/kdeps/kdeps/stargazers) [![Forks](https://img.shields.io/github/forks/kdeps/kdeps?style=flat-square&color=blue)](https://github.com/kdeps/kdeps/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent framework in YAML — workflow pipelines + autonomous agent loop. NVIDIA Inception member. Build, deploy, export as Docker/K8s/ISO.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ kdeps/kdeps 是一个基于 YAML 的 AI Agent 框架，提供工作流管道 + �
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

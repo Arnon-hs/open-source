@@ -1,6 +1,6 @@
 # GameServerManagers/LinuxGSM
 
-[![Stars](https://img.shields.io/github/stars/GameServerManagers/LinuxGSM?style=flat-square&color=yellow)](https://github.com/GameServerManagers/LinuxGSM/stargazers) [![Forks](https://img.shields.io/github/forks/GameServerManagers/LinuxGSM?style=flat-square&color=blue)](https://github.com/GameServerManagers/LinuxGSM/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GameServerManagers/LinuxGSM?style=flat-square&color=yellow)](https://github.com/GameServerManagers/LinuxGSM/stargazers) [![Forks](https://img.shields.io/github/forks/GameServerManagers/LinuxGSM?style=flat-square&color=blue)](https://github.com/GameServerManagers/LinuxGSM/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 862 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ GameServerManagers/LinuxGSM 的生产可用性较高，主要原因是：
 | forks | 73/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

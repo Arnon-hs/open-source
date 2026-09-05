@@ -1,6 +1,6 @@
 # crypto-org-chain/cronos
 
-[![Stars](https://img.shields.io/github/stars/crypto-org-chain/cronos?style=flat-square&color=yellow)](https://github.com/crypto-org-chain/cronos/stargazers) [![Forks](https://img.shields.io/github/forks/crypto-org-chain/cronos?style=flat-square&color=blue)](https://github.com/crypto-org-chain/cronos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crypto-org-chain/cronos?style=flat-square&color=yellow)](https://github.com/crypto-org-chain/cronos/stargazers) [![Forks](https://img.shields.io/github/forks/crypto-org-chain/cronos?style=flat-square&color=blue)](https://github.com/crypto-org-chain/cronos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Cronos is the first Ethereum-compatible blockchain network built on Cosmos SDK technology. Cronos aims to massively scale the DeFi, GameFi, and overall Web3 user community by providing builders with the ability to instantly port apps and crypto assets from other chains while benefiting from low transaction fees, high throughput, and fast finality.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ Cronos 的生产可用性非常高，理由如下：
 | forks | 62/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

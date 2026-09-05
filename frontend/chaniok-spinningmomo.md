@@ -1,6 +1,6 @@
 # ChanIok/SpinningMomo
 
-[![Stars](https://img.shields.io/github/stars/ChanIok/SpinningMomo?style=flat-square&color=yellow)](https://github.com/ChanIok/SpinningMomo/stargazers) [![Forks](https://img.shields.io/github/forks/ChanIok/SpinningMomo?style=flat-square&color=blue)](https://github.com/ChanIok/SpinningMomo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChanIok/SpinningMomo?style=flat-square&color=yellow)](https://github.com/ChanIok/SpinningMomo/stargazers) [![Forks](https://img.shields.io/github/forks/ChanIok/SpinningMomo?style=flat-square&color=blue)](https://github.com/ChanIok/SpinningMomo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 《无限暖暖》游戏摄影与录像工具。  Infinity Nikki Game Photography and Recording Tool.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 737 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ ChanIok/SpinningMomo 的生产可用性为中等（Medium）。它适合用于�
 | forks | 17/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

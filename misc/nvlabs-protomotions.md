@@ -1,6 +1,6 @@
 # NVlabs/ProtoMotions
 
-[![Stars](https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow)](https://github.com/NVlabs/ProtoMotions/stargazers) [![Forks](https://img.shields.io/github/forks/NVlabs/ProtoMotions?style=flat-square&color=blue)](https://github.com/NVlabs/ProtoMotions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow)](https://github.com/NVlabs/ProtoMotions/stargazers) [![Forks](https://img.shields.io/github/forks/NVlabs/ProtoMotions?style=flat-square&color=blue)](https://github.com/NVlabs/ProtoMotions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ ProtoMotions 的生产可用性得分为 67/100。虽然它仍然需要进一步
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

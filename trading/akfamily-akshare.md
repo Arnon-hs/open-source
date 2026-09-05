@@ -1,6 +1,6 @@
 # akfamily/akshare
 
-[![Stars](https://img.shields.io/github/stars/akfamily/akshare?style=flat-square&color=yellow)](https://github.com/akfamily/akshare/stargazers) [![Forks](https://img.shields.io/github/forks/akfamily/akshare?style=flat-square&color=blue)](https://github.com/akfamily/akshare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akfamily/akshare?style=flat-square&color=yellow)](https://github.com/akfamily/akshare/stargazers) [![Forks](https://img.shields.io/github/forks/akfamily/akshare?style=flat-square&color=blue)](https://github.com/akfamily/akshare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.4k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ AKShare 的生产可用性很高，原因有：
 | forks | 88/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

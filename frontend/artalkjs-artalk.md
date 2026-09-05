@@ -1,6 +1,6 @@
 # ArtalkJS/Artalk
 
-[![Stars](https://img.shields.io/github/stars/ArtalkJS/Artalk?style=flat-square&color=yellow)](https://github.com/ArtalkJS/Artalk/stargazers) [![Forks](https://img.shields.io/github/forks/ArtalkJS/Artalk?style=flat-square&color=blue)](https://github.com/ArtalkJS/Artalk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArtalkJS/Artalk?style=flat-square&color=yellow)](https://github.com/ArtalkJS/Artalk/stargazers) [![Forks](https://img.shields.io/github/forks/ArtalkJS/Artalk?style=flat-square&color=blue)](https://github.com/ArtalkJS/Artalk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🌌  Your Self-hosted Comment System. | 自托管评论系统
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Artalk（ArtalkJS/Artalk）是一款开源的自托管评论系统，提供完�
 | forks | 57/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

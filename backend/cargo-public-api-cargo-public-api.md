@@ -1,6 +1,6 @@
 # cargo-public-api/cargo-public-api
 
-[![Stars](https://img.shields.io/github/stars/cargo-public-api/cargo-public-api?style=flat-square&color=yellow)](https://github.com/cargo-public-api/cargo-public-api/stargazers) [![Forks](https://img.shields.io/github/forks/cargo-public-api/cargo-public-api?style=flat-square&color=blue)](https://github.com/cargo-public-api/cargo-public-api/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cargo-public-api/cargo-public-api?style=flat-square&color=yellow)](https://github.com/cargo-public-api/cargo-public-api/stargazers) [![Forks](https://img.shields.io/github/forks/cargo-public-api/cargo-public-api?style=flat-square&color=blue)](https://github.com/cargo-public-api/cargo-public-api/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations via CI or a CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 559 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Overall, `cargo-public-api` is a production‑ready OSS component that can be sa
 | forks | 41/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # taazkareem/clickup-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/taazkareem/clickup-mcp-server?style=flat-square&color=yellow)](https://github.com/taazkareem/clickup-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/taazkareem/clickup-mcp-server?style=flat-square&color=blue)](https://github.com/taazkareem/clickup-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taazkareem/clickup-mcp-server?style=flat-square&color=yellow)](https://github.com/taazkareem/clickup-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/taazkareem/clickup-mcp-server?style=flat-square&color=blue)](https://github.com/taazkareem/clickup-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > ClickUp MCP Server - Integrate ClickUp project management with AI through Model Context Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ ClickUp MCP Server（taazkareem/clickup-mcp-server）是一个开源的后端服
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

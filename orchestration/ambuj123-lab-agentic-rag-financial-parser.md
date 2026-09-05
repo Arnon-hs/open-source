@@ -1,6 +1,6 @@
 # Ambuj123-lab/agentic-rag-financial-parser
 
-[![Stars](https://img.shields.io/github/stars/Ambuj123-lab/agentic-rag-financial-parser?style=flat-square&color=yellow)](https://github.com/Ambuj123-lab/agentic-rag-financial-parser/stargazers) [![Forks](https://img.shields.io/github/forks/Ambuj123-lab/agentic-rag-financial-parser?style=flat-square&color=blue)](https://github.com/Ambuj123-lab/agentic-rag-financial-parser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ambuj123-lab/agentic-rag-financial-parser?style=flat-square&color=yellow)](https://github.com/Ambuj123-lab/agentic-rag-financial-parser/stargazers) [![Forks](https://img.shields.io/github/forks/Ambuj123-lab/agentic-rag-financial-parser?style=flat-square&color=blue)](https://github.com/Ambuj123-lab/agentic-rag-financial-parser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL embeddings for 512MB RAM environments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Ambuj123-lab/agentic-rag-financial
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

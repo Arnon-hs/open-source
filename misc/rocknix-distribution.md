@@ -1,6 +1,6 @@
 # ROCKNIX/distribution
 
-[![Stars](https://img.shields.io/github/stars/ROCKNIX/distribution?style=flat-square&color=yellow)](https://github.com/ROCKNIX/distribution/stargazers) [![Forks](https://img.shields.io/github/forks/ROCKNIX/distribution?style=flat-square&color=blue)](https://github.com/ROCKNIX/distribution/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ROCKNIX/distribution?style=flat-square&color=yellow)](https://github.com/ROCKNIX/distribution/stargazers) [![Forks](https://img.shields.io/github/forks/ROCKNIX/distribution?style=flat-square&color=blue)](https://github.com/ROCKNIX/distribution/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ ROCKNIX/distribution 是一个基于 Makefile 的开源发行版构建工具，�
 | forks | 59/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

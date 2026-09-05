@@ -1,6 +1,6 @@
 # DozaVisuals/doza-assist
 
-[![Stars](https://img.shields.io/github/stars/DozaVisuals/doza-assist?style=flat-square&color=yellow)](https://github.com/DozaVisuals/doza-assist/stargazers) [![Forks](https://img.shields.io/github/forks/DozaVisuals/doza-assist?style=flat-square&color=blue)](https://github.com/DozaVisuals/doza-assist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DozaVisuals/doza-assist?style=flat-square&color=yellow)](https://github.com/DozaVisuals/doza-assist/stargazers) [![Forks](https://img.shields.io/github/forks/DozaVisuals/doza-assist?style=flat-square&color=blue)](https://github.com/DozaVisuals/doza-assist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI editor's assistant that learns your style from your own cuts. Turn interview footage into rough cuts for Final Cut, Premiere, and Resolve. Mac-native. Local-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -70,11 +70,11 @@ DozaVisuals/doza-assist 是一款面向 Mac 的原生 AI 剪辑助手，能够�
 | forks | 27/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

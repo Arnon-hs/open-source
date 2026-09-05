@@ -1,6 +1,6 @@
 # greenbone/openvas-scanner
 
-[![Stars](https://img.shields.io/github/stars/greenbone/openvas-scanner?style=flat-square&color=yellow)](https://github.com/greenbone/openvas-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/greenbone/openvas-scanner?style=flat-square&color=blue)](https://github.com/greenbone/openvas-scanner/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/greenbone/openvas-scanner?style=flat-square&color=yellow)](https://github.com/greenbone/openvas-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/greenbone/openvas-scanner?style=flat-square&color=blue)](https://github.com/greenbone/openvas-scanner/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains the scanner component for Greenbone Community Edition.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 779 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ greenbone/openvas‑scanner 是 Greenbone Community Edition（GCE）中的核心
 | forks | 72/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

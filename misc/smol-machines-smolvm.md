@@ -1,6 +1,6 @@
 # smol-machines/smolvm
 
-[![Stars](https://img.shields.io/github/stars/smol-machines/smolvm?style=flat-square&color=yellow)](https://github.com/smol-machines/smolvm/stargazers) [![Forks](https://img.shields.io/github/forks/smol-machines/smolvm?style=flat-square&color=blue)](https://github.com/smol-machines/smolvm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smol-machines/smolvm?style=flat-square&color=yellow)](https://github.com/smol-machines/smolvm/stargazers) [![Forks](https://img.shields.io/github/forks/smol-machines/smolvm?style=flat-square&color=blue)](https://github.com/smol-machines/smolvm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Tool to build & run portable, lightweight, self-contained virtual machines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ smol-machines/smolvm 是一个基于 Rust 实现的轻量级虚拟机工具，�
 | forks | 53/100 |
 | stars | 75/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

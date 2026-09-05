@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 935 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database · Security
+Data · Database · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ bytebase/bytebase：bytebase/bytebase helps convert raw data into searchable, an
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

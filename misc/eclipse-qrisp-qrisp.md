@@ -1,6 +1,6 @@
 # eclipse-qrisp/Qrisp
 
-[![Stars](https://img.shields.io/github/stars/eclipse-qrisp/Qrisp?style=flat-square&color=yellow)](https://github.com/eclipse-qrisp/Qrisp/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-qrisp/Qrisp?style=flat-square&color=blue)](https://github.com/eclipse-qrisp/Qrisp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eclipse-qrisp/Qrisp?style=flat-square&color=yellow)](https://github.com/eclipse-qrisp/Qrisp/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-qrisp/Qrisp?style=flat-square&color=blue)](https://github.com/eclipse-qrisp/Qrisp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Qrisp - The next generation of quantum algorithm development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 273 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Qrisp（eclipse‑qrisp/Qrisp）是面向下一代量子算法开发的开源框
 | forks | 48/100 |
 | stars | 52/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

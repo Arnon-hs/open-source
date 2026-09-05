@@ -1,6 +1,6 @@
 # EveSunMaple/Frosti
 
-[![Stars](https://img.shields.io/github/stars/EveSunMaple/Frosti?style=flat-square&color=yellow)](https://github.com/EveSunMaple/Frosti/stargazers) [![Forks](https://img.shields.io/github/forks/EveSunMaple/Frosti?style=flat-square&color=blue)](https://github.com/EveSunMaple/Frosti/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EveSunMaple/Frosti?style=flat-square&color=yellow)](https://github.com/EveSunMaple/Frosti/stargazers) [![Forks](https://img.shields.io/github/forks/EveSunMaple/Frosti?style=flat-square&color=blue)](https://github.com/EveSunMaple/Frosti/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A clean, elegant, and fast static blog template! 🚀 Developed with Astro
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ EveSunMaple/Frosti 的生产可用性较高，因为它有以下特点：
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

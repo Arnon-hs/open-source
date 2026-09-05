@@ -1,6 +1,6 @@
 # aigclink/geolook
 
-[![Stars](https://img.shields.io/github/stars/aigclink/geolook?style=flat-square&color=yellow)](https://github.com/aigclink/geolook/stargazers) [![Forks](https://img.shields.io/github/forks/aigclink/geolook?style=flat-square&color=blue)](https://github.com/aigclink/geolook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aigclink/geolook?style=flat-square&color=yellow)](https://github.com/aigclink/geolook/stargazers) [![Forks](https://img.shields.io/github/forks/aigclink/geolook?style=flat-square&color=blue)](https://github.com/aigclink/geolook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 404 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ aigclink/geolook 是一个开源项目，提供了一个完整的 GEO 实现方�
 | forks | 50/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

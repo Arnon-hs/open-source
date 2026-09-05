@@ -1,6 +1,6 @@
 # alexhernandezgarcia/gflownet
 
-[![Stars](https://img.shields.io/github/stars/alexhernandezgarcia/gflownet?style=flat-square&color=yellow)](https://github.com/alexhernandezgarcia/gflownet/stargazers) [![Forks](https://img.shields.io/github/forks/alexhernandezgarcia/gflownet?style=flat-square&color=blue)](https://github.com/alexhernandezgarcia/gflownet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexhernandezgarcia/gflownet?style=flat-square&color=yellow)](https://github.com/alexhernandezgarcia/gflownet/stargazers) [![Forks](https://img.shields.io/github/forks/alexhernandezgarcia/gflownet?style=flat-square&color=blue)](https://github.com/alexhernandezgarcia/gflownet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Generative Flow Networks - GFlowNet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ The project scores high on production readiness: recent activity, a growing user
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

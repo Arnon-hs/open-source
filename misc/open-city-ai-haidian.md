@@ -1,6 +1,6 @@
 # open-city-ai/haidian
 
-[![Stars](https://img.shields.io/github/stars/open-city-ai/haidian?style=flat-square&color=yellow)](https://github.com/open-city-ai/haidian/stargazers) [![Forks](https://img.shields.io/github/forks/open-city-ai/haidian?style=flat-square&color=blue)](https://github.com/open-city-ai/haidian/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-city-ai/haidian?style=flat-square&color=yellow)](https://github.com/open-city-ai/haidian/stargazers) [![Forks](https://img.shields.io/github/forks/open-city-ai/haidian?style=flat-square&color=blue)](https://github.com/open-city-ai/haidian/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 890 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ open-city-ai/haidian 的价值在于它可以帮助用户快速添加 AI 能力�
 | forks | 74/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

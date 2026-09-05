@@ -1,6 +1,6 @@
 # NeteaseCloudMusicApiEnhanced/api-enhanced
 
-[![Stars](https://img.shields.io/github/stars/NeteaseCloudMusicApiEnhanced/api-enhanced?style=flat-square&color=yellow)](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/NeteaseCloudMusicApiEnhanced/api-enhanced?style=flat-square&color=blue)](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeteaseCloudMusicApiEnhanced/api-enhanced?style=flat-square&color=yellow)](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/NeteaseCloudMusicApiEnhanced/api-enhanced?style=flat-square&color=blue)](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍  网易云音乐 Node.js  API Services (Half Refactor & Enhanced) 全网最全的网易云音乐API接口
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ NeteaseCloudMusicApiEnhanced/api-enhanced 是一个开源项目，提供了全�
 | forks | 83/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 77/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

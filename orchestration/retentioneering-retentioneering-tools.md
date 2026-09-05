@@ -1,6 +1,6 @@
 # retentioneering/retentioneering-tools
 
-[![Stars](https://img.shields.io/github/stars/retentioneering/retentioneering-tools?style=flat-square&color=yellow)](https://github.com/retentioneering/retentioneering-tools/stargazers) [![Forks](https://img.shields.io/github/forks/retentioneering/retentioneering-tools?style=flat-square&color=blue)](https://github.com/retentioneering/retentioneering-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/retentioneering/retentioneering-tools?style=flat-square&color=yellow)](https://github.com/retentioneering/retentioneering-tools/stargazers) [![Forks](https://img.shields.io/github/forks/retentioneering/retentioneering-tools?style=flat-square&color=blue)](https://github.com/retentioneering/retentioneering-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product analytics, quantitative UX, customer journeys, graph-based user flows, behavioral segmentation, A/B tests, process mining models, Markov chain simulation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 907 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Retentioneering/Retentioneering-tools 帮助研究和自动化市场工作流程
 | forks | 53/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

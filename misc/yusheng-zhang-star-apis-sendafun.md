@@ -1,6 +1,6 @@
 # yusheng-zhang-star/apis-sendafun
 
-[![Stars](https://img.shields.io/github/stars/yusheng-zhang-star/apis-sendafun?style=flat-square&color=yellow)](https://github.com/yusheng-zhang-star/apis-sendafun/stargazers) [![Forks](https://img.shields.io/github/forks/yusheng-zhang-star/apis-sendafun?style=flat-square&color=blue)](https://github.com/yusheng-zhang-star/apis-sendafun/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yusheng-zhang-star/apis-sendafun?style=flat-square&color=yellow)](https://github.com/yusheng-zhang-star/apis-sendafun/stargazers) [![Forks](https://img.shields.io/github/forks/yusheng-zhang-star/apis-sendafun?style=flat-square&color=blue)](https://github.com/yusheng-zhang-star/apis-sendafun/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI for public‑apis – search, filter, and copy free public APIs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ yusheng-zhang-star/apis-sendafun：yusheng-zhang-star/apis-sendafun may be usefu
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

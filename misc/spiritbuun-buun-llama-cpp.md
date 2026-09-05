@@ -1,6 +1,6 @@
 # spiritbuun/buun-llama-cpp
 
-[![Stars](https://img.shields.io/github/stars/spiritbuun/buun-llama-cpp?style=flat-square&color=yellow)](https://github.com/spiritbuun/buun-llama-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/spiritbuun/buun-llama-cpp?style=flat-square&color=blue)](https://github.com/spiritbuun/buun-llama-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spiritbuun/buun-llama-cpp?style=flat-square&color=yellow)](https://github.com/spiritbuun/buun-llama-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/spiritbuun/buun-llama-cpp?style=flat-square&color=blue)](https://github.com/spiritbuun/buun-llama-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > LLAMA Turboquant implementation with CUDA support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 665 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ spiritbuun/buun-llama-cpp 是一个开源项目，提供 LLAMA Turboquant 的 CU
 | forks | 47/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

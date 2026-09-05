@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ t8y2/dbx：t8y2/dbx helps ship user-facing interfaces with less custom UI work.�
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

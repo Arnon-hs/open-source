@@ -1,6 +1,6 @@
 # remotion-dev/template-helloworld
 
-[![Stars](https://img.shields.io/github/stars/remotion-dev/template-helloworld?style=flat-square&color=yellow)](https://github.com/remotion-dev/template-helloworld/stargazers) [![Forks](https://img.shields.io/github/forks/remotion-dev/template-helloworld?style=flat-square&color=blue)](https://github.com/remotion-dev/template-helloworld/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remotion-dev/template-helloworld?style=flat-square&color=yellow)](https://github.com/remotion-dev/template-helloworld/stargazers) [![Forks](https://img.shields.io/github/forks/remotion-dev/template-helloworld?style=flat-square&color=blue)](https://github.com/remotion-dev/template-helloworld/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Starting point for a new Remotion project. Run `npm init video` to get this template!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,11 +69,11 @@ Remotion 的 Hello World 模板是构建视频编辑、字幕生成及转码等�
 | forks | 42/100 |
 | stars | 40/100 |
 | topics | 13/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

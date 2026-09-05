@@ -1,6 +1,6 @@
 # openai/openai-cookbook
 
-[![Stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=flat-square&color=yellow)](https://github.com/openai/openai-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-cookbook?style=flat-square&color=blue)](https://github.com/openai/openai-cookbook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=flat-square&color=yellow)](https://github.com/openai/openai-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-cookbook?style=flat-square&color=blue)](https://github.com/openai/openai-cookbook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Examples and guides for using the OpenAI API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75.1k |
 | 🍴 **Forks** | 12.7k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Education
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ openai/openai-cookbook 的生产可用性较高，主要原因是：
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 50/100 |
-| outlook | 87/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

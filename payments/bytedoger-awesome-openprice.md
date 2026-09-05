@@ -1,6 +1,6 @@
 # bytedoger/awesome-OpenPrice
 
-[![Stars](https://img.shields.io/github/stars/bytedoger/awesome-OpenPrice?style=flat-square&color=yellow)](https://github.com/bytedoger/awesome-OpenPrice/stargazers) [![Forks](https://img.shields.io/github/forks/bytedoger/awesome-OpenPrice?style=flat-square&color=blue)](https://github.com/bytedoger/awesome-OpenPrice/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytedoger/awesome-OpenPrice?style=flat-square&color=yellow)](https://github.com/bytedoger/awesome-OpenPrice/stargazers) [![Forks](https://img.shields.io/github/forks/bytedoger/awesome-OpenPrice?style=flat-square&color=blue)](https://github.com/bytedoger/awesome-OpenPrice/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ awesome-OpenPrice 的生产可用性为中等（Medium），适合用于原型�
 | forks | 8/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

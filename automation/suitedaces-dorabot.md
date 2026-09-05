@@ -1,6 +1,6 @@
 # suitedaces/dorabot
 
-[![Stars](https://img.shields.io/github/stars/suitedaces/dorabot?style=flat-square&color=yellow)](https://github.com/suitedaces/dorabot/stargazers) [![Forks](https://img.shields.io/github/forks/suitedaces/dorabot?style=flat-square&color=blue)](https://github.com/suitedaces/dorabot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suitedaces/dorabot?style=flat-square&color=yellow)](https://github.com/suitedaces/dorabot/stargazers) [![Forks](https://img.shields.io/github/forks/suitedaces/dorabot?style=flat-square&color=blue)](https://github.com/suitedaces/dorabot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > macOS app for 24/7 AI agents in an IDE with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Communication · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ suitedaces/dorabot 是一款基于 macOS 的 IDE 插件，能够让 AI 代理 24
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Tswoen/Paper-Agent
 
-[![Stars](https://img.shields.io/github/stars/Tswoen/Paper-Agent?style=flat-square&color=yellow)](https://github.com/Tswoen/Paper-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/Tswoen/Paper-Agent?style=flat-square&color=blue)](https://github.com/Tswoen/Paper-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tswoen/Paper-Agent?style=flat-square&color=yellow)](https://github.com/Tswoen/Paper-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/Tswoen/Paper-Agent?style=flat-square&color=blue)](https://github.com/Tswoen/Paper-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Paper-Agent 是一个面向科研人员和学生的智能论文检索与调研工具。项目基于多智能体协作架构（AutoGen + LangGraph），通过自然语言处理（NLP）、自动化搜索和知识库构建，帮助用户高效查找学术论文、分析文献内容，并进行论文调研。Paper-Agent 支持多平台集成、关键词搜索、自动分析、论文调研，提升了学术研究的效率。适用于论文写作、学术调研、科研项目管理等多种场景，是学术调研的理想助手。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 261 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Paper-Agent 的生产可用性非常高，已有近 260 个 GitHub 星标，30 �
 | forks | 37/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

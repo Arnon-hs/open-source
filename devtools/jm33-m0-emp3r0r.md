@@ -1,6 +1,6 @@
 # jm33-m0/emp3r0r
 
-[![Stars](https://img.shields.io/github/stars/jm33-m0/emp3r0r?style=flat-square&color=yellow)](https://github.com/jm33-m0/emp3r0r/stargazers) [![Forks](https://img.shields.io/github/forks/jm33-m0/emp3r0r?style=flat-square&color=blue)](https://github.com/jm33-m0/emp3r0r/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jm33-m0/emp3r0r?style=flat-square&color=yellow)](https://github.com/jm33-m0/emp3r0r/stargazers) [![Forks](https://img.shields.io/github/forks/jm33-m0/emp3r0r?style=flat-square&color=blue)](https://github.com/jm33-m0/emp3r0r/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Modular Post‑Exploitation, and OPSEC‑Focused Transport
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | C |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ emp3r0r 的生产可用性较高，主要原因是最近的活动、采用和生
 | forks | 61/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

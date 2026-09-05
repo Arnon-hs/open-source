@@ -1,6 +1,6 @@
 # lioensky/VCPToolBox
 
-[![Stars](https://img.shields.io/github/stars/lioensky/VCPToolBox?style=flat-square&color=yellow)](https://github.com/lioensky/VCPToolBox/stargazers) [![Forks](https://img.shields.io/github/forks/lioensky/VCPToolBox?style=flat-square&color=blue)](https://github.com/lioensky/VCPToolBox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lioensky/VCPToolBox?style=flat-square&color=yellow)](https://github.com/lioensky/VCPToolBox/stargazers) [![Forks](https://img.shields.io/github/forks/lioensky/VCPToolBox?style=flat-square&color=blue)](https://github.com/lioensky/VCPToolBox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend · Database
+Orchestration · Knowledge/RAG · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -113,11 +113,11 @@ lioensky/VCPToolBox 的
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 85/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

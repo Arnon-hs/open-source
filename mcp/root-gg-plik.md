@@ -1,6 +1,6 @@
 # root-gg/plik
 
-[![Stars](https://img.shields.io/github/stars/root-gg/plik?style=flat-square&color=yellow)](https://github.com/root-gg/plik/stargazers) [![Forks](https://img.shields.io/github/forks/root-gg/plik?style=flat-square&color=blue)](https://github.com/root-gg/plik/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/root-gg/plik?style=flat-square&color=yellow)](https://github.com/root-gg/plik/stargazers) [![Forks](https://img.shields.io/github/forks/root-gg/plik?style=flat-square&color=blue)](https://github.com/root-gg/plik/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Plik is a temporary file upload system (Wetransfer like) in Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Plik 有很高的生产可用性，主要原因是其最近的活跃度、采用
 | forks | 57/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

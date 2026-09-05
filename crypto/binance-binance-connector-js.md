@@ -1,6 +1,6 @@
 # binance/binance-connector-js
 
-[![Stars](https://img.shields.io/github/stars/binance/binance-connector-js?style=flat-square&color=yellow)](https://github.com/binance/binance-connector-js/stargazers) [![Forks](https://img.shields.io/github/forks/binance/binance-connector-js?style=flat-square&color=blue)](https://github.com/binance/binance-connector-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binance/binance-connector-js?style=flat-square&color=yellow)](https://github.com/binance/binance-connector-js/stargazers) [![Forks](https://img.shields.io/github/forks/binance/binance-connector-js?style=flat-square&color=blue)](https://github.com/binance/binance-connector-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A simple connector to Binance Public API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 744 |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Backend · Data
+Crypto · Trading · Backend · Libraries & SDKs · Data
 
 ## 📝 Summary
 
@@ -115,15 +115,15 @@ Binance-Connector-JS 的生产可用性很高，因为：
 | forks | 58/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

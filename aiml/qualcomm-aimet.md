@@ -1,6 +1,6 @@
 # qualcomm/aimet
 
-[![Stars](https://img.shields.io/github/stars/qualcomm/aimet?style=flat-square&color=yellow)](https://github.com/qualcomm/aimet/stargazers) [![Forks](https://img.shields.io/github/forks/qualcomm/aimet?style=flat-square&color=blue)](https://github.com/qualcomm/aimet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qualcomm/aimet?style=flat-square&color=yellow)](https://github.com/qualcomm/aimet/stargazers) [![Forks](https://img.shields.io/github/forks/qualcomm/aimet?style=flat-square&color=blue)](https://github.com/qualcomm/aimet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 456 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ AIMET（Qualcomm AI Model Efficiency Toolkit）是一个开源库，提供先进
 | forks | 66/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

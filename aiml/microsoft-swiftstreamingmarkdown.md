@@ -1,6 +1,6 @@
 # microsoft/SwiftStreamingMarkdown
 
-[![Stars](https://img.shields.io/github/stars/microsoft/SwiftStreamingMarkdown?style=flat-square&color=yellow)](https://github.com/microsoft/SwiftStreamingMarkdown/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/SwiftStreamingMarkdown?style=flat-square&color=blue)](https://github.com/microsoft/SwiftStreamingMarkdown/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/SwiftStreamingMarkdown?style=flat-square&color=yellow)](https://github.com/microsoft/SwiftStreamingMarkdown/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/SwiftStreamingMarkdown?style=flat-square&color=blue)](https://github.com/microsoft/SwiftStreamingMarkdown/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A performant markdown library for iOS that supports streaming
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Mobile
+AI/ML · Documents · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ Microsoft/SwiftStreamingMarkdown 是一款面向 iOS 的高性能 Markdown 解�
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

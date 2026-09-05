@@ -1,6 +1,6 @@
 # Batman0506/openclaw-sec-skills
 
-[![Stars](https://img.shields.io/github/stars/Batman0506/openclaw-sec-skills?style=flat-square&color=yellow)](https://github.com/Batman0506/openclaw-sec-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Batman0506/openclaw-sec-skills?style=flat-square&color=blue)](https://github.com/Batman0506/openclaw-sec-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Batman0506/openclaw-sec-skills?style=flat-square&color=yellow)](https://github.com/Batman0506/openclaw-sec-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Batman0506/openclaw-sec-skills?style=flat-square&color=blue)](https://github.com/Batman0506/openclaw-sec-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🛡️ 网络安全/AI Agent Skills 集合 | Cybersecurity Security Skills Collection
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Batman0506/openclaw‑sec‑skills 是一个面向网络安全与 AI Agent 的 S
 | forks | 39/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

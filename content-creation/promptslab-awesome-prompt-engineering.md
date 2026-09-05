@@ -1,6 +1,6 @@
 # promptslab/Awesome-Prompt-Engineering
 
-[![Stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=flat-square&color=yellow)](https://github.com/promptslab/Awesome-Prompt-Engineering/stargazers) [![Forks](https://img.shields.io/github/forks/promptslab/Awesome-Prompt-Engineering?style=flat-square&color=blue)](https://github.com/promptslab/Awesome-Prompt-Engineering/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=flat-square&color=yellow)](https://github.com/promptslab/Awesome-Prompt-Engineering/stargazers) [![Forks](https://img.shields.io/github/forks/promptslab/Awesome-Prompt-Engineering?style=flat-square&color=blue)](https://github.com/promptslab/Awesome-Prompt-Engineering/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 737 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Backend
+Content Creation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ promptslab/Awesome-Prompt-Engineering 的生产可用性较高，理由如下：
 | forks | 72/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 80/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 69/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

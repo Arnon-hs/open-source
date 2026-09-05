@@ -1,6 +1,6 @@
 # krishpranav/vesper
 
-[![Stars](https://img.shields.io/github/stars/krishpranav/vesper?style=flat-square&color=yellow)](https://github.com/krishpranav/vesper/stargazers) [![Forks](https://img.shields.io/github/forks/krishpranav/vesper?style=flat-square&color=blue)](https://github.com/krishpranav/vesper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krishpranav/vesper?style=flat-square&color=yellow)](https://github.com/krishpranav/vesper/stargazers) [![Forks](https://img.shields.io/github/forks/krishpranav/vesper?style=flat-square&color=blue)](https://github.com/krishpranav/vesper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A simple username osint tool built in rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Vesper 的生产可用性较高，主要原因是：
 | forks | 43/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

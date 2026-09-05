@@ -1,6 +1,6 @@
 # mlmed/torchxrayvision
 
-[![Stars](https://img.shields.io/github/stars/mlmed/torchxrayvision?style=flat-square&color=yellow)](https://github.com/mlmed/torchxrayvision/stargazers) [![Forks](https://img.shields.io/github/forks/mlmed/torchxrayvision?style=flat-square&color=blue)](https://github.com/mlmed/torchxrayvision/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlmed/torchxrayvision?style=flat-square&color=yellow)](https://github.com/mlmed/torchxrayvision/stargazers) [![Forks](https://img.shields.io/github/forks/mlmed/torchxrayvision?style=flat-square&color=blue)](https://github.com/mlmed/torchxrayvision/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > TorchXRayVision: A library of chest X-ray datasets and models. Classifiers, segmentation, and autoencoders.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ TorchXRayVision 具有高生产可用性，主要原因是：
 | forks | 60/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

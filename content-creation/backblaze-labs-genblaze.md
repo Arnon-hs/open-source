@@ -1,6 +1,6 @@
 # backblaze-labs/genblaze
 
-[![Stars](https://img.shields.io/github/stars/backblaze-labs/genblaze?style=flat-square&color=yellow)](https://github.com/backblaze-labs/genblaze/stargazers) [![Forks](https://img.shields.io/github/forks/backblaze-labs/genblaze?style=flat-square&color=blue)](https://github.com/backblaze-labs/genblaze/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backblaze-labs/genblaze?style=flat-square&color=yellow)](https://github.com/backblaze-labs/genblaze/stargazers) [![Forks](https://img.shields.io/github/forks/backblaze-labs/genblaze?style=flat-square&color=blue)](https://github.com/backblaze-labs/genblaze/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Genblaze is an open source Python SDK for orchestrating generative AI media pipelines across video, audio, and image providers with built in provenance for every output.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · AI/ML · Data
+Content Creation · AI/ML · Libraries & SDKs · Data
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Genblaze 在生产环境中有较高的可用性，主要原因是：
 | forks | 28/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

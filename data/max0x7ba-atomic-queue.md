@@ -1,6 +1,6 @@
 # max0x7ba/atomic_queue
 
-[![Stars](https://img.shields.io/github/stars/max0x7ba/atomic_queue?style=flat-square&color=yellow)](https://github.com/max0x7ba/atomic_queue/stargazers) [![Forks](https://img.shields.io/github/forks/max0x7ba/atomic_queue?style=flat-square&color=blue)](https://github.com/max0x7ba/atomic_queue/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/max0x7ba/atomic_queue?style=flat-square&color=yellow)](https://github.com/max0x7ba/atomic_queue/stargazers) [![Forks](https://img.shields.io/github/forks/max0x7ba/atomic_queue?style=flat-square&color=blue)](https://github.com/max0x7ba/atomic_queue/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > C++14 concurrent lock-free low-latency queue.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ max0x7ba/atomic_queue 是一个基于 C++14 实现的并发无锁低延迟队列
 | forks | 58/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

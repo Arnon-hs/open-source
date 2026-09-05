@@ -1,6 +1,6 @@
 # Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice
 
-[![Stars](https://img.shields.io/github/stars/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice?style=flat-square&color=yellow)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice/stargazers) [![Forks](https://img.shields.io/github/forks/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice?style=flat-square&color=blue)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice?style=flat-square&color=yellow)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice/stargazers) [![Forks](https://img.shields.io/github/forks/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice?style=flat-square&color=blue)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text to speech (text-to-speech) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -78,11 +78,11 @@ Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice 的价值在于，它可以为特定工作�
 | forks | 0/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 35/100 |
-| quality | 37/100 |
-| recency | 20/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 36/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

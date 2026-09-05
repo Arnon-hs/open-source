@@ -1,6 +1,6 @@
 # runkids/skillshare
 
-[![Stars](https://img.shields.io/github/stars/runkids/skillshare?style=flat-square&color=yellow)](https://github.com/runkids/skillshare/stargazers) [![Forks](https://img.shields.io/github/forks/runkids/skillshare?style=flat-square&color=blue)](https://github.com/runkids/skillshare/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runkids/skillshare?style=flat-square&color=yellow)](https://github.com/runkids/skillshare/stargazers) [![Forks](https://img.shields.io/github/forks/runkids/skillshare?style=flat-square&color=blue)](https://github.com/runkids/skillshare/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ runkids/skillshare 是一个 Go 编写的开源工具，提供“一键同步”
 | forks | 50/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 54/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

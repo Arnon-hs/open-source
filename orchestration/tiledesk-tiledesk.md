@@ -1,6 +1,6 @@
 # Tiledesk/tiledesk
 
-[![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=flat-square&color=yellow)](https://github.com/Tiledesk/tiledesk/stargazers) [![Forks](https://img.shields.io/github/forks/Tiledesk/tiledesk?style=flat-square&color=blue)](https://github.com/Tiledesk/tiledesk/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=flat-square&color=yellow)](https://github.com/Tiledesk/tiledesk/stargazers) [![Forks](https://img.shields.io/github/forks/Tiledesk/tiledesk?style=flat-square&color=blue)](https://github.com/Tiledesk/tiledesk/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Install Tiledesk on your server using Helm for Kubernetes orchestration and Docker Compose for running multi-container Docker applications. Tiledesk provides an open-source solution comparable to Voiceflow, empowering you to create sophisticated LLM-enabled chatbots that seamlessly transition interactions to human agents when needed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra · Marketing
+Orchestration · AI/ML · Communication · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ Tiledesk 是一款开源的 LLM + 人工客服平台，可通过 Helm 在 Ku
 | forks | 51/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

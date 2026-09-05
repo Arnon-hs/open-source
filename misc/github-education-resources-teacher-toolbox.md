@@ -1,6 +1,6 @@
 # github-education-resources/teacher-toolbox
 
-[![Stars](https://img.shields.io/github/stars/github-education-resources/teacher-toolbox?style=flat-square&color=yellow)](https://github.com/github-education-resources/teacher-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/github-education-resources/teacher-toolbox?style=flat-square&color=blue)](https://github.com/github-education-resources/teacher-toolbox/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github-education-resources/teacher-toolbox?style=flat-square&color=yellow)](https://github.com/github-education-resources/teacher-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/github-education-resources/teacher-toolbox?style=flat-square&color=blue)](https://github.com/github-education-resources/teacher-toolbox/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Teacher Toolbox is a resource hub for educators and administrators to get started with GitHub.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ github-education-resources/teacher-toolbox的生产可用性为中等。它适�
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

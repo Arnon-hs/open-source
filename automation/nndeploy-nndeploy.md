@@ -1,6 +1,6 @@
 # nndeploy/nndeploy
 
-[![Stars](https://img.shields.io/github/stars/nndeploy/nndeploy?style=flat-square&color=yellow)](https://github.com/nndeploy/nndeploy/stargazers) [![Forks](https://img.shields.io/github/forks/nndeploy/nndeploy?style=flat-square&color=blue)](https://github.com/nndeploy/nndeploy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nndeploy/nndeploy?style=flat-square&color=yellow)](https://github.com/nndeploy/nndeploy/stargazers) [![Forks](https://img.shields.io/github/forks/nndeploy/nndeploy?style=flat-square&color=blue)](https://github.com/nndeploy/nndeploy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 231 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ nndeploy/nndeploy 是一个易用且高性能的 AI 部署框架，能够帮助�
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

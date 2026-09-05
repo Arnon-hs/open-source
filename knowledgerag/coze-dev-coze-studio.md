@@ -1,6 +1,6 @@
 # coze-dev/coze-studio
 
-[![Stars](https://img.shields.io/github/stars/coze-dev/coze-studio?style=flat-square&color=yellow)](https://github.com/coze-dev/coze-studio/stargazers) [![Forks](https://img.shields.io/github/forks/coze-dev/coze-studio?style=flat-square&color=blue)](https://github.com/coze-dev/coze-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coze-dev/coze-studio?style=flat-square&color=yellow)](https://github.com/coze-dev/coze-studio/stargazers) [![Forks](https://img.shields.io/github/forks/coze-dev/coze-studio?style=flat-square&color=blue)](https://github.com/coze-dev/coze-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.3k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 89/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ Coze Studio 的生产可用性非常高。它具有以下特点：
 | forks | 87/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 60/100 |
+| outlook | 91/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 73/100 |
+| production | 80/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

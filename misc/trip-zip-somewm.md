@@ -1,6 +1,6 @@
 # trip-zip/somewm
 
-[![Stars](https://img.shields.io/github/stars/trip-zip/somewm?style=flat-square&color=yellow)](https://github.com/trip-zip/somewm/stargazers) [![Forks](https://img.shields.io/github/forks/trip-zip/somewm?style=flat-square&color=blue)](https://github.com/trip-zip/somewm/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trip-zip/somewm?style=flat-square&color=yellow)](https://github.com/trip-zip/somewm/stargazers) [![Forks](https://img.shields.io/github/forks/trip-zip/somewm?style=flat-square&color=blue)](https://github.com/trip-zip/somewm/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Not quite awesome...just some.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ trip‑zip/somewm 是一个基于 Lua 的前端 UI 框架，提供了一套可�
 | forks | 33/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # justvanrossum/fontgoggles
 
-[![Stars](https://img.shields.io/github/stars/justvanrossum/fontgoggles?style=flat-square&color=yellow)](https://github.com/justvanrossum/fontgoggles/stargazers) [![Forks](https://img.shields.io/github/forks/justvanrossum/fontgoggles?style=flat-square&color=blue)](https://github.com/justvanrossum/fontgoggles/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justvanrossum/fontgoggles?style=flat-square&color=yellow)](https://github.com/justvanrossum/fontgoggles/stargazers) [![Forks](https://img.shields.io/github/forks/justvanrossum/fontgoggles?style=flat-square&color=blue)](https://github.com/justvanrossum/fontgoggles/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > FontGoggles: Visual OTL Preview and QA
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 468 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ justvanrossum/fontgoggles（FontGoggles）是一款基于 Python 的开源工具
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 45/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

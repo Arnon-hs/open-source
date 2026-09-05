@@ -1,6 +1,6 @@
 # mozsearch/mozsearch
 
-[![Stars](https://img.shields.io/github/stars/mozsearch/mozsearch?style=flat-square&color=yellow)](https://github.com/mozsearch/mozsearch/stargazers) [![Forks](https://img.shields.io/github/forks/mozsearch/mozsearch?style=flat-square&color=blue)](https://github.com/mozsearch/mozsearch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozsearch/mozsearch?style=flat-square&color=yellow)](https://github.com/mozsearch/mozsearch/stargazers) [![Forks](https://img.shields.io/github/forks/mozsearch/mozsearch?style=flat-square&color=blue)](https://github.com/mozsearch/mozsearch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ mozsearch/mozsearch 的生产可用性为中等。它可以用于内部工作流
 | forks | 50/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

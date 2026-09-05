@@ -1,6 +1,6 @@
 # OpenLineage/OpenLineage
 
-[![Stars](https://img.shields.io/github/stars/OpenLineage/OpenLineage?style=flat-square&color=yellow)](https://github.com/OpenLineage/OpenLineage/stargazers) [![Forks](https://img.shields.io/github/forks/OpenLineage/OpenLineage?style=flat-square&color=blue)](https://github.com/OpenLineage/OpenLineage/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenLineage/OpenLineage?style=flat-square&color=yellow)](https://github.com/OpenLineage/OpenLineage/stargazers) [![Forks](https://img.shields.io/github/forks/OpenLineage/OpenLineage?style=flat-square&color=blue)](https://github.com/OpenLineage/OpenLineage/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An Open Standard for lineage metadata collection
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 491 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ OpenLineage/OpenLineage 是一个开源项目，旨在为数据管道和流程�
 | forks | 67/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

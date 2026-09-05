@@ -1,6 +1,6 @@
 # open-webui/open-terminal
 
-[![Stars](https://img.shields.io/github/stars/open-webui/open-terminal?style=flat-square&color=yellow)](https://github.com/open-webui/open-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/open-webui/open-terminal?style=flat-square&color=blue)](https://github.com/open-webui/open-terminal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-webui/open-terminal?style=flat-square&color=yellow)](https://github.com/open-webui/open-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/open-webui/open-terminal?style=flat-square&color=blue)](https://github.com/open-webui/open-terminal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A computer you can curl ⚡
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ open-webui/open-terminal：open-webui/open-terminal helps add AI capability with
 | forks | 60/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

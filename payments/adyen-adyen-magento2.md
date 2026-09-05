@@ -1,6 +1,6 @@
 # Adyen/adyen-magento2
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-magento2?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-magento2/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-magento2?style=flat-square&color=blue)](https://github.com/Adyen/adyen-magento2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-magento2?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-magento2/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-magento2?style=flat-square&color=blue)](https://github.com/Adyen/adyen-magento2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen Payment plugin for Magento2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Adyen/adyen-magento2 是 Adyen 官方提供的 Magento 2 支付插件，帮助
 | forks | 59/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

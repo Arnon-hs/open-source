@@ -1,6 +1,6 @@
 # SinanTufekci/agent-intern
 
-[![Stars](https://img.shields.io/github/stars/SinanTufekci/agent-intern?style=flat-square&color=yellow)](https://github.com/SinanTufekci/agent-intern/stargazers) [![Forks](https://img.shields.io/github/forks/SinanTufekci/agent-intern?style=flat-square&color=blue)](https://github.com/SinanTufekci/agent-intern/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SinanTufekci/agent-intern?style=flat-square&color=yellow)](https://github.com/SinanTufekci/agent-intern/stargazers) [![Forks](https://img.shields.io/github/forks/SinanTufekci/agent-intern?style=flat-square&color=blue)](https://github.com/SinanTufekci/agent-intern/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > MCP bridge that drives Google's Antigravity CLI (agy), Github Copilot and OpenAI Codex as sub-agents inside Claude Code — text answers, image generation, and real coding work, on quota you already pay for.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ SinanTufekci/agent-intern 是一个开源项目，提供了一个标准协议连
 | forks | 12/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

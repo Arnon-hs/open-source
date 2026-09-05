@@ -1,6 +1,6 @@
 # mafzaal/d365fo-client
 
-[![Stars](https://img.shields.io/github/stars/mafzaal/d365fo-client?style=flat-square&color=yellow)](https://github.com/mafzaal/d365fo-client/stargazers) [![Forks](https://img.shields.io/github/forks/mafzaal/d365fo-client?style=flat-square&color=blue)](https://github.com/mafzaal/d365fo-client/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mafzaal/d365fo-client?style=flat-square&color=yellow)](https://github.com/mafzaal/d365fo-client/stargazers) [![Forks](https://img.shields.io/github/forks/mafzaal/d365fo-client?style=flat-square&color=blue)](https://github.com/mafzaal/d365fo-client/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive Python client library and MCP server for Microsoft Dynamics 365 Finance & Operations (D365 F&O) that provides easy access to OData endpoints, metadata operations, label management, and AI assistant integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ mafzaal/d365fo-client 是一套基于 Python 的完整客户端库 + MCP（Model
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 50/100 |
-| outlook | 57/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

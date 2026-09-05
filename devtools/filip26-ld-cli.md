@@ -1,6 +1,6 @@
 # filip26/ld-cli
 
-[![Stars](https://img.shields.io/github/stars/filip26/ld-cli?style=flat-square&color=yellow)](https://github.com/filip26/ld-cli/stargazers) [![Forks](https://img.shields.io/github/forks/filip26/ld-cli?style=flat-square&color=blue)](https://github.com/filip26/ld-cli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/filip26/ld-cli?style=flat-square&color=yellow)](https://github.com/filip26/ld-cli/stargazers) [![Forks](https://img.shields.io/github/forks/filip26/ld-cli?style=flat-square&color=blue)](https://github.com/filip26/ld-cli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A command-line utility for processing JSON-LD, RDF, RDFC, JCS, CBOR-LD, and multiformats with native executables for Ubuntu, macOS, and Windows - completely free of JVM dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ filip26/ld-cli 是一款跨平台的命令行工具，能够在 Ubuntu、macOS �
 | forks | 12/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

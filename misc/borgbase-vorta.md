@@ -1,6 +1,6 @@
 # borgbase/vorta
 
-[![Stars](https://img.shields.io/github/stars/borgbase/vorta?style=flat-square&color=yellow)](https://github.com/borgbase/vorta/stargazers) [![Forks](https://img.shields.io/github/forks/borgbase/vorta?style=flat-square&color=blue)](https://github.com/borgbase/vorta/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/borgbase/vorta?style=flat-square&color=yellow)](https://github.com/borgbase/vorta/stargazers) [![Forks](https://img.shields.io/github/forks/borgbase/vorta?style=flat-square&color=blue)](https://github.com/borgbase/vorta/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop Backup Client for Borg Backup
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ BorgBase/Vorta 是一款基于 Borg 备份引擎的桌面客户端，提供图�
 | forks | 59/100 |
 | stars | 72/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

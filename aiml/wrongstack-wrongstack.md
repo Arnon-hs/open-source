@@ -1,6 +1,6 @@
 # WrongStack/WrongStack
 
-[![Stars](https://img.shields.io/github/stars/WrongStack/WrongStack?style=flat-square&color=yellow)](https://github.com/WrongStack/WrongStack/stargazers) [![Forks](https://img.shields.io/github/forks/WrongStack/WrongStack?style=flat-square&color=blue)](https://github.com/WrongStack/WrongStack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WrongStack/WrongStack?style=flat-square&color=yellow)](https://github.com/WrongStack/WrongStack/stargazers) [![Forks](https://img.shields.io/github/forks/WrongStack/WrongStack?style=flat-square&color=blue)](https://github.com/WrongStack/WrongStack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI AI coding agent that runs in your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ WrongStack 是一个运行在终端的 CLI AI 编码助理，帮助开发者在�
 | forks | 32/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

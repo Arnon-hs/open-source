@@ -1,6 +1,6 @@
 # xbmc/xbmc
 
-[![Stars](https://img.shields.io/github/stars/xbmc/xbmc?style=flat-square&color=yellow)](https://github.com/xbmc/xbmc/stargazers) [![Forks](https://img.shields.io/github/forks/xbmc/xbmc?style=flat-square&color=blue)](https://github.com/xbmc/xbmc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xbmc/xbmc?style=flat-square&color=yellow)](https://github.com/xbmc/xbmc/stargazers) [![Forks](https://img.shields.io/github/forks/xbmc/xbmc?style=flat-square&color=blue)](https://github.com/xbmc/xbmc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.9k |
 | 🍴 **Forks** | 6.6k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ Kodi 的生产可用性很高，主要原因是：
 | forks | 95/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

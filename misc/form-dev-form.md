@@ -1,6 +1,6 @@
 # form-dev/form
 
-[![Stars](https://img.shields.io/github/stars/form-dev/form?style=flat-square&color=yellow)](https://github.com/form-dev/form/stargazers) [![Forks](https://img.shields.io/github/forks/form-dev/form?style=flat-square&color=blue)](https://github.com/form-dev/form/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/form-dev/form?style=flat-square&color=yellow)](https://github.com/form-dev/form/stargazers) [![Forks](https://img.shields.io/github/forks/form-dev/form?style=flat-square&color=blue)](https://github.com/form-dev/form/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The FORM project for symbolic manipulation of very big expressions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | C |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ FORM（`form-dev/form`）是一款用 C 编写的高性能符号计算系统，�
 | forks | 55/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

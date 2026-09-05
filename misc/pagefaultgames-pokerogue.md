@@ -1,6 +1,6 @@
 # pagefaultgames/pokerogue
 
-[![Stars](https://img.shields.io/github/stars/pagefaultgames/pokerogue?style=flat-square&color=yellow)](https://github.com/pagefaultgames/pokerogue/stargazers) [![Forks](https://img.shields.io/github/forks/pagefaultgames/pokerogue?style=flat-square&color=blue)](https://github.com/pagefaultgames/pokerogue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pagefaultgames/pokerogue?style=flat-square&color=yellow)](https://github.com/pagefaultgames/pokerogue/stargazers) [![Forks](https://img.shields.io/github/forks/pagefaultgames/pokerogue?style=flat-square&color=blue)](https://github.com/pagefaultgames/pokerogue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A browser based Pokémon fangame heavily inspired by the roguelite genre.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ pagefaultgames/pokerogue 具备高活跃度、良好的社区支持和易于嵌�
 | forks | 84/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

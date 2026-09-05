@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Documents · Frontend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Simon-He95/markstream-vue：Simon-He95/markstream-vue helps add AI capability wi
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

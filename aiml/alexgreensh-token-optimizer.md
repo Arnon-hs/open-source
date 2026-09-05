@@ -1,6 +1,6 @@
 # alexgreensh/token-optimizer
 
-[![Stars](https://img.shields.io/github/stars/alexgreensh/token-optimizer?style=flat-square&color=yellow)](https://github.com/alexgreensh/token-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/alexgreensh/token-optimizer?style=flat-square&color=blue)](https://github.com/alexgreensh/token-optimizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexgreensh/token-optimizer?style=flat-square&color=yellow)](https://github.com/alexgreensh/token-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/alexgreensh/token-optimizer?style=flat-square&color=blue)](https://github.com/alexgreensh/token-optimizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ alexgreensh/token-optimizer 是一个开源项目，帮助开发者在现有的�
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

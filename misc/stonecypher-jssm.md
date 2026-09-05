@@ -1,6 +1,6 @@
 # StoneCypher/jssm
 
-[![Stars](https://img.shields.io/github/stars/StoneCypher/jssm?style=flat-square&color=yellow)](https://github.com/StoneCypher/jssm/stargazers) [![Forks](https://img.shields.io/github/forks/StoneCypher/jssm?style=flat-square&color=blue)](https://github.com/StoneCypher/jssm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StoneCypher/jssm?style=flat-square&color=yellow)](https://github.com/StoneCypher/jssm/stargazers) [![Forks](https://img.shields.io/github/forks/StoneCypher/jssm?style=flat-square&color=blue)](https://github.com/StoneCypher/jssm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, easy Javascript finite state machines with visualizations; enjoy a one liner FSM instead of pages.  MIT; Typescripted; 100% test coverage.  Implements the FSL language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -126,11 +126,11 @@ StoneCypher/jssm 是一款基于 TypeScript 的轻量级 JavaScript 有限状态
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

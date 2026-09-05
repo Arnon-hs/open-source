@@ -1,6 +1,6 @@
 # secleeman/triage-lens
 
-[![Stars](https://img.shields.io/github/stars/secleeman/triage-lens?style=flat-square&color=yellow)](https://github.com/secleeman/triage-lens/stargazers) [![Forks](https://img.shields.io/github/forks/secleeman/triage-lens?style=flat-square&color=blue)](https://github.com/secleeman/triage-lens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/secleeman/triage-lens?style=flat-square&color=yellow)](https://github.com/secleeman/triage-lens/stargazers) [![Forks](https://img.shields.io/github/forks/secleeman/triage-lens?style=flat-square&color=blue)](https://github.com/secleeman/triage-lens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > スキャナの脆弱性リストを公開データ(EPSS/CISA KEV)で優先順位付けし、日本語のトリアージレポートを生成するCLIツール
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ secleeman/triage-lens：secleeman/triage-lens may be useful when its README and 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

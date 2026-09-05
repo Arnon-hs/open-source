@@ -1,6 +1,6 @@
 # developer2013/bricks-mcp-open
 
-[![Stars](https://img.shields.io/github/stars/developer2013/bricks-mcp-open?style=flat-square&color=yellow)](https://github.com/developer2013/bricks-mcp-open/stargazers) [![Forks](https://img.shields.io/github/forks/developer2013/bricks-mcp-open?style=flat-square&color=blue)](https://github.com/developer2013/bricks-mcp-open/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/developer2013/bricks-mcp-open?style=flat-square&color=yellow)](https://github.com/developer2013/bricks-mcp-open/stargazers) [![Forks](https://img.shields.io/github/forks/developer2013/bricks-mcp-open?style=flat-square&color=blue)](https://github.com/developer2013/bricks-mcp-open/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ developer2013/bricks-mcp-open 是面向 Bricks Builder 的最全功能的开源 
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

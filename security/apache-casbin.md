@@ -1,6 +1,6 @@
 # apache/casbin
 
-[![Stars](https://img.shields.io/github/stars/apache/casbin?style=flat-square&color=yellow)](https://github.com/apache/casbin/stargazers) [![Forks](https://img.shields.io/github/forks/apache/casbin?style=flat-square&color=blue)](https://github.com/apache/casbin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/casbin?style=flat-square&color=yellow)](https://github.com/apache/casbin/stargazers) [![Forks](https://img.shields.io/github/forks/apache/casbin?style=flat-square&color=blue)](https://github.com/apache/casbin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.3k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Apache Casbin 的生产可用性是高的，主要原因是：
 | forks | 81/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 85/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

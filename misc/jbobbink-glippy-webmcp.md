@@ -1,6 +1,6 @@
 # jbobbink/glippy-webmcp
 
-[![Stars](https://img.shields.io/github/stars/jbobbink/glippy-webmcp?style=flat-square&color=yellow)](https://github.com/jbobbink/glippy-webmcp/stargazers) [![Forks](https://img.shields.io/github/forks/jbobbink/glippy-webmcp?style=flat-square&color=blue)](https://github.com/jbobbink/glippy-webmcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jbobbink/glippy-webmcp?style=flat-square&color=yellow)](https://github.com/jbobbink/glippy-webmcp/stargazers) [![Forks](https://img.shields.io/github/forks/jbobbink/glippy-webmcp?style=flat-square&color=blue)](https://github.com/jbobbink/glippy-webmcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ Glippy WebMCP 是一个编码代理插件，能让浏览器代理像普通用户
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 63/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 80/100 |

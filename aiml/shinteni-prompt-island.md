@@ -1,6 +1,6 @@
 # shinteni/prompt-island
 
-[![Stars](https://img.shields.io/github/stars/shinteni/prompt-island?style=flat-square&color=yellow)](https://github.com/shinteni/prompt-island/stargazers) [![Forks](https://img.shields.io/github/forks/shinteni/prompt-island?style=flat-square&color=blue)](https://github.com/shinteni/prompt-island/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinteni/prompt-island?style=flat-square&color=yellow)](https://github.com/shinteni/prompt-island/stargazers) [![Forks](https://img.shields.io/github/forks/shinteni/prompt-island?style=flat-square&color=blue)](https://github.com/shinteni/prompt-island/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Vibelsland Free (>_ - island): local-first AI coding status island for Claude, Codex CLI, and Codex Desktop on macOS / 面向 macOS 的本地优先 AI coding 浮岛
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ shinteni/prompt-island 的生产可用性为 Medium，适用于 prototyping 或�
 | forks | 27/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

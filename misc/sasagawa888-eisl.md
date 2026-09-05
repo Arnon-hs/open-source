@@ -1,6 +1,6 @@
 # sasagawa888/eisl
 
-[![Stars](https://img.shields.io/github/stars/sasagawa888/eisl?style=flat-square&color=yellow)](https://github.com/sasagawa888/eisl/stargazers) [![Forks](https://img.shields.io/github/forks/sasagawa888/eisl?style=flat-square&color=blue)](https://github.com/sasagawa888/eisl/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sasagawa888/eisl?style=flat-square&color=yellow)](https://github.com/sasagawa888/eisl/stargazers) [![Forks](https://img.shields.io/github/forks/sasagawa888/eisl?style=flat-square&color=blue)](https://github.com/sasagawa888/eisl/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ISLisp interpreter/compiler
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Common Lisp |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ The project sits at a *medium* readiness level. It is actively maintained and ha
 | forks | 36/100 |
 | stars | 54/100 |
 | topics | 13/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

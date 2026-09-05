@@ -1,6 +1,6 @@
 # smartcontractkit/documentation
 
-[![Stars](https://img.shields.io/github/stars/smartcontractkit/documentation?style=flat-square&color=yellow)](https://github.com/smartcontractkit/documentation/stargazers) [![Forks](https://img.shields.io/github/forks/smartcontractkit/documentation?style=flat-square&color=blue)](https://github.com/smartcontractkit/documentation/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smartcontractkit/documentation?style=flat-square&color=yellow)](https://github.com/smartcontractkit/documentation/stargazers) [![Forks](https://img.shields.io/github/forks/smartcontractkit/documentation?style=flat-square&color=blue)](https://github.com/smartcontractkit/documentation/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 508 |
 | 🍴 **Forks** | 469 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ smartcontractkit/documentation 是 Chainlink 官方的开发者文档站点，�
 | forks | 67/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 45/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

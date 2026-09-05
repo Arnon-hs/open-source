@@ -1,6 +1,6 @@
 # Czarnak/totally-integrated-claude
 
-[![Stars](https://img.shields.io/github/stars/Czarnak/totally-integrated-claude?style=flat-square&color=yellow)](https://github.com/Czarnak/totally-integrated-claude/stargazers) [![Forks](https://img.shields.io/github/forks/Czarnak/totally-integrated-claude?style=flat-square&color=blue)](https://github.com/Czarnak/totally-integrated-claude/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Czarnak/totally-integrated-claude?style=flat-square&color=yellow)](https://github.com/Czarnak/totally-integrated-claude/stargazers) [![Forks](https://img.shields.io/github/forks/Czarnak/totally-integrated-claude?style=flat-square&color=blue)](https://github.com/Czarnak/totally-integrated-claude/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude Code plugin for Siemens TIA Portal engineering automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Czarnak/totally-integrated-claude 是一款面向 Siemens TIA Portal 的 Claude 
 | forks | 21/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

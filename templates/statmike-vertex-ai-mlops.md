@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Automation · AI/ML
+Templates · Automation · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ statmike/vertex-ai-mlops：statmike/vertex-ai-mlops helps teams reuse working wo
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sleep2agi/agent-network
 
-[![Stars](https://img.shields.io/github/stars/sleep2agi/agent-network?style=flat-square&color=yellow)](https://github.com/sleep2agi/agent-network/stargazers) [![Forks](https://img.shields.io/github/forks/sleep2agi/agent-network?style=flat-square&color=blue)](https://github.com/sleep2agi/agent-network/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sleep2agi/agent-network?style=flat-square&color=yellow)](https://github.com/sleep2agi/agent-network/stargazers) [![Forks](https://img.shields.io/github/forks/sleep2agi/agent-network?style=flat-square&color=blue)](https://github.com/sleep2agi/agent-network/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 多 Agent，一行命令。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM (Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / 书生 / 小米 MiMo) — 一个 npm 包，自带 Web Dashboard，本地优先，Apache 2.0 开源。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML
+Orchestration · MCP · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -137,15 +137,15 @@ Overall, `sleep2agi/agent-network` is a high‑readiness OSS candidate for teams
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

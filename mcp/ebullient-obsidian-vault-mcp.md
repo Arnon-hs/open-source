@@ -1,6 +1,6 @@
 # ebullient/obsidian-vault-mcp
 
-[![Stars](https://img.shields.io/github/stars/ebullient/obsidian-vault-mcp?style=flat-square&color=yellow)](https://github.com/ebullient/obsidian-vault-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ebullient/obsidian-vault-mcp?style=flat-square&color=blue)](https://github.com/ebullient/obsidian-vault-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ebullient/obsidian-vault-mcp?style=flat-square&color=yellow)](https://github.com/ebullient/obsidian-vault-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ebullient/obsidian-vault-mcp?style=flat-square&color=blue)](https://github.com/ebullient/obsidian-vault-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP tool allowing Open WebUI or Claude Desktop to retrieve files from your vault
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ ebullient/obsidian-vault-mcp 是一个基于 Model Context Protocol（MCP）的�
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 50/100 |
-| outlook | 50/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

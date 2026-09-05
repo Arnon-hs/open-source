@@ -1,6 +1,6 @@
 # ZLKong/Awesome-Collection-Token-Reduction
 
-[![Stars](https://img.shields.io/github/stars/ZLKong/Awesome-Collection-Token-Reduction?style=flat-square&color=yellow)](https://github.com/ZLKong/Awesome-Collection-Token-Reduction/stargazers) [![Forks](https://img.shields.io/github/forks/ZLKong/Awesome-Collection-Token-Reduction?style=flat-square&color=blue)](https://github.com/ZLKong/Awesome-Collection-Token-Reduction/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZLKong/Awesome-Collection-Token-Reduction?style=flat-square&color=yellow)](https://github.com/ZLKong/Awesome-Collection-Token-Reduction/stargazers) [![Forks](https://img.shields.io/github/forks/ZLKong/Awesome-Collection-Token-Reduction?style=flat-square&color=blue)](https://github.com/ZLKong/Awesome-Collection-Token-Reduction/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of token reduction (token pruning, merging, clustering, etc.) techniques for ML/AI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ZLKong/Awesome-Collection-Token-Reduction 是一个开源项目，提供了多�
 | forks | 33/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

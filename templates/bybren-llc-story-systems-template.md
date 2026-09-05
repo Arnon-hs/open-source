@@ -1,6 +1,6 @@
 # bybren-llc/story-systems-template
 
-[![Stars](https://img.shields.io/github/stars/bybren-llc/story-systems-template?style=flat-square&color=yellow)](https://github.com/bybren-llc/story-systems-template/stargazers) [![Forks](https://img.shields.io/github/forks/bybren-llc/story-systems-template?style=flat-square&color=blue)](https://github.com/bybren-llc/story-systems-template/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bybren-llc/story-systems-template?style=flat-square&color=yellow)](https://github.com/bybren-llc/story-systems-template/stargazers) [![Forks](https://img.shields.io/github/forks/bybren-llc/story-systems-template?style=flat-square&color=blue)](https://github.com/bybren-llc/story-systems-template/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Creative project template for screenplays, novels, and film production. Multi-AI harness with upstream sync.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ bybren-llc/story-systems-template 的主要价值在于帮助用户快速添加 
 | forks | 24/100 |
 | stars | 37/100 |
 | topics | 88/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

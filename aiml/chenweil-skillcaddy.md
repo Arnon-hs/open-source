@@ -1,6 +1,6 @@
 # chenweil/skillcaddy
 
-[![Stars](https://img.shields.io/github/stars/chenweil/skillcaddy?style=flat-square&color=yellow)](https://github.com/chenweil/skillcaddy/stargazers) [![Forks](https://img.shields.io/github/forks/chenweil/skillcaddy?style=flat-square&color=blue)](https://github.com/chenweil/skillcaddy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenweil/skillcaddy?style=flat-square&color=yellow)](https://github.com/chenweil/skillcaddy/stargazers) [![Forks](https://img.shields.io/github/forks/chenweil/skillcaddy?style=flat-square&color=blue)](https://github.com/chenweil/skillcaddy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; symlink on demand into any project's .agents/skills or  .claude/skills to share across Claude Code, Codex, OpenCode, and Pi.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ chenweil/skillcaddy 的生产可用性为中等。它适合用于原型开发或
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

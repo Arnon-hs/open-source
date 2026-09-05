@@ -1,6 +1,6 @@
 # SCIR-HI/Huatuo-Llama-Med-Chinese
 
-[![Stars](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=flat-square&color=yellow)](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/stargazers) [![Forks](https://img.shields.io/github/forks/SCIR-HI/Huatuo-Llama-Med-Chinese?style=flat-square&color=blue)](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=flat-square&color=yellow)](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/stargazers) [![Forks](https://img.shields.io/github/forks/SCIR-HI/Huatuo-Llama-Med-Chinese?style=flat-square&color=blue)](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 498 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ SCIR-HI/Huatuo-Llama-Med-Chinese - это открытый исходный пр
 | forks | 67/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

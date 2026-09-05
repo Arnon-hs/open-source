@@ -1,6 +1,6 @@
 # maplibre/maplibre-gl-js
 
-[![Stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=flat-square&color=yellow)](https://github.com/maplibre/maplibre-gl-js/stargazers) [![Forks](https://img.shields.io/github/forks/maplibre/maplibre-gl-js?style=flat-square&color=blue)](https://github.com/maplibre/maplibre-gl-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=flat-square&color=yellow)](https://github.com/maplibre/maplibre-gl-js/stargazers) [![Forks](https://img.shields.io/github/forks/maplibre/maplibre-gl-js?style=flat-square&color=blue)](https://github.com/maplibre/maplibre-gl-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MapLibre GL JS - Interactive vector tile maps in the browser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ MapLibre GL JS 是一个基于 WebGL 的开源库，能够在浏览器中渲
 | forks | 76/100 |
 | stars | 86/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Oasis-Enterprise/mylo
 
-[![Stars](https://img.shields.io/github/stars/Oasis-Enterprise/mylo?style=flat-square&color=yellow)](https://github.com/Oasis-Enterprise/mylo/stargazers) [![Forks](https://img.shields.io/github/forks/Oasis-Enterprise/mylo?style=flat-square&color=blue)](https://github.com/Oasis-Enterprise/mylo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Oasis-Enterprise/mylo?style=flat-square&color=yellow)](https://github.com/Oasis-Enterprise/mylo/stargazers) [![Forks](https://img.shields.io/github/forks/Oasis-Enterprise/mylo?style=flat-square&color=blue)](https://github.com/Oasis-Enterprise/mylo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent for Home Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Oasis-Enterprise/mylo 的生产可用性被评估为中等（Medium）。它可�
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 37/100 |
-| recency | 40/100 |
+| outlook | 56/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

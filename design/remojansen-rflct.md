@@ -1,6 +1,6 @@
 # remojansen/rflct
 
-[![Stars](https://img.shields.io/github/stars/remojansen/rflct?style=flat-square&color=yellow)](https://github.com/remojansen/rflct/stargazers) [![Forks](https://img.shields.io/github/forks/remojansen/rflct?style=flat-square&color=blue)](https://github.com/remojansen/rflct/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remojansen/rflct?style=flat-square&color=yellow)](https://github.com/remojansen/rflct/stargazers) [![Forks](https://img.shields.io/github/forks/remojansen/rflct?style=flat-square&color=blue)](https://github.com/remojansen/rflct/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Ahead-of-time reflect metadata for TypeScript 7. Injects design:symbols, design:paramtypes, design:properties, and design:class at build time — no decorators, no emitDecoratorMetadata.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ remojansen/rflct：remojansen/rflct may be useful when its README and activity m
 | forks | 0/100 |
 | stars | 10/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 48/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 43/100 |
+| recency | 80/100 |
 | adoption | 7/100 |
-| production | 62/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # omnigent-ai/omnigent
 
-[![Stars](https://img.shields.io/github/stars/omnigent-ai/omnigent?style=flat-square&color=yellow)](https://github.com/omnigent-ai/omnigent/stargazers) [![Forks](https://img.shields.io/github/forks/omnigent-ai/omnigent?style=flat-square&color=blue)](https://github.com/omnigent-ai/omnigent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omnigent-ai/omnigent?style=flat-square&color=yellow)](https://github.com/omnigent-ai/omnigent/stargazers) [![Forks](https://img.shields.io/github/forks/omnigent-ai/omnigent?style=flat-square&color=blue)](https://github.com/omnigent-ai/omnigent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 505 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ omnigent-ai/omnigent：omnigent-ai/omnigent helps turn isolated prompts and tool
 | forks | 68/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 85/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

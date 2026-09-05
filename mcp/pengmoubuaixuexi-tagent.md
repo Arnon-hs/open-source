@@ -1,6 +1,6 @@
 # pengmoubuaixuexi/TAgent
 
-[![Stars](https://img.shields.io/github/stars/pengmoubuaixuexi/TAgent?style=flat-square&color=yellow)](https://github.com/pengmoubuaixuexi/TAgent/stargazers) [![Forks](https://img.shields.io/github/forks/pengmoubuaixuexi/TAgent?style=flat-square&color=blue)](https://github.com/pengmoubuaixuexi/TAgent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pengmoubuaixuexi/TAgent?style=flat-square&color=yellow)](https://github.com/pengmoubuaixuexi/TAgent/stargazers) [![Forks](https://img.shields.io/github/forks/pengmoubuaixuexi/TAgent?style=flat-square&color=blue)](https://github.com/pengmoubuaixuexi/TAgent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > TAgent 是一个基于 Java 17、Spring Boot、Spring AI 和 DDD 分层构建的 AI Agent 工程实践项目。  它不是只封装一次模型调用，而是覆盖了一次 Agent 请求从接入、路由、运行时装配、规划执行、RAG、记忆、MCP 工具治理、人工审批、执行中干预，到 SSE 流式输出和全链路观测的完整过程。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ TAgent 的生产可用性为中等。这意味着它适合于开发原型或内�
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

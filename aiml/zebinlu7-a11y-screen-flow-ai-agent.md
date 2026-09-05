@@ -1,6 +1,6 @@
 # zebinlu7-a11y/screen-flow-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/zebinlu7-a11y/screen-flow-ai-agent?style=flat-square&color=yellow)](https://github.com/zebinlu7-a11y/screen-flow-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/zebinlu7-a11y/screen-flow-ai-agent?style=flat-square&color=blue)](https://github.com/zebinlu7-a11y/screen-flow-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zebinlu7-a11y/screen-flow-ai-agent?style=flat-square&color=yellow)](https://github.com/zebinlu7-a11y/screen-flow-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/zebinlu7-a11y/screen-flow-ai-agent?style=flat-square&color=blue)](https://github.com/zebinlu7-a11y/screen-flow-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 智能截图解析悬浮窗 — 截图 + 多模态大模型 = 即时 AI 回答，基于LangGraph
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -155,11 +155,11 @@ zebinlu7-a11y/screen-flow-ai-agent 是一个基于 LangGraph 的智能截图解�
 | forks | 19/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

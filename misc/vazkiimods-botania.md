@@ -1,6 +1,6 @@
 # VazkiiMods/Botania
 
-[![Stars](https://img.shields.io/github/stars/VazkiiMods/Botania?style=flat-square&color=yellow)](https://github.com/VazkiiMods/Botania/stargazers) [![Forks](https://img.shields.io/github/forks/VazkiiMods/Botania?style=flat-square&color=blue)](https://github.com/VazkiiMods/Botania/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VazkiiMods/Botania?style=flat-square&color=yellow)](https://github.com/VazkiiMods/Botania/stargazers) [![Forks](https://img.shields.io/github/forks/VazkiiMods/Botania?style=flat-square&color=blue)](https://github.com/VazkiiMods/Botania/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A tech mod for Minecraft themed around the magic of nature and plant life.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 571 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ VazkiiMods/Botania 是一款基于自然与植物魔法的 Minecraft 科技模�
 | forks | 69/100 |
 | stars | 67/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

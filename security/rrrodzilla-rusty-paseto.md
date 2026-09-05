@@ -1,6 +1,6 @@
 # rrrodzilla/rusty_paseto
 
-[![Stars](https://img.shields.io/github/stars/rrrodzilla/rusty_paseto?style=flat-square&color=yellow)](https://github.com/rrrodzilla/rusty_paseto/stargazers) [![Forks](https://img.shields.io/github/forks/rrrodzilla/rusty_paseto?style=flat-square&color=blue)](https://github.com/rrrodzilla/rusty_paseto/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rrrodzilla/rusty_paseto?style=flat-square&color=yellow)](https://github.com/rrrodzilla/rusty_paseto/stargazers) [![Forks](https://img.shields.io/github/forks/rrrodzilla/rusty_paseto?style=flat-square&color=blue)](https://github.com/rrrodzilla/rusty_paseto/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A type-driven, ergonomic RUST implementation of the PASETO protocol for secure stateless tokens.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ rrrodzilla/rusty_paseto 是一个基于 Rust 的 PASETO（Platform-Agnostic Secu
 | forks | 29/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 46/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 48/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

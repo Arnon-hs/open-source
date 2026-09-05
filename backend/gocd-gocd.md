@@ -1,6 +1,6 @@
 # gocd/gocd
 
-[![Stars](https://img.shields.io/github/stars/gocd/gocd?style=flat-square&color=yellow)](https://github.com/gocd/gocd/stargazers) [![Forks](https://img.shields.io/github/forks/gocd/gocd?style=flat-square&color=blue)](https://github.com/gocd/gocd/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gocd/gocd?style=flat-square&color=yellow)](https://github.com/gocd/gocd/stargazers) [![Forks](https://img.shields.io/github/forks/gocd/gocd?style=flat-square&color=blue)](https://github.com/gocd/gocd/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > GoCD - Continuous Delivery server main repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 979 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend
+Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ GoCD 是 ThoughtWorks 开源的持续交付（Continuous Delivery）服务器，
 | forks | 75/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

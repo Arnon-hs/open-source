@@ -1,6 +1,6 @@
 # ghobs91/project-agora-muse
 
-[![Stars](https://img.shields.io/github/stars/ghobs91/project-agora-muse?style=flat-square&color=yellow)](https://github.com/ghobs91/project-agora-muse/stargazers) [![Forks](https://img.shields.io/github/forks/ghobs91/project-agora-muse?style=flat-square&color=blue)](https://github.com/ghobs91/project-agora-muse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghobs91/project-agora-muse?style=flat-square&color=yellow)](https://github.com/ghobs91/project-agora-muse/stargazers) [![Forks](https://img.shields.io/github/forks/ghobs91/project-agora-muse?style=flat-square&color=blue)](https://github.com/ghobs91/project-agora-muse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #opensource by @andrew.bsky.social
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | mastodon |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Agora 的生产可用性为中等（Medium），适合用于内部工作流或�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 32/100 |
-| quality | 24/100 |
-| recency | 40/100 |
+| outlook | 46/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 39/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

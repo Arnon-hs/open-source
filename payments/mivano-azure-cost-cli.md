@@ -1,6 +1,6 @@
 # mivano/azure-cost-cli
 
-[![Stars](https://img.shields.io/github/stars/mivano/azure-cost-cli?style=flat-square&color=yellow)](https://github.com/mivano/azure-cost-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mivano/azure-cost-cli?style=flat-square&color=blue)](https://github.com/mivano/azure-cost-cli/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mivano/azure-cost-cli?style=flat-square&color=yellow)](https://github.com/mivano/azure-cost-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mivano/azure-cost-cli?style=flat-square&color=blue)](https://github.com/mivano/azure-cost-cli/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool to perform cost analysis on your Azure subscription
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · DevTools
+Payments · Cloud & Storage · DevTools
 
 ## 📝 Summary
 
@@ -93,15 +93,15 @@ mivano/azure-cost-cli is a C#‑based command‑line utility that lets teams que
 | forks | 55/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-09-04 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · Documents
 
 ## 📝 Summary
 
@@ -73,7 +73,7 @@ Librarian 是一款本地 eBook‑to‑Markdown 管道，支持 MCP 并进行引
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

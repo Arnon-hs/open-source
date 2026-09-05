@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Security
+MCP · Automation · DevTools · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ jar-analyzer/jar-analyzer：jar-analyzer/jar-analyzer helps connect AI assistant
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

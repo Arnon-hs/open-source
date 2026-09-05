@@ -1,6 +1,6 @@
 # quilin-ai/agent-bridge
 
-[![Stars](https://img.shields.io/github/stars/quilin-ai/agent-bridge?style=flat-square&color=yellow)](https://github.com/quilin-ai/agent-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/quilin-ai/agent-bridge?style=flat-square&color=blue)](https://github.com/quilin-ai/agent-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quilin-ai/agent-bridge?style=flat-square&color=yellow)](https://github.com/quilin-ai/agent-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/quilin-ai/agent-bridge?style=flat-square&color=blue)](https://github.com/quilin-ai/agent-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ quilin-ai/agent-bridge 是一款本地实时桥接工具，能够在 Claude Co
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

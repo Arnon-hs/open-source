@@ -1,6 +1,6 @@
 # punitarani/fli
 
-[![Stars](https://img.shields.io/github/stars/punitarani/fli?style=flat-square&color=yellow)](https://github.com/punitarani/fli/stargazers) [![Forks](https://img.shields.io/github/forks/punitarani/fli?style=flat-square&color=blue)](https://github.com/punitarani/fli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/punitarani/fli?style=flat-square&color=yellow)](https://github.com/punitarani/fli/stargazers) [![Forks](https://img.shields.io/github/forks/punitarani/fli?style=flat-square&color=blue)](https://github.com/punitarani/fli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Google Flights MCP and Python Library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ punitarani / fli 是一个基于 Google Flights 的 **Model Context Protocol
 | forks | 61/100 |
 | stars | 72/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 58/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

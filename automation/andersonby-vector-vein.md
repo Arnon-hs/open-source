@@ -1,6 +1,6 @@
 # AndersonBY/vector-vein
 
-[![Stars](https://img.shields.io/github/stars/AndersonBY/vector-vein?style=flat-square&color=yellow)](https://github.com/AndersonBY/vector-vein/stargazers) [![Forks](https://img.shields.io/github/forks/AndersonBY/vector-vein?style=flat-square&color=blue)](https://github.com/AndersonBY/vector-vein/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AndersonBY/vector-vein?style=flat-square&color=yellow)](https://github.com/AndersonBY/vector-vein/stargazers) [![Forks](https://img.shields.io/github/forks/AndersonBY/vector-vein?style=flat-square&color=blue)](https://github.com/AndersonBY/vector-vein/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 942 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ AndersonBY/vector-vein 的生产可用性为中等（Medium）。它适合用于
 | forks | 54/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 62/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # emperorclaw/emperorclaw
 
-[![Stars](https://img.shields.io/github/stars/emperorclaw/emperorclaw?style=flat-square&color=yellow)](https://github.com/emperorclaw/emperorclaw/stargazers) [![Forks](https://img.shields.io/github/forks/emperorclaw/emperorclaw?style=flat-square&color=blue)](https://github.com/emperorclaw/emperorclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emperorclaw/emperorclaw?style=flat-square&color=yellow)](https://github.com/emperorclaw/emperorclaw/stargazers) [![Forks](https://img.shields.io/github/forks/emperorclaw/emperorclaw?style=flat-square&color=blue)](https://github.com/emperorclaw/emperorclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Introduce AI to your company workspace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ emperorclaw/emperorclaw 的生产可用性为中等（Medium）。它适合用�
 | forks | 15/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

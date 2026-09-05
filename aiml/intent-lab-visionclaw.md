@@ -1,6 +1,6 @@
 # Intent-Lab/VisionClaw
 
-[![Stars](https://img.shields.io/github/stars/Intent-Lab/VisionClaw?style=flat-square&color=yellow)](https://github.com/Intent-Lab/VisionClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Intent-Lab/VisionClaw?style=flat-square&color=blue)](https://github.com/Intent-Lab/VisionClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Intent-Lab/VisionClaw?style=flat-square&color=yellow)](https://github.com/Intent-Lab/VisionClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Intent-Lab/VisionClaw?style=flat-square&color=blue)](https://github.com/Intent-Lab/VisionClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 478 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Intent-Lab/VisionClaw 的价值在于可以帮助开发者快速构建 AI 功能
 | forks | 67/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

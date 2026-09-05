@@ -1,6 +1,6 @@
 # metiu1/tube-assistant
 
-[![Stars](https://img.shields.io/github/stars/metiu1/tube-assistant?style=flat-square&color=yellow)](https://github.com/metiu1/tube-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/metiu1/tube-assistant?style=flat-square&color=blue)](https://github.com/metiu1/tube-assistant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metiu1/tube-assistant?style=flat-square&color=yellow)](https://github.com/metiu1/tube-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/metiu1/tube-assistant?style=flat-square&color=blue)](https://github.com/metiu1/tube-assistant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous YouTube AI agent: LLM script, TTS voice, stock clips, FFmpeg editing, AI thumbnail, auto-upload — 100% free, Telegram-controlled.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Metiu1/tube-assistant 是一个自主的 YouTube AI 代理，利用 LLM、TTS �
 | forks | 12/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

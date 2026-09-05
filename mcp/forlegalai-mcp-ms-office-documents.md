@@ -1,6 +1,6 @@
 # ForLegalAI/mcp-ms-office-documents
 
-[![Stars](https://img.shields.io/github/stars/ForLegalAI/mcp-ms-office-documents?style=flat-square&color=yellow)](https://github.com/ForLegalAI/mcp-ms-office-documents/stargazers) [![Forks](https://img.shields.io/github/forks/ForLegalAI/mcp-ms-office-documents?style=flat-square&color=blue)](https://github.com/ForLegalAI/mcp-ms-office-documents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ForLegalAI/mcp-ms-office-documents?style=flat-square&color=yellow)](https://github.com/ForLegalAI/mcp-ms-office-documents/stargazers) [![Forks](https://img.shields.io/github/forks/ForLegalAI/mcp-ms-office-documents?style=flat-square&color=blue)](https://github.com/ForLegalAI/mcp-ms-office-documents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server providing tools to create Ms Office documents like presentations, emails, spreadsheets and word docs (pptx, docx, eml, xlsx)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ ForLegalAI/mcp‑ms‑office‑documents 是一个基于 Model Context Proto
 | forks | 36/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

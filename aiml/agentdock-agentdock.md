@@ -1,6 +1,6 @@
 # AgentDock/AgentDock
 
-[![Stars](https://img.shields.io/github/stars/AgentDock/AgentDock?style=flat-square&color=yellow)](https://github.com/AgentDock/AgentDock/stargazers) [![Forks](https://img.shields.io/github/forks/AgentDock/AgentDock?style=flat-square&color=blue)](https://github.com/AgentDock/AgentDock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentDock/AgentDock?style=flat-square&color=yellow)](https://github.com/AgentDock/AgentDock/stargazers) [![Forks](https://img.shields.io/github/forks/AgentDock/AgentDock?style=flat-square&color=blue)](https://github.com/AgentDock/AgentDock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Build Anything with AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ AgentDock/AgentDock 的生产可用性很高
 | forks | 52/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

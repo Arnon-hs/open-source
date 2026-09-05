@@ -1,6 +1,6 @@
 # voxell-tech/velyst
 
-[![Stars](https://img.shields.io/github/stars/voxell-tech/velyst?style=flat-square&color=yellow)](https://github.com/voxell-tech/velyst/stargazers) [![Forks](https://img.shields.io/github/forks/voxell-tech/velyst?style=flat-square&color=blue)](https://github.com/voxell-tech/velyst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voxell-tech/velyst?style=flat-square&color=yellow)](https://github.com/voxell-tech/velyst/stargazers) [![Forks](https://img.shields.io/github/forks/voxell-tech/velyst?style=flat-square&color=blue)](https://github.com/voxell-tech/velyst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive Typst content creator using Vello and Bevy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation
+Content Creation · Design
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ Velyst（voxell-tech/velyst）是一个基于 Vello 渲染引擎和 Bevy 游戏�
 | forks | 26/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

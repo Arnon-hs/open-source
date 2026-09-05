@@ -1,6 +1,6 @@
 # eclipse-ee4j/cargotracker
 
-[![Stars](https://img.shields.io/github/stars/eclipse-ee4j/cargotracker?style=flat-square&color=yellow)](https://github.com/eclipse-ee4j/cargotracker/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-ee4j/cargotracker?style=flat-square&color=blue)](https://github.com/eclipse-ee4j/cargotracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eclipse-ee4j/cargotracker?style=flat-square&color=yellow)](https://github.com/eclipse-ee4j/cargotracker/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-ee4j/cargotracker?style=flat-square&color=blue)](https://github.com/eclipse-ee4j/cargotracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The project demonstrates how you can develop applications with Jakarta EE using widely adopted architectural best practices like Domain-Driven Design (DDD).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ eclipse-ee4j/cargotracker是一个开源项目，展示了如何使用 Jakarta E
 | forks | 57/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

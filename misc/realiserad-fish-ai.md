@@ -1,6 +1,6 @@
 # Realiserad/fish-ai
 
-[![Stars](https://img.shields.io/github/stars/Realiserad/fish-ai?style=flat-square&color=yellow)](https://github.com/Realiserad/fish-ai/stargazers) [![Forks](https://img.shields.io/github/forks/Realiserad/fish-ai?style=flat-square&color=blue)](https://github.com/Realiserad/fish-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Realiserad/fish-ai?style=flat-square&color=yellow)](https://github.com/Realiserad/fish-ai/stargazers) [![Forks](https://img.shields.io/github/forks/Realiserad/fish-ai?style=flat-square&color=blue)](https://github.com/Realiserad/fish-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 528 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ Realiserad/fish‑ai 为 Fish Shell 注入大语言模型（LLM）能力，让�
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 41/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

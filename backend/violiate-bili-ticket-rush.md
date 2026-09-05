@@ -1,6 +1,6 @@
 # Violiate/bili_ticket_rush
 
-[![Stars](https://img.shields.io/github/stars/Violiate/bili_ticket_rush?style=flat-square&color=yellow)](https://github.com/Violiate/bili_ticket_rush/stargazers) [![Forks](https://img.shields.io/github/forks/Violiate/bili_ticket_rush?style=flat-square&color=blue)](https://github.com/Violiate/bili_ticket_rush/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Violiate/bili_ticket_rush?style=flat-square&color=yellow)](https://github.com/Violiate/bili_ticket_rush/stargazers) [![Forks](https://img.shields.io/github/forks/Violiate/bili_ticket_rush?style=flat-square&color=blue)](https://github.com/Violiate/bili_ticket_rush/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 |超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 901 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,11 +122,11 @@ Violiate/bili_ticket_rush 是一款基于 Rust 开发的异步多线程抢票工
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # dirac-run/dirac
 
-[![Stars](https://img.shields.io/github/stars/dirac-run/dirac?style=flat-square&color=yellow)](https://github.com/dirac-run/dirac/stargazers) [![Forks](https://img.shields.io/github/forks/dirac-run/dirac?style=flat-square&color=blue)](https://github.com/dirac-run/dirac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dirac-run/dirac?style=flat-square&color=yellow)](https://github.com/dirac-run/dirac/stargazers) [![Forks](https://img.shields.io/github/forks/dirac-run/dirac?style=flat-square&color=blue)](https://github.com/dirac-run/dirac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel operations, AST manipulation and many many other optimizations.  https://dirac.run/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Dirac 的生产可用性为中等，适合用于原型或内部工作流，需�
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

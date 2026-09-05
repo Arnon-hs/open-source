@@ -1,6 +1,6 @@
 # open-source-cooperative/keyring-rs
 
-[![Stars](https://img.shields.io/github/stars/open-source-cooperative/keyring-rs?style=flat-square&color=yellow)](https://github.com/open-source-cooperative/keyring-rs/stargazers) [![Forks](https://img.shields.io/github/forks/open-source-cooperative/keyring-rs?style=flat-square&color=blue)](https://github.com/open-source-cooperative/keyring-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-source-cooperative/keyring-rs?style=flat-square&color=yellow)](https://github.com/open-source-cooperative/keyring-rs/stargazers) [![Forks](https://img.shields.io/github/forks/open-source-cooperative/keyring-rs?style=flat-square&color=blue)](https://github.com/open-source-cooperative/keyring-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform library and utility to manage passwords
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 726 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ open-source-cooperative/keyring-rs 是一个跨平台的 Rust 库及命令行工
 | forks | 45/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 48/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

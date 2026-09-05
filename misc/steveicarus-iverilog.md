@@ -1,6 +1,6 @@
 # steveicarus/iverilog
 
-[![Stars](https://img.shields.io/github/stars/steveicarus/iverilog?style=flat-square&color=yellow)](https://github.com/steveicarus/iverilog/stargazers) [![Forks](https://img.shields.io/github/forks/steveicarus/iverilog?style=flat-square&color=blue)](https://github.com/steveicarus/iverilog/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steveicarus/iverilog?style=flat-square&color=yellow)](https://github.com/steveicarus/iverilog/stargazers) [![Forks](https://img.shields.io/github/forks/steveicarus/iverilog?style=flat-square&color=blue)](https://github.com/steveicarus/iverilog/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Icarus Verilog
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 601 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ steveicarus/iverilog 是 Icarus Verilog 的开源实现，提供完整的 Verilo
 | forks | 69/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

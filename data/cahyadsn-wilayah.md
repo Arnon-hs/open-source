@@ -1,6 +1,6 @@
 # cahyadsn/wilayah
 
-[![Stars](https://img.shields.io/github/stars/cahyadsn/wilayah?style=flat-square&color=yellow)](https://github.com/cahyadsn/wilayah/stargazers) [![Forks](https://img.shields.io/github/forks/cahyadsn/wilayah?style=flat-square&color=blue)](https://github.com/cahyadsn/wilayah/network) [![Language](https://img.shields.io/badge/lang-SQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cahyadsn/wilayah?style=flat-square&color=yellow)](https://github.com/cahyadsn/wilayah/stargazers) [![Forks](https://img.shields.io/github/forks/cahyadsn/wilayah?style=flat-square&color=blue)](https://github.com/cahyadsn/wilayah/network) [![Language](https://img.shields.io/badge/lang-SQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+AJaX. Demo link : https://wilayah.cahyadsn.com/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 413 |
 | 💻 **Language** | SQL |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ cahyadsn/wilayah 是一套基于 PHP、MySQL 与 Ajax 的印尼行政区划与�
 | forks | 65/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

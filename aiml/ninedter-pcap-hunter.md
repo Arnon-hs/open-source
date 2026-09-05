@@ -1,6 +1,6 @@
 # ninedter/pcap-hunter
 
-[![Stars](https://img.shields.io/github/stars/ninedter/pcap-hunter?style=flat-square&color=yellow)](https://github.com/ninedter/pcap-hunter/stargazers) [![Forks](https://img.shields.io/github/forks/ninedter/pcap-hunter?style=flat-square&color=blue)](https://github.com/ninedter/pcap-hunter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ninedter/pcap-hunter?style=flat-square&color=yellow)](https://github.com/ninedter/pcap-hunter/stargazers) [![Forks](https://img.shields.io/github/forks/ninedter/pcap-hunter?style=flat-square&color=blue)](https://github.com/ninedter/pcap-hunter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍 AI-assisted threat-hunting workbench for SOC and DFIR analysts — turns raw PCAPs into actionable intel with a Zeek + tshark pipeline, C2/beacon detection, JA3 fingerprinting, MITRE ATT&CK mapping, OSINT enrichment, and multilingual reports from local or cloud LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ ninedter/pcap-hunter 在生产环境中具有中等生产可用
 | forks | 36/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

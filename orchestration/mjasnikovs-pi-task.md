@@ -1,6 +1,6 @@
 # mjasnikovs/pi-task
 
-[![Stars](https://img.shields.io/github/stars/mjasnikovs/pi-task?style=flat-square&color=yellow)](https://github.com/mjasnikovs/pi-task/stargazers) [![Forks](https://img.shields.io/github/forks/mjasnikovs/pi-task?style=flat-square&color=blue)](https://github.com/mjasnikovs/pi-task/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mjasnikovs/pi-task?style=flat-square&color=yellow)](https://github.com/mjasnikovs/pi-task/stargazers) [![Forks](https://img.shields.io/github/forks/mjasnikovs/pi-task?style=flat-square&color=blue)](https://github.com/mjasnikovs/pi-task/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Deterministic spec-orchestration for local LLMs in the pi coding agent — drives prompts through refine→research→grill→compose→critique, with bundled web/docs/fetch worker tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ mjasnikovs/pi-task的生产可用性为中等（Medium），适合用于原型�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

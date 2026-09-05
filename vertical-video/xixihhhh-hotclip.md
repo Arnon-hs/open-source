@@ -1,6 +1,6 @@
 # xixihhhh/hotclip
 
-[![Stars](https://img.shields.io/github/stars/xixihhhh/hotclip?style=flat-square&color=yellow)](https://github.com/xixihhhh/hotclip/stargazers) [![Forks](https://img.shields.io/github/forks/xixihhhh/hotclip?style=flat-square&color=blue)](https://github.com/xixihhhh/hotclip/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xixihhhh/hotclip?style=flat-square&color=yellow)](https://github.com/xixihhhh/hotclip/stargazers) [![Forks](https://img.shields.io/github/forks/xixihhhh/hotclip?style=flat-square&color=blue)](https://github.com/xixihhhh/hotclip/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频——AI 找高光金句、自动加字幕、横屏转竖屏,本地运行无水印不上传 | Free open-source Opus Clip alternative, 100% local: AI clips long videos & livestream VODs into viral 9:16 shorts. No credits, no watermark, no uploads. Win/macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Vertical Video · Video Editing · MCP · AI/ML · Backend
+Vertical Video · Video Editing · MCP · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -106,11 +106,11 @@ xixihhhh/hotclip 的生产可用性非常高，最近有活动，采用率和生
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

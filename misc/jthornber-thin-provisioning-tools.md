@@ -1,6 +1,6 @@
 # jthornber/thin-provisioning-tools
 
-[![Stars](https://img.shields.io/github/stars/jthornber/thin-provisioning-tools?style=flat-square&color=yellow)](https://github.com/jthornber/thin-provisioning-tools/stargazers) [![Forks](https://img.shields.io/github/forks/jthornber/thin-provisioning-tools?style=flat-square&color=blue)](https://github.com/jthornber/thin-provisioning-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jthornber/thin-provisioning-tools?style=flat-square&color=yellow)](https://github.com/jthornber/thin-provisioning-tools/stargazers) [![Forks](https://img.shields.io/github/forks/jthornber/thin-provisioning-tools?style=flat-square&color=blue)](https://github.com/jthornber/thin-provisioning-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Thin‑Provisioning‑Tools 是一个用 Rust 编写的轻量级块设备薄供�
 | forks | 48/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 39/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

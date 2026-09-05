@@ -1,6 +1,6 @@
 # joske/yserver
 
-[![Stars](https://img.shields.io/github/stars/joske/yserver?style=flat-square&color=yellow)](https://github.com/joske/yserver/stargazers) [![Forks](https://img.shields.io/github/forks/joske/yserver?style=flat-square&color=blue)](https://github.com/joske/yserver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joske/yserver?style=flat-square&color=yellow)](https://github.com/joske/yserver/stargazers) [![Forks](https://img.shields.io/github/forks/joske/yserver?style=flat-square&color=blue)](https://github.com/joske/yserver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A modern X11 server written from scratch in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ joske/yserver 是用 Rust 从零实现的现代 X11 服务器，具备高性能�
 | forks | 34/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

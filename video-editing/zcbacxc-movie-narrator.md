@@ -1,6 +1,6 @@
 # zcbacxc/movie-narrator
 
-[![Stars](https://img.shields.io/github/stars/zcbacxc/movie-narrator?style=flat-square&color=yellow)](https://github.com/zcbacxc/movie-narrator/stargazers) [![Forks](https://img.shields.io/github/forks/zcbacxc/movie-narrator?style=flat-square&color=blue)](https://github.com/zcbacxc/movie-narrator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zcbacxc/movie-narrator?style=flat-square&color=yellow)](https://github.com/zcbacxc/movie-narrator/stargazers) [![Forks](https://img.shields.io/github/forks/zcbacxc/movie-narrator?style=flat-square&color=blue)](https://github.com/zcbacxc/movie-narrator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🎬 Generate narrated movie recap videos from a single prompt.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ zcbacxc/movie-narrator：zcbacxc/movie-narrator helps turn media editing, captio
 | forks | 36/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

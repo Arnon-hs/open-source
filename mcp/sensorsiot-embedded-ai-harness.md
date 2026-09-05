@@ -1,6 +1,6 @@
 # SensorsIot/Embedded-AI-Harness
 
-[![Stars](https://img.shields.io/github/stars/SensorsIot/Embedded-AI-Harness?style=flat-square&color=yellow)](https://github.com/SensorsIot/Embedded-AI-Harness/stargazers) [![Forks](https://img.shields.io/github/forks/SensorsIot/Embedded-AI-Harness?style=flat-square&color=blue)](https://github.com/SensorsIot/Embedded-AI-Harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SensorsIot/Embedded-AI-Harness?style=flat-square&color=yellow)](https://github.com/SensorsIot/Embedded-AI-Harness/stargazers) [![Forks](https://img.shields.io/github/forks/SensorsIot/Embedded-AI-Harness?style=flat-square&color=blue)](https://github.com/SensorsIot/Embedded-AI-Harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI Closed-Loop Programming for embedded systems — the AI writes, flashes, and tests firmware on real hardware until the tests run clean. Spec to silicon, hands off.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ SensorsIot/Embedded-AI-Harness 帮助连接 AI 代理到真实工具和数据通
 | forks | 43/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

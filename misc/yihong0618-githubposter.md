@@ -1,6 +1,6 @@
 # yihong0618/GitHubPoster
 
-[![Stars](https://img.shields.io/github/stars/yihong0618/GitHubPoster?style=flat-square&color=yellow)](https://github.com/yihong0618/GitHubPoster/stargazers) [![Forks](https://img.shields.io/github/forks/yihong0618/GitHubPoster?style=flat-square&color=blue)](https://github.com/yihong0618/GitHubPoster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yihong0618/GitHubPoster?style=flat-square&color=yellow)](https://github.com/yihong0618/GitHubPoster/stargazers) [![Forks](https://img.shields.io/github/forks/yihong0618/GitHubPoster?style=flat-square&color=blue)](https://github.com/yihong0618/GitHubPoster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Make everything a GitHub svg poster and Skyline!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ GitHubPoster（yihong0618/GitHubPoster）是一款用 Python 编写的开源工�
 | forks | 61/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

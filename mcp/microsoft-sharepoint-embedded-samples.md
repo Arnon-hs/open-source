@@ -1,6 +1,6 @@
 # microsoft/SharePoint-Embedded-Samples
 
-[![Stars](https://img.shields.io/github/stars/microsoft/SharePoint-Embedded-Samples?style=flat-square&color=yellow)](https://github.com/microsoft/SharePoint-Embedded-Samples/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/SharePoint-Embedded-Samples?style=flat-square&color=blue)](https://github.com/microsoft/SharePoint-Embedded-Samples/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/SharePoint-Embedded-Samples?style=flat-square&color=yellow)](https://github.com/microsoft/SharePoint-Embedded-Samples/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/SharePoint-Embedded-Samples?style=flat-square&color=blue)](https://github.com/microsoft/SharePoint-Embedded-Samples/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Official samples and developer tools for building on SharePoint Embedded, the document storage API on Microsoft 365. Includes React, TypeScript, and ASP.NET Core boilerplates, an MCP server for AI coding agents, Copilot and Power Platform assets, Postman and Bruno collections, and admin scripts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · Documents · Backend
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ Microsoft/SharePoint-Embedded-Samples 是一个开源项目，旨在帮助开发
 | forks | 44/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ mcneel/RhinoMCP：mcneel/RhinoMCP helps connect AI assistants to real tools and 
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

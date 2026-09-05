@@ -1,6 +1,6 @@
 # khaneliman/khanelinix
 
-[![Stars](https://img.shields.io/github/stars/khaneliman/khanelinix?style=flat-square&color=yellow)](https://github.com/khaneliman/khanelinix/stargazers) [![Forks](https://img.shields.io/github/forks/khaneliman/khanelinix?style=flat-square&color=blue)](https://github.com/khaneliman/khanelinix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khaneliman/khanelinix?style=flat-square&color=yellow)](https://github.com/khaneliman/khanelinix/stargazers) [![Forks](https://img.shields.io/github/forks/khaneliman/khanelinix?style=flat-square&color=blue)](https://github.com/khaneliman/khanelinix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Nix configuration for my systems supporting macOS, NixOS, and WSL.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ khaneliman/khanelinix is a public Nix configuration repository that lets you man
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 47/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

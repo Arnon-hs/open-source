@@ -1,6 +1,6 @@
 # ShadowLoveElysia/AiNiee-Next
 
-[![Stars](https://img.shields.io/github/stars/ShadowLoveElysia/AiNiee-Next?style=flat-square&color=yellow)](https://github.com/ShadowLoveElysia/AiNiee-Next/stargazers) [![Forks](https://img.shields.io/github/forks/ShadowLoveElysia/AiNiee-Next?style=flat-square&color=blue)](https://github.com/ShadowLoveElysia/AiNiee-Next/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShadowLoveElysia/AiNiee-Next?style=flat-square&color=yellow)](https://github.com/ShadowLoveElysia/AiNiee-Next/stargazers) [![Forks](https://img.shields.io/github/forks/ShadowLoveElysia/AiNiee-Next?style=flat-square&color=blue)](https://github.com/ShadowLoveElysia/AiNiee-Next/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ An optimized,Next for AiNiee powered by UV. Features intelligent format conversion, multi-profile config system, and stabilized TUI. ⚡ 基于 UV 驱动的 AiNiee 优化版 Next 提供智能化格式输入/转换、多配置文件系统及高度稳定的 TUI 界面，专为高效批处理设计
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ ShadowLoveElysia/AiNiee-Next 是基于 UV 驱动的 AiNiee 优化版 Next，实�
 | forks | 23/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

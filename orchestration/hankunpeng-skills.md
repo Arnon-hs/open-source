@@ -1,6 +1,6 @@
 # hankunpeng/skills
 
-[![Stars](https://img.shields.io/github/stars/hankunpeng/skills?style=flat-square&color=yellow)](https://github.com/hankunpeng/skills/stargazers) [![Forks](https://img.shields.io/github/forks/hankunpeng/skills?style=flat-square&color=blue)](https://github.com/hankunpeng/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hankunpeng/skills?style=flat-square&color=yellow)](https://github.com/hankunpeng/skills/stargazers) [![Forks](https://img.shields.io/github/forks/hankunpeng/skills?style=flat-square&color=blue)](https://github.com/hankunpeng/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of custom AI agent skills for Google Antigravity and the open agent skills ecosystem.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ hankunpeng/skills的生产可用性为中等。它适合用于原型开发或内
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 48/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

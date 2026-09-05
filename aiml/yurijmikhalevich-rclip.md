@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -35,17 +35,15 @@ yRclip is an open‑source command‑line utility that leverages AI image‑embe
 
 ### 中文
 
-yurijmikhalevich/rclip：yurijmikhalevich/rclip helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yurijmikhalevich/rclip：yurijmikhalevich/rclip may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** yurijmikhalevich/rclip helps add AI capability without starting from a blank model stack.
+**Value:** yurijmikhalevich/rclip may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +63,18 @@ yurijmikhalevich/rclip：yurijmikhalevich/rclip helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 58/100 |
-| stars | 63/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

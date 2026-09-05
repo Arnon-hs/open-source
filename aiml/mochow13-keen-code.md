@@ -1,6 +1,6 @@
 # mochow13/keen-code
 
-[![Stars](https://img.shields.io/github/stars/mochow13/keen-code?style=flat-square&color=yellow)](https://github.com/mochow13/keen-code/stargazers) [![Forks](https://img.shields.io/github/forks/mochow13/keen-code?style=flat-square&color=blue)](https://github.com/mochow13/keen-code/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mochow13/keen-code?style=flat-square&color=yellow)](https://github.com/mochow13/keen-code/stargazers) [![Forks](https://img.shields.io/github/forks/mochow13/keen-code?style=flat-square&color=blue)](https://github.com/mochow13/keen-code/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A context-aware and efficient CLI-based coding agent written in Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Keen‑Code（mochow13/keen-code）是一款用 Go 编写的 CLI 编码助手，
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

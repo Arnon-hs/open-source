@@ -1,6 +1,6 @@
 # drbaph/MiniMax-H3-Turbo-Lora-ComfyUI
 
-[![Stars](https://img.shields.io/github/stars/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI?style=flat-square&color=yellow)](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI/stargazers) [![Forks](https://img.shields.io/github/forks/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI?style=flat-square&color=blue)](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI/network) [![Language](https://img.shields.io/badge/lang-minimax-h3-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI?style=flat-square&color=yellow)](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI/stargazers) [![Forks](https://img.shields.io/github/forks/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI?style=flat-square&color=blue)](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI/network) [![Language](https://img.shields.io/badge/lang-minimax-h3-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text to video (text-to-video) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | minimax-h3 |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ drbaph/MiniMax-H3-Turbo-Lora-ComfyUI：drbaph/MiniMax-H3-Turbo-Lora-ComfyUI help
 | forks | 0/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 64/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

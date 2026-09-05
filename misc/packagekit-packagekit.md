@@ -1,6 +1,6 @@
 # PackageKit/PackageKit
 
-[![Stars](https://img.shields.io/github/stars/PackageKit/PackageKit?style=flat-square&color=yellow)](https://github.com/PackageKit/PackageKit/stargazers) [![Forks](https://img.shields.io/github/forks/PackageKit/PackageKit?style=flat-square&color=blue)](https://github.com/PackageKit/PackageKit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PackageKit/PackageKit?style=flat-square&color=yellow)](https://github.com/PackageKit/PackageKit/stargazers) [![Forks](https://img.shields.io/github/forks/PackageKit/PackageKit?style=flat-square&color=blue)](https://github.com/PackageKit/PackageKit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A D-Bus abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ PackageKit 是一个基于 D‑Bus 的抽象层，提供跨发行版、跨架构
 | forks | 57/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

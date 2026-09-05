@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 513 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-06 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ stripe/stripe-go：stripe/stripe-go helps integrate monetization, billing, or PS
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

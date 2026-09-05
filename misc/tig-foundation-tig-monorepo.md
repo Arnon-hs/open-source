@@ -1,6 +1,6 @@
 # tig-foundation/tig-monorepo
 
-[![Stars](https://img.shields.io/github/stars/tig-foundation/tig-monorepo?style=flat-square&color=yellow)](https://github.com/tig-foundation/tig-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/tig-foundation/tig-monorepo?style=flat-square&color=blue)](https://github.com/tig-foundation/tig-monorepo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tig-foundation/tig-monorepo?style=flat-square&color=yellow)](https://github.com/tig-foundation/tig-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/tig-foundation/tig-monorepo?style=flat-square&color=blue)](https://github.com/tig-foundation/tig-monorepo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > TIG is the first coordination protocol designed specifically for algorithmic breakthroughs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ TIG 是专门为算法突破设计的协调协议。它可以帮助开发者实�
 | forks | 45/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

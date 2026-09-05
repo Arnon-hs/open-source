@@ -1,6 +1,6 @@
 # jedisct1/rust-jwt-simple
 
-[![Stars](https://img.shields.io/github/stars/jedisct1/rust-jwt-simple?style=flat-square&color=yellow)](https://github.com/jedisct1/rust-jwt-simple/stargazers) [![Forks](https://img.shields.io/github/forks/jedisct1/rust-jwt-simple?style=flat-square&color=blue)](https://github.com/jedisct1/rust-jwt-simple/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jedisct1/rust-jwt-simple?style=flat-square&color=yellow)](https://github.com/jedisct1/rust-jwt-simple/stargazers) [![Forks](https://img.shields.io/github/forks/jedisct1/rust-jwt-simple?style=flat-square&color=blue)](https://github.com/jedisct1/rust-jwt-simple/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A secure, standard-conformant, easy to use JWT implementation for Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Backend
+Crypto · Backend · Security
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ rust-jwt-simple 的生产可用性很高，主要原因是：
 | forks | 45/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

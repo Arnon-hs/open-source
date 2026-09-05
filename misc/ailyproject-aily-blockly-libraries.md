@@ -1,6 +1,6 @@
 # ailyProject/aily-blockly-libraries
 
-[![Stars](https://img.shields.io/github/stars/ailyProject/aily-blockly-libraries?style=flat-square&color=yellow)](https://github.com/ailyProject/aily-blockly-libraries/stargazers) [![Forks](https://img.shields.io/github/forks/ailyProject/aily-blockly-libraries?style=flat-square&color=blue)](https://github.com/ailyProject/aily-blockly-libraries/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ailyProject/aily-blockly-libraries?style=flat-square&color=yellow)](https://github.com/ailyProject/aily-blockly-libraries/stargazers) [![Forks](https://img.shields.io/github/forks/ailyProject/aily-blockly-libraries?style=flat-square&color=blue)](https://github.com/ailyProject/aily-blockly-libraries/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > aily blockly library registry
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ailyProject/aily‑blockly‑libraries 是一个面向 Blockly 的 AI 组件库�
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

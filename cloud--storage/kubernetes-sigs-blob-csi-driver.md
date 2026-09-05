@@ -1,0 +1,83 @@
+# kubernetes-sigs/blob-csi-driver
+
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/blob-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/blob-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/blob-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/blob-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+
+> Azure Blob Storage CSI driver
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 147 |
+| 🍴 **Forks** | 109 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`k8s-sig-cloud-provider`
+
+## 🎯 Categories
+
+Cloud & Storage · DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+kubernetes-sigs/blob-csi-driver: kubernetes-sigs/blob-csi-driver helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+kubernetes-sigs/blob-csi-driver: open-source проект в категориях Knowledge/RAG, AI/ML, DevOps/Infra. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+kubernetes-sigs/blob-csi-driver：kubernetes-sigs/blob-csi-driver helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** kubernetes-sigs/blob-csi-driver helps make internal knowledge searchable and usable by assistants.
+
+**Best use cases**
+
+- index knowledge bases
+- improve search over documents
+- ground assistant answers
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 147 GitHub stars
+- 109 forks
+- updated 2026-08-22
+- primary language: Go
+- 1 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 51/100 |
+| stars | 46/100 |
+| topics | 13/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
+| adoption | 48/100 |
+| production | 66/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
+
+---
+
+<sub>🔭 Discovered 2026-08-22 · [View on GitHub](https://github.com/kubernetes-sigs/blob-csi-driver) · [← Back to Cloud--storage](./README.md)</sub>

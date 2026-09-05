@@ -1,6 +1,6 @@
 # subinium/SuperLightTUI
 
-[![Stars](https://img.shields.io/github/stars/subinium/SuperLightTUI?style=flat-square&color=yellow)](https://github.com/subinium/SuperLightTUI/stargazers) [![Forks](https://img.shields.io/github/forks/subinium/SuperLightTUI?style=flat-square&color=blue)](https://github.com/subinium/SuperLightTUI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/subinium/SuperLightTUI?style=flat-square&color=yellow)](https://github.com/subinium/SuperLightTUI/stargazers) [![Forks](https://img.shields.io/github/forks/subinium/SuperLightTUI?style=flat-square&color=blue)](https://github.com/subinium/SuperLightTUI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🦀 An immediate-mode Rust TUI framework with flexbox layout and Tailwind-style chaining API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ subinium/SuperLightTUI 是一款基于 Rust 的即时模式（immediate‑mode�
 | forks | 21/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

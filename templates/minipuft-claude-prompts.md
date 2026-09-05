@@ -1,6 +1,6 @@
 # minipuft/claude-prompts
 
-[![Stars](https://img.shields.io/github/stars/minipuft/claude-prompts?style=flat-square&color=yellow)](https://github.com/minipuft/claude-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/minipuft/claude-prompts?style=flat-square&color=blue)](https://github.com/minipuft/claude-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minipuft/claude-prompts?style=flat-square&color=yellow)](https://github.com/minipuft/claude-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/minipuft/claude-prompts?style=flat-square&color=blue)](https://github.com/minipuft/claude-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > MCP prompt template server: hot-reload, thinking frameworks, quality gates
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · MCP · Automation · AI/ML
+Templates · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ minipuft/claude‑prompts 是一个基于 Model Context Protocol（MCP）的 Pro
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # atom2ueki/mcp-server-synology
 
-[![Stars](https://img.shields.io/github/stars/atom2ueki/mcp-server-synology?style=flat-square&color=yellow)](https://github.com/atom2ueki/mcp-server-synology/stargazers) [![Forks](https://img.shields.io/github/forks/atom2ueki/mcp-server-synology?style=flat-square&color=blue)](https://github.com/atom2ueki/mcp-server-synology/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atom2ueki/mcp-server-synology?style=flat-square&color=yellow)](https://github.com/atom2ueki/mcp-server-synology/stargazers) [![Forks](https://img.shields.io/github/forks/atom2ueki/mcp-server-synology?style=flat-square&color=blue)](https://github.com/atom2ueki/mcp-server-synology/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevOps/Infra
+MCP · AI/ML · Backend · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ atom2ueki/mcp-server-synology 是一款在 Synology NAS 上运行的 Model Conte
 | forks | 32/100 |
 | stars | 42/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

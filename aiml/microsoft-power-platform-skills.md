@@ -1,6 +1,6 @@
 # microsoft/power-platform-skills
 
-[![Stars](https://img.shields.io/github/stars/microsoft/power-platform-skills?style=flat-square&color=yellow)](https://github.com/microsoft/power-platform-skills/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/power-platform-skills?style=flat-square&color=blue)](https://github.com/microsoft/power-platform-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/power-platform-skills?style=flat-square&color=yellow)](https://github.com/microsoft/power-platform-skills/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/power-platform-skills?style=flat-square&color=blue)](https://github.com/microsoft/power-platform-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Microsoft Power Platform Skills 由于最近的活跃度、采用率和生态信
 | forks | 49/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

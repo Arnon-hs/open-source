@@ -1,6 +1,6 @@
 # tealbathingsuit/ellekit
 
-[![Stars](https://img.shields.io/github/stars/tealbathingsuit/ellekit?style=flat-square&color=yellow)](https://github.com/tealbathingsuit/ellekit/stargazers) [![Forks](https://img.shields.io/github/forks/tealbathingsuit/ellekit?style=flat-square&color=blue)](https://github.com/tealbathingsuit/ellekit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tealbathingsuit/ellekit?style=flat-square&color=yellow)](https://github.com/tealbathingsuit/ellekit/stargazers) [![Forks](https://img.shields.io/github/forks/tealbathingsuit/ellekit?style=flat-square&color=blue)](https://github.com/tealbathingsuit/ellekit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > yet another tweak injector / tweak hooking library for darwin systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 678 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Ellekit 的生产可用性为中等。它适合用于快速 prototyping 或内�
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

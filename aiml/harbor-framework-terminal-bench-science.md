@@ -1,6 +1,6 @@
 # harbor-framework/terminal-bench-science
 
-[![Stars](https://img.shields.io/github/stars/harbor-framework/terminal-bench-science?style=flat-square&color=yellow)](https://github.com/harbor-framework/terminal-bench-science/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/terminal-bench-science?style=flat-square&color=blue)](https://github.com/harbor-framework/terminal-bench-science/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harbor-framework/terminal-bench-science?style=flat-square&color=yellow)](https://github.com/harbor-framework/terminal-bench-science/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/terminal-bench-science?style=flat-square&color=blue)](https://github.com/harbor-framework/terminal-bench-science/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Harbor‑framework/terminal‑bench‑science 是一个用于在终端环境中�
 | forks | 40/100 |
 | stars | 40/100 |
 | topics | 38/100 |
-| outlook | 49/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

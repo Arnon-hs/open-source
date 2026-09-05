@@ -1,6 +1,6 @@
 # TeamREPENTOGON/REPENTOGON
 
-[![Stars](https://img.shields.io/github/stars/TeamREPENTOGON/REPENTOGON?style=flat-square&color=yellow)](https://github.com/TeamREPENTOGON/REPENTOGON/stargazers) [![Forks](https://img.shields.io/github/forks/TeamREPENTOGON/REPENTOGON?style=flat-square&color=blue)](https://github.com/TeamREPENTOGON/REPENTOGON/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TeamREPENTOGON/REPENTOGON?style=flat-square&color=yellow)](https://github.com/TeamREPENTOGON/REPENTOGON/stargazers) [![Forks](https://img.shields.io/github/forks/TeamREPENTOGON/REPENTOGON?style=flat-square&color=blue)](https://github.com/TeamREPENTOGON/REPENTOGON/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Script extender for The Binding of Isaac: Repentance
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -72,11 +72,11 @@ TeamREPENTOGON/REPENTOGON 是一款针对《以撒的结合：忏悔》的脚本
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

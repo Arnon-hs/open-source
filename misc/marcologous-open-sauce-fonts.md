@@ -1,6 +1,6 @@
 # marcologous/Open-Sauce-Fonts
 
-[![Stars](https://img.shields.io/github/stars/marcologous/Open-Sauce-Fonts?style=flat-square&color=yellow)](https://github.com/marcologous/Open-Sauce-Fonts/stargazers) [![Forks](https://img.shields.io/github/forks/marcologous/Open-Sauce-Fonts?style=flat-square&color=blue)](https://github.com/marcologous/Open-Sauce-Fonts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcologous/Open-Sauce-Fonts?style=flat-square&color=yellow)](https://github.com/marcologous/Open-Sauce-Fonts/stargazers) [![Forks](https://img.shields.io/github/forks/marcologous/Open-Sauce-Fonts?style=flat-square&color=blue)](https://github.com/marcologous/Open-Sauce-Fonts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 669 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Open Sauce Fonts 是一套针对小字号阅读进行专门优化的紧凑�
 | forks | 38/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 45/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

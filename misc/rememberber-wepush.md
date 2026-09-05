@@ -1,6 +1,6 @@
 # rememberber/WePush
 
-[![Stars](https://img.shields.io/github/stars/rememberber/WePush?style=flat-square&color=yellow)](https://github.com/rememberber/WePush/stargazers) [![Forks](https://img.shields.io/github/forks/rememberber/WePush?style=flat-square&color=blue)](https://github.com/rememberber/WePush/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rememberber/WePush?style=flat-square&color=yellow)](https://github.com/rememberber/WePush/stargazers) [![Forks](https://img.shields.io/github/forks/rememberber/WePush?style=flat-square&color=blue)](https://github.com/rememberber/WePush/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,11 +78,11 @@ But the "Score" and categories mention AI/ML, Frontend, value proposition about 
 | forks | 75/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

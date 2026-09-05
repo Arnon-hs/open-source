@@ -1,6 +1,6 @@
 # plmbr/notebook-intelligence
 
-[![Stars](https://img.shields.io/github/stars/plmbr/notebook-intelligence?style=flat-square&color=yellow)](https://github.com/plmbr/notebook-intelligence/stargazers) [![Forks](https://img.shields.io/github/forks/plmbr/notebook-intelligence?style=flat-square&color=blue)](https://github.com/plmbr/notebook-intelligence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plmbr/notebook-intelligence?style=flat-square&color=yellow)](https://github.com/plmbr/notebook-intelligence/stargazers) [![Forks](https://img.shields.io/github/forks/plmbr/notebook-intelligence?style=flat-square&color=blue)](https://github.com/plmbr/notebook-intelligence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A JupyterLab extension supporting Claude Code, Copilot, Ollama, and OpenAI-compatible LLMs, with MCP, skills, plugins, and notebook agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ plmbr/notebook‑intelligence 将零散的 Prompt、代码补全和 LLM 工具�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

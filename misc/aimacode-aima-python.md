@@ -1,6 +1,6 @@
 # aimacode/aima-python
 
-[![Stars](https://img.shields.io/github/stars/aimacode/aima-python?style=flat-square&color=yellow)](https://github.com/aimacode/aima-python/stargazers) [![Forks](https://img.shields.io/github/forks/aimacode/aima-python?style=flat-square&color=blue)](https://github.com/aimacode/aima-python/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aimacode/aima-python?style=flat-square&color=yellow)](https://github.com/aimacode/aima-python/stargazers) [![Forks](https://img.shields.io/github/forks/aimacode/aima-python?style=flat-square&color=blue)](https://github.com/aimacode/aima-python/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ aimacode/aima-python 是一个开源项目，基于 Russell 和 Norvig 的《人
 | forks | 90/100 |
 | stars | 84/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

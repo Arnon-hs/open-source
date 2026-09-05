@@ -1,6 +1,6 @@
 # calagopus/wings
 
-[![Stars](https://img.shields.io/github/stars/calagopus/wings?style=flat-square&color=yellow)](https://github.com/calagopus/wings/stargazers) [![Forks](https://img.shields.io/github/forks/calagopus/wings?style=flat-square&color=blue)](https://github.com/calagopus/wings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calagopus/wings?style=flat-square&color=yellow)](https://github.com/calagopus/wings/stargazers) [![Forks](https://img.shields.io/github/forks/calagopus/wings?style=flat-square&color=blue)](https://github.com/calagopus/wings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Pterodactyl Wings alternative written in Rust with more Speed, more Features and more Maintainability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,11 +122,11 @@ calagopus/wings 具有高生产可用性，适合用于生产环境。它具有�
 | forks | 30/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

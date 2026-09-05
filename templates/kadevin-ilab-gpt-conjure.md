@@ -1,6 +1,6 @@
 # kadevin/ilab-gpt-conjure
 
-[![Stars](https://img.shields.io/github/stars/kadevin/ilab-gpt-conjure?style=flat-square&color=yellow)](https://github.com/kadevin/ilab-gpt-conjure/stargazers) [![Forks](https://img.shields.io/github/forks/kadevin/ilab-gpt-conjure?style=flat-square&color=blue)](https://github.com/kadevin/ilab-gpt-conjure/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kadevin/ilab-gpt-conjure?style=flat-square&color=yellow)](https://github.com/kadevin/ilab-gpt-conjure/stargazers) [![Forks](https://img.shields.io/github/forks/kadevin/ilab-gpt-conjure?style=flat-square&color=blue)](https://github.com/kadevin/ilab-gpt-conjure/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 582 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ ilab‑gpt‑conjure 已具备高可用的生产级特性，适合作为企业�
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 63/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

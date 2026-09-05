@@ -1,6 +1,6 @@
 # datalab-to/surya
 
-[![Stars](https://img.shields.io/github/stars/datalab-to/surya?style=flat-square&color=yellow)](https://github.com/datalab-to/surya/stargazers) [![Forks](https://img.shields.io/github/forks/datalab-to/surya?style=flat-square&color=blue)](https://github.com/datalab-to/surya/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datalab-to/surya?style=flat-square&color=yellow)](https://github.com/datalab-to/surya/stargazers) [![Forks](https://img.shields.io/github/forks/datalab-to/surya?style=flat-square&color=blue)](https://github.com/datalab-to/surya/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > OCR, layout analysis, reading order, table recognition in 90+ languages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ datalab-to/surya 的生产可用性非常高。项目最近有活动，采用率
 | forks | 80/100 |
 | stars | 92/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

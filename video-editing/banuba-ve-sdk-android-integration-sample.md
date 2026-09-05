@@ -1,6 +1,6 @@
 # Banuba/ve-sdk-android-integration-sample
 
-[![Stars](https://img.shields.io/github/stars/Banuba/ve-sdk-android-integration-sample?style=flat-square&color=yellow)](https://github.com/Banuba/ve-sdk-android-integration-sample/stargazers) [![Forks](https://img.shields.io/github/forks/Banuba/ve-sdk-android-integration-sample?style=flat-square&color=blue)](https://github.com/Banuba/ve-sdk-android-integration-sample/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Banuba/ve-sdk-android-integration-sample?style=flat-square&color=yellow)](https://github.com/Banuba/ve-sdk-android-integration-sample/stargazers) [![Forks](https://img.shields.io/github/forks/Banuba/ve-sdk-android-integration-sample?style=flat-square&color=blue)](https://github.com/Banuba/ve-sdk-android-integration-sample/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Integrating Banuba Video Editor SDK with an Android app. Code samples, dependencies, customization options, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-28 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Mobile
+Video Editing · Libraries & SDKs · Mobile
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ Banuba/ve-sdk-android-integration-sample 让 Android 应用快速集成视频编
 | forks | 39/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

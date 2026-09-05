@@ -1,6 +1,6 @@
 # unhappychoice/splashboard
 
-[![Stars](https://img.shields.io/github/stars/unhappychoice/splashboard?style=flat-square&color=yellow)](https://github.com/unhappychoice/splashboard/stargazers) [![Forks](https://img.shields.io/github/forks/unhappychoice/splashboard?style=flat-square&color=blue)](https://github.com/unhappychoice/splashboard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unhappychoice/splashboard?style=flat-square&color=yellow)](https://github.com/unhappychoice/splashboard/stargazers) [![Forks](https://img.shields.io/github/forks/unhappychoice/splashboard?style=flat-square&color=blue)](https://github.com/unhappychoice/splashboard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A customizable terminal splash screen with plugin-based data sources.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ unhappychoice/splashboard 是一款基于插件的可定制终端启动画面工
 | forks | 15/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

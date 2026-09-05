@@ -1,6 +1,6 @@
 # elastic/beats
 
-[![Stars](https://img.shields.io/github/stars/elastic/beats?style=flat-square&color=yellow)](https://github.com/elastic/beats/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/beats?style=flat-square&color=blue)](https://github.com/elastic/beats/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elastic/beats?style=flat-square&color=yellow)](https://github.com/elastic/beats/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/beats?style=flat-square&color=blue)](https://github.com/elastic/beats/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.6k |
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Beats 是一套轻量级的采集器（Filebeat、Metricbeat、Heartbeat 等）�
 | forks | 92/100 |
 | stars | 87/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

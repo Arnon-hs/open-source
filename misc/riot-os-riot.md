@@ -1,6 +1,6 @@
 # RIOT-OS/RIOT
 
-[![Stars](https://img.shields.io/github/stars/RIOT-OS/RIOT?style=flat-square&color=yellow)](https://github.com/RIOT-OS/RIOT/stargazers) [![Forks](https://img.shields.io/github/forks/RIOT-OS/RIOT?style=flat-square&color=blue)](https://github.com/RIOT-OS/RIOT/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RIOT-OS/RIOT?style=flat-square&color=yellow)](https://github.com/RIOT-OS/RIOT/stargazers) [![Forks](https://img.shields.io/github/forks/RIOT-OS/RIOT?style=flat-square&color=blue)](https://github.com/RIOT-OS/RIOT/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > RIOT -  The friendly OS for IoT
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ RIOT-OS/RIOT的生产可用性很高，尤其是考虑到其最近的活动、�
 | forks | 83/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

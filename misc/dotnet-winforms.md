@@ -1,6 +1,6 @@
 # dotnet/winforms
 
-[![Stars](https://img.shields.io/github/stars/dotnet/winforms?style=flat-square&color=yellow)](https://github.com/dotnet/winforms/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/winforms?style=flat-square&color=blue)](https://github.com/dotnet/winforms/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/winforms?style=flat-square&color=yellow)](https://github.com/dotnet/winforms/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/winforms?style=flat-square&color=blue)](https://github.com/dotnet/winforms/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Windows Forms is a .NET UI framework for building Windows desktop applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ dotnet/winforms 的生产可用性较高，主要原因是：
 | forks | 76/100 |
 | stars | 78/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

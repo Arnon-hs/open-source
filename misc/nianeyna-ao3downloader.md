@@ -1,6 +1,6 @@
 # nianeyna/ao3downloader
 
-[![Stars](https://img.shields.io/github/stars/nianeyna/ao3downloader?style=flat-square&color=yellow)](https://github.com/nianeyna/ao3downloader/stargazers) [![Forks](https://img.shields.io/github/forks/nianeyna/ao3downloader?style=flat-square&color=blue)](https://github.com/nianeyna/ao3downloader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nianeyna/ao3downloader?style=flat-square&color=yellow)](https://github.com/nianeyna/ao3downloader/stargazers) [![Forks](https://img.shields.io/github/forks/nianeyna/ao3downloader?style=flat-square&color=blue)](https://github.com/nianeyna/ao3downloader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Utility for downloading fanfiction in bulk from the Archive of Our Own
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ nianeyna/ao3downloader 是一个开源项目，用于批量下载 Archive of Our
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

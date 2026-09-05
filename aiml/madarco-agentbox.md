@@ -1,6 +1,6 @@
 # madarco/agentbox
 
-[![Stars](https://img.shields.io/github/stars/madarco/agentbox?style=flat-square&color=yellow)](https://github.com/madarco/agentbox/stargazers) [![Forks](https://img.shields.io/github/forks/madarco/agentbox?style=flat-square&color=blue)](https://github.com/madarco/agentbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madarco/agentbox?style=flat-square&color=yellow)](https://github.com/madarco/agentbox/stargazers) [![Forks](https://img.shields.io/github/forks/madarco/agentbox?style=flat-square&color=blue)](https://github.com/madarco/agentbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Run multiple agents in parallel sandboxed VMs, with a single command, on your PC or in the cloud
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · DevOps/Infra
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ madarco/agentbox 让你只需一条命令，就能在本地或云端的沙箱化
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 80/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

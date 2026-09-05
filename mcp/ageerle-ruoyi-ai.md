@@ -1,6 +1,6 @@
 # ageerle/ruoyi-ai
 
-[![Stars](https://img.shields.io/github/stars/ageerle/ruoyi-ai?style=flat-square&color=yellow)](https://github.com/ageerle/ruoyi-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ageerle/ruoyi-ai?style=flat-square&color=blue)](https://github.com/ageerle/ruoyi-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ageerle/ruoyi-ai?style=flat-square&color=yellow)](https://github.com/ageerle/ruoyi-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ageerle/ruoyi-ai?style=flat-square&color=blue)](https://github.com/ageerle/ruoyi-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构建安全、高效、可落地的AI智能体应用与行业解决方案。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ ageerle/ruoyi-ai 的生产可用性很高，尤其是考虑到它是开源软件
 | forks | 78/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

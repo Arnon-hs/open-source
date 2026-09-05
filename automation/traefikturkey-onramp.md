@@ -1,6 +1,6 @@
 # traefikturkey/onramp
 
-[![Stars](https://img.shields.io/github/stars/traefikturkey/onramp?style=flat-square&color=yellow)](https://github.com/traefikturkey/onramp/stargazers) [![Forks](https://img.shields.io/github/forks/traefikturkey/onramp?style=flat-square&color=blue)](https://github.com/traefikturkey/onramp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/traefikturkey/onramp?style=flat-square&color=yellow)](https://github.com/traefikturkey/onramp/stargazers) [![Forks](https://img.shields.io/github/forks/traefikturkey/onramp?style=flat-square&color=blue)](https://github.com/traefikturkey/onramp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ traefikturkey/onramp 的生产可用性评分为高（78/100），主要是因�
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

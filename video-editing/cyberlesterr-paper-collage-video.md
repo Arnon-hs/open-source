@@ -1,6 +1,6 @@
 # cyberlesterr/paper-collage-video
 
-[![Stars](https://img.shields.io/github/stars/cyberlesterr/paper-collage-video?style=flat-square&color=yellow)](https://github.com/cyberlesterr/paper-collage-video/stargazers) [![Forks](https://img.shields.io/github/forks/cyberlesterr/paper-collage-video?style=flat-square&color=blue)](https://github.com/cyberlesterr/paper-collage-video/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyberlesterr/paper-collage-video?style=flat-square&color=yellow)](https://github.com/cyberlesterr/paper-collage-video/stargazers) [![Forks](https://img.shields.io/github/forks/cyberlesterr/paper-collage-video?style=flat-square&color=blue)](https://github.com/cyberlesterr/paper-collage-video/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 Remotion 的配置驱动纸片分层视频流水线与 Codex 插件，支持人工审批、断点恢复、预览渲染和技术验收。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ cyberlesterr/paper-collage-video：cyberlesterr/paper-collage-video helps turn m
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

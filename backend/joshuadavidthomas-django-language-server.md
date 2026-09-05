@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ The **django-language-server** project provides a Language Server Protocol (LSP)
 
 ### 中文
 
-joshuadavidthomas/django-language-server：joshuadavidthomas/django-language-server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+joshuadavidthomas/django-language-server：joshuadavidthomas/django-language-server may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** joshuadavidthomas/django-language-server helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** joshuadavidthomas/django-language-server may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -64,17 +62,18 @@ joshuadavidthomas/django-language-server：joshuadavidthomas/django-language-ser
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 38/100 |
-| integration | 46/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 41/100 |
-| stars | 48/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 38/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ksanjeev284/reddit-universal-scraper
 
-[![Stars](https://img.shields.io/github/stars/ksanjeev284/reddit-universal-scraper?style=flat-square&color=yellow)](https://github.com/ksanjeev284/reddit-universal-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/ksanjeev284/reddit-universal-scraper?style=flat-square&color=blue)](https://github.com/ksanjeev284/reddit-universal-scraper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ksanjeev284/reddit-universal-scraper?style=flat-square&color=yellow)](https://github.com/ksanjeev284/reddit-universal-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/ksanjeev284/reddit-universal-scraper?style=flat-square&color=blue)](https://github.com/ksanjeev284/reddit-universal-scraper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Universal Reddit Scraper - Works on any Subreddit or User
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 571 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ ksanjeev284/reddit-universal-scraper 的生产可用性较高，原因有：
 | forks | 49/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 67/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

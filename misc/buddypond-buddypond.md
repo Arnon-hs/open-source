@@ -1,6 +1,6 @@
 # buddypond/buddypond
 
-[![Stars](https://img.shields.io/github/stars/buddypond/buddypond?style=flat-square&color=yellow)](https://github.com/buddypond/buddypond/stargazers) [![Forks](https://img.shields.io/github/forks/buddypond/buddypond?style=flat-square&color=blue)](https://github.com/buddypond/buddypond/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buddypond/buddypond?style=flat-square&color=yellow)](https://github.com/buddypond/buddypond/stargazers) [![Forks](https://img.shields.io/github/forks/buddypond/buddypond?style=flat-square&color=blue)](https://github.com/buddypond/buddypond/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud OS and Instant Messenger
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Buddypond 是一个基于云的操作系统 + 即时通讯平台，提供统一�
 | forks | 34/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

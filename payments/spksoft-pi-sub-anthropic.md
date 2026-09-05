@@ -1,6 +1,6 @@
 # spksoft/pi-sub-anthropic
 
-[![Stars](https://img.shields.io/github/stars/spksoft/pi-sub-anthropic?style=flat-square&color=yellow)](https://github.com/spksoft/pi-sub-anthropic/stargazers) [![Forks](https://img.shields.io/github/forks/spksoft/pi-sub-anthropic?style=flat-square&color=blue)](https://github.com/spksoft/pi-sub-anthropic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spksoft/pi-sub-anthropic?style=flat-square&color=yellow)](https://github.com/spksoft/pi-sub-anthropic/stargazers) [![Forks](https://img.shields.io/github/forks/spksoft/pi-sub-anthropic?style=flat-square&color=blue)](https://github.com/spksoft/pi-sub-anthropic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An extension for using anthropic subscription in Pi Agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ spksoft/pi-sub-anthropic：spksoft/pi-sub-anthropic helps integrate monetization
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

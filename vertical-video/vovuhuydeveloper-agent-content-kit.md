@@ -1,6 +1,6 @@
 # vovuhuydeveloper/agent-content-kit
 
-[![Stars](https://img.shields.io/github/stars/vovuhuydeveloper/agent-content-kit?style=flat-square&color=yellow)](https://github.com/vovuhuydeveloper/agent-content-kit/stargazers) [![Forks](https://img.shields.io/github/forks/vovuhuydeveloper/agent-content-kit?style=flat-square&color=blue)](https://github.com/vovuhuydeveloper/agent-content-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vovuhuydeveloper/agent-content-kit?style=flat-square&color=yellow)](https://github.com/vovuhuydeveloper/agent-content-kit/stargazers) [![Forks](https://img.shields.io/github/forks/vovuhuydeveloper/agent-content-kit?style=flat-square&color=blue)](https://github.com/vovuhuydeveloper/agent-content-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, fully automated multi-agent content pipeline: Web content → AI Script → Voiceover → Video → Telegram Approval → Social Media Upload
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ vovuhuydeveloper/agent-content-kit：vovuhuydeveloper/agent-content-kit helps au
 | forks | 28/100 |
 | stars | 27/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

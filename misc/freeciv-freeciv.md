@@ -1,6 +1,6 @@
 # freeciv/freeciv
 
-[![Stars](https://img.shields.io/github/stars/freeciv/freeciv?style=flat-square&color=yellow)](https://github.com/freeciv/freeciv/stargazers) [![Forks](https://img.shields.io/github/forks/freeciv/freeciv?style=flat-square&color=blue)](https://github.com/freeciv/freeciv/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freeciv/freeciv?style=flat-square&color=yellow)](https://github.com/freeciv/freeciv/stargazers) [![Forks](https://img.shields.io/github/forks/freeciv/freeciv?style=flat-square&color=blue)](https://github.com/freeciv/freeciv/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://redmine.freeciv.org/projects/freeciv
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ Freeciv 是一款自由开源的帝国建设策略游戏，模拟人类文明的
 | forks | 61/100 |
 | stars | 68/100 |
 | topics | 13/100 |
-| outlook | 53/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

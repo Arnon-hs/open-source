@@ -1,6 +1,6 @@
 # kontext-security/kontext-cli
 
-[![Stars](https://img.shields.io/github/stars/kontext-security/kontext-cli?style=flat-square&color=yellow)](https://github.com/kontext-security/kontext-cli/stargazers) [![Forks](https://img.shields.io/github/forks/kontext-security/kontext-cli?style=flat-square&color=blue)](https://github.com/kontext-security/kontext-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kontext-security/kontext-cli?style=flat-square&color=yellow)](https://github.com/kontext-security/kontext-cli/stargazers) [![Forks](https://img.shields.io/github/forks/kontext-security/kontext-cli?style=flat-square&color=blue)](https://github.com/kontext-security/kontext-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source CLI for AI coding agents. Give your coding agents access to services without exposing keys.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ kontext-security/kontext-cli 是一款开源的命令行工具，专为 AI 编�
 | forks | 21/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mono0926/LicensePlist
 
-[![Stars](https://img.shields.io/github/stars/mono0926/LicensePlist?style=flat-square&color=yellow)](https://github.com/mono0926/LicensePlist/stargazers) [![Forks](https://img.shields.io/github/forks/mono0926/LicensePlist?style=flat-square&color=blue)](https://github.com/mono0926/LicensePlist/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mono0926/LicensePlist?style=flat-square&color=yellow)](https://github.com/mono0926/LicensePlist/stargazers) [![Forks](https://img.shields.io/github/forks/mono0926/LicensePlist?style=flat-square&color=blue)](https://github.com/mono0926/LicensePlist/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A license list generator of all your dependencies for iOS applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · Mobile
+Automation · Productivity · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ mono0926/LicensePlist 是一款面向 iOS 应用的许可证清单生成工具�
 | forks | 55/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

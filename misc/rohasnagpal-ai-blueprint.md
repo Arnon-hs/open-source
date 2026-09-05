@@ -1,6 +1,6 @@
 # rohasnagpal/AI-Blueprint
 
-[![Stars](https://img.shields.io/github/stars/rohasnagpal/AI-Blueprint?style=flat-square&color=yellow)](https://github.com/rohasnagpal/AI-Blueprint/stargazers) [![Forks](https://img.shields.io/github/forks/rohasnagpal/AI-Blueprint?style=flat-square&color=blue)](https://github.com/rohasnagpal/AI-Blueprint/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohasnagpal/AI-Blueprint?style=flat-square&color=yellow)](https://github.com/rohasnagpal/AI-Blueprint/stargazers) [![Forks](https://img.shields.io/github/forks/rohasnagpal/AI-Blueprint?style=flat-square&color=blue)](https://github.com/rohasnagpal/AI-Blueprint/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Use the best AI agents to review & draft contracts, and prep for Arbitration, Litigation, Mediation & Negotiation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ rohasnagpal/AI-Blueprint 的价值在于，它帮助用户添加 AI 能力而不
 | forks | 27/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 45/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

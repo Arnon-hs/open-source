@@ -1,6 +1,6 @@
 # Rongronggg9/RSS-to-Telegram-Bot
 
-[![Stars](https://img.shields.io/github/stars/Rongronggg9/RSS-to-Telegram-Bot?style=flat-square&color=yellow)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/Rongronggg9/RSS-to-Telegram-Bot?style=flat-square&color=blue)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rongronggg9/RSS-to-Telegram-Bot?style=flat-square&color=yellow)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/Rongronggg9/RSS-to-Telegram-Bot?style=flat-square&color=blue)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Rongronggg9/RSS-to-Telegram-Bot 是一个 Telegram RSS 机器人，旨在改善�
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

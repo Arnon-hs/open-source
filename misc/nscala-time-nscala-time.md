@@ -1,6 +1,6 @@
 # nscala-time/nscala-time
 
-[![Stars](https://img.shields.io/github/stars/nscala-time/nscala-time?style=flat-square&color=yellow)](https://github.com/nscala-time/nscala-time/stargazers) [![Forks](https://img.shields.io/github/forks/nscala-time/nscala-time?style=flat-square&color=blue)](https://github.com/nscala-time/nscala-time/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nscala-time/nscala-time?style=flat-square&color=yellow)](https://github.com/nscala-time/nscala-time/stargazers) [![Forks](https://img.shields.io/github/forks/nscala-time/nscala-time?style=flat-square&color=blue)](https://github.com/nscala-time/nscala-time/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A new Scala wrapper for Joda Time based on scala-time
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 866 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ nscala-time/nscala-time 的价值在于，它可以帮助开发者在 Scala 中�
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

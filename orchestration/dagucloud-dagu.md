@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 261 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Data
+Orchestration · Automation · AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ dagucloud/dagu：dagucloud/dagu helps turn isolated prompts and tools into repea
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

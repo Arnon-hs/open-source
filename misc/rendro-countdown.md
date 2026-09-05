@@ -1,6 +1,6 @@
 # rendro/countdown
 
-[![Stars](https://img.shields.io/github/stars/rendro/countdown?style=flat-square&color=yellow)](https://github.com/rendro/countdown/stargazers) [![Forks](https://img.shields.io/github/forks/rendro/countdown?style=flat-square&color=blue)](https://github.com/rendro/countdown/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rendro/countdown?style=flat-square&color=yellow)](https://github.com/rendro/countdown/stargazers) [![Forks](https://img.shields.io/github/forks/rendro/countdown?style=flat-square&color=blue)](https://github.com/rendro/countdown/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, lightweight and easy to use jQuery countdown plugin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ rendro/countdown 的生产可用性是早期或不明确的。因此，建议在
 | forks | 50/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

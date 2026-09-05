@@ -1,6 +1,6 @@
 # HabitRPG/habitica
 
-[![Stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=flat-square&color=yellow)](https://github.com/HabitRPG/habitica/stargazers) [![Forks](https://img.shields.io/github/forks/HabitRPG/habitica?style=flat-square&color=blue)](https://github.com/HabitRPG/habitica/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=flat-square&color=yellow)](https://github.com/HabitRPG/habitica/stargazers) [![Forks](https://img.shields.io/github/forks/HabitRPG/habitica?style=flat-square&color=blue)](https://github.com/HabitRPG/habitica/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A habit tracker app which treats your goals like a Role Playing Game.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend · Backend · Database
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ HabitRPG（现更名为 Habitica）是一款把日常目标和习惯管理包装
 | forks | 91/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 80/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rryam/VecturaKit
 
-[![Stars](https://img.shields.io/github/stars/rryam/VecturaKit?style=flat-square&color=yellow)](https://github.com/rryam/VecturaKit/stargazers) [![Forks](https://img.shields.io/github/forks/rryam/VecturaKit?style=flat-square&color=blue)](https://github.com/rryam/VecturaKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rryam/VecturaKit?style=flat-square&color=yellow)](https://github.com/rryam/VecturaKit/stargazers) [![Forks](https://img.shields.io/github/forks/rryam/VecturaKit?style=flat-square&color=blue)](https://github.com/rryam/VecturaKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ rryam/VecturaKit 是一款基于 Swift 实现的向量数据库，利用 MLTenso
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

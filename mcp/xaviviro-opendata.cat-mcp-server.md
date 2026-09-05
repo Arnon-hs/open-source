@@ -1,6 +1,6 @@
 # xaviviro/Opendata.cat-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/xaviviro/Opendata.cat-MCP-Server?style=flat-square&color=yellow)](https://github.com/xaviviro/Opendata.cat-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/xaviviro/Opendata.cat-MCP-Server?style=flat-square&color=blue)](https://github.com/xaviviro/Opendata.cat-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xaviviro/Opendata.cat-MCP-Server?style=flat-square&color=yellow)](https://github.com/xaviviro/Opendata.cat-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/xaviviro/Opendata.cat-MCP-Server?style=flat-square&color=blue)](https://github.com/xaviviro/Opendata.cat-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Opendata.cat MCP Server - Servidor MCP (Model Context Protocol) per interactuar amb les dades obertes públiques de diferents organismes Catalunya. Creat per Opendata.cat
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ xaviviro/Opendata.cat-MCP-Server 是一个开源项目，提供了一个 Model C
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

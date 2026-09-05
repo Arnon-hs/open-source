@@ -1,6 +1,6 @@
 # FennelFetish/qapyq
 
-[![Stars](https://img.shields.io/github/stars/FennelFetish/qapyq?style=flat-square&color=yellow)](https://github.com/FennelFetish/qapyq/stargazers) [![Forks](https://img.shields.io/github/forks/FennelFetish/qapyq?style=flat-square&color=blue)](https://github.com/FennelFetish/qapyq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FennelFetish/qapyq?style=flat-square&color=yellow)](https://github.com/FennelFetish/qapyq/stargazers) [![Forks](https://img.shields.io/github/forks/FennelFetish/qapyq?style=flat-square&color=blue)](https://github.com/FennelFetish/qapyq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI-assisted media curator for large image/video datasets. Streamlined captioning, cropping, masking for LoRA/diffusion training workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Automation · AI/ML
+Video Editing · Automation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ FennelFetish/qapyq 是一款面向大规模图像/视频数据集的 AI 辅助�
 | forks | 26/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

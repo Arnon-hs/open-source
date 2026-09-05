@@ -1,6 +1,6 @@
 # jofizcd/Soul-of-Waifu
 
-[![Stars](https://img.shields.io/github/stars/jofizcd/Soul-of-Waifu?style=flat-square&color=yellow)](https://github.com/jofizcd/Soul-of-Waifu/stargazers) [![Forks](https://img.shields.io/github/forks/jofizcd/Soul-of-Waifu?style=flat-square&color=blue)](https://github.com/jofizcd/Soul-of-Waifu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jofizcd/Soul-of-Waifu?style=flat-square&color=yellow)](https://github.com/jofizcd/Soul-of-Waifu/stargazers) [![Forks](https://img.shields.io/github/forks/jofizcd/Soul-of-Waifu?style=flat-square&color=blue)](https://github.com/jofizcd/Soul-of-Waifu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🌌 Give a soul to your favorite characters. Soul of Waifu is a desktop roleplay & AI companion app featuring Live2D/VRM avatars, voice chat & local LLM. Evolve together across immersive chat, RPG adventures, and your desktop.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 808 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication · Productivity
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ Soul of Waifu 有很高的生产可用性，因为它有活跃的社区支持，
 | forks | 42/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

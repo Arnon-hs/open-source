@@ -1,6 +1,6 @@
 # ifixai-ai/iFixAi
 
-[![Stars](https://img.shields.io/github/stars/ifixai-ai/iFixAi?style=flat-square&color=yellow)](https://github.com/ifixai-ai/iFixAi/stargazers) [![Forks](https://img.shields.io/github/forks/ifixai-ai/iFixAi?style=flat-square&color=blue)](https://github.com/ifixai-ai/iFixAi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ifixai-ai/iFixAi?style=flat-square&color=yellow)](https://github.com/ifixai-ai/iFixAi/stargazers) [![Forks](https://img.shields.io/github/forks/ifixai-ai/iFixAi?style=flat-square&color=blue)](https://github.com/ifixai-ai/iFixAi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Built by iMe.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML · Cloud & Storage · DevTools · Security
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ iFixAi 能帮助企业在多模型、多代理的复杂 AI 系统中实现统一
 | forks | 44/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

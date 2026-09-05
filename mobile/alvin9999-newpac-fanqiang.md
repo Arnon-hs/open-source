@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 219 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ Alvin9999-newpac/fanqiang：Alvin9999-newpac/fanqiang may be useful when its REA
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sdroege/async-tungstenite
 
-[![Stars](https://img.shields.io/github/stars/sdroege/async-tungstenite?style=flat-square&color=yellow)](https://github.com/sdroege/async-tungstenite/stargazers) [![Forks](https://img.shields.io/github/forks/sdroege/async-tungstenite?style=flat-square&color=blue)](https://github.com/sdroege/async-tungstenite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdroege/async-tungstenite?style=flat-square&color=yellow)](https://github.com/sdroege/async-tungstenite/stargazers) [![Forks](https://img.shields.io/github/forks/sdroege/async-tungstenite?style=flat-square&color=blue)](https://github.com/sdroege/async-tungstenite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Async binding for Tungstenite, the Lightweight stream-based WebSocket implementation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Async-tungstenite - это открытый исходный код проект
 | forks | 47/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

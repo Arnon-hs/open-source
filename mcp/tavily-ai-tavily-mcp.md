@@ -1,6 +1,6 @@
 # tavily-ai/tavily-mcp
 
-[![Stars](https://img.shields.io/github/stars/tavily-ai/tavily-mcp?style=flat-square&color=yellow)](https://github.com/tavily-ai/tavily-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tavily-ai/tavily-mcp?style=flat-square&color=blue)](https://github.com/tavily-ai/tavily-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tavily-ai/tavily-mcp?style=flat-square&color=yellow)](https://github.com/tavily-ai/tavily-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tavily-ai/tavily-mcp?style=flat-square&color=blue)](https://github.com/tavily-ai/tavily-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Production ready MCP server with real-time search, extract, map & crawl.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 281 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ tavily‑ai/tavily‑mcp 是一套面向生产环境的 MCP（Model Context Prot
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

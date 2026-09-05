@@ -1,6 +1,6 @@
 # flowershow/flowershow
 
-[![Stars](https://img.shields.io/github/stars/flowershow/flowershow?style=flat-square&color=yellow)](https://github.com/flowershow/flowershow/stargazers) [![Forks](https://img.shields.io/github/forks/flowershow/flowershow?style=flat-square&color=blue)](https://github.com/flowershow/flowershow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flowershow/flowershow?style=flat-square&color=yellow)](https://github.com/flowershow/flowershow/stargazers) [![Forks](https://img.shields.io/github/forks/flowershow/flowershow?style=flat-square&color=blue)](https://github.com/flowershow/flowershow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 💐 Publish markdown (and html) websites, docs, wikis and websites in seconds. Integrates with your AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Frontend
+Templates · Documents · Frontend
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ Overall, Flowershow offers a fast, low‑friction route to AI‑augmented docume
 | forks | 52/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

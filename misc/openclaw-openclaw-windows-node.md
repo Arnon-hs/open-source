@@ -1,6 +1,6 @@
 # openclaw/openclaw-windows-node
 
-[![Stars](https://img.shields.io/github/stars/openclaw/openclaw-windows-node?style=flat-square&color=yellow)](https://github.com/openclaw/openclaw-windows-node/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/openclaw-windows-node?style=flat-square&color=blue)](https://github.com/openclaw/openclaw-windows-node/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openclaw/openclaw-windows-node?style=flat-square&color=yellow)](https://github.com/openclaw/openclaw-windows-node/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/openclaw-windows-node?style=flat-square&color=blue)](https://github.com/openclaw/openclaw-windows-node/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Overall, *openclaw-windows-node* can speed up Windows UI development when you’
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

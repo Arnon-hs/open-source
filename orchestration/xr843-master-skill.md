@@ -1,6 +1,6 @@
 # xr843/Master-skill
 
-[![Stars](https://img.shields.io/github/stars/xr843/Master-skill?style=flat-square&color=yellow)](https://github.com/xr843/Master-skill/stargazers) [![Forks](https://img.shields.io/github/forks/xr843/Master-skill?style=flat-square&color=blue)](https://github.com/xr843/Master-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xr843/Master-skill?style=flat-square&color=yellow)](https://github.com/xr843/Master-skill/stargazers) [![Forks](https://img.shields.io/github/forks/xr843/Master-skill?style=flat-square&color=blue)](https://github.com/xr843/Master-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Buddhist Master-skill powered by FoJin — 三大传统（汉传/藏传/南传）祖师大德 AI 教学角色生成器，CBETA / BDRC / SuttaCentral 引证
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ xr843/Master‑skill 是一款基于 FoJin 的佛教“大德 AI 教学角色生
 | forks | 45/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

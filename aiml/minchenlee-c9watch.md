@@ -1,6 +1,6 @@
 # minchenlee/c9watch
 
-[![Stars](https://img.shields.io/github/stars/minchenlee/c9watch?style=flat-square&color=yellow)](https://github.com/minchenlee/c9watch/stargazers) [![Forks](https://img.shields.io/github/forks/minchenlee/c9watch?style=flat-square&color=blue)](https://github.com/minchenlee/c9watch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minchenlee/c9watch?style=flat-square&color=yellow)](https://github.com/minchenlee/c9watch/stargazers) [![Forks](https://img.shields.io/github/forks/minchenlee/c9watch?style=flat-square&color=blue)](https://github.com/minchenlee/c9watch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > c9watch (short for claude code watch, like k8s for Kubernetes) is a macOS desktop app that gives you a real-time dashboard of every Claude Code session running on your machine. No more switching between terminals to check which agent needs permission, which one is working, and which one is idle.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML · Productivity · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ c9watch 的生产可用性为中等：适合于原型或内部工作流的使用
 | forks | 38/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

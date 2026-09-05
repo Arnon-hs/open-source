@@ -1,6 +1,6 @@
 # geoman-io/leaflet-geoman
 
-[![Stars](https://img.shields.io/github/stars/geoman-io/leaflet-geoman?style=flat-square&color=yellow)](https://github.com/geoman-io/leaflet-geoman/stargazers) [![Forks](https://img.shields.io/github/forks/geoman-io/leaflet-geoman?style=flat-square&color=blue)](https://github.com/geoman-io/leaflet-geoman/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geoman-io/leaflet-geoman?style=flat-square&color=yellow)](https://github.com/geoman-io/leaflet-geoman/stargazers) [![Forks](https://img.shields.io/github/forks/geoman-io/leaflet-geoman?style=flat-square&color=blue)](https://github.com/geoman-io/leaflet-geoman/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 441 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ geoman-io/leaflet-geoman 是一款功能极其强大的 Leaflet 插件，提供�
 | forks | 66/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

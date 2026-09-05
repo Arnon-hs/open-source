@@ -1,6 +1,6 @@
 # googlefonts/fontations
 
-[![Stars](https://img.shields.io/github/stars/googlefonts/fontations?style=flat-square&color=yellow)](https://github.com/googlefonts/fontations/stargazers) [![Forks](https://img.shields.io/github/forks/googlefonts/fontations?style=flat-square&color=blue)](https://github.com/googlefonts/fontations/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googlefonts/fontations?style=flat-square&color=yellow)](https://github.com/googlefonts/fontations/stargazers) [![Forks](https://img.shields.io/github/forks/googlefonts/fontations?style=flat-square&color=blue)](https://github.com/googlefonts/fontations/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Reading and writing font files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 779 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ googlefonts/fontations 是用 Rust 编写的字体文件读写库，提供对 Op
 | forks | 46/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # FlyinPancake/yoink
 
-[![Stars](https://img.shields.io/github/stars/FlyinPancake/yoink?style=flat-square&color=yellow)](https://github.com/FlyinPancake/yoink/stargazers) [![Forks](https://img.shields.io/github/forks/FlyinPancake/yoink?style=flat-square&color=blue)](https://github.com/FlyinPancake/yoink/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlyinPancake/yoink?style=flat-square&color=yellow)](https://github.com/FlyinPancake/yoink/stargazers) [![Forks](https://img.shields.io/github/forks/FlyinPancake/yoink?style=flat-square&color=blue)](https://github.com/FlyinPancake/yoink/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > yoink is a self-hosted music library manager that supports multiple metadata sources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ FlyinPancake/yoink 的生产可用性为中等。虽然它可以用于原型或�
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 40/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 45/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # osmlab/name-suggestion-index
 
-[![Stars](https://img.shields.io/github/stars/osmlab/name-suggestion-index?style=flat-square&color=yellow)](https://github.com/osmlab/name-suggestion-index/stargazers) [![Forks](https://img.shields.io/github/forks/osmlab/name-suggestion-index?style=flat-square&color=blue)](https://github.com/osmlab/name-suggestion-index/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/osmlab/name-suggestion-index?style=flat-square&color=yellow)](https://github.com/osmlab/name-suggestion-index/stargazers) [![Forks](https://img.shields.io/github/forks/osmlab/name-suggestion-index?style=flat-square&color=blue)](https://github.com/osmlab/name-suggestion-index/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Canonical common brand names, operators, transit, and flags for OpenStreetMap.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 860 |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | JSON |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ osmlab/name-suggestion-index 为 OpenStreetMap 提供了一个权威的品牌、
 | forks | 75/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

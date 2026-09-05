@@ -1,6 +1,6 @@
 # Anil-matcha/vox-ai-motion-graphics-generator
 
-[![Stars](https://img.shields.io/github/stars/Anil-matcha/vox-ai-motion-graphics-generator?style=flat-square&color=yellow)](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/vox-ai-motion-graphics-generator?style=flat-square&color=blue)](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anil-matcha/vox-ai-motion-graphics-generator?style=flat-square&color=yellow)](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/vox-ai-motion-graphics-generator?style=flat-square&color=blue)](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 🎬 Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music & captions, all automated. An agent skill for Claude Code, Codex & other coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-09-02 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Vox‑AI Motion Graphics Generator 能将任何主题自动转换为完整的 Vo
 | forks | 39/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

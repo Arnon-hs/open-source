@@ -1,6 +1,6 @@
 # WecoAI/awesome-autoresearch
 
-[![Stars](https://img.shields.io/github/stars/WecoAI/awesome-autoresearch?style=flat-square&color=yellow)](https://github.com/WecoAI/awesome-autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/WecoAI/awesome-autoresearch?style=flat-square&color=blue)](https://github.com/WecoAI/awesome-autoresearch/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WecoAI/awesome-autoresearch?style=flat-square&color=yellow)](https://github.com/WecoAI/awesome-autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/WecoAI/awesome-autoresearch?style=flat-square&color=blue)](https://github.com/WecoAI/awesome-autoresearch/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of AutoResearch use cases with optimization traces and open source implementations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 988 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ WecoAI/awesome‑autoresearch 是一个精选的 AutoResearch 用例库，收录
 | forks | 47/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

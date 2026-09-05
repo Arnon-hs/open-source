@@ -1,6 +1,6 @@
 # andrius/asterisk
 
-[![Stars](https://img.shields.io/github/stars/andrius/asterisk?style=flat-square&color=yellow)](https://github.com/andrius/asterisk/stargazers) [![Forks](https://img.shields.io/github/forks/andrius/asterisk?style=flat-square&color=blue)](https://github.com/andrius/asterisk/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andrius/asterisk?style=flat-square&color=yellow)](https://github.com/andrius/asterisk/stargazers) [![Forks](https://img.shields.io/github/forks/andrius/asterisk?style=flat-square&color=blue)](https://github.com/andrius/asterisk/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ✨📞 Asterisk PBX in 🐳 Docker — Smallest Asterisk ever! 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ andrius/asterisk 是一个开源项目，提供了使用 Docker 部署 Asterisk 
 | forks | 53/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

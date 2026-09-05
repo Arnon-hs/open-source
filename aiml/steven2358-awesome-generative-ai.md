@@ -1,6 +1,6 @@
 # steven2358/awesome-generative-ai
 
-[![Stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=flat-square&color=yellow)](https://github.com/steven2358/awesome-generative-ai/stargazers) [![Forks](https://img.shields.io/github/forks/steven2358/awesome-generative-ai?style=flat-square&color=blue)](https://github.com/steven2358/awesome-generative-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=flat-square&color=yellow)](https://github.com/steven2358/awesome-generative-ai/stargazers) [![Forks](https://img.shields.io/github/forks/steven2358/awesome-generative-ai?style=flat-square&color=blue)](https://github.com/steven2358/awesome-generative-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of modern Generative Artificial Intelligence projects and services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.4k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ steven2358/awesome-generative-ai 的生产可用性很高，项目有 12382 个 
 | forks | 82/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 84/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

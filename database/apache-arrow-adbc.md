@@ -1,6 +1,6 @@
 # apache/arrow-adbc
 
-[![Stars](https://img.shields.io/github/stars/apache/arrow-adbc?style=flat-square&color=yellow)](https://github.com/apache/arrow-adbc/stargazers) [![Forks](https://img.shields.io/github/forks/apache/arrow-adbc?style=flat-square&color=blue)](https://github.com/apache/arrow-adbc/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/arrow-adbc?style=flat-square&color=yellow)](https://github.com/apache/arrow-adbc/stargazers) [![Forks](https://img.shields.io/github/forks/apache/arrow-adbc?style=flat-square&color=blue)](https://github.com/apache/arrow-adbc/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Database connectivity API standard and libraries for Apache Arrow
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 611 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Apache Arrow ADBC 的生产可用性为中等（Medium），适合用于原型�
 | forks | 58/100 |
 | stars | 59/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

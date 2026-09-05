@@ -1,6 +1,6 @@
 # dbeaver/dbeaver
 
-[![Stars](https://img.shields.io/github/stars/dbeaver/dbeaver?style=flat-square&color=yellow)](https://github.com/dbeaver/dbeaver/stargazers) [![Forks](https://img.shields.io/github/forks/dbeaver/dbeaver?style=flat-square&color=blue)](https://github.com/dbeaver/dbeaver/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbeaver/dbeaver?style=flat-square&color=yellow)](https://github.com/dbeaver/dbeaver/stargazers) [![Forks](https://img.shields.io/github/forks/dbeaver/dbeaver?style=flat-square&color=blue)](https://github.com/dbeaver/dbeaver/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Free universal database tool and SQL client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ dbeaver/dbeaver 是一款免费且跨平台的通用数据库管理工具和 SQL
 | forks | 91/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 79/100 |
-| recency | 20/100 |
+| outlook | 87/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 97/100 |
-| production | 57/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

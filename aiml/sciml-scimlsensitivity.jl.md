@@ -1,6 +1,6 @@
 # SciML/SciMLSensitivity.jl
 
-[![Stars](https://img.shields.io/github/stars/SciML/SciMLSensitivity.jl?style=flat-square&color=yellow)](https://github.com/SciML/SciMLSensitivity.jl/stargazers) [![Forks](https://img.shields.io/github/forks/SciML/SciMLSensitivity.jl?style=flat-square&color=blue)](https://github.com/SciML/SciMLSensitivity.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SciML/SciMLSensitivity.jl?style=flat-square&color=yellow)](https://github.com/SciML/SciMLSensitivity.jl/stargazers) [![Forks](https://img.shields.io/github/forks/SciML/SciMLSensitivity.jl?style=flat-square&color=blue)](https://github.com/SciML/SciMLSensitivity.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ SciMLSensitivity.jl 为需要在微分方程模型上进行梯度驱动 AI/ML �
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

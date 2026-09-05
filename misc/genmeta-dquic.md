@@ -1,6 +1,6 @@
 # genmeta/dquic
 
-[![Stars](https://img.shields.io/github/stars/genmeta/dquic?style=flat-square&color=yellow)](https://github.com/genmeta/dquic/stargazers) [![Forks](https://img.shields.io/github/forks/genmeta/dquic?style=flat-square&color=blue)](https://github.com/genmeta/dquic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/genmeta/dquic?style=flat-square&color=yellow)](https://github.com/genmeta/dquic/stargazers) [![Forks](https://img.shields.io/github/forks/genmeta/dquic?style=flat-square&color=blue)](https://github.com/genmeta/dquic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An IETF quic transport protocol implemented natively using async Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 279 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ genmeta/dquic 的生产可用性为中等。它适合用于原型开发或内部
 | forks | 35/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

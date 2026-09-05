@@ -1,6 +1,6 @@
 # ammkrn/nanoda_lib
 
-[![Stars](https://img.shields.io/github/stars/ammkrn/nanoda_lib?style=flat-square&color=yellow)](https://github.com/ammkrn/nanoda_lib/stargazers) [![Forks](https://img.shields.io/github/forks/ammkrn/nanoda_lib?style=flat-square&color=blue)](https://github.com/ammkrn/nanoda_lib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ammkrn/nanoda_lib?style=flat-square&color=yellow)](https://github.com/ammkrn/nanoda_lib/stargazers) [![Forks](https://img.shields.io/github/forks/ammkrn/nanoda_lib?style=flat-square&color=blue)](https://github.com/ammkrn/nanoda_lib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Library implementing type inference/checking functionality based on the Lean theorem prover
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ ammkrn/nanoda_lib 的生产可用性为 中等。它适合用于原型或内部�
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 60/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 54/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

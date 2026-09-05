@@ -1,6 +1,6 @@
 # mahdiMGF2/mirzabot
 
-[![Stars](https://img.shields.io/github/stars/mahdiMGF2/mirzabot?style=flat-square&color=yellow)](https://github.com/mahdiMGF2/mirzabot/stargazers) [![Forks](https://img.shields.io/github/forks/mahdiMGF2/mirzabot?style=flat-square&color=blue)](https://github.com/mahdiMGF2/mirzabot/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahdiMGF2/mirzabot?style=flat-square&color=yellow)](https://github.com/mahdiMGF2/mirzabot/stargazers) [![Forks](https://img.shields.io/github/forks/mahdiMGF2/mirzabot?style=flat-square&color=blue)](https://github.com/mahdiMGF2/mirzabot/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > bot pro for sell vpn
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 602 |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation
+Automation · Networking
 
 ## 📝 Summary
 
@@ -89,15 +89,15 @@ mahdiMGF2/mirzabot 的生产可用性为中等。它适合用于原型或内部�
 | forks | 62/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

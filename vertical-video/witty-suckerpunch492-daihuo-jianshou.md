@@ -1,6 +1,6 @@
 # witty-suckerpunch492/daihuo-jianshou
 
-[![Stars](https://img.shields.io/github/stars/witty-suckerpunch492/daihuo-jianshou?style=flat-square&color=yellow)](https://github.com/witty-suckerpunch492/daihuo-jianshou/stargazers) [![Forks](https://img.shields.io/github/forks/witty-suckerpunch492/daihuo-jianshou?style=flat-square&color=blue)](https://github.com/witty-suckerpunch492/daihuo-jianshou/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/witty-suckerpunch492/daihuo-jianshou?style=flat-square&color=yellow)](https://github.com/witty-suckerpunch492/daihuo-jianshou/stargazers) [![Forks](https://img.shields.io/github/forks/witty-suckerpunch492/daihuo-jianshou?style=flat-square&color=blue)](https://github.com/witty-suckerpunch492/daihuo-jianshou/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 自动生成电商带货短视频：上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ witty-suckerpunch492/daihuo-jianshou：witty-suckerpunch492/daihuo-jianshou help
 | forks | 41/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

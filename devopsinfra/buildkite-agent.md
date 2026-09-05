@@ -1,6 +1,6 @@
 # buildkite/agent
 
-[![Stars](https://img.shields.io/github/stars/buildkite/agent?style=flat-square&color=yellow)](https://github.com/buildkite/agent/stargazers) [![Forks](https://img.shields.io/github/forks/buildkite/agent?style=flat-square&color=blue)](https://github.com/buildkite/agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildkite/agent?style=flat-square&color=yellow)](https://github.com/buildkite/agent/stargazers) [![Forks](https://img.shields.io/github/forks/buildkite/agent?style=flat-square&color=blue)](https://github.com/buildkite/agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 986 |
 | 🍴 **Forks** | 349 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Buildkite Agent 是一款用 Go 编写的开源工具箱，能够在任意设备
 | forks | 64/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 54/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

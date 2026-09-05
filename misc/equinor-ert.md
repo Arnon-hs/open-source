@@ -1,6 +1,6 @@
 # equinor/ert
 
-[![Stars](https://img.shields.io/github/stars/equinor/ert?style=flat-square&color=yellow)](https://github.com/equinor/ert/stargazers) [![Forks](https://img.shields.io/github/forks/equinor/ert?style=flat-square&color=blue)](https://github.com/equinor/ert/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/equinor/ert?style=flat-square&color=yellow)](https://github.com/equinor/ert/stargazers) [![Forks](https://img.shields.io/github/forks/equinor/ert?style=flat-square&color=blue)](https://github.com/equinor/ert/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ERT - Ensemble based Reservoir Tool - is designed for running ensembles of dynamical models such as reservoir models, in order to do sensitivity analysis and data assimilation. ERT supports data assimilation using the Ensemble Smoother (ES) and Ensemble Smoother with Multiple Data Assimilation (ES-MDA).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ ERT（Ensemble based Reservoir Tool）是一个用于运行动力学模型集合
 | forks | 53/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

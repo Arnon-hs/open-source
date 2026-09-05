@@ -1,6 +1,6 @@
 # jesec/flood
 
-[![Stars](https://img.shields.io/github/stars/jesec/flood?style=flat-square&color=yellow)](https://github.com/jesec/flood/stargazers) [![Forks](https://img.shields.io/github/forks/jesec/flood?style=flat-square&color=blue)](https://github.com/jesec/flood/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jesec/flood?style=flat-square&color=yellow)](https://github.com/jesec/flood/stargazers) [![Forks](https://img.shields.io/github/forks/jesec/flood?style=flat-square&color=blue)](https://github.com/jesec/flood/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A modern web UI for various torrent clients with a Node.js backend and React frontend.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ jesec/flood 的生产可用性很高，主要原因是其：
 | forks | 56/100 |
 | stars | 73/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

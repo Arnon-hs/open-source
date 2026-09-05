@@ -1,6 +1,6 @@
 # omni-us/jsonargparse
 
-[![Stars](https://img.shields.io/github/stars/omni-us/jsonargparse?style=flat-square&color=yellow)](https://github.com/omni-us/jsonargparse/stargazers) [![Forks](https://img.shields.io/github/forks/omni-us/jsonargparse?style=flat-square&color=blue)](https://github.com/omni-us/jsonargparse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omni-us/jsonargparse?style=flat-square&color=yellow)](https://github.com/omni-us/jsonargparse/stargazers) [![Forks](https://img.shields.io/github/forks/omni-us/jsonargparse?style=flat-square&color=blue)](https://github.com/omni-us/jsonargparse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal effort CLIs derived from type hints and parse from command line, config files and environment variables
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ omni‑us/jsonargparse 是一个基于 Python 类型提示的轻量级 CLI 框�
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

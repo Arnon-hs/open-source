@@ -1,6 +1,6 @@
 # WordPress/wordpress-develop
 
-[![Stars](https://img.shields.io/github/stars/WordPress/wordpress-develop?style=flat-square&color=yellow)](https://github.com/WordPress/wordpress-develop/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/wordpress-develop?style=flat-square&color=blue)](https://github.com/WordPress/wordpress-develop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WordPress/wordpress-develop?style=flat-square&color=yellow)](https://github.com/WordPress/wordpress-develop/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/wordpress-develop?style=flat-square&color=blue)](https://github.com/WordPress/wordpress-develop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ WordPress/wordpress-develop 在生产环境中的可用性为中等（Medium）�
 | forks | 89/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

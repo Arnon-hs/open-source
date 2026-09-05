@@ -1,6 +1,6 @@
 # Multirious/bevy_tween
 
-[![Stars](https://img.shields.io/github/stars/Multirious/bevy_tween?style=flat-square&color=yellow)](https://github.com/Multirious/bevy_tween/stargazers) [![Forks](https://img.shields.io/github/forks/Multirious/bevy_tween?style=flat-square&color=blue)](https://github.com/Multirious/bevy_tween/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Multirious/bevy_tween?style=flat-square&color=yellow)](https://github.com/Multirious/bevy_tween/stargazers) [![Forks](https://img.shields.io/github/forks/Multirious/bevy_tween?style=flat-square&color=blue)](https://github.com/Multirious/bevy_tween/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Flexible tweening plugin library for Bevy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Multirious/bevy_tween 的生产可用性为中等水平。它适合用于原型�
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

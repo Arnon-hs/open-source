@@ -1,6 +1,6 @@
 # navidshad/frameflow
 
-[![Stars](https://img.shields.io/github/stars/navidshad/frameflow?style=flat-square&color=yellow)](https://github.com/navidshad/frameflow/stargazers) [![Forks](https://img.shields.io/github/forks/navidshad/frameflow?style=flat-square&color=blue)](https://github.com/navidshad/frameflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/navidshad/frameflow?style=flat-square&color=yellow)](https://github.com/navidshad/frameflow/stargazers) [![Forks](https://img.shields.io/github/forks/navidshad/frameflow?style=flat-square&color=blue)](https://github.com/navidshad/frameflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > FrameFlow is a high-fidelity multimedia platform that bridges the gap between raw video/image assets and creative intelligence. By fusing Google Gemini's multimodal brain with precise FFmpeg engineering, FrameFlow transforms how you consume, extract, and generate media.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ navidshad/frameflow：navidshad/frameflow helps turn media editing, captions, re
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

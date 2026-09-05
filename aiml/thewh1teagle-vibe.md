@@ -1,6 +1,6 @@
 # thewh1teagle/vibe
 
-[![Stars](https://img.shields.io/github/stars/thewh1teagle/vibe?style=flat-square&color=yellow)](https://github.com/thewh1teagle/vibe/stargazers) [![Forks](https://img.shields.io/github/forks/thewh1teagle/vibe?style=flat-square&color=blue)](https://github.com/thewh1teagle/vibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thewh1teagle/vibe?style=flat-square&color=yellow)](https://github.com/thewh1teagle/vibe/stargazers) [![Forks](https://img.shields.io/github/forks/thewh1teagle/vibe?style=flat-square&color=blue)](https://github.com/thewh1teagle/vibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Transcribe on your own!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 438 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ thewh1teagle/vibe 的生产可用性较高，主要原因是：
 | forks | 66/100 |
 | stars | 81/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # embedder-dev/embedder-cli
 
-[![Stars](https://img.shields.io/github/stars/embedder-dev/embedder-cli?style=flat-square&color=yellow)](https://github.com/embedder-dev/embedder-cli/stargazers) [![Forks](https://img.shields.io/github/forks/embedder-dev/embedder-cli?style=flat-square&color=blue)](https://github.com/embedder-dev/embedder-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/embedder-dev/embedder-cli?style=flat-square&color=yellow)](https://github.com/embedder-dev/embedder-cli/stargazers) [![Forks](https://img.shields.io/github/forks/embedder-dev/embedder-cli?style=flat-square&color=blue)](https://github.com/embedder-dev/embedder-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ embedder-dev/embedder-cli 的生产可用性为中等。虽然它能够提供有
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

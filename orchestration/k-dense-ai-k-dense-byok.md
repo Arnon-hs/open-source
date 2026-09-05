@@ -1,6 +1,6 @@
 # K-Dense-AI/k-dense-byok
 
-[![Stars](https://img.shields.io/github/stars/K-Dense-AI/k-dense-byok?style=flat-square&color=yellow)](https://github.com/K-Dense-AI/k-dense-byok/stargazers) [![Forks](https://img.shields.io/github/forks/K-Dense-AI/k-dense-byok?style=flat-square&color=blue)](https://github.com/K-Dense-AI/k-dense-byok/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/K-Dense-AI/k-dense-byok?style=flat-square&color=yellow)](https://github.com/K-Dense-AI/k-dense-byok/stargazers) [![Forks](https://img.shields.io/github/forks/K-Dense-AI/k-dense-byok?style=flat-square&color=blue)](https://github.com/K-Dense-AI/k-dense-byok/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > An AI co-scientist powered by Scientific Agent Skills running on your desktop.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 974 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML
+Orchestration · MCP · AI/ML · Data
 
 ## 📝 Summary
 
@@ -95,15 +95,15 @@ K-Dense-AI/k-dense-byok 的价值在于，它可以帮助协调多代理工作�
 | forks | 52/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

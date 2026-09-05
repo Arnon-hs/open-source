@@ -1,6 +1,6 @@
 # jie65535/awesome-balatro
 
-[![Stars](https://img.shields.io/github/stars/jie65535/awesome-balatro?style=flat-square&color=yellow)](https://github.com/jie65535/awesome-balatro/stargazers) [![Forks](https://img.shields.io/github/forks/jie65535/awesome-balatro?style=flat-square&color=blue)](https://github.com/jie65535/awesome-balatro/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jie65535/awesome-balatro?style=flat-square&color=yellow)](https://github.com/jie65535/awesome-balatro/stargazers) [![Forks](https://img.shields.io/github/forks/jie65535/awesome-balatro?style=flat-square&color=blue)](https://github.com/jie65535/awesome-balatro/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A list of Balatro Mods and Tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -77,11 +77,11 @@ Balatro Mods 和 Tools 的收集列表。该项目对于某些具体的工作流
 | forks | 49/100 |
 | stars | 66/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

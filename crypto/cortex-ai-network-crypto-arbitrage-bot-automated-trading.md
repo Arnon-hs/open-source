@@ -1,6 +1,6 @@
 # Cortex-AI-Network/crypto-arbitrage-bot-automated-trading
 
-[![Stars](https://img.shields.io/github/stars/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading?style=flat-square&color=yellow)](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/stargazers) [![Forks](https://img.shields.io/github/forks/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading?style=flat-square&color=blue)](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading?style=flat-square&color=yellow)](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/stargazers) [![Forks](https://img.shields.io/github/forks/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading?style=flat-square&color=blue)](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Cortex AI: #1 AI Trading Bot for Crypto, Forex & Stocks. Automated Arbitrage Engine v3.4. Works on Solana, TON, Binance & Bybit. Best Free Crypto Trading Bot 2026.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Cortex-AI-Network/crypto-arbitrage-bot-automated-trading：Cortex-AI-Network/cry
 | forks | 35/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

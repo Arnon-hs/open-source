@@ -1,6 +1,6 @@
 # NVIDIA/dgx-spark-playbooks
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/dgx-spark-playbooks?style=flat-square&color=yellow)](https://github.com/NVIDIA/dgx-spark-playbooks/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/dgx-spark-playbooks?style=flat-square&color=blue)](https://github.com/NVIDIA/dgx-spark-playbooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/dgx-spark-playbooks?style=flat-square&color=yellow)](https://github.com/NVIDIA/dgx-spark-playbooks/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/dgx-spark-playbooks?style=flat-square&color=blue)](https://github.com/NVIDIA/dgx-spark-playbooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DGX Spark devices with Blackwell architecture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ NVIDIA /dgx‑spark‑playbooks 是一套面向 NVIDIA DGX Spark（Blackwell
 | forks | 60/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

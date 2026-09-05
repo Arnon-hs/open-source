@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Backend
+Trading · Communication · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ mguessan/davmail：mguessan/davmail helps research and automate market workflows
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

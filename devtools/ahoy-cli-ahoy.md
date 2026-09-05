@@ -1,6 +1,6 @@
 # ahoy-cli/ahoy
 
-[![Stars](https://img.shields.io/github/stars/ahoy-cli/ahoy?style=flat-square&color=yellow)](https://github.com/ahoy-cli/ahoy/stargazers) [![Forks](https://img.shields.io/github/forks/ahoy-cli/ahoy?style=flat-square&color=blue)](https://github.com/ahoy-cli/ahoy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahoy-cli/ahoy?style=flat-square&color=yellow)](https://github.com/ahoy-cli/ahoy/stargazers) [![Forks](https://img.shields.io/github/forks/ahoy-cli/ahoy?style=flat-square&color=blue)](https://github.com/ahoy-cli/ahoy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Create shareable, self-documenting command-line tools from simple YAML files. Easily wrap shell, npm, docker... anything, to standardize your processes and make the lives of the people working on your project better.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ ahoy‑cli/ahoy 通过简单的 YAML 文件即可生成可共享、自动生成�
 | forks | 40/100 |
 | stars | 52/100 |
 | topics | 88/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

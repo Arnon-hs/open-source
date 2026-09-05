@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-ack-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/aliyun/alibabacloud-ack-mcp-server?style=flat-square&color=yellow)](https://github.com/aliyun/alibabacloud-ack-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/alibabacloud-ack-mcp-server?style=flat-square&color=blue)](https://github.com/aliyun/alibabacloud-ack-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliyun/alibabacloud-ack-mcp-server?style=flat-square&color=yellow)](https://github.com/aliyun/alibabacloud-ack-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/alibabacloud-ack-mcp-server?style=flat-square&color=blue)](https://github.com/aliyun/alibabacloud-ack-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Alibaba Cloud's ack-mcp-server unifies container operations capabilities, enabling AI assistants and third-party AI agents to perform complex tasks via natural language through the MCP protocol, empowering container-native AIOps. DingTalk discussion group:  70080006301
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ To adopt ack-mcp-server, users can follow these steps:
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

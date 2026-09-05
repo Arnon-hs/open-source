@@ -1,6 +1,6 @@
 # launchapp-dev/animus-cli
 
-[![Stars](https://img.shields.io/github/stars/launchapp-dev/animus-cli?style=flat-square&color=yellow)](https://github.com/launchapp-dev/animus-cli/stargazers) [![Forks](https://img.shields.io/github/forks/launchapp-dev/animus-cli?style=flat-square&color=blue)](https://github.com/launchapp-dev/animus-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/launchapp-dev/animus-cli?style=flat-square&color=yellow)](https://github.com/launchapp-dev/animus-cli/stargazers) [![Forks](https://img.shields.io/github/forks/launchapp-dev/animus-cli?style=flat-square&color=blue)](https://github.com/launchapp-dev/animus-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI agent orchestrator — run multi-model dev teams (Claude, Gemini, GPT) with YAML workflows, daemon scheduling, and MCP integration. 100% Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ launchapp-dev/animus-cli：launchapp-dev/animus-cli helps turn isolated prompts 
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

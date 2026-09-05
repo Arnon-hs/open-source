@@ -1,6 +1,6 @@
 # nqzai/kakunin-core
 
-[![Stars](https://img.shields.io/github/stars/nqzai/kakunin-core?style=flat-square&color=yellow)](https://github.com/nqzai/kakunin-core/stargazers) [![Forks](https://img.shields.io/github/forks/nqzai/kakunin-core?style=flat-square&color=blue)](https://github.com/nqzai/kakunin-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nqzai/kakunin-core?style=flat-square&color=yellow)](https://github.com/nqzai/kakunin-core/stargazers) [![Forks](https://img.shields.io/github/forks/nqzai/kakunin-core?style=flat-square&color=blue)](https://github.com/nqzai/kakunin-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent compliance platform — X.509 identity via AWS KMS, real-time behavioral risk scoring, auto-revocation, and MiCA / EU AI Act compliance reporting. AGPL-3.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Observability · Security
+Automation · AI/ML · Cloud & Storage · Observability · Security
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ nqzai/kakunin-core 的价值在于帮助减少重复的手动操作，使工作�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

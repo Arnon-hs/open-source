@@ -1,6 +1,6 @@
 # yangbobo2021/relay-dsh-plugin-codex
 
-[![Stars](https://img.shields.io/github/stars/yangbobo2021/relay-dsh-plugin-codex?style=flat-square&color=yellow)](https://github.com/yangbobo2021/relay-dsh-plugin-codex/stargazers) [![Forks](https://img.shields.io/github/forks/yangbobo2021/relay-dsh-plugin-codex?style=flat-square&color=blue)](https://github.com/yangbobo2021/relay-dsh-plugin-codex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yangbobo2021/relay-dsh-plugin-codex?style=flat-square&color=yellow)](https://github.com/yangbobo2021/relay-dsh-plugin-codex/stargazers) [![Forks](https://img.shields.io/github/forks/yangbobo2021/relay-dsh-plugin-codex?style=flat-square&color=blue)](https://github.com/yangbobo2021/relay-dsh-plugin-codex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Codex integration plugin for DeepSeek Harness, providing native Codex conversations powered by the Codex App Server, with workspace, terminal, approval, and DSH tool support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-30 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ yangbobo2021/relay-dsh-plugin-codex：yangbobo2021/relay-dsh-plugin-codex helps 
 | forks | 8/100 |
 | stars | 10/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 9/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

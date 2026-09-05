@@ -1,6 +1,6 @@
 # lovell/avif-cli
 
-[![Stars](https://img.shields.io/github/stars/lovell/avif-cli?style=flat-square&color=yellow)](https://github.com/lovell/avif-cli/stargazers) [![Forks](https://img.shields.io/github/forks/lovell/avif-cli?style=flat-square&color=blue)](https://github.com/lovell/avif-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lovell/avif-cli?style=flat-square&color=yellow)](https://github.com/lovell/avif-cli/stargazers) [![Forks](https://img.shields.io/github/forks/lovell/avif-cli?style=flat-square&color=blue)](https://github.com/lovell/avif-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Command line utility to convert images to AVIF
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ lovell/avif-cli 的生产可用性为中等。虽然它对于原型或内部工�
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

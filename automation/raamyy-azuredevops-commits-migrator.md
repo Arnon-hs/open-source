@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-05-01 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -73,6 +73,7 @@ Migrating Azure Devops Activity to GitHub 🔄️：Migrating Azure Devops Activ
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

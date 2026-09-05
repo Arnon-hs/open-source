@@ -1,6 +1,6 @@
 # inference-gateway/adl
 
-[![Stars](https://img.shields.io/github/stars/inference-gateway/adl?style=flat-square&color=yellow)](https://github.com/inference-gateway/adl/stargazers) [![Forks](https://img.shields.io/github/forks/inference-gateway/adl?style=flat-square&color=blue)](https://github.com/inference-gateway/adl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inference-gateway/adl?style=flat-square&color=yellow)](https://github.com/inference-gateway/adl/stargazers) [![Forks](https://img.shields.io/github/forks/inference-gateway/adl?style=flat-square&color=blue)](https://github.com/inference-gateway/adl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A declarative language for defining AI agents, their capabilities, skills and tools. ADL simplifies agent development by generating consistent, enterprise-ready code from a single manifest. Build faster. Deploy smarter. Stay consistent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ inference-gateway/adl 的生产可用性为中等（Medium）：适合于原型�
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

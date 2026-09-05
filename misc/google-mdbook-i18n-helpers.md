@@ -1,6 +1,6 @@
 # google/mdbook-i18n-helpers
 
-[![Stars](https://img.shields.io/github/stars/google/mdbook-i18n-helpers?style=flat-square&color=yellow)](https://github.com/google/mdbook-i18n-helpers/stargazers) [![Forks](https://img.shields.io/github/forks/google/mdbook-i18n-helpers?style=flat-square&color=blue)](https://github.com/google/mdbook-i18n-helpers/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/mdbook-i18n-helpers?style=flat-square&color=yellow)](https://github.com/google/mdbook-i18n-helpers/stargazers) [![Forks](https://img.shields.io/github/forks/google/mdbook-i18n-helpers?style=flat-square&color=blue)](https://github.com/google/mdbook-i18n-helpers/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ google/mdbook-i18n-helpers 帮助你在不从头开始构建 AI 模型栈的情�
 | forks | 41/100 |
 | stars | 50/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # firebolt-db/firebolt-core
 
-[![Stars](https://img.shields.io/github/stars/firebolt-db/firebolt-core?style=flat-square&color=yellow)](https://github.com/firebolt-db/firebolt-core/stargazers) [![Forks](https://img.shields.io/github/forks/firebolt-db/firebolt-core?style=flat-square&color=blue)](https://github.com/firebolt-db/firebolt-core/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firebolt-db/firebolt-core?style=flat-square&color=yellow)](https://github.com/firebolt-db/firebolt-core/stargazers) [![Forks](https://img.shields.io/github/forks/firebolt-db/firebolt-core?style=flat-square&color=blue)](https://github.com/firebolt-db/firebolt-core/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Firebolt Core is a free, self-hosted edition of Firebolt's distributed query engine (https://www.firebolt.io/); it provides high-performance data warehousing capabilities that can be deployed anywhere from a single laptop to enterprise datacenters.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 202 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database
+AI/ML · Cloud & Storage · Data · Database
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Firebolt Core 为开发者提供了一个免费、可自托管的分布式查询
 | forks | 21/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

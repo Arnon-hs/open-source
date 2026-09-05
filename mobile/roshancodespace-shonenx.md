@@ -1,6 +1,6 @@
 # roshancodespace/ShonenX
 
-[![Stars](https://img.shields.io/github/stars/roshancodespace/ShonenX?style=flat-square&color=yellow)](https://github.com/roshancodespace/ShonenX/stargazers) [![Forks](https://img.shields.io/github/forks/roshancodespace/ShonenX?style=flat-square&color=blue)](https://github.com/roshancodespace/ShonenX/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roshancodespace/ShonenX?style=flat-square&color=yellow)](https://github.com/roshancodespace/ShonenX/stargazers) [![Forks](https://img.shields.io/github/forks/roshancodespace/ShonenX?style=flat-square&color=blue)](https://github.com/roshancodespace/ShonenX/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A modern Flutter application for media discovery, tracking, and streaming. Featuring seamless AniList and MyAnimeList integration, customizable content providers, offline capabilities, smooth playback, and a refined user experience, the app is built with a strong focus on performance, scalability, and modern design principles.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ ShonenX 的生产可用性为中等，适合用于原型或内部工作流。然
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

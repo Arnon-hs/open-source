@@ -1,6 +1,6 @@
 # bingook/bingo
 
-[![Stars](https://img.shields.io/github/stars/bingook/bingo?style=flat-square&color=yellow)](https://github.com/bingook/bingo/stargazers) [![Forks](https://img.shields.io/github/forks/bingook/bingo?style=flat-square&color=blue)](https://github.com/bingook/bingo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bingook/bingo?style=flat-square&color=yellow)](https://github.com/bingook/bingo/stargazers) [![Forks](https://img.shields.io/github/forks/bingook/bingo?style=flat-square&color=blue)](https://github.com/bingook/bingo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Bingo 的生产可用性为中等（Medium）。它适合用于原型开发、�
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

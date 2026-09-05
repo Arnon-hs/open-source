@@ -1,6 +1,6 @@
 # Quantova/Qweb4.rs
 
-[![Stars](https://img.shields.io/github/stars/Quantova/Qweb4.rs?style=flat-square&color=yellow)](https://github.com/Quantova/Qweb4.rs/stargazers) [![Forks](https://img.shields.io/github/forks/Quantova/Qweb4.rs?style=flat-square&color=blue)](https://github.com/Quantova/Qweb4.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quantova/Qweb4.rs?style=flat-square&color=yellow)](https://github.com/Quantova/Qweb4.rs/stargazers) [![Forks](https://img.shields.io/github/forks/Quantova/Qweb4.rs?style=flat-square&color=blue)](https://github.com/Quantova/Qweb4.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Official Rust client for Quantova, the post-quantum Layer-1 — built by Quantova alongside qweb3.js and qweb3.py. Connect, derive Q addresses, use the QVM and QNS, and sign with post-quantum keys. Quantova's own implementation, not a fork or copy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Quantova/Qweb4.rs 具有很高的生产可用性，主要因为其：
 | forks | 57/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

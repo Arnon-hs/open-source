@@ -1,6 +1,6 @@
 # valqore/valqore
 
-[![Stars](https://img.shields.io/github/stars/valqore/valqore?style=flat-square&color=yellow)](https://github.com/valqore/valqore/stargazers) [![Forks](https://img.shields.io/github/forks/valqore/valqore?style=flat-square&color=blue)](https://github.com/valqore/valqore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/valqore/valqore?style=flat-square&color=yellow)](https://github.com/valqore/valqore/stargazers) [![Forks](https://img.shields.io/github/forks/valqore/valqore?style=flat-square&color=blue)](https://github.com/valqore/valqore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Safety-first guardrails for AI-driven cloud and Kubernetes operations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 924 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ valqore 是一套面向 AI 驱动的云与 Kubernetes 运维的安全防护框�
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

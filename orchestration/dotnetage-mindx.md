@@ -1,6 +1,6 @@
 # DotNetAge/mindx
 
-[![Stars](https://img.shields.io/github/stars/DotNetAge/mindx?style=flat-square&color=yellow)](https://github.com/DotNetAge/mindx/stargazers) [![Forks](https://img.shields.io/github/forks/DotNetAge/mindx?style=flat-square&color=blue)](https://github.com/DotNetAge/mindx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DotNetAge/mindx?style=flat-square&color=yellow)](https://github.com/DotNetAge/mindx/stargazers) [![Forks](https://img.shields.io/github/forks/DotNetAge/mindx?style=flat-square&color=blue)](https://github.com/DotNetAge/mindx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MindX is an open-source AI Agent orchestration platform (Agent Harness) that leverages hybrid orchestration modes, intelligent memory systems, and a proprietary tech stack to help you efficiently build, manage, and run AI Agent workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ MindX（DotNetAge/mindx）是一个开源的 AI Agent 编排平台（Agent Harne
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

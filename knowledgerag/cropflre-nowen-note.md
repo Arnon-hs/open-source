@@ -1,6 +1,6 @@
 # cropflre/nowen-note
 
-[![Stars](https://img.shields.io/github/stars/cropflre/nowen-note?style=flat-square&color=yellow)](https://github.com/cropflre/nowen-note/stargazers) [![Forks](https://img.shields.io/github/forks/cropflre/nowen-note?style=flat-square&color=blue)](https://github.com/cropflre/nowen-note/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cropflre/nowen-note?style=flat-square&color=yellow)](https://github.com/cropflre/nowen-note/stargazers) [![Forks](https://img.shields.io/github/forks/cropflre/nowen-note?style=flat-square&color=blue)](https://github.com/cropflre/nowen-note/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 开源自托管笔记与私有知识库，支持 Markdown/富文本、AI 写作、思维导图、任务管理、全文搜索、多级笔记本和 Docker 一键部署。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · DevOps/Infra
+Knowledge/RAG · Documents · Productivity · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ cropflre/nowen-note 是一款开源的自托管笔记与私有知识库系统，
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

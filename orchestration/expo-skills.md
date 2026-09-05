@@ -1,6 +1,6 @@
 # expo/skills
 
-[![Stars](https://img.shields.io/github/stars/expo/skills?style=flat-square&color=yellow)](https://github.com/expo/skills/stargazers) [![Forks](https://img.shields.io/github/forks/expo/skills?style=flat-square&color=blue)](https://github.com/expo/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/expo/skills?style=flat-square&color=yellow)](https://github.com/expo/skills/stargazers) [![Forks](https://img.shields.io/github/forks/expo/skills?style=flat-square&color=blue)](https://github.com/expo/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of AI agent skills for working with Expo projects and Expo Application Services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ expo/skills 是一套面向 Expo 项目和 Expo Application Services（EAS）的
 | forks | 51/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

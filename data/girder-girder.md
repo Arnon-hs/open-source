@@ -1,6 +1,6 @@
 # girder/girder
 
-[![Stars](https://img.shields.io/github/stars/girder/girder?style=flat-square&color=yellow)](https://github.com/girder/girder/stargazers) [![Forks](https://img.shields.io/github/forks/girder/girder?style=flat-square&color=blue)](https://github.com/girder/girder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/girder/girder?style=flat-square&color=yellow)](https://github.com/girder/girder/stargazers) [![Forks](https://img.shields.io/github/forks/girder/girder?style=flat-square&color=blue)](https://github.com/girder/girder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A data management platform for the web, developed by Kitware
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Girder（girder/girder）是 Kitware 开源的 Web 数据管理平台，提供�
 | forks | 57/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

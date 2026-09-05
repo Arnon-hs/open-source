@@ -1,6 +1,6 @@
 # beltromatti/get-it
 
-[![Stars](https://img.shields.io/github/stars/beltromatti/get-it?style=flat-square&color=yellow)](https://github.com/beltromatti/get-it/stargazers) [![Forks](https://img.shields.io/github/forks/beltromatti/get-it?style=flat-square&color=blue)](https://github.com/beltromatti/get-it/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beltromatti/get-it?style=flat-square&color=yellow)](https://github.com/beltromatti/get-it/stargazers) [![Forks](https://img.shields.io/github/forks/beltromatti/get-it?style=flat-square&color=blue)](https://github.com/beltromatti/get-it/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 850 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Documents · Frontend · Data
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ beltromatti/get-it 在生产环境中的可用性评级为高。其 GitHub 仓�
 | forks | 50/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

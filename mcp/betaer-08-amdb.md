@@ -1,6 +1,6 @@
 # BETAER-08/amdb
 
-[![Stars](https://img.shields.io/github/stars/BETAER-08/amdb?style=flat-square&color=yellow)](https://github.com/BETAER-08/amdb/stargazers) [![Forks](https://img.shields.io/github/forks/BETAER-08/amdb?style=flat-square&color=blue)](https://github.com/BETAER-08/amdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BETAER-08/amdb?style=flat-square&color=yellow)](https://github.com/BETAER-08/amdb/stargazers) [![Forks](https://img.shields.io/github/forks/BETAER-08/amdb?style=flat-square&color=blue)](https://github.com/BETAER-08/amdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your codebase into AI context — entirely on your machine. Single-binary MCP server with AST parsing, call graph, and local embeddings.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ BETAER-08/amdb是一个开源项目，允许将代码库转化为 AI 上下文�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # simonlin1212/Agent-Staff
 
-[![Stars](https://img.shields.io/github/stars/simonlin1212/Agent-Staff?style=flat-square&color=yellow)](https://github.com/simonlin1212/Agent-Staff/stargazers) [![Forks](https://img.shields.io/github/forks/simonlin1212/Agent-Staff?style=flat-square&color=blue)](https://github.com/simonlin1212/Agent-Staff/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonlin1212/Agent-Staff?style=flat-square&color=yellow)](https://github.com/simonlin1212/Agent-Staff/stargazers) [![Forks](https://img.shields.io/github/forks/simonlin1212/Agent-Staff?style=flat-square&color=blue)](https://github.com/simonlin1212/Agent-Staff/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 把公司 Agent 化:按你的组织架构给每个部门(业务/财务/人力/行政/运营/合规)嵌一个 AI agent,CEO 参谋长统筹全局经营,常驻飞书。 | Agentify your whole company: an AI agent per department, a chief-of-staff running the business, all in Feishu/Lark.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ simonlin1212/Agent-Staff的价值在于，它可以将孤立的提示和工具�
 | forks | 26/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

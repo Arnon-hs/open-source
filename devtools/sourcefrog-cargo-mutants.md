@@ -1,6 +1,6 @@
 # sourcefrog/cargo-mutants
 
-[![Stars](https://img.shields.io/github/stars/sourcefrog/cargo-mutants?style=flat-square&color=yellow)](https://github.com/sourcefrog/cargo-mutants/stargazers) [![Forks](https://img.shields.io/github/forks/sourcefrog/cargo-mutants?style=flat-square&color=blue)](https://github.com/sourcefrog/cargo-mutants/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sourcefrog/cargo-mutants?style=flat-square&color=yellow)](https://github.com/sourcefrog/cargo-mutants/stargazers) [![Forks](https://img.shields.io/github/forks/sourcefrog/cargo-mutants?style=flat-square&color=blue)](https://github.com/sourcefrog/cargo-mutants/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > :zombie: Inject bugs and see if your tests catch them!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Overall, *cargo‑mutants* is a production‑ready OSS candidate that can be eva
 | forks | 41/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cogwheel0/conduit
 
-[![Stars](https://img.shields.io/github/stars/cogwheel0/conduit?style=flat-square&color=yellow)](https://github.com/cogwheel0/conduit/stargazers) [![Forks](https://img.shields.io/github/forks/cogwheel0/conduit?style=flat-square&color=blue)](https://github.com/cogwheel0/conduit/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cogwheel0/conduit?style=flat-square&color=yellow)](https://github.com/cogwheel0/conduit/stargazers) [![Forks](https://img.shields.io/github/forks/cogwheel0/conduit?style=flat-square&color=blue)](https://github.com/cogwheel0/conduit/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile (iOS/Android) client for OpenWebUI. Chat with your self‑hosted AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Mobile
+AI/ML · Communication · Mobile
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ cogwheel0/conduit 的价值在于，它可以帮助你在现有的 AI 栈上添�
 | forks | 57/100 |
 | stars | 69/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

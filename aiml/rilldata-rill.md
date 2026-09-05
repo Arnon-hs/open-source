@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Cloud & Storage · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ rilldata/rill：rilldata/rill helps add AI capability without starting from a bl
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

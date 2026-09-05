@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools
+Automation · AI/ML · Games & Graphics · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ htdt/godogen：htdt/godogen helps remove repetitive manual operations from a wor
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

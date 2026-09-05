@@ -1,6 +1,6 @@
 # agent-of-empires/agent-of-empires
 
-[![Stars](https://img.shields.io/github/stars/agent-of-empires/agent-of-empires?style=flat-square&color=yellow)](https://github.com/agent-of-empires/agent-of-empires/stargazers) [![Forks](https://img.shields.io/github/forks/agent-of-empires/agent-of-empires?style=flat-square&color=blue)](https://github.com/agent-of-empires/agent-of-empires/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-of-empires/agent-of-empires?style=flat-square&color=yellow)](https://github.com/agent-of-empires/agent-of-empires/stargazers) [![Forks](https://img.shields.io/github/forks/agent-of-empires/agent-of-empires?style=flat-square&color=blue)](https://github.com/agent-of-empires/agent-of-empires/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ agent-of-empires/agent-of-empires：agent-of-empires/agent-of-empires helps add 
 | forks | 59/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

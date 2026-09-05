@@ -1,6 +1,6 @@
 # redmadrobot-rnd/harness-bench
 
-[![Stars](https://img.shields.io/github/stars/redmadrobot-rnd/harness-bench?style=flat-square&color=yellow)](https://github.com/redmadrobot-rnd/harness-bench/stargazers) [![Forks](https://img.shields.io/github/forks/redmadrobot-rnd/harness-bench?style=flat-square&color=blue)](https://github.com/redmadrobot-rnd/harness-bench/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redmadrobot-rnd/harness-bench?style=flat-square&color=yellow)](https://github.com/redmadrobot-rnd/harness-bench/stargazers) [![Forks](https://img.shields.io/github/forks/redmadrobot-rnd/harness-bench?style=flat-square&color=blue)](https://github.com/redmadrobot-rnd/harness-bench/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: Harness Bench: как оценить агентский harness и выбрать связку с моделью
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 31/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Harness Bench 是一款用于评估 **agent harness**（代理框架）并�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 32/100 |
-| quality | 24/100 |
-| recency | 40/100 |
+| outlook | 46/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 37/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

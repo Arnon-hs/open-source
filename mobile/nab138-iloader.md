@@ -1,6 +1,6 @@
 # nab138/iloader
 
-[![Stars](https://img.shields.io/github/stars/nab138/iloader?style=flat-square&color=yellow)](https://github.com/nab138/iloader/stargazers) [![Forks](https://img.shields.io/github/forks/nab138/iloader?style=flat-square&color=blue)](https://github.com/nab138/iloader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nab138/iloader?style=flat-square&color=yellow)](https://github.com/nab138/iloader/stargazers) [![Forks](https://img.shields.io/github/forks/nab138/iloader?style=flat-square&color=blue)](https://github.com/nab138/iloader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > User friendly sideloader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ The repository shows strong OSS signals—high star count, recent commits, activ
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 46/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

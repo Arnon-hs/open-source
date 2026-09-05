@@ -1,6 +1,6 @@
 # weaiw/trove-ai
 
-[![Stars](https://img.shields.io/github/stars/weaiw/trove-ai?style=flat-square&color=yellow)](https://github.com/weaiw/trove-ai/stargazers) [![Forks](https://img.shields.io/github/forks/weaiw/trove-ai?style=flat-square&color=blue)](https://github.com/weaiw/trove-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weaiw/trove-ai?style=flat-square&color=yellow)](https://github.com/weaiw/trove-ai/stargazers) [![Forks](https://img.shields.io/github/forks/weaiw/trove-ai?style=flat-square&color=blue)](https://github.com/weaiw/trove-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 中文互联网内容的个人 AI 稍后读 + 知识库 · Read-later + AI knowledge base for the Chinese internet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ weaiw/trove‑ai 是一个面向中文互联网的「稍后读」+ 知识库系�
 | forks | 35/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

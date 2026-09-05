@@ -1,6 +1,6 @@
 # OpenByteInc/QuantDinger
 
-[![Stars](https://img.shields.io/github/stars/OpenByteInc/QuantDinger?style=flat-square&color=yellow)](https://github.com/OpenByteInc/QuantDinger/stargazers) [![Forks](https://img.shields.io/github/forks/OpenByteInc/QuantDinger?style=flat-square&color=blue)](https://github.com/OpenByteInc/QuantDinger/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenByteInc/QuantDinger?style=flat-square&color=yellow)](https://github.com/OpenByteInc/QuantDinger/stargazers) [![Forks](https://img.shields.io/github/forks/OpenByteInc/QuantDinger?style=flat-square&color=blue)](https://github.com/OpenByteInc/QuantDinger/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ OpenByteInc/QuantDinger 的生产可用性非常高。它有大量的 GitHub 星
 | forks | 83/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 87/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

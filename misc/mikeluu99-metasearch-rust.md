@@ -1,6 +1,6 @@
 # MikeLuu99/metasearch-rust
 
-[![Stars](https://img.shields.io/github/stars/MikeLuu99/metasearch-rust?style=flat-square&color=yellow)](https://github.com/MikeLuu99/metasearch-rust/stargazers) [![Forks](https://img.shields.io/github/forks/MikeLuu99/metasearch-rust?style=flat-square&color=blue)](https://github.com/MikeLuu99/metasearch-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MikeLuu99/metasearch-rust?style=flat-square&color=yellow)](https://github.com/MikeLuu99/metasearch-rust/stargazers) [![Forks](https://img.shields.io/github/forks/MikeLuu99/metasearch-rust?style=flat-square&color=blue)](https://github.com/MikeLuu99/metasearch-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > a metasearch engine similar to searxng in rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ MikeLuu99/metasearch-rust 在生产环境中的可用性为中等（Medium），
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 57/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

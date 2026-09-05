@@ -1,6 +1,6 @@
 # zhangyuang/node-ffi-rs
 
-[![Stars](https://img.shields.io/github/stars/zhangyuang/node-ffi-rs?style=flat-square&color=yellow)](https://github.com/zhangyuang/node-ffi-rs/stargazers) [![Forks](https://img.shields.io/github/forks/zhangyuang/node-ffi-rs?style=flat-square&color=blue)](https://github.com/zhangyuang/node-ffi-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhangyuang/node-ffi-rs?style=flat-square&color=yellow)](https://github.com/zhangyuang/node-ffi-rs/stargazers) [![Forks](https://img.shields.io/github/forks/zhangyuang/node-ffi-rs?style=flat-square&color=blue)](https://github.com/zhangyuang/node-ffi-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Implement ffi in Node.js by Rust and NAPI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ zhangyuang/node-ffi-rs 在生产环境的可用性为中等（Medium）。它适
 | forks | 36/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

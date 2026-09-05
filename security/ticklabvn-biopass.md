@@ -1,6 +1,6 @@
 # TickLabVN/biopass
 
-[![Stars](https://img.shields.io/github/stars/TickLabVN/biopass?style=flat-square&color=yellow)](https://github.com/TickLabVN/biopass/stargazers) [![Forks](https://img.shields.io/github/forks/TickLabVN/biopass?style=flat-square&color=blue)](https://github.com/TickLabVN/biopass/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TickLabVN/biopass?style=flat-square&color=yellow)](https://github.com/TickLabVN/biopass/stargazers) [![Forks](https://img.shields.io/github/forks/TickLabVN/biopass?style=flat-square&color=blue)](https://github.com/TickLabVN/biopass/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An alternative to Windows Hello/Howdy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ TickLabVN/biopass 的生产可用性为中等水平（Medium），适合用于�
 | forks | 34/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # FRACerqueira/PromptPlus
 
-[![Stars](https://img.shields.io/github/stars/FRACerqueira/PromptPlus?style=flat-square&color=yellow)](https://github.com/FRACerqueira/PromptPlus/stargazers) [![Forks](https://img.shields.io/github/forks/FRACerqueira/PromptPlus?style=flat-square&color=blue)](https://github.com/FRACerqueira/PromptPlus/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FRACerqueira/PromptPlus?style=flat-square&color=yellow)](https://github.com/FRACerqueira/PromptPlus/stargazers) [![Forks](https://img.shields.io/github/forks/FRACerqueira/PromptPlus?style=flat-square&color=blue)](https://github.com/FRACerqueira/PromptPlus/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive command-line toolkit for .Net core with powerful controls and commands to create professional console applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ FRACerqueira/PromptPlus 是一套面向 .NET Core 的交互式命令行工具�
 | forks | 19/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

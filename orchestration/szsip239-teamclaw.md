@@ -1,6 +1,6 @@
 # szsip239/teamclaw
 
-[![Stars](https://img.shields.io/github/stars/szsip239/teamclaw?style=flat-square&color=yellow)](https://github.com/szsip239/teamclaw/stargazers) [![Forks](https://img.shields.io/github/forks/szsip239/teamclaw?style=flat-square&color=blue)](https://github.com/szsip239/teamclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/szsip239/teamclaw?style=flat-square&color=yellow)](https://github.com/szsip239/teamclaw/stargazers) [![Forks](https://img.shields.io/github/forks/szsip239/teamclaw?style=flat-square&color=blue)](https://github.com/szsip239/teamclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > TeamClaw 是面向企业内部 AI Agent 落地的 operations control plane。它把运行时实例、Agent、Skills、模型资源、知识库、权限、审计和对话体验收口到一个多租户平台里，让团队可以在同一套界面里管理多个实例、多个部门、多个 Agent 和多个 runtime。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ TeamClaw 的生产可用性为中等（Medium），适用于原型或内部工�
 | forks | 29/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

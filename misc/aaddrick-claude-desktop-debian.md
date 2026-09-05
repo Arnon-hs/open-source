@@ -1,6 +1,6 @@
 # aaddrick/claude-desktop-debian
 
-[![Stars](https://img.shields.io/github/stars/aaddrick/claude-desktop-debian?style=flat-square&color=yellow)](https://github.com/aaddrick/claude-desktop-debian/stargazers) [![Forks](https://img.shields.io/github/forks/aaddrick/claude-desktop-debian?style=flat-square&color=blue)](https://github.com/aaddrick/claude-desktop-debian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaddrick/claude-desktop-debian?style=flat-square&color=yellow)](https://github.com/aaddrick/claude-desktop-debian/stargazers) [![Forks](https://img.shields.io/github/forks/aaddrick/claude-desktop-debian?style=flat-square&color=blue)](https://github.com/aaddrick/claude-desktop-debian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Desktop for Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 517 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Claude Desktop for Linux 是一款在 Linux（Debian）上运行的本地客户�
 | forks | 68/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

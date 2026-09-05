@@ -1,6 +1,6 @@
 # llm-d/llm-d-router
 
-[![Stars](https://img.shields.io/github/stars/llm-d/llm-d-router?style=flat-square&color=yellow)](https://github.com/llm-d/llm-d-router/stargazers) [![Forks](https://img.shields.io/github/forks/llm-d/llm-d-router?style=flat-square&color=blue)](https://github.com/llm-d/llm-d-router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm-d/llm-d-router?style=flat-square&color=yellow)](https://github.com/llm-d/llm-d-router/stargazers) [![Forks](https://img.shields.io/github/forks/llm-d/llm-d-router?style=flat-square&color=blue)](https://github.com/llm-d/llm-d-router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > llm-d Router: The intelligent entry point for inference requests
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 265 |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · Networking · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ llm-d/llm-d-router 生产可用性较高，主要原因是：
 | forks | 61/100 |
 | stars | 52/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

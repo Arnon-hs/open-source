@@ -1,6 +1,6 @@
 # samueltuoyo15/Dokugen
 
-[![Stars](https://img.shields.io/github/stars/samueltuoyo15/Dokugen?style=flat-square&color=yellow)](https://github.com/samueltuoyo15/Dokugen/stargazers) [![Forks](https://img.shields.io/github/forks/samueltuoyo15/Dokugen?style=flat-square&color=blue)](https://github.com/samueltuoyo15/Dokugen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samueltuoyo15/Dokugen?style=flat-square&color=yellow)](https://github.com/samueltuoyo15/Dokugen/stargazers) [![Forks](https://img.shields.io/github/forks/samueltuoyo15/Dokugen?style=flat-square&color=blue)](https://github.com/samueltuoyo15/Dokugen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight README.md file Generator CLI. It simplifies the process of writing your README.md file from scratch by generating professional README.md files for your projects, saving you time.  The idea behind Dokugen is simple but impactful, automate the most neglected part of a repo. The results cleaner projects and happier contributors
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Dokugen的生产可用性为中等（Medium），适合用于原型或内部工�
 | forks | 35/100 |
 | stars | 53/100 |
 | topics | 13/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # serversideup/spin
 
-[![Stars](https://img.shields.io/github/stars/serversideup/spin?style=flat-square&color=yellow)](https://github.com/serversideup/spin/stargazers) [![Forks](https://img.shields.io/github/forks/serversideup/spin?style=flat-square&color=blue)](https://github.com/serversideup/spin/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serversideup/spin?style=flat-square&color=yellow)](https://github.com/serversideup/spin/stargazers) [![Forks](https://img.shields.io/github/forks/serversideup/spin?style=flat-square&color=blue)](https://github.com/serversideup/spin/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevOps/Infra · Product
+Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ serversideup/spin：serversideup/spin helps teams reuse service infrastructure i
 | forks | 46/100 |
 | stars | 68/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

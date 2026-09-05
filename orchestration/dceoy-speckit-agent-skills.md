@@ -1,6 +1,6 @@
 # dceoy/speckit-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/dceoy/speckit-agent-skills?style=flat-square&color=yellow)](https://github.com/dceoy/speckit-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dceoy/speckit-agent-skills?style=flat-square&color=blue)](https://github.com/dceoy/speckit-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dceoy/speckit-agent-skills?style=flat-square&color=yellow)](https://github.com/dceoy/speckit-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dceoy/speckit-agent-skills?style=flat-square&color=blue)](https://github.com/dceoy/speckit-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for Spec Kit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ dceoy/speckit-agent-skills 帮助您：
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

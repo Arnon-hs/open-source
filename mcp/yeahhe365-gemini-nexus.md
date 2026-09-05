@@ -1,6 +1,6 @@
 # yeahhe365/gemini-nexus
 
-[![Stars](https://img.shields.io/github/stars/yeahhe365/gemini-nexus?style=flat-square&color=yellow)](https://github.com/yeahhe365/gemini-nexus/stargazers) [![Forks](https://img.shields.io/github/forks/yeahhe365/gemini-nexus?style=flat-square&color=blue)](https://github.com/yeahhe365/gemini-nexus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yeahhe365/gemini-nexus?style=flat-square&color=yellow)](https://github.com/yeahhe365/gemini-nexus/stargazers) [![Forks](https://img.shields.io/github/forks/yeahhe365/gemini-nexus?style=flat-square&color=blue)](https://github.com/yeahhe365/gemini-nexus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展程序。它不仅仅是一个侧边栏插件，而是通过注入式的悬浮工具栏、强大的图像 AI 处理以及前沿的浏览器控制协议 (MCP)，将 AI 的触角伸向网页浏览的每一个交互细节。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 976 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展，除
 | forks | 54/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

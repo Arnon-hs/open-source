@@ -1,6 +1,6 @@
 # Apps2Samsung/Apps2Samsung
 
-[![Stars](https://img.shields.io/github/stars/Apps2Samsung/Apps2Samsung?style=flat-square&color=yellow)](https://github.com/Apps2Samsung/Apps2Samsung/stargazers) [![Forks](https://img.shields.io/github/forks/Apps2Samsung/Apps2Samsung?style=flat-square&color=blue)](https://github.com/Apps2Samsung/Apps2Samsung/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Apps2Samsung/Apps2Samsung?style=flat-square&color=yellow)](https://github.com/Apps2Samsung/Apps2Samsung/stargazers) [![Forks](https://img.shields.io/github/forks/Apps2Samsung/Apps2Samsung?style=flat-square&color=blue)](https://github.com/Apps2Samsung/Apps2Samsung/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) — Jellyfin, Moonlight, and the whole community catalog.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Apps2Samsung/Apps2Samsung 的生产可用性
 | forks | 42/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

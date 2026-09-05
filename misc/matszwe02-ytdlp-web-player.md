@@ -1,6 +1,6 @@
 # Matszwe02/ytdlp_web_player
 
-[![Stars](https://img.shields.io/github/stars/Matszwe02/ytdlp_web_player?style=flat-square&color=yellow)](https://github.com/Matszwe02/ytdlp_web_player/stargazers) [![Forks](https://img.shields.io/github/forks/Matszwe02/ytdlp_web_player?style=flat-square&color=blue)](https://github.com/Matszwe02/ytdlp_web_player/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Matszwe02/ytdlp_web_player?style=flat-square&color=yellow)](https://github.com/Matszwe02/ytdlp_web_player/stargazers) [![Forks](https://img.shields.io/github/forks/Matszwe02/ytdlp_web_player?style=flat-square&color=blue)](https://github.com/Matszwe02/ytdlp_web_player/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > YT-DLP Web Player - Internet video player powered by yt-dlp
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 658 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ Matszwe02/ytdlp_web_player 是一个基于 yt-dlp 的网络视频播放器。它
 | forks | 31/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

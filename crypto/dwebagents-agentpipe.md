@@ -1,6 +1,6 @@
 # dwebagents/AgentPipe
 
-[![Stars](https://img.shields.io/github/stars/dwebagents/AgentPipe?style=flat-square&color=yellow)](https://github.com/dwebagents/AgentPipe/stargazers) [![Forks](https://img.shields.io/github/forks/dwebagents/AgentPipe?style=flat-square&color=blue)](https://github.com/dwebagents/AgentPipe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dwebagents/AgentPipe?style=flat-square&color=yellow)](https://github.com/dwebagents/AgentPipe/stargazers) [![Forks](https://img.shields.io/github/forks/dwebagents/AgentPipe?style=flat-square&color=blue)](https://github.com/dwebagents/AgentPipe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > High performance multithreaded task execution and optimization engine for agents and dweb apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ dwebagents/AgentPipe 是一个面向去中心化 Web（dWeb）和智能体的高
 | forks | 41/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

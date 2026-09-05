@@ -1,6 +1,6 @@
 # remotion-dev/recorder
 
-[![Stars](https://img.shields.io/github/stars/remotion-dev/recorder?style=flat-square&color=yellow)](https://github.com/remotion-dev/recorder/stargazers) [![Forks](https://img.shields.io/github/forks/remotion-dev/recorder?style=flat-square&color=blue)](https://github.com/remotion-dev/recorder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remotion-dev/recorder?style=flat-square&color=yellow)](https://github.com/remotion-dev/recorder/stargazers) [![Forks](https://img.shields.io/github/forks/remotion-dev/recorder?style=flat-square&color=blue)](https://github.com/remotion-dev/recorder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Video production for developers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ User Safety: safe
 | forks | 32/100 |
 | stars | 36/100 |
 | topics | 38/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

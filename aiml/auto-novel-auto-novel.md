@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ auto-novel – это открытый веб‑инструмент, автом
 
 ### 中文
 
-auto-novel/auto-novel：auto-novel/auto-novel helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+auto-novel/auto-novel：auto-novel/auto-novel helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** auto-novel/auto-novel helps add AI capability without starting from a blank model stack.
+**Value:** auto-novel/auto-novel helps ship user-facing interfaces with less custom UI work.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +65,18 @@ auto-novel/auto-novel：auto-novel/auto-novel helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 48/100 |
-| adoption | 60/100 |
-| stars | 64/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

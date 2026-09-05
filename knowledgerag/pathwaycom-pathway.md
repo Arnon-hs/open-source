@@ -1,6 +1,6 @@
 # pathwaycom/pathway
 
-[![Stars](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat-square&color=yellow)](https://github.com/pathwaycom/pathway/stargazers) [![Forks](https://img.shields.io/github/forks/pathwaycom/pathway?style=flat-square&color=blue)](https://github.com/pathwaycom/pathway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat-square&color=yellow)](https://github.com/pathwaycom/pathway/stargazers) [![Forks](https://img.shields.io/github/forks/pathwaycom/pathway?style=flat-square&color=blue)](https://github.com/pathwaycom/pathway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63.3k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Pathway（`pathwaycom/pathway`）是一个基于 Python 的 ETL 框架，专注�
 | forks | 80/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 78/100 |
-| recency | 20/100 |
+| outlook | 86/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 59/100 |
+| production | 78/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

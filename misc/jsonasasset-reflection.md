@@ -1,6 +1,6 @@
 # JsonAsAsset/Reflection
 
-[![Stars](https://img.shields.io/github/stars/JsonAsAsset/Reflection?style=flat-square&color=yellow)](https://github.com/JsonAsAsset/Reflection/stargazers) [![Forks](https://img.shields.io/github/forks/JsonAsAsset/Reflection?style=flat-square&color=blue)](https://github.com/JsonAsAsset/Reflection/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JsonAsAsset/Reflection?style=flat-square&color=yellow)](https://github.com/JsonAsAsset/Reflection/stargazers) [![Forks](https://img.shields.io/github/forks/JsonAsAsset/Reflection?style=flat-square&color=blue)](https://github.com/JsonAsAsset/Reflection/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Reconstruction Toolkit for Unreal Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ JsonAsAsset/Reflection 的生产可用性为中等。它适合用于 prototyping
 | forks | 44/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

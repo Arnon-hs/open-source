@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 476 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ pkp/pkp-lib：pkp/pkp-lib may be useful when its README and activity match a con
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

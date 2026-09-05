@@ -1,6 +1,6 @@
 # zap-coding-agent/zap-coding-agent
 
-[![Stars](https://img.shields.io/github/stars/zap-coding-agent/zap-coding-agent?style=flat-square&color=yellow)](https://github.com/zap-coding-agent/zap-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/zap-coding-agent/zap-coding-agent?style=flat-square&color=blue)](https://github.com/zap-coding-agent/zap-coding-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zap-coding-agent/zap-coding-agent?style=flat-square&color=yellow)](https://github.com/zap-coding-agent/zap-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/zap-coding-agent/zap-coding-agent?style=flat-square&color=blue)](https://github.com/zap-coding-agent/zap-coding-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ZAP is a terminal-first, local AI coding agent built in Rust. It uses AST-powered codebase indexing and lazy-loaded skills to completely eliminate prompt bloat and minimize context token costs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Zap 是一款面向终端的本地 AI 编码助手，使用 Rust 编写，基于
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

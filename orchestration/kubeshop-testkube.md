@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Observability
+Orchestration · Automation · AI/ML · Cloud & Storage · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ kubeshop/testkube：kubeshop/testkube helps turn isolated prompts and tools into
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

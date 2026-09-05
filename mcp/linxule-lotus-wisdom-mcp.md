@@ -1,6 +1,6 @@
 # linxule/lotus-wisdom-mcp
 
-[![Stars](https://img.shields.io/github/stars/linxule/lotus-wisdom-mcp?style=flat-square&color=yellow)](https://github.com/linxule/lotus-wisdom-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/linxule/lotus-wisdom-mcp?style=flat-square&color=blue)](https://github.com/linxule/lotus-wisdom-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linxule/lotus-wisdom-mcp?style=flat-square&color=yellow)](https://github.com/linxule/lotus-wisdom-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/linxule/lotus-wisdom-mcp?style=flat-square&color=blue)](https://github.com/linxule/lotus-wisdom-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Contemplative reasoning MCP server — Lotus Sutra wisdom framework with interactive ext-apps journey visualization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Linxule/Lotus-Wisdom-MCP 帮助连接 AI 助手到实用工具和数据，从而
 | forks | 25/100 |
 | stars | 32/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

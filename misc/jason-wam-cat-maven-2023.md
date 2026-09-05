@@ -1,6 +1,6 @@
 # Jason-wam/Cat-Maven-2023
 
-[![Stars](https://img.shields.io/github/stars/Jason-wam/Cat-Maven-2023?style=flat-square&color=yellow)](https://github.com/Jason-wam/Cat-Maven-2023/stargazers) [![Forks](https://img.shields.io/github/forks/Jason-wam/Cat-Maven-2023?style=flat-square&color=blue)](https://github.com/Jason-wam/Cat-Maven-2023/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jason-wam/Cat-Maven-2023?style=flat-square&color=yellow)](https://github.com/Jason-wam/Cat-Maven-2023/stargazers) [![Forks](https://img.shields.io/github/forks/Jason-wam/Cat-Maven-2023?style=flat-square&color=blue)](https://github.com/Jason-wam/Cat-Maven-2023/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 资源猫用到的相关数据集
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Jason-wam/Cat-Maven-2023 是一个开源项目，提供资源猫所需的相关�
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # leakec/multitask
 
-[![Stars](https://img.shields.io/github/stars/leakec/multitask?style=flat-square&color=yellow)](https://github.com/leakec/multitask/stargazers) [![Forks](https://img.shields.io/github/forks/leakec/multitask?style=flat-square&color=blue)](https://github.com/leakec/multitask/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leakec/multitask?style=flat-square&color=yellow)](https://github.com/leakec/multitask/stargazers) [![Forks](https://img.shields.io/github/forks/leakec/multitask?style=flat-square&color=blue)](https://github.com/leakec/multitask/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A mini-CI as a Zellij plugin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ leakec/multitask：leakec/multitask may be useful when its README and activity m
 | forks | 17/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

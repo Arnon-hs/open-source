@@ -1,6 +1,6 @@
 # appleboy/CodeGPT
 
-[![Stars](https://img.shields.io/github/stars/appleboy/CodeGPT?style=flat-square&color=yellow)](https://github.com/appleboy/CodeGPT/stargazers) [![Forks](https://img.shields.io/github/forks/appleboy/CodeGPT?style=flat-square&color=blue)](https://github.com/appleboy/CodeGPT/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appleboy/CodeGPT?style=flat-square&color=yellow)](https://github.com/appleboy/CodeGPT/stargazers) [![Forks](https://img.shields.io/github/forks/appleboy/CodeGPT?style=flat-square&color=blue)](https://github.com/appleboy/CodeGPT/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ appleboy/CodeGPT 是一款使用 Go 编写的命令行工具，能够基于 Chat
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

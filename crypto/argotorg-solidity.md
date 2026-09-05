@@ -1,6 +1,6 @@
 # argotorg/solidity
 
-[![Stars](https://img.shields.io/github/stars/argotorg/solidity?style=flat-square&color=yellow)](https://github.com/argotorg/solidity/stargazers) [![Forks](https://img.shields.io/github/forks/argotorg/solidity?style=flat-square&color=blue)](https://github.com/argotorg/solidity/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argotorg/solidity?style=flat-square&color=yellow)](https://github.com/argotorg/solidity/stargazers) [![Forks](https://img.shields.io/github/forks/argotorg/solidity?style=flat-square&color=blue)](https://github.com/argotorg/solidity/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Solidity, the Smart Contract Programming Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.7k |
 | 🍴 **Forks** | 6.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ argotorg/solidity 是一套开源的 Solidity 编译与运行实现，使用 C++
 | forks | 95/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

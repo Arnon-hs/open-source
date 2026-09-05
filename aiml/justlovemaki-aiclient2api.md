@@ -1,6 +1,6 @@
 # justlovemaki/AIClient2API
 
-[![Stars](https://img.shields.io/github/stars/justlovemaki/AIClient2API?style=flat-square&color=yellow)](https://github.com/justlovemaki/AIClient2API/stargazers) [![Forks](https://img.shields.io/github/forks/justlovemaki/AIClient2API?style=flat-square&color=blue)](https://github.com/justlovemaki/AIClient2API/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justlovemaki/AIClient2API?style=flat-square&color=yellow)](https://github.com/justlovemaki/AIClient2API/stargazers) [![Forks](https://img.shields.io/github/forks/justlovemaki/AIClient2API?style=flat-square&color=blue)](https://github.com/justlovemaki/AIClient2API/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ justlovemaki/A
 | forks | 78/100 |
 | stars | 84/100 |
 | topics | 25/100 |
-| outlook | 86/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

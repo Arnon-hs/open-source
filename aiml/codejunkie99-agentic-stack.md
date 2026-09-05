@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ The **agentic‑stack** project provides a portable `.agent/` directory that bun
 
 ### 中文
 
-codejunkie99/agentic-stack：codejunkie99/agentic-stack helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+codejunkie99/agentic-stack：codejunkie99/agentic-stack may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** codejunkie99/agentic-stack helps add AI capability without starting from a blank model stack.
+**Value:** codejunkie99/agentic-stack may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -64,17 +62,18 @@ codejunkie99/agentic-stack：codejunkie99/agentic-stack helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 45/100 |
-| adoption | 67/100 |
-| stars | 70/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

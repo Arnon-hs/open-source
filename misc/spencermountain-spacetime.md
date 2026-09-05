@@ -1,6 +1,6 @@
 # spencermountain/spacetime
 
-[![Stars](https://img.shields.io/github/stars/spencermountain/spacetime?style=flat-square&color=yellow)](https://github.com/spencermountain/spacetime/stargazers) [![Forks](https://img.shields.io/github/forks/spencermountain/spacetime?style=flat-square&color=blue)](https://github.com/spencermountain/spacetime/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spencermountain/spacetime?style=flat-square&color=yellow)](https://github.com/spencermountain/spacetime/stargazers) [![Forks](https://img.shields.io/github/forks/spencermountain/spacetime?style=flat-square&color=blue)](https://github.com/spencermountain/spacetime/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight javascript timezone library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ spencermountain/spacetime 是一个轻量级的 JavaScript 时区库，提供简
 | forks | 57/100 |
 | stars | 77/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

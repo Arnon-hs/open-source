@@ -1,6 +1,6 @@
 # bergside/typeui
 
-[![Stars](https://img.shields.io/github/stars/bergside/typeui?style=flat-square&color=yellow)](https://github.com/bergside/typeui/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/typeui?style=flat-square&color=blue)](https://github.com/bergside/typeui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bergside/typeui?style=flat-square&color=yellow)](https://github.com/bergside/typeui/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/typeui?style=flat-square&color=blue)](https://github.com/bergside/typeui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Build better UI with AI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ bergside/typeui 是一个基于 AI 的前端 UI 框架，能够把零散的 Prom
 | forks | 50/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

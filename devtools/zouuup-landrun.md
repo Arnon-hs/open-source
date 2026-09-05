@@ -1,6 +1,6 @@
 # Zouuup/landrun
 
-[![Stars](https://img.shields.io/github/stars/Zouuup/landrun?style=flat-square&color=yellow)](https://github.com/Zouuup/landrun/stargazers) [![Forks](https://img.shields.io/github/forks/Zouuup/landrun?style=flat-square&color=blue)](https://github.com/Zouuup/landrun/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zouuup/landrun?style=flat-square&color=yellow)](https://github.com/Zouuup/landrun/stargazers) [![Forks](https://img.shields.io/github/forks/Zouuup/landrun?style=flat-square&color=blue)](https://github.com/Zouuup/landrun/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Zouuup/landrun的生产可用性较高，主要原因是：
 | forks | 44/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

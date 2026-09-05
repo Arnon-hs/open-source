@@ -1,0 +1,83 @@
+# hcavarsan/kftray
+
+[![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square&color=yellow)](https://github.com/hcavarsan/kftray/stargazers) [![Forks](https://img.shields.io/github/forks/hcavarsan/kftray?style=flat-square&color=blue)](https://github.com/hcavarsan/kftray/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+
+> kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 73 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`developer-tools` `devops` `devops-tools` `k8s` `kftray` `kubectl` `kubernetes` `port-forward` `port-forwarding` `proxy` `ratatui` `rust`
+
+## 🎯 Categories
+
+Networking · DevTools · DevOps/Infra · Security
+
+## 📝 Summary
+
+### English
+
+hcavarsan/kftray is a versatile tool that manages kubectl port‑forwards and creates reverse tunnels (similar to ngrok) to expose local services publicly. It adds TLS termination, HTTP inspection, UDP forwarding, and multi‑hop proxy routing across Kubernetes clusters, with configuration persisted on the filesystem or via Git, and offers both GUI and TUI interfaces.
+
+### Русский
+
+**kftray** — это open‑source‑утилита для управления `kubectl port-forward` и создания обратных туннелей (по типу ngrok), позволяющая публично экспонировать локальные сервисы с TLS‑терминацией, инспекцией HTTP‑трафика, поддержкой UDP и мульти‑хоп прокси‑маршрутизации через Kubernetes‑кластеры. Конфигурация сохраняется в файловой системе или Git, а взаимодействие возможно через графический (GUI) и текстовый (TUI) интерфейсы. Подходит для разработчиков, DevOps и AI/ML‑проектов, требующих гибкого и безопасного доступа к сервисам внутри k8s.
+
+### 中文
+
+hcavarsan/kftray：hcavarsan/kftray helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** hcavarsan/kftray helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1499 GitHub stars
+- 73 forks
+- updated 2026-05-08
+- primary language: Rust
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 47/100 |
+| stars | 68/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hcavarsan/kftray) · [← Back to Networking](./README.md)</sub>

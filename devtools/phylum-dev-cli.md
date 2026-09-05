@@ -1,6 +1,6 @@
 # phylum-dev/cli
 
-[![Stars](https://img.shields.io/github/stars/phylum-dev/cli?style=flat-square&color=yellow)](https://github.com/phylum-dev/cli/stargazers) [![Forks](https://img.shields.io/github/forks/phylum-dev/cli?style=flat-square&color=blue)](https://github.com/phylum-dev/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phylum-dev/cli?style=flat-square&color=yellow)](https://github.com/phylum-dev/cli/stargazers) [![Forks](https://img.shields.io/github/forks/phylum-dev/cli?style=flat-square&color=blue)](https://github.com/phylum-dev/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Command line interface for the Phylum API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ phylum-dev/cli 是 Phylum API 的命令行工具，使用 Rust 实现，可直�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

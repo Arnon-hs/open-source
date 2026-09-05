@@ -1,6 +1,6 @@
 # simdjson/simdjson
 
-[![Stars](https://img.shields.io/github/stars/simdjson/simdjson?style=flat-square&color=yellow)](https://github.com/simdjson/simdjson/stargazers) [![Forks](https://img.shields.io/github/forks/simdjson/simdjson?style=flat-square&color=blue)](https://github.com/simdjson/simdjson/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simdjson/simdjson?style=flat-square&color=yellow)](https://github.com/simdjson/simdjson/stargazers) [![Forks](https://img.shields.io/github/forks/simdjson/simdjson?style=flat-square&color=blue)](https://github.com/simdjson/simdjson/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ simdjson/simdjson 的生产可用性很高，理由如下：
 | forks | 78/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

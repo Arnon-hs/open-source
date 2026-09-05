@@ -1,6 +1,6 @@
 # MartinStyk/AndroidApkAnalyzer
 
-[![Stars](https://img.shields.io/github/stars/MartinStyk/AndroidApkAnalyzer?style=flat-square&color=yellow)](https://github.com/MartinStyk/AndroidApkAnalyzer/stargazers) [![Forks](https://img.shields.io/github/forks/MartinStyk/AndroidApkAnalyzer?style=flat-square&color=blue)](https://github.com/MartinStyk/AndroidApkAnalyzer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MartinStyk/AndroidApkAnalyzer?style=flat-square&color=yellow)](https://github.com/MartinStyk/AndroidApkAnalyzer/stargazers) [![Forks](https://img.shields.io/github/forks/MartinStyk/AndroidApkAnalyzer?style=flat-square&color=blue)](https://github.com/MartinStyk/AndroidApkAnalyzer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Android application for analyzing installed apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ MartinStyk/AndroidApkAnalyzer 是一个用于分析已安装应用的 Android �
 | forks | 46/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

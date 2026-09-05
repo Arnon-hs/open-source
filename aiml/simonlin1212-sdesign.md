@@ -1,6 +1,6 @@
 # simonlin1212/SDesign
 
-[![Stars](https://img.shields.io/github/stars/simonlin1212/SDesign?style=flat-square&color=yellow)](https://github.com/simonlin1212/SDesign/stargazers) [![Forks](https://img.shields.io/github/forks/simonlin1212/SDesign?style=flat-square&color=blue)](https://github.com/simonlin1212/SDesign/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonlin1212/SDesign?style=flat-square&color=yellow)](https://github.com/simonlin1212/SDesign/stargazers) [![Forks](https://img.shields.io/github/forks/simonlin1212/SDesign?style=flat-square&color=blue)](https://github.com/simonlin1212/SDesign/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 去 AI 味设计系统库 · 6 美学家族 × 64 套设计系统 · 复制一段提示词粘给任意 AI 就出片不飘 · 含在线预览站 | Anti-slop design systems for any AI — 64 curated design systems across 6 aesthetics, copy-paste prompts, live demo.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ simonlin1212/SDesign 的价值在于，它可以帮助开发者快速添加 AI �
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

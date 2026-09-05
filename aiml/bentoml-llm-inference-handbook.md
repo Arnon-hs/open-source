@@ -1,6 +1,6 @@
 # bentoml/llm-inference-handbook
 
-[![Stars](https://img.shields.io/github/stars/bentoml/llm-inference-handbook?style=flat-square&color=yellow)](https://github.com/bentoml/llm-inference-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/bentoml/llm-inference-handbook?style=flat-square&color=blue)](https://github.com/bentoml/llm-inference-handbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bentoml/llm-inference-handbook?style=flat-square&color=yellow)](https://github.com/bentoml/llm-inference-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/bentoml/llm-inference-handbook?style=flat-square&color=blue)](https://github.com/bentoml/llm-inference-handbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Everything you need to know about LLM inference
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ bentoml/llm-inference-handbook 的生产可用性为中等（Medium），适合�
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

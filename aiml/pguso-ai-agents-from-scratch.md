@@ -1,6 +1,6 @@
 # pguso/ai-agents-from-scratch
 
-[![Stars](https://img.shields.io/github/stars/pguso/ai-agents-from-scratch?style=flat-square&color=yellow)](https://github.com/pguso/ai-agents-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/pguso/ai-agents-from-scratch?style=flat-square&color=blue)](https://github.com/pguso/ai-agents-from-scratch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pguso/ai-agents-from-scratch?style=flat-square&color=yellow)](https://github.com/pguso/ai-agents-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/pguso/ai-agents-from-scratch?style=flat-square&color=blue)](https://github.com/pguso/ai-agents-from-scratch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 647 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ pguso/ai-agents-from-scratch是一个开源项目，旨在帮助开发者通过�
 | forks | 70/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

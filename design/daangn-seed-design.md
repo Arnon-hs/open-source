@@ -1,6 +1,6 @@
 # daangn/seed-design
 
-[![Stars](https://img.shields.io/github/stars/daangn/seed-design?style=flat-square&color=yellow)](https://github.com/daangn/seed-design/stargazers) [![Forks](https://img.shields.io/github/forks/daangn/seed-design?style=flat-square&color=blue)](https://github.com/daangn/seed-design/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daangn/seed-design?style=flat-square&color=yellow)](https://github.com/daangn/seed-design/stargazers) [![Forks](https://img.shields.io/github/forks/daangn/seed-design?style=flat-square&color=blue)](https://github.com/daangn/seed-design/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Seed Design System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 896 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ daangn/seed-design 的价值在于它提供了一套可重用的设计组件和�
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 13/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

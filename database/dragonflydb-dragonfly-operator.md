@@ -1,6 +1,6 @@
 # dragonflydb/dragonfly-operator
 
-[![Stars](https://img.shields.io/github/stars/dragonflydb/dragonfly-operator?style=flat-square&color=yellow)](https://github.com/dragonflydb/dragonfly-operator/stargazers) [![Forks](https://img.shields.io/github/forks/dragonflydb/dragonfly-operator?style=flat-square&color=blue)](https://github.com/dragonflydb/dragonfly-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dragonflydb/dragonfly-operator?style=flat-square&color=yellow)](https://github.com/dragonflydb/dragonfly-operator/stargazers) [![Forks](https://img.shields.io/github/forks/dragonflydb/dragonfly-operator?style=flat-square&color=blue)](https://github.com/dragonflydb/dragonfly-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes operator to install and manage Dragonfly instances.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ DragonflyDB/Dragonfly-Operator 的生产可用性很高，主要原因是：
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

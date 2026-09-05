@@ -1,6 +1,6 @@
 # wasmi-labs/wasmi
 
-[![Stars](https://img.shields.io/github/stars/wasmi-labs/wasmi?style=flat-square&color=yellow)](https://github.com/wasmi-labs/wasmi/stargazers) [![Forks](https://img.shields.io/github/forks/wasmi-labs/wasmi?style=flat-square&color=blue)](https://github.com/wasmi-labs/wasmi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasmi-labs/wasmi?style=flat-square&color=yellow)](https://github.com/wasmi-labs/wasmi/stargazers) [![Forks](https://img.shields.io/github/forks/wasmi-labs/wasmi?style=flat-square&color=blue)](https://github.com/wasmi-labs/wasmi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Efficient and versatile WebAssembly interpreter for embedded systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ wasmi‑labs/wasmi 是一款用 Rust 编写的高效、可裁剪的 WebAssembly 
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

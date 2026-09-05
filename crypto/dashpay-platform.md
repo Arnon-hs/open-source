@@ -1,6 +1,6 @@
 # dashpay/platform
 
-[![Stars](https://img.shields.io/github/stars/dashpay/platform?style=flat-square&color=yellow)](https://github.com/dashpay/platform/stargazers) [![Forks](https://img.shields.io/github/forks/dashpay/platform?style=flat-square&color=blue)](https://github.com/dashpay/platform/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dashpay/platform?style=flat-square&color=yellow)](https://github.com/dashpay/platform/stargazers) [![Forks](https://img.shields.io/github/forks/dashpay/platform?style=flat-square&color=blue)](https://github.com/dashpay/platform/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Structured data storage blockchain with secondary indices and identities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Networking
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ Dashpay/platform 在生产环境中的可用性为中等（Medium）。它适合
 | forks | 44/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

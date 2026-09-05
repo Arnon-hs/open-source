@@ -1,6 +1,6 @@
 # openfootball/worldcup
 
-[![Stars](https://img.shields.io/github/stars/openfootball/worldcup?style=flat-square&color=yellow)](https://github.com/openfootball/worldcup/stargazers) [![Forks](https://img.shields.io/github/forks/openfootball/worldcup?style=flat-square&color=blue)](https://github.com/openfootball/worldcup/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openfootball/worldcup?style=flat-square&color=yellow)](https://github.com/openfootball/worldcup/stargazers) [![Forks](https://img.shields.io/github/forks/openfootball/worldcup?style=flat-square&color=blue)](https://github.com/openfootball/worldcup/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Free open public domain football datasets in the Football.TXT format for the World Cup (incl. Canada/USA/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 671 |
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ openfootball/worldcup 提供了覆盖历届世界杯及其预选赛的 Football.
 | forks | 58/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

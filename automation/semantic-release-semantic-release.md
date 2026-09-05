@@ -1,6 +1,6 @@
 # semantic-release/semantic-release
 
-[![Stars](https://img.shields.io/github/stars/semantic-release/semantic-release?style=flat-square&color=yellow)](https://github.com/semantic-release/semantic-release/stargazers) [![Forks](https://img.shields.io/github/forks/semantic-release/semantic-release?style=flat-square&color=blue)](https://github.com/semantic-release/semantic-release/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/semantic-release/semantic-release?style=flat-square&color=yellow)](https://github.com/semantic-release/semantic-release/stargazers) [![Forks](https://img.shields.io/github/forks/semantic-release/semantic-release?style=flat-square&color=blue)](https://github.com/semantic-release/semantic-release/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > :package::rocket: Fully automated version management and package publishing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.7k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ semantic-release 是一个开源工具，能够在代码提交后自动完成版
 | forks | 81/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 85/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

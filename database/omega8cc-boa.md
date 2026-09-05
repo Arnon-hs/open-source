@@ -1,6 +1,6 @@
 # omega8cc/boa
 
-[![Stars](https://img.shields.io/github/stars/omega8cc/boa?style=flat-square&color=yellow)](https://github.com/omega8cc/boa/stargazers) [![Forks](https://img.shields.io/github/forks/omega8cc/boa?style=flat-square&color=blue)](https://github.com/omega8cc/boa/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omega8cc/boa?style=flat-square&color=yellow)](https://github.com/omega8cc/boa/stargazers) [![Forks](https://img.shields.io/github/forks/omega8cc/boa?style=flat-square&color=blue)](https://github.com/omega8cc/boa/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > BOA-5.10.1 -- AI POLICY EDITION
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ BOA‑5.10.1（AI POLICY EDITION）是 omega8cc/boa 提供的一个轻量级 AI 
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

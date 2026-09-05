@@ -1,6 +1,6 @@
 # callstackincubator/react-native-node-api
 
-[![Stars](https://img.shields.io/github/stars/callstackincubator/react-native-node-api?style=flat-square&color=yellow)](https://github.com/callstackincubator/react-native-node-api/stargazers) [![Forks](https://img.shields.io/github/forks/callstackincubator/react-native-node-api?style=flat-square&color=blue)](https://github.com/callstackincubator/react-native-node-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/callstackincubator/react-native-node-api?style=flat-square&color=yellow)](https://github.com/callstackincubator/react-native-node-api/stargazers) [![Forks](https://img.shields.io/github/forks/callstackincubator/react-native-node-api?style=flat-square&color=blue)](https://github.com/callstackincubator/react-native-node-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Node-API Modules for React Native
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ callstackincubator/react-native-node-api 是一个开源项目，提供了 Node-
 | forks | 23/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

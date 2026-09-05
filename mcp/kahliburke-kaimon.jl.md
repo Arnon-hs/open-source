@@ -1,6 +1,6 @@
 # kahliburke/Kaimon.jl
 
-[![Stars](https://img.shields.io/github/stars/kahliburke/Kaimon.jl?style=flat-square&color=yellow)](https://github.com/kahliburke/Kaimon.jl/stargazers) [![Forks](https://img.shields.io/github/forks/kahliburke/Kaimon.jl?style=flat-square&color=blue)](https://github.com/kahliburke/Kaimon.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kahliburke/Kaimon.jl?style=flat-square&color=yellow)](https://github.com/kahliburke/Kaimon.jl/stargazers) [![Forks](https://img.shields.io/github/forks/kahliburke/Kaimon.jl?style=flat-square&color=blue)](https://github.com/kahliburke/Kaimon.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server giving AI agents full access to Julia's runtime via a live Gate — code execution, introspection, debugging, testing, and semantic search
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Kaimon.jl（github.com/kahliburke/Kaimon.jl）是一个实现 Model Context 
 | forks | 30/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

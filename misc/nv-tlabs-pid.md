@@ -1,6 +1,6 @@
 # nv-tlabs/PiD
 
-[![Stars](https://img.shields.io/github/stars/nv-tlabs/PiD?style=flat-square&color=yellow)](https://github.com/nv-tlabs/PiD/stargazers) [![Forks](https://img.shields.io/github/forks/nv-tlabs/PiD?style=flat-square&color=blue)](https://github.com/nv-tlabs/PiD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nv-tlabs/PiD?style=flat-square&color=yellow)](https://github.com/nv-tlabs/PiD/stargazers) [![Forks](https://img.shields.io/github/forks/nv-tlabs/PiD?style=flat-square&color=blue)](https://github.com/nv-tlabs/PiD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 969 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ nv-tlabs/PiD 的价值在于它可以提供快速高分辨率的潜在编码与�
 | forks | 43/100 |
 | stars | 64/100 |
 | topics | 25/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

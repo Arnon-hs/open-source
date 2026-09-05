@@ -1,6 +1,6 @@
 # rockbenben/ChatGPT-Shortcut
 
-[![Stars](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=flat-square&color=yellow)](https://github.com/rockbenben/ChatGPT-Shortcut/stargazers) [![Forks](https://img.shields.io/github/forks/rockbenben/ChatGPT-Shortcut?style=flat-square&color=blue)](https://github.com/rockbenben/ChatGPT-Shortcut/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=flat-square&color=yellow)](https://github.com/rockbenben/ChatGPT-Shortcut/stargazers) [![Forks](https://img.shields.io/github/forks/rockbenben/ChatGPT-Shortcut?style=flat-square&color=blue)](https://github.com/rockbenben/ChatGPT-Shortcut/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 930 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -115,15 +115,15 @@ rockbenben/ChatGPT-Shortcut 是一款面向多语言（English/中文/Español/�
 | forks | 74/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

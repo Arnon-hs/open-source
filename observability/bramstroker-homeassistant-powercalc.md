@@ -1,6 +1,6 @@
 # bramstroker/homeassistant-powercalc
 
-[![Stars](https://img.shields.io/github/stars/bramstroker/homeassistant-powercalc?style=flat-square&color=yellow)](https://github.com/bramstroker/homeassistant-powercalc/stargazers) [![Forks](https://img.shields.io/github/forks/bramstroker/homeassistant-powercalc?style=flat-square&color=blue)](https://github.com/bramstroker/homeassistant-powercalc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bramstroker/homeassistant-powercalc?style=flat-square&color=yellow)](https://github.com/bramstroker/homeassistant-powercalc/stargazers) [![Forks](https://img.shields.io/github/forks/bramstroker/homeassistant-powercalc?style=flat-square&color=blue)](https://github.com/bramstroker/homeassistant-powercalc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 394 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ bramstroker/homeassistant-powercalc 是一个开源项目，用于为 Home Assis
 | forks | 65/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

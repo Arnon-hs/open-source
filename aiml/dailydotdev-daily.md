@@ -1,6 +1,6 @@
 # dailydotdev/daily
 
-[![Stars](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square&color=yellow)](https://github.com/dailydotdev/daily/stargazers) [![Forks](https://img.shields.io/github/forks/dailydotdev/daily?style=flat-square&color=blue)](https://github.com/dailydotdev/daily/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square&color=yellow)](https://github.com/dailydotdev/daily/stargazers) [![Forks](https://img.shields.io/github/forks/dailydotdev/daily?style=flat-square&color=blue)](https://github.com/dailydotdev/daily/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.9k |
 | 🍴 **Forks** | 571 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Marketing
+AI/ML · Networking · Frontend · DevTools · Marketing
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ dailydotdev/daily 在生产环境中有很高的可用性，适合作为一个�
 | forks | 69/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

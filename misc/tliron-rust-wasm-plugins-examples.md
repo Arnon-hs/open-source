@@ -1,6 +1,6 @@
 # tliron/rust-wasm-plugins-examples
 
-[![Stars](https://img.shields.io/github/stars/tliron/rust-wasm-plugins-examples?style=flat-square&color=yellow)](https://github.com/tliron/rust-wasm-plugins-examples/stargazers) [![Forks](https://img.shields.io/github/forks/tliron/rust-wasm-plugins-examples?style=flat-square&color=blue)](https://github.com/tliron/rust-wasm-plugins-examples/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tliron/rust-wasm-plugins-examples?style=flat-square&color=yellow)](https://github.com/tliron/rust-wasm-plugins-examples/stargazers) [![Forks](https://img.shields.io/github/forks/tliron/rust-wasm-plugins-examples?style=flat-square&color=blue)](https://github.com/tliron/rust-wasm-plugins-examples/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Wasm plugins examples
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ tliron/rust-wasm-plugins-examples 是一个开源项目，提供了 Rust Wasm �
 | forks | 24/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

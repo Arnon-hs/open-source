@@ -1,6 +1,6 @@
 # nroduit/Weasis
 
-[![Stars](https://img.shields.io/github/stars/nroduit/Weasis?style=flat-square&color=yellow)](https://github.com/nroduit/Weasis/stargazers) [![Forks](https://img.shields.io/github/forks/nroduit/Weasis?style=flat-square&color=blue)](https://github.com/nroduit/Weasis/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nroduit/Weasis?style=flat-square&color=yellow)](https://github.com/nroduit/Weasis/stargazers) [![Forks](https://img.shields.io/github/forks/nroduit/Weasis?style=flat-square&color=blue)](https://github.com/nroduit/Weasis/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 371 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Weasis 是一款基于 Web 的 DICOM 查看器，支持高级医学成像和无�
 | forks | 64/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # HiThink-Tech/Financial-API
 
-[![Stars](https://img.shields.io/github/stars/HiThink-Tech/Financial-API?style=flat-square&color=yellow)](https://github.com/HiThink-Tech/Financial-API/stargazers) [![Forks](https://img.shields.io/github/forks/HiThink-Tech/Financial-API?style=flat-square&color=blue)](https://github.com/HiThink-Tech/Financial-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HiThink-Tech/Financial-API?style=flat-square&color=yellow)](https://github.com/HiThink-Tech/Financial-API/stargazers) [![Forks](https://img.shields.io/github/forks/HiThink-Tech/Financial-API?style=flat-square&color=blue)](https://github.com/HiThink-Tech/Financial-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 同花顺金融数据API，提供A股行情、财务报表、复权、交易日历等数据接口，支持REST/MCP、AI Agent与量化研究，助力快速取数和自动化分析。（Tonghuashun Financial Data API provides data interfaces for A-share market data, financial statements, adjustment factors, trading calendars, and more. It supports REST/MCP, AI Agents, and quantitative research, enabling fast data access and automated analysis.）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ HiThink‑Tech/Financial‑API 将同花顺的 A 股行情、财务报表、复�
 | forks | 19/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

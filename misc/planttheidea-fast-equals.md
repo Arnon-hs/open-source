@@ -1,6 +1,6 @@
 # planttheidea/fast-equals
 
-[![Stars](https://img.shields.io/github/stars/planttheidea/fast-equals?style=flat-square&color=yellow)](https://github.com/planttheidea/fast-equals/stargazers) [![Forks](https://img.shields.io/github/forks/planttheidea/fast-equals?style=flat-square&color=blue)](https://github.com/planttheidea/fast-equals/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/planttheidea/fast-equals?style=flat-square&color=yellow)](https://github.com/planttheidea/fast-equals/stargazers) [![Forks](https://img.shields.io/github/forks/planttheidea/fast-equals?style=flat-square&color=blue)](https://github.com/planttheidea/fast-equals/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A blazing fast equality comparison, either shallow or deep
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ planttheidea/fast-equals是一个快速的相等比较工具，可以进行浅�
 | forks | 35/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

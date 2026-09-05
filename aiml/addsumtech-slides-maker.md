@@ -1,6 +1,6 @@
 # addsumtech/slides_maker
 
-[![Stars](https://img.shields.io/github/stars/addsumtech/slides_maker?style=flat-square&color=yellow)](https://github.com/addsumtech/slides_maker/stargazers) [![Forks](https://img.shields.io/github/forks/addsumtech/slides_maker?style=flat-square&color=blue)](https://github.com/addsumtech/slides_maker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/addsumtech/slides_maker?style=flat-square&color=yellow)](https://github.com/addsumtech/slides_maker/stargazers) [![Forks](https://img.shields.io/github/forks/addsumtech/slides_maker?style=flat-square&color=blue)](https://github.com/addsumtech/slides_maker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ addsumtech/slides_maker的价值在于它能够帮助开发者快速添加AI能�
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

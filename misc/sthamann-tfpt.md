@@ -1,6 +1,6 @@
 # sthamann/tfpt
 
-[![Stars](https://img.shields.io/github/stars/sthamann/tfpt?style=flat-square&color=yellow)](https://github.com/sthamann/tfpt/stargazers) [![Forks](https://img.shields.io/github/forks/sthamann/tfpt?style=flat-square&color=blue)](https://github.com/sthamann/tfpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sthamann/tfpt?style=flat-square&color=yellow)](https://github.com/sthamann/tfpt/stargazers) [![Forks](https://img.shields.io/github/forks/sthamann/tfpt?style=flat-square&color=blue)](https://github.com/sthamann/tfpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Topological Fixed-Point Theory: a machine-checked discrete compiler for the Standard Model, α⁻¹, and cosmology from two axioms. Papers, verification suite (Python/Wolfram/Lean), experiments & website.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 652 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ sthamann/tfpt 的生产可用性为中等。它适合用于原型或内部工作
 | forks | 12/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

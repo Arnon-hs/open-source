@@ -1,6 +1,6 @@
 # datascale-ai/opentalking
 
-[![Stars](https://img.shields.io/github/stars/datascale-ai/opentalking?style=flat-square&color=yellow)](https://github.com/datascale-ai/opentalking/stargazers) [![Forks](https://img.shields.io/github/forks/datascale-ai/opentalking?style=flat-square&color=blue)](https://github.com/datascale-ai/opentalking/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datascale-ai/opentalking?style=flat-square&color=yellow)](https://github.com/datascale-ai/opentalking/stargazers) [![Forks](https://img.shields.io/github/forks/datascale-ai/opentalking?style=flat-square&color=blue)](https://github.com/datascale-ai/opentalking/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTalking：支持实时对话的工业级开源数字人框架，可私有部署、可插拔模型。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ OpenTalking（datascale‑ai/opentalking）是一个面向工业级的开源数�
 | forks | 55/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

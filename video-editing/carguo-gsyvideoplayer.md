@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Mobile · Marketing
+Video Editing · Communication · Mobile · Marketing
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ CarGuo/GSYVideoPlayer：CarGuo/GSYVideoPlayer helps make internal knowledge sear
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

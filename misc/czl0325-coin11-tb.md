@@ -1,6 +1,6 @@
 # czl0325/coin11-tb
 
-[![Stars](https://img.shields.io/github/stars/czl0325/coin11-tb?style=flat-square&color=yellow)](https://github.com/czl0325/coin11-tb/stargazers) [![Forks](https://img.shields.io/github/forks/czl0325/coin11-tb?style=flat-square&color=blue)](https://github.com/czl0325/coin11-tb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/czl0325/coin11-tb?style=flat-square&color=yellow)](https://github.com/czl0325/coin11-tb/stargazers) [![Forks](https://img.shields.io/github/forks/czl0325/coin11-tb?style=flat-square&color=blue)](https://github.com/czl0325/coin11-tb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 使用uiautomator2自动化完成淘宝双11的金币任务，618金币任务，淘金币任务，芭芭农场任务，闲鱼任务，支付宝打卡任务。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 548 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ czl0325/coin11-tb 是一个开源项目，使用 uiautomator2 实现自动化淘
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

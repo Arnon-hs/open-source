@@ -1,6 +1,6 @@
 # rust-ui/ui
 
-[![Stars](https://img.shields.io/github/stars/rust-ui/ui?style=flat-square&color=yellow)](https://github.com/rust-ui/ui/stargazers) [![Forks](https://img.shields.io/github/forks/rust-ui/ui?style=flat-square&color=blue)](https://github.com/rust-ui/ui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-ui/ui?style=flat-square&color=yellow)](https://github.com/rust-ui/ui/stargazers) [![Forks](https://img.shields.io/github/forks/rust-ui/ui?style=flat-square&color=blue)](https://github.com/rust-ui/ui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Shadcn-inspired component registry for Rust — build cross-platform apps for Web, Desktop, iOS and Android.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ rust‑ui/ui 为 Rust 开发者提供了一个受 Shadcn UI 启发的跨平台�
 | forks | 36/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

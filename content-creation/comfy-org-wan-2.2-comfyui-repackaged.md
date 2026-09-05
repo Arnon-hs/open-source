@@ -1,6 +1,6 @@
 # Comfy-Org/Wan_2.2_ComfyUI_Repackaged
 
-[![Stars](https://img.shields.io/github/stars/Comfy-Org/Wan_2.2_ComfyUI_Repackaged?style=flat-square&color=yellow)](https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/stargazers) [![Forks](https://img.shields.io/github/forks/Comfy-Org/Wan_2.2_ComfyUI_Repackaged?style=flat-square&color=blue)](https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/network) [![Language](https://img.shields.io/badge/lang-diffusion-single-file-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Comfy-Org/Wan_2.2_ComfyUI_Repackaged?style=flat-square&color=yellow)](https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/stargazers) [![Forks](https://img.shields.io/github/forks/Comfy-Org/Wan_2.2_ComfyUI_Repackaged?style=flat-square&color=blue)](https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/network) [![Language](https://img.shields.io/badge/lang-diffusion-single-file-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Image to video (image-to-video) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 842 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusion-single-file |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ Comfy-Org/Wan_2.2_ComfyUI_Repackaged：Comfy-Org/Wan_2.2_ComfyUI_Repackaged help
 | forks | 0/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 80/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 58/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # PhiloLabs/agentic-vbench
 
-[![Stars](https://img.shields.io/github/stars/PhiloLabs/agentic-vbench?style=flat-square&color=yellow)](https://github.com/PhiloLabs/agentic-vbench/stargazers) [![Forks](https://img.shields.io/github/forks/PhiloLabs/agentic-vbench?style=flat-square&color=blue)](https://github.com/PhiloLabs/agentic-vbench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PhiloLabs/agentic-vbench?style=flat-square&color=yellow)](https://github.com/PhiloLabs/agentic-vbench/stargazers) [![Forks](https://img.shields.io/github/forks/PhiloLabs/agentic-vbench?style=flat-square&color=blue)](https://github.com/PhiloLabs/agentic-vbench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ AgenticVBench 是一个专注于评估 AI 智能体在视频后期制作（如�
 | forks | 35/100 |
 | stars | 41/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

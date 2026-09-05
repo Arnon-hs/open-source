@@ -1,6 +1,6 @@
 # lightningd/plugins
 
-[![Stars](https://img.shields.io/github/stars/lightningd/plugins?style=flat-square&color=yellow)](https://github.com/lightningd/plugins/stargazers) [![Forks](https://img.shields.io/github/forks/lightningd/plugins?style=flat-square&color=blue)](https://github.com/lightningd/plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightningd/plugins?style=flat-square&color=yellow)](https://github.com/lightningd/plugins/stargazers) [![Forks](https://img.shields.io/github/forks/lightningd/plugins?style=flat-square&color=blue)](https://github.com/lightningd/plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Community curated plugins for core-lightning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ lightningd/plugins 是一套由社区维护的 **core‑lightning** 插件集合
 | forks | 53/100 |
 | stars | 53/100 |
 | topics | 88/100 |
-| outlook | 47/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

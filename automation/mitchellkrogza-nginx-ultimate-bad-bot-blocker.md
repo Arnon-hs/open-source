@@ -1,6 +1,6 @@
 # mitchellkrogza/nginx-ultimate-bad-bot-blocker
 
-[![Stars](https://img.shields.io/github/stars/mitchellkrogza/nginx-ultimate-bad-bot-blocker?style=flat-square&color=yellow)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/stargazers) [![Forks](https://img.shields.io/github/forks/mitchellkrogza/nginx-ultimate-bad-bot-blocker?style=flat-square&color=blue)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mitchellkrogza/nginx-ultimate-bad-bot-blocker?style=flat-square&color=yellow)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/stargazers) [![Forks](https://img.shields.io/github/forks/mitchellkrogza/nginx-ultimate-bad-bot-blocker?style=flat-square&color=blue)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 522 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ mitchellkrogza/nginx-ultimate-bad-bot-blocker 通过维护一套持续更新的�
 | forks | 68/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

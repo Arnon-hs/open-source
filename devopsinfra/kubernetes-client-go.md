@@ -1,6 +1,6 @@
 # kubernetes/client-go
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/client-go?style=flat-square&color=yellow)](https://github.com/kubernetes/client-go/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/client-go?style=flat-square&color=blue)](https://github.com/kubernetes/client-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/client-go?style=flat-square&color=yellow)](https://github.com/kubernetes/client-go/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/client-go?style=flat-square&color=blue)](https://github.com/kubernetes/client-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Go client for Kubernetes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ kubernetes/client-go：kubernetes/client-go helps make deployment and operations
 | forks | 87/100 |
 | stars | 85/100 |
 | topics | 13/100 |
-| outlook | 76/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |

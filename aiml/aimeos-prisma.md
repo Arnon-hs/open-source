@@ -1,6 +1,6 @@
 # aimeos/prisma
 
-[![Stars](https://img.shields.io/github/stars/aimeos/prisma?style=flat-square&color=yellow)](https://github.com/aimeos/prisma/stargazers) [![Forks](https://img.shields.io/github/forks/aimeos/prisma?style=flat-square&color=blue)](https://github.com/aimeos/prisma/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aimeos/prisma?style=flat-square&color=yellow)](https://github.com/aimeos/prisma/stargazers) [![Forks](https://img.shields.io/github/forks/aimeos/prisma?style=flat-square&color=blue)](https://github.com/aimeos/prisma/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Light-weight PHP package for integrating multi-media related Large Language Models (LLMs) using a unified interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 193 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ aimeos/prisma 是一个轻量级的 PHP 包，提供了一个统一的接口来�
 | forks | 0/100 |
 | stars | 49/100 |
 | topics | 50/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

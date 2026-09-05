@@ -1,6 +1,6 @@
 # globus/globus-compute
 
-[![Stars](https://img.shields.io/github/stars/globus/globus-compute?style=flat-square&color=yellow)](https://github.com/globus/globus-compute/stargazers) [![Forks](https://img.shields.io/github/forks/globus/globus-compute?style=flat-square&color=blue)](https://github.com/globus/globus-compute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/globus/globus-compute?style=flat-square&color=yellow)](https://github.com/globus/globus-compute/stargazers) [![Forks](https://img.shields.io/github/forks/globus/globus-compute?style=flat-square&color=blue)](https://github.com/globus/globus-compute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Globus Compute: High Performance Function Serving for Science
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Globus Compute 为科研工作流提供高性能的函数即服务（FaaS）平�
 | forks | 43/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

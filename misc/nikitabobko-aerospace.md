@@ -1,6 +1,6 @@
 # nikitabobko/AeroSpace
 
-[![Stars](https://img.shields.io/github/stars/nikitabobko/AeroSpace?style=flat-square&color=yellow)](https://github.com/nikitabobko/AeroSpace/stargazers) [![Forks](https://img.shields.io/github/forks/nikitabobko/AeroSpace?style=flat-square&color=blue)](https://github.com/nikitabobko/AeroSpace/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikitabobko/AeroSpace?style=flat-square&color=yellow)](https://github.com/nikitabobko/AeroSpace/stargazers) [![Forks](https://img.shields.io/github/forks/nikitabobko/AeroSpace?style=flat-square&color=blue)](https://github.com/nikitabobko/AeroSpace/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AeroSpace is an i3-like tiling window manager for macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.4k |
 | 🍴 **Forks** | 566 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ AeroSpace 是一款面向 macOS 的 tiling 窗口管理器，采用 i3‑style �
 | forks | 69/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

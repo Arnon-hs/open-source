@@ -1,6 +1,6 @@
 # stabgan/openrouter-mcp-multimodal
 
-[![Stars](https://img.shields.io/github/stars/stabgan/openrouter-mcp-multimodal?style=flat-square&color=yellow)](https://github.com/stabgan/openrouter-mcp-multimodal/stargazers) [![Forks](https://img.shields.io/github/forks/stabgan/openrouter-mcp-multimodal?style=flat-square&color=blue)](https://github.com/stabgan/openrouter-mcp-multimodal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stabgan/openrouter-mcp-multimodal?style=flat-square&color=yellow)](https://github.com/stabgan/openrouter-mcp-multimodal/stargazers) [![Forks](https://img.shields.io/github/forks/stabgan/openrouter-mcp-multimodal?style=flat-square&color=blue)](https://github.com/stabgan/openrouter-mcp-multimodal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for OpenRouter — chat with 300+ LLMs (Claude, Gemini, GPT), analyze images / audio / video, generate images / speech / music / video (Veo 3.1, Sora, Seedance, Wan) from Claude Desktop, Cursor, Kiro, VS Code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · MCP · AI/ML · Backend · DevOps/Infra
+Content Creation · MCP · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -107,11 +107,11 @@ stabgan/openrouter-mcp-multimodal 的生产可用性非常
 | forks | 35/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

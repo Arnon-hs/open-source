@@ -1,6 +1,6 @@
 # oil-oil/beautify-github-readme
 
-[![Stars](https://img.shields.io/github/stars/oil-oil/beautify-github-readme?style=flat-square&color=yellow)](https://github.com/oil-oil/beautify-github-readme/stargazers) [![Forks](https://img.shields.io/github/forks/oil-oil/beautify-github-readme?style=flat-square&color=blue)](https://github.com/oil-oil/beautify-github-readme/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oil-oil/beautify-github-readme?style=flat-square&color=yellow)](https://github.com/oil-oil/beautify-github-readme/stargazers) [![Forks](https://img.shields.io/github/forks/oil-oil/beautify-github-readme?style=flat-square&color=blue)](https://github.com/oil-oil/beautify-github-readme/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 698 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML · Documents · Design
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ oil-oil/beautify-github-readme - это open-source проект, который
 | forks | 40/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

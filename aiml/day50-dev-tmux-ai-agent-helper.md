@@ -1,6 +1,6 @@
 # day50-dev/tmux-ai-agent-helper
 
-[![Stars](https://img.shields.io/github/stars/day50-dev/tmux-ai-agent-helper?style=flat-square&color=yellow)](https://github.com/day50-dev/tmux-ai-agent-helper/stargazers) [![Forks](https://img.shields.io/github/forks/day50-dev/tmux-ai-agent-helper?style=flat-square&color=blue)](https://github.com/day50-dev/tmux-ai-agent-helper/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/day50-dev/tmux-ai-agent-helper?style=flat-square&color=yellow)](https://github.com/day50-dev/tmux-ai-agent-helper/stargazers) [![Forks](https://img.shields.io/github/forks/day50-dev/tmux-ai-agent-helper?style=flat-square&color=blue)](https://github.com/day50-dev/tmux-ai-agent-helper/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Share your TMUX screen with ai chat
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ day50-dev/tmux-ai-agent-helper 是一个开源项目，允许您共享 TMUX 屏�
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 38/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

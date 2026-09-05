@@ -1,6 +1,6 @@
 # chrisryugj/fable-ish
 
-[![Stars](https://img.shields.io/github/stars/chrisryugj/fable-ish?style=flat-square&color=yellow)](https://github.com/chrisryugj/fable-ish/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/fable-ish?style=flat-square&color=blue)](https://github.com/chrisryugj/fable-ish/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisryugj/fable-ish?style=flat-square&color=yellow)](https://github.com/chrisryugj/fable-ish/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/fable-ish?style=flat-square&color=blue)](https://github.com/chrisryugj/fable-ish/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Fable-style verification gate for Claude Code: don't say done until it's verified. Port of the Codex plugin by Agent Korea (플라잉따릉이).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ chrisryugj/fable-ish 帮助开发者在不从零开始构建模型堆栈的情�
 | forks | 26/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

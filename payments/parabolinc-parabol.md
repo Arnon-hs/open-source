@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-06 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Database · Product
+Payments · Frontend · Backend · Database · Product
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ ParabolInc/parabol：ParabolInc/parabol helps integrate monetization, billing, o
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

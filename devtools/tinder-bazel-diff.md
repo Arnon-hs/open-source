@@ -1,6 +1,6 @@
 # Tinder/bazel-diff
 
-[![Stars](https://img.shields.io/github/stars/Tinder/bazel-diff?style=flat-square&color=yellow)](https://github.com/Tinder/bazel-diff/stargazers) [![Forks](https://img.shields.io/github/forks/Tinder/bazel-diff?style=flat-square&color=blue)](https://github.com/Tinder/bazel-diff/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tinder/bazel-diff?style=flat-square&color=yellow)](https://github.com/Tinder/bazel-diff/stargazers) [![Forks](https://img.shields.io/github/forks/Tinder/bazel-diff?style=flat-square&color=blue)](https://github.com/Tinder/bazel-diff/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Tinder/bazel‑diff 通过在两个 Git 版本之间进行 Bazel 目标差分，
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

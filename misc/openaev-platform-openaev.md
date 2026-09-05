@@ -1,6 +1,6 @@
 # OpenAEV-Platform/openaev
 
-[![Stars](https://img.shields.io/github/stars/OpenAEV-Platform/openaev?style=flat-square&color=yellow)](https://github.com/OpenAEV-Platform/openaev/stargazers) [![Forks](https://img.shields.io/github/forks/OpenAEV-Platform/openaev?style=flat-square&color=blue)](https://github.com/OpenAEV-Platform/openaev/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenAEV-Platform/openaev?style=flat-square&color=yellow)](https://github.com/OpenAEV-Platform/openaev/stargazers) [![Forks](https://img.shields.io/github/forks/OpenAEV-Platform/openaev?style=flat-square&color=blue)](https://github.com/OpenAEV-Platform/openaev/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open Adversarial Exposure Validation Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ OpenAEV（Open Adversarial Exposure Validation Platform）是一个基于 Java �
 | forks | 58/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 51/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # wink-wink-wink555/MarkiNote
 
-[![Stars](https://img.shields.io/github/stars/wink-wink-wink555/MarkiNote?style=flat-square&color=yellow)](https://github.com/wink-wink-wink555/MarkiNote/stargazers) [![Forks](https://img.shields.io/github/forks/wink-wink-wink555/MarkiNote?style=flat-square&color=blue)](https://github.com/wink-wink-wink555/MarkiNote/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wink-wink-wink555/MarkiNote?style=flat-square&color=yellow)](https://github.com/wink-wink-wink555/MarkiNote/stargazers) [![Forks](https://img.shields.io/github/forks/wink-wink-wink555/MarkiNote?style=flat-square&color=blue)](https://github.com/wink-wink-wink555/MarkiNote/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An AI Agent-powered Markdown Document Management & Reading System. The AI Agent understands your intent and autonomously invokes 11 different tools to read, create, edit, delete, move files, and even search the web or fetch webpage content.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -120,15 +120,15 @@ MarkiNote（wink-wink-wink555/MarkiNote）是基于 AI Agent 的 Markdown 文档
 | forks | 28/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

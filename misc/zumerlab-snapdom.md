@@ -1,6 +1,6 @@
 # zumerlab/snapdom
 
-[![Stars](https://img.shields.io/github/stars/zumerlab/snapdom?style=flat-square&color=yellow)](https://github.com/zumerlab/snapdom/stargazers) [![Forks](https://img.shields.io/github/forks/zumerlab/snapdom?style=flat-square&color=blue)](https://github.com/zumerlab/snapdom/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zumerlab/snapdom?style=flat-square&color=yellow)](https://github.com/zumerlab/snapdom/stargazers) [![Forks](https://img.shields.io/github/forks/zumerlab/snapdom?style=flat-square&color=blue)](https://github.com/zumerlab/snapdom/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance engine for capturing, modifying, and converting DOM elements into any format.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ zumerlab/snapdom 是一款高性能的 JavaScript 引擎，能够捕获、修改
 | forks | 61/100 |
 | stars | 83/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

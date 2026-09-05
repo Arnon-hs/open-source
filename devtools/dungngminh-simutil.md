@@ -1,6 +1,6 @@
 # dungngminh/simutil
 
-[![Stars](https://img.shields.io/github/stars/dungngminh/simutil?style=flat-square&color=yellow)](https://github.com/dungngminh/simutil/stargazers) [![Forks](https://img.shields.io/github/forks/dungngminh/simutil?style=flat-square&color=blue)](https://github.com/dungngminh/simutil/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dungngminh/simutil?style=flat-square&color=yellow)](https://github.com/dungngminh/simutil/stargazers) [![Forks](https://img.shields.io/github/forks/dungngminh/simutil?style=flat-square&color=blue)](https://github.com/dungngminh/simutil/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Cross platform utility TUI app for launching iOS simulators / Android emulators, discover physical devices, ADB tools and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Overall, `simutil` can significantly cut down the effort needed to manage mobile
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

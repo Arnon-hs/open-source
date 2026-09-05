@@ -1,6 +1,6 @@
 # sums001/Windows-Copilot-API
 
-[![Stars](https://img.shields.io/github/stars/sums001/Windows-Copilot-API?style=flat-square&color=yellow)](https://github.com/sums001/Windows-Copilot-API/stargazers) [![Forks](https://img.shields.io/github/forks/sums001/Windows-Copilot-API?style=flat-square&color=blue)](https://github.com/sums001/Windows-Copilot-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sums001/Windows-Copilot-API?style=flat-square&color=yellow)](https://github.com/sums001/Windows-Copilot-API/stargazers) [![Forks](https://img.shields.io/github/forks/sums001/Windows-Copilot-API?style=flat-square&color=blue)](https://github.com/sums001/Windows-Copilot-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 508 |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ sums001/Windows‑Copilot‑API reverse‑engineers the Windows Copilot service 
 | forks | 57/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

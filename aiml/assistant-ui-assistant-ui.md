@@ -1,6 +1,6 @@
 # assistant-ui/assistant-ui
 
-[![Stars](https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=flat-square&color=yellow)](https://github.com/assistant-ui/assistant-ui/stargazers) [![Forks](https://img.shields.io/github/forks/assistant-ui/assistant-ui?style=flat-square&color=blue)](https://github.com/assistant-ui/assistant-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=flat-square&color=yellow)](https://github.com/assistant-ui/assistant-ui/stargazers) [![Forks](https://img.shields.io/github/forks/assistant-ui/assistant-ui?style=flat-square&color=blue)](https://github.com/assistant-ui/assistant-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Typescript/React Library for AI Chat💬🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Communication · Frontend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -116,15 +116,15 @@ assistant‑ui 是一套基于 TypeScript 与 React 的开源 UI 库，专注于
 | forks | 76/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 63/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

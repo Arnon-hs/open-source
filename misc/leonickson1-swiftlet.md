@@ -1,6 +1,6 @@
 # leonickson1/Swiftlet
 
-[![Stars](https://img.shields.io/github/stars/leonickson1/Swiftlet?style=flat-square&color=yellow)](https://github.com/leonickson1/Swiftlet/stargazers) [![Forks](https://img.shields.io/github/forks/leonickson1/Swiftlet?style=flat-square&color=blue)](https://github.com/leonickson1/Swiftlet/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leonickson1/Swiftlet?style=flat-square&color=yellow)](https://github.com/leonickson1/Swiftlet/stargazers) [![Forks](https://img.shields.io/github/forks/leonickson1/Swiftlet?style=flat-square&color=blue)](https://github.com/leonickson1/Swiftlet/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 425 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -71,11 +71,11 @@ Swiftlet 是一个开源项目，使用 Swift 编写，主要用于特定工作�
 | forks | 29/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 53/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

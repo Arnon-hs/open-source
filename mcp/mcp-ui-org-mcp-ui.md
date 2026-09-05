@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 365 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend
+MCP · AI/ML · Frontend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ MCP-UI-Org/mcp-ui：MCP-UI-Org/mcp-ui helps connect AI assistants to real tools 
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # surapuramakhil-org/Job_search_agent
 
-[![Stars](https://img.shields.io/github/stars/surapuramakhil-org/Job_search_agent?style=flat-square&color=yellow)](https://github.com/surapuramakhil-org/Job_search_agent/stargazers) [![Forks](https://img.shields.io/github/forks/surapuramakhil-org/Job_search_agent?style=flat-square&color=blue)](https://github.com/surapuramakhil-org/Job_search_agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/surapuramakhil-org/Job_search_agent?style=flat-square&color=yellow)](https://github.com/surapuramakhil-org/Job_search_agent/stargazers) [![Forks](https://img.shields.io/github/forks/surapuramakhil-org/Job_search_agent?style=flat-square&color=blue)](https://github.com/surapuramakhil-org/Job_search_agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Job search Agent (AI) searches and applies to jobs on your behalf, creating tailored applications for positions that match your skills, making your entire job search hassle-free.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Job_search_agent 的价值在于帮助去除重复的手动操作，从而提高
 | forks | 42/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

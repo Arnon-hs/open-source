@@ -1,6 +1,6 @@
 # olonok69/LLM_Notebooks
 
-[![Stars](https://img.shields.io/github/stars/olonok69/LLM_Notebooks?style=flat-square&color=yellow)](https://github.com/olonok69/LLM_Notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/olonok69/LLM_Notebooks?style=flat-square&color=blue)](https://github.com/olonok69/LLM_Notebooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olonok69/LLM_Notebooks?style=flat-square&color=yellow)](https://github.com/olonok69/LLM_Notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/olonok69/LLM_Notebooks?style=flat-square&color=blue)](https://github.com/olonok69/LLM_Notebooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Notebooks and Code about Generative Ai, LLMs, MLOPS, NLP , CV  and Graph databases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · DevOps/Infra
+Orchestration · Knowledge/RAG · AI/ML · Cloud & Storage · DevOps/Infra
 
 ## 📝 Summary
 
@@ -86,15 +86,15 @@ olonok69/LLM_Notebooks 的生产可用性为中等（Medium），适用于原型
 | forks | 42/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

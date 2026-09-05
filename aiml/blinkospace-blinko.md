@@ -1,6 +1,6 @@
 # blinkospace/blinko
 
-[![Stars](https://img.shields.io/github/stars/blinkospace/blinko?style=flat-square&color=yellow)](https://github.com/blinkospace/blinko/stargazers) [![Forks](https://img.shields.io/github/forks/blinkospace/blinko?style=flat-square&color=blue)](https://github.com/blinkospace/blinko/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blinkospace/blinko?style=flat-square&color=yellow)](https://github.com/blinkospace/blinko/stargazers) [![Forks](https://img.shields.io/github/forks/blinkospace/blinko?style=flat-square&color=blue)](https://github.com/blinkospace/blinko/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.6k |
 | 🍴 **Forks** | 745 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML · Documents · Frontend · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ blinkospace/blinko 的生产可用性评分为高（High），主要原因是：
 | forks | 72/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

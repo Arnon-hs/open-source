@@ -1,6 +1,6 @@
 # w3c/vc-data-model
 
-[![Stars](https://img.shields.io/github/stars/w3c/vc-data-model?style=flat-square&color=yellow)](https://github.com/w3c/vc-data-model/stargazers) [![Forks](https://img.shields.io/github/forks/w3c/vc-data-model?style=flat-square&color=blue)](https://github.com/w3c/vc-data-model/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/w3c/vc-data-model?style=flat-square&color=yellow)](https://github.com/w3c/vc-data-model/stargazers) [![Forks](https://img.shields.io/github/forks/w3c/vc-data-model?style=flat-square&color=blue)](https://github.com/w3c/vc-data-model/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > W3C Verifiable Credentials v2.0 Specification
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 362 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ w3c/vc-data-model 是一个开源项目，基于 W3C Verifiable Credentials v2.0
 | forks | 53/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

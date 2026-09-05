@@ -1,6 +1,6 @@
 # mdoty4/batonbot
 
-[![Stars](https://img.shields.io/github/stars/mdoty4/batonbot?style=flat-square&color=yellow)](https://github.com/mdoty4/batonbot/stargazers) [![Forks](https://img.shields.io/github/forks/mdoty4/batonbot?style=flat-square&color=blue)](https://github.com/mdoty4/batonbot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mdoty4/batonbot?style=flat-square&color=yellow)](https://github.com/mdoty4/batonbot/stargazers) [![Forks](https://img.shields.io/github/forks/mdoty4/batonbot?style=flat-square&color=blue)](https://github.com/mdoty4/batonbot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI workflow orchestration for chaining models, agents, tools, and scripts into repeatable workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ batonbot 的生产可用性为中等（Medium），适合用于原型或内部�
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

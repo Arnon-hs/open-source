@@ -1,6 +1,6 @@
 # megabytefisher/Dragonfruit
 
-[![Stars](https://img.shields.io/github/stars/megabytefisher/Dragonfruit?style=flat-square&color=yellow)](https://github.com/megabytefisher/Dragonfruit/stargazers) [![Forks](https://img.shields.io/github/forks/megabytefisher/Dragonfruit?style=flat-square&color=blue)](https://github.com/megabytefisher/Dragonfruit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/megabytefisher/Dragonfruit?style=flat-square&color=yellow)](https://github.com/megabytefisher/Dragonfruit/stargazers) [![Forks](https://img.shields.io/github/forks/megabytefisher/Dragonfruit?style=flat-square&color=blue)](https://github.com/megabytefisher/Dragonfruit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: Dragonfruit: A 68k/Dragonball Palm device emulator for ESP32 devices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Dragonfruit 的生产可用性为中等。它适合用于原型开发或内部�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 34/100 |
-| quality | 22/100 |
-| recency | 40/100 |
+| outlook | 48/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 38/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

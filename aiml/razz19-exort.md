@@ -1,6 +1,6 @@
 # Razz19/Exort
 
-[![Stars](https://img.shields.io/github/stars/Razz19/Exort?style=flat-square&color=yellow)](https://github.com/Razz19/Exort/stargazers) [![Forks](https://img.shields.io/github/forks/Razz19/Exort?style=flat-square&color=blue)](https://github.com/Razz19/Exort/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Razz19/Exort?style=flat-square&color=yellow)](https://github.com/Razz19/Exort/stargazers) [![Forks](https://img.shields.io/github/forks/Razz19/Exort?style=flat-square&color=blue)](https://github.com/Razz19/Exort/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Exort is a coding agent for embedded devices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ Exort 的生产可用性为中等。它适合用于原型开发、内部工作�
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

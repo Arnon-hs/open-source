@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · AI/ML · Backend
+Video Editing · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ hydropix/TranslateBooksWithLLMs：hydropix/TranslateBooksWithLLMs helps turn med
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

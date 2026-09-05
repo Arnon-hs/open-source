@@ -1,6 +1,6 @@
 # zxhwolfe-dev/aiworkstation-open-source-intelligence
 
-[![Stars](https://img.shields.io/github/stars/zxhwolfe-dev/aiworkstation-open-source-intelligence?style=flat-square&color=yellow)](https://github.com/zxhwolfe-dev/aiworkstation-open-source-intelligence/stargazers) [![Forks](https://img.shields.io/github/forks/zxhwolfe-dev/aiworkstation-open-source-intelligence?style=flat-square&color=blue)](https://github.com/zxhwolfe-dev/aiworkstation-open-source-intelligence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zxhwolfe-dev/aiworkstation-open-source-intelligence?style=flat-square&color=yellow)](https://github.com/zxhwolfe-dev/aiworkstation-open-source-intelligence/stargazers) [![Forks](https://img.shields.io/github/forks/zxhwolfe-dev/aiworkstation-open-source-intelligence?style=flat-square&color=blue)](https://github.com/zxhwolfe-dev/aiworkstation-open-source-intelligence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-backed research, comparison, license verification, and stack planning for open-source AI projects. 1 Skill + 9 read-only MCP tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ zxhwolfe-dev/aiworkstation-open-source-intelligence：zxhwolfe-dev/aiworkstation
 | forks | 0/100 |
 | stars | 10/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 7/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

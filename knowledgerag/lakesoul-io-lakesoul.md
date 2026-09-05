@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 421 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Data · Database
+Knowledge/RAG · AI/ML · Cloud & Storage · Data · Database
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ lakesoul-io/LakeSoul：lakesoul-io/LakeSoul helps make internal knowledge search
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

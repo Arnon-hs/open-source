@@ -1,6 +1,6 @@
 # carvel-dev/carvel
 
-[![Stars](https://img.shields.io/github/stars/carvel-dev/carvel?style=flat-square&color=yellow)](https://github.com/carvel-dev/carvel/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/carvel?style=flat-square&color=blue)](https://github.com/carvel-dev/carvel/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carvel-dev/carvel?style=flat-square&color=yellow)](https://github.com/carvel-dev/carvel/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/carvel?style=flat-square&color=blue)](https://github.com/carvel-dev/carvel/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Carvel open-source community.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 406 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Carvel 提供了一套 **单一职责、可组合** 的工具链（如 `ytt`、`
 | forks | 54/100 |
 | stars | 56/100 |
 | topics | 13/100 |
-| outlook | 44/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

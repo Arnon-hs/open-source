@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ AndBible/and-bible：AndBible/and-bible helps ship user-facing interfaces with l
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

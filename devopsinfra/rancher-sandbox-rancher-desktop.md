@@ -1,6 +1,6 @@
 # rancher-sandbox/rancher-desktop
 
-[![Stars](https://img.shields.io/github/stars/rancher-sandbox/rancher-desktop?style=flat-square&color=yellow)](https://github.com/rancher-sandbox/rancher-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/rancher-sandbox/rancher-desktop?style=flat-square&color=blue)](https://github.com/rancher-sandbox/rancher-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rancher-sandbox/rancher-desktop?style=flat-square&color=yellow)](https://github.com/rancher-sandbox/rancher-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/rancher-sandbox/rancher-desktop?style=flat-square&color=blue)](https://github.com/rancher-sandbox/rancher-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Container Management and Kubernetes on the Desktop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Rancher Desktop 是一款开源的本地容器管理与 Kubernetes 环境，基�
 | forks | 64/100 |
 | stars | 82/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

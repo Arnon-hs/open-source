@@ -1,6 +1,6 @@
 # jupyterlab/jupyter-ai
 
-[![Stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=flat-square&color=yellow)](https://github.com/jupyterlab/jupyter-ai/stargazers) [![Forks](https://img.shields.io/github/forks/jupyterlab/jupyter-ai?style=flat-square&color=blue)](https://github.com/jupyterlab/jupyter-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=flat-square&color=yellow)](https://github.com/jupyterlab/jupyter-ai/stargazers) [![Forks](https://img.shields.io/github/forks/jupyterlab/jupyter-ai?style=flat-square&color=blue)](https://github.com/jupyterlab/jupyter-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An open source extension that connects AI agents to computational notebooks in JupyterLab.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 511 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ jupyterlab/jupyter‑ai 是一款开源 JupyterLab 扩展，能够在计算笔�
 | forks | 68/100 |
 | stars | 77/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

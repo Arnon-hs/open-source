@@ -1,6 +1,6 @@
 # guardrail-dev/guardrail
 
-[![Stars](https://img.shields.io/github/stars/guardrail-dev/guardrail?style=flat-square&color=yellow)](https://github.com/guardrail-dev/guardrail/stargazers) [![Forks](https://img.shields.io/github/forks/guardrail-dev/guardrail?style=flat-square&color=blue)](https://github.com/guardrail-dev/guardrail/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guardrail-dev/guardrail?style=flat-square&color=yellow)](https://github.com/guardrail-dev/guardrail/stargazers) [![Forks](https://img.shields.io/github/forks/guardrail-dev/guardrail?style=flat-square&color=blue)](https://github.com/guardrail-dev/guardrail/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Principled code generation from OpenAPI specifications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 542 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Guardrail 的生产可用性较高，主要原因是：
 | forks | 53/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

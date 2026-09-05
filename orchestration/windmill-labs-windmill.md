@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 947 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ windmill-labs/windmill：windmill-labs/windmill helps turn isolated prompts and 
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

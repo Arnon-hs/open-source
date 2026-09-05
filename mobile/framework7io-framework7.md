@@ -1,6 +1,6 @@
 # framework7io/framework7
 
-[![Stars](https://img.shields.io/github/stars/framework7io/framework7?style=flat-square&color=yellow)](https://github.com/framework7io/framework7/stargazers) [![Forks](https://img.shields.io/github/forks/framework7io/framework7?style=flat-square&color=blue)](https://github.com/framework7io/framework7/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/framework7io/framework7?style=flat-square&color=yellow)](https://github.com/framework7io/framework7/stargazers) [![Forks](https://img.shields.io/github/forks/framework7io/framework7?style=flat-square&color=blue)](https://github.com/framework7io/framework7/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Full featured HTML framework for building iOS & Android apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.7k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Framework7的生产可用性很高，主要原因是：
 | forks | 88/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 80/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

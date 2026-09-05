@@ -1,6 +1,6 @@
 # operacle/checkcle
 
-[![Stars](https://img.shields.io/github/stars/operacle/checkcle?style=flat-square&color=yellow)](https://github.com/operacle/checkcle/stargazers) [![Forks](https://img.shields.io/github/forks/operacle/checkcle?style=flat-square&color=blue)](https://github.com/operacle/checkcle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/operacle/checkcle?style=flat-square&color=yellow)](https://github.com/operacle/checkcle/stargazers) [![Forks](https://img.shields.io/github/forks/operacle/checkcle?style=flat-square&color=blue)](https://github.com/operacle/checkcle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Operacle/Checkcle 的生产可用性很高。它有强大的社区支持、活�
 | forks | 60/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

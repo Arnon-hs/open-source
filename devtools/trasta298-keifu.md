@@ -1,6 +1,6 @@
 # trasta298/keifu
 
-[![Stars](https://img.shields.io/github/stars/trasta298/keifu?style=flat-square&color=yellow)](https://github.com/trasta298/keifu/stargazers) [![Forks](https://img.shields.io/github/forks/trasta298/keifu?style=flat-square&color=blue)](https://github.com/trasta298/keifu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trasta298/keifu?style=flat-square&color=yellow)](https://github.com/trasta298/keifu/stargazers) [![Forks](https://img.shields.io/github/forks/trasta298/keifu?style=flat-square&color=blue)](https://github.com/trasta298/keifu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 782 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Data
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ trasta298/keifu 是一个开源项目，旨在为 Git 提供一个交互式用�
 | forks | 34/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # shareAI-lab/Kode-CLI
 
-[![Stars](https://img.shields.io/github/stars/shareAI-lab/Kode-CLI?style=flat-square&color=yellow)](https://github.com/shareAI-lab/Kode-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/shareAI-lab/Kode-CLI?style=flat-square&color=blue)](https://github.com/shareAI-lab/Kode-CLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shareAI-lab/Kode-CLI?style=flat-square&color=yellow)](https://github.com/shareAI-lab/Kode-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/shareAI-lab/Kode-CLI?style=flat-square&color=blue)](https://github.com/shareAI-lab/Kode-CLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 766 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Kode‑CLI（shareAI‑lab/Kode-CLI）是一款面向后人类（post‑human）
 | forks | 72/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

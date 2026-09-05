@@ -1,6 +1,6 @@
 # h5bp/html5-boilerplate
 
-[![Stars](https://img.shields.io/github/stars/h5bp/html5-boilerplate?style=flat-square&color=yellow)](https://github.com/h5bp/html5-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/h5bp/html5-boilerplate?style=flat-square&color=blue)](https://github.com/h5bp/html5-boilerplate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h5bp/html5-boilerplate?style=flat-square&color=yellow)](https://github.com/h5bp/html5-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/h5bp/html5-boilerplate?style=flat-square&color=blue)](https://github.com/h5bp/html5-boilerplate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57.5k |
 | 🍴 **Forks** | 12.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ h5bp/html5‑boilerplate 是一个成熟的前端脚手架，提供经过优化�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 88/100 |
-| outlook | 69/100 |
-| quality | 83/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

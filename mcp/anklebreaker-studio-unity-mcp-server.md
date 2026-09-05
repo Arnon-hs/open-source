@@ -1,6 +1,6 @@
 # AnkleBreaker-Studio/unity-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/AnkleBreaker-Studio/unity-mcp-server?style=flat-square&color=yellow)](https://github.com/AnkleBreaker-Studio/unity-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/AnkleBreaker-Studio/unity-mcp-server?style=flat-square&color=blue)](https://github.com/AnkleBreaker-Studio/unity-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnkleBreaker-Studio/unity-mcp-server?style=flat-square&color=yellow)](https://github.com/AnkleBreaker-Studio/unity-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/AnkleBreaker-Studio/unity-mcp-server?style=flat-square&color=blue)](https://github.com/AnkleBreaker-Studio/unity-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Unity MCP Server — 268 tools for AI-assisted game development. Connect Claude, Cursor, or any MCP client to Unity Editor & Unity Hub. Scene management, GameObjects, components, builds, profiling, Shader Graph, Amplify, terrain, physics, NavMesh, animation, MPPM multiplayer & more. Free & open source by AnkleBreaker Studio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ AnkleBreaker‑Studio/unity‑mcp‑server 是一个免费开源的 Unity MCP �
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

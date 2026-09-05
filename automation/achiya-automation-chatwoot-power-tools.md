@@ -1,6 +1,6 @@
 # achiya-automation/chatwoot-power-tools
 
-[![Stars](https://img.shields.io/github/stars/achiya-automation/chatwoot-power-tools?style=flat-square&color=yellow)](https://github.com/achiya-automation/chatwoot-power-tools/stargazers) [![Forks](https://img.shields.io/github/forks/achiya-automation/chatwoot-power-tools?style=flat-square&color=blue)](https://github.com/achiya-automation/chatwoot-power-tools/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/achiya-automation/chatwoot-power-tools?style=flat-square&color=yellow)](https://github.com/achiya-automation/chatwoot-power-tools/stargazers) [![Forks](https://img.shields.io/github/forks/achiya-automation/chatwoot-power-tools?style=flat-square&color=blue)](https://github.com/achiya-automation/chatwoot-power-tools/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > One command adds smart contact import, WhatsApp drip sequences & dashboard upgrades to self-hosted Chatwoot — same-origin sidecar, Docker Compose only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ achiya-automation/chatwoot-power-tools：achiya-automation/chatwoot-power-tools 
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |

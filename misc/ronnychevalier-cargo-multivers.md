@@ -1,6 +1,6 @@
 # ronnychevalier/cargo-multivers
 
-[![Stars](https://img.shields.io/github/stars/ronnychevalier/cargo-multivers?style=flat-square&color=yellow)](https://github.com/ronnychevalier/cargo-multivers/stargazers) [![Forks](https://img.shields.io/github/forks/ronnychevalier/cargo-multivers?style=flat-square&color=blue)](https://github.com/ronnychevalier/cargo-multivers/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ronnychevalier/cargo-multivers?style=flat-square&color=yellow)](https://github.com/ronnychevalier/cargo-multivers/stargazers) [![Forks](https://img.shields.io/github/forks/ronnychevalier/cargo-multivers?style=flat-square&color=blue)](https://github.com/ronnychevalier/cargo-multivers/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Cargo subcommand to build multiple versions of the same binary, each with a different CPU features set, merged into a single portable optimized binary
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Misc
 | forks | 25/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 51/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

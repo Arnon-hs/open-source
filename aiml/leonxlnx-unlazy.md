@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity
 
 ## 📝 Summary
 
 ### English
 
-Leonxlnx/unlazy: . Use it for AI/ML. 
+Leonxlnx/unlazy: . Use it for AI/ML, Productivity. 
 
 ### Русский
 
-Leonxlnx/unlazy: open-source проект в категориях AI/ML. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Leonxlnx/unlazy: open-source проект в категориях AI/ML, Productivity. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Leonxlnx/unlazy：。适合用于AI/ML。
+Leonxlnx/unlazy：。适合用于AI/ML、Productivity。
 
 ## 🧭 Practical evaluation
 
@@ -70,7 +70,7 @@ Leonxlnx/unlazy：。适合用于AI/ML。
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

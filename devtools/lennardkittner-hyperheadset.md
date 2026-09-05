@@ -1,6 +1,6 @@
 # LennardKittner/HyperHeadset
 
-[![Stars](https://img.shields.io/github/stars/LennardKittner/HyperHeadset?style=flat-square&color=yellow)](https://github.com/LennardKittner/HyperHeadset/stargazers) [![Forks](https://img.shields.io/github/forks/LennardKittner/HyperHeadset?style=flat-square&color=blue)](https://github.com/LennardKittner/HyperHeadset/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LennardKittner/HyperHeadset?style=flat-square&color=yellow)](https://github.com/LennardKittner/HyperHeadset/stargazers) [![Forks](https://img.shields.io/github/forks/LennardKittner/HyperHeadset?style=flat-square&color=blue)](https://github.com/LennardKittner/HyperHeadset/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI and tray application for monitoring and managing HyperX headsets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ LennardKittner/HyperHeadset 的主要价值在于：
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

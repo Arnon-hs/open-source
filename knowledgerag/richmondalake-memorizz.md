@@ -1,6 +1,6 @@
 # RichmondAlake/memorizz
 
-[![Stars](https://img.shields.io/github/stars/RichmondAlake/memorizz?style=flat-square&color=yellow)](https://github.com/RichmondAlake/memorizz/stargazers) [![Forks](https://img.shields.io/github/forks/RichmondAlake/memorizz?style=flat-square&color=blue)](https://github.com/RichmondAlake/memorizz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RichmondAlake/memorizz?style=flat-square&color=yellow)](https://github.com/RichmondAlake/memorizz/stargazers) [![Forks](https://img.shields.io/github/forks/RichmondAlake/memorizz?style=flat-square&color=blue)](https://github.com/RichmondAlake/memorizz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 756 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ MemoRizz 在生产环境中具有较高的可用性。它的活跃维护者、�
 | forks | 47/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

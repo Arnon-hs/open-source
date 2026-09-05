@@ -1,6 +1,6 @@
 # brianpetro/obsidian-smart-connections
 
-[![Stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=flat-square&color=yellow)](https://github.com/brianpetro/obsidian-smart-connections/stargazers) [![Forks](https://img.shields.io/github/forks/brianpetro/obsidian-smart-connections?style=flat-square&color=blue)](https://github.com/brianpetro/obsidian-smart-connections/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=flat-square&color=yellow)](https://github.com/brianpetro/obsidian-smart-connections/stargazers) [![Forks](https://img.shields.io/github/forks/brianpetro/obsidian-smart-connections?style=flat-square&color=blue)](https://github.com/brianpetro/obsidian-smart-connections/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG
+Knowledge/RAG · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ Overall, *Obsidian Smart Connections* is a production‑ready OSS candidate 
 | forks | 62/100 |
 | stars | 79/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 55/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # itmisx/deepx-code
 
-[![Stars](https://img.shields.io/github/stars/itmisx/deepx-code?style=flat-square&color=yellow)](https://github.com/itmisx/deepx-code/stargazers) [![Forks](https://img.shields.io/github/forks/itmisx/deepx-code?style=flat-square&color=blue)](https://github.com/itmisx/deepx-code/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itmisx/deepx-code?style=flat-square&color=yellow)](https://github.com/itmisx/deepx-code/stargazers) [![Forks](https://img.shields.io/github/forks/itmisx/deepx-code?style=flat-square&color=blue)](https://github.com/itmisx/deepx-code/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > deepseek标配coding agent、原生支持模型路由、CodeGraph代码图谱、OCR截图识别、自动上下文压缩、最佳工作模式选择，workflow等功能，从根本上节省Token
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ deepx‑code 能够把代码生成、依赖分析、截图文字提取等环节�
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

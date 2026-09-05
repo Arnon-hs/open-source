@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 547 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · DevTools · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Klavis-AI/klavis：Klavis-AI/klavis helps connect AI assistants to real tools an
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

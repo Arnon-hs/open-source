@@ -1,6 +1,6 @@
 # feenlace/mcp-1c
 
-[![Stars](https://img.shields.io/github/stars/feenlace/mcp-1c?style=flat-square&color=yellow)](https://github.com/feenlace/mcp-1c/stargazers) [![Forks](https://img.shields.io/github/forks/feenlace/mcp-1c?style=flat-square&color=blue)](https://github.com/feenlace/mcp-1c/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feenlace/mcp-1c?style=flat-square&color=yellow)](https://github.com/feenlace/mcp-1c/stargazers) [![Forks](https://img.shields.io/github/forks/feenlace/mcp-1c?style=flat-square&color=blue)](https://github.com/feenlace/mcp-1c/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for 1С:Enterprise — AI assistant sees your configuration and generates accurate BSL code. One binary, zero dependencies, 9 tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ feenlace/mcp-1c 是一个基于 **Model Context Protocol（MCP）** 的服�
 | forks | 36/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Jamailar/Beav
 
-[![Stars](https://img.shields.io/github/stars/Jamailar/Beav?style=flat-square&color=yellow)](https://github.com/Jamailar/Beav/stargazers) [![Forks](https://img.shields.io/github/forks/Jamailar/Beav?style=flat-square&color=blue)](https://github.com/Jamailar/Beav/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jamailar/Beav?style=flat-square&color=yellow)](https://github.com/Jamailar/Beav/stargazers) [![Forks](https://img.shields.io/github/forks/Jamailar/Beav?style=flat-square&color=blue)](https://github.com/Jamailar/Beav/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 原RedBox，现更名为Beav，小红书自媒体素材库+AI工作台，AI自媒体资产底座，AI写作+图片自动编排，小红书版OpenClaw，AI剪视频、AI剪博客、自媒体素材库+AI工作台，支持小红书图文+评论区下载、小红书AI创作、自媒体AI创作、抖音AI创作、AI运营｜🌟 Star if you like it! ｜ 你桌面盒子里的AI小河狸🦫
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -125,11 +125,11 @@ Jamailar/Beav（原 RedBox）是一款面向小红书、抖音等平台的 AI �
 | forks | 56/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

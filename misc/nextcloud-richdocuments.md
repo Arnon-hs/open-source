@@ -1,6 +1,6 @@
 # nextcloud/richdocuments
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=flat-square&color=yellow)](https://github.com/nextcloud/richdocuments/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/richdocuments?style=flat-square&color=blue)](https://github.com/nextcloud/richdocuments/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=flat-square&color=yellow)](https://github.com/nextcloud/richdocuments/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/richdocuments?style=flat-square&color=blue)](https://github.com/nextcloud/richdocuments/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 📑 Collabora Online for Nextcloud
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ nextcloud/richdocuments 为 Nextcloud 提供 Collabora Online 在线文档编辑
 | forks | 54/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

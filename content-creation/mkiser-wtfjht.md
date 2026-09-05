@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,6 +78,7 @@ mkiser/WTFJHT：mkiser/WTFJHT helps creators research, generate, repurpose, and 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

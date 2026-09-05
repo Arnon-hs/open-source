@@ -1,6 +1,6 @@
 # legeling/awesome-codex-pet
 
-[![Stars](https://img.shields.io/github/stars/legeling/awesome-codex-pet?style=flat-square&color=yellow)](https://github.com/legeling/awesome-codex-pet/stargazers) [![Forks](https://img.shields.io/github/forks/legeling/awesome-codex-pet?style=flat-square&color=blue)](https://github.com/legeling/awesome-codex-pet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/legeling/awesome-codex-pet?style=flat-square&color=yellow)](https://github.com/legeling/awesome-codex-pet/stargazers) [![Forks](https://img.shields.io/github/forks/legeling/awesome-codex-pet?style=flat-square&color=blue)](https://github.com/legeling/awesome-codex-pet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A curated gallery of community-made Codex pets, with generated action previews and one-command installation. codex宠物，codex 小宠物，像素宠物，桌宠，桌面宠物
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 461 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ legeling/awesome-codex-pet 的生产可用性为中等。它适合用于原型�
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

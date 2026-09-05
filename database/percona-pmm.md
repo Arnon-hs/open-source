@@ -1,6 +1,6 @@
 # percona/pmm
 
-[![Stars](https://img.shields.io/github/stars/percona/pmm?style=flat-square&color=yellow)](https://github.com/percona/pmm/stargazers) [![Forks](https://img.shields.io/github/forks/percona/pmm?style=flat-square&color=blue)](https://github.com/percona/pmm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/percona/pmm?style=flat-square&color=yellow)](https://github.com/percona/pmm/stargazers) [![Forks](https://img.shields.io/github/forks/percona/pmm?style=flat-square&color=blue)](https://github.com/percona/pmm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Percona Monitoring and Management: an open source database monitoring, observability and management tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 219 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Percona Monitoring and Management（PMM）是一款开源的数据库监控、�
 | forks | 59/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

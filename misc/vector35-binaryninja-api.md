@@ -1,6 +1,6 @@
 # Vector35/binaryninja-api
 
-[![Stars](https://img.shields.io/github/stars/Vector35/binaryninja-api?style=flat-square&color=yellow)](https://github.com/Vector35/binaryninja-api/stargazers) [![Forks](https://img.shields.io/github/forks/Vector35/binaryninja-api?style=flat-square&color=blue)](https://github.com/Vector35/binaryninja-api/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vector35/binaryninja-api?style=flat-square&color=yellow)](https://github.com/Vector35/binaryninja-api/stargazers) [![Forks](https://img.shields.io/github/forks/Vector35/binaryninja-api?style=flat-square&color=blue)](https://github.com/Vector35/binaryninja-api/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Public API, examples, documentation and issues for Binary Ninja
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Vector35/binaryninja-api 提供 Binary Ninja 的公开 API、示例、文档和�
 | forks | 62/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 68/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

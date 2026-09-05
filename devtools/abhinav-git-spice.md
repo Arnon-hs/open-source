@@ -1,6 +1,6 @@
 # abhinav/git-spice
 
-[![Stars](https://img.shields.io/github/stars/abhinav/git-spice?style=flat-square&color=yellow)](https://github.com/abhinav/git-spice/stargazers) [![Forks](https://img.shields.io/github/forks/abhinav/git-spice?style=flat-square&color=blue)](https://github.com/abhinav/git-spice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abhinav/git-spice?style=flat-square&color=yellow)](https://github.com/abhinav/git-spice/stargazers) [![Forks](https://img.shields.io/github/forks/abhinav/git-spice?style=flat-square&color=blue)](https://github.com/abhinav/git-spice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Manage stacked Git branches
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 638 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ abhinav/git‑spice 是一款用 Go 编写的开源工具，专注于管理 **st
 | forks | 45/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 45/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

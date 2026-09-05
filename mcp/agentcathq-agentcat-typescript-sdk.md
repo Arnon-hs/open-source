@@ -1,6 +1,6 @@
 # agentcathq/agentcat-typescript-sdk
 
-[![Stars](https://img.shields.io/github/stars/agentcathq/agentcat-typescript-sdk?style=flat-square&color=yellow)](https://github.com/agentcathq/agentcat-typescript-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/agentcathq/agentcat-typescript-sdk?style=flat-square&color=blue)](https://github.com/agentcathq/agentcat-typescript-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentcathq/agentcat-typescript-sdk?style=flat-square&color=yellow)](https://github.com/agentcathq/agentcat-typescript-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/agentcathq/agentcat-typescript-sdk?style=flat-square&color=blue)](https://github.com/agentcathq/agentcat-typescript-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > AgentCat is an analytics platform for MCP server owners 🐱.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Observability
+MCP · AI/ML · Backend · Libraries & SDKs · Data
 
 ## 📝 Summary
 
@@ -109,11 +109,11 @@ AgentCat TypeScript SDK 的生产可用性很高，主要原因是：
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

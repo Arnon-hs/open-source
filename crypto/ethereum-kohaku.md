@@ -1,6 +1,6 @@
 # ethereum/kohaku
 
-[![Stars](https://img.shields.io/github/stars/ethereum/kohaku?style=flat-square&color=yellow)](https://github.com/ethereum/kohaku/stargazers) [![Forks](https://img.shields.io/github/forks/ethereum/kohaku?style=flat-square&color=blue)](https://github.com/ethereum/kohaku/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ethereum/kohaku?style=flat-square&color=yellow)](https://github.com/ethereum/kohaku/stargazers) [![Forks](https://img.shields.io/github/forks/ethereum/kohaku?style=flat-square&color=blue)](https://github.com/ethereum/kohaku/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy-first tooling for the Ethereum ecosystem
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 380 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Ethereum/kohaku 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

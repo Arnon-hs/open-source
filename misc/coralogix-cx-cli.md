@@ -1,6 +1,6 @@
 # coralogix/cx-cli
 
-[![Stars](https://img.shields.io/github/stars/coralogix/cx-cli?style=flat-square&color=yellow)](https://github.com/coralogix/cx-cli/stargazers) [![Forks](https://img.shields.io/github/forks/coralogix/cx-cli?style=flat-square&color=blue)](https://github.com/coralogix/cx-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coralogix/cx-cli?style=flat-square&color=yellow)](https://github.com/coralogix/cx-cli/stargazers) [![Forks](https://img.shields.io/github/forks/coralogix/cx-cli?style=flat-square&color=blue)](https://github.com/coralogix/cx-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > This is the Coralogix CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ coralogix/cx‑cli 是 Coralogix 官方提供的命令行工具，能够帮助�
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 36/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

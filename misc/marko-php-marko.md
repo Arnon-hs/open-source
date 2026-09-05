@@ -1,6 +1,6 @@
 # marko-php/marko
 
-[![Stars](https://img.shields.io/github/stars/marko-php/marko?style=flat-square&color=yellow)](https://github.com/marko-php/marko/stargazers) [![Forks](https://img.shields.io/github/forks/marko-php/marko?style=flat-square&color=blue)](https://github.com/marko-php/marko/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marko-php/marko?style=flat-square&color=yellow)](https://github.com/marko-php/marko/stargazers) [![Forks](https://img.shields.io/github/forks/marko-php/marko?style=flat-square&color=blue)](https://github.com/marko-php/marko/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The modular PHP framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 387 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ Marko 是一个模块化的 PHP 框架，旨在通过可插拔的组件帮助开
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

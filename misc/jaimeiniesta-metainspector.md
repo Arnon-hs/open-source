@@ -1,6 +1,6 @@
 # jaimeiniesta/metainspector
 
-[![Stars](https://img.shields.io/github/stars/jaimeiniesta/metainspector?style=flat-square&color=yellow)](https://github.com/jaimeiniesta/metainspector/stargazers) [![Forks](https://img.shields.io/github/forks/jaimeiniesta/metainspector?style=flat-square&color=blue)](https://github.com/jaimeiniesta/metainspector/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaimeiniesta/metainspector?style=flat-square&color=yellow)](https://github.com/jaimeiniesta/metainspector/stargazers) [![Forks](https://img.shields.io/github/forks/jaimeiniesta/metainspector?style=flat-square&color=blue)](https://github.com/jaimeiniesta/metainspector/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, links, images...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ jaimeiniesta/metainspector is a Ruby gem that extracts key SEO data from any web
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

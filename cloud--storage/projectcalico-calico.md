@@ -1,0 +1,83 @@
+# projectcalico/calico
+
+[![Stars](https://img.shields.io/github/stars/projectcalico/calico?style=flat-square&color=yellow)](https://github.com/projectcalico/calico/stargazers) [![Forks](https://img.shields.io/github/forks/projectcalico/calico?style=flat-square&color=blue)](https://github.com/projectcalico/calico/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+
+> Cloud native networking and network security
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7.2k |
+| 🍴 **Forks** | 1.6k |
+| 💻 **Language** | Go |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cats` `cni` `cni-plugin` `ebpf` `host-protection` `identity-aware-policy` `k8s` `kubernetes` `kubernetes-networking` `kubernetes-windows` `network-policy` `networking`
+
+## 🎯 Categories
+
+Cloud & Storage · Networking · Observability · DevOps/Infra · Security
+
+## 📝 Summary
+
+### English
+
+Project Calico is an open‑source networking and network‑security solution designed for cloud‑native environments such as Kubernetes, OpenShift, and other container orchestration platforms. It provides a high‑performance, scalable data‑plane (based on eBPF or Linux kernel routing) and a declarative policy engine that enforces fine‑grained security rules across workloads, VMs, and bare‑metal hosts. By integrating seamlessly with DevOps tooling, Calico enables consistent, zero‑trust networking and micro‑segmentation for modern infrastructure.
+
+### Русский
+
+Open Source проект **projectcalico/calico** предоставляет облачно‑нативные решения для сетевого взаимодействия и сетевой безопасности в контейнерных и виртуализированных средах. Он реализует масштабируемый слой L3‑сетей, политик доступа и микросегментацию, позволяя DevOps‑командам автоматизировать подключение и защиту микросервисов без необходимости в традиционных оверлей‑сетях. Calico интегрируется с Kubernetes, OpenShift, Docker и другими оркестраторами, обеспечивая высокую производительность и гибкость управления сетевой инфраструктурой.
+
+### 中文
+
+projectcalico/calico：projectcalico/calico helps make production behavior easier to inspect and debug.。适合用于monitor systems、debug production behavior。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** projectcalico/calico helps make production behavior easier to inspect and debug.
+
+**Best use cases**
+
+- monitor systems
+- debug production behavior
+- track service health
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 7189 GitHub stars
+- 1559 forks
+- updated 2026-05-08
+- primary language: Go
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 80/100 |
+| stars | 82/100 |
+| topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 59/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/projectcalico/calico) · [← Back to Cloud--storage](./README.md)</sub>

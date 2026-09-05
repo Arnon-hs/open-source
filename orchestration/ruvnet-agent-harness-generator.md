@@ -1,6 +1,6 @@
 # ruvnet/agent-harness-generator
 
-[![Stars](https://img.shields.io/github/stars/ruvnet/agent-harness-generator?style=flat-square&color=yellow)](https://github.com/ruvnet/agent-harness-generator/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/agent-harness-generator?style=flat-square&color=blue)](https://github.com/ruvnet/agent-harness-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruvnet/agent-harness-generator?style=flat-square&color=yellow)](https://github.com/ruvnet/agent-harness-generator/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/agent-harness-generator?style=flat-square&color=blue)](https://github.com/ruvnet/agent-harness-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 285 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,11 +132,11 @@ ruvnet/agent-harness-generator 是一套面向 AI 代理的元‑harness，提�
 | forks | 37/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

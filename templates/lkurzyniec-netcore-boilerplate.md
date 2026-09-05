@@ -1,6 +1,6 @@
 # lkurzyniec/netcore-boilerplate
 
-[![Stars](https://img.shields.io/github/stars/lkurzyniec/netcore-boilerplate?style=flat-square&color=yellow)](https://github.com/lkurzyniec/netcore-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/lkurzyniec/netcore-boilerplate?style=flat-square&color=blue)](https://github.com/lkurzyniec/netcore-boilerplate/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lkurzyniec/netcore-boilerplate?style=flat-square&color=yellow)](https://github.com/lkurzyniec/netcore-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/lkurzyniec/netcore-boilerplate?style=flat-square&color=blue)](https://github.com/lkurzyniec/netcore-boilerplate/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Boilerplate of API in .NET 10
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 554 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ lkurzyniec/netcore-boilerplate 的生产可用性为中等（
 | forks | 51/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 62/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 61/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

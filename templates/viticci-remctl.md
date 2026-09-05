@@ -1,6 +1,6 @@
 # viticci/remctl
 
-[![Stars](https://img.shields.io/github/stars/viticci/remctl?style=flat-square&color=yellow)](https://github.com/viticci/remctl/stargazers) [![Forks](https://img.shields.io/github/forks/viticci/remctl?style=flat-square&color=blue)](https://github.com/viticci/remctl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/viticci/remctl?style=flat-square&color=yellow)](https://github.com/viticci/remctl/stargazers) [![Forks](https://img.shields.io/github/forks/viticci/remctl?style=flat-square&color=blue)](https://github.com/viticci/remctl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image attachments. (Not affiliated with Apple.)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ viticci/remctl 是一款面向高级用户和 AI 代理的 Apple Reminders 命�
 | forks | 27/100 |
 | stars | 50/100 |
 | topics | 50/100 |
-| outlook | 58/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

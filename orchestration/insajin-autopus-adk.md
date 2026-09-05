@@ -1,6 +1,6 @@
 # Insajin/autopus-adk
 
-[![Stars](https://img.shields.io/github/stars/Insajin/autopus-adk?style=flat-square&color=yellow)](https://github.com/Insajin/autopus-adk/stargazers) [![Forks](https://img.shields.io/github/forks/Insajin/autopus-adk?style=flat-square&color=blue)](https://github.com/Insajin/autopus-adk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Insajin/autopus-adk?style=flat-square&color=yellow)](https://github.com/Insajin/autopus-adk/stargazers) [![Forks](https://img.shields.io/github/forks/Insajin/autopus-adk?style=flat-square&color=blue)](https://github.com/Insajin/autopus-adk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastest). Architecture-as-Code, Lore decision tracking, SPEC/EARS engine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ Insajin/autopus-adk 是一个面向Agent的开源编排框架，以“由Agent�
 | forks | 47/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

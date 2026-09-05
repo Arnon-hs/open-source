@@ -1,6 +1,6 @@
 # OraclesTech/guardian-sdk
 
-[![Stars](https://img.shields.io/github/stars/OraclesTech/guardian-sdk?style=flat-square&color=yellow)](https://github.com/OraclesTech/guardian-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/OraclesTech/guardian-sdk?style=flat-square&color=blue)](https://github.com/OraclesTech/guardian-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OraclesTech/guardian-sdk?style=flat-square&color=yellow)](https://github.com/OraclesTech/guardian-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/OraclesTech/guardian-sdk?style=flat-square&color=blue)](https://github.com/OraclesTech/guardian-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Ethicore Engine™ is an AI safety, ethics, and compliance platform. This repo consists of the open-source components of Ethicore Engine™ - Guardian SDK; designed to protect your AI applications from prompt injection, jailbreaks, role hijacking, system-prompt extraction, and 100+ additional threat categories through a multi-layer analysis pipeline
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data · Security
+AI/ML · Backend · Libraries & SDKs · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ OraclesTech/guardian-sdk 是 Ethicore Engine™ 的开源组件，提供一套�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

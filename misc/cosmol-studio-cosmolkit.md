@@ -1,6 +1,6 @@
 # cosmol-studio/COSMolKit
 
-[![Stars](https://img.shields.io/github/stars/cosmol-studio/COSMolKit?style=flat-square&color=yellow)](https://github.com/cosmol-studio/COSMolKit/stargazers) [![Forks](https://img.shields.io/github/forks/cosmol-studio/COSMolKit?style=flat-square&color=blue)](https://github.com/cosmol-studio/COSMolKit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmol-studio/COSMolKit?style=flat-square&color=yellow)](https://github.com/cosmol-studio/COSMolKit/stargazers) [![Forks](https://img.shields.io/github/forks/cosmol-studio/COSMolKit?style=flat-square&color=blue)](https://github.com/cosmol-studio/COSMolKit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Pure-Rust cheminformatics toolkit and RDKit-compatible alternative for SMILES/SMARTS, SDF, fingerprints, substructure search, ETKDG, UFF/MMFF, and Python workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ cosmol-studio/COSMolKit：。适合用于Misc。
 | forks | 8/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 54/100 |
-| recency | 80/100 |
+| outlook | 72/100 |
+| quality | 59/100 |
+| recency | 100/100 |
 | adoption | 20/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

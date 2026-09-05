@@ -1,6 +1,6 @@
 # fmhy/bookmarks
 
-[![Stars](https://img.shields.io/github/stars/fmhy/bookmarks?style=flat-square&color=yellow)](https://github.com/fmhy/bookmarks/stargazers) [![Forks](https://img.shields.io/github/forks/fmhy/bookmarks?style=flat-square&color=blue)](https://github.com/fmhy/bookmarks/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fmhy/bookmarks?style=flat-square&color=yellow)](https://github.com/fmhy/bookmarks/stargazers) [![Forks](https://img.shields.io/github/forks/fmhy/bookmarks?style=flat-square&color=blue)](https://github.com/fmhy/bookmarks/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 546 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ fmhy/bookmarks has a medium production readiness score, indicating that it is su
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

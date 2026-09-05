@@ -1,6 +1,6 @@
 # rderaison/bromure
 
-[![Stars](https://img.shields.io/github/stars/rderaison/bromure?style=flat-square&color=yellow)](https://github.com/rderaison/bromure/stargazers) [![Forks](https://img.shields.io/github/forks/rderaison/bromure?style=flat-square&color=blue)](https://github.com/rderaison/bromure/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rderaison/bromure?style=flat-square&color=yellow)](https://github.com/rderaison/bromure/stargazers) [![Forks](https://img.shields.io/github/forks/rderaison/bromure?style=flat-square&color=blue)](https://github.com/rderaison/bromure/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Proper sandboxing for agentic coding and web browsing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 248 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ rderaison/bromure 为 AI/ML 应用提供了「安全沙箱」层，能够在不�
 | forks | 30/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

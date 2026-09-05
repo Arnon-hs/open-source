@@ -1,6 +1,6 @@
 # moneymanagerex/android-money-manager-ex
 
-[![Stars](https://img.shields.io/github/stars/moneymanagerex/android-money-manager-ex?style=flat-square&color=yellow)](https://github.com/moneymanagerex/android-money-manager-ex/stargazers) [![Forks](https://img.shields.io/github/forks/moneymanagerex/android-money-manager-ex?style=flat-square&color=blue)](https://github.com/moneymanagerex/android-money-manager-ex/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moneymanagerex/android-money-manager-ex?style=flat-square&color=yellow)](https://github.com/moneymanagerex/android-money-manager-ex/stargazers) [![Forks](https://img.shields.io/github/forks/moneymanagerex/android-money-manager-ex?style=flat-square&color=blue)](https://github.com/moneymanagerex/android-money-manager-ex/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first personal finance app. Encrypted, self-hosted, sync across devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Money Manager Ex 的生产可用性为中等。它可以用于原型或内部工
 | forks | 59/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

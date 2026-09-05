@@ -1,6 +1,6 @@
 # ByteYellow/AgentProvenance
 
-[![Stars](https://img.shields.io/github/stars/ByteYellow/AgentProvenance?style=flat-square&color=yellow)](https://github.com/ByteYellow/AgentProvenance/stargazers) [![Forks](https://img.shields.io/github/forks/ByteYellow/AgentProvenance?style=flat-square&color=blue)](https://github.com/ByteYellow/AgentProvenance/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ByteYellow/AgentProvenance?style=flat-square&color=yellow)](https://github.com/ByteYellow/AgentProvenance/stargazers) [![Forks](https://img.shields.io/github/forks/ByteYellow/AgentProvenance?style=flat-square&color=blue)](https://github.com/ByteYellow/AgentProvenance/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Security-oriented execution observability and Git-like provenance for sandboxed AI agents: verifiable evidence graphs for risk, replay, forensics, and audit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ ByteYellow/AgentProvenance 的生产可用性为中等（Medium）。它适合�
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

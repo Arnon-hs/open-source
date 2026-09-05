@@ -1,6 +1,6 @@
 # microsoft/Data-Science-For-Beginners
 
-[![Stars](https://img.shields.io/github/stars/microsoft/Data-Science-For-Beginners?style=flat-square&color=yellow)](https://github.com/microsoft/Data-Science-For-Beginners/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/Data-Science-For-Beginners?style=flat-square&color=blue)](https://github.com/microsoft/Data-Science-For-Beginners/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/Data-Science-For-Beginners?style=flat-square&color=yellow)](https://github.com/microsoft/Data-Science-For-Beginners/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/Data-Science-For-Beginners?style=flat-square&color=blue)](https://github.com/microsoft/Data-Science-For-Beginners/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 10 Weeks, 20 Lessons, Data Science for All!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36.3k |
 | 🍴 **Forks** | 7.3k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ microsoft/Data-Science-For-Beginners 是一个开源数据科学项目，旨在�
 | forks | 97/100 |
 | stars | 97/100 |
 | topics | 75/100 |
-| outlook | 64/100 |
-| quality | 80/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 97/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

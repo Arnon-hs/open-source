@@ -1,6 +1,6 @@
 # MALSync/MALSync
 
-[![Stars](https://img.shields.io/github/stars/MALSync/MALSync?style=flat-square&color=yellow)](https://github.com/MALSync/MALSync/stargazers) [![Forks](https://img.shields.io/github/forks/MALSync/MALSync?style=flat-square&color=blue)](https://github.com/MALSync/MALSync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MALSync/MALSync?style=flat-square&color=yellow)](https://github.com/MALSync/MALSync/stargazers) [![Forks](https://img.shields.io/github/forks/MALSync/MALSync?style=flat-square&color=blue)](https://github.com/MALSync/MALSync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ MALSync 是一款基于 TypeScript 的开源插件/脚本，能够把 MyAnimeLis
 | forks | 63/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

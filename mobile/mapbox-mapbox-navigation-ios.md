@@ -1,6 +1,6 @@
 # mapbox/mapbox-navigation-ios
 
-[![Stars](https://img.shields.io/github/stars/mapbox/mapbox-navigation-ios?style=flat-square&color=yellow)](https://github.com/mapbox/mapbox-navigation-ios/stargazers) [![Forks](https://img.shields.io/github/forks/mapbox/mapbox-navigation-ios?style=flat-square&color=blue)](https://github.com/mapbox/mapbox-navigation-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mapbox/mapbox-navigation-ios?style=flat-square&color=yellow)](https://github.com/mapbox/mapbox-navigation-ios/stargazers) [![Forks](https://img.shields.io/github/forks/mapbox/mapbox-navigation-ios?style=flat-square&color=blue)](https://github.com/mapbox/mapbox-navigation-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Turn-by-turn navigation logic and UI in Swift on iOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 917 |
 | 🍴 **Forks** | 327 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ mapbox/mapbox-navigation-ios 的生产可用性为中等。它适合用于快速
 | forks | 63/100 |
 | stars | 63/100 |
 | topics | 25/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

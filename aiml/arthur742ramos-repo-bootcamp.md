@@ -1,6 +1,6 @@
 # Arthur742Ramos/repo-bootcamp
 
-[![Stars](https://img.shields.io/github/stars/Arthur742Ramos/repo-bootcamp?style=flat-square&color=yellow)](https://github.com/Arthur742Ramos/repo-bootcamp/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur742Ramos/repo-bootcamp?style=flat-square&color=blue)](https://github.com/Arthur742Ramos/repo-bootcamp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthur742Ramos/repo-bootcamp?style=flat-square&color=yellow)](https://github.com/Arthur742Ramos/repo-bootcamp/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur742Ramos/repo-bootcamp?style=flat-square&color=blue)](https://github.com/Arthur742Ramos/repo-bootcamp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 🏕️ Turn any GitHub repository into a Day 1 onboarding kit using the GitHub Copilot SDK. Generates 12+ markdown docs in < 60 seconds.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Documents · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ Arthur742Ramos/repo-bootcamp 能在不到 60 秒内为任意 GitHub 仓库自动
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

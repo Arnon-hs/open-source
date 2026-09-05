@@ -1,6 +1,6 @@
 # everettjf/easyvm
 
-[![Stars](https://img.shields.io/github/stars/everettjf/easyvm?style=flat-square&color=yellow)](https://github.com/everettjf/easyvm/stargazers) [![Forks](https://img.shields.io/github/forks/everettjf/easyvm?style=flat-square&color=blue)](https://github.com/everettjf/easyvm/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/everettjf/easyvm?style=flat-square&color=yellow)](https://github.com/everettjf/easyvm/stargazers) [![Forks](https://img.shields.io/github/forks/everettjf/easyvm?style=flat-square&color=blue)](https://github.com/everettjf/easyvm/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Everettjf/EasyVM 的生产可用性为中等（Medium），适合用于 prototyp
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

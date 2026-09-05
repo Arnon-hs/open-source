@@ -1,6 +1,6 @@
 # skeema/skeema
 
-[![Stars](https://img.shields.io/github/stars/skeema/skeema?style=flat-square&color=yellow)](https://github.com/skeema/skeema/stargazers) [![Forks](https://img.shields.io/github/forks/skeema/skeema?style=flat-square&color=blue)](https://github.com/skeema/skeema/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skeema/skeema?style=flat-square&color=yellow)](https://github.com/skeema/skeema/stargazers) [![Forks](https://img.shields.io/github/forks/skeema/skeema?style=flat-square&color=blue)](https://github.com/skeema/skeema/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative pure-SQL schema management for MySQL and MariaDB
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Skeema 是一个基于纯 SQL 的声明式 schema 管理工具，专为 MySQL �
 | forks | 51/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

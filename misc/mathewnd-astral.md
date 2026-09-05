@@ -1,6 +1,6 @@
 # Mathewnd/Astral
 
-[![Stars](https://img.shields.io/github/stars/Mathewnd/Astral?style=flat-square&color=yellow)](https://github.com/Mathewnd/Astral/stargazers) [![Forks](https://img.shields.io/github/forks/Mathewnd/Astral?style=flat-square&color=blue)](https://github.com/Mathewnd/Astral/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mathewnd/Astral?style=flat-square&color=yellow)](https://github.com/Mathewnd/Astral/stargazers) [![Forks](https://img.shields.io/github/forks/Mathewnd/Astral?style=flat-square&color=blue)](https://github.com/Mathewnd/Astral/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > x86-64 Operating System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 553 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ Astral（Mathewnd/Astral）是一个基于 x86‑64 架构的开源操作系统�
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

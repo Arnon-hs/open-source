@@ -1,6 +1,6 @@
 # kil0bit-kb/scrcpy-gui
 
-[![Stars](https://img.shields.io/github/stars/kil0bit-kb/scrcpy-gui?style=flat-square&color=yellow)](https://github.com/kil0bit-kb/scrcpy-gui/stargazers) [![Forks](https://img.shields.io/github/forks/kil0bit-kb/scrcpy-gui?style=flat-square&color=blue)](https://github.com/kil0bit-kb/scrcpy-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kil0bit-kb/scrcpy-gui?style=flat-square&color=yellow)](https://github.com/kil0bit-kb/scrcpy-gui/stargazers) [![Forks](https://img.shields.io/github/forks/kil0bit-kb/scrcpy-gui?style=flat-square&color=blue)](https://github.com/kil0bit-kb/scrcpy-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, high-performance GUI for the scrcpy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 693 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ kil0bit‑kb/scrcpy‑gui 是一款基于 TypeScript 的现代化、高性能 GU
 | forks | 47/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

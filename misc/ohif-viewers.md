@@ -1,6 +1,6 @@
 # OHIF/Viewers
 
-[![Stars](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square&color=yellow)](https://github.com/OHIF/Viewers/stargazers) [![Forks](https://img.shields.io/github/forks/OHIF/Viewers?style=flat-square&color=blue)](https://github.com/OHIF/Viewers/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square&color=yellow)](https://github.com/OHIF/Viewers/stargazers) [![Forks](https://img.shields.io/github/forks/OHIF/Viewers?style=flat-square&color=blue)](https://github.com/OHIF/Viewers/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ OHIF/Viewers 的生产可用性为高。由于最近的活动、采用率和生�
 | forks | 91/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

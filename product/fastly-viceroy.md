@@ -1,6 +1,6 @@
 # fastly/Viceroy
 
-[![Stars](https://img.shields.io/github/stars/fastly/Viceroy?style=flat-square&color=yellow)](https://github.com/fastly/Viceroy/stargazers) [![Forks](https://img.shields.io/github/forks/fastly/Viceroy?style=flat-square&color=blue)](https://github.com/fastly/Viceroy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastly/Viceroy?style=flat-square&color=yellow)](https://github.com/fastly/Viceroy/stargazers) [![Forks](https://img.shields.io/github/forks/fastly/Viceroy?style=flat-square&color=blue)](https://github.com/fastly/Viceroy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Viceroy provides local testing for developers working with Compute.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Viceroy 的生产可用性为中等。它适合用于原型或内部工作流程
 | forks | 43/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

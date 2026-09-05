@@ -1,6 +1,6 @@
 # CrispStrobe/CrispASR
 
-[![Stars](https://img.shields.io/github/stars/CrispStrobe/CrispASR?style=flat-square&color=yellow)](https://github.com/CrispStrobe/CrispASR/stargazers) [![Forks](https://img.shields.io/github/forks/CrispStrobe/CrispASR?style=flat-square&color=blue)](https://github.com/CrispStrobe/CrispASR/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CrispStrobe/CrispASR?style=flat-square&color=yellow)](https://github.com/CrispStrobe/CrispASR/stargazers) [![Forks](https://img.shields.io/github/forks/CrispStrobe/CrispASR?style=flat-square&color=blue)](https://github.com/CrispStrobe/CrispASR/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ CrispStrobe/CrispASR：CrispStrobe/CrispASR helps add AI capability without star
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # apmantza/pi-lens
 
-[![Stars](https://img.shields.io/github/stars/apmantza/pi-lens?style=flat-square&color=yellow)](https://github.com/apmantza/pi-lens/stargazers) [![Forks](https://img.shields.io/github/forks/apmantza/pi-lens?style=flat-square&color=blue)](https://github.com/apmantza/pi-lens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apmantza/pi-lens?style=flat-square&color=yellow)](https://github.com/apmantza/pi-lens/stargazers) [![Forks](https://img.shields.io/github/forks/apmantza/pi-lens?style=flat-square&color=blue)](https://github.com/apmantza/pi-lens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time code feedback for pi — LSP, linters, formatters, structural analysis
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ apmantza/pi-lens 的生产可用性为 中等，适合用于原型或内部工�
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

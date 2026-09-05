@@ -1,6 +1,6 @@
 # xKiian/GeekedTest
 
-[![Stars](https://img.shields.io/github/stars/xKiian/GeekedTest?style=flat-square&color=yellow)](https://github.com/xKiian/GeekedTest/stargazers) [![Forks](https://img.shields.io/github/forks/xKiian/GeekedTest?style=flat-square&color=blue)](https://github.com/xKiian/GeekedTest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xKiian/GeekedTest?style=flat-square&color=yellow)](https://github.com/xKiian/GeekedTest/stargazers) [![Forks](https://img.shields.io/github/forks/xKiian/GeekedTest?style=flat-square&color=blue)](https://github.com/xKiian/GeekedTest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Geetest v4 slide, icon, gobang & ai solver - 100% python implementation - no browser needed
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 634 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ xKiian/GeekedTest 在生产环境中具有较高可用性。项目最近有活�
 | forks | 46/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Hyundai-Kia-Connect/kia_uvo
 
-[![Stars](https://img.shields.io/github/stars/Hyundai-Kia-Connect/kia_uvo?style=flat-square&color=yellow)](https://github.com/Hyundai-Kia-Connect/kia_uvo/stargazers) [![Forks](https://img.shields.io/github/forks/Hyundai-Kia-Connect/kia_uvo?style=flat-square&color=blue)](https://github.com/Hyundai-Kia-Connect/kia_uvo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hyundai-Kia-Connect/kia_uvo?style=flat-square&color=yellow)](https://github.com/Hyundai-Kia-Connect/kia_uvo/stargazers) [![Forks](https://img.shields.io/github/forks/Hyundai-Kia-Connect/kia_uvo?style=flat-square&color=blue)](https://github.com/Hyundai-Kia-Connect/kia_uvo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A Home Assistant HACS integration that supports Kia Connect(Uvo) and Hyundai Bluelink. The integration supports the EU, Canada and the USA.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 851 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Hyundai‑Kia‑Connect/kia_uvo 是一款面向 Home Assistant 的 HACS 集成�
 | forks | 57/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

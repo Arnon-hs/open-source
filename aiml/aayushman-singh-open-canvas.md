@@ -1,6 +1,6 @@
 # aayushman-singh/open-canvas
 
-[![Stars](https://img.shields.io/github/stars/aayushman-singh/open-canvas?style=flat-square&color=yellow)](https://github.com/aayushman-singh/open-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/aayushman-singh/open-canvas?style=flat-square&color=blue)](https://github.com/aayushman-singh/open-canvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aayushman-singh/open-canvas?style=flat-square&color=yellow)](https://github.com/aayushman-singh/open-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/aayushman-singh/open-canvas?style=flat-square&color=blue)](https://github.com/aayushman-singh/open-canvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Live one-Cloudflare-Worker site builder. Yjs CRDT co-edit. Self-verifying a11y remediation engine on 'a fix is a proof, not a claim.' Rebrand AI agent with preview-then-accept diffs. Live: opencanvas.aayushman.dev
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ aayushman‑singh/open‑canvas 是一个基于 Cloudflare Workers 的实时“�
 | forks | 31/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

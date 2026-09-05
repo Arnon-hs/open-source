@@ -1,6 +1,6 @@
 # dimensionalOS/dimos
 
-[![Stars](https://img.shields.io/github/stars/dimensionalOS/dimos?style=flat-square&color=yellow)](https://github.com/dimensionalOS/dimos/stargazers) [![Forks](https://img.shields.io/github/forks/dimensionalOS/dimos?style=flat-square&color=blue)](https://github.com/dimensionalOS/dimos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dimensionalOS/dimos?style=flat-square&color=yellow)](https://github.com/dimensionalOS/dimos/stargazers) [![Forks](https://img.shields.io/github/forks/dimensionalOS/dimos?style=flat-square&color=blue)](https://github.com/dimensionalOS/dimos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 601 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Dimensional（dimensionalOS/dimos）是面向真实空间的智能体操作系�
 | forks | 69/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 48/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

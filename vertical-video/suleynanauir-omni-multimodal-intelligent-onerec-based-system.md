@@ -1,6 +1,6 @@
 # SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System
 
-[![Stars](https://img.shields.io/github/stars/SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System?style=flat-square&color=yellow)](https://github.com/SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System/stargazers) [![Forks](https://img.shields.io/github/forks/SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System?style=flat-square&color=blue)](https://github.com/SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System?style=flat-square&color=yellow)](https://github.com/SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System/stargazers) [![Forks](https://img.shields.io/github/forks/SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System?style=flat-square&color=blue)](https://github.com/SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目基于Tiktok, Instagram, 快手等流媒推荐系统的 OneRec 生成式推荐范式架构，探索推荐系统统一建模为序列生成与偏好对齐问题，通过 Semantic ID 实现多模态内容与用户行为的统一表示，并结合强化学习驱动的 Reward 机制进行端到端优化。在此基础上，引入生成式建模与上下文感知能力，实现从传统判别式推荐向生成式、可推理推荐系统的范式跃迁
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ This project leverages a generative recommendation architecture to unify multimo
 | forks | 19/100 |
 | stars | 26/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

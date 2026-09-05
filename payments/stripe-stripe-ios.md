@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-06 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Mobile
+Payments · Libraries & SDKs · Mobile
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ stripe/stripe-ios：stripe/stripe-ios helps integrate monetization, billing, or 
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

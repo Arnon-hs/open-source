@@ -1,6 +1,6 @@
 # dqev/reicon
 
-[![Stars](https://img.shields.io/github/stars/dqev/reicon?style=flat-square&color=yellow)](https://github.com/dqev/reicon/stargazers) [![Forks](https://img.shields.io/github/forks/dqev/reicon?style=flat-square&color=blue)](https://github.com/dqev/reicon/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dqev/reicon?style=flat-square&color=yellow)](https://github.com/dqev/reicon/stargazers) [![Forks](https://img.shields.io/github/forks/dqev/reicon?style=flat-square&color=blue)](https://github.com/dqev/reicon/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Reicon — Open-Source Icon Library for Designers & Developers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ dqev/reicon 的生产可用性为中等（Medium）。它适合用于内部工�
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

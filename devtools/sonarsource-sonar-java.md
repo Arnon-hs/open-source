@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 727 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,25 +27,25 @@ DevTools · Security
 
 ### English
 
-SonarSource/sonar-java: SonarSource/sonar-java helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+SonarSource/sonar-java: SonarSource/sonar-java helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-SonarSource/sonar-java: open-source проект в категориях DevTools, Security. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+SonarSource/sonar-java: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-SonarSource/sonar-java：SonarSource/sonar-java helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+SonarSource/sonar-java：SonarSource/sonar-java helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** SonarSource/sonar-java helps engineers save time in daily development and review loops.
+**Value:** SonarSource/sonar-java helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +65,18 @@ SonarSource/sonar-java：SonarSource/sonar-java helps engineers save time in dai
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 67/100 |
-| stars | 66/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Humanizr/Humanizer
 
-[![Stars](https://img.shields.io/github/stars/Humanizr/Humanizer?style=flat-square&color=yellow)](https://github.com/Humanizr/Humanizer/stargazers) [![Forks](https://img.shields.io/github/forks/Humanizr/Humanizer?style=flat-square&color=blue)](https://github.com/Humanizr/Humanizer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Humanizr/Humanizer?style=flat-square&color=yellow)](https://github.com/Humanizr/Humanizer/stargazers) [![Forks](https://img.shields.io/github/forks/Humanizr/Humanizer?style=flat-square&color=blue)](https://github.com/Humanizr/Humanizer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ Humanizr/Humanizer 是一套面向 .NET 平台的实用库，提供字符串、�
 | forks | 75/100 |
 | stars | 85/100 |
 | topics | 25/100 |
-| outlook | 48/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

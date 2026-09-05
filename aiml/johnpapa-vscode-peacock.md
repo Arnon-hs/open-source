@@ -1,6 +1,6 @@
 # johnpapa/vscode-peacock
 
-[![Stars](https://img.shields.io/github/stars/johnpapa/vscode-peacock?style=flat-square&color=yellow)](https://github.com/johnpapa/vscode-peacock/stargazers) [![Forks](https://img.shields.io/github/forks/johnpapa/vscode-peacock?style=flat-square&color=blue)](https://github.com/johnpapa/vscode-peacock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johnpapa/vscode-peacock?style=flat-square&color=yellow)](https://github.com/johnpapa/vscode-peacock/stargazers) [![Forks](https://img.shields.io/github/forks/johnpapa/vscode-peacock?style=flat-square&color=blue)](https://github.com/johnpapa/vscode-peacock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Johnpapa/vscode-peacock 的价值在于，它可以帮助开发者在不从零�
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

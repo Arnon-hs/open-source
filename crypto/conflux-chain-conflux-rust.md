@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Networking
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Conflux-Chain/conflux-rust：Conflux-Chain/conflux-rust helps prototype or inspe
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

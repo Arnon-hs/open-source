@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -73,7 +73,7 @@ Fayazzzzz/passcore：Fayazzzzz/passcore may be useful when its README and activi
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # fast4x/RiPlay
 
-[![Stars](https://img.shields.io/github/stars/fast4x/RiPlay?style=flat-square&color=yellow)](https://github.com/fast4x/RiPlay/stargazers) [![Forks](https://img.shields.io/github/forks/fast4x/RiPlay?style=flat-square&color=blue)](https://github.com/fast4x/RiPlay/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fast4x/RiPlay?style=flat-square&color=yellow)](https://github.com/fast4x/RiPlay/stargazers) [![Forks](https://img.shields.io/github/forks/fast4x/RiPlay?style=flat-square&color=blue)](https://github.com/fast4x/RiPlay/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Multiplatform Music Player
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ fast4x/RiPlay 是一款基于 Kotlin 的跨平台音乐播放器，提供统一�
 | forks | 35/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

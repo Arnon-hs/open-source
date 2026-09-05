@@ -1,6 +1,6 @@
 # DrTimothyAldenDavis/SuiteSparse
 
-[![Stars](https://img.shields.io/github/stars/DrTimothyAldenDavis/SuiteSparse?style=flat-square&color=yellow)](https://github.com/DrTimothyAldenDavis/SuiteSparse/stargazers) [![Forks](https://img.shields.io/github/forks/DrTimothyAldenDavis/SuiteSparse?style=flat-square&color=blue)](https://github.com/DrTimothyAldenDavis/SuiteSparse/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DrTimothyAldenDavis/SuiteSparse?style=flat-square&color=yellow)](https://github.com/DrTimothyAldenDavis/SuiteSparse/stargazers) [![Forks](https://img.shields.io/github/forks/DrTimothyAldenDavis/SuiteSparse?style=flat-square&color=blue)](https://github.com/DrTimothyAldenDavis/SuiteSparse/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&M University. No AI generated code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 323 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ DrTimothyAldenDavis/SuiteSparse 在生产环境中有很高的可用性，因为
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

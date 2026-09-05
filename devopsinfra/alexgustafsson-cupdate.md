@@ -1,6 +1,6 @@
 # AlexGustafsson/cupdate
 
-[![Stars](https://img.shields.io/github/stars/AlexGustafsson/cupdate?style=flat-square&color=yellow)](https://github.com/AlexGustafsson/cupdate/stargazers) [![Forks](https://img.shields.io/github/forks/AlexGustafsson/cupdate?style=flat-square&color=blue)](https://github.com/AlexGustafsson/cupdate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlexGustafsson/cupdate?style=flat-square&color=yellow)](https://github.com/AlexGustafsson/cupdate/stargazers) [![Forks](https://img.shields.io/github/forks/AlexGustafsson/cupdate?style=flat-square&color=blue)](https://github.com/AlexGustafsson/cupdate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A service to keep container images secure and up-to-date. Made for Kubernetes and Docker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ AlexGustafsson/cupdate 是一款面向 Kubernetes 与 Docker 环境的容器镜�
 | forks | 19/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

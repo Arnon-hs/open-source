@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Bytedesk/bytedesk：Bytedesk/bytedesk helps make internal knowledge searchable a
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

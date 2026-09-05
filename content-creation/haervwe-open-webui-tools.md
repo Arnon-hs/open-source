@@ -1,6 +1,6 @@
 # Haervwe/open-webui-tools
 
-[![Stars](https://img.shields.io/github/stars/Haervwe/open-webui-tools?style=flat-square&color=yellow)](https://github.com/Haervwe/open-webui-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Haervwe/open-webui-tools?style=flat-square&color=blue)](https://github.com/Haervwe/open-webui-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Haervwe/open-webui-tools?style=flat-square&color=yellow)](https://github.com/Haervwe/open-webui-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Haervwe/open-webui-tools?style=flat-square&color=blue)](https://github.com/Haervwe/open-webui-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workflows, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 781 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Haervwe/open-webui-tools 的主要价值在于帮助将孤立的提示和工具�
 | forks | 47/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

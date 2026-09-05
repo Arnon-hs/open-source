@@ -1,6 +1,6 @@
 # Odevio/Odevio-CLI
 
-[![Stars](https://img.shields.io/github/stars/Odevio/Odevio-CLI?style=flat-square&color=yellow)](https://github.com/Odevio/Odevio-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/Odevio/Odevio-CLI?style=flat-square&color=blue)](https://github.com/Odevio/Odevio-CLI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Odevio/Odevio-CLI?style=flat-square&color=yellow)](https://github.com/Odevio/Odevio-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/Odevio/Odevio-CLI?style=flat-square&color=blue)](https://github.com/Odevio/Odevio-CLI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Odevio, the easy way to setup, build & release flutter apps for iOS on Linux, Windows and MacOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 421 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Odevio/Odevio-CLI 的生产可用性是高的。它有 421 个 GitHub 星星，1
 | forks | 33/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 64/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

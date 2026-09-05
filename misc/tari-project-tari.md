@@ -1,6 +1,6 @@
 # tari-project/tari
 
-[![Stars](https://img.shields.io/github/stars/tari-project/tari?style=flat-square&color=yellow)](https://github.com/tari-project/tari/stargazers) [![Forks](https://img.shields.io/github/forks/tari-project/tari?style=flat-square&color=blue)](https://github.com/tari-project/tari/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tari-project/tari?style=flat-square&color=yellow)](https://github.com/tari-project/tari/stargazers) [![Forks](https://img.shields.io/github/forks/tari-project/tari?style=flat-square&color=blue)](https://github.com/tari-project/tari/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Tari protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 488 |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ Tari（tari-project/tari）是用 Rust 实现的 Tari 区块链协议，旨在�
 | forks | 61/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 44/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # static-web-server/static-web-server
 
-[![Stars](https://img.shields.io/github/stars/static-web-server/static-web-server?style=flat-square&color=yellow)](https://github.com/static-web-server/static-web-server/stargazers) [![Forks](https://img.shields.io/github/forks/static-web-server/static-web-server?style=flat-square&color=blue)](https://github.com/static-web-server/static-web-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/static-web-server/static-web-server?style=flat-square&color=yellow)](https://github.com/static-web-server/static-web-server/stargazers) [![Forks](https://img.shields.io/github/forks/static-web-server/static-web-server?style=flat-square&color=blue)](https://github.com/static-web-server/static-web-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Mobile · DevOps/Infra
+Backend · Mobile · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ static-web-server 是一款跨平台、基于 Rust 的高性能异步静态文�
 | forks | 52/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

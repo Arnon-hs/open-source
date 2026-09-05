@@ -1,6 +1,6 @@
 # minlearn/inst
 
-[![Stars](https://img.shields.io/github/stars/minlearn/inst?style=flat-square&color=yellow)](https://github.com/minlearn/inst/stargazers) [![Forks](https://img.shields.io/github/forks/minlearn/inst?style=flat-square&color=blue)](https://github.com/minlearn/inst/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minlearn/inst?style=flat-square&color=yellow)](https://github.com/minlearn/inst/stargazers) [![Forks](https://img.shields.io/github/forks/minlearn/inst?style=flat-square&color=blue)](https://github.com/minlearn/inst/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 最省事的一键DD重装/恢复和应用商店(one keystoke/click netinstall/appstore)🚀🚀🎉🎉
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -150,11 +150,11 @@ minlearn/inst 是一款“一键 DD 重装 / 恢复 + 应用商店”工具，�
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

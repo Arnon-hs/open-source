@@ -1,6 +1,6 @@
 # intel/llm-scaler
 
-[![Stars](https://img.shields.io/github/stars/intel/llm-scaler?style=flat-square&color=yellow)](https://github.com/intel/llm-scaler/stargazers) [![Forks](https://img.shields.io/github/forks/intel/llm-scaler?style=flat-square&color=blue)](https://github.com/intel/llm-scaler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/llm-scaler?style=flat-square&color=yellow)](https://github.com/intel/llm-scaler/stargazers) [![Forks](https://img.shields.io/github/forks/intel/llm-scaler?style=flat-square&color=blue)](https://github.com/intel/llm-scaler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ Intel LLM‑Scaler 是一个 C++ 实现的开源工具库，帮助开发者在
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

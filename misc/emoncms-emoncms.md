@@ -1,6 +1,6 @@
 # emoncms/emoncms
 
-[![Stars](https://img.shields.io/github/stars/emoncms/emoncms?style=flat-square&color=yellow)](https://github.com/emoncms/emoncms/stargazers) [![Forks](https://img.shields.io/github/forks/emoncms/emoncms?style=flat-square&color=blue)](https://github.com/emoncms/emoncms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emoncms/emoncms?style=flat-square&color=yellow)](https://github.com/emoncms/emoncms/stargazers) [![Forks](https://img.shields.io/github/forks/emoncms/emoncms?style=flat-square&color=blue)](https://github.com/emoncms/emoncms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Web-app for processing, logging and visualising energy, temperature and other environmental data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 532 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Emoncms 是一款基于 Web 的开源平台，用于采集、记录和可视化�
 | forks | 68/100 |
 | stars | 66/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

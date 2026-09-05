@@ -1,6 +1,6 @@
 # eunomia-bpf/ActPlane
 
-[![Stars](https://img.shields.io/github/stars/eunomia-bpf/ActPlane?style=flat-square&color=yellow)](https://github.com/eunomia-bpf/ActPlane/stargazers) [![Forks](https://img.shields.io/github/forks/eunomia-bpf/ActPlane?style=flat-square&color=blue)](https://github.com/eunomia-bpf/ActPlane/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eunomia-bpf/ActPlane?style=flat-square&color=yellow)](https://github.com/eunomia-bpf/ActPlane/stargazers) [![Forks](https://img.shields.io/github/forks/eunomia-bpf/ActPlane?style=flat-square&color=blue)](https://github.com/eunomia-bpf/ActPlane/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF Information Flow Policy Engine for safe and effective AI Agent Harnesses
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ eunomia‑bpf/ActPlane 是一款基于 eBPF 的信息流策略引擎，专为安
 | forks | 19/100 |
 | stars | 36/100 |
 | topics | 50/100 |
-| outlook | 49/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

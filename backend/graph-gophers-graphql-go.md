@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 493 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ graph-gophers/graphql-go is a Go library that provides a simple, standards‑com
 
 ### 中文
 
-graph-gophers/graphql-go：graph-gophers/graphql-go helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+graph-gophers/graphql-go：graph-gophers/graphql-go may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** graph-gophers/graphql-go helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** graph-gophers/graphql-go may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,17 +63,18 @@ graph-gophers/graphql-go：graph-gophers/graphql-go helps teams reuse service in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

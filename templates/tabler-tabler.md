@@ -1,6 +1,6 @@
 # tabler/tabler
 
-[![Stars](https://img.shields.io/github/stars/tabler/tabler?style=flat-square&color=yellow)](https://github.com/tabler/tabler/stargazers) [![Forks](https://img.shields.io/github/forks/tabler/tabler?style=flat-square&color=blue)](https://github.com/tabler/tabler/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tabler/tabler?style=flat-square&color=yellow)](https://github.com/tabler/tabler/stargazers) [![Forks](https://img.shields.io/github/forks/tabler/tabler?style=flat-square&color=blue)](https://github.com/tabler/tabler/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41.4k |
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Tabler 是一个免费开源的 HTML Dashboard UI Kit，基于 Bootstrap 构建�
 | forks | 91/100 |
 | stars | 98/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 88/100 |
-| recency | 60/100 |
+| outlook | 87/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 96/100 |
-| production | 70/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

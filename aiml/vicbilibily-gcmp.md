@@ -1,6 +1,6 @@
 # VicBilibily/GCMP
 
-[![Stars](https://img.shields.io/github/stars/VicBilibily/GCMP?style=flat-square&color=yellow)](https://github.com/VicBilibily/GCMP/stargazers) [![Forks](https://img.shields.io/github/forks/VicBilibily/GCMP?style=flat-square&color=blue)](https://github.com/VicBilibily/GCMP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VicBilibily/GCMP?style=flat-square&color=yellow)](https://github.com/VicBilibily/GCMP/stargazers) [![Forks](https://img.shields.io/github/forks/VicBilibily/GCMP?style=flat-square&color=blue)](https://github.com/VicBilibily/GCMP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 通过集成国内主流原生大模型提供商，为开发者提供更加丰富、更适合本土需求的 AI 编程助手选择。 目前已内置支持 智谱AI、MiniMax、MoonshotAI、DeepSeek、阿里云百炼、快手万擎、火山方舟、腾讯云、Xiaomi MiMo、百度千帆、阶跃星辰、蚂蚁百灵 等原生大模型提供商。 此外，扩展插件已适配支持 OpenAI 与 Anthropic 的 API 接口兼容模型，支持自定义接入任何提供兼容接口的第三方云服务模型。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -120,14 +120,15 @@ GCMP 适合作为 **原型开发**、**内部工具** 或 **快速业务验证**
 | forks | 41/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

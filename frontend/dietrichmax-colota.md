@@ -1,6 +1,6 @@
 # dietrichmax/colota
 
-[![Stars](https://img.shields.io/github/stars/dietrichmax/colota?style=flat-square&color=yellow)](https://github.com/dietrichmax/colota/stargazers) [![Forks](https://img.shields.io/github/forks/dietrichmax/colota?style=flat-square&color=blue)](https://github.com/dietrichmax/colota/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dietrichmax/colota?style=flat-square&color=yellow)](https://github.com/dietrichmax/colota/stargazers) [![Forks](https://img.shields.io/github/forks/dietrichmax/colota?style=flat-square&color=blue)](https://github.com/dietrichmax/colota/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Colota - Android GPS Location tracker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Colota具有高生产可用性，原因包括：
 | forks | 34/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

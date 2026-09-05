@@ -1,6 +1,6 @@
 # YishenTu/claudian
 
-[![Stars](https://img.shields.io/github/stars/YishenTu/claudian?style=flat-square&color=yellow)](https://github.com/YishenTu/claudian/stargazers) [![Forks](https://img.shields.io/github/forks/YishenTu/claudian?style=flat-square&color=blue)](https://github.com/YishenTu/claudian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YishenTu/claudian?style=flat-square&color=yellow)](https://github.com/YishenTu/claudian/stargazers) [![Forks](https://img.shields.io/github/forks/YishenTu/claudian?style=flat-square&color=blue)](https://github.com/YishenTu/claudian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.2k |
 | 🍴 **Forks** | 826 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ YishenTu/claudian 是一款 Obsidian 插件，将 Claude Code/Codex 嵌入笔�
 | forks | 73/100 |
 | stars | 88/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

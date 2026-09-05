@@ -1,6 +1,6 @@
 # anthropics/claude-cookbooks
 
-[![Stars](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=flat-square&color=yellow)](https://github.com/anthropics/claude-cookbooks/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-cookbooks?style=flat-square&color=blue)](https://github.com/anthropics/claude-cookbooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=flat-square&color=yellow)](https://github.com/anthropics/claude-cookbooks/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-cookbooks?style=flat-square&color=blue)](https://github.com/anthropics/claude-cookbooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52.3k |
 | 🍴 **Forks** | 6.2k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ anthropics/claude-cookbooks：anthropics/claude-cookbooks may be useful when its
 | forks | 95/100 |
 | stars | 100/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 99/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

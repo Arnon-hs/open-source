@@ -1,6 +1,6 @@
 # KhazP/vibe-coding-prompt-template
 
-[![Stars](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template?style=flat-square&color=yellow)](https://github.com/KhazP/vibe-coding-prompt-template/stargazers) [![Forks](https://img.shields.io/github/forks/KhazP/vibe-coding-prompt-template?style=flat-square&color=blue)](https://github.com/KhazP/vibe-coding-prompt-template/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template?style=flat-square&color=yellow)](https://github.com/KhazP/vibe-coding-prompt-template/stargazers) [![Forks](https://img.shields.io/github/forks/KhazP/vibe-coding-prompt-template?style=flat-square&color=blue)](https://github.com/KhazP/vibe-coding-prompt-template/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Automation · AI/ML · Design · Product
+Templates · Automation · AI/ML · Documents · Design
 
 ## 📝 Summary
 
@@ -110,11 +110,11 @@ KhazP/vibe-coding-prompt-template 帮助用户移除重复的手动操作，从�
 | forks | 63/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

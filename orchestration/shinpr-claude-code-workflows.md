@@ -1,6 +1,6 @@
 # shinpr/claude-code-workflows
 
-[![Stars](https://img.shields.io/github/stars/shinpr/claude-code-workflows?style=flat-square&color=yellow)](https://github.com/shinpr/claude-code-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/claude-code-workflows?style=flat-square&color=blue)](https://github.com/shinpr/claude-code-workflows/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinpr/claude-code-workflows?style=flat-square&color=yellow)](https://github.com/shinpr/claude-code-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/claude-code-workflows?style=flat-square&color=blue)](https://github.com/shinpr/claude-code-workflows/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready development workflows for Claude Code, powered by specialized AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 493 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools
+Orchestration · Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ shinpr/claude-code-workflows 提供了一套面向 Claude Code 的生产级开�
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

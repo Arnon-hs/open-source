@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Payments
+Payments · Networking
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ itsyebekhe/PSG：itsyebekhe/PSG helps integrate monetization, billing, or PSP fl
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

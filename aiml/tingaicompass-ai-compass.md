@@ -1,6 +1,6 @@
 # tingaicompass/AI-Compass
 
-[![Stars](https://img.shields.io/github/stars/tingaicompass/AI-Compass?style=flat-square&color=yellow)](https://github.com/tingaicompass/AI-Compass/stargazers) [![Forks](https://img.shields.io/github/forks/tingaicompass/AI-Compass?style=flat-square&color=blue)](https://github.com/tingaicompass/AI-Compass/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tingaicompass/AI-Compass?style=flat-square&color=yellow)](https://github.com/tingaicompass/AI-Compass/stargazers) [![Forks](https://img.shields.io/github/forks/tingaicompass/AI-Compass?style=flat-square&color=blue)](https://github.com/tingaicompass/AI-Compass/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > “AI-Compass”将为社区指引在 AI 技术海洋中航行的方向，无论你是初学者还是进阶开发者，都能在这里找到通往 AI 各大方向的路径。旨在帮助开发者系统性地了解 AI 的核心概念、主流技术、前沿趋势，并通过实践掌握从理论到落地的全过程。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 836 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ AI-Compass 是一个面向开发者的人工智能导航指南，帮助初学者
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

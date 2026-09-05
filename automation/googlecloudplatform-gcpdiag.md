@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/gcpdiag
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/gcpdiag?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/gcpdiag/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/gcpdiag?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/gcpdiag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/gcpdiag?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/gcpdiag/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/gcpdiag?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/gcpdiag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > gcpdiag is a command-line diagnostics tool for GCP customers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Cloud & Storage · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ gcpdiag 的生产可用性很高。它具有活跃的社区、强大的生态系
 | forks | 47/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

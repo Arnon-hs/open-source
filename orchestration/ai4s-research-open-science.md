@@ -1,6 +1,6 @@
 # ai4s-research/open-science
 
-[![Stars](https://img.shields.io/github/stars/ai4s-research/open-science?style=flat-square&color=yellow)](https://github.com/ai4s-research/open-science/stargazers) [![Forks](https://img.shields.io/github/forks/ai4s-research/open-science?style=flat-square&color=blue)](https://github.com/ai4s-research/open-science/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai4s-research/open-science?style=flat-square&color=yellow)](https://github.com/ai4s-research/open-science/stargazers) [![Forks](https://img.shields.io/github/forks/ai4s-research/open-science?style=flat-square&color=blue)](https://github.com/ai4s-research/open-science/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML
+Orchestration · MCP · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ ai4s-research/open-science 是一个开源项目，提供了一种开放的 AI �
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

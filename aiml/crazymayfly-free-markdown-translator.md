@@ -1,6 +1,6 @@
 # CrazyMayfly/Free-Markdown-Translator
 
-[![Stars](https://img.shields.io/github/stars/CrazyMayfly/Free-Markdown-Translator?style=flat-square&color=yellow)](https://github.com/CrazyMayfly/Free-Markdown-Translator/stargazers) [![Forks](https://img.shields.io/github/forks/CrazyMayfly/Free-Markdown-Translator?style=flat-square&color=blue)](https://github.com/CrazyMayfly/Free-Markdown-Translator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CrazyMayfly/Free-Markdown-Translator?style=flat-square&color=yellow)](https://github.com/CrazyMayfly/Free-Markdown-Translator/stargazers) [![Forks](https://img.shields.io/github/forks/CrazyMayfly/Free-Markdown-Translator?style=flat-square&color=blue)](https://github.com/CrazyMayfly/Free-Markdown-Translator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Free Markdown Translator 是一个基于 AI Agent 流水线的 Markdown 文档翻译工具，能够实现不破坏Markdown原有格式和最大程度保证语义连贯性。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ Free-Markdown-Translator 的生产可用性为中等（Medium）：它适合用�
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 49/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

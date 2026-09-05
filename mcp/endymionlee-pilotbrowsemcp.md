@@ -1,6 +1,6 @@
 # EndymionLee/PilotBrowseMCP
 
-[![Stars](https://img.shields.io/github/stars/EndymionLee/PilotBrowseMCP?style=flat-square&color=yellow)](https://github.com/EndymionLee/PilotBrowseMCP/stargazers) [![Forks](https://img.shields.io/github/forks/EndymionLee/PilotBrowseMCP?style=flat-square&color=blue)](https://github.com/EndymionLee/PilotBrowseMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EndymionLee/PilotBrowseMCP?style=flat-square&color=yellow)](https://github.com/EndymionLee/PilotBrowseMCP/stargazers) [![Forks](https://img.shields.io/github/forks/EndymionLee/PilotBrowseMCP?style=flat-square&color=blue)](https://github.com/EndymionLee/PilotBrowseMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A browser runtime that lets AI agents control your real Chrome browser via MCP. Agents can explore websites, generate operation manuals, and reuse them to save tokens.  AI操控你的真实浏览器。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ EndymionLee/PilotBrowseMCP 帮助连接 AI 助手到真实工具和数据通过�
 | forks | 8/100 |
 | stars | 34/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

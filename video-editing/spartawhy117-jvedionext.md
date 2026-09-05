@@ -1,6 +1,6 @@
 # spartawhy117/JvedioNext
 
-[![Stars](https://img.shields.io/github/stars/spartawhy117/JvedioNext?style=flat-square&color=yellow)](https://github.com/spartawhy117/JvedioNext/stargazers) [![Forks](https://img.shields.io/github/forks/spartawhy117/JvedioNext?style=flat-square&color=blue)](https://github.com/spartawhy117/JvedioNext/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spartawhy117/JvedioNext?style=flat-square&color=yellow)](https://github.com/spartawhy117/JvedioNext/stargazers) [![Forks](https://img.shields.io/github/forks/spartawhy117/JvedioNext?style=flat-square&color=blue)](https://github.com/spartawhy117/JvedioNext/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 次世代离线视频管理软件，支持标准片库与非规则本地资源的统一管理
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Spartawhy117/JvedioNext 是一款开源的离线视频管理软件，其目标�
 | forks | 29/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 52/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

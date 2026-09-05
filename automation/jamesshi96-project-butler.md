@@ -1,6 +1,6 @@
 # JamesShi96/project-butler
 
-[![Stars](https://img.shields.io/github/stars/JamesShi96/project-butler?style=flat-square&color=yellow)](https://github.com/JamesShi96/project-butler/stargazers) [![Forks](https://img.shields.io/github/forks/JamesShi96/project-butler?style=flat-square&color=blue)](https://github.com/JamesShi96/project-butler/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JamesShi96/project-butler?style=flat-square&color=yellow)](https://github.com/JamesShi96/project-butler/stargazers) [![Forks](https://img.shields.io/github/forks/JamesShi96/project-butler?style=flat-square&color=blue)](https://github.com/JamesShi96/project-butler/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Project memory system for AI coding assistants (Claude Code, Cursor, Codex): session logs, project wiki, rules, TODOs, and handoff.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 266 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Observability
+Automation · AI/ML · Productivity · DevTools · Observability
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ JamesShi96/project-butler 是一个开源项目，提供了一个AI编码辅助�
 | forks | 27/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

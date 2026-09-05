@@ -1,6 +1,6 @@
 # ethpandaops/ethereum-package
 
-[![Stars](https://img.shields.io/github/stars/ethpandaops/ethereum-package?style=flat-square&color=yellow)](https://github.com/ethpandaops/ethereum-package/stargazers) [![Forks](https://img.shields.io/github/forks/ethpandaops/ethereum-package?style=flat-square&color=blue)](https://github.com/ethpandaops/ethereum-package/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ethpandaops/ethereum-package?style=flat-square&color=yellow)](https://github.com/ethpandaops/ethereum-package/stargazers) [![Forks](https://img.shields.io/github/forks/ethpandaops/ethereum-package?style=flat-square&color=blue)](https://github.com/ethpandaops/ethereum-package/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A Kurtosis package that deploys a private, portable, and modular Ethereum devnet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 343 |
 | 💻 **Language** | Starlark |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Automation · DevOps/Infra
+Crypto · Automation · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ ethpandaops/ethereum-package 是一个 Kurtosis 包，用于部署一个私有�
 | forks | 63/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

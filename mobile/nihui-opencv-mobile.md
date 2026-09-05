@@ -1,6 +1,6 @@
 # nihui/opencv-mobile
 
-[![Stars](https://img.shields.io/github/stars/nihui/opencv-mobile?style=flat-square&color=yellow)](https://github.com/nihui/opencv-mobile/stargazers) [![Forks](https://img.shields.io/github/forks/nihui/opencv-mobile?style=flat-square&color=blue)](https://github.com/nihui/opencv-mobile/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nihui/opencv-mobile?style=flat-square&color=yellow)](https://github.com/nihui/opencv-mobile/stargazers) [![Forks](https://img.shields.io/github/forks/nihui/opencv-mobile?style=flat-square&color=blue)](https://github.com/nihui/opencv-mobile/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ nihui/opencv-mobile 是一个极简版的 OpenCV 移植库，支持 Android、iO
 | forks | 67/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

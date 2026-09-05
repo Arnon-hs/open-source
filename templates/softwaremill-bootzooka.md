@@ -1,6 +1,6 @@
 # softwaremill/bootzooka
 
-[![Stars](https://img.shields.io/github/stars/softwaremill/bootzooka?style=flat-square&color=yellow)](https://github.com/softwaremill/bootzooka/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/bootzooka?style=flat-square&color=blue)](https://github.com/softwaremill/bootzooka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softwaremill/bootzooka?style=flat-square&color=yellow)](https://github.com/softwaremill/bootzooka/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/bootzooka?style=flat-square&color=blue)](https://github.com/softwaremill/bootzooka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Template project to quickly start developing a Scala-based microservice or web application, with the build & project structure provided
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 780 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates
+Templates · Frontend
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ softwaremill/bootzooka 是一个开箱即用的模板仓库，帮助开发者快
 | forks | 54/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # OpenEmu-Silicon/OpenEmu-Silicon
 
-[![Stars](https://img.shields.io/github/stars/OpenEmu-Silicon/OpenEmu-Silicon?style=flat-square&color=yellow)](https://github.com/OpenEmu-Silicon/OpenEmu-Silicon/stargazers) [![Forks](https://img.shields.io/github/forks/OpenEmu-Silicon/OpenEmu-Silicon?style=flat-square&color=blue)](https://github.com/OpenEmu-Silicon/OpenEmu-Silicon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenEmu-Silicon/OpenEmu-Silicon?style=flat-square&color=yellow)](https://github.com/OpenEmu-Silicon/OpenEmu-Silicon/stargazers) [![Forks](https://img.shields.io/github/forks/OpenEmu-Silicon/OpenEmu-Silicon?style=flat-square&color=blue)](https://github.com/OpenEmu-Silicon/OpenEmu-Silicon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Native ARM64 port of OpenEmu for Apple Silicon MacBooks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 358 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ OpenEmu-Silicon/OpenEmu-Silicon：OpenEmu-Silicon/OpenEmu-Silicon may be useful 
 | forks | 30/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
 | 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2025-08-11 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ facebook/vjepa2-vitg-fpc64-256：facebook/vjepa2-vitg-fpc64-256 may be useful wh
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Networking · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ rtk-ai/rtk：rtk-ai/rtk helps add AI capability without starting from a blank mo
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

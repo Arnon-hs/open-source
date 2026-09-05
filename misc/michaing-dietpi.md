@@ -1,6 +1,6 @@
 # MichaIng/DietPi
 
-[![Stars](https://img.shields.io/github/stars/MichaIng/DietPi?style=flat-square&color=yellow)](https://github.com/MichaIng/DietPi/stargazers) [![Forks](https://img.shields.io/github/forks/MichaIng/DietPi?style=flat-square&color=blue)](https://github.com/MichaIng/DietPi/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MichaIng/DietPi?style=flat-square&color=yellow)](https://github.com/MichaIng/DietPi/stargazers) [![Forks](https://img.shields.io/github/forks/MichaIng/DietPi?style=flat-square&color=blue)](https://github.com/MichaIng/DietPi/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight justice for your single-board computer!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 557 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ MichaIng/DietPi 的生产可用性非常高，主要原因是它有活跃的社�
 | forks | 69/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

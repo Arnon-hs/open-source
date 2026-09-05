@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Svelte |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ MIERUNE/svelte-maplibre-gl — это открытый обёртка‑ком
 
 ### 中文
 
-MIERUNE/svelte-maplibre-gl：MIERUNE/svelte-maplibre-gl helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+MIERUNE/svelte-maplibre-gl：MIERUNE/svelte-maplibre-gl helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** MIERUNE/svelte-maplibre-gl helps ship user-facing interfaces with less custom UI work.
+**Value:** MIERUNE/svelte-maplibre-gl helps convert raw data into searchable, analyzable, or automated pipelines.
 
 **Best use cases**
 
-- build product UI faster
-- reuse interface components
-- improve frontend delivery
+- organize analytics pipelines
+- process datasets
+- improve reporting workflows
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +65,18 @@ MIERUNE/svelte-maplibre-gl：MIERUNE/svelte-maplibre-gl helps ship user-facing i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 47/100 |
-| stars | 53/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

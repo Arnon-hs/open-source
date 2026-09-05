@@ -1,6 +1,6 @@
 # stillwater-sc/universal
 
-[![Stars](https://img.shields.io/github/stars/stillwater-sc/universal?style=flat-square&color=yellow)](https://github.com/stillwater-sc/universal/stargazers) [![Forks](https://img.shields.io/github/forks/stillwater-sc/universal?style=flat-square&color=blue)](https://github.com/stillwater-sc/universal/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stillwater-sc/universal?style=flat-square&color=yellow)](https://github.com/stillwater-sc/universal/stargazers) [![Forks](https://img.shields.io/github/forks/stillwater-sc/universal?style=flat-square&color=blue)](https://github.com/stillwater-sc/universal/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization, estimation, and approximation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 501 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ stillwater-sc/universal 的生产可用性非常高。该项目具有最近的�
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rust-unofficial/awesome-rust
 
-[![Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=flat-square&color=yellow)](https://github.com/rust-unofficial/awesome-rust/stargazers) [![Forks](https://img.shields.io/github/forks/rust-unofficial/awesome-rust?style=flat-square&color=blue)](https://github.com/rust-unofficial/awesome-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=flat-square&color=yellow)](https://github.com/rust-unofficial/awesome-rust/stargazers) [![Forks](https://img.shields.io/github/forks/rust-unofficial/awesome-rust?style=flat-square&color=blue)](https://github.com/rust-unofficial/awesome-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of Rust code and resources.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57.2k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ The project shows strong production‑ready signals: high star count, thousands 
 | forks | 88/100 |
 | stars | 100/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 97/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

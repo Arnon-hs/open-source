@@ -1,6 +1,6 @@
 # mindeng/nom-exif
 
-[![Stars](https://img.shields.io/github/stars/mindeng/nom-exif?style=flat-square&color=yellow)](https://github.com/mindeng/nom-exif/stargazers) [![Forks](https://img.shields.io/github/forks/mindeng/nom-exif?style=flat-square&color=blue)](https://github.com/mindeng/nom-exif/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mindeng/nom-exif?style=flat-square&color=yellow)](https://github.com/mindeng/nom-exif/stargazers) [![Forks](https://img.shields.io/github/forks/mindeng/nom-exif?style=flat-square&color=blue)](https://github.com/mindeng/nom-exif/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Exif/metadata parsing library written in pure Rust, both image (JPEG, PNG, HEIC/HEIF, AVIF, TIFF, Phase One IIQ, Fujifilm RAF, Canon CR3) and video/audio (MP4, MOV, 3GP, MKV, WEBM, MKA) files are supported.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ mindeng/nom-exif 是一个使用纯 Rust 编写的 Exif/元数据解析库，支
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 45/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

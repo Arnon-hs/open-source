@@ -1,6 +1,6 @@
 # lightonai/next-plaid
 
-[![Stars](https://img.shields.io/github/stars/lightonai/next-plaid?style=flat-square&color=yellow)](https://github.com/lightonai/next-plaid/stargazers) [![Forks](https://img.shields.io/github/forks/lightonai/next-plaid?style=flat-square&color=blue)](https://github.com/lightonai/next-plaid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightonai/next-plaid?style=flat-square&color=yellow)](https://github.com/lightonai/next-plaid/stargazers) [![Forks](https://img.shields.io/github/forks/lightonai/next-plaid?style=flat-square&color=blue)](https://github.com/lightonai/next-plaid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > NextPlaid, ColGREP: Multi-vector search, from database to coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ NextPlaid 的生产可用性为中等（Medium）。它适合用于原型开发�
 | forks | 44/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 62/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

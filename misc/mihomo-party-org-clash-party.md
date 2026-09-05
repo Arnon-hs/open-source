@@ -1,6 +1,6 @@
 # mihomo-party-org/clash-party
 
-[![Stars](https://img.shields.io/github/stars/mihomo-party-org/clash-party?style=flat-square&color=yellow)](https://github.com/mihomo-party-org/clash-party/stargazers) [![Forks](https://img.shields.io/github/forks/mihomo-party-org/clash-party?style=flat-square&color=blue)](https://github.com/mihomo-party-org/clash-party/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mihomo-party-org/clash-party?style=flat-square&color=yellow)](https://github.com/mihomo-party-org/clash-party/stargazers) [![Forks](https://img.shields.io/github/forks/mihomo-party-org/clash-party?style=flat-square&color=blue)](https://github.com/mihomo-party-org/clash-party/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > :electron: Another Mihomo GUI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.3k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ mihomo-party-org/clash-party 的生产可用性较高，主要原因包括：
 | forks | 82/100 |
 | stars | 94/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

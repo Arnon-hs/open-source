@@ -1,6 +1,6 @@
 # wekan/wekan
 
-[![Stars](https://img.shields.io/github/stars/wekan/wekan?style=flat-square&color=yellow)](https://github.com/wekan/wekan/stargazers) [![Forks](https://img.shields.io/github/forks/wekan/wekan?style=flat-square&color=blue)](https://github.com/wekan/wekan/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wekan/wekan?style=flat-square&color=yellow)](https://github.com/wekan/wekan/stargazers) [![Forks](https://img.shields.io/github/forks/wekan/wekan?style=flat-square&color=blue)](https://github.com/wekan/wekan/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.9k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Wekan 是一款基于 Meteor 的开源看板工具，提供类似 Trello 的可�
 | forks | 87/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 76/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction
 
-[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 221 AI skills for construction: BIM analysis, cost estimation, scheduling, document control, and automation with Claude Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction：datadrivencons
 | forks | 47/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ShroudLabs-io/tlad-semgrep&&https:
 
-[![Stars](https://img.shields.io/github/stars/ShroudLabs-io/tlad-semgrep&&https:?style=flat-square&color=yellow)](https://github.com/ShroudLabs-io/tlad-semgrep&&https://github.com/ShroudLabs-io/mcp-sinks.git/stargazers) [![Forks](https://img.shields.io/github/forks/ShroudLabs-io/tlad-semgrep&&https:?style=flat-square&color=blue)](https://github.com/ShroudLabs-io/tlad-semgrep&&https://github.com/ShroudLabs-io/mcp-sinks.git/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShroudLabs-io/tlad-semgrep&&https:?style=flat-square&color=yellow)](https://github.com/ShroudLabs-io/tlad-semgrep&&https://github.com/ShroudLabs-io/mcp-sinks.git/stargazers) [![Forks](https://img.shields.io/github/forks/ShroudLabs-io/tlad-semgrep&&https:?style=flat-square&color=blue)](https://github.com/ShroudLabs-io/tlad-semgrep&&https://github.com/ShroudLabs-io/mcp-sinks.git/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ Two Semgrep rule sets for auditing MCP servers were created, enabling AI assista
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |

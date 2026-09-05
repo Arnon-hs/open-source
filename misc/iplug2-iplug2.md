@@ -1,6 +1,6 @@
 # iPlug2/iPlug2
 
-[![Stars](https://img.shields.io/github/stars/iPlug2/iPlug2?style=flat-square&color=yellow)](https://github.com/iPlug2/iPlug2/stargazers) [![Forks](https://img.shields.io/github/forks/iPlug2/iPlug2?style=flat-square&color=blue)](https://github.com/iPlug2/iPlug2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iPlug2/iPlug2?style=flat-square&color=yellow)](https://github.com/iPlug2/iPlug2/stargazers) [![Forks](https://img.shields.io/github/forks/iPlug2/iPlug2?style=flat-square&color=blue)](https://github.com/iPlug2/iPlug2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > C++ Audio Plug-in Framework for desktop, mobile, xr and web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 343 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ iPlug2 是一个基于 C++ 的跨平台音频插件框架，支持桌面、移�
 | forks | 63/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

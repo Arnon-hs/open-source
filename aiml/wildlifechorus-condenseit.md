@@ -1,6 +1,6 @@
 # wildlifechorus/condenseit
 
-[![Stars](https://img.shields.io/github/stars/wildlifechorus/condenseit?style=flat-square&color=yellow)](https://github.com/wildlifechorus/condenseit/stargazers) [![Forks](https://img.shields.io/github/forks/wildlifechorus/condenseit?style=flat-square&color=blue)](https://github.com/wildlifechorus/condenseit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wildlifechorus/condenseit?style=flat-square&color=yellow)](https://github.com/wildlifechorus/condenseit/stargazers) [![Forks](https://img.shields.io/github/forks/wildlifechorus/condenseit?style=flat-square&color=blue)](https://github.com/wildlifechorus/condenseit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI news digest. Collect RSS feeds, YouTube channels, website diffs, Google News searches, Hacker News, Reddit, GitHub Releases, and podcasts, summarize with a local LLM (Ollama), OpenRouter, or any OpenAI-compatible endpoint, learn your preferences from star ratings and engagement signals, and read a daily digest in the browser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ wildlifechorus/condenseit：wildlifechorus/condenseit helps add AI capability wi
 | forks | 15/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 41/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 65/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

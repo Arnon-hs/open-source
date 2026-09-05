@@ -1,6 +1,6 @@
 # porres/pd-else
 
-[![Stars](https://img.shields.io/github/stars/porres/pd-else?style=flat-square&color=yellow)](https://github.com/porres/pd-else/stargazers) [![Forks](https://img.shields.io/github/forks/porres/pd-else?style=flat-square&color=blue)](https://github.com/porres/pd-else/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/porres/pd-else?style=flat-square&color=yellow)](https://github.com/porres/pd-else/stargazers) [![Forks](https://img.shields.io/github/forks/porres/pd-else?style=flat-square&color=blue)](https://github.com/porres/pd-else/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > ELSE - EL Locus Solus' Externals for Pure Data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ porres/pd-else 是为 Pure Data（Pd）提供的 “EL Locus Solus” 系列外�
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

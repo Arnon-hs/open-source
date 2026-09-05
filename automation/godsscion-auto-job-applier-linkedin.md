@@ -1,6 +1,6 @@
 # GodsScion/Auto_job_applier_linkedIn
 
-[![Stars](https://img.shields.io/github/stars/GodsScion/Auto_job_applier_linkedIn?style=flat-square&color=yellow)](https://github.com/GodsScion/Auto_job_applier_linkedIn/stargazers) [![Forks](https://img.shields.io/github/forks/GodsScion/Auto_job_applier_linkedIn?style=flat-square&color=blue)](https://github.com/GodsScion/Auto_job_applier_linkedIn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GodsScion/Auto_job_applier_linkedIn?style=flat-square&color=yellow)](https://github.com/GodsScion/Auto_job_applier_linkedIn/stargazers) [![Forks](https://img.shields.io/github/forks/GodsScion/Auto_job_applier_linkedIn?style=flat-square&color=blue)](https://github.com/GodsScion/Auto_job_applier_linkedIn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Make your job hunt easy by automating your application process with this Auto Applier
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 747 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ GodsScion/Auto_job_applier_linkedIn 的生产可用性非常高，主要原因�
 | forks | 72/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 78/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 70/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Qiuner/claude-nexus
 
-[![Stars](https://img.shields.io/github/stars/Qiuner/claude-nexus?style=flat-square&color=yellow)](https://github.com/Qiuner/claude-nexus/stargazers) [![Forks](https://img.shields.io/github/forks/Qiuner/claude-nexus?style=flat-square&color=blue)](https://github.com/Qiuner/claude-nexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qiuner/claude-nexus?style=flat-square&color=yellow)](https://github.com/Qiuner/claude-nexus/stargazers) [![Forks](https://img.shields.io/github/forks/Qiuner/claude-nexus?style=flat-square&color=blue)](https://github.com/Qiuner/claude-nexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An all-in-one enhancement suite for Claude.ai - folder management, timeline navigation, and chat export in one powerful extension.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Qiuner/claude-nexus 是面向 Claude.ai 的一站式增强套件，提供文件�
 | forks | 19/100 |
 | stars | 53/100 |
 | topics | 13/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

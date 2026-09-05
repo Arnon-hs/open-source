@@ -1,6 +1,6 @@
 # wiiznokes/fan-control
 
-[![Stars](https://img.shields.io/github/stars/wiiznokes/fan-control?style=flat-square&color=yellow)](https://github.com/wiiznokes/fan-control/stargazers) [![Forks](https://img.shields.io/github/forks/wiiznokes/fan-control?style=flat-square&color=blue)](https://github.com/wiiznokes/fan-control/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wiiznokes/fan-control?style=flat-square&color=yellow)](https://github.com/wiiznokes/fan-control/stargazers) [![Forks](https://img.shields.io/github/forks/wiiznokes/fan-control?style=flat-square&color=blue)](https://github.com/wiiznokes/fan-control/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Control your fans with different behaviors
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ The library is at a *medium* readiness level: it is actively maintained (last up
 | forks | 34/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

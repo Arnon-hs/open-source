@@ -1,6 +1,6 @@
 # 1c-syntax/bsl-language-server
 
-[![Stars](https://img.shields.io/github/stars/1c-syntax/bsl-language-server?style=flat-square&color=yellow)](https://github.com/1c-syntax/bsl-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/1c-syntax/bsl-language-server?style=flat-square&color=blue)](https://github.com/1c-syntax/bsl-language-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1c-syntax/bsl-language-server?style=flat-square&color=yellow)](https://github.com/1c-syntax/bsl-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/1c-syntax/bsl-language-server?style=flat-square&color=blue)](https://github.com/1c-syntax/bsl-language-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Реализация Language Server Protocol для языка 1C (BSL)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ The **1c-syntax/bsl-language-server** project implements a Language Server Proto
 | forks | 53/100 |
 | stars | 56/100 |
 | topics | 25/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

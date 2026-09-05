@@ -1,6 +1,6 @@
 # wmayner/pyphi
 
-[![Stars](https://img.shields.io/github/stars/wmayner/pyphi?style=flat-square&color=yellow)](https://github.com/wmayner/pyphi/stargazers) [![Forks](https://img.shields.io/github/forks/wmayner/pyphi?style=flat-square&color=blue)](https://github.com/wmayner/pyphi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wmayner/pyphi?style=flat-square&color=yellow)](https://github.com/wmayner/pyphi/stargazers) [![Forks](https://img.shields.io/github/forks/wmayner/pyphi?style=flat-square&color=blue)](https://github.com/wmayner/pyphi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A toolbox for integrated information theory.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 426 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ wmayer/pyphi 的生产可用性为中等水平（Medium），适用于：
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

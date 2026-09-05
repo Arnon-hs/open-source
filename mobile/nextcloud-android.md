@@ -1,6 +1,6 @@
 # nextcloud/android
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/android?style=flat-square&color=yellow)](https://github.com/nextcloud/android/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/android?style=flat-square&color=blue)](https://github.com/nextcloud/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/android?style=flat-square&color=yellow)](https://github.com/nextcloud/android/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/android?style=flat-square&color=blue)](https://github.com/nextcloud/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 📱 Nextcloud Android app
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Nextcloud Android 是官方维护的 Nextcloud 客户端，使用 Kotlin 开发�
 | forks | 82/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

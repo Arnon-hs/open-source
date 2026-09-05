@@ -1,6 +1,6 @@
 # d4rken-org/octi
 
-[![Stars](https://img.shields.io/github/stars/d4rken-org/octi?style=flat-square&color=yellow)](https://github.com/d4rken-org/octi/stargazers) [![Forks](https://img.shields.io/github/forks/d4rken-org/octi?style=flat-square&color=blue)](https://github.com/d4rken-org/octi/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d4rken-org/octi?style=flat-square&color=yellow)](https://github.com/d4rken-org/octi/stargazers) [![Forks](https://img.shields.io/github/forks/d4rken-org/octi?style=flat-square&color=blue)](https://github.com/d4rken-org/octi/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-device manager for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 566 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ d4rken-org/octi 的生产可用性为中等（Medium）。它适合于内部工�
 | forks | 41/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

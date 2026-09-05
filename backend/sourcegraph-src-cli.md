@@ -1,6 +1,6 @@
 # sourcegraph/src-cli
 
-[![Stars](https://img.shields.io/github/stars/sourcegraph/src-cli?style=flat-square&color=yellow)](https://github.com/sourcegraph/src-cli/stargazers) [![Forks](https://img.shields.io/github/forks/sourcegraph/src-cli?style=flat-square&color=blue)](https://github.com/sourcegraph/src-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sourcegraph/src-cli?style=flat-square&color=yellow)](https://github.com/sourcegraph/src-cli/stargazers) [![Forks](https://img.shields.io/github/forks/sourcegraph/src-cli?style=flat-square&color=blue)](https://github.com/sourcegraph/src-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Sourcegraph CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ sourcegraph/src-cli 是 Sourcegraph 官方提供的命令行工具，使用 Go �
 | forks | 46/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

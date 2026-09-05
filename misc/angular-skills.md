@@ -1,6 +1,6 @@
 # angular/skills
 
-[![Stars](https://img.shields.io/github/stars/angular/skills?style=flat-square&color=yellow)](https://github.com/angular/skills/stargazers) [![Forks](https://img.shields.io/github/forks/angular/skills?style=flat-square&color=blue)](https://github.com/angular/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angular/skills?style=flat-square&color=yellow)](https://github.com/angular/skills/stargazers) [![Forks](https://img.shields.io/github/forks/angular/skills?style=flat-square&color=blue)](https://github.com/angular/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ Angular/skills is a modestly‑starred open‑source library (≈340 ★) that
 | forks | 36/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 40/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

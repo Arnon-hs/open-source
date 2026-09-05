@@ -1,6 +1,6 @@
 # gildas-lormeau/SingleFile-MV3
 
-[![Stars](https://img.shields.io/github/stars/gildas-lormeau/SingleFile-MV3?style=flat-square&color=yellow)](https://github.com/gildas-lormeau/SingleFile-MV3/stargazers) [![Forks](https://img.shields.io/github/forks/gildas-lormeau/SingleFile-MV3?style=flat-square&color=blue)](https://github.com/gildas-lormeau/SingleFile-MV3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gildas-lormeau/SingleFile-MV3?style=flat-square&color=yellow)](https://github.com/gildas-lormeau/SingleFile-MV3/stargazers) [![Forks](https://img.shields.io/github/forks/gildas-lormeau/SingleFile-MV3?style=flat-square&color=blue)](https://github.com/gildas-lormeau/SingleFile-MV3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SingleFile version compatible with Manifest V3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 592 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ gildas-lormeau/SingleFile-MV3 是一个用于管理数据的开源项目，兼�
 | forks | 45/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

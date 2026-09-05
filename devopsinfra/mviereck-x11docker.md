@@ -1,6 +1,6 @@
 # mviereck/x11docker
 
-[![Stars](https://img.shields.io/github/stars/mviereck/x11docker?style=flat-square&color=yellow)](https://github.com/mviereck/x11docker/stargazers) [![Forks](https://img.shields.io/github/forks/mviereck/x11docker?style=flat-square&color=blue)](https://github.com/mviereck/x11docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mviereck/x11docker?style=flat-square&color=yellow)](https://github.com/mviereck/x11docker/stargazers) [![Forks](https://img.shields.io/github/forks/mviereck/x11docker?style=flat-square&color=blue)](https://github.com/mviereck/x11docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Run GUI applications and desktops in docker and podman containers. Focus on security.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 418 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ mviereck/x11docker的价值在于其能够帮助开发者快速评估和构建AI
 | forks | 66/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

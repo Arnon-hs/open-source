@@ -1,6 +1,6 @@
 # mozilla-ai/any-llm
 
-[![Stars](https://img.shields.io/github/stars/mozilla-ai/any-llm?style=flat-square&color=yellow)](https://github.com/mozilla-ai/any-llm/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla-ai/any-llm?style=flat-square&color=blue)](https://github.com/mozilla-ai/any-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla-ai/any-llm?style=flat-square&color=yellow)](https://github.com/mozilla-ai/any-llm/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla-ai/any-llm?style=flat-square&color=blue)](https://github.com/mozilla-ai/any-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Communicate with an LLM provider using a single interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ mozilla-ai/any-llm 提供了统一的 Python 接口，让开发者可以轻松�
 | forks | 56/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

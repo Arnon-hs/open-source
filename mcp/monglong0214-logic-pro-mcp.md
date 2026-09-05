@@ -1,6 +1,6 @@
 # MongLong0214/logic-pro-mcp
 
-[![Stars](https://img.shields.io/github/stars/MongLong0214/logic-pro-mcp?style=flat-square&color=yellow)](https://github.com/MongLong0214/logic-pro-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MongLong0214/logic-pro-mcp?style=flat-square&color=blue)](https://github.com/MongLong0214/logic-pro-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MongLong0214/logic-pro-mcp?style=flat-square&color=yellow)](https://github.com/MongLong0214/logic-pro-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MongLong0214/logic-pro-mcp?style=flat-square&color=blue)](https://github.com/MongLong0214/logic-pro-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Local MCP server for stateful, fail-closed Logic Pro control and live project readback.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ MongLong0214/logic-pro-mcp 的生产可用性为中等（Medium），适合用�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

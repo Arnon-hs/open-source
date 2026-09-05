@@ -1,6 +1,6 @@
 # myccarl/ai-shortVideo-pipeline
 
-[![Stars](https://img.shields.io/github/stars/myccarl/ai-shortVideo-pipeline?style=flat-square&color=yellow)](https://github.com/myccarl/ai-shortVideo-pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/myccarl/ai-shortVideo-pipeline?style=flat-square&color=blue)](https://github.com/myccarl/ai-shortVideo-pipeline/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/myccarl/ai-shortVideo-pipeline?style=flat-square&color=yellow)](https://github.com/myccarl/ai-shortVideo-pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/myccarl/ai-shortVideo-pipeline?style=flat-square&color=blue)](https://github.com/myccarl/ai-shortVideo-pipeline/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 555 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ myccarl/ai-shortVideo-pipeline：myccarl/ai-shortVideo-pipeline helps automate s
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 84/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

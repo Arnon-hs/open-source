@@ -1,6 +1,6 @@
 # JetBrains/godot-support
 
-[![Stars](https://img.shields.io/github/stars/JetBrains/godot-support?style=flat-square&color=yellow)](https://github.com/JetBrains/godot-support/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/godot-support?style=flat-square&color=blue)](https://github.com/JetBrains/godot-support/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetBrains/godot-support?style=flat-square&color=yellow)](https://github.com/JetBrains/godot-support/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/godot-support?style=flat-square&color=blue)](https://github.com/JetBrains/godot-support/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Plugins for Rider/JetBrains IDEs, Addon for Godot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 496 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ JetBrains/godot-support 的生产可用性是高的，因为它有：
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

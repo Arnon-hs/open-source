@@ -1,6 +1,6 @@
 # zqiren/Orbital
 
-[![Stars](https://img.shields.io/github/stars/zqiren/Orbital?style=flat-square&color=yellow)](https://github.com/zqiren/Orbital/stargazers) [![Forks](https://img.shields.io/github/forks/zqiren/Orbital?style=flat-square&color=blue)](https://github.com/zqiren/Orbital/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zqiren/Orbital?style=flat-square&color=yellow)](https://github.com/zqiren/Orbital/stargazers) [![Forks](https://img.shields.io/github/forks/zqiren/Orbital?style=flat-square&color=blue)](https://github.com/zqiren/Orbital/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > the agent that never starts from zero
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Orbital（zqiren/Orbital）是一个基于 Python 的自动化智能体，旨在
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 51/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · DevTools · Data
+MCP · AI/ML · DevTools · Data
 
 ## 📝 Summary
 
@@ -75,7 +75,7 @@ Beezi-AI/beezi-claude-plugin：Beezi-AI/beezi-claude-plugin helps connect AI ass
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

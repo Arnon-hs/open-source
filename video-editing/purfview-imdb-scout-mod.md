@@ -1,6 +1,6 @@
 # Purfview/IMDb-Scout-Mod
 
-[![Stars](https://img.shields.io/github/stars/Purfview/IMDb-Scout-Mod?style=flat-square&color=yellow)](https://github.com/Purfview/IMDb-Scout-Mod/stargazers) [![Forks](https://img.shields.io/github/forks/Purfview/IMDb-Scout-Mod?style=flat-square&color=blue)](https://github.com/Purfview/IMDb-Scout-Mod/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Purfview/IMDb-Scout-Mod?style=flat-square&color=yellow)](https://github.com/Purfview/IMDb-Scout-Mod/stargazers) [![Forks](https://img.shields.io/github/forks/Purfview/IMDb-Scout-Mod?style=flat-square&color=blue)](https://github.com/Purfview/IMDb-Scout-Mod/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites. Adds movies/series to Radarr/Sonarr. Adds external ratings from Metacritic, Rotten Tomatoes, Letterboxd, Douban, Allocine. Media Server indicators for Plex, Jellyfin, Emby. Dark theme/style for Reference View. Adds/Removes to/from Trakt's watchlist. Removes ads
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 559 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Marketing
+Video Editing · Networking · Marketing
 
 ## 📝 Summary
 
@@ -116,15 +116,15 @@ Purfview/IMDb-Scout-Mod 是一款基于 JavaScript 的媒体信息聚合插件�
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # swagger-api/swagger-ui
 
-[![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=flat-square&color=yellow)](https://github.com/swagger-api/swagger-ui/stargazers) [![Forks](https://img.shields.io/github/forks/swagger-api/swagger-ui?style=flat-square&color=blue)](https://github.com/swagger-api/swagger-ui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=flat-square&color=yellow)](https://github.com/swagger-api/swagger-ui/stargazers) [![Forks](https://img.shields.io/github/forks/swagger-api/swagger-ui?style=flat-square&color=blue)](https://github.com/swagger-api/swagger-ui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.9k |
 | 🍴 **Forks** | 9.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Swagger UI 具备高可用、易集成、社区活跃等优势，是在生产环
 | forks | 99/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 83/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 96/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

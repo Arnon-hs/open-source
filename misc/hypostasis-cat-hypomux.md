@@ -1,6 +1,6 @@
 # Hypostasis-Cat/HypoMux
 
-[![Stars](https://img.shields.io/github/stars/Hypostasis-Cat/HypoMux?style=flat-square&color=yellow)](https://github.com/Hypostasis-Cat/HypoMux/stargazers) [![Forks](https://img.shields.io/github/forks/Hypostasis-Cat/HypoMux?style=flat-square&color=blue)](https://github.com/Hypostasis-Cat/HypoMux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hypostasis-Cat/HypoMux?style=flat-square&color=yellow)](https://github.com/Hypostasis-Cat/HypoMux/stargazers) [![Forks](https://img.shields.io/github/forks/Hypostasis-Cat/HypoMux?style=flat-square&color=blue)](https://github.com/Hypostasis-Cat/HypoMux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CN Windows 多网卡带宽叠加工具。无需复杂配置，一键聚合多网卡（有线、Wi-Fi网卡、手机热点等），实现物理级多线下载与叠加网速。 EN Windows multi-NIC bandwidth aggregator. Zero complex setup. One-click to combine multiple networks (Ethernet, Wi-Fi, mobile hotspots, etc.) for physical-level concurrent downloading and multiplied speeds.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 512 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -140,11 +140,11 @@ HypoMux 是一款面向 Windows 的多网卡带宽聚合工具，支持有线、
 | forks | 31/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

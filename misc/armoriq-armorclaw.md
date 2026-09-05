@@ -1,6 +1,6 @@
 # armoriq/armorclaw
 
-[![Stars](https://img.shields.io/github/stars/armoriq/armorclaw?style=flat-square&color=yellow)](https://github.com/armoriq/armorclaw/stargazers) [![Forks](https://img.shields.io/github/forks/armoriq/armorclaw?style=flat-square&color=blue)](https://github.com/armoriq/armorclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/armoriq/armorclaw?style=flat-square&color=yellow)](https://github.com/armoriq/armorclaw/stargazers) [![Forks](https://img.shields.io/github/forks/armoriq/armorclaw?style=flat-square&color=blue)](https://github.com/armoriq/armorclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ArmorIQ intent enforcement plugin for OpenClaw AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 278 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Armoriq/ArmorClaw 的生产可用性为中等。它适用于以下场景：
 | forks | 19/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 49/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

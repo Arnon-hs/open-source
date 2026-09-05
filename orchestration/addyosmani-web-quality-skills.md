@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ addyosmani/web-quality-skills：addyosmani/web-quality-skills helps turn isolate
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

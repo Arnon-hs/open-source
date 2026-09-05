@@ -1,6 +1,6 @@
 # dbreunig/dspy-monty-interpreter
 
-[![Stars](https://img.shields.io/github/stars/dbreunig/dspy-monty-interpreter?style=flat-square&color=yellow)](https://github.com/dbreunig/dspy-monty-interpreter/stargazers) [![Forks](https://img.shields.io/github/forks/dbreunig/dspy-monty-interpreter?style=flat-square&color=blue)](https://github.com/dbreunig/dspy-monty-interpreter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbreunig/dspy-monty-interpreter?style=flat-square&color=yellow)](https://github.com/dbreunig/dspy-monty-interpreter/stargazers) [![Forks](https://img.shields.io/github/forks/dbreunig/dspy-monty-interpreter?style=flat-square&color=blue)](https://github.com/dbreunig/dspy-monty-interpreter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A drop-in code interpreter using the Monty Python emulator for DSPy's RLM module.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ This project provides a drop-in code interpreter
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 25/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

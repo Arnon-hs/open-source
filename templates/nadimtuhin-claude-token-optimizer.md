@@ -1,6 +1,6 @@
 # nadimtuhin/claude-token-optimizer
 
-[![Stars](https://img.shields.io/github/stars/nadimtuhin/claude-token-optimizer?style=flat-square&color=yellow)](https://github.com/nadimtuhin/claude-token-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/nadimtuhin/claude-token-optimizer?style=flat-square&color=blue)](https://github.com/nadimtuhin/claude-token-optimizer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nadimtuhin/claude-token-optimizer?style=flat-square&color=yellow)](https://github.com/nadimtuhin/claude-token-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/nadimtuhin/claude-token-optimizer?style=flat-square&color=blue)](https://github.com/nadimtuhin/claude-token-optimizer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Reusable setup prompts for optimizing Claude Code documentation. Achieve 90% token savings on any project in 5 minutes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ nadimtuhin/claude-token-optimizer 帮助移除重复的手动操作，从而提�
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

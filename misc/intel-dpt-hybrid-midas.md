@@ -1,6 +1,6 @@
 # Intel/dpt-hybrid-midas
 
-[![Stars](https://img.shields.io/github/stars/Intel/dpt-hybrid-midas?style=flat-square&color=yellow)](https://huggingface.co/Intel/dpt-hybrid-midas/stargazers) [![Forks](https://img.shields.io/github/forks/Intel/dpt-hybrid-midas?style=flat-square&color=blue)](https://huggingface.co/Intel/dpt-hybrid-midas/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Intel/dpt-hybrid-midas?style=flat-square&color=yellow)](https://huggingface.co/Intel/dpt-hybrid-midas/stargazers) [![Forks](https://img.shields.io/github/forks/Intel/dpt-hybrid-midas?style=flat-square&color=blue)](https://huggingface.co/Intel/dpt-hybrid-midas/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Depth estimation (depth-estimation) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Intel/dpt-hybrid-midas 的生产可用性还需进一步验证。由于项目的
 | forks | 0/100 |
 | stars | 44/100 |
 | topics | 38/100 |
-| outlook | 34/100 |
-| quality | 35/100 |
-| recency | 20/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 36/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

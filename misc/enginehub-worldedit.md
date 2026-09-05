@@ -1,6 +1,6 @@
 # EngineHub/WorldEdit
 
-[![Stars](https://img.shields.io/github/stars/EngineHub/WorldEdit?style=flat-square&color=yellow)](https://github.com/EngineHub/WorldEdit/stargazers) [![Forks](https://img.shields.io/github/forks/EngineHub/WorldEdit?style=flat-square&color=blue)](https://github.com/EngineHub/WorldEdit/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EngineHub/WorldEdit?style=flat-square&color=yellow)](https://github.com/EngineHub/WorldEdit/stargazers) [![Forks](https://img.shields.io/github/forks/EngineHub/WorldEdit?style=flat-square&color=blue)](https://github.com/EngineHub/WorldEdit/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🗺️ Minecraft map editor and mod
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 939 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ EngineHub/WorldEdit 的生产可用性非常高，主要原因是：
 | forks | 74/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

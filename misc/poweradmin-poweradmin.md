@@ -1,6 +1,6 @@
 # poweradmin/poweradmin
 
-[![Stars](https://img.shields.io/github/stars/poweradmin/poweradmin?style=flat-square&color=yellow)](https://github.com/poweradmin/poweradmin/stargazers) [![Forks](https://img.shields.io/github/forks/poweradmin/poweradmin?style=flat-square&color=blue)](https://github.com/poweradmin/poweradmin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/poweradmin/poweradmin?style=flat-square&color=yellow)](https://github.com/poweradmin/poweradmin/stargazers) [![Forks](https://img.shields.io/github/forks/poweradmin/poweradmin?style=flat-square&color=blue)](https://github.com/poweradmin/poweradmin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A web-based control panel for PowerDNS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 889 |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ poweradmin/poweradmin 的生产可用性为中等。它适合用于原型或内�
 | forks | 62/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

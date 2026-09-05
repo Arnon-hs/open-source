@@ -1,6 +1,6 @@
 # adbayb/termost
 
-[![Stars](https://img.shields.io/github/stars/adbayb/termost?style=flat-square&color=yellow)](https://github.com/adbayb/termost/stargazers) [![Forks](https://img.shields.io/github/forks/adbayb/termost?style=flat-square&color=blue)](https://github.com/adbayb/termost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adbayb/termost?style=flat-square&color=yellow)](https://github.com/adbayb/termost/stargazers) [![Forks](https://img.shields.io/github/forks/adbayb/termost?style=flat-square&color=blue)](https://github.com/adbayb/termost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 📦 A framework to build your next CLI application: Get the most of your terminal 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ termost 的生产可用性很高，主要原因是：
 | forks | 12/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

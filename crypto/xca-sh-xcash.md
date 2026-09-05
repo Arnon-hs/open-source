@@ -1,6 +1,6 @@
 # xca-sh/xcash
 
-[![Stars](https://img.shields.io/github/stars/xca-sh/xcash?style=flat-square&color=yellow)](https://github.com/xca-sh/xcash/stargazers) [![Forks](https://img.shields.io/github/forks/xca-sh/xcash?style=flat-square&color=blue)](https://github.com/xca-sh/xcash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xca-sh/xcash?style=flat-square&color=yellow)](https://github.com/xca-sh/xcash/stargazers) [![Forks](https://img.shields.io/github/forks/xca-sh/xcash?style=flat-square&color=blue)](https://github.com/xca-sh/xcash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source self-hosted cryptocurrency payment gateway. Accept USDT, BTC, ETH — zero platform fees, 100+ blockchains, 3-min Docker deploy, full self-custody of private keys. Built-in MistTrack risk control.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · DevOps/Infra
+Crypto · Payments · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ xca-sh/xcash 是一款开源的自托管加密货币支付网关，支持 USDT�
 | forks | 23/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # K-Dense-AI/scientific-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&color=yellow)](https://github.com/K-Dense-AI/scientific-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/K-Dense-AI/scientific-agent-skills?style=flat-square&color=blue)](https://github.com/K-Dense-AI/scientific-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&color=yellow)](https://github.com/K-Dense-AI/scientific-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/K-Dense-AI/scientific-agent-skills?style=flat-square&color=blue)](https://github.com/K-Dense-AI/scientific-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.6k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ K‑Dense‑AI / scientific‑agent‑skills 将零散的提示和工具封�
 | forks | 87/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 966 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -39,17 +39,17 @@ Claude-HUD is an open-source plugin for Claude Code, providing real-time visibil
 
 ### 中文
 
-jarrodwatts/claude-hud：jarrodwatts/claude-hud helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jarrodwatts/claude-hud：jarrodwatts/claude-hud helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** jarrodwatts/claude-hud helps add AI capability without starting from a blank model stack.
+**Value:** jarrodwatts/claude-hud helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -69,17 +69,18 @@ jarrodwatts/claude-hud：jarrodwatts/claude-hud helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 72/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 87/100 |
-| stars | 92/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 88/100 |
+| outlook | 66/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

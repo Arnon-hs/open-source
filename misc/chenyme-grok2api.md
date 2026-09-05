@@ -1,6 +1,6 @@
 # chenyme/grok2api
 
-[![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&color=yellow)](https://github.com/chenyme/grok2api/stargazers) [![Forks](https://img.shields.io/github/forks/chenyme/grok2api?style=flat-square&color=blue)](https://github.com/chenyme/grok2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&color=yellow)](https://github.com/chenyme/grok2api/stargazers) [![Forks](https://img.shields.io/github/forks/chenyme/grok2api?style=flat-square&color=blue)](https://github.com/chenyme/grok2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ chenyme/grok2api 的生产可用性很高，理由包括：
 | forks | 83/100 |
 | stars | 81/100 |
 | topics | 25/100 |
-| outlook | 58/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

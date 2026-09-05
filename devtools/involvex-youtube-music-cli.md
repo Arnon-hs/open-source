@@ -1,6 +1,6 @@
 # involvex/youtube-music-cli
 
-[![Stars](https://img.shields.io/github/stars/involvex/youtube-music-cli?style=flat-square&color=yellow)](https://github.com/involvex/youtube-music-cli/stargazers) [![Forks](https://img.shields.io/github/forks/involvex/youtube-music-cli?style=flat-square&color=blue)](https://github.com/involvex/youtube-music-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/involvex/youtube-music-cli?style=flat-square&color=yellow)](https://github.com/involvex/youtube-music-cli/stargazers) [![Forks](https://img.shields.io/github/forks/involvex/youtube-music-cli?style=flat-square&color=blue)](https://github.com/involvex/youtube-music-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful Terminal User Interface (TUI) music player for YouTube Music
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ The library shows strong production signals: recent activity (last commit on 202
 | forks | 33/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

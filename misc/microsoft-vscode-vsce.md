@@ -1,6 +1,6 @@
 # microsoft/vscode-vsce
 
-[![Stars](https://img.shields.io/github/stars/microsoft/vscode-vsce?style=flat-square&color=yellow)](https://github.com/microsoft/vscode-vsce/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode-vsce?style=flat-square&color=blue)](https://github.com/microsoft/vscode-vsce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/vscode-vsce?style=flat-square&color=yellow)](https://github.com/microsoft/vscode-vsce/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode-vsce?style=flat-square&color=blue)](https://github.com/microsoft/vscode-vsce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > VS Code Extension Manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ microsoft/vscode-vsce：microsoft/vscode-vsce may be useful when its README and 
 | forks | 60/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 80/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 61/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

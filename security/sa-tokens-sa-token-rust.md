@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ sa-token-rust — это лёгкий, полностью открытый и 
 
 ### 中文
 
-sa-tokens/sa-token-rust：sa-tokens/sa-token-rust helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+sa-tokens/sa-token-rust：sa-tokens/sa-token-rust may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** sa-tokens/sa-token-rust helps catch security and privacy issues earlier in the workflow.
+**Value:** sa-tokens/sa-token-rust may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -64,17 +62,18 @@ sa-tokens/sa-token-rust：sa-tokens/sa-token-rust helps catch security and priva
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 39/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 36/100 |
-| adoption | 42/100 |
-| stars | 45/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 0/100 |
+| outlook | 36/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

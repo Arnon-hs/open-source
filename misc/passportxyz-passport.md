@@ -1,6 +1,6 @@
 # passportxyz/passport
 
-[![Stars](https://img.shields.io/github/stars/passportxyz/passport?style=flat-square&color=yellow)](https://github.com/passportxyz/passport/stargazers) [![Forks](https://img.shields.io/github/forks/passportxyz/passport?style=flat-square&color=blue)](https://github.com/passportxyz/passport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/passportxyz/passport?style=flat-square&color=yellow)](https://github.com/passportxyz/passport/stargazers) [![Forks](https://img.shields.io/github/forks/passportxyz/passport?style=flat-square&color=blue)](https://github.com/passportxyz/passport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Passport allows users to prove their identity through a secure, decentralized UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 514 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Passport（passportxyz/passport）是一套基于 TypeScript 的前端组件库�
 | forks | 68/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

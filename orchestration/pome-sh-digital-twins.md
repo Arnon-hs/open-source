@@ -1,6 +1,6 @@
 # pome-sh/digital-twins
 
-[![Stars](https://img.shields.io/github/stars/pome-sh/digital-twins?style=flat-square&color=yellow)](https://github.com/pome-sh/digital-twins/stargazers) [![Forks](https://img.shields.io/github/forks/pome-sh/digital-twins?style=flat-square&color=blue)](https://github.com/pome-sh/digital-twins/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pome-sh/digital-twins?style=flat-square&color=yellow)](https://github.com/pome-sh/digital-twins/stargazers) [![Forks](https://img.shields.io/github/forks/pome-sh/digital-twins?style=flat-square&color=blue)](https://github.com/pome-sh/digital-twins/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable Digital Twins of Different APIs For E2E & Agent Simulation Testing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -95,15 +95,15 @@ pome-sh/digital-twins 的价值在于，它可以帮助协调多代理工作流�
 | forks | 8/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 19/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

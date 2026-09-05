@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 571 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Observability
+AI/ML · Communication · Observability
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Tracer-Cloud/opensre：Tracer-Cloud/opensre helps add AI capability without star
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

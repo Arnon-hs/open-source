@@ -1,6 +1,6 @@
 # meteor/meteor
 
-[![Stars](https://img.shields.io/github/stars/meteor/meteor?style=flat-square&color=yellow)](https://github.com/meteor/meteor/stargazers) [![Forks](https://img.shields.io/github/forks/meteor/meteor?style=flat-square&color=blue)](https://github.com/meteor/meteor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meteor/meteor?style=flat-square&color=yellow)](https://github.com/meteor/meteor/stargazers) [![Forks](https://img.shields.io/github/forks/meteor/meteor?style=flat-square&color=blue)](https://github.com/meteor/meteor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Meteor, the JavaScript App Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44.8k |
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend · Backend · Database
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Meteor（meteor/meteor）是一个全栈 JavaScript 应用平台，提供从前�
 | forks | 93/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 84/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 97/100 |
-| production | 63/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

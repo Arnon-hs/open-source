@@ -1,6 +1,6 @@
 # lanyeeee/bilibili-video-downloader
 
-[![Stars](https://img.shields.io/github/stars/lanyeeee/bilibili-video-downloader?style=flat-square&color=yellow)](https://github.com/lanyeeee/bilibili-video-downloader/stargazers) [![Forks](https://img.shields.io/github/forks/lanyeeee/bilibili-video-downloader?style=flat-square&color=blue)](https://github.com/lanyeeee/bilibili-video-downloader/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lanyeeee/bilibili-video-downloader?style=flat-square&color=yellow)](https://github.com/lanyeeee/bilibili-video-downloader/stargazers) [![Forks](https://img.shields.io/github/forks/lanyeeee/bilibili-video-downloader?style=flat-square&color=blue)](https://github.com/lanyeeee/bilibili-video-downloader/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ lanyeeee/bilibili-video-downloader - бесплатный и открытый п
 | forks | 50/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

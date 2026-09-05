@@ -1,6 +1,6 @@
 # mackron/dr_libs
 
-[![Stars](https://img.shields.io/github/stars/mackron/dr_libs?style=flat-square&color=yellow)](https://github.com/mackron/dr_libs/stargazers) [![Forks](https://img.shields.io/github/forks/mackron/dr_libs?style=flat-square&color=blue)](https://github.com/mackron/dr_libs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mackron/dr_libs?style=flat-square&color=yellow)](https://github.com/mackron/dr_libs/stargazers) [![Forks](https://img.shields.io/github/forks/mackron/dr_libs?style=flat-square&color=blue)](https://github.com/mackron/dr_libs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Audio decoding libraries for C/C++, each in a single source file.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ mackron/dr_libs 是一个开源项目，提供了多种音频解码库，每个�
 | forks | 60/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

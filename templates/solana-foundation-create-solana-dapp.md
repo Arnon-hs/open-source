@@ -1,6 +1,6 @@
 # solana-foundation/create-solana-dapp
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/create-solana-dapp?style=flat-square&color=yellow)](https://github.com/solana-foundation/create-solana-dapp/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/create-solana-dapp?style=flat-square&color=blue)](https://github.com/solana-foundation/create-solana-dapp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/create-solana-dapp?style=flat-square&color=yellow)](https://github.com/solana-foundation/create-solana-dapp/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/create-solana-dapp?style=flat-square&color=blue)](https://github.com/solana-foundation/create-solana-dapp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 640 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ solana-foundation/create-solana-dapp 有很高的生产可用性，主要原因�
 | forks | 58/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

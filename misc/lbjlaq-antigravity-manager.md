@@ -1,6 +1,6 @@
 # lbjlaq/Antigravity-Manager
 
-[![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&color=yellow)](https://github.com/lbjlaq/Antigravity-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/lbjlaq/Antigravity-Manager?style=flat-square&color=blue)](https://github.com/lbjlaq/Antigravity-Manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&color=yellow)](https://github.com/lbjlaq/Antigravity-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/lbjlaq/Antigravity-Manager?style=flat-square&color=blue)](https://github.com/lbjlaq/Antigravity-Manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.9k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ lbjlaq/Antigravity-Manager：lbjlaq/Antigravity-Manager helps add AI capability 
 | forks | 88/100 |
 | stars | 95/100 |
 | topics | 25/100 |
-| outlook | 65/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

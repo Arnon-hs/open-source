@@ -1,6 +1,6 @@
 # Akkudoktor-EOS/EOS
 
-[![Stars](https://img.shields.io/github/stars/Akkudoktor-EOS/EOS?style=flat-square&color=yellow)](https://github.com/Akkudoktor-EOS/EOS/stargazers) [![Forks](https://img.shields.io/github/forks/Akkudoktor-EOS/EOS?style=flat-square&color=blue)](https://github.com/Akkudoktor-EOS/EOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Akkudoktor-EOS/EOS?style=flat-square&color=yellow)](https://github.com/Akkudoktor-EOS/EOS/stargazers) [![Forks](https://img.shields.io/github/forks/Akkudoktor-EOS/EOS?style=flat-square&color=blue)](https://github.com/Akkudoktor-EOS/EOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Akkudoktor-EOS/EOS 的价值在于：
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

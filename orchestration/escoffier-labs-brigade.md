@@ -1,6 +1,6 @@
 # escoffier-labs/brigade
 
-[![Stars](https://img.shields.io/github/stars/escoffier-labs/brigade?style=flat-square&color=yellow)](https://github.com/escoffier-labs/brigade/stargazers) [![Forks](https://img.shields.io/github/forks/escoffier-labs/brigade?style=flat-square&color=blue)](https://github.com/escoffier-labs/brigade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/escoffier-labs/brigade?style=flat-square&color=yellow)](https://github.com/escoffier-labs/brigade/stargazers) [![Forks](https://img.shields.io/github/forks/escoffier-labs/brigade?style=flat-square&color=blue)](https://github.com/escoffier-labs/brigade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > One local source for the MCP servers, tools, and memory your AI coding agents share, synced into each tool's native config with a review gate and a receipt for every change. No daemon, no lock-in.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Brigade 的生产可用性较高，主要原因是：
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # fish2018/PG
 
-[![Stars](https://img.shields.io/github/stars/fish2018/PG?style=flat-square&color=yellow)](https://github.com/fish2018/PG/stargazers) [![Forks](https://img.shields.io/github/forks/fish2018/PG?style=flat-square&color=blue)](https://github.com/fish2018/PG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fish2018/PG?style=flat-square&color=yellow)](https://github.com/fish2018/PG/stargazers) [![Forks](https://img.shields.io/github/forks/fish2018/PG?style=flat-square&color=blue)](https://github.com/fish2018/PG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 实时更新PG本地包和在线接口，每10分钟检测一次，内置tgsearch服务器，内置TG网盘资源频道(内容实时转发自70个网盘资源频道/群组)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 538 |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ fish2018/PG 是一个基于 Python 的工具，能够每 10 分钟自动同步�
 | forks | 56/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

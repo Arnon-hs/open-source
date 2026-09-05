@@ -1,6 +1,6 @@
 # Soju06/codex-lb
 
-[![Stars](https://img.shields.io/github/stars/Soju06/codex-lb?style=flat-square&color=yellow)](https://github.com/Soju06/codex-lb/stargazers) [![Forks](https://img.shields.io/github/forks/Soju06/codex-lb?style=flat-square&color=blue)](https://github.com/Soju06/codex-lb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Soju06/codex-lb?style=flat-square&color=yellow)](https://github.com/Soju06/codex-lb/stargazers) [![Forks](https://img.shields.io/github/forks/Soju06/codex-lb?style=flat-square&color=blue)](https://github.com/Soju06/codex-lb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 327 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Networking · Backend · Security
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Soju06/codex-lb 的生产可用性很高，主要原因是：
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

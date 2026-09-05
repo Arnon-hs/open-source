@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

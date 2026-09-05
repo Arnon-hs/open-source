@@ -1,6 +1,6 @@
 # gustavoeenriquez/MakerAi
 
-[![Stars](https://img.shields.io/github/stars/gustavoeenriquez/MakerAi?style=flat-square&color=yellow)](https://github.com/gustavoeenriquez/MakerAi/stargazers) [![Forks](https://img.shields.io/github/forks/gustavoeenriquez/MakerAi?style=flat-square&color=blue)](https://github.com/gustavoeenriquez/MakerAi/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gustavoeenriquez/MakerAi?style=flat-square&color=yellow)](https://github.com/gustavoeenriquez/MakerAi/stargazers) [![Forks](https://img.shields.io/github/forks/gustavoeenriquez/MakerAi?style=flat-square&color=blue)](https://github.com/gustavoeenriquez/MakerAi/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The AI Operating System for Delphi. 100% native framework with RAG 2.0, autonomous agents, MCP protocol, and universal LLM connector. Supports OpenAI, Claude, Gemini, Ollama, and more. Delphi 10.4+ (limited), full support from Delphi 12 Athens.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ MakerAi（gustavoeenriquez/MakerAi）是面向 Delphi 的 AI 操作系统，提�
 | forks | 44/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

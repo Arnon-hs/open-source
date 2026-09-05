@@ -1,6 +1,6 @@
 # cure53/DOMPurify
 
-[![Stars](https://img.shields.io/github/stars/cure53/DOMPurify?style=flat-square&color=yellow)](https://github.com/cure53/DOMPurify/stargazers) [![Forks](https://img.shields.io/github/forks/cure53/DOMPurify?style=flat-square&color=blue)](https://github.com/cure53/DOMPurify/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cure53/DOMPurify?style=flat-square&color=yellow)](https://github.com/cure53/DOMPurify/stargazers) [![Forks](https://img.shields.io/github/forks/cure53/DOMPurify?style=flat-square&color=blue)](https://github.com/cure53/DOMPurify/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.3k |
 | 🍴 **Forks** | 860 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ DOMPurify 的生产可用性非常高。该项目具有：
 | forks | 73/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 83/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

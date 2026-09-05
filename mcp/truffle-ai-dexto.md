@@ -1,6 +1,6 @@
 # truffle-ai/dexto
 
-[![Stars](https://img.shields.io/github/stars/truffle-ai/dexto?style=flat-square&color=yellow)](https://github.com/truffle-ai/dexto/stargazers) [![Forks](https://img.shields.io/github/forks/truffle-ai/dexto?style=flat-square&color=blue)](https://github.com/truffle-ai/dexto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/truffle-ai/dexto?style=flat-square&color=yellow)](https://github.com/truffle-ai/dexto/stargazers) [![Forks](https://img.shields.io/github/forks/truffle-ai/dexto?style=flat-square&color=blue)](https://github.com/truffle-ai/dexto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > A coding agent and general agent harness for building and orchestrating agentic applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 637 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ truffle‑ai/dexto 是一个面向编码与通用任务的智能体框架，提�
 | forks | 46/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

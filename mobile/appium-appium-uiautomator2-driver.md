@@ -1,6 +1,6 @@
 # appium/appium-uiautomator2-driver
 
-[![Stars](https://img.shields.io/github/stars/appium/appium-uiautomator2-driver?style=flat-square&color=yellow)](https://github.com/appium/appium-uiautomator2-driver/stargazers) [![Forks](https://img.shields.io/github/forks/appium/appium-uiautomator2-driver?style=flat-square&color=blue)](https://github.com/appium/appium-uiautomator2-driver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appium/appium-uiautomator2-driver?style=flat-square&color=yellow)](https://github.com/appium/appium-uiautomator2-driver/stargazers) [![Forks](https://img.shields.io/github/forks/appium/appium-uiautomator2-driver?style=flat-square&color=blue)](https://github.com/appium/appium-uiautomator2-driver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Appium driver for Android UIAutomator2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 851 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Appium/UIAutomator2 driver 是一个开源项目，用于为 Android 设备提�
 | forks | 59/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

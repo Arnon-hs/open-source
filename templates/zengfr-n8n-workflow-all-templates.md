@@ -1,6 +1,6 @@
 # zengfr/n8n-workflow-all-templates
 
-[![Stars](https://img.shields.io/github/stars/zengfr/n8n-workflow-all-templates?style=flat-square&color=yellow)](https://github.com/zengfr/n8n-workflow-all-templates/stargazers) [![Forks](https://img.shields.io/github/forks/zengfr/n8n-workflow-all-templates?style=flat-square&color=blue)](https://github.com/zengfr/n8n-workflow-all-templates/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zengfr/n8n-workflow-all-templates?style=flat-square&color=yellow)](https://github.com/zengfr/n8n-workflow-all-templates/stargazers) [![Forks](https://img.shields.io/github/forks/zengfr/n8n-workflow-all-templates?style=flat-square&color=blue)](https://github.com/zengfr/n8n-workflow-all-templates/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 10258+N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.synchronized and updated every 1 months.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ zengfr/n8n-workflow-all-templates：zengfr/n8n-workflow-all-templates helps team
 | forks | 38/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 69/100 |
-| recency | 80/100 |
+| outlook | 69/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

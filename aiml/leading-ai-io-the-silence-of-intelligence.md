@@ -1,6 +1,6 @@
 # Leading-AI-IO/the-silence-of-intelligence
 
-[![Stars](https://img.shields.io/github/stars/Leading-AI-IO/the-silence-of-intelligence?style=flat-square&color=yellow)](https://github.com/Leading-AI-IO/the-silence-of-intelligence/stargazers) [![Forks](https://img.shields.io/github/forks/Leading-AI-IO/the-silence-of-intelligence?style=flat-square&color=blue)](https://github.com/Leading-AI-IO/the-silence-of-intelligence/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leading-AI-IO/the-silence-of-intelligence?style=flat-square&color=yellow)](https://github.com/Leading-AI-IO/the-silence-of-intelligence/stargazers) [![Forks](https://img.shields.io/github/forks/Leading-AI-IO/the-silence-of-intelligence?style=flat-square&color=blue)](https://github.com/Leading-AI-IO/the-silence-of-intelligence/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The Silence of Intelligence — A comprehensive analysis of Anthropic CEO Dario Amodei's philosophy on Scaling Laws, AI safety, and the future of humanity. / Anthropic CEO ダリオ・アモディの思想を体系化したOSS書籍。スケーリング則の本質とAIの未来を解き明かす。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ The Silence of Intelligence 是一个开源项目，旨在分析 Anthropic CEO D
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

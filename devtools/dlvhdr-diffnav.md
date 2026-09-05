@@ -1,6 +1,6 @@
 # dlvhdr/diffnav
 
-[![Stars](https://img.shields.io/github/stars/dlvhdr/diffnav?style=flat-square&color=yellow)](https://github.com/dlvhdr/diffnav/stargazers) [![Forks](https://img.shields.io/github/forks/dlvhdr/diffnav?style=flat-square&color=blue)](https://github.com/dlvhdr/diffnav/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dlvhdr/diffnav?style=flat-square&color=yellow)](https://github.com/dlvhdr/diffnav/stargazers) [![Forks](https://img.shields.io/github/forks/dlvhdr/diffnav?style=flat-square&color=blue)](https://github.com/dlvhdr/diffnav/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A git diff pager based on delta but with a file tree, à la GitHub.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ dlvhdr/diffnav 是一个基于 Delta 实现的 Git diff 分页工具，提供类
 | forks | 39/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

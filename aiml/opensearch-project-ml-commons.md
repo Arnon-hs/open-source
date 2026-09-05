@@ -1,6 +1,6 @@
 # opensearch-project/ml-commons
 
-[![Stars](https://img.shields.io/github/stars/opensearch-project/ml-commons?style=flat-square&color=yellow)](https://github.com/opensearch-project/ml-commons/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/ml-commons?style=flat-square&color=blue)](https://github.com/opensearch-project/ml-commons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensearch-project/ml-commons?style=flat-square&color=yellow)](https://github.com/opensearch-project/ml-commons/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/ml-commons?style=flat-square&color=blue)](https://github.com/opensearch-project/ml-commons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ml-commons provides a set of common machine learning algorithms, e.g. k-means, or linear regression, to help developers build ML related features within OpenSearch.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 212 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ With these steps, teams can safely leverage ml‑commons to add AI features to O
 | forks | 58/100 |
 | stars | 47/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

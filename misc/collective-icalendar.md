@@ -1,6 +1,6 @@
 # collective/icalendar
 
-[![Stars](https://img.shields.io/github/stars/collective/icalendar?style=flat-square&color=yellow)](https://github.com/collective/icalendar/stargazers) [![Forks](https://img.shields.io/github/forks/collective/icalendar?style=flat-square&color=blue)](https://github.com/collective/icalendar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/collective/icalendar?style=flat-square&color=yellow)](https://github.com/collective/icalendar/stargazers) [![Forks](https://img.shields.io/github/forks/collective/icalendar?style=flat-square&color=blue)](https://github.com/collective/icalendar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > icalendar parser library for Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 314 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ collective/icalendar 是一套用 Python 编写的 iCalendar（.ics）文件解�
 | forks | 62/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

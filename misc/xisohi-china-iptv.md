@@ -1,6 +1,6 @@
 # xisohi/CHINA-IPTV
 
-[![Stars](https://img.shields.io/github/stars/xisohi/CHINA-IPTV?style=flat-square&color=yellow)](https://github.com/xisohi/CHINA-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/xisohi/CHINA-IPTV?style=flat-square&color=blue)](https://github.com/xisohi/CHINA-IPTV/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xisohi/CHINA-IPTV?style=flat-square&color=yellow)](https://github.com/xisohi/CHINA-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/xisohi/CHINA-IPTV?style=flat-square&color=blue)](https://github.com/xisohi/CHINA-IPTV/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。  没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源。  注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ xisohi/CHINA-IPTV 是一个开源项目，提供了 IPTV 服务，让用户可�
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

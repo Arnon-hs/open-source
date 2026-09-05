@@ -1,6 +1,6 @@
 # braintree/braintree_ios
 
-[![Stars](https://img.shields.io/github/stars/braintree/braintree_ios?style=flat-square&color=yellow)](https://github.com/braintree/braintree_ios/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_ios?style=flat-square&color=blue)](https://github.com/braintree/braintree_ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braintree/braintree_ios?style=flat-square&color=yellow)](https://github.com/braintree/braintree_ios/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_ios?style=flat-square&color=blue)](https://github.com/braintree/braintree_ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Braintree SDK for iOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 581 |
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Mobile
+Payments · Libraries & SDKs · Mobile
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ Braintree iOS SDK 的生产可用性为中等（Medium），适合用于 prototy
 | forks | 63/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 63/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

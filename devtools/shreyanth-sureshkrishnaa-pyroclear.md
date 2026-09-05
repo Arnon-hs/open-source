@@ -1,6 +1,6 @@
 # shreyanth-sureshkrishnaa/pyroclear
 
-[![Stars](https://img.shields.io/github/stars/shreyanth-sureshkrishnaa/pyroclear?style=flat-square&color=yellow)](https://github.com/shreyanth-sureshkrishnaa/pyroclear/stargazers) [![Forks](https://img.shields.io/github/forks/shreyanth-sureshkrishnaa/pyroclear?style=flat-square&color=blue)](https://github.com/shreyanth-sureshkrishnaa/pyroclear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shreyanth-sureshkrishnaa/pyroclear?style=flat-square&color=yellow)](https://github.com/shreyanth-sureshkrishnaa/pyroclear/stargazers) [![Forks](https://img.shields.io/github/forks/shreyanth-sureshkrishnaa/pyroclear?style=flat-square&color=blue)](https://github.com/shreyanth-sureshkrishnaa/pyroclear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Clear your terminal with a crackling wall of ASCII flames.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ pyroclear 的生产可用性较高，主要原因是：
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

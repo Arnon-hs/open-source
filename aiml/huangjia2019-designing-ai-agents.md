@@ -1,6 +1,6 @@
 # huangjia2019/designing-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/huangjia2019/designing-ai-agents?style=flat-square&color=yellow)](https://github.com/huangjia2019/designing-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/huangjia2019/designing-ai-agents?style=flat-square&color=blue)](https://github.com/huangjia2019/designing-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huangjia2019/designing-ai-agents?style=flat-square&color=yellow)](https://github.com/huangjia2019/designing-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/huangjia2019/designing-ai-agents?style=flat-square&color=blue)](https://github.com/huangjia2019/designing-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Companion code for 'Designing AI Agents' (Manning, 2027) — 27 agent design patterns, organized by the 7 cognitive modules. Chapters 1–5 available.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ To adopt this project, developers should follow these steps:
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

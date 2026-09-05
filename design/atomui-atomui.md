@@ -1,6 +1,6 @@
 # AtomUI/AtomUI
 
-[![Stars](https://img.shields.io/github/stars/AtomUI/AtomUI?style=flat-square&color=yellow)](https://github.com/AtomUI/AtomUI/stargazers) [![Forks](https://img.shields.io/github/forks/AtomUI/AtomUI?style=flat-square&color=blue)](https://github.com/AtomUI/AtomUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AtomUI/AtomUI?style=flat-square&color=yellow)](https://github.com/AtomUI/AtomUI/stargazers) [![Forks](https://img.shields.io/github/forks/AtomUI/AtomUI?style=flat-square&color=blue)](https://github.com/AtomUI/AtomUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AtomUI leverages Avalonia's robust cross-platform capabilities to implement the Ant Design system for .NET, dedicated to delivering its refined design language and efficient user experience to cross-platform desktop application development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 791 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -161,11 +161,11 @@ AtomUI 为 .NET 桌面开发提供了“一站式”Ant Design 解决方案，�
 | forks | 45/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

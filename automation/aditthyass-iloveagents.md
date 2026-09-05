@@ -1,6 +1,6 @@
 # AditthyaSS/iloveAgents
 
-[![Stars](https://img.shields.io/github/stars/AditthyaSS/iloveAgents?style=flat-square&color=yellow)](https://github.com/AditthyaSS/iloveAgents/stargazers) [![Forks](https://img.shields.io/github/forks/AditthyaSS/iloveAgents?style=flat-square&color=blue)](https://github.com/AditthyaSS/iloveAgents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AditthyaSS/iloveAgents?style=flat-square&color=yellow)](https://github.com/AditthyaSS/iloveAgents/stargazers) [![Forks](https://img.shields.io/github/forks/AditthyaSS/iloveAgents?style=flat-square&color=blue)](https://github.com/AditthyaSS/iloveAgents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents worth falling in love with. Built by the community, loved by everyone.❤️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · Productivity · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ AditthyaSS/iloveAgents 是一个社区驱动的 AI Agent 框架，旨在用智�
 | forks | 56/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

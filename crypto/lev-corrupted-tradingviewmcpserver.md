@@ -1,6 +1,6 @@
 # lev-corrupted/TradingViewMCPServer
 
-[![Stars](https://img.shields.io/github/stars/lev-corrupted/TradingViewMCPServer?style=flat-square&color=yellow)](https://github.com/lev-corrupted/TradingViewMCPServer/stargazers) [![Forks](https://img.shields.io/github/forks/lev-corrupted/TradingViewMCPServer?style=flat-square&color=blue)](https://github.com/lev-corrupted/TradingViewMCPServer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lev-corrupted/TradingViewMCPServer?style=flat-square&color=yellow)](https://github.com/lev-corrupted/TradingViewMCPServer/stargazers) [![Forks](https://img.shields.io/github/forks/lev-corrupted/TradingViewMCPServer?style=flat-square&color=blue)](https://github.com/lev-corrupted/TradingViewMCPServer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Professional multi-asset trading & Pine Script development MCP server for Claude. Features: 20+ indicators, Pine Script tools (validator, autocomplete, docs, testing), Forex/Stocks/Crypto support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · MCP · Automation · Backend
+Crypto · Trading · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -107,11 +107,11 @@ lev‑corrupted/TradingViewMCPServer 是一款面向 Claude 的专业多资产�
 | forks | 27/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

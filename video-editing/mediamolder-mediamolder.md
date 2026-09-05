@@ -1,6 +1,6 @@
 # MediaMolder/mediamolder
 
-[![Stars](https://img.shields.io/github/stars/MediaMolder/mediamolder?style=flat-square&color=yellow)](https://github.com/MediaMolder/mediamolder/stargazers) [![Forks](https://img.shields.io/github/forks/MediaMolder/mediamolder?style=flat-square&color=blue)](https://github.com/MediaMolder/mediamolder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MediaMolder/mediamolder?style=flat-square&color=yellow)](https://github.com/MediaMolder/mediamolder/stargazers) [![Forks](https://img.shields.io/github/forks/MediaMolder/mediamolder?style=flat-square&color=blue)](https://github.com/MediaMolder/mediamolder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A redesign of FFmpeg for the AI era. React GUI. Custom AI integrations including YOLOv8 object and face detection, Whisper, Vidi2.5.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ MediaMolder/mediamolder 的生产可用性为中等（Medium）。它适合用�
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

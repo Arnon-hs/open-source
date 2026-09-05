@@ -1,6 +1,6 @@
 # yzfly/TokenCode
 
-[![Stars](https://img.shields.io/github/stars/yzfly/TokenCode?style=flat-square&color=yellow)](https://github.com/yzfly/TokenCode/stargazers) [![Forks](https://img.shields.io/github/forks/yzfly/TokenCode?style=flat-square&color=blue)](https://github.com/yzfly/TokenCode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzfly/TokenCode?style=flat-square&color=yellow)](https://github.com/yzfly/TokenCode/stargazers) [![Forks](https://img.shields.io/github/forks/yzfly/TokenCode?style=flat-square&color=blue)](https://github.com/yzfly/TokenCode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 为 Token 燃烧而生：token 越来越便宜，质量永远稀缺——与其省 token，不如把它当燃料烧。同一道题派最多 1000 个 agent 并行竞赛、裁判择优，用冗余换质量。Go 写的开源终端 Coding Agent，类 Claude Code，可接入任意模型，对团队友好。 | Born to burn tokens — they get cheaper, quality stays scarce. A Go terminal coding agent that races up to 1,000 agents in parallel and keeps the best. Claude Code-style, any model, team-ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ TokenCode 已具备可在内部或面向团队的生产环境中使用的基本�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # bochs-emu/Bochs
 
-[![Stars](https://img.shields.io/github/stars/bochs-emu/Bochs?style=flat-square&color=yellow)](https://github.com/bochs-emu/Bochs/stargazers) [![Forks](https://img.shields.io/github/forks/bochs-emu/Bochs?style=flat-square&color=blue)](https://github.com/bochs-emu/Bochs/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bochs-emu/Bochs?style=flat-square&color=yellow)](https://github.com/bochs-emu/Bochs/stargazers) [![Forks](https://img.shields.io/github/forks/bochs-emu/Bochs?style=flat-square&color=blue)](https://github.com/bochs-emu/Bochs/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Bochs - Cross Platform x86 Emulator Project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Bochs 是一款跨平台的 x86 硬件仿真器，使用 C++ 实现，可在 Win
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

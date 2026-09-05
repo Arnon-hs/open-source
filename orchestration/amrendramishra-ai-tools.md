@@ -1,6 +1,6 @@
 # amrendramishra/ai-tools
 
-[![Stars](https://img.shields.io/github/stars/amrendramishra/ai-tools?style=flat-square&color=yellow)](https://github.com/amrendramishra/ai-tools/stargazers) [![Forks](https://img.shields.io/github/forks/amrendramishra/ai-tools?style=flat-square&color=blue)](https://github.com/amrendramishra/ai-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amrendramishra/ai-tools?style=flat-square&color=yellow)](https://github.com/amrendramishra/ai-tools/stargazers) [![Forks](https://img.shields.io/github/forks/amrendramishra/ai-tools?style=flat-square&color=blue)](https://github.com/amrendramishra/ai-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > My collection of 30 AI-powered tools built with Ollama, LangChain, and MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · MCP
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -66,15 +66,15 @@ amrendramishra/ai-tools：amrendramishra/ai-tools helps turn isolated prompts an
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 38/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 33/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 60/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

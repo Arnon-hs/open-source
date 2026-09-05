@@ -1,6 +1,6 @@
 # open-compass/opencompass
 
-[![Stars](https://img.shields.io/github/stars/open-compass/opencompass?style=flat-square&color=yellow)](https://github.com/open-compass/opencompass/stargazers) [![Forks](https://img.shields.io/github/forks/open-compass/opencompass?style=flat-square&color=blue)](https://github.com/open-compass/opencompass/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-compass/opencompass?style=flat-square&color=yellow)](https://github.com/open-compass/opencompass/stargazers) [![Forks](https://img.shields.io/github/forks/open-compass/opencompass?style=flat-square&color=blue)](https://github.com/open-compass/opencompass/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 778 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ OpenCompass（open-compass/opencompass）是一个面向大语言模型（LLM）
 | forks | 72/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

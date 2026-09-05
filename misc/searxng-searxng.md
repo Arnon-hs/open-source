@@ -1,6 +1,6 @@
 # searxng/searxng
 
-[![Stars](https://img.shields.io/github/stars/searxng/searxng?style=flat-square&color=yellow)](https://github.com/searxng/searxng/stargazers) [![Forks](https://img.shields.io/github/forks/searxng/searxng?style=flat-square&color=blue)](https://github.com/searxng/searxng/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/searxng/searxng?style=flat-square&color=yellow)](https://github.com/searxng/searxng/stargazers) [![Forks](https://img.shields.io/github/forks/searxng/searxng?style=flat-square&color=blue)](https://github.com/searxng/searxng/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33.1k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ SearXNG 是一款开源的互联网元搜索引擎，能够聚合多个搜索服
 | forks | 87/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

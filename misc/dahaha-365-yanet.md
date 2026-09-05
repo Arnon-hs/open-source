@@ -1,6 +1,6 @@
 # dahaha-365/YaNet
 
-[![Stars](https://img.shields.io/github/stars/dahaha-365/YaNet?style=flat-square&color=yellow)](https://github.com/dahaha-365/YaNet/stargazers) [![Forks](https://img.shields.io/github/forks/dahaha-365/YaNet?style=flat-square&color=blue)](https://github.com/dahaha-365/YaNet/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dahaha-365/YaNet?style=flat-square&color=yellow)](https://github.com/dahaha-365/YaNet/stargazers) [![Forks](https://img.shields.io/github/forks/dahaha-365/YaNet?style=flat-square&color=blue)](https://github.com/dahaha-365/YaNet/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another Internet. Mihomo覆写脚本
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 636 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ YaNet（dahaha-365/YaNet）是一套基于 Mihomo 的覆盖脚本，旨在为前
 | forks | 46/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

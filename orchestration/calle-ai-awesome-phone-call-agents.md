@@ -1,6 +1,6 @@
 # CALLE-AI/awesome-phone-call-agents
 
-[![Stars](https://img.shields.io/github/stars/CALLE-AI/awesome-phone-call-agents?style=flat-square&color=yellow)](https://github.com/CALLE-AI/awesome-phone-call-agents/stargazers) [![Forks](https://img.shields.io/github/forks/CALLE-AI/awesome-phone-call-agents?style=flat-square&color=blue)](https://github.com/CALLE-AI/awesome-phone-call-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CALLE-AI/awesome-phone-call-agents?style=flat-square&color=yellow)](https://github.com/CALLE-AI/awesome-phone-call-agents/stargazers) [![Forks](https://img.shields.io/github/forks/CALLE-AI/awesome-phone-call-agents?style=flat-square&color=blue)](https://github.com/CALLE-AI/awesome-phone-call-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Portable phone-call Agent Skills, apps, examples, adapters, and scheduler recipes for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ CALLE-AI/awesome-phone-call-agents 的价值在于，它可以帮助开发者协
 | forks | 30/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 44/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

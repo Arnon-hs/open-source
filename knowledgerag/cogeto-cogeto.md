@@ -1,6 +1,6 @@
 # Cogeto/cogeto
 
-[![Stars](https://img.shields.io/github/stars/Cogeto/cogeto?style=flat-square&color=yellow)](https://github.com/Cogeto/cogeto/stargazers) [![Forks](https://img.shields.io/github/forks/Cogeto/cogeto?style=flat-square&color=blue)](https://github.com/Cogeto/cogeto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cogeto/cogeto?style=flat-square&color=yellow)](https://github.com/Cogeto/cogeto/stargazers) [![Forks](https://img.shields.io/github/forks/Cogeto/cogeto?style=flat-square&color=blue)](https://github.com/Cogeto/cogeto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Private, EU-hosted AI memory you can inspect, correct, and provably delete — every trust claim backed by an inspectable artifact. AGPLv3.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
@@ -97,15 +97,15 @@ Cogeto/cogeto 的生产可用性为中等（Medium），适合用于原型或内
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

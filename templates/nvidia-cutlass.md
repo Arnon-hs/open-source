@@ -1,6 +1,6 @@
 # NVIDIA/cutlass
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/cutlass?style=flat-square&color=yellow)](https://github.com/NVIDIA/cutlass/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cutlass?style=flat-square&color=blue)](https://github.com/NVIDIA/cutlass/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/cutlass?style=flat-square&color=yellow)](https://github.com/NVIDIA/cutlass/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cutlass?style=flat-square&color=blue)](https://github.com/NVIDIA/cutlass/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > CUDA Templates and Python DSLs for High-Performance Linear Algebra
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates
+Templates · AI/ML
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ NVIDIA/cutlass 的生产可用性非常高，主要原因是：
 | forks | 82/100 |
 | stars | 85/100 |
 | topics | 88/100 |
-| outlook | 65/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nhaouari/obsidian-textgenerator-plugin
 
-[![Stars](https://img.shields.io/github/stars/nhaouari/obsidian-textgenerator-plugin?style=flat-square&color=yellow)](https://github.com/nhaouari/obsidian-textgenerator-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/nhaouari/obsidian-textgenerator-plugin?style=flat-square&color=blue)](https://github.com/nhaouari/obsidian-textgenerator-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nhaouari/obsidian-textgenerator-plugin?style=flat-square&color=yellow)](https://github.com/nhaouari/obsidian-textgenerator-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/nhaouari/obsidian-textgenerator-plugin?style=flat-square&color=blue)](https://github.com/nhaouari/obsidian-textgenerator-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ nhaouari/obsidian‑textgenerator‑plugin 为 Obsidian 带来即插即用的 AI
 | forks | 56/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # grafana/docker-otel-lgtm
 
-[![Stars](https://img.shields.io/github/stars/grafana/docker-otel-lgtm?style=flat-square&color=yellow)](https://github.com/grafana/docker-otel-lgtm/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/docker-otel-lgtm?style=flat-square&color=blue)](https://github.com/grafana/docker-otel-lgtm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/docker-otel-lgtm?style=flat-square&color=yellow)](https://github.com/grafana/docker-otel-lgtm/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/docker-otel-lgtm?style=flat-square&color=blue)](https://github.com/grafana/docker-otel-lgtm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An OpenTelemetry backend in a Docker container image
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -125,11 +125,11 @@ Grafana/docker-otel-lgtm 的价值在于，它可以帮助开发者:
 | forks | 58/100 |
 | stars | 70/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

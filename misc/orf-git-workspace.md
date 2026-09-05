@@ -1,6 +1,6 @@
 # orf/git-workspace
 
-[![Stars](https://img.shields.io/github/stars/orf/git-workspace?style=flat-square&color=yellow)](https://github.com/orf/git-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/orf/git-workspace?style=flat-square&color=blue)](https://github.com/orf/git-workspace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orf/git-workspace?style=flat-square&color=yellow)](https://github.com/orf/git-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/orf/git-workspace?style=flat-square&color=blue)](https://github.com/orf/git-workspace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Sync personal and work git repositories from multiple providers :rocket:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ orf/git-workspace 的价值在于，它可以帮助您管理来自多个提供�
 | forks | 35/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

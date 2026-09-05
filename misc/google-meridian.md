@@ -1,6 +1,6 @@
 # google/meridian
 
-[![Stars](https://img.shields.io/github/stars/google/meridian?style=flat-square&color=yellow)](https://github.com/google/meridian/stargazers) [![Forks](https://img.shields.io/github/forks/google/meridian?style=flat-square&color=blue)](https://github.com/google/meridian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/meridian?style=flat-square&color=yellow)](https://github.com/google/meridian/stargazers) [![Forks](https://img.shields.io/github/forks/google/meridian?style=flat-square&color=blue)](https://github.com/google/meridian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Meridian（google/meridian）是 Google 开源的 MMM（Marketing Mix Modeling�
 | forks | 61/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

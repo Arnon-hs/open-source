@@ -1,6 +1,6 @@
 # wladradchenko/wunjo.wladradchenko.ru
 
-[![Stars](https://img.shields.io/github/stars/wladradchenko/wunjo.wladradchenko.ru?style=flat-square&color=yellow)](https://github.com/wladradchenko/wunjo.wladradchenko.ru/stargazers) [![Forks](https://img.shields.io/github/forks/wladradchenko/wunjo.wladradchenko.ru?style=flat-square&color=blue)](https://github.com/wladradchenko/wunjo.wladradchenko.ru/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wladradchenko/wunjo.wladradchenko.ru?style=flat-square&color=yellow)](https://github.com/wladradchenko/wunjo.wladradchenko.ru/stargazers) [![Forks](https://img.shields.io/github/forks/wladradchenko/wunjo.wladradchenko.ru?style=flat-square&color=blue)](https://github.com/wladradchenko/wunjo.wladradchenko.ru/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Wunjo CE: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ wladradchenko/wunjo.wladradchenko.ru：wladradchenko/wunjo.wladradchenko.ru help
 | forks | 52/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

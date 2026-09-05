@@ -1,6 +1,6 @@
 # EffortlessMetrics/perl-lsp-swarm
 
-[![Stars](https://img.shields.io/github/stars/EffortlessMetrics/perl-lsp-swarm?style=flat-square&color=yellow)](https://github.com/EffortlessMetrics/perl-lsp-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/EffortlessMetrics/perl-lsp-swarm?style=flat-square&color=blue)](https://github.com/EffortlessMetrics/perl-lsp-swarm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EffortlessMetrics/perl-lsp-swarm?style=flat-square&color=yellow)](https://github.com/EffortlessMetrics/perl-lsp-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/EffortlessMetrics/perl-lsp-swarm?style=flat-square&color=blue)](https://github.com/EffortlessMetrics/perl-lsp-swarm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 34/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -64,15 +64,15 @@ EffortlessMetrics/perl-lsp-swarm：EffortlessMetrics/perl-lsp-swarm may be usefu
 | forks | 8/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 36/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 2/100 |
-| production | 54/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

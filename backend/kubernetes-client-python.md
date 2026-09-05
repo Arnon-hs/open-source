@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevOps/Infra
+Backend · Libraries & SDKs · DevOps/Infra
 
 ## 📝 Summary
 
@@ -111,7 +111,7 @@ kubernetes-client/python 是 Kubernetes 的官方 Python 客户端库，帮助�
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

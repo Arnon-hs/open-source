@@ -1,6 +1,6 @@
 # anza-xyz/kit
 
-[![Stars](https://img.shields.io/github/stars/anza-xyz/kit?style=flat-square&color=yellow)](https://github.com/anza-xyz/kit/stargazers) [![Forks](https://img.shields.io/github/forks/anza-xyz/kit?style=flat-square&color=blue)](https://github.com/anza-xyz/kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anza-xyz/kit?style=flat-square&color=yellow)](https://github.com/anza-xyz/kit/stargazers) [![Forks](https://img.shields.io/github/forks/anza-xyz/kit?style=flat-square&color=blue)](https://github.com/anza-xyz/kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Solana JavaScript SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 682 |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ Anza‑XYZ/kit 是面向 Solana 的 TypeScript/JavaScript SDK，提供完整的 
 | forks | 56/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 48/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

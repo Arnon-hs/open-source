@@ -1,6 +1,6 @@
 # RicardoGEsteves/omniscient
 
-[![Stars](https://img.shields.io/github/stars/RicardoGEsteves/omniscient?style=flat-square&color=yellow)](https://github.com/RicardoGEsteves/omniscient/stargazers) [![Forks](https://img.shields.io/github/forks/RicardoGEsteves/omniscient?style=flat-square&color=blue)](https://github.com/RicardoGEsteves/omniscient/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RicardoGEsteves/omniscient?style=flat-square&color=yellow)](https://github.com/RicardoGEsteves/omniscient/stargazers) [![Forks](https://img.shields.io/github/forks/RicardoGEsteves/omniscient?style=flat-square&color=blue)](https://github.com/RicardoGEsteves/omniscient/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless experience for code generation, conversation simulation, image creation, music composition, and video generation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · Payments · Frontend · Database
+Content Creation · Payments · AI/ML · Documents · Frontend
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ RicardoGEsteves/omniscient 是一套面向 SaaS 的全栈 AI 平台，采用 Typ
 | forks | 32/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

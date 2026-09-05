@@ -1,6 +1,6 @@
 # AzurIce/ranim
 
-[![Stars](https://img.shields.io/github/stars/AzurIce/ranim?style=flat-square&color=yellow)](https://github.com/AzurIce/ranim/stargazers) [![Forks](https://img.shields.io/github/forks/AzurIce/ranim?style=flat-square&color=blue)](https://github.com/AzurIce/ranim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AzurIce/ranim?style=flat-square&color=yellow)](https://github.com/AzurIce/ranim/stargazers) [![Forks](https://img.shields.io/github/forks/AzurIce/ranim?style=flat-square&color=blue)](https://github.com/AzurIce/ranim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An animation engine implemented in rust, inspired by manim and JAnim
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 624 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ AzurIce/ranim 的生产可用性为中等，适合用于原型或内部工作流
 | forks | 39/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

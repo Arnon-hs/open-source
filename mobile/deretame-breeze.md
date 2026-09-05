@@ -1,6 +1,6 @@
 # deretame/Breeze
 
-[![Stars](https://img.shields.io/github/stars/deretame/Breeze?style=flat-square&color=yellow)](https://github.com/deretame/Breeze/stargazers) [![Forks](https://img.shields.io/github/forks/deretame/Breeze?style=flat-square&color=blue)](https://github.com/deretame/Breeze/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deretame/Breeze?style=flat-square&color=yellow)](https://github.com/deretame/Breeze/stargazers) [![Forks](https://img.shields.io/github/forks/deretame/Breeze?style=flat-square&color=blue)](https://github.com/deretame/Breeze/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Breeze 是一款使用flutter构建的漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai，nhentai再漫画，拷贝漫画，NoyAcg，komiic，包子漫画，绅士漫画。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Breeze 将 Flutter 打造成轻量级的漫画阅读器框架，并通过插件�
 | forks | 42/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

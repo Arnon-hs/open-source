@@ -1,6 +1,6 @@
 # apple/containerization
 
-[![Stars](https://img.shields.io/github/stars/apple/containerization?style=flat-square&color=yellow)](https://github.com/apple/containerization/stargazers) [![Forks](https://img.shields.io/github/forks/apple/containerization?style=flat-square&color=blue)](https://github.com/apple/containerization/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apple/containerization?style=flat-square&color=yellow)](https://github.com/apple/containerization/stargazers) [![Forks](https://img.shields.io/github/forks/apple/containerization?style=flat-square&color=blue)](https://github.com/apple/containerization/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Containerization is a Swift package for running Linux containers on macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 330 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ apple/containerization 的生产可用性为中等。它适合用于快速 proto
 | forks | 63/100 |
 | stars | 84/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

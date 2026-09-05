@@ -1,6 +1,6 @@
 # mlcommons/inference
 
-[![Stars](https://img.shields.io/github/stars/mlcommons/inference?style=flat-square&color=yellow)](https://github.com/mlcommons/inference/stargazers) [![Forks](https://img.shields.io/github/forks/mlcommons/inference?style=flat-square&color=blue)](https://github.com/mlcommons/inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlcommons/inference?style=flat-square&color=yellow)](https://github.com/mlcommons/inference/stargazers) [![Forks](https://img.shields.io/github/forks/mlcommons/inference?style=flat-square&color=blue)](https://github.com/mlcommons/inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Reference implementations of MLPerf® inference benchmarks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 644 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ mlcommons/inference 的生产可用性为中等。它适合用于内部工作流
 | forks | 70/100 |
 | stars | 68/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 372 |
 | 💻 **Language** | CSS |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ LemmyNet/lemmy-ui：LemmyNet/lemmy-ui helps ship user-facing interfaces with les
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

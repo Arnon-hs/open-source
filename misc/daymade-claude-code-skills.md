@@ -1,6 +1,6 @@
 # daymade/claude-code-skills
 
-[![Stars](https://img.shields.io/github/stars/daymade/claude-code-skills?style=flat-square&color=yellow)](https://github.com/daymade/claude-code-skills/stargazers) [![Forks](https://img.shields.io/github/forks/daymade/claude-code-skills?style=flat-square&color=blue)](https://github.com/daymade/claude-code-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daymade/claude-code-skills?style=flat-square&color=yellow)](https://github.com/daymade/claude-code-skills/stargazers) [![Forks](https://img.shields.io/github/forks/daymade/claude-code-skills?style=flat-square&color=blue)](https://github.com/daymade/claude-code-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 212 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ project 的生产可用性为中等（Medium），适合用于原型或内部工
 | forks | 58/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

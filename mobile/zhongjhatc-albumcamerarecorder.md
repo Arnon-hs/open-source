@@ -1,6 +1,6 @@
 # zhongjhATC/AlbumCameraRecorder
 
-[![Stars](https://img.shields.io/github/stars/zhongjhATC/AlbumCameraRecorder?style=flat-square&color=yellow)](https://github.com/zhongjhATC/AlbumCameraRecorder/stargazers) [![Forks](https://img.shields.io/github/forks/zhongjhATC/AlbumCameraRecorder?style=flat-square&color=blue)](https://github.com/zhongjhATC/AlbumCameraRecorder/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhongjhATC/AlbumCameraRecorder?style=flat-square&color=yellow)](https://github.com/zhongjhATC/AlbumCameraRecorder/stargazers) [![Forks](https://img.shields.io/github/forks/zhongjhATC/AlbumCameraRecorder?style=flat-square&color=blue)](https://github.com/zhongjhATC/AlbumCameraRecorder/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥一个高效的多媒体支持操作库，可多方面的简单配置操作相册、拍照、录制、录音等功能。也支持配套使用的展示图片、视频、音频的九宫格功能。 （An efficient multimedia support operation library, can be a variety of simple configuration operation album, photo, recording, recording and other functions.Also support supporting the use of the display of pictures, video, audio of the nine grid function.）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ zhongjhATC/AlbumCameraRecorder是一个高效的多媒体支持操作库，提�
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

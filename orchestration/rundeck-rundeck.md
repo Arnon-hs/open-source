@@ -1,6 +1,6 @@
 # rundeck/rundeck
 
-[![Stars](https://img.shields.io/github/stars/rundeck/rundeck?style=flat-square&color=yellow)](https://github.com/rundeck/rundeck/stargazers) [![Forks](https://img.shields.io/github/forks/rundeck/rundeck?style=flat-square&color=blue)](https://github.com/rundeck/rundeck/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rundeck/rundeck?style=flat-square&color=yellow)](https://github.com/rundeck/rundeck/stargazers) [![Forks](https://img.shields.io/github/forks/rundeck/rundeck?style=flat-square&color=blue)](https://github.com/rundeck/rundeck/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 978 |
 | 💻 **Language** | Groovy |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation
+Orchestration · Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ Rundeck（rundeck/rundeck）是一款开源的自助运维平台，能够把分�
 | forks | 75/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

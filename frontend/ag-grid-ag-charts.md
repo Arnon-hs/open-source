@@ -1,6 +1,6 @@
 # ag-grid/ag-charts
 
-[![Stars](https://img.shields.io/github/stars/ag-grid/ag-charts?style=flat-square&color=yellow)](https://github.com/ag-grid/ag-charts/stargazers) [![Forks](https://img.shields.io/github/forks/ag-grid/ag-charts?style=flat-square&color=blue)](https://github.com/ag-grid/ag-charts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ag-grid/ag-charts?style=flat-square&color=yellow)](https://github.com/ag-grid/ag-charts/stargazers) [![Forks](https://img.shields.io/github/forks/ag-grid/ag-charts?style=flat-square&color=blue)](https://github.com/ag-grid/ag-charts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ AG Charts 是一款功能完整、可高度定制的 JavaScript 图表库，专�
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

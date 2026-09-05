@@ -1,6 +1,6 @@
 # TheAcharya/MarkersExtractor
 
-[![Stars](https://img.shields.io/github/stars/TheAcharya/MarkersExtractor?style=flat-square&color=yellow)](https://github.com/TheAcharya/MarkersExtractor/stargazers) [![Forks](https://img.shields.io/github/forks/TheAcharya/MarkersExtractor?style=flat-square&color=blue)](https://github.com/TheAcharya/MarkersExtractor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheAcharya/MarkersExtractor?style=flat-square&color=yellow)](https://github.com/TheAcharya/MarkersExtractor/stargazers) [![Forks](https://img.shields.io/github/forks/TheAcharya/MarkersExtractor?style=flat-square&color=blue)](https://github.com/TheAcharya/MarkersExtractor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Extract Markers from Final Cut Pro FCPXML
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ TheAcharya/MarkersExtractor：TheAcharya/MarkersExtractor helps turn media editi
 | forks | 17/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # samber/awesome-prometheus-alerts
 
-[![Stars](https://img.shields.io/github/stars/samber/awesome-prometheus-alerts?style=flat-square&color=yellow)](https://github.com/samber/awesome-prometheus-alerts/stargazers) [![Forks](https://img.shields.io/github/forks/samber/awesome-prometheus-alerts?style=flat-square&color=blue)](https://github.com/samber/awesome-prometheus-alerts/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samber/awesome-prometheus-alerts?style=flat-square&color=yellow)](https://github.com/samber/awesome-prometheus-alerts/stargazers) [![Forks](https://img.shields.io/github/forks/samber/awesome-prometheus-alerts?style=flat-square&color=blue)](https://github.com/samber/awesome-prometheus-alerts/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🚨 Collection of Prometheus alerting rules
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.1k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ samber/awesome-prometheus-alerts 是一个开源项目，提供了 Prometheus al
 | forks | 77/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

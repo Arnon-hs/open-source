@@ -1,6 +1,6 @@
 # sergey-zhuravel/ClaudePulse
 
-[![Stars](https://img.shields.io/github/stars/sergey-zhuravel/ClaudePulse?style=flat-square&color=yellow)](https://github.com/sergey-zhuravel/ClaudePulse/stargazers) [![Forks](https://img.shields.io/github/forks/sergey-zhuravel/ClaudePulse?style=flat-square&color=blue)](https://github.com/sergey-zhuravel/ClaudePulse/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sergey-zhuravel/ClaudePulse?style=flat-square&color=yellow)](https://github.com/sergey-zhuravel/ClaudePulse/stargazers) [![Forks](https://img.shields.io/github/forks/sergey-zhuravel/ClaudePulse?style=flat-square&color=blue)](https://github.com/sergey-zhuravel/ClaudePulse/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A native macOS menu-bar app that displays Claude Code usage in real time
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ ClaudePulse 的生产可用性为中等（Medium）。它适合用于原型开�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 88/100 |
-| outlook | 53/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

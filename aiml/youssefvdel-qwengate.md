@@ -1,6 +1,6 @@
 # youssefvdel/qwengate
 
-[![Stars](https://img.shields.io/github/stars/youssefvdel/qwengate?style=flat-square&color=yellow)](https://github.com/youssefvdel/qwengate/stargazers) [![Forks](https://img.shields.io/github/forks/youssefvdel/qwengate?style=flat-square&color=blue)](https://github.com/youssefvdel/qwengate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/youssefvdel/qwengate?style=flat-square&color=yellow)](https://github.com/youssefvdel/qwengate/stargazers) [![Forks](https://img.shields.io/github/forks/youssefvdel/qwengate?style=flat-square&color=blue)](https://github.com/youssefvdel/qwengate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Drop-in OpenAI-compatible API gateway for Qwen AI models. Use your Qwen account (chat.qwen.ai) as a free AI API provider in any OpenAI-compatible client — Cursor, Continue.dev, Claude Code, VS Code Copilot, or any coding agent. Self-hosted, Chromium-based auth, streaming support, tool calling, dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Communication · Networking · Backend · Security
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ youssefvdel/qwengate 的生产可用性高，主要原因是：
 | forks | 38/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

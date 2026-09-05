@@ -1,6 +1,6 @@
 # wp-cli/wp-cli
 
-[![Stars](https://img.shields.io/github/stars/wp-cli/wp-cli?style=flat-square&color=yellow)](https://github.com/wp-cli/wp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/wp-cli?style=flat-square&color=blue)](https://github.com/wp-cli/wp-cli/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wp-cli/wp-cli?style=flat-square&color=yellow)](https://github.com/wp-cli/wp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/wp-cli?style=flat-square&color=blue)](https://github.com/wp-cli/wp-cli/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > ⚙️ WP-CLI framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ wp-cli/wp-cli 是 WordPress 官方维护的命令行工具框架，提供完整�
 | forks | 75/100 |
 | stars | 79/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

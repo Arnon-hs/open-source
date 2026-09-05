@@ -1,6 +1,6 @@
 # SignTools/SignTools
 
-[![Stars](https://img.shields.io/github/stars/SignTools/SignTools?style=flat-square&color=yellow)](https://github.com/SignTools/SignTools/stargazers) [![Forks](https://img.shields.io/github/forks/SignTools/SignTools?style=flat-square&color=blue)](https://github.com/SignTools/SignTools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SignTools/SignTools?style=flat-square&color=yellow)](https://github.com/SignTools/SignTools/stargazers) [![Forks](https://img.shields.io/github/forks/SignTools/SignTools?style=flat-square&color=blue)](https://github.com/SignTools/SignTools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > ✒ A free, self-hosted platform to sideload iOS apps without a computer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 269 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ SignTools/SignTools 的生产可用性非常高，因为它有：
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

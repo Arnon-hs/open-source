@@ -1,6 +1,6 @@
 # jmcollin78/versatile_thermostat
 
-[![Stars](https://img.shields.io/github/stars/jmcollin78/versatile_thermostat?style=flat-square&color=yellow)](https://github.com/jmcollin78/versatile_thermostat/stargazers) [![Forks](https://img.shields.io/github/forks/jmcollin78/versatile_thermostat?style=flat-square&color=blue)](https://github.com/jmcollin78/versatile_thermostat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmcollin78/versatile_thermostat?style=flat-square&color=yellow)](https://github.com/jmcollin78/versatile_thermostat/stargazers) [![Forks](https://img.shields.io/github/forks/jmcollin78/versatile_thermostat?style=flat-square&color=blue)](https://github.com/jmcollin78/versatile_thermostat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ jmcollin78/versatile_thermostat 的生产可用性非常高，主要原因是：
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 64/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

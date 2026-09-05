@@ -1,6 +1,6 @@
 # ceilf6/FrontAgent
 
-[![Stars](https://img.shields.io/github/stars/ceilf6/FrontAgent?style=flat-square&color=yellow)](https://github.com/ceilf6/FrontAgent/stargazers) [![Forks](https://img.shields.io/github/forks/ceilf6/FrontAgent?style=flat-square&color=blue)](https://github.com/ceilf6/FrontAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ceilf6/FrontAgent?style=flat-square&color=yellow)](https://github.com/ceilf6/FrontAgent/stargazers) [![Forks](https://img.shields.io/github/forks/ceilf6/FrontAgent?style=flat-square&color=blue)](https://github.com/ceilf6/FrontAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Frontend AI coding agent platform with CLI, VS Code extension, desktop app, MCP server, RAG planning, Skills, SDD guardrails, browser automation, and LoRA planner models | 面向前端工程的 AI Agent 平台，支持 CLI、VS Code 插件、桌面端、MCP 服务、RAG、Skills、SDD、浏览器自动化与 LoRA 规划模型
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Frontend
+MCP · Knowledge/RAG · Automation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -98,11 +98,11 @@ ceilf6/FrontAgent 支持多种接入方式，包括：
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

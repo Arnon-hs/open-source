@@ -1,6 +1,6 @@
 # AIPAYagent/aipay-protocol
 
-[![Stars](https://img.shields.io/github/stars/AIPAYagent/aipay-protocol?style=flat-square&color=yellow)](https://github.com/AIPAYagent/aipay-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/AIPAYagent/aipay-protocol?style=flat-square&color=blue)](https://github.com/AIPAYagent/aipay-protocol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AIPAYagent/aipay-protocol?style=flat-square&color=yellow)](https://github.com/AIPAYagent/aipay-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/AIPAYagent/aipay-protocol?style=flat-square&color=blue)](https://github.com/AIPAYagent/aipay-protocol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Verifier-backed USDC escrow for AI agents: signed orders, evidence hashes, Polygon deposits, and deterministic settlement.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ AIPAYagent/aipay-protocol 帮助开发者构建 Web3 工作流程，检查区块
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

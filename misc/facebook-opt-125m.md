@@ -1,6 +1,6 @@
 # facebook/opt-125m
 
-[![Stars](https://img.shields.io/github/stars/facebook/opt-125m?style=flat-square&color=yellow)](https://huggingface.co/facebook/opt-125m/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/opt-125m?style=flat-square&color=blue)](https://huggingface.co/facebook/opt-125m/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/opt-125m?style=flat-square&color=yellow)](https://huggingface.co/facebook/opt-125m/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/opt-125m?style=flat-square&color=blue)](https://huggingface.co/facebook/opt-125m/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Text generation (text-generation) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ facebook/opt-125m 的价值在于，它可以帮助开发者快速添加 AI 能�
 | forks | 0/100 |
 | stars | 52/100 |
 | topics | 38/100 |
-| outlook | 36/100 |
-| quality | 38/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

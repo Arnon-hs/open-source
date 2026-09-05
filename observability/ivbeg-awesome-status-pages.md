@@ -1,6 +1,6 @@
 # ivbeg/awesome-status-pages
 
-[![Stars](https://img.shields.io/github/stars/ivbeg/awesome-status-pages?style=flat-square&color=yellow)](https://github.com/ivbeg/awesome-status-pages/stargazers) [![Forks](https://img.shields.io/github/forks/ivbeg/awesome-status-pages?style=flat-square&color=blue)](https://github.com/ivbeg/awesome-status-pages/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivbeg/awesome-status-pages?style=flat-square&color=yellow)](https://github.com/ivbeg/awesome-status-pages/stargazers) [![Forks](https://img.shields.io/github/forks/ivbeg/awesome-status-pages?style=flat-square&color=blue)](https://github.com/ivbeg/awesome-status-pages/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome list of status page open source software, services and public status pages of major internet companies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ ivbeg/awesome-status-pages 帮助生产行为更容易被检查和调试，通�
 | forks | 61/100 |
 | stars | 76/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # trane-project/trane
 
-[![Stars](https://img.shields.io/github/stars/trane-project/trane?style=flat-square&color=yellow)](https://github.com/trane-project/trane/stargazers) [![Forks](https://img.shields.io/github/forks/trane-project/trane?style=flat-square&color=blue)](https://github.com/trane-project/trane/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trane-project/trane?style=flat-square&color=yellow)](https://github.com/trane-project/trane/stargazers) [![Forks](https://img.shields.io/github/forks/trane-project/trane?style=flat-square&color=blue)](https://github.com/trane-project/trane/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A deliberate practice engine for mastering complex skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 844 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Trane 是一个基于 Rust 的刻意练习引擎，能够从可运行的代码�
 | forks | 31/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 57/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

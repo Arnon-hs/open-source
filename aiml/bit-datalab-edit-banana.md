@@ -1,6 +1,6 @@
 # BIT-DataLab/Edit-Banana
 
-[![Stars](https://img.shields.io/github/stars/BIT-DataLab/Edit-Banana?style=flat-square&color=yellow)](https://github.com/BIT-DataLab/Edit-Banana/stargazers) [![Forks](https://img.shields.io/github/forks/BIT-DataLab/Edit-Banana?style=flat-square&color=blue)](https://github.com/BIT-DataLab/Edit-Banana/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BIT-DataLab/Edit-Banana?style=flat-square&color=yellow)](https://github.com/BIT-DataLab/Edit-Banana/stargazers) [![Forks](https://img.shields.io/github/forks/BIT-DataLab/Edit-Banana?style=flat-square&color=blue)](https://github.com/BIT-DataLab/Edit-Banana/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Edit Banana: A framework for converting statistical formats into editable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Edit‑Banana（BIT‑DataLab/Edit‑Banana）是一个 Python 框架，能够�
 | forks | 64/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

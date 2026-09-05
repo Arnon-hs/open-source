@@ -1,6 +1,6 @@
 # openai/openai-node
 
-[![Stars](https://img.shields.io/github/stars/openai/openai-node?style=flat-square&color=yellow)](https://github.com/openai/openai-node/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-node?style=flat-square&color=blue)](https://github.com/openai/openai-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/openai-node?style=flat-square&color=yellow)](https://github.com/openai/openai-node/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-node?style=flat-square&color=blue)](https://github.com/openai/openai-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Official JavaScript / TypeScript library for the OpenAI API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ openai/openai-node 在生产环境中表现稳定，具有以下特点：
 | forks | 80/100 |
 | stars | 86/100 |
 | topics | 38/100 |
-| outlook | 81/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

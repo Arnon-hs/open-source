@@ -1,6 +1,6 @@
 # w3c-cg/ai-agent-protocol
 
-[![Stars](https://img.shields.io/github/stars/w3c-cg/ai-agent-protocol?style=flat-square&color=yellow)](https://github.com/w3c-cg/ai-agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/w3c-cg/ai-agent-protocol?style=flat-square&color=blue)](https://github.com/w3c-cg/ai-agent-protocol/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/w3c-cg/ai-agent-protocol?style=flat-square&color=yellow)](https://github.com/w3c-cg/ai-agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/w3c-cg/ai-agent-protocol?style=flat-square&color=blue)](https://github.com/w3c-cg/ai-agent-protocol/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Network Protocol White Paper
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ w3c-cg/ai-agent-protocol 是一个开源项目，旨在连接人工智能助手�
 | forks | 30/100 |
 | stars | 39/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

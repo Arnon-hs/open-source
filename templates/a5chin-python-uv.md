@@ -1,6 +1,6 @@
 # a5chin/python-uv
 
-[![Stars](https://img.shields.io/github/stars/a5chin/python-uv?style=flat-square&color=yellow)](https://github.com/a5chin/python-uv/stargazers) [![Forks](https://img.shields.io/github/forks/a5chin/python-uv?style=flat-square&color=blue)](https://github.com/a5chin/python-uv/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a5chin/python-uv?style=flat-square&color=yellow)](https://github.com/a5chin/python-uv/stargazers) [![Forks](https://img.shields.io/github/forks/a5chin/python-uv?style=flat-square&color=blue)](https://github.com/a5chin/python-uv/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A production-ready Python development environment template using modern tools: uv for blazing-fast package management, Ruff for lightning-fast linting and formatting, ty for fast and reliable type checking, and VSCode Dev Containers for reproducible development environments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ To adopt a5chin/python-uv, follow these steps:
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

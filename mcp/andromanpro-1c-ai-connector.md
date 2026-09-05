@@ -1,6 +1,6 @@
 # andromanpro/1c-ai-connector
 
-[![Stars](https://img.shields.io/github/stars/andromanpro/1c-ai-connector?style=flat-square&color=yellow)](https://github.com/andromanpro/1c-ai-connector/stargazers) [![Forks](https://img.shields.io/github/forks/andromanpro/1c-ai-connector?style=flat-square&color=blue)](https://github.com/andromanpro/1c-ai-connector/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andromanpro/1c-ai-connector?style=flat-square&color=yellow)](https://github.com/andromanpro/1c-ai-connector/stargazers) [![Forks](https://img.shields.io/github/forks/andromanpro/1c-ai-connector?style=flat-square&color=blue)](https://github.com/andromanpro/1c-ai-connector/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ИИкона — AI-коннектор для 1С:Предприятие 8.3: LLM-провайдеры, агентская петля (function calling), RAG, MCP-сервер, мониторинг ошибок с ИИ-анализом, генератор диаграмм
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | 1C Enterprise |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ andromanpro/1c-ai-connector 的生产可用性为中等（Medium）。它适合�
 | forks | 30/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

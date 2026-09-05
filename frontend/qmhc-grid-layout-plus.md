@@ -1,6 +1,6 @@
 # qmhc/grid-layout-plus
 
-[![Stars](https://img.shields.io/github/stars/qmhc/grid-layout-plus?style=flat-square&color=yellow)](https://github.com/qmhc/grid-layout-plus/stargazers) [![Forks](https://img.shields.io/github/forks/qmhc/grid-layout-plus?style=flat-square&color=blue)](https://github.com/qmhc/grid-layout-plus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qmhc/grid-layout-plus?style=flat-square&color=yellow)](https://github.com/qmhc/grid-layout-plus/stargazers) [![Forks](https://img.shields.io/github/forks/qmhc/grid-layout-plus?style=flat-square&color=blue)](https://github.com/qmhc/grid-layout-plus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A draggable and resizable grid layout, for Vue 3.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 605 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ qmhc/grid-layout-plus 的生产可用性较高，因为它有以下特点：
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # wangcanyu/daihuo-fanpai
 
-[![Stars](https://img.shields.io/github/stars/wangcanyu/daihuo-fanpai?style=flat-square&color=yellow)](https://github.com/wangcanyu/daihuo-fanpai/stargazers) [![Forks](https://img.shields.io/github/forks/wangcanyu/daihuo-fanpai?style=flat-square&color=blue)](https://github.com/wangcanyu/daihuo-fanpai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangcanyu/daihuo-fanpai?style=flat-square&color=yellow)](https://github.com/wangcanyu/daihuo-fanpai/stargazers) [![Forks](https://img.shields.io/github/forks/wangcanyu/daihuo-fanpai?style=flat-square&color=blue)](https://github.com/wangcanyu/daihuo-fanpai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 反推爆款带货短视频 → 即梦/Seedance 重生成 → 剪映草稿交付的 agent 流水线。单日 16 条实战验证。作者:汪自立,7 年抖音直播操盘手(生鲜/珠宝/烘焙,单场 GMV 306 万),踩坑与打法全部固化成可复用 skill。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ wangcanyu/daihuo-fanpai：wangcanyu/daihuo-fanpai helps automate short-form vide
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

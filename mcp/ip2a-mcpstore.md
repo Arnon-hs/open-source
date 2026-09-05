@@ -1,6 +1,6 @@
 # ip2a/mcpstore
 
-[![Stars](https://img.shields.io/github/stars/ip2a/mcpstore?style=flat-square&color=yellow)](https://github.com/ip2a/mcpstore/stargazers) [![Forks](https://img.shields.io/github/forks/ip2a/mcpstore?style=flat-square&color=blue)](https://github.com/ip2a/mcpstore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ip2a/mcpstore?style=flat-square&color=yellow)](https://github.com/ip2a/mcpstore/stargazers) [![Forks](https://img.shields.io/github/forks/ip2a/mcpstore?style=flat-square&color=blue)](https://github.com/ip2a/mcpstore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 开盒即用的优雅管理mcp服务 | 结合Agent框架 | 作者听劝 | 已发布pypi | Vue页面demo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 427 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ ip2a/mcpstore 的价值在于，它帮助连接AI助手与真实的工具和数�
 | forks | 37/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

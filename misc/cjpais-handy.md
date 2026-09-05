@@ -1,6 +1,6 @@
 # cjpais/Handy
 
-[![Stars](https://img.shields.io/github/stars/cjpais/Handy?style=flat-square&color=yellow)](https://github.com/cjpais/Handy/stargazers) [![Forks](https://img.shields.io/github/forks/cjpais/Handy?style=flat-square&color=blue)](https://github.com/cjpais/Handy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cjpais/Handy?style=flat-square&color=yellow)](https://github.com/cjpais/Handy/stargazers) [![Forks](https://img.shields.io/github/forks/cjpais/Handy?style=flat-square&color=blue)](https://github.com/cjpais/Handy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A free, open source, and extensible speech-to-text application that works completely offline.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.1k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Handy 是一款完全离线运行的开源语音转文字工具，基于 Rust �
 | forks | 83/100 |
 | stars | 94/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

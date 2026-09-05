@@ -1,6 +1,6 @@
 # VelornLabs/velorn
 
-[![Stars](https://img.shields.io/github/stars/VelornLabs/velorn?style=flat-square&color=yellow)](https://github.com/VelornLabs/velorn/stargazers) [![Forks](https://img.shields.io/github/forks/VelornLabs/velorn?style=flat-square&color=blue)](https://github.com/VelornLabs/velorn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VelornLabs/velorn?style=flat-square&color=yellow)](https://github.com/VelornLabs/velorn/stargazers) [![Forks](https://img.shields.io/github/forks/VelornLabs/velorn?style=flat-square&color=blue)](https://github.com/VelornLabs/velorn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native video editing built around real creative timelines, generative workflows, and local agent control.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ VelornLabs/velorn 的生产可用性非常高，尤其是在开源项目中。�
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

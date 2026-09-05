@@ -1,6 +1,6 @@
 # NoopApp/noop
 
-[![Stars](https://img.shields.io/github/stars/NoopApp/noop?style=flat-square&color=yellow)](https://github.com/NoopApp/noop/stargazers) [![Forks](https://img.shields.io/github/forks/NoopApp/noop?style=flat-square&color=blue)](https://github.com/NoopApp/noop/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NoopApp/noop?style=flat-square&color=yellow)](https://github.com/NoopApp/noop/stargazers) [![Forks](https://img.shields.io/github/forks/NoopApp/noop?style=flat-square&color=blue)](https://github.com/NoopApp/noop/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 804 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ NoopApp/noop 是一款离线版 WHOOP 伴侣应用，能够通过蓝牙配对 WH
 | forks | 73/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

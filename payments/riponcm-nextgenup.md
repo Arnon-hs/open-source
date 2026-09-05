@@ -1,6 +1,6 @@
 # riponcm/nextgenUp
 
-[![Stars](https://img.shields.io/github/stars/riponcm/nextgenUp?style=flat-square&color=yellow)](https://github.com/riponcm/nextgenUp/stargazers) [![Forks](https://img.shields.io/github/forks/riponcm/nextgenUp?style=flat-square&color=blue)](https://github.com/riponcm/nextgenUp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riponcm/nextgenUp?style=flat-square&color=yellow)](https://github.com/riponcm/nextgenUp/stargazers) [![Forks](https://img.shields.io/github/forks/riponcm/nextgenUp?style=flat-square&color=blue)](https://github.com/riponcm/nextgenUp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Free open-source AI image & video upscaler. Upscale photos to 8K and videos to 4K locally with Real-ESRGAN + GFPGAN face restoration. A free Topaz Gigapixel / Video AI alternative for macOS, Windows & Linux — no cloud, no watermark, no subscription.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML
+Payments · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -67,15 +67,15 @@ riponcm/nextgenUp：riponcm/nextgenUp helps integrate monetization, billing, or 
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 64/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

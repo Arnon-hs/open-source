@@ -1,6 +1,6 @@
 # Synphonyte/leptos-struct-table
 
-[![Stars](https://img.shields.io/github/stars/Synphonyte/leptos-struct-table?style=flat-square&color=yellow)](https://github.com/Synphonyte/leptos-struct-table/stargazers) [![Forks](https://img.shields.io/github/forks/Synphonyte/leptos-struct-table?style=flat-square&color=blue)](https://github.com/Synphonyte/leptos-struct-table/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Synphonyte/leptos-struct-table?style=flat-square&color=yellow)](https://github.com/Synphonyte/leptos-struct-table/stargazers) [![Forks](https://img.shields.io/github/forks/Synphonyte/leptos-struct-table?style=flat-square&color=blue)](https://github.com/Synphonyte/leptos-struct-table/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Easily create Leptos table components from structs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 257 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Synphonyte / leptos-struct-table 能够把任意 Rust struct 自动映射�
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

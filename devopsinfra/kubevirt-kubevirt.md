@@ -1,6 +1,6 @@
 # kubevirt/kubevirt
 
-[![Stars](https://img.shields.io/github/stars/kubevirt/kubevirt?style=flat-square&color=yellow)](https://github.com/kubevirt/kubevirt/stargazers) [![Forks](https://img.shields.io/github/forks/kubevirt/kubevirt?style=flat-square&color=blue)](https://github.com/kubevirt/kubevirt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubevirt/kubevirt?style=flat-square&color=yellow)](https://github.com/kubevirt/kubevirt/stargazers) [![Forks](https://img.shields.io/github/forks/kubevirt/kubevirt?style=flat-square&color=blue)](https://github.com/kubevirt/kubevirt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ kubevirt/kubevirt 为 Kubernetes 提供原生的虚拟化 API 与运行时，使
 | forks | 81/100 |
 | stars | 82/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 66/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 57/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # sebastienros/parlot
 
-[![Stars](https://img.shields.io/github/stars/sebastienros/parlot?style=flat-square&color=yellow)](https://github.com/sebastienros/parlot/stargazers) [![Forks](https://img.shields.io/github/forks/sebastienros/parlot?style=flat-square&color=blue)](https://github.com/sebastienros/parlot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebastienros/parlot?style=flat-square&color=yellow)](https://github.com/sebastienros/parlot/stargazers) [![Forks](https://img.shields.io/github/forks/sebastienros/parlot?style=flat-square&color=blue)](https://github.com/sebastienros/parlot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and lightweight parser creation tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ sebastienros/parlot 提供快速、轻量的解析器生成工具，适合需要
 | forks | 44/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

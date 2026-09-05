@@ -1,6 +1,6 @@
 # knightnemo/Awesome-World-Models
 
-[![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=flat-square&color=yellow)](https://github.com/knightnemo/Awesome-World-Models/stargazers) [![Forks](https://img.shields.io/github/forks/knightnemo/Awesome-World-Models?style=flat-square&color=blue)](https://github.com/knightnemo/Awesome-World-Models/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=flat-square&color=yellow)](https://github.com/knightnemo/Awesome-World-Models/stargazers) [![Forks](https://img.shields.io/github/forks/knightnemo/Awesome-World-Models?style=flat-square&color=blue)](https://github.com/knightnemo/Awesome-World-Models/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Awesome-World-Models 的生产可用性为中等（Medium）。它适合用于�
 | forks | 53/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

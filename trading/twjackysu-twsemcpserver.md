@@ -1,6 +1,6 @@
 # twjackysu/TWSEMCPServer
 
-[![Stars](https://img.shields.io/github/stars/twjackysu/TWSEMCPServer?style=flat-square&color=yellow)](https://github.com/twjackysu/TWSEMCPServer/stargazers) [![Forks](https://img.shields.io/github/forks/twjackysu/TWSEMCPServer?style=flat-square&color=blue)](https://github.com/twjackysu/TWSEMCPServer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twjackysu/TWSEMCPServer?style=flat-square&color=yellow)](https://github.com/twjackysu/TWSEMCPServer/stargazers) [![Forks](https://img.shields.io/github/forks/twjackysu/TWSEMCPServer?style=flat-square&color=blue)](https://github.com/twjackysu/TWSEMCPServer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 台灣證交所OpenAPI 的 MCP Server 同時整合部分即時報價和櫃檯買賣中心TPEx OpenAPI, 臺灣期貨交易所TAIFEX OpenAPI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ twjackysu/TWSEMCPServer 是一套基于 Python 的 MCP Server，实现了台湾�
 | forks | 38/100 |
 | stars | 41/100 |
 | topics | 63/100 |
-| outlook | 48/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mr-tbot/mesh-api
 
-[![Stars](https://img.shields.io/github/stars/mr-tbot/mesh-api?style=flat-square&color=yellow)](https://github.com/mr-tbot/mesh-api/stargazers) [![Forks](https://img.shields.io/github/forks/mr-tbot/mesh-api?style=flat-square&color=blue)](https://github.com/mr-tbot/mesh-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mr-tbot/mesh-api?style=flat-square&color=yellow)](https://github.com/mr-tbot/mesh-api/stargazers) [![Forks](https://img.shields.io/github/forks/mr-tbot/mesh-api?style=flat-square&color=blue)](https://github.com/mr-tbot/mesh-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > MESH-API  — Off-Grid AI & API Router & with MCP server & over 30 API extensions for Meshtastic & MeshCore - Seamlessly connect LM Studio, Ollama, AI Providers , 3rd-party APIs, Agents & Home Assistant to your LoRa mesh.   Supports custom commands, Twilio SMS, Discord channel routing, & GPS emergency alerts via SMS, email, or Discord + SO MUCH MORE
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ mr‑tbot/mesh-api 通过标准的 Model Context Protocol（MCP）将 AI 助手�
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

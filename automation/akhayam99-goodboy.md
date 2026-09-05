@@ -1,6 +1,6 @@
 # akhayam99/goodboy
 
-[![Stars](https://img.shields.io/github/stars/akhayam99/goodboy?style=flat-square&color=yellow)](https://github.com/akhayam99/goodboy/stargazers) [![Forks](https://img.shields.io/github/forks/akhayam99/goodboy?style=flat-square&color=blue)](https://github.com/akhayam99/goodboy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akhayam99/goodboy?style=flat-square&color=yellow)](https://github.com/akhayam99/goodboy/stargazers) [![Forks](https://img.shields.io/github/forks/akhayam99/goodboy?style=flat-square&color=blue)](https://github.com/akhayam99/goodboy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Stop re-explaining yourself
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -125,15 +125,15 @@ In short, Goodboy offers a quick win for automating repeatable tasks, with a str
 | forks | 12/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

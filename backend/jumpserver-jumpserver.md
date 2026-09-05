@@ -1,6 +1,6 @@
 # jumpserver/jumpserver
 
-[![Stars](https://img.shields.io/github/stars/jumpserver/jumpserver?style=flat-square&color=yellow)](https://github.com/jumpserver/jumpserver/stargazers) [![Forks](https://img.shields.io/github/forks/jumpserver/jumpserver?style=flat-square&color=blue)](https://github.com/jumpserver/jumpserver/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jumpserver/jumpserver?style=flat-square&color=yellow)](https://github.com/jumpserver/jumpserver/stargazers) [![Forks](https://img.shields.io/github/forks/jumpserver/jumpserver?style=flat-square&color=blue)](https://github.com/jumpserver/jumpserver/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30.4k |
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ JumpServer（jumpserver/jumpserver）是一款开源的特权访问管理（PAM�
 | forks | 94/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 78/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 95/100 |
-| production | 61/100 |
+| production | 81/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

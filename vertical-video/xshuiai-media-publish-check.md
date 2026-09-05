@@ -1,6 +1,6 @@
 # XshuiAi/media-publish-check
 
-[![Stars](https://img.shields.io/github/stars/XshuiAi/media-publish-check?style=flat-square&color=yellow)](https://github.com/XshuiAi/media-publish-check/stargazers) [![Forks](https://img.shields.io/github/forks/XshuiAi/media-publish-check?style=flat-square&color=blue)](https://github.com/XshuiAi/media-publish-check/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XshuiAi/media-publish-check?style=flat-square&color=yellow)](https://github.com/XshuiAi/media-publish-check/stargazers) [![Forks](https://img.shields.io/github/forks/XshuiAi/media-publish-check?style=flat-square&color=blue)](https://github.com/XshuiAi/media-publish-check/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 自媒体发布审核 Skill｜Pre-publish audit for Douyin, Xiaohongshu, Weixin Video Accounts & Kuaishou.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ XshuiAi/media-publish-check：XshuiAi/media-publish-check helps automate short-f
 | forks | 27/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

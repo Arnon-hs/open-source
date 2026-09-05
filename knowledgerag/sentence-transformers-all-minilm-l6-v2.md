@@ -1,6 +1,6 @@
 # sentence-transformers/all-MiniLM-L6-v2
 
-[![Stars](https://img.shields.io/github/stars/sentence-transformers/all-MiniLM-L6-v2?style=flat-square&color=yellow)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/stargazers) [![Forks](https://img.shields.io/github/forks/sentence-transformers/all-MiniLM-L6-v2?style=flat-square&color=blue)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sentence-transformers/all-MiniLM-L6-v2?style=flat-square&color=yellow)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/stargazers) [![Forks](https://img.shields.io/github/forks/sentence-transformers/all-MiniLM-L6-v2?style=flat-square&color=blue)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Embeddings and similarity (sentence-similarity) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ sentence-transformers/all-MiniLM-L6-v2 的主要价值在于帮助内部知识�
 | forks | 0/100 |
 | stars | 79/100 |
 | topics | 38/100 |
-| outlook | 47/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

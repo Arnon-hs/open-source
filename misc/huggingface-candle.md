@@ -1,6 +1,6 @@
 # huggingface/candle
 
-[![Stars](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&color=yellow)](https://github.com/huggingface/candle/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/candle?style=flat-square&color=blue)](https://github.com/huggingface/candle/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&color=yellow)](https://github.com/huggingface/candle/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/candle?style=flat-square&color=blue)](https://github.com/huggingface/candle/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Minimalist ML framework for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.5k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ huggingface / candle 是一个用 Rust 编写的极简主义机器学习框�
 | forks | 80/100 |
 | stars | 92/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

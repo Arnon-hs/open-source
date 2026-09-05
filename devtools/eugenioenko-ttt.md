@@ -1,6 +1,6 @@
 # eugenioenko/ttt
 
-[![Stars](https://img.shields.io/github/stars/eugenioenko/ttt?style=flat-square&color=yellow)](https://github.com/eugenioenko/ttt/stargazers) [![Forks](https://img.shields.io/github/forks/eugenioenko/ttt?style=flat-square&color=blue)](https://github.com/eugenioenko/ttt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eugenioenko/ttt?style=flat-square&color=yellow)](https://github.com/eugenioenko/ttt/stargazers) [![Forks](https://img.shields.io/github/forks/eugenioenko/ttt?style=flat-square&color=blue)](https://github.com/eugenioenko/ttt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > TTT Editor - Terminal Text Tool: a terminal text editor IDE. A real alternative to VS Code, Zed, and Sublime that runs in your terminal. Single binary, zero config.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ eugenioenko/ttt 的生产可用性高，具有以下特点：
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

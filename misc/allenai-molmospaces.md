@@ -1,6 +1,6 @@
 # allenai/molmospaces
 
-[![Stars](https://img.shields.io/github/stars/allenai/molmospaces?style=flat-square&color=yellow)](https://github.com/allenai/molmospaces/stargazers) [![Forks](https://img.shields.io/github/forks/allenai/molmospaces?style=flat-square&color=blue)](https://github.com/allenai/molmospaces/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allenai/molmospaces?style=flat-square&color=yellow)](https://github.com/allenai/molmospaces/stargazers) [![Forks](https://img.shields.io/github/forks/allenai/molmospaces?style=flat-square&color=blue)](https://github.com/allenai/molmospaces/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An end-to-end open ecosystem for robot learning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ allenai/molmospaces 为机器人学习提供了一个端到端的开源生态系
 | forks | 41/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

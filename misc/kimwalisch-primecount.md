@@ -1,6 +1,6 @@
 # kimwalisch/primecount
 
-[![Stars](https://img.shields.io/github/stars/kimwalisch/primecount?style=flat-square&color=yellow)](https://github.com/kimwalisch/primecount/stargazers) [![Forks](https://img.shields.io/github/forks/kimwalisch/primecount?style=flat-square&color=blue)](https://github.com/kimwalisch/primecount/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kimwalisch/primecount?style=flat-square&color=yellow)](https://github.com/kimwalisch/primecount/stargazers) [![Forks](https://img.shields.io/github/forks/kimwalisch/primecount?style=flat-square&color=blue)](https://github.com/kimwalisch/primecount/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Fast prime counting function library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ kimwalisch/primecount 的生产可用性为中等。它可以用于原型或内�
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

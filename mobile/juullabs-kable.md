@@ -1,6 +1,6 @@
 # JuulLabs/kable
 
-[![Stars](https://img.shields.io/github/stars/JuulLabs/kable?style=flat-square&color=yellow)](https://github.com/JuulLabs/kable/stargazers) [![Forks](https://img.shields.io/github/forks/JuulLabs/kable?style=flat-square&color=blue)](https://github.com/JuulLabs/kable/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuulLabs/kable?style=flat-square&color=yellow)](https://github.com/JuulLabs/kable/stargazers) [![Forks](https://img.shields.io/github/forks/JuulLabs/kable?style=flat-square&color=blue)](https://github.com/JuulLabs/kable/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin Asynchronous Bluetooth Low-Energy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ JuulLabs/kable 是一个基于 Kotlin 的异步 Bluetooth Low‑Energy（BLE）�
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

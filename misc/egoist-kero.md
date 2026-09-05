@@ -1,6 +1,6 @@
 # egoist/kero
 
-[![Stars](https://img.shields.io/github/stars/egoist/kero?style=flat-square&color=yellow)](https://github.com/egoist/kero/stargazers) [![Forks](https://img.shields.io/github/forks/egoist/kero?style=flat-square&color=blue)](https://github.com/egoist/kero/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/egoist/kero?style=flat-square&color=yellow)](https://github.com/egoist/kero/stargazers) [![Forks](https://img.shields.io/github/forks/egoist/kero?style=flat-square&color=blue)](https://github.com/egoist/kero/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A native terminal workspace for macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ egoist/kero 在生产环境中的可用性为中等（Medium）。它适合用�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

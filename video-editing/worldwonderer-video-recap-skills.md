@@ -1,6 +1,6 @@
 # worldwonderer/video-recap-skills
 
-[![Stars](https://img.shields.io/github/stars/worldwonderer/video-recap-skills?style=flat-square&color=yellow)](https://github.com/worldwonderer/video-recap-skills/stargazers) [![Forks](https://img.shields.io/github/forks/worldwonderer/video-recap-skills?style=flat-square&color=blue)](https://github.com/worldwonderer/video-recap-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/worldwonderer/video-recap-skills?style=flat-square&color=yellow)](https://github.com/worldwonderer/video-recap-skills/stargazers) [![Forks](https://img.shields.io/github/forks/worldwonderer/video-recap-skills?style=flat-square&color=blue)](https://github.com/worldwonderer/video-recap-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ worldwonderer/video-recap-skills 是一个基于 Claude Code Skill 的开源工�
 | forks | 44/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · Backend · DevTools
+Knowledge/RAG · Documents · Networking · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ massCodeIO/massCode：massCodeIO/massCode helps make internal knowledge searchab
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

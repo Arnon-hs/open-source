@@ -1,6 +1,6 @@
 # joernio/joern
 
-[![Stars](https://img.shields.io/github/stars/joernio/joern?style=flat-square&color=yellow)](https://github.com/joernio/joern/stargazers) [![Forks](https://img.shields.io/github/forks/joernio/joern?style=flat-square&color=blue)](https://github.com/joernio/joern/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joernio/joern?style=flat-square&color=yellow)](https://github.com/joernio/joern/stargazers) [![Forks](https://img.shields.io/github/forks/joernio/joern?style=flat-square&color=blue)](https://github.com/joernio/joern/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 427 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ joernio/joern的生产可用性非常高。根据GitHub的数据，joernio/joern
 | forks | 66/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

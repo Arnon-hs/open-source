@@ -1,6 +1,6 @@
 # modelcontextprotocol/python-sdk
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/python-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/python-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The official Python SDK for Model Context Protocol servers and clients
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.5k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP
+MCP · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ modelcontextprotocol/python‑sdk 是 Model Context Protocol（MCP）的官方 P
 | forks | 89/100 |
 | stars | 93/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

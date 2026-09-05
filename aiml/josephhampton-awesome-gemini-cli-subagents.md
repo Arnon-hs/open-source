@@ -1,6 +1,6 @@
 # JosephHampton/awesome-gemini-cli-subagents
 
-[![Stars](https://img.shields.io/github/stars/JosephHampton/awesome-gemini-cli-subagents?style=flat-square&color=yellow)](https://github.com/JosephHampton/awesome-gemini-cli-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/JosephHampton/awesome-gemini-cli-subagents?style=flat-square&color=blue)](https://github.com/JosephHampton/awesome-gemini-cli-subagents/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JosephHampton/awesome-gemini-cli-subagents?style=flat-square&color=yellow)](https://github.com/JosephHampton/awesome-gemini-cli-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/JosephHampton/awesome-gemini-cli-subagents?style=flat-square&color=blue)](https://github.com/JosephHampton/awesome-gemini-cli-subagents/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of 51 production-ready subagents for Gemini CLI. Drop them into .gemini/agents/ and let Gemini delegate the right specialist.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ JosephHampton/awesome-gemini-cli-subagents 收录了 51 个可直接使用的 Ge
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

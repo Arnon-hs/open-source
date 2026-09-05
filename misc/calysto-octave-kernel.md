@@ -1,6 +1,6 @@
 # Calysto/octave_kernel
 
-[![Stars](https://img.shields.io/github/stars/Calysto/octave_kernel?style=flat-square&color=yellow)](https://github.com/Calysto/octave_kernel/stargazers) [![Forks](https://img.shields.io/github/forks/Calysto/octave_kernel?style=flat-square&color=blue)](https://github.com/Calysto/octave_kernel/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Calysto/octave_kernel?style=flat-square&color=yellow)](https://github.com/Calysto/octave_kernel/stargazers) [![Forks](https://img.shields.io/github/forks/Calysto/octave_kernel?style=flat-square&color=blue)](https://github.com/Calysto/octave_kernel/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An Octave kernel for IPython
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,11 +122,11 @@ Calysto/octave_kernel 是为 IPython/Jupyter 环境提供的 Octave 语言内核
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

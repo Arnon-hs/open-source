@@ -1,6 +1,6 @@
 # Kobaayyy/Awesome-AIGC-Research-Groups
 
-[![Stars](https://img.shields.io/github/stars/Kobaayyy/Awesome-AIGC-Research-Groups?style=flat-square&color=yellow)](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups/stargazers) [![Forks](https://img.shields.io/github/forks/Kobaayyy/Awesome-AIGC-Research-Groups?style=flat-square&color=blue)](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kobaayyy/Awesome-AIGC-Research-Groups?style=flat-square&color=yellow)](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups/stargazers) [![Forks](https://img.shields.io/github/forks/Kobaayyy/Awesome-AIGC-Research-Groups?style=flat-square&color=blue)](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A Collection of AIGC Research Groups
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Kobaayyy/Awesome-AIGC-Research-Groups 提供了自动化视频编辑、字幕生
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

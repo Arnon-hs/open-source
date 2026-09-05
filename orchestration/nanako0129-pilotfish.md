@@ -1,6 +1,6 @@
 # Nanako0129/pilotfish
 
-[![Stars](https://img.shields.io/github/stars/Nanako0129/pilotfish?style=flat-square&color=yellow)](https://github.com/Nanako0129/pilotfish/stargazers) [![Forks](https://img.shields.io/github/forks/Nanako0129/pilotfish?style=flat-square&color=blue)](https://github.com/Nanako0129/pilotfish/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nanako0129/pilotfish?style=flat-square&color=yellow)](https://github.com/Nanako0129/pilotfish/stargazers) [![Forks](https://img.shields.io/github/forks/Nanako0129/pilotfish?style=flat-square&color=blue)](https://github.com/Nanako0129/pilotfish/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Nanako0129/pilotfish 的生产可用性为中等。它适合用于开发环境�
 | forks | 12/100 |
 | stars | 37/100 |
 | topics | 75/100 |
-| outlook | 51/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

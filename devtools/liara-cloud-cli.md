@@ -1,6 +1,6 @@
 # liara-cloud/cli
 
-[![Stars](https://img.shields.io/github/stars/liara-cloud/cli?style=flat-square&color=yellow)](https://github.com/liara-cloud/cli/stargazers) [![Forks](https://img.shields.io/github/forks/liara-cloud/cli?style=flat-square&color=blue)](https://github.com/liara-cloud/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liara-cloud/cli?style=flat-square&color=yellow)](https://github.com/liara-cloud/cli/stargazers) [![Forks](https://img.shields.io/github/forks/liara-cloud/cli?style=flat-square&color=blue)](https://github.com/liara-cloud/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The command line interface for Liara
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ liara-cloud/cli 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # generic-daw/generic-daw
 
-[![Stars](https://img.shields.io/github/stars/generic-daw/generic-daw?style=flat-square&color=yellow)](https://github.com/generic-daw/generic-daw/stargazers) [![Forks](https://img.shields.io/github/forks/generic-daw/generic-daw?style=flat-square&color=blue)](https://github.com/generic-daw/generic-daw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/generic-daw/generic-daw?style=flat-square&color=yellow)](https://github.com/generic-daw/generic-daw/stargazers) [![Forks](https://img.shields.io/github/forks/generic-daw/generic-daw?style=flat-square&color=blue)](https://github.com/generic-daw/generic-daw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An early-in-development, open source, cross-platform digital audio workstation (DAW) built in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ generic‑daw 是用 Rust 编写的跨平台数字音频工作站（DAW），目
 | forks | 24/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

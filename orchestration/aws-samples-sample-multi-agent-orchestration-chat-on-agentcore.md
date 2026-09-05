@@ -1,6 +1,6 @@
 # aws-samples/sample-multi-agent-orchestration-chat-on-agentcore
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore?style=flat-square&color=blue)](https://github.com/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore?style=flat-square&color=blue)](https://github.com/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Build & Share AI agents with your team. Full AgentCore, Full Serverless, Full TypeScript Sample
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Cloud & Storage · Communication
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ aws-samples/sample-multi-agent-orchestration-chat-on-agentcore 是一个开源�
 | forks | 21/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

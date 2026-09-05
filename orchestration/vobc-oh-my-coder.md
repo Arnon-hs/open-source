@@ -1,6 +1,6 @@
 # VOBC/oh-my-coder
 
-[![Stars](https://img.shields.io/github/stars/VOBC/oh-my-coder?style=flat-square&color=yellow)](https://github.com/VOBC/oh-my-coder/stargazers) [![Forks](https://img.shields.io/github/forks/VOBC/oh-my-coder?style=flat-square&color=blue)](https://github.com/VOBC/oh-my-coder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VOBC/oh-my-coder?style=flat-square&color=yellow)](https://github.com/VOBC/oh-my-coder/stargazers) [![Forks](https://img.shields.io/github/forks/VOBC/oh-my-coder?style=flat-square&color=blue)](https://github.com/VOBC/oh-my-coder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-Agent AI Coding Assistant - 支持 DeepSeek/文心/通义 等12+国产大模型，多智能体协作编程
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Communication · DevTools
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ VOBC/oh-my-coder 是一个面向多智能体的 AI 编码助理，内置对 Deep
 | forks | 34/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

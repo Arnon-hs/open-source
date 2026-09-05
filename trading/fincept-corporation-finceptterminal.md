@@ -1,6 +1,6 @@
 # Fincept-Corporation/FinceptTerminal
 
-[![Stars](https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=flat-square&color=yellow)](https://github.com/Fincept-Corporation/FinceptTerminal/stargazers) [![Forks](https://img.shields.io/github/forks/Fincept-Corporation/FinceptTerminal?style=flat-square&color=blue)](https://github.com/Fincept-Corporation/FinceptTerminal/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=flat-square&color=yellow)](https://github.com/Fincept-Corporation/FinceptTerminal/stargazers) [![Forks](https://img.shields.io/github/forks/Fincept-Corporation/FinceptTerminal?style=flat-square&color=blue)](https://github.com/Fincept-Corporation/FinceptTerminal/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.4k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ FinceptTerminal 是一款基于 C++ 的现代金融分析平台，提供高级�
 | forks | 90/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 86/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

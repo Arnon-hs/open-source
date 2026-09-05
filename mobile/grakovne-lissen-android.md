@@ -1,6 +1,6 @@
 # GrakovNe/lissen-android
 
-[![Stars](https://img.shields.io/github/stars/GrakovNe/lissen-android?style=flat-square&color=yellow)](https://github.com/GrakovNe/lissen-android/stargazers) [![Forks](https://img.shields.io/github/forks/GrakovNe/lissen-android?style=flat-square&color=blue)](https://github.com/GrakovNe/lissen-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GrakovNe/lissen-android?style=flat-square&color=yellow)](https://github.com/GrakovNe/lissen-android/stargazers) [![Forks](https://img.shields.io/github/forks/GrakovNe/lissen-android?style=flat-square&color=blue)](https://github.com/GrakovNe/lissen-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Minimalistic Android client app for Audiobookshelf
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 700 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ GrakovNe/lissen-android 是一个开源项目，提供了一个简洁的 Android
 | forks | 45/100 |
 | stars | 61/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

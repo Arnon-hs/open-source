@@ -1,6 +1,6 @@
 # CodeLogicIncEngineering/codelogic-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/CodeLogicIncEngineering/codelogic-mcp-server?style=flat-square&color=yellow)](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/CodeLogicIncEngineering/codelogic-mcp-server?style=flat-square&color=blue)](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeLogicIncEngineering/codelogic-mcp-server?style=flat-square&color=yellow)](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/CodeLogicIncEngineering/codelogic-mcp-server?style=flat-square&color=blue)](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP Server to utilize Codelogic's rich software dependency data in your AI programming assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ CodeLogicIncEngineering/codelogic-mcp-server 是一个基于 Model Context P
 | forks | 31/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

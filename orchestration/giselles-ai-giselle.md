@@ -1,6 +1,6 @@
 # giselles-ai/giselle
 
-[![Stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=flat-square&color=yellow)](https://github.com/giselles-ai/giselle/stargazers) [![Forks](https://img.shields.io/github/forks/giselles-ai/giselle?style=flat-square&color=blue)](https://github.com/giselles-ai/giselle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=flat-square&color=yellow)](https://github.com/giselles-ai/giselle/stargazers) [![Forks](https://img.shields.io/github/forks/giselles-ai/giselle?style=flat-square&color=blue)](https://github.com/giselles-ai/giselle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Giselle: AI App Builder. Open Source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Giselle 是一款开源的 AI 应用构建平台，能够把单个 Prompt 与工
 | forks | 52/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

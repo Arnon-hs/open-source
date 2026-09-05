@@ -1,6 +1,6 @@
 # Mangi-11/Eta
 
-[![Stars](https://img.shields.io/github/stars/Mangi-11/Eta?style=flat-square&color=yellow)](https://github.com/Mangi-11/Eta/stargazers) [![Forks](https://img.shields.io/github/forks/Mangi-11/Eta?style=flat-square&color=blue)](https://github.com/Mangi-11/Eta/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mangi-11/Eta?style=flat-square&color=yellow)](https://github.com/Mangi-11/Eta/stargazers) [![Forks](https://img.shields.io/github/forks/Mangi-11/Eta?style=flat-square&color=blue)](https://github.com/Mangi-11/Eta/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 在 ColorOS 与 HyperOS 上实现系统级 Android AI Agent。通过类似豆包手机的 GUI Agent 实现跨应用操作，同时提供结构化设备工具，让模型无需依赖 GUI 即可直达系统能力。凭借支持 Root Shell 与 Linux 环境的终端能力，进一步覆盖 Android 世界中更广泛的任务，并解锁 Gemini 与一圈即搜。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 485 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Mangi-11/Eta 的价值在于，它可以帮助添加 AI 能力而不需要从零
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

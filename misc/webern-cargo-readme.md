@@ -1,6 +1,6 @@
 # webern/cargo-readme
 
-[![Stars](https://img.shields.io/github/stars/webern/cargo-readme?style=flat-square&color=yellow)](https://github.com/webern/cargo-readme/stargazers) [![Forks](https://img.shields.io/github/forks/webern/cargo-readme?style=flat-square&color=blue)](https://github.com/webern/cargo-readme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webern/cargo-readme?style=flat-square&color=yellow)](https://github.com/webern/cargo-readme/stargazers) [![Forks](https://img.shields.io/github/forks/webern/cargo-readme?style=flat-square&color=blue)](https://github.com/webern/cargo-readme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Generate README.md from docstrings
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ webern/cargo-readme 的生产可用性为中等。它适合用于内部workflow 
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

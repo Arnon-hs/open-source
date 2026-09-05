@@ -1,6 +1,6 @@
 # sbpp/sourcebans-pp
 
-[![Stars](https://img.shields.io/github/stars/sbpp/sourcebans-pp?style=flat-square&color=yellow)](https://github.com/sbpp/sourcebans-pp/stargazers) [![Forks](https://img.shields.io/github/forks/sbpp/sourcebans-pp?style=flat-square&color=blue)](https://github.com/sbpp/sourcebans-pp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbpp/sourcebans-pp?style=flat-square&color=yellow)](https://github.com/sbpp/sourcebans-pp/stargazers) [![Forks](https://img.shields.io/github/forks/sbpp/sourcebans-pp?style=flat-square&color=blue)](https://github.com/sbpp/sourcebans-pp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Admin, ban, and comms management system for the Source engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ sbpp/sourcebans-pp 是一套面向 Source 引擎的后台管理系统，提供�
 | forks | 56/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

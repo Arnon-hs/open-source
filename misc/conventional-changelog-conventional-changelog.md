@@ -1,6 +1,6 @@
 # conventional-changelog/conventional-changelog
 
-[![Stars](https://img.shields.io/github/stars/conventional-changelog/conventional-changelog?style=flat-square&color=yellow)](https://github.com/conventional-changelog/conventional-changelog/stargazers) [![Forks](https://img.shields.io/github/forks/conventional-changelog/conventional-changelog?style=flat-square&color=blue)](https://github.com/conventional-changelog/conventional-changelog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conventional-changelog/conventional-changelog?style=flat-square&color=yellow)](https://github.com/conventional-changelog/conventional-changelog/stargazers) [![Forks](https://img.shields.io/github/forks/conventional-changelog/conventional-changelog?style=flat-square&color=blue)](https://github.com/conventional-changelog/conventional-changelog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Generate changelogs and release notes from a project's commit messages and metadata.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 741 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ conventional-changelog/conventional-changelog 的生产可用性很高，因为�
 | forks | 72/100 |
 | stars | 84/100 |
 | topics | 75/100 |
-| outlook | 67/100 |
-| quality | 77/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

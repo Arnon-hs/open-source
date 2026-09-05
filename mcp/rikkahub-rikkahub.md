@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ rikkahub/rikkahub：rikkahub/rikkahub helps connect AI assistants to real tools 
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

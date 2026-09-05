@@ -1,6 +1,6 @@
 # dependabot/dependabot-core
 
-[![Stars](https://img.shields.io/github/stars/dependabot/dependabot-core?style=flat-square&color=yellow)](https://github.com/dependabot/dependabot-core/stargazers) [![Forks](https://img.shields.io/github/forks/dependabot/dependabot-core?style=flat-square&color=blue)](https://github.com/dependabot/dependabot-core/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dependabot/dependabot-core?style=flat-square&color=yellow)](https://github.com/dependabot/dependabot-core/stargazers) [![Forks](https://img.shields.io/github/forks/dependabot/dependabot-core?style=flat-square&color=blue)](https://github.com/dependabot/dependabot-core/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Dependabot's core logic for creating update PRs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ dependabot/dependabot‑core 是 Dependabot 的核心实现，负责自动检测
 | forks | 79/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 58/100 |
+| production | 78/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

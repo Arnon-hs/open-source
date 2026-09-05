@@ -1,6 +1,6 @@
 # btcsuite/btcd
 
-[![Stars](https://img.shields.io/github/stars/btcsuite/btcd?style=flat-square&color=yellow)](https://github.com/btcsuite/btcd/stargazers) [![Forks](https://img.shields.io/github/forks/btcsuite/btcd?style=flat-square&color=blue)](https://github.com/btcsuite/btcd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/btcsuite/btcd?style=flat-square&color=yellow)](https://github.com/btcsuite/btcd/stargazers) [![Forks](https://img.shields.io/github/forks/btcsuite/btcd?style=flat-square&color=blue)](https://github.com/btcsuite/btcd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An alternative full node bitcoin implementation written in Go (golang)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ btcsuite/btcd 是一个用 Go 语言实现的完整比特币全节点，提供�
 | forks | 85/100 |
 | stars | 81/100 |
 | topics | 38/100 |
-| outlook | 57/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

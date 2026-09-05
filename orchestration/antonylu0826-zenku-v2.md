@@ -1,6 +1,6 @@
 # antonylu0826/zenku-v2
 
-[![Stars](https://img.shields.io/github/stars/antonylu0826/zenku-v2?style=flat-square&color=yellow)](https://github.com/antonylu0826/zenku-v2/stargazers) [![Forks](https://img.shields.io/github/forks/antonylu0826/zenku-v2?style=flat-square&color=blue)](https://github.com/antonylu0826/zenku-v2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antonylu0826/zenku-v2?style=flat-square&color=yellow)](https://github.com/antonylu0826/zenku-v2/stargazers) [![Forks](https://img.shields.io/github/forks/antonylu0826/zenku-v2?style=flat-square&color=blue)](https://github.com/antonylu0826/zenku-v2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI-first No-Code engine for building production-ready data apps via conversation. Features Multi-Agent architecture, dynamic UI rendering, and built-in Undo/Time-Machine. Supports SQLite, Postgres, and MSSQL.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Zenku v2 (antonylu0826/zenku‑v2) is an AI‑first, no‑code engine that let
 | forks | 31/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

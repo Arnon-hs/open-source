@@ -1,6 +1,6 @@
 # typelevel/cats-mtl
 
-[![Stars](https://img.shields.io/github/stars/typelevel/cats-mtl?style=flat-square&color=yellow)](https://github.com/typelevel/cats-mtl/stargazers) [![Forks](https://img.shields.io/github/forks/typelevel/cats-mtl?style=flat-square&color=blue)](https://github.com/typelevel/cats-mtl/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typelevel/cats-mtl?style=flat-square&color=yellow)](https://github.com/typelevel/cats-mtl/stargazers) [![Forks](https://img.shields.io/github/forks/typelevel/cats-mtl?style=flat-square&color=blue)](https://github.com/typelevel/cats-mtl/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > cats transformer type classes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ typelevel/cats-mtl 是一个开源项目，提供了 Cats transformer 类型类�
 | forks | 46/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # mapequation/infomap
 
-[![Stars](https://img.shields.io/github/stars/mapequation/infomap?style=flat-square&color=yellow)](https://github.com/mapequation/infomap/stargazers) [![Forks](https://img.shields.io/github/forks/mapequation/infomap?style=flat-square&color=blue)](https://github.com/mapequation/infomap/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mapequation/infomap?style=flat-square&color=yellow)](https://github.com/mapequation/infomap/stargazers) [![Forks](https://img.shields.io/github/forks/mapequation/infomap?style=flat-square&color=blue)](https://github.com/mapequation/infomap/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-level network clustering based on the Map Equation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 489 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ mapequation/infomap 是基于 Map Equation 的多层次网络聚类工具，能�
 | forks | 49/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

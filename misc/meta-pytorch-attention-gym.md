@@ -1,6 +1,6 @@
 # meta-pytorch/attention-gym
 
-[![Stars](https://img.shields.io/github/stars/meta-pytorch/attention-gym?style=flat-square&color=yellow)](https://github.com/meta-pytorch/attention-gym/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/attention-gym?style=flat-square&color=blue)](https://github.com/meta-pytorch/attention-gym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meta-pytorch/attention-gym?style=flat-square&color=yellow)](https://github.com/meta-pytorch/attention-gym/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/attention-gym?style=flat-square&color=blue)](https://github.com/meta-pytorch/attention-gym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Helpful tools and examples for working with flex-attention
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ meta-pytorch/attention-gym 的价值在于，它提供了学习可靠实现模�
 | forks | 47/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

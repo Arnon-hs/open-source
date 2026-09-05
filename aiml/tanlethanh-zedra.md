@@ -1,6 +1,6 @@
 # tanlethanh/zedra
 
-[![Stars](https://img.shields.io/github/stars/tanlethanh/zedra?style=flat-square&color=yellow)](https://github.com/tanlethanh/zedra/stargazers) [![Forks](https://img.shields.io/github/forks/tanlethanh/zedra?style=flat-square&color=blue)](https://github.com/tanlethanh/zedra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tanlethanh/zedra?style=flat-square&color=yellow)](https://github.com/tanlethanh/zedra/stargazers) [![Forks](https://img.shields.io/github/forks/tanlethanh/zedra?style=flat-square&color=blue)](https://github.com/tanlethanh/zedra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Remote control for AI coding agents. Rust + GPUI + QUIC/UDP. Available on iOS/Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Mobile
+AI/ML · Networking · Mobile
 
 ## 📝 Summary
 
@@ -120,15 +120,15 @@ Zedra（tanlethanh/zedra）是一款基于 Rust、GPUI 与 QUIC/UDP 的远程控
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

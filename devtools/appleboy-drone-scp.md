@@ -1,6 +1,6 @@
 # appleboy/drone-scp
 
-[![Stars](https://img.shields.io/github/stars/appleboy/drone-scp?style=flat-square&color=yellow)](https://github.com/appleboy/drone-scp/stargazers) [![Forks](https://img.shields.io/github/forks/appleboy/drone-scp?style=flat-square&color=blue)](https://github.com/appleboy/drone-scp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appleboy/drone-scp?style=flat-square&color=yellow)](https://github.com/appleboy/drone-scp/stargazers) [![Forks](https://img.shields.io/github/forks/appleboy/drone-scp?style=flat-square&color=blue)](https://github.com/appleboy/drone-scp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Copy files and artifacts via SSH using a binary, docker or Drone CI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ appleboy/drone-scp 是一个基于 Go 实现的轻量级工具，能够在 Drone
 | forks | 40/100 |
 | stars | 48/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

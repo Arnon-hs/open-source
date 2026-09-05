@@ -1,6 +1,6 @@
 # robertpsoane/ducker
 
-[![Stars](https://img.shields.io/github/stars/robertpsoane/ducker?style=flat-square&color=yellow)](https://github.com/robertpsoane/ducker/stargazers) [![Forks](https://img.shields.io/github/forks/robertpsoane/ducker?style=flat-square&color=blue)](https://github.com/robertpsoane/ducker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robertpsoane/ducker?style=flat-square&color=yellow)](https://github.com/robertpsoane/ducker/stargazers) [![Forks](https://img.shields.io/github/forks/robertpsoane/ducker?style=flat-square&color=blue)](https://github.com/robertpsoane/ducker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A slightly quackers Docker TUI based on k9s 🦆
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 913 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ robertpsoane/ducker 的生产可用性为中等，有助于prototype 或内部�
 | forks | 36/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

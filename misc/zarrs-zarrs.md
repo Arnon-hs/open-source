@@ -1,6 +1,6 @@
 # zarrs/zarrs
 
-[![Stars](https://img.shields.io/github/stars/zarrs/zarrs?style=flat-square&color=yellow)](https://github.com/zarrs/zarrs/stargazers) [![Forks](https://img.shields.io/github/forks/zarrs/zarrs?style=flat-square&color=blue)](https://github.com/zarrs/zarrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zarrs/zarrs?style=flat-square&color=yellow)](https://github.com/zarrs/zarrs/stargazers) [![Forks](https://img.shields.io/github/forks/zarrs/zarrs?style=flat-square&color=blue)](https://github.com/zarrs/zarrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust library for the Zarr storage format for multidimensional arrays and metadata
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ zarrs/zarrs 是用 Rust 实现的 Zarr 存储格式库，支持对多维数组�
 | forks | 37/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

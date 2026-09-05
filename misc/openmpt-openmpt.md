@@ -1,6 +1,6 @@
 # OpenMPT/openmpt
 
-[![Stars](https://img.shields.io/github/stars/OpenMPT/openmpt?style=flat-square&color=yellow)](https://github.com/OpenMPT/openmpt/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMPT/openmpt?style=flat-square&color=blue)](https://github.com/OpenMPT/openmpt/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenMPT/openmpt?style=flat-square&color=yellow)](https://github.com/OpenMPT/openmpt/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMPT/openmpt?style=flat-square&color=blue)](https://github.com/OpenMPT/openmpt/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Official read-only git mirror of the OpenMPT and libopenmpt subversion repository at https://source.openmpt.org/. This repository may occasionally get rebased without further notice when subversion revision properties (commit message) get fixed in recent history after the fact. Be sure to rebase often in case you clone or fork it.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ OpenMPT/openmpt 的生产可用性是中等的。它可以用于内部开发、�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # alfred1994/alpha-pilot
 
-[![Stars](https://img.shields.io/github/stars/alfred1994/alpha-pilot?style=flat-square&color=yellow)](https://github.com/alfred1994/alpha-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/alfred1994/alpha-pilot?style=flat-square&color=blue)](https://github.com/alfred1994/alpha-pilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alfred1994/alpha-pilot?style=flat-square&color=yellow)](https://github.com/alfred1994/alpha-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/alfred1994/alpha-pilot?style=flat-square&color=blue)](https://github.com/alfred1994/alpha-pilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI 驾驶的自愈式 A 股模拟盘交易赛车 · Self-healing paper-trading race car driven by AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · AI/ML
+Trading · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ alfred1994/alpha-pilot 是一个开源项目，旨在研究和自动化市场工
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

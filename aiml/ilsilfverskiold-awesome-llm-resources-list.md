@@ -1,6 +1,6 @@
 # ilsilfverskiold/Awesome-LLM-Resources-List
 
-[![Stars](https://img.shields.io/github/stars/ilsilfverskiold/Awesome-LLM-Resources-List?style=flat-square&color=yellow)](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/stargazers) [![Forks](https://img.shields.io/github/forks/ilsilfverskiold/Awesome-LLM-Resources-List?style=flat-square&color=blue)](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilsilfverskiold/Awesome-LLM-Resources-List?style=flat-square&color=yellow)](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/stargazers) [![Forks](https://img.shields.io/github/forks/ilsilfverskiold/Awesome-LLM-Resources-List?style=flat-square&color=blue)](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Curated Collection of resources for applied AI engineering (work in progress).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Here's a brief summary of the project:
 | forks | 50/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

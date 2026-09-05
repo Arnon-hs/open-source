@@ -1,6 +1,6 @@
 # flashrt-project/FlashRT
 
-[![Stars](https://img.shields.io/github/stars/flashrt-project/FlashRT?style=flat-square&color=yellow)](https://github.com/flashrt-project/FlashRT/stargazers) [![Forks](https://img.shields.io/github/forks/flashrt-project/FlashRT?style=flat-square&color=blue)](https://github.com/flashrt-project/FlashRT/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flashrt-project/FlashRT?style=flat-square&color=yellow)](https://github.com/flashrt-project/FlashRT/stargazers) [![Forks](https://img.shields.io/github/forks/flashrt-project/FlashRT?style=flat-square&color=blue)](https://github.com/flashrt-project/FlashRT/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 387 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ FlashRT 是面向小批量、对时延极为敏感的 AI 推理场景的高性�
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

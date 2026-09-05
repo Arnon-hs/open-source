@@ -1,6 +1,6 @@
 # sentence-transformers/paraphrase-multilingual-mpnet-base-v2
 
-[![Stars](https://img.shields.io/github/stars/sentence-transformers/paraphrase-multilingual-mpnet-base-v2?style=flat-square&color=yellow)](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2/stargazers) [![Forks](https://img.shields.io/github/forks/sentence-transformers/paraphrase-multilingual-mpnet-base-v2?style=flat-square&color=blue)](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sentence-transformers/paraphrase-multilingual-mpnet-base-v2?style=flat-square&color=yellow)](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2/stargazers) [![Forks](https://img.shields.io/github/forks/sentence-transformers/paraphrase-multilingual-mpnet-base-v2?style=flat-square&color=blue)](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2/network) [![Language](https://img.shields.io/badge/lang-sentence-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Embeddings and similarity (sentence-similarity) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ sentence-transformers/paraphrase-multilingual-mpnet-base-v2 是一个流行的�
 | forks | 0/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 36/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

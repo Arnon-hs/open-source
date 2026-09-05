@@ -1,6 +1,6 @@
 # BV-Venky/excalidraw-architect-mcp
 
-[![Stars](https://img.shields.io/github/stars/BV-Venky/excalidraw-architect-mcp?style=flat-square&color=yellow)](https://github.com/BV-Venky/excalidraw-architect-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/BV-Venky/excalidraw-architect-mcp?style=flat-square&color=blue)](https://github.com/BV-Venky/excalidraw-architect-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BV-Venky/excalidraw-architect-mcp?style=flat-square&color=yellow)](https://github.com/BV-Venky/excalidraw-architect-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/BV-Venky/excalidraw-architect-mcp?style=flat-square&color=blue)](https://github.com/BV-Venky/excalidraw-architect-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server that generates beautiful Excalidraw architecture diagrams with perfect auto-layout.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ BV‑Venky/excalidraw-architect-mcp 是一个基于 Model Context Protocol（MCP
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

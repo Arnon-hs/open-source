@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Mobile
+Crypto · Networking · Mobile
 
 ## 📝 Summary
 
@@ -94,7 +94,7 @@ Gleec Wallet 的生产可用性为中等水平。它适合用于内部工作流�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

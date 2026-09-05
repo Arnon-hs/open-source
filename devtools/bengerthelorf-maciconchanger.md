@@ -1,6 +1,6 @@
 # Bengerthelorf/macIconChanger
 
-[![Stars](https://img.shields.io/github/stars/Bengerthelorf/macIconChanger?style=flat-square&color=yellow)](https://github.com/Bengerthelorf/macIconChanger/stargazers) [![Forks](https://img.shields.io/github/forks/Bengerthelorf/macIconChanger?style=flat-square&color=blue)](https://github.com/Bengerthelorf/macIconChanger/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bengerthelorf/macIconChanger?style=flat-square&color=yellow)](https://github.com/Bengerthelorf/macIconChanger/stargazers) [![Forks](https://img.shields.io/github/forks/Bengerthelorf/macIconChanger?style=flat-square&color=blue)](https://github.com/Bengerthelorf/macIconChanger/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Transform your Mac, one icon at a time — customize app & folder icons with GUI, CLI, macOSicons.com integration, and auto-restore
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 592 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Bengerthelorf/macIconChanger 有很高的生产可用性，适合于严肃的产
 | forks | 29/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # krayin/laravel-crm
 
-[![Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=flat-square&color=yellow)](https://github.com/krayin/laravel-crm/stargazers) [![Forks](https://img.shields.io/github/forks/krayin/laravel-crm?style=flat-square&color=blue)](https://github.com/krayin/laravel-crm/network) [![Language](https://img.shields.io/badge/lang-Blade-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=flat-square&color=yellow)](https://github.com/krayin/laravel-crm/stargazers) [![Forks](https://img.shields.io/github/forks/krayin/laravel-crm?style=flat-square&color=blue)](https://github.com/krayin/laravel-crm/network) [![Language](https://img.shields.io/badge/lang-Blade-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.5k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Blade |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ krayin/laravel‑crm 是一套面向中小企业和大型企业的免费开源 L
 | forks | 79/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 89/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

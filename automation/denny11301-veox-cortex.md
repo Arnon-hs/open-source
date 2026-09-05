@@ -1,6 +1,6 @@
 # denny11301/veox-cortex
 
-[![Stars](https://img.shields.io/github/stars/denny11301/veox-cortex?style=flat-square&color=yellow)](https://github.com/denny11301/veox-cortex/stargazers) [![Forks](https://img.shields.io/github/forks/denny11301/veox-cortex?style=flat-square&color=blue)](https://github.com/denny11301/veox-cortex/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denny11301/veox-cortex?style=flat-square&color=yellow)](https://github.com/denny11301/veox-cortex/stargazers) [![Forks](https://img.shields.io/github/forks/denny11301/veox-cortex?style=flat-square&color=blue)](https://github.com/denny11301/veox-cortex/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Autonomous Cognition Engine 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ denny11301/veox-cortex 是一款基于 Rust 的自治认知引擎（Autonomous C
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

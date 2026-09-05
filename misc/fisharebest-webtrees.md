@@ -1,6 +1,6 @@
 # fisharebest/webtrees
 
-[![Stars](https://img.shields.io/github/stars/fisharebest/webtrees?style=flat-square&color=yellow)](https://github.com/fisharebest/webtrees/stargazers) [![Forks](https://img.shields.io/github/forks/fisharebest/webtrees?style=flat-square&color=blue)](https://github.com/fisharebest/webtrees/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fisharebest/webtrees?style=flat-square&color=yellow)](https://github.com/fisharebest/webtrees/stargazers) [![Forks](https://img.shields.io/github/forks/fisharebest/webtrees?style=flat-square&color=blue)](https://github.com/fisharebest/webtrees/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Online genealogy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 780 |
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ fisharebest/webtrees 是一个基于 PHP 的开源在线族谱系统，提供网
 | forks | 64/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

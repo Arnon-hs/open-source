@@ -1,6 +1,6 @@
 # SalesforceAIResearch/MCP-Universe
 
-[![Stars](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe?style=flat-square&color=yellow)](https://github.com/SalesforceAIResearch/MCP-Universe/stargazers) [![Forks](https://img.shields.io/github/forks/SalesforceAIResearch/MCP-Universe?style=flat-square&color=blue)](https://github.com/SalesforceAIResearch/MCP-Universe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe?style=flat-square&color=yellow)](https://github.com/SalesforceAIResearch/MCP-Universe/stargazers) [![Forks](https://img.shields.io/github/forks/SalesforceAIResearch/MCP-Universe?style=flat-square&color=blue)](https://github.com/SalesforceAIResearch/MCP-Universe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > MCP-Universe is a comprehensive framework designed for RL training, benchmarking, and developing AI agents for general tool-use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 592 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ SalesforceAIResearch / MCP‑Universe 为通用工具使用的强化学习�
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

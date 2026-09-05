@@ -1,6 +1,6 @@
 # voidzero-dev/oxc-angular-compiler
 
-[![Stars](https://img.shields.io/github/stars/voidzero-dev/oxc-angular-compiler?style=flat-square&color=yellow)](https://github.com/voidzero-dev/oxc-angular-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/voidzero-dev/oxc-angular-compiler?style=flat-square&color=blue)](https://github.com/voidzero-dev/oxc-angular-compiler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voidzero-dev/oxc-angular-compiler?style=flat-square&color=yellow)](https://github.com/voidzero-dev/oxc-angular-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/voidzero-dev/oxc-angular-compiler?style=flat-square&color=blue)](https://github.com/voidzero-dev/oxc-angular-compiler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Experimental Angular Compiler based Oxc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ As for production readiness, the project is considered medium, making it suitabl
 | forks | 31/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # woai3c/x-code-cli
 
-[![Stars](https://img.shields.io/github/stars/woai3c/x-code-cli?style=flat-square&color=yellow)](https://github.com/woai3c/x-code-cli/stargazers) [![Forks](https://img.shields.io/github/forks/woai3c/x-code-cli?style=flat-square&color=blue)](https://github.com/woai3c/x-code-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/woai3c/x-code-cli?style=flat-square&color=yellow)](https://github.com/woai3c/x-code-cli/stargazers) [![Forks](https://img.shields.io/github/forks/woai3c/x-code-cli?style=flat-square&color=blue)](https://github.com/woai3c/x-code-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, model-agnostic coding agent CLI with subagents, skills, MCP, and plugins.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ woai3c/x-code-cli 的生产可用性很高，主要原因是：
 | forks | 26/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # beizhu-1209/AIHelms
 
-[![Stars](https://img.shields.io/github/stars/beizhu-1209/AIHelms?style=flat-square&color=yellow)](https://github.com/beizhu-1209/AIHelms/stargazers) [![Forks](https://img.shields.io/github/forks/beizhu-1209/AIHelms?style=flat-square&color=blue)](https://github.com/beizhu-1209/AIHelms/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beizhu-1209/AIHelms?style=flat-square&color=yellow)](https://github.com/beizhu-1209/AIHelms/stargazers) [![Forks](https://img.shields.io/github/forks/beizhu-1209/AIHelms?style=flat-square&color=blue)](https://github.com/beizhu-1209/AIHelms/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 企业级 AI 资源纳管平台，提供统一 AI网关，纳管 OpenAI、Azure、Claude、DeepSeek 等主流模型，并支持 MCP 工具与 Skill 的集中注册分发。具备内外双轨定价、成本归因、统一身份认证、安全审计与效能报表，帮助企业精准控制成本、量化 ROI，高效治理 AI 资产。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Observability · DevOps/Infra
+MCP · AI/ML · Cloud & Storage · Backend · Observability
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ AIHelms 是面向企业的 AI 资源统一管理平台，提供统一的 AI 网�
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # AtomicBot-ai/Atomic-Chat
 
-[![Stars](https://img.shields.io/github/stars/AtomicBot-ai/Atomic-Chat?style=flat-square&color=yellow)](https://github.com/AtomicBot-ai/Atomic-Chat/stargazers) [![Forks](https://img.shields.io/github/forks/AtomicBot-ai/Atomic-Chat?style=flat-square&color=blue)](https://github.com/AtomicBot-ai/Atomic-Chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AtomicBot-ai/Atomic-Chat?style=flat-square&color=yellow)](https://github.com/AtomicBot-ai/Atomic-Chat/stargazers) [![Forks](https://img.shields.io/github/forks/AtomicBot-ai/Atomic-Chat?style=flat-square&color=blue)](https://github.com/AtomicBot-ai/Atomic-Chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 967 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Communication · Productivity
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ AtomicBot‑ai/Atomic‑Chat 是一款本地化的 AI 应用与推理引擎，�
 | forks | 50/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

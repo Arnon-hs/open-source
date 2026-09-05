@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 16k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ jeecgboot/JeecgBoot：jeecgboot/JeecgBoot helps connect AI assistants to real to
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

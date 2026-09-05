@@ -1,6 +1,6 @@
 # czl9707/agents-are-thinking
 
-[![Stars](https://img.shields.io/github/stars/czl9707/agents-are-thinking?style=flat-square&color=yellow)](https://github.com/czl9707/agents-are-thinking/stargazers) [![Forks](https://img.shields.io/github/forks/czl9707/agents-are-thinking?style=flat-square&color=blue)](https://github.com/czl9707/agents-are-thinking/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/czl9707/agents-are-thinking?style=flat-square&color=yellow)](https://github.com/czl9707/agents-are-thinking/stargazers) [![Forks](https://img.shields.io/github/forks/czl9707/agents-are-thinking?style=flat-square&color=blue)](https://github.com/czl9707/agents-are-thinking/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Exploring agent "thinking" animation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,11 +69,11 @@ czl9707/agents-are-thinking 提供了即插即用的 AI “思考” 动画组�
 | forks | 27/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

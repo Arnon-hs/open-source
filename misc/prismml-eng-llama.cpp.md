@@ -1,6 +1,6 @@
 # PrismML-Eng/llama.cpp
 
-[![Stars](https://img.shields.io/github/stars/PrismML-Eng/llama.cpp?style=flat-square&color=yellow)](https://github.com/PrismML-Eng/llama.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/PrismML-Eng/llama.cpp?style=flat-square&color=blue)](https://github.com/PrismML-Eng/llama.cpp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrismML-Eng/llama.cpp?style=flat-square&color=yellow)](https://github.com/PrismML-Eng/llama.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/PrismML-Eng/llama.cpp?style=flat-square&color=blue)](https://github.com/PrismML-Eng/llama.cpp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: Qwen 3.6 27b на 8-12gb vram в llama.cpp до 256к контекста
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 31/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ Qwen 3.6 27b 是一个开源项目，用于在 llama.cpp 上利用 8-12GB 的 VR
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 32/100 |
-| quality | 24/100 |
-| recency | 40/100 |
+| outlook | 46/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 37/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

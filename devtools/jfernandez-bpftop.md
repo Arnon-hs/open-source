@@ -1,6 +1,6 @@
 # jfernandez/bpftop
 
-[![Stars](https://img.shields.io/github/stars/jfernandez/bpftop?style=flat-square&color=yellow)](https://github.com/jfernandez/bpftop/stargazers) [![Forks](https://img.shields.io/github/forks/jfernandez/bpftop?style=flat-square&color=blue)](https://github.com/jfernandez/bpftop/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jfernandez/bpftop?style=flat-square&color=yellow)](https://github.com/jfernandez/bpftop/stargazers) [![Forks](https://img.shields.io/github/forks/jfernandez/bpftop?style=flat-square&color=blue)](https://github.com/jfernandez/bpftop/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ bpftop 的生产可用性较高，主要原因是：
 | forks | 53/100 |
 | stars | 73/100 |
 | topics | 50/100 |
-| outlook | 61/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

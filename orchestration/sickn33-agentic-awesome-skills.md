@@ -1,6 +1,6 @@
 # sickn33/agentic-awesome-skills
 
-[![Stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square&color=yellow)](https://github.com/sickn33/agentic-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sickn33/agentic-awesome-skills?style=flat-square&color=blue)](https://github.com/sickn33/agentic-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square&color=yellow)](https://github.com/sickn33/agentic-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sickn33/agentic-awesome-skills?style=flat-square&color=blue)](https://github.com/sickn33/agentic-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42.6k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 94/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ sickn33/agentic-awesome-skills 帮助将孤立的提示和工具转变为可重�
 | forks | 96/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 84/100 |
-| recency | 40/100 |
+| outlook | 92/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 70/100 |
+| production | 83/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

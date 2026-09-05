@@ -1,6 +1,6 @@
 # allinurl/goaccess
 
-[![Stars](https://img.shields.io/github/stars/allinurl/goaccess?style=flat-square&color=yellow)](https://github.com/allinurl/goaccess/stargazers) [![Forks](https://img.shields.io/github/forks/allinurl/goaccess?style=flat-square&color=blue)](https://github.com/allinurl/goaccess/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allinurl/goaccess?style=flat-square&color=yellow)](https://github.com/allinurl/goaccess/stargazers) [![Forks](https://img.shields.io/github/forks/allinurl/goaccess?style=flat-square&color=blue)](https://github.com/allinurl/goaccess/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.7k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ GoAccess 的生产可用性非常高，评分为 85/100。其 GitHub 星号数�
 | forks | 77/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 88/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

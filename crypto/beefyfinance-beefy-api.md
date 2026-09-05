@@ -1,6 +1,6 @@
 # beefyfinance/beefy-api
 
-[![Stars](https://img.shields.io/github/stars/beefyfinance/beefy-api?style=flat-square&color=yellow)](https://github.com/beefyfinance/beefy-api/stargazers) [![Forks](https://img.shields.io/github/forks/beefyfinance/beefy-api?style=flat-square&color=blue)](https://github.com/beefyfinance/beefy-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beefyfinance/beefy-api?style=flat-square&color=yellow)](https://github.com/beefyfinance/beefy-api/stargazers) [![Forks](https://img.shields.io/github/forks/beefyfinance/beefy-api?style=flat-square&color=blue)](https://github.com/beefyfinance/beefy-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Simple API for BeefyFinance
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ beefyfinance/beefy-api 的生产可用性非常高，因为它：
 | forks | 58/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

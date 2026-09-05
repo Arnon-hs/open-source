@@ -1,6 +1,6 @@
 # deafdudecomputers/PalworldSaveTools
 
-[![Stars](https://img.shields.io/github/stars/deafdudecomputers/PalworldSaveTools?style=flat-square&color=yellow)](https://github.com/deafdudecomputers/PalworldSaveTools/stargazers) [![Forks](https://img.shields.io/github/forks/deafdudecomputers/PalworldSaveTools?style=flat-square&color=blue)](https://github.com/deafdudecomputers/PalworldSaveTools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deafdudecomputers/PalworldSaveTools?style=flat-square&color=yellow)](https://github.com/deafdudecomputers/PalworldSaveTools/stargazers) [![Forks](https://img.shields.io/github/forks/deafdudecomputers/PalworldSaveTools?style=flat-square&color=blue)](https://github.com/deafdudecomputers/PalworldSaveTools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > PalworldSaveTools - A comprehensive toolkit designed to fix, transfer, edit, and manage your Palworld save files with ease.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 437 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ PalworldSaveTools 的生产可用性为中等（Medium）。它适合用于内�
 | forks | 40/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

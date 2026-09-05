@@ -1,6 +1,6 @@
 # leoncuhk/awesome-quant-ai
 
-[![Stars](https://img.shields.io/github/stars/leoncuhk/awesome-quant-ai?style=flat-square&color=yellow)](https://github.com/leoncuhk/awesome-quant-ai/stargazers) [![Forks](https://img.shields.io/github/forks/leoncuhk/awesome-quant-ai?style=flat-square&color=blue)](https://github.com/leoncuhk/awesome-quant-ai/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leoncuhk/awesome-quant-ai?style=flat-square&color=yellow)](https://github.com/leoncuhk/awesome-quant-ai/stargazers) [![Forks](https://img.shields.io/github/forks/leoncuhk/awesome-quant-ai?style=flat-square&color=blue)](https://github.com/leoncuhk/awesome-quant-ai/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome resources for quantitative investment and trading strategies focusing on artificial intelligence and machine learning applications in finance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 554 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ leoncuhk/awesome-quant-ai 是一个致力于量化投资和交易策略的开源
 | forks | 51/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

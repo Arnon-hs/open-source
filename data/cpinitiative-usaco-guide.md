@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 631 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ cpinitiative/usaco-guide：cpinitiative/usaco-guide helps convert raw data into 
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

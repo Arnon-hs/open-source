@@ -1,6 +1,6 @@
 # RYOITABASHI/Shelly
 
-[![Stars](https://img.shields.io/github/stars/RYOITABASHI/Shelly?style=flat-square&color=yellow)](https://github.com/RYOITABASHI/Shelly/stargazers) [![Forks](https://img.shields.io/github/forks/RYOITABASHI/Shelly?style=flat-square&color=blue)](https://github.com/RYOITABASHI/Shelly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RYOITABASHI/Shelly?style=flat-square&color=yellow)](https://github.com/RYOITABASHI/Shelly/stargazers) [![Forks](https://img.shields.io/github/forks/RYOITABASHI/Shelly?style=flat-square&color=blue)](https://github.com/RYOITABASHI/Shelly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered chat-first terminal IDE for Android. Built entirely on a phone, by someone who can't write code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Mobile
+AI/ML · Communication · Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ RYOITABASHI/Shelly 是一款基于 AI 的「聊天优先」终端 IDE，专为 A
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Quenary/tugtainer
 
-[![Stars](https://img.shields.io/github/stars/Quenary/tugtainer?style=flat-square&color=yellow)](https://github.com/Quenary/tugtainer/stargazers) [![Forks](https://img.shields.io/github/forks/Quenary/tugtainer?style=flat-square&color=blue)](https://github.com/Quenary/tugtainer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quenary/tugtainer?style=flat-square&color=yellow)](https://github.com/Quenary/tugtainer/stargazers) [![Forks](https://img.shields.io/github/forks/Quenary/tugtainer?style=flat-square&color=blue)](https://github.com/Quenary/tugtainer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > An application for automated Docker container updates with a web UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Quenary/tugtainer 是一款基于 Web UI 的自动化 Docker 容器更新工具�
 | forks | 41/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 83/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

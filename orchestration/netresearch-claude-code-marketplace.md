@@ -1,6 +1,6 @@
 # netresearch/claude-code-marketplace
 
-[![Stars](https://img.shields.io/github/stars/netresearch/claude-code-marketplace?style=flat-square&color=yellow)](https://github.com/netresearch/claude-code-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/netresearch/claude-code-marketplace?style=flat-square&color=blue)](https://github.com/netresearch/claude-code-marketplace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netresearch/claude-code-marketplace?style=flat-square&color=yellow)](https://github.com/netresearch/claude-code-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/netresearch/claude-code-marketplace?style=flat-square&color=blue)](https://github.com/netresearch/claude-code-marketplace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Curated Agent Skills collection for AI-assisted development | Claude Code & other AI agents | By Netresearch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ netresearch/claude-code-marketplace 是一个精选的 AI 代理技能库，旨�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 46/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

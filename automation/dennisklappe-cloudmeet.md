@@ -1,6 +1,6 @@
 # dennisklappe/CloudMeet
 
-[![Stars](https://img.shields.io/github/stars/dennisklappe/CloudMeet?style=flat-square&color=yellow)](https://github.com/dennisklappe/CloudMeet/stargazers) [![Forks](https://img.shields.io/github/forks/dennisklappe/CloudMeet?style=flat-square&color=blue)](https://github.com/dennisklappe/CloudMeet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dennisklappe/CloudMeet?style=flat-square&color=yellow)](https://github.com/dennisklappe/CloudMeet/stargazers) [![Forks](https://img.shields.io/github/forks/dennisklappe/CloudMeet?style=flat-square&color=blue)](https://github.com/dennisklappe/CloudMeet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Calendly alternative running on Cloudflare's free tier. Meeting scheduler with Google Calendar and Outlook sync.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 502 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Communication
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ dennisklappe/CloudMeet 的生产可用性较高，主要原因是其最近的活
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

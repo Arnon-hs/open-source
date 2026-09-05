@@ -1,6 +1,6 @@
 # mainsail-crew/mainsail
 
-[![Stars](https://img.shields.io/github/stars/mainsail-crew/mainsail?style=flat-square&color=yellow)](https://github.com/mainsail-crew/mainsail/stargazers) [![Forks](https://img.shields.io/github/forks/mainsail-crew/mainsail?style=flat-square&color=blue)](https://github.com/mainsail-crew/mainsail/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mainsail-crew/mainsail?style=flat-square&color=yellow)](https://github.com/mainsail-crew/mainsail/stargazers) [![Forks](https://img.shields.io/github/forks/mainsail-crew/mainsail?style=flat-square&color=blue)](https://github.com/mainsail-crew/mainsail/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Mainsail 是一款基于 Vue 的开源 Web 前端，专门用于管理和控制�
 | forks | 68/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

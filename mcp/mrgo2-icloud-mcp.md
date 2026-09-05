@@ -1,6 +1,6 @@
 # MrGo2/icloud-mcp
 
-[![Stars](https://img.shields.io/github/stars/MrGo2/icloud-mcp?style=flat-square&color=yellow)](https://github.com/MrGo2/icloud-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MrGo2/icloud-mcp?style=flat-square&color=blue)](https://github.com/MrGo2/icloud-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MrGo2/icloud-mcp?style=flat-square&color=yellow)](https://github.com/MrGo2/icloud-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MrGo2/icloud-mcp?style=flat-square&color=blue)](https://github.com/MrGo2/icloud-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Apple services — Mail, Calendar, Contacts, Reminders, Notes, Messages, Safari — via AppleScript (local) or iCloud IMAP/CalDAV/CardDAV (cloud)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ MrGo2/icloud-mcp 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 28/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

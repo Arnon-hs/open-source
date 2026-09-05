@@ -1,6 +1,6 @@
 # EnterOS-AI/enter-os-core
 
-[![Stars](https://img.shields.io/github/stars/EnterOS-AI/enter-os-core?style=flat-square&color=yellow)](https://github.com/EnterOS-AI/enter-os-core/stargazers) [![Forks](https://img.shields.io/github/forks/EnterOS-AI/enter-os-core?style=flat-square&color=blue)](https://github.com/EnterOS-AI/enter-os-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EnterOS-AI/enter-os-core?style=flat-square&color=yellow)](https://github.com/EnterOS-AI/enter-os-core/stargazers) [![Forks](https://img.shields.io/github/forks/EnterOS-AI/enter-os-core?style=flat-square&color=blue)](https://github.com/EnterOS-AI/enter-os-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The first operating system for AI agents — run heterogeneous agents as one governed, memory-driven, production-ready organization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ EnterOS‑AI/enter‑os‑core 为希望快速在业务系统中加入 AI 代理
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

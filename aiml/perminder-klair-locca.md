@@ -1,6 +1,6 @@
 # perminder-klair/locca
 
-[![Stars](https://img.shields.io/github/stars/perminder-klair/locca?style=flat-square&color=yellow)](https://github.com/perminder-klair/locca/stargazers) [![Forks](https://img.shields.io/github/forks/perminder-klair/locca?style=flat-square&color=blue)](https://github.com/perminder-klair/locca/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/perminder-klair/locca?style=flat-square&color=yellow)](https://github.com/perminder-klair/locca/stargazers) [![Forks](https://img.shields.io/github/forks/perminder-klair/locca?style=flat-square&color=blue)](https://github.com/perminder-klair/locca/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A TUI around llama.cpp for running, managing, and benchmarking local GGUF models and launching the pi coding agent against your local server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ perminder-klair/locca 的生产可用性为中等。它适合用于内部工作�
 | forks | 0/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

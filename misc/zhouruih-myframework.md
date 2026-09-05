@@ -1,6 +1,6 @@
 # ZHOURUIH/MyFramework
 
-[![Stars](https://img.shields.io/github/stars/ZHOURUIH/MyFramework?style=flat-square&color=yellow)](https://github.com/ZHOURUIH/MyFramework/stargazers) [![Forks](https://img.shields.io/github/forks/ZHOURUIH/MyFramework?style=flat-square&color=blue)](https://github.com/ZHOURUIH/MyFramework/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZHOURUIH/MyFramework?style=flat-square&color=yellow)](https://github.com/ZHOURUIH/MyFramework/stargazers) [![Forks](https://img.shields.io/github/forks/ZHOURUIH/MyFramework?style=flat-square&color=blue)](https://github.com/ZHOURUIH/MyFramework/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Unity 商用级别开发框架,经过了多年经验沉淀.一个在unity上使用的网络游戏客户端开发框架,为unity所有使用方式提供完善的封装和管理,只需要专注于游戏逻辑的编写
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 779 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ ZHOURUIH/MyFramework 是一套商用级别的 Unity 开发框架，能够快速�
 | forks | 56/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

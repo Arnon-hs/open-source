@@ -1,6 +1,6 @@
 # zzmy1917-svg/cheap-vpn-airport
 
-[![Stars](https://img.shields.io/github/stars/zzmy1917-svg/cheap-vpn-airport?style=flat-square&color=yellow)](https://github.com/zzmy1917-svg/cheap-vpn-airport/stargazers) [![Forks](https://img.shields.io/github/forks/zzmy1917-svg/cheap-vpn-airport?style=flat-square&color=blue)](https://github.com/zzmy1917-svg/cheap-vpn-airport/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zzmy1917-svg/cheap-vpn-airport?style=flat-square&color=yellow)](https://github.com/zzmy1917-svg/cheap-vpn-airport/stargazers) [![Forks](https://img.shields.io/github/forks/zzmy1917-svg/cheap-vpn-airport?style=flat-square&color=blue)](https://github.com/zzmy1917-svg/cheap-vpn-airport/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🚁🚀 2026便宜VPN机场推荐 | 性价比机场 | 低价机场！便宜VPN，快连VPN ，小牛VPN，熊猫VPN。低价机场，便宜机场，平价机场，廉价机场，翻墙机场，付费机场，收费机场，高速机场，稳定机场，冷门机场，性价比机场，优质机场，翻墙梯子推荐。解锁AI Agent、Claude、Skills、ChatGPT，YouTube、Netflix、TikTok、bilibili港澳台。翻墙，科学上网，梯子。非免费梯子，非免费VPN，非免费机场！谷歌，油管。适用Clash，V2RAY，小火箭等代理软件。🚀🚁
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Networking
 
 ## 📝 Summary
 
@@ -91,15 +91,15 @@ zzmy1917-svg/cheap-vpn-airport 是一个开源项目，提供便宜的 VPN机场
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Tencent/libpag
 
-[![Stars](https://img.shields.io/github/stars/Tencent/libpag?style=flat-square&color=yellow)](https://github.com/Tencent/libpag/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/libpag?style=flat-square&color=blue)](https://github.com/Tencent/libpag/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/libpag?style=flat-square&color=yellow)](https://github.com/Tencent/libpag/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/libpag?style=flat-square&color=blue)](https://github.com/Tencent/libpag/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 533 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Tencent/libpag 的生产可用性非常高，因为它有强大的社区支持�
 | forks | 68/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

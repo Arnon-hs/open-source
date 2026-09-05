@@ -1,6 +1,6 @@
 # kubernetes-sigs/sig-storage-local-static-provisioner
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/sig-storage-local-static-provisioner?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/sig-storage-local-static-provisioner?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/sig-storage-local-static-provisioner?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/sig-storage-local-static-provisioner?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Static provisioner of local volumes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 349 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Here's a brief summary of the open-source project:
 | forks | 64/100 |
 | stars | 66/100 |
 | topics | 13/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

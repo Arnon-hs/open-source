@@ -1,6 +1,6 @@
 # grobidOrg/grobid
 
-[![Stars](https://img.shields.io/github/stars/grobidOrg/grobid?style=flat-square&color=yellow)](https://github.com/grobidOrg/grobid/stargazers) [![Forks](https://img.shields.io/github/forks/grobidOrg/grobid?style=flat-square&color=blue)](https://github.com/grobidOrg/grobid/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grobidOrg/grobid?style=flat-square&color=yellow)](https://github.com/grobidOrg/grobid/stargazers) [![Forks](https://img.shields.io/github/forks/grobidOrg/grobid?style=flat-square&color=blue)](https://github.com/grobidOrg/grobid/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A machine learning software for extracting information from scholarly documents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 565 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database · Education
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ grobidOrg/grobid 的生产可用性很高，主要原因是：
 | forks | 69/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

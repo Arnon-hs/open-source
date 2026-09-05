@@ -1,6 +1,6 @@
 # jarvis2f/telegram-files
 
-[![Stars](https://img.shields.io/github/stars/jarvis2f/telegram-files?style=flat-square&color=yellow)](https://github.com/jarvis2f/telegram-files/stargazers) [![Forks](https://img.shields.io/github/forks/jarvis2f/telegram-files?style=flat-square&color=blue)](https://github.com/jarvis2f/telegram-files/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jarvis2f/telegram-files?style=flat-square&color=yellow)](https://github.com/jarvis2f/telegram-files/stargazers) [![Forks](https://img.shields.io/github/forks/jarvis2f/telegram-files?style=flat-square&color=blue)](https://github.com/jarvis2f/telegram-files/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ jarvis2f/telegram-files 是一个开源项目，提供了一个自主托管的 T
 | forks | 56/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

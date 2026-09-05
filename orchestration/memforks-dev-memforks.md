@@ -1,6 +1,6 @@
 # memforks-dev/memforks
 
-[![Stars](https://img.shields.io/github/stars/memforks-dev/memforks?style=flat-square&color=yellow)](https://github.com/memforks-dev/memforks/stargazers) [![Forks](https://img.shields.io/github/forks/memforks-dev/memforks?style=flat-square&color=blue)](https://github.com/memforks-dev/memforks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memforks-dev/memforks?style=flat-square&color=yellow)](https://github.com/memforks-dev/memforks/stargazers) [![Forks](https://img.shields.io/github/forks/memforks-dev/memforks?style=flat-square&color=blue)](https://github.com/memforks-dev/memforks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Git for AI agent memory
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ memforks-dev/memforks 的生产可用性为中等（Medium）。虽然它对于�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

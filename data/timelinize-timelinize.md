@@ -1,6 +1,6 @@
 # timelinize/timelinize
 
-[![Stars](https://img.shields.io/github/stars/timelinize/timelinize?style=flat-square&color=yellow)](https://github.com/timelinize/timelinize/stargazers) [![Forks](https://img.shields.io/github/forks/timelinize/timelinize?style=flat-square&color=blue)](https://github.com/timelinize/timelinize/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timelinize/timelinize?style=flat-square&color=yellow)](https://github.com/timelinize/timelinize/stargazers) [![Forks](https://img.shields.io/github/forks/timelinize/timelinize?style=flat-square&color=blue)](https://github.com/timelinize/timelinize/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Timelinize（timelinize/timelinize）是一款开源工具，能够把来自多�
 | forks | 51/100 |
 | stars | 75/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

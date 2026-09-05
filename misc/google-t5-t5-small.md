@@ -1,6 +1,6 @@
 # google-t5/t5-small
 
-[![Stars](https://img.shields.io/github/stars/google-t5/t5-small?style=flat-square&color=yellow)](https://huggingface.co/google-t5/t5-small/stargazers) [![Forks](https://img.shields.io/github/forks/google-t5/t5-small?style=flat-square&color=blue)](https://huggingface.co/google-t5/t5-small/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-t5/t5-small?style=flat-square&color=yellow)](https://huggingface.co/google-t5/t5-small/stargazers) [![Forks](https://img.shields.io/github/forks/google-t5/t5-small?style=flat-square&color=blue)](https://huggingface.co/google-t5/t5-small/network) [![Language](https://img.shields.io/badge/lang-transformers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Translation (translation) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 579 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Google T5 小型模型是一款流行的开源模型，用于 Hugging Face 的�
 | forks | 0/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 37/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

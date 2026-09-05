@@ -1,6 +1,6 @@
 # Quaver/Quaver
 
-[![Stars](https://img.shields.io/github/stars/Quaver/Quaver?style=flat-square&color=yellow)](https://github.com/Quaver/Quaver/stargazers) [![Forks](https://img.shields.io/github/forks/Quaver/Quaver?style=flat-square&color=blue)](https://github.com/Quaver/Quaver/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quaver/Quaver?style=flat-square&color=yellow)](https://github.com/Quaver/Quaver/stargazers) [![Forks](https://img.shields.io/github/forks/Quaver/Quaver?style=flat-square&color=blue)](https://github.com/Quaver/Quaver/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 780 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Quaver 是一款社区驱动、开源的竞技节奏游戏，已在 Steam 上发
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

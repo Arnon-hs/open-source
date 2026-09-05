@@ -1,6 +1,6 @@
 # xhluca/bm25s
 
-[![Stars](https://img.shields.io/github/stars/xhluca/bm25s?style=flat-square&color=yellow)](https://github.com/xhluca/bm25s/stargazers) [![Forks](https://img.shields.io/github/forks/xhluca/bm25s?style=flat-square&color=blue)](https://github.com/xhluca/bm25s/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xhluca/bm25s?style=flat-square&color=yellow)](https://github.com/xhluca/bm25s/stargazers) [![Forks](https://img.shields.io/github/forks/xhluca/bm25s?style=flat-square&color=blue)](https://github.com/xhluca/bm25s/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Fast BM25 search in Python, powered by Numpy and Numba
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ xhluca/bm25s 是基于 Numpy 与 Numba 实现的高速 BM25 检索库，提供�
 | forks | 50/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 54/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

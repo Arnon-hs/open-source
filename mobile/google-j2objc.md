@@ -1,6 +1,6 @@
 # google/j2objc
 
-[![Stars](https://img.shields.io/github/stars/google/j2objc?style=flat-square&color=yellow)](https://github.com/google/j2objc/stargazers) [![Forks](https://img.shields.io/github/forks/google/j2objc?style=flat-square&color=blue)](https://github.com/google/j2objc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/j2objc?style=flat-square&color=yellow)](https://github.com/google/j2objc/stargazers) [![Forks](https://img.shields.io/github/forks/google/j2objc?style=flat-square&color=blue)](https://github.com/google/j2objc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A Java to iOS Objective-C translation tool and runtime.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 998 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ google/j2objc 的生产可用性是中等的。虽然它可以用于快速开发
 | forks | 75/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

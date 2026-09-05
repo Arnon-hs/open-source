@@ -1,6 +1,6 @@
 # GrapesJS/grapesjs
 
-[![Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=flat-square&color=yellow)](https://github.com/GrapesJS/grapesjs/stargazers) [![Forks](https://img.shields.io/github/forks/GrapesJS/grapesjs?style=flat-square&color=blue)](https://github.com/GrapesJS/grapesjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=flat-square&color=yellow)](https://github.com/GrapesJS/grapesjs/stargazers) [![Forks](https://img.shields.io/github/forks/GrapesJS/grapesjs?style=flat-square&color=blue)](https://github.com/GrapesJS/grapesjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ GrapesJS 是一款免费且开源的 Web 页面构建框架，提供可视化拖
 | forks | 92/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 91/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Cairo-Dock/cairo-dock-core
 
-[![Stars](https://img.shields.io/github/stars/Cairo-Dock/cairo-dock-core?style=flat-square&color=yellow)](https://github.com/Cairo-Dock/cairo-dock-core/stargazers) [![Forks](https://img.shields.io/github/forks/Cairo-Dock/cairo-dock-core?style=flat-square&color=blue)](https://github.com/Cairo-Dock/cairo-dock-core/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cairo-Dock/cairo-dock-core?style=flat-square&color=yellow)](https://github.com/Cairo-Dock/cairo-dock-core/stargazers) [![Forks](https://img.shields.io/github/forks/Cairo-Dock/cairo-dock-core?style=flat-square&color=blue)](https://github.com/Cairo-Dock/cairo-dock-core/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Core part of Cairo-Dock project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Cairo-Dock/cairo-dock-core 的生产可用性为 中等。虽然它是一个稳�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

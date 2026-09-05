@@ -1,6 +1,6 @@
 # rany2/edge-tts
 
-[![Stars](https://img.shields.io/github/stars/rany2/edge-tts?style=flat-square&color=yellow)](https://github.com/rany2/edge-tts/stargazers) [![Forks](https://img.shields.io/github/forks/rany2/edge-tts?style=flat-square&color=blue)](https://github.com/rany2/edge-tts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rany2/edge-tts?style=flat-square&color=yellow)](https://github.com/rany2/edge-tts/stargazers) [![Forks](https://img.shields.io/github/forks/rany2/edge-tts?style=flat-square&color=blue)](https://github.com/rany2/edge-tts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ rany2/edge-tts：rany2/edge-tts may be useful when its README and activity match
 | forks | 76/100 |
 | stars | 87/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

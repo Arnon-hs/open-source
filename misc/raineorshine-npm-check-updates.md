@@ -1,6 +1,6 @@
 # raineorshine/npm-check-updates
 
-[![Stars](https://img.shields.io/github/stars/raineorshine/npm-check-updates?style=flat-square&color=yellow)](https://github.com/raineorshine/npm-check-updates/stargazers) [![Forks](https://img.shields.io/github/forks/raineorshine/npm-check-updates?style=flat-square&color=blue)](https://github.com/raineorshine/npm-check-updates/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raineorshine/npm-check-updates?style=flat-square&color=yellow)](https://github.com/raineorshine/npm-check-updates/stargazers) [![Forks](https://img.shields.io/github/forks/raineorshine/npm-check-updates?style=flat-square&color=blue)](https://github.com/raineorshine/npm-check-updates/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Find newer versions of package dependencies than what your package.json allows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 370 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ The project shows strong OSS health: recent commits (as of 2026‑07‑04), >1
 | forks | 64/100 |
 | stars | 85/100 |
 | topics | 25/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

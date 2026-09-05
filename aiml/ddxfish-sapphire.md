@@ -1,6 +1,6 @@
 # ddxfish/sapphire
 
-[![Stars](https://img.shields.io/github/stars/ddxfish/sapphire?style=flat-square&color=yellow)](https://github.com/ddxfish/sapphire/stargazers) [![Forks](https://img.shields.io/github/forks/ddxfish/sapphire?style=flat-square&color=blue)](https://github.com/ddxfish/sapphire/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ddxfish/sapphire?style=flat-square&color=yellow)](https://github.com/ddxfish/sapphire/stargazers) [![Forks](https://img.shields.io/github/forks/ddxfish/sapphire?style=flat-square&color=blue)](https://github.com/ddxfish/sapphire/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > She's the AI agent you come home to.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 269 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Communication · Frontend
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ ddxfish/sapphire 的生产可用性较高，主要原因是：
 | forks | 46/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

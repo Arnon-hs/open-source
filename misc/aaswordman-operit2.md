@@ -1,6 +1,6 @@
 # AAswordman/Operit2
 
-[![Stars](https://img.shields.io/github/stars/AAswordman/Operit2?style=flat-square&color=yellow)](https://github.com/AAswordman/Operit2/stargazers) [![Forks](https://img.shields.io/github/forks/AAswordman/Operit2?style=flat-square&color=blue)](https://github.com/AAswordman/Operit2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AAswordman/Operit2?style=flat-square&color=yellow)](https://github.com/AAswordman/Operit2/stargazers) [![Forks](https://img.shields.io/github/forks/AAswordman/Operit2?style=flat-square&color=blue)](https://github.com/AAswordman/Operit2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ AAswordman/Operit2是一个全平台的AI Agent智能体，提供了跨平台数
 | forks | 24/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 40/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 45/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

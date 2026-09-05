@@ -1,6 +1,6 @@
 # mozilla-ai/mcpd
 
-[![Stars](https://img.shields.io/github/stars/mozilla-ai/mcpd?style=flat-square&color=yellow)](https://github.com/mozilla-ai/mcpd/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla-ai/mcpd?style=flat-square&color=blue)](https://github.com/mozilla-ai/mcpd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla-ai/mcpd?style=flat-square&color=yellow)](https://github.com/mozilla-ai/mcpd/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla-ai/mcpd?style=flat-square&color=blue)](https://github.com/mozilla-ai/mcpd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Declaratively define and run required tools across environments, from local development to containerized cloud deployments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Mozilla-ai/mcpd是一个开源项目，允许用户声明式地定义和运行�
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

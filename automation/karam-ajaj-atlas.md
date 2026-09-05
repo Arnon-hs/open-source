@@ -1,6 +1,6 @@
 # karam-ajaj/atlas
 
-[![Stars](https://img.shields.io/github/stars/karam-ajaj/atlas?style=flat-square&color=yellow)](https://github.com/karam-ajaj/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/karam-ajaj/atlas?style=flat-square&color=blue)](https://github.com/karam-ajaj/atlas/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karam-ajaj/atlas?style=flat-square&color=yellow)](https://github.com/karam-ajaj/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/karam-ajaj/atlas?style=flat-square&color=blue)](https://github.com/karam-ajaj/atlas/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Observability · DevOps/Infra
+Automation · Networking · Frontend · Backend · Data
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ karam‑ajaj/atlas 是一款基于 Go、FastAPI 与 React 的开源网络发现�
 | forks | 42/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nix-community/nix-direnv
 
-[![Stars](https://img.shields.io/github/stars/nix-community/nix-direnv?style=flat-square&color=yellow)](https://github.com/nix-community/nix-direnv/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/nix-direnv?style=flat-square&color=blue)](https://github.com/nix-community/nix-direnv/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nix-community/nix-direnv?style=flat-square&color=yellow)](https://github.com/nix-community/nix-direnv/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/nix-direnv?style=flat-square&color=blue)](https://github.com/nix-community/nix-direnv/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ nix-direnv 是一个为 direnv 提供快速、持久的 `use_nix` / `use_flake` 
 | forks | 54/100 |
 | stars | 73/100 |
 | topics | 25/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

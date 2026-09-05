@@ -1,6 +1,6 @@
 # iM3SK/cc-aio-mon
 
-[![Stars](https://img.shields.io/github/stars/iM3SK/cc-aio-mon?style=flat-square&color=yellow)](https://github.com/iM3SK/cc-aio-mon/stargazers) [![Forks](https://img.shields.io/github/forks/iM3SK/cc-aio-mon?style=flat-square&color=blue)](https://github.com/iM3SK/cc-aio-mon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iM3SK/cc-aio-mon?style=flat-square&color=yellow)](https://github.com/iM3SK/cc-aio-mon/stargazers) [![Forks](https://img.shields.io/github/forks/iM3SK/cc-aio-mon?style=flat-square&color=blue)](https://github.com/iM3SK/cc-aio-mon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time terminal monitor for Claude Code — context window, rate limits, costs, burn rate. Stdlib only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ iM3SK/cc-aio-mon 帮助开发者在不从零开始构建模型堆栈的情况下
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

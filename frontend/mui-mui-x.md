@@ -1,6 +1,6 @@
 # mui/mui-x
 
-[![Stars](https://img.shields.io/github/stars/mui/mui-x?style=flat-square&color=yellow)](https://github.com/mui/mui-x/stargazers) [![Forks](https://img.shields.io/github/forks/mui/mui-x?style=flat-square&color=blue)](https://github.com/mui/mui-x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mui/mui-x?style=flat-square&color=yellow)](https://github.com/mui/mui-x/stargazers) [![Forks](https://img.shields.io/github/forks/mui/mui-x?style=flat-square&color=blue)](https://github.com/mui/mui-x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ MUI X 是基于 React 的高级 UI 组件库，提供 Data Grid、日期时间
 | forks | 81/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

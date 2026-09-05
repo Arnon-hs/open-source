@@ -1,6 +1,6 @@
 # PeculiarVentures/PKI.js
 
-[![Stars](https://img.shields.io/github/stars/PeculiarVentures/PKI.js?style=flat-square&color=yellow)](https://github.com/PeculiarVentures/PKI.js/stargazers) [![Forks](https://img.shields.io/github/forks/PeculiarVentures/PKI.js?style=flat-square&color=blue)](https://github.com/PeculiarVentures/PKI.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PeculiarVentures/PKI.js?style=flat-square&color=yellow)](https://github.com/PeculiarVentures/PKI.js/stargazers) [![Forks](https://img.shields.io/github/forks/PeculiarVentures/PKI.js?style=flat-square&color=blue)](https://github.com/PeculiarVentures/PKI.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > PKI.js is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ PKI.js 的生产可用性很高，主要原因是：
 | forks | 58/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

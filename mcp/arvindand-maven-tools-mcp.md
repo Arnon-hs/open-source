@@ -1,6 +1,6 @@
 # arvindand/maven-tools-mcp
 
-[![Stars](https://img.shields.io/github/stars/arvindand/maven-tools-mcp?style=flat-square&color=yellow)](https://github.com/arvindand/maven-tools-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/arvindand/maven-tools-mcp?style=flat-square&color=blue)](https://github.com/arvindand/maven-tools-mcp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arvindand/maven-tools-mcp?style=flat-square&color=yellow)](https://github.com/arvindand/maven-tools-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/arvindand/maven-tools-mcp?style=flat-square&color=blue)](https://github.com/arvindand/maven-tools-mcp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server providing AI assistants with Maven Central dependency intelligence for all JVM build tools (Maven, Gradle, SBT, Mill). Features Context7 integration for documentation support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ arvindand/maven-tools-mcp 为 AI 与真实构建工具之间搭建了一条标�
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 48/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

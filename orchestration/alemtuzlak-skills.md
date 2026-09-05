@@ -1,6 +1,6 @@
 # AlemTuzlak/skills
 
-[![Stars](https://img.shields.io/github/stars/AlemTuzlak/skills?style=flat-square&color=yellow)](https://github.com/AlemTuzlak/skills/stargazers) [![Forks](https://img.shields.io/github/forks/AlemTuzlak/skills?style=flat-square&color=blue)](https://github.com/AlemTuzlak/skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlemTuzlak/skills?style=flat-square&color=yellow)](https://github.com/AlemTuzlak/skills/stargazers) [![Forks](https://img.shields.io/github/forks/AlemTuzlak/skills?style=flat-square&color=blue)](https://github.com/AlemTuzlak/skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Personal AI agent skills for Claude Code, Copilot, Codex, Gemini & Cursor — turn a PR or idea into marketing content, technical Slidev presentations, courses, changelogs, and rendered videos.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ AlemTuzlak/skills 的生产可用性被评为中等（Medium）。它适合用�
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

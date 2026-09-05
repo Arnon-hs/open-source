@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Documents · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -116,7 +116,7 @@ GAAI-framework 已经有 158 个 GitHub star 和 28 个 fork，最近的更新�
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

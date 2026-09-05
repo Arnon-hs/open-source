@@ -1,6 +1,6 @@
 # hululu1068/AdGuard-Rule
 
-[![Stars](https://img.shields.io/github/stars/hululu1068/AdGuard-Rule?style=flat-square&color=yellow)](https://github.com/hululu1068/AdGuard-Rule/stargazers) [![Forks](https://img.shields.io/github/forks/hululu1068/AdGuard-Rule?style=flat-square&color=blue)](https://github.com/hululu1068/AdGuard-Rule/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hululu1068/AdGuard-Rule?style=flat-square&color=yellow)](https://github.com/hululu1068/AdGuard-Rule/stargazers) [![Forks](https://img.shields.io/github/forks/hululu1068/AdGuard-Rule?style=flat-square&color=blue)](https://github.com/hululu1068/AdGuard-Rule/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AdGuard Rule规则合并去重，适用AdGuard/AdGuard Home，支持DOMAIN、REGEX、MODIFY、HOSTS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ hululu1068/AdGuard-Rule 是一个用于合并、去重并标准化 AdGuard 家�
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

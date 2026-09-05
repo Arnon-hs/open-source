@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 413 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Mobile · Security
+Crypto · Games & Graphics · Mobile · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ gmh5225/awesome-game-security：gmh5225/awesome-game-security helps prototype or
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

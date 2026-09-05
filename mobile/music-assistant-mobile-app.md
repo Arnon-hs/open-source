@@ -1,6 +1,6 @@
 # music-assistant/mobile-app
 
-[![Stars](https://img.shields.io/github/stars/music-assistant/mobile-app?style=flat-square&color=yellow)](https://github.com/music-assistant/mobile-app/stargazers) [![Forks](https://img.shields.io/github/forks/music-assistant/mobile-app?style=flat-square&color=blue)](https://github.com/music-assistant/mobile-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/music-assistant/mobile-app?style=flat-square&color=yellow)](https://github.com/music-assistant/mobile-app/stargazers) [![Forks](https://img.shields.io/github/forks/music-assistant/mobile-app?style=flat-square&color=blue)](https://github.com/music-assistant/mobile-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 427 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Music Assistant Mobile App具有高生产可用性，主要原因是：
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

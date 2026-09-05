@@ -1,6 +1,6 @@
 # LIUTod/scream-code
 
-[![Stars](https://img.shields.io/github/stars/LIUTod/scream-code?style=flat-square&color=yellow)](https://github.com/LIUTod/scream-code/stargazers) [![Forks](https://img.shields.io/github/forks/LIUTod/scream-code?style=flat-square&color=blue)](https://github.com/LIUTod/scream-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LIUTod/scream-code?style=flat-square&color=yellow)](https://github.com/LIUTod/scream-code/stargazers) [![Forks](https://img.shields.io/github/forks/LIUTod/scream-code?style=flat-square&color=blue)](https://github.com/LIUTod/scream-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > (中文UI)An open-source and powerful agent runs in your terminal, featuring unlimited concurrency and a multi-agent orchestration engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ LIUTod/scream-code 帮助将孤立的命令和工具转换为可重复的代理�
 | forks | 29/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

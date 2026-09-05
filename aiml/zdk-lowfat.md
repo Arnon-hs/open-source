@@ -1,6 +1,6 @@
 # zdk/lowfat
 
-[![Stars](https://img.shields.io/github/stars/zdk/lowfat?style=flat-square&color=yellow)](https://github.com/zdk/lowfat/stargazers) [![Forks](https://img.shields.io/github/forks/zdk/lowfat?style=flat-square&color=blue)](https://github.com/zdk/lowfat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zdk/lowfat?style=flat-square&color=yellow)](https://github.com/zdk/lowfat/stargazers) [![Forks](https://img.shields.io/github/forks/zdk/lowfat?style=flat-square&color=blue)](https://github.com/zdk/lowfat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > lowfat - slim your command output. strips noise, saves tokens.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 554 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ lowfat 的生产可用性较高，理由如下：
 | forks | 32/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

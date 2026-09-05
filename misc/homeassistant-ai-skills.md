@@ -1,6 +1,6 @@
 # homeassistant-ai/skills
 
-[![Stars](https://img.shields.io/github/stars/homeassistant-ai/skills?style=flat-square&color=yellow)](https://github.com/homeassistant-ai/skills/stargazers) [![Forks](https://img.shields.io/github/forks/homeassistant-ai/skills?style=flat-square&color=blue)](https://github.com/homeassistant-ai/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/homeassistant-ai/skills?style=flat-square&color=yellow)](https://github.com/homeassistant-ai/skills/stargazers) [![Forks](https://img.shields.io/github/forks/homeassistant-ai/skills?style=flat-square&color=blue)](https://github.com/homeassistant-ai/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant skills for agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 623 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ Home Assistant AI技能的生产可用性为中等。虽然它可以用于生产
 | forks | 37/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

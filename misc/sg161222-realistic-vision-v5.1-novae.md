@@ -1,6 +1,6 @@
 # SG161222/Realistic_Vision_V5.1_noVAE
 
-[![Stars](https://img.shields.io/github/stars/SG161222/Realistic_Vision_V5.1_noVAE?style=flat-square&color=yellow)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/stargazers) [![Forks](https://img.shields.io/github/forks/SG161222/Realistic_Vision_V5.1_noVAE?style=flat-square&color=blue)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SG161222/Realistic_Vision_V5.1_noVAE?style=flat-square&color=yellow)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/stargazers) [![Forks](https://img.shields.io/github/forks/SG161222/Realistic_Vision_V5.1_noVAE?style=flat-square&color=blue)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Image generation (text-to-image) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 260 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
-| 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ SG161222/Realistic_Vision_V5.1_noVAE 是一个开源的图像生成模型（文�
 | forks | 0/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 35/100 |
-| quality | 38/100 |
-| recency | 20/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

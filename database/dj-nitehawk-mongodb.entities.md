@@ -1,6 +1,6 @@
 # dj-nitehawk/MongoDB.Entities
 
-[![Stars](https://img.shields.io/github/stars/dj-nitehawk/MongoDB.Entities?style=flat-square&color=yellow)](https://github.com/dj-nitehawk/MongoDB.Entities/stargazers) [![Forks](https://img.shields.io/github/forks/dj-nitehawk/MongoDB.Entities?style=flat-square&color=blue)](https://github.com/dj-nitehawk/MongoDB.Entities/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dj-nitehawk/MongoDB.Entities?style=flat-square&color=yellow)](https://github.com/dj-nitehawk/MongoDB.Entities/stargazers) [![Forks](https://img.shields.io/github/forks/dj-nitehawk/MongoDB.Entities?style=flat-square&color=blue)](https://github.com/dj-nitehawk/MongoDB.Entities/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A data access library for MongoDB with an elegant api, LINQ support and built-in entity relationship management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 570 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ dj-nitehawk/MongoDB.Entities 是一个用于 MongoDB 的数据访问库，提供
 | forks | 47/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # lechmazur/nyt-connections
 
-[![Stars](https://img.shields.io/github/stars/lechmazur/nyt-connections?style=flat-square&color=yellow)](https://github.com/lechmazur/nyt-connections/stargazers) [![Forks](https://img.shields.io/github/forks/lechmazur/nyt-connections?style=flat-square&color=blue)](https://github.com/lechmazur/nyt-connections/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lechmazur/nyt-connections?style=flat-square&color=yellow)](https://github.com/lechmazur/nyt-connections/stargazers) [![Forks](https://img.shields.io/github/forks/lechmazur/nyt-connections?style=flat-square&color=blue)](https://github.com/lechmazur/nyt-connections/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Benchmark that evaluates LLMs using 759 NYT Connections puzzles extended with extra trick words
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ In short, `lechmazur/nyt-connections` offers a low‑effort, high‑value way to
 | forks | 24/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

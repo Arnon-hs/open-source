@@ -1,6 +1,6 @@
 # huangjunsen0406/py-xiaozhi
 
-[![Stars](https://img.shields.io/github/stars/huangjunsen0406/py-xiaozhi?style=flat-square&color=yellow)](https://github.com/huangjunsen0406/py-xiaozhi/stargazers) [![Forks](https://img.shields.io/github/forks/huangjunsen0406/py-xiaozhi?style=flat-square&color=blue)](https://github.com/huangjunsen0406/py-xiaozhi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huangjunsen0406/py-xiaozhi?style=flat-square&color=yellow)](https://github.com/huangjunsen0406/py-xiaozhi/stargazers) [![Forks](https://img.shields.io/github/forks/huangjunsen0406/py-xiaozhi?style=flat-square&color=blue)](https://github.com/huangjunsen0406/py-xiaozhi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 710 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Cloud & Storage · Backend
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ huangjunsen0406/py-xiaozhi 帮助连接 AI 助手到现有工具和数据，标�
 | forks | 71/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 87/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

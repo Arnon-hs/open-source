@@ -1,6 +1,6 @@
 # jub0t/WolfCut
 
-[![Stars](https://img.shields.io/github/stars/jub0t/WolfCut?style=flat-square&color=yellow)](https://github.com/jub0t/WolfCut/stargazers) [![Forks](https://img.shields.io/github/forks/jub0t/WolfCut?style=flat-square&color=blue)](https://github.com/jub0t/WolfCut/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jub0t/WolfCut?style=flat-square&color=yellow)](https://github.com/jub0t/WolfCut/stargazers) [![Forks](https://img.shields.io/github/forks/jub0t/WolfCut?style=flat-square&color=blue)](https://github.com/jub0t/WolfCut/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > [Work-in-progress] Free & Open-Source CapCut replacement.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ WolfCut 是一款免费且开源的 CapCut 替代品，可将媒体编辑、字�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

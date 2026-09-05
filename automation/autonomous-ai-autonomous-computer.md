@@ -1,6 +1,6 @@
 # autonomous-ai/autonomous-computer
 
-[![Stars](https://img.shields.io/github/stars/autonomous-ai/autonomous-computer?style=flat-square&color=yellow)](https://github.com/autonomous-ai/autonomous-computer/stargazers) [![Forks](https://img.shields.io/github/forks/autonomous-ai/autonomous-computer?style=flat-square&color=blue)](https://github.com/autonomous-ai/autonomous-computer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/autonomous-ai/autonomous-computer?style=flat-square&color=yellow)](https://github.com/autonomous-ai/autonomous-computer/stargazers) [![Forks](https://img.shields.io/github/forks/autonomous-ai/autonomous-computer?style=flat-square&color=blue)](https://github.com/autonomous-ai/autonomous-computer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Build your own Personal AI Computer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ autonomous-ai/autonomous-computer 的生产可用性为中等（Medium）。它�
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

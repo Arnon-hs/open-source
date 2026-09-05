@@ -1,6 +1,6 @@
 # stabilityai/stable-diffusion-xl-base-1.0
 
-[![Stars](https://img.shields.io/github/stars/stabilityai/stable-diffusion-xl-base-1.0?style=flat-square&color=yellow)](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/stargazers) [![Forks](https://img.shields.io/github/forks/stabilityai/stable-diffusion-xl-base-1.0?style=flat-square&color=blue)](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stabilityai/stable-diffusion-xl-base-1.0?style=flat-square&color=yellow)](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/stargazers) [![Forks](https://img.shields.io/github/forks/stabilityai/stable-diffusion-xl-base-1.0?style=flat-square&color=blue)](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Image generation (text-to-image) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ stabilityai/stable-diffusion-xl-base-1.0 是一个流行的开源模型，用于
 | forks | 0/100 |
 | stars | 83/100 |
 | topics | 38/100 |
-| outlook | 41/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

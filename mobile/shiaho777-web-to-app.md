@@ -1,6 +1,6 @@
 # shiaho777/web-to-app
 
-[![Stars](https://img.shields.io/github/stars/shiaho777/web-to-app?style=flat-square&color=yellow)](https://github.com/shiaho777/web-to-app/stargazers) [![Forks](https://img.shields.io/github/forks/shiaho777/web-to-app?style=flat-square&color=blue)](https://github.com/shiaho777/web-to-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shiaho777/web-to-app?style=flat-square&color=yellow)](https://github.com/shiaho777/web-to-app/stargazers) [![Forks](https://img.shields.io/github/forks/shiaho777/web-to-app?style=flat-square&color=blue)](https://github.com/shiaho777/web-to-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A native Android application that converts any website URL into a standalone Android App.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 678 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ shiaho777/web-to‑app 是一个用 Kotlin 编写的原生 Android 应用，能�
 | forks | 71/100 |
 | stars | 78/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

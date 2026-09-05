@@ -1,6 +1,6 @@
 # txn2/kubefwd
 
-[![Stars](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&color=yellow)](https://github.com/txn2/kubefwd/stargazers) [![Forks](https://img.shields.io/github/forks/txn2/kubefwd?style=flat-square&color=blue)](https://github.com/txn2/kubefwd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&color=yellow)](https://github.com/txn2/kubefwd/stargazers) [![Forks](https://img.shields.io/github/forks/txn2/kubefwd?style=flat-square&color=blue)](https://github.com/txn2/kubefwd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Bulk port forwarding Kubernetes services for local development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · DevOps/Infra
+MCP · Networking · Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -125,15 +125,15 @@ Overall, `kubefwd` is production‑ready for pilot deployments and can be safely
 | forks | 59/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 59/100 |
+| production | 79/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

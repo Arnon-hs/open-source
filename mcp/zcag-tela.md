@@ -1,6 +1,6 @@
 # zcag/tela
 
-[![Stars](https://img.shields.io/github/stars/zcag/tela?style=flat-square&color=yellow)](https://github.com/zcag/tela/stargazers) [![Forks](https://img.shields.io/github/forks/zcag/tela?style=flat-square&color=blue)](https://github.com/zcag/tela/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zcag/tela?style=flat-square&color=yellow)](https://github.com/zcag/tela/stargazers) [![Forks](https://img.shields.io/github/forks/zcag/tela?style=flat-square&color=blue)](https://github.com/zcag/tela/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hostable markdown team wiki with a built-in MCP server — so AI agents read, write, and search your docs as first-class teammates. Live multiplayer, semantic + full-text search. Go + PostgreSQL + React/Milkdown.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Database
+MCP · Knowledge/RAG · AI/ML · Documents · Frontend
 
 ## 📝 Summary
 
@@ -102,11 +102,11 @@ zcag/tela 的生产可用性为中等（Medium）。
 | forks | 12/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

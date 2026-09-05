@@ -1,6 +1,6 @@
 # kptdev/kpt
 
-[![Stars](https://img.shields.io/github/stars/kptdev/kpt?style=flat-square&color=yellow)](https://github.com/kptdev/kpt/stargazers) [![Forks](https://img.shields.io/github/forks/kptdev/kpt?style=flat-square&color=blue)](https://github.com/kptdev/kpt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kptdev/kpt?style=flat-square&color=yellow)](https://github.com/kptdev/kpt/stargazers) [![Forks](https://img.shields.io/github/forks/kptdev/kpt?style=flat-square&color=blue)](https://github.com/kptdev/kpt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Automate Kubernetes Configuration Editing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ kpt（kptdev/kpt）是一款基于 Go 实现的开源工具，专注于 **自动
 | forks | 60/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 83/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 59/100 |
+| production | 78/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

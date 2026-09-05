@@ -1,6 +1,6 @@
 # onotelli/justniffer
 
-[![Stars](https://img.shields.io/github/stars/onotelli/justniffer?style=flat-square&color=yellow)](https://github.com/onotelli/justniffer/stargazers) [![Forks](https://img.shields.io/github/forks/onotelli/justniffer?style=flat-square&color=blue)](https://github.com/onotelli/justniffer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onotelli/justniffer?style=flat-square&color=yellow)](https://github.com/onotelli/justniffer/stargazers) [![Forks](https://img.shields.io/github/forks/onotelli/justniffer?style=flat-square&color=blue)](https://github.com/onotelli/justniffer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Justniffer  Just A Network TCP Packet Sniffer. Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate web server log files, track response times and extract all "intercepted" files from the HTTP traffic
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Justniffer 是一款基于 C 实现的轻量级 TCP 包抓取器，可对网络�
 | forks | 44/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

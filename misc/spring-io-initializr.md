@@ -1,6 +1,6 @@
 # spring-io/initializr
 
-[![Stars](https://img.shields.io/github/stars/spring-io/initializr?style=flat-square&color=yellow)](https://github.com/spring-io/initializr/stargazers) [![Forks](https://img.shields.io/github/forks/spring-io/initializr?style=flat-square&color=blue)](https://github.com/spring-io/initializr/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-io/initializr?style=flat-square&color=yellow)](https://github.com/spring-io/initializr/stargazers) [![Forks](https://img.shields.io/github/forks/spring-io/initializr?style=flat-square&color=blue)](https://github.com/spring-io/initializr/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A quickstart generator for Spring projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Spring Initializr 的生产可用性为中等，适合用于原型或内部流�
 | forks | 81/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

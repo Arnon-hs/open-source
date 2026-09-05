@@ -1,6 +1,6 @@
 # cosmos/solidity-ibc-eureka
 
-[![Stars](https://img.shields.io/github/stars/cosmos/solidity-ibc-eureka?style=flat-square&color=yellow)](https://github.com/cosmos/solidity-ibc-eureka/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/solidity-ibc-eureka?style=flat-square&color=blue)](https://github.com/cosmos/solidity-ibc-eureka/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmos/solidity-ibc-eureka?style=flat-square&color=yellow)](https://github.com/cosmos/solidity-ibc-eureka/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/solidity-ibc-eureka?style=flat-square&color=blue)](https://github.com/cosmos/solidity-ibc-eureka/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > This is a solidity implementation of IBC v2.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ cosmos/solidity-ibc-eureka 是一套基于 Solidity 的 IBC v2 实现，提供�
 | forks | 46/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 36/100 |
-| quality | 40/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

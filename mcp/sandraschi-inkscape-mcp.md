@@ -1,6 +1,6 @@
 # sandraschi/inkscape-mcp
 
-[![Stars](https://img.shields.io/github/stars/sandraschi/inkscape-mcp?style=flat-square&color=yellow)](https://github.com/sandraschi/inkscape-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sandraschi/inkscape-mcp?style=flat-square&color=blue)](https://github.com/sandraschi/inkscape-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandraschi/inkscape-mcp?style=flat-square&color=yellow)](https://github.com/sandraschi/inkscape-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sandraschi/inkscape-mcp?style=flat-square&color=blue)](https://github.com/sandraschi/inkscape-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > FastMCP 3.1 MCP server for controlling Inkscape svg editor. Includes Webapp
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ sandraschi/inkscape‑mcp 是基于 FastMCP 3.1 实现的 MCP 服务器，可�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 38/100 |
-| outlook | 46/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

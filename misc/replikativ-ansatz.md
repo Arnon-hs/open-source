@@ -1,6 +1,6 @@
 # replikativ/ansatz
 
-[![Stars](https://img.shields.io/github/stars/replikativ/ansatz?style=flat-square&color=yellow)](https://github.com/replikativ/ansatz/stargazers) [![Forks](https://img.shields.io/github/forks/replikativ/ansatz?style=flat-square&color=blue)](https://github.com/replikativ/ansatz/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/replikativ/ansatz?style=flat-square&color=yellow)](https://github.com/replikativ/ansatz/stargazers) [![Forks](https://img.shields.io/github/forks/replikativ/ansatz?style=flat-square&color=blue)](https://github.com/replikativ/ansatz/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: Dependently typed Clojure DSL with a Lean4 compatible kernel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 30/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Dependently typed Clojure DSL с совместимым ядром Lean4 пре�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 31/100 |
-| quality | 22/100 |
-| recency | 40/100 |
+| outlook | 45/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 36/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

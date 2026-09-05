@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ shiwenwen/hope-agent：shiwenwen/hope-agent helps connect AI assistants to real 
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

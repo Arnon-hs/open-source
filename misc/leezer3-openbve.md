@@ -1,6 +1,6 @@
 # leezer3/OpenBVE
 
-[![Stars](https://img.shields.io/github/stars/leezer3/OpenBVE?style=flat-square&color=yellow)](https://github.com/leezer3/OpenBVE/stargazers) [![Forks](https://img.shields.io/github/forks/leezer3/OpenBVE?style=flat-square&color=blue)](https://github.com/leezer3/OpenBVE/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leezer3/OpenBVE?style=flat-square&color=yellow)](https://github.com/leezer3/OpenBVE/stargazers) [![Forks](https://img.shields.io/github/forks/leezer3/OpenBVE?style=flat-square&color=blue)](https://github.com/leezer3/OpenBVE/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OpenBVE- A free train simulator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ OpenBVE 是一个开源的免费列车模拟器，使用 C# 编写，拥有 350+
 | forks | 45/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

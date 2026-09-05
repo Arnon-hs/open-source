@@ -1,6 +1,6 @@
 # affaan-m/ECC
 
-[![Stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&color=yellow)](https://github.com/affaan-m/ECC/stargazers) [![Forks](https://img.shields.io/github/forks/affaan-m/ECC?style=flat-square&color=blue)](https://github.com/affaan-m/ECC/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&color=yellow)](https://github.com/affaan-m/ECC/stargazers) [![Forks](https://img.shields.io/github/forks/affaan-m/ECC?style=flat-square&color=blue)](https://github.com/affaan-m/ECC/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 221.8k |
 | 🍴 **Forks** | 33.9k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Security
+MCP · AI/ML · Productivity · DevTools · Security
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ affaan-m/ECC 是一套面向 AI 代理的性能优化与标准化接入系统，
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 85/100 |
-| recency | 40/100 |
+| outlook | 91/100 |
+| quality | 95/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

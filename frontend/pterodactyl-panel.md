@@ -1,6 +1,6 @@
 # pterodactyl/panel
 
-[![Stars](https://img.shields.io/github/stars/pterodactyl/panel?style=flat-square&color=yellow)](https://github.com/pterodactyl/panel/stargazers) [![Forks](https://img.shields.io/github/forks/pterodactyl/panel?style=flat-square&color=blue)](https://github.com/pterodactyl/panel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pterodactyl/panel?style=flat-square&color=yellow)](https://github.com/pterodactyl/panel/stargazers) [![Forks](https://img.shields.io/github/forks/pterodactyl/panel?style=flat-square&color=blue)](https://github.com/pterodactyl/panel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ pterodactyl/panel：pterodactyl/panel helps add AI capability without starting f
 | forks | 85/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

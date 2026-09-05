@@ -1,6 +1,6 @@
 # Lap-Platform/LAP
 
-[![Stars](https://img.shields.io/github/stars/Lap-Platform/LAP?style=flat-square&color=yellow)](https://github.com/Lap-Platform/LAP/stargazers) [![Forks](https://img.shields.io/github/forks/Lap-Platform/LAP?style=flat-square&color=blue)](https://github.com/Lap-Platform/LAP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lap-Platform/LAP?style=flat-square&color=yellow)](https://github.com/Lap-Platform/LAP/stargazers) [![Forks](https://img.shields.io/github/forks/Lap-Platform/LAP?style=flat-square&color=blue)](https://github.com/Lap-Platform/LAP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Your agents are guessing at APIs. Give them the actual Agent-Native spec. 1500+ API's Ready To-Use skills,  Compile any API spec into a lean, agent-native format. 10× smaller. OpenAPI, GraphQL, AsyncAPI, Protobuf, Postman.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ Lap-Platform/LAP 的生产可用性较高，理由如下：
 | forks | 38/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

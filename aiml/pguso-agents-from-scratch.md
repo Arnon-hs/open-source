@@ -1,6 +1,6 @@
 # pguso/agents-from-scratch
 
-[![Stars](https://img.shields.io/github/stars/pguso/agents-from-scratch?style=flat-square&color=yellow)](https://github.com/pguso/agents-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/pguso/agents-from-scratch?style=flat-square&color=blue)](https://github.com/pguso/agents-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pguso/agents-from-scratch?style=flat-square&color=yellow)](https://github.com/pguso/agents-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/pguso/agents-from-scratch?style=flat-square&color=blue)](https://github.com/pguso/agents-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Build AI agents from first principles using a local LLM - no frameworks, no cloud APIs, no hidden reasoning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 914 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ pguso/agents-from-scratch 是一个开源项目，旨在使用本地LLM（大型
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

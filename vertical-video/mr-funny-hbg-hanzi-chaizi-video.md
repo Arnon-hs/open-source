@@ -1,6 +1,6 @@
 # Mr-funny/hbg-hanzi-chaizi-video
 
-[![Stars](https://img.shields.io/github/stars/Mr-funny/hbg-hanzi-chaizi-video?style=flat-square&color=yellow)](https://github.com/Mr-funny/hbg-hanzi-chaizi-video/stargazers) [![Forks](https://img.shields.io/github/forks/Mr-funny/hbg-hanzi-chaizi-video?style=flat-square&color=blue)](https://github.com/Mr-funny/hbg-hanzi-chaizi-video/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mr-funny/hbg-hanzi-chaizi-video?style=flat-square&color=yellow)](https://github.com/Mr-funny/hbg-hanzi-chaizi-video/stargazers) [![Forks](https://img.shields.io/github/forks/Mr-funny/hbg-hanzi-chaizi-video?style=flat-square&color=blue)](https://github.com/Mr-funny/hbg-hanzi-chaizi-video/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 用 Remotion + Edge TTS 制作上方逐笔写字、下方趣味拆字变形的 9:16 汉字短视频
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Mr-funny/hbg-hanzi-chaizi-video：Mr-funny/hbg-hanzi-chaizi-video helps automate
 | forks | 34/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

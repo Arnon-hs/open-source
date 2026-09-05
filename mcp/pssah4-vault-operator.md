@@ -1,6 +1,6 @@
 # pssah4/vault-operator
 
-[![Stars](https://img.shields.io/github/stars/pssah4/vault-operator?style=flat-square&color=yellow)](https://github.com/pssah4/vault-operator/stargazers) [![Forks](https://img.shields.io/github/forks/pssah4/vault-operator?style=flat-square&color=blue)](https://github.com/pssah4/vault-operator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pssah4/vault-operator?style=flat-square&color=yellow)](https://github.com/pssah4/vault-operator/stargazers) [![Forks](https://img.shields.io/github/forks/pssah4/vault-operator?style=flat-square&color=blue)](https://github.com/pssah4/vault-operator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, uses plugins, skills & tools with full safety controls. BYOK & MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML
+MCP · Automation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ pssah4/vault-operator 是一款面向 Vault 的“真实 AI 代理”，兼具�
 | forks | 32/100 |
 | stars | 48/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

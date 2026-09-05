@@ -1,6 +1,6 @@
 # chainbase-labs/Agentkey
 
-[![Stars](https://img.shields.io/github/stars/chainbase-labs/Agentkey?style=flat-square&color=yellow)](https://github.com/chainbase-labs/Agentkey/stargazers) [![Forks](https://img.shields.io/github/forks/chainbase-labs/Agentkey?style=flat-square&color=blue)](https://github.com/chainbase-labs/Agentkey/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chainbase-labs/Agentkey?style=flat-square&color=yellow)](https://github.com/chainbase-labs/Agentkey/stargazers) [![Forks](https://img.shields.io/github/forks/chainbase-labs/Agentkey?style=flat-square&color=blue)](https://github.com/chainbase-labs/Agentkey/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Agentkey 的生产可用性为中等（Medium），适合用于 prototype 或内
 | forks | 26/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # me2resh/agent-decision-record
 
-[![Stars](https://img.shields.io/github/stars/me2resh/agent-decision-record?style=flat-square&color=yellow)](https://github.com/me2resh/agent-decision-record/stargazers) [![Forks](https://img.shields.io/github/forks/me2resh/agent-decision-record?style=flat-square&color=blue)](https://github.com/me2resh/agent-decision-record/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/me2resh/agent-decision-record?style=flat-square&color=yellow)](https://github.com/me2resh/agent-decision-record/stargazers) [![Forks](https://img.shields.io/github/forks/me2resh/agent-decision-record?style=flat-square&color=blue)](https://github.com/me2resh/agent-decision-record/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Decision Records (AgDR) - A standard for documenting technical decisions made by AI coding agents. Extends ADR for the age of AI-assisted development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ me2resh/agent-decision-record：me2resh/agent-decision-record helps add AI capab
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

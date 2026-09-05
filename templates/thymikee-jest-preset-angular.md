@@ -1,6 +1,6 @@
 # thymikee/jest-preset-angular
 
-[![Stars](https://img.shields.io/github/stars/thymikee/jest-preset-angular?style=flat-square&color=yellow)](https://github.com/thymikee/jest-preset-angular/stargazers) [![Forks](https://img.shields.io/github/forks/thymikee/jest-preset-angular?style=flat-square&color=blue)](https://github.com/thymikee/jest-preset-angular/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thymikee/jest-preset-angular?style=flat-square&color=yellow)](https://github.com/thymikee/jest-preset-angular/stargazers) [![Forks](https://img.shields.io/github/forks/thymikee/jest-preset-angular?style=flat-square&color=blue)](https://github.com/thymikee/jest-preset-angular/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Jest configuration preset for Angular projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 917 |
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates
+Templates · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ thymikee/jest-preset-angular 是一个开源项目，提供了用于 Angular 项
 | forks | 62/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

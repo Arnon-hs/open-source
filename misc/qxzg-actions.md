@@ -1,6 +1,6 @@
 # qxzg/Actions
 
-[![Stars](https://img.shields.io/github/stars/qxzg/Actions?style=flat-square&color=yellow)](https://github.com/qxzg/Actions/stargazers) [![Forks](https://img.shields.io/github/forks/qxzg/Actions?style=flat-square&color=blue)](https://github.com/qxzg/Actions/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qxzg/Actions?style=flat-square&color=yellow)](https://github.com/qxzg/Actions/stargazers) [![Forks](https://img.shields.io/github/forks/qxzg/Actions?style=flat-square&color=blue)](https://github.com/qxzg/Actions/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 每日自动更新fancyss规则
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ qxzg/Actions — это набор shell‑скриптов, автомати�
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 38/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 42/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

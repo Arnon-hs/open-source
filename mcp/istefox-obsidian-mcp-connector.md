@@ -1,6 +1,6 @@
 # istefox/obsidian-mcp-connector
 
-[![Stars](https://img.shields.io/github/stars/istefox/obsidian-mcp-connector?style=flat-square&color=yellow)](https://github.com/istefox/obsidian-mcp-connector/stargazers) [![Forks](https://img.shields.io/github/forks/istefox/obsidian-mcp-connector?style=flat-square&color=blue)](https://github.com/istefox/obsidian-mcp-connector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/istefox/obsidian-mcp-connector?style=flat-square&color=yellow)](https://github.com/istefox/obsidian-mcp-connector/stargazers) [![Forks](https://img.shields.io/github/forks/istefox/obsidian-mcp-connector?style=flat-square&color=blue)](https://github.com/istefox/obsidian-mcp-connector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Add integrations like semantic search and custom Templater prompts to Claude or any MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ istefox/obsidian-mcp-connector 是一个基于 Model Context Protocol（MCP）�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

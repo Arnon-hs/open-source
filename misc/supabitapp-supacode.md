@@ -1,6 +1,6 @@
 # supabitapp/supacode
 
-[![Stars](https://img.shields.io/github/stars/supabitapp/supacode?style=flat-square&color=yellow)](https://github.com/supabitapp/supacode/stargazers) [![Forks](https://img.shields.io/github/forks/supabitapp/supacode?style=flat-square&color=blue)](https://github.com/supabitapp/supacode/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabitapp/supacode?style=flat-square&color=yellow)](https://github.com/supabitapp/supacode/stargazers) [![Forks](https://img.shields.io/github/forks/supabitapp/supacode?style=flat-square&color=blue)](https://github.com/supabitapp/supacode/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > worktree coding agents command center.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 298 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ supabitapp/supacode：supabitapp/supacode helps add AI capability without starti
 | forks | 62/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # codename-co/devs
 
-[![Stars](https://img.shields.io/github/stars/codename-co/devs?style=flat-square&color=yellow)](https://github.com/codename-co/devs/stargazers) [![Forks](https://img.shields.io/github/forks/codename-co/devs?style=flat-square&color=blue)](https://github.com/codename-co/devs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codename-co/devs?style=flat-square&color=yellow)](https://github.com/codename-co/devs/stargazers) [![Forks](https://img.shields.io/github/forks/codename-co/devs?style=flat-square&color=blue)](https://github.com/codename-co/devs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Delegate tasks to AI agent teams, from a browser tab.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ codename-co/devs 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 8/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

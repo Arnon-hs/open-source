@@ -1,6 +1,6 @@
 # soplang/soplang
 
-[![Stars](https://img.shields.io/github/stars/soplang/soplang?style=flat-square&color=yellow)](https://github.com/soplang/soplang/stargazers) [![Forks](https://img.shields.io/github/forks/soplang/soplang?style=flat-square&color=blue)](https://github.com/soplang/soplang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soplang/soplang?style=flat-square&color=yellow)](https://github.com/soplang/soplang/stargazers) [![Forks](https://img.shields.io/github/forks/soplang/soplang?style=flat-square&color=blue)](https://github.com/soplang/soplang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The Somali Programming Language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ soplang/soplang 的生产可用性为中等，适合用于原型开发或内部�
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 25/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

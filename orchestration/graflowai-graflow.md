@@ -1,6 +1,6 @@
 # GraflowAI/graflow
 
-[![Stars](https://img.shields.io/github/stars/GraflowAI/graflow?style=flat-square&color=yellow)](https://github.com/GraflowAI/graflow/stargazers) [![Forks](https://img.shields.io/github/forks/GraflowAI/graflow?style=flat-square&color=blue)](https://github.com/GraflowAI/graflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GraflowAI/graflow?style=flat-square&color=yellow)](https://github.com/GraflowAI/graflow/stargazers) [![Forks](https://img.shields.io/github/forks/GraflowAI/graflow?style=flat-square&color=blue)](https://github.com/GraflowAI/graflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Composable Python framework for LLM agent workflows focused on simplicity and developer experience. We ❤️ OSS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Graflow 为 LLM 驱动的业务流程提供了“一站式”组合式编程模�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

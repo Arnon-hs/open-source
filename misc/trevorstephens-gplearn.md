@@ -1,6 +1,6 @@
 # trevorstephens/gplearn
 
-[![Stars](https://img.shields.io/github/stars/trevorstephens/gplearn?style=flat-square&color=yellow)](https://github.com/trevorstephens/gplearn/stargazers) [![Forks](https://img.shields.io/github/forks/trevorstephens/gplearn?style=flat-square&color=blue)](https://github.com/trevorstephens/gplearn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trevorstephens/gplearn?style=flat-square&color=yellow)](https://github.com/trevorstephens/gplearn/stargazers) [![Forks](https://img.shields.io/github/forks/trevorstephens/gplearn?style=flat-square&color=blue)](https://github.com/trevorstephens/gplearn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #opensource by @patrick
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | mastodon |
 
 ## 🏷️ Topics
@@ -140,11 +140,11 @@ One Open‑source Project Daily（项目地址：https://github.com/trevorstephe
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 28/100 |
-| quality | 19/100 |
-| recency | 20/100 |
+| outlook | 49/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 35/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

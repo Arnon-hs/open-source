@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 406 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ olimorris/codecompanion.nvim：olimorris/codecompanion.nvim helps add AI capabil
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

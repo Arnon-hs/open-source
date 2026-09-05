@@ -1,6 +1,6 @@
 # BENZEMA216/awesome-weread
 
-[![Stars](https://img.shields.io/github/stars/BENZEMA216/awesome-weread?style=flat-square&color=yellow)](https://github.com/BENZEMA216/awesome-weread/stargazers) [![Forks](https://img.shields.io/github/forks/BENZEMA216/awesome-weread?style=flat-square&color=blue)](https://github.com/BENZEMA216/awesome-weread/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BENZEMA216/awesome-weread?style=flat-square&color=yellow)](https://github.com/BENZEMA216/awesome-weread/stargazers) [![Forks](https://img.shields.io/github/forks/BENZEMA216/awesome-weread?style=flat-square&color=blue)](https://github.com/BENZEMA216/awesome-weread/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ BENZEMA216/awesome-weread 是一个基于微信读书官方 Agent Skill 的二�
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Data · DevOps/Infra
+MCP · Cloud & Storage · Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,7 +76,7 @@ apache/camel-quarkus：apache/camel-quarkus helps connect AI assistants to real 
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ WeAreAthlon/frontend-webpack-boilerplate：WeAreAthlon/frontend-webpack-boilerpl
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

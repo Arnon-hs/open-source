@@ -1,6 +1,6 @@
 # allenporter/flux-local
 
-[![Stars](https://img.shields.io/github/stars/allenporter/flux-local?style=flat-square&color=yellow)](https://github.com/allenporter/flux-local/stargazers) [![Forks](https://img.shields.io/github/forks/allenporter/flux-local?style=flat-square&color=blue)](https://github.com/allenporter/flux-local/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allenporter/flux-local?style=flat-square&color=yellow)](https://github.com/allenporter/flux-local/stargazers) [![Forks](https://img.shields.io/github/forks/allenporter/flux-local?style=flat-square&color=blue)](https://github.com/allenporter/flux-local/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Misc
 | forks | 41/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Vitorlindo201/Themata-Claude-Scribe
 
-[![Stars](https://img.shields.io/github/stars/Vitorlindo201/Themata-Claude-Scribe?style=flat-square&color=yellow)](https://github.com/Vitorlindo201/Themata-Claude-Scribe/stargazers) [![Forks](https://img.shields.io/github/forks/Vitorlindo201/Themata-Claude-Scribe?style=flat-square&color=blue)](https://github.com/Vitorlindo201/Themata-Claude-Scribe/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vitorlindo201/Themata-Claude-Scribe?style=flat-square&color=yellow)](https://github.com/Vitorlindo201/Themata-Claude-Scribe/stargazers) [![Forks](https://img.shields.io/github/forks/Vitorlindo201/Themata-Claude-Scribe?style=flat-square&color=blue)](https://github.com/Vitorlindo201/Themata-Claude-Scribe/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Mythos Engine 2026: AI Sub-Agent Framework for Epic Interactive Storytelling
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Vitorlindo201/Themata‑Claude‑Scribe 是基于 Claude Mythos Engine 2026 的 
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

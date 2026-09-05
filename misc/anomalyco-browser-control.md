@@ -1,6 +1,6 @@
 # anomalyco/browser-control
 
-[![Stars](https://img.shields.io/github/stars/anomalyco/browser-control?style=flat-square&color=yellow)](https://github.com/anomalyco/browser-control/stargazers) [![Forks](https://img.shields.io/github/forks/anomalyco/browser-control?style=flat-square&color=blue)](https://github.com/anomalyco/browser-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anomalyco/browser-control?style=flat-square&color=yellow)](https://github.com/anomalyco/browser-control/stargazers) [![Forks](https://img.shields.io/github/forks/anomalyco/browser-control?style=flat-square&color=blue)](https://github.com/anomalyco/browser-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Local browser driver for trusted agents: control your existing Chromium browser through a small extension and local relay
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 340 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ anomalyco/browser-control：anomalyco/browser-control helps add AI capability wi
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

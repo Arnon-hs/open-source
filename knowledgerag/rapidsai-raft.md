@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 231 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ rapidsai/raft：rapidsai/raft helps make internal knowledge searchable and usabl
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

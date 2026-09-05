@@ -1,6 +1,6 @@
 # cncf/gitvote
 
-[![Stars](https://img.shields.io/github/stars/cncf/gitvote?style=flat-square&color=yellow)](https://github.com/cncf/gitvote/stargazers) [![Forks](https://img.shields.io/github/forks/cncf/gitvote?style=flat-square&color=blue)](https://github.com/cncf/gitvote/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cncf/gitvote?style=flat-square&color=yellow)](https://github.com/cncf/gitvote/stargazers) [![Forks](https://img.shields.io/github/forks/cncf/gitvote?style=flat-square&color=blue)](https://github.com/cncf/gitvote/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > GitVote is a GitHub application that allows holding a vote on issues and pull requests
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ GitVote 是一个 GitHub 应用，能够在 Issue 和 Pull Request 上直接发�
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

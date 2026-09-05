@@ -1,6 +1,6 @@
 # pipilot-dev/anyclaude-sdk
 
-[![Stars](https://img.shields.io/github/stars/pipilot-dev/anyclaude-sdk?style=flat-square&color=yellow)](https://github.com/pipilot-dev/anyclaude-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/pipilot-dev/anyclaude-sdk?style=flat-square&color=blue)](https://github.com/pipilot-dev/anyclaude-sdk/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pipilot-dev/anyclaude-sdk?style=flat-square&color=yellow)](https://github.com/pipilot-dev/anyclaude-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/pipilot-dev/anyclaude-sdk?style=flat-square&color=blue)](https://github.com/pipilot-dev/anyclaude-sdk/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ Anyclaude-SDK 是一个开源项目，提供了一个基于 OpenAI 和 Anthropic
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

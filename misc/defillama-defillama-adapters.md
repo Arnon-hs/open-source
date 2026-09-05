@@ -1,6 +1,6 @@
 # DefiLlama/DefiLlama-Adapters
 
-[![Stars](https://img.shields.io/github/stars/DefiLlama/DefiLlama-Adapters?style=flat-square&color=yellow)](https://github.com/DefiLlama/DefiLlama-Adapters/stargazers) [![Forks](https://img.shields.io/github/forks/DefiLlama/DefiLlama-Adapters?style=flat-square&color=blue)](https://github.com/DefiLlama/DefiLlama-Adapters/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DefiLlama/DefiLlama-Adapters?style=flat-square&color=yellow)](https://github.com/DefiLlama/DefiLlama-Adapters/stargazers) [![Forks](https://img.shields.io/github/forks/DefiLlama/DefiLlama-Adapters?style=flat-square&color=blue)](https://github.com/DefiLlama/DefiLlama-Adapters/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 7.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ const sol = new SolanaAdapter({ endpoint: 'https://api.mainnet-beta.solana.com' 
 | forks | 97/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

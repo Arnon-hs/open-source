@@ -1,6 +1,6 @@
 # TurixAI/TuriX-CUA
 
-[![Stars](https://img.shields.io/github/stars/TurixAI/TuriX-CUA?style=flat-square&color=yellow)](https://github.com/TurixAI/TuriX-CUA/stargazers) [![Forks](https://img.shields.io/github/forks/TurixAI/TuriX-CUA?style=flat-square&color=blue)](https://github.com/TurixAI/TuriX-CUA/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TurixAI/TuriX-CUA?style=flat-square&color=yellow)](https://github.com/TurixAI/TuriX-CUA/stargazers) [![Forks](https://img.shields.io/github/forks/TurixAI/TuriX-CUA?style=flat-square&color=blue)](https://github.com/TurixAI/TuriX-CUA/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > This is the official website for TuriX Computer-use-Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 303 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ TurixAI/TuriX‑CUA 是 TuriX Computer‑use‑Agent 的官方站点，提供一
 | forks | 62/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ rapidsai/cuvs：rapidsai/cuvs helps make internal knowledge searchable and usabl
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

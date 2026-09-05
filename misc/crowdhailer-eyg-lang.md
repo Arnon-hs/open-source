@@ -1,6 +1,6 @@
 # CrowdHailer/eyg-lang
 
-[![Stars](https://img.shields.io/github/stars/CrowdHailer/eyg-lang?style=flat-square&color=yellow)](https://github.com/CrowdHailer/eyg-lang/stargazers) [![Forks](https://img.shields.io/github/forks/CrowdHailer/eyg-lang?style=flat-square&color=blue)](https://github.com/CrowdHailer/eyg-lang/network) [![Language](https://img.shields.io/badge/lang-Gleam-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CrowdHailer/eyg-lang?style=flat-square&color=yellow)](https://github.com/CrowdHailer/eyg-lang/stargazers) [![Forks](https://img.shields.io/github/forks/CrowdHailer/eyg-lang?style=flat-square&color=blue)](https://github.com/CrowdHailer/eyg-lang/network) [![Language](https://img.shields.io/badge/lang-Gleam-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The safest scripting language for you, or your agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Gleam |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ CrowdHailer/eyg-lang 的生产可用性为中等（Medium），适合以下场�
 | forks | 29/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

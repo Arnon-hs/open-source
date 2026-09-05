@@ -1,6 +1,6 @@
 # lateos-ai/npm-scan
 
-[![Stars](https://img.shields.io/github/stars/lateos-ai/npm-scan?style=flat-square&color=yellow)](https://github.com/lateos-ai/npm-scan/stargazers) [![Forks](https://img.shields.io/github/forks/lateos-ai/npm-scan?style=flat-square&color=blue)](https://github.com/lateos-ai/npm-scan/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lateos-ai/npm-scan?style=flat-square&color=yellow)](https://github.com/lateos-ai/npm-scan/stargazers) [![Forks](https://img.shields.io/github/forks/lateos-ai/npm-scan?style=flat-square&color=blue)](https://github.com/lateos-ai/npm-scan/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ NPM-Scan 是一款专注于检测 TanStack Worm 的安全工具，同时能够�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 26/100 |
-| quality | 21/100 |
-| recency | 20/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 32/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

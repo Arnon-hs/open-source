@@ -1,6 +1,6 @@
 # n2ns/antigravity-panel
 
-[![Stars](https://img.shields.io/github/stars/n2ns/antigravity-panel?style=flat-square&color=yellow)](https://github.com/n2ns/antigravity-panel/stargazers) [![Forks](https://img.shields.io/github/forks/n2ns/antigravity-panel?style=flat-square&color=blue)](https://github.com/n2ns/antigravity-panel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n2ns/antigravity-panel?style=flat-square&color=yellow)](https://github.com/n2ns/antigravity-panel/stargazers) [![Forks](https://img.shields.io/github/forks/n2ns/antigravity-panel?style=flat-square&color=blue)](https://github.com/n2ns/antigravity-panel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Community toolkit for Google Antigravity IDE. Quota dashboard (Gemini/Claude/GPT), usage trends + runway prediction, cache manager (Brain Tasks & Code), auto-accept mode, AI commit generator. 13 languages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 651 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Observability
+AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ n2ns/antigravity-panel 的生产可用性很高，因为它有：
 | forks | 39/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

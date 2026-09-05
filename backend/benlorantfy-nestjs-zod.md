@@ -1,6 +1,6 @@
 # BenLorantfy/nestjs-zod
 
-[![Stars](https://img.shields.io/github/stars/BenLorantfy/nestjs-zod?style=flat-square&color=yellow)](https://github.com/BenLorantfy/nestjs-zod/stargazers) [![Forks](https://img.shields.io/github/forks/BenLorantfy/nestjs-zod?style=flat-square&color=blue)](https://github.com/BenLorantfy/nestjs-zod/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BenLorantfy/nestjs-zod?style=flat-square&color=yellow)](https://github.com/BenLorantfy/nestjs-zod/stargazers) [![Forks](https://img.shields.io/github/forks/BenLorantfy/nestjs-zod?style=flat-square&color=blue)](https://github.com/BenLorantfy/nestjs-zod/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > All NestJS + Zod utilities you need
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ BenLorantfy/nestjs-zod 的生产可用性较高，主要原因是：
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

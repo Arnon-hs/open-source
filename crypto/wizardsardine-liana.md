@@ -1,6 +1,6 @@
 # wizardsardine/liana
 
-[![Stars](https://img.shields.io/github/stars/wizardsardine/liana?style=flat-square&color=yellow)](https://github.com/wizardsardine/liana/stargazers) [![Forks](https://img.shields.io/github/forks/wizardsardine/liana?style=flat-square&color=blue)](https://github.com/wizardsardine/liana/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wizardsardine/liana?style=flat-square&color=yellow)](https://github.com/wizardsardine/liana/stargazers) [![Forks](https://img.shields.io/github/forks/wizardsardine/liana?style=flat-square&color=blue)](https://github.com/wizardsardine/liana/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The missing safety net for your coins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 442 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ wizardsardine/liana 的生产可用性是中等的。它适合用于内部工作
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

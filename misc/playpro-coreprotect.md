@@ -1,6 +1,6 @@
 # PlayPro/CoreProtect
 
-[![Stars](https://img.shields.io/github/stars/PlayPro/CoreProtect?style=flat-square&color=yellow)](https://github.com/PlayPro/CoreProtect/stargazers) [![Forks](https://img.shields.io/github/forks/PlayPro/CoreProtect?style=flat-square&color=blue)](https://github.com/PlayPro/CoreProtect/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PlayPro/CoreProtect?style=flat-square&color=yellow)](https://github.com/PlayPro/CoreProtect/stargazers) [![Forks](https://img.shields.io/github/forks/PlayPro/CoreProtect?style=flat-square&color=blue)](https://github.com/PlayPro/CoreProtect/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 955 |
 | 🍴 **Forks** | 742 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ PlayPro/CoreProtect 的生产可用性为中等（Medium）。它适合于内部
 | forks | 72/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

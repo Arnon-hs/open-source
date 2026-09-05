@@ -1,6 +1,6 @@
 # lissy93/who-dat
 
-[![Stars](https://img.shields.io/github/stars/lissy93/who-dat?style=flat-square&color=yellow)](https://github.com/lissy93/who-dat/stargazers) [![Forks](https://img.shields.io/github/forks/lissy93/who-dat?style=flat-square&color=blue)](https://github.com/lissy93/who-dat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lissy93/who-dat?style=flat-square&color=yellow)](https://github.com/lissy93/who-dat/stargazers) [![Forks](https://img.shields.io/github/forks/lissy93/who-dat?style=flat-square&color=blue)](https://github.com/lissy93/who-dat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🔎 A really complete domain lookup (RDAP + WHOIS) API for maximum TLD support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ lissy93/who-dat 的生产可用性很高，理由如下：
 | forks | 45/100 |
 | stars | 52/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

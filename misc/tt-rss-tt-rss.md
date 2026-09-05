@@ -1,6 +1,6 @@
 # tt-rss/tt-rss
 
-[![Stars](https://img.shields.io/github/stars/tt-rss/tt-rss?style=flat-square&color=yellow)](https://github.com/tt-rss/tt-rss/stargazers) [![Forks](https://img.shields.io/github/forks/tt-rss/tt-rss?style=flat-square&color=blue)](https://github.com/tt-rss/tt-rss/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tt-rss/tt-rss?style=flat-square&color=yellow)](https://github.com/tt-rss/tt-rss/stargazers) [![Forks](https://img.shields.io/github/forks/tt-rss/tt-rss?style=flat-square&color=blue)](https://github.com/tt-rss/tt-rss/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 801 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ tt-rss/tt-rss 的生产可用性为中等。它适合用于内部工作流或原
 | forks | 48/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Codeturion/unreal-api-mcp
 
-[![Stars](https://img.shields.io/github/stars/Codeturion/unreal-api-mcp?style=flat-square&color=yellow)](https://github.com/Codeturion/unreal-api-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Codeturion/unreal-api-mcp?style=flat-square&color=blue)](https://github.com/Codeturion/unreal-api-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Codeturion/unreal-api-mcp?style=flat-square&color=yellow)](https://github.com/Codeturion/unreal-api-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Codeturion/unreal-api-mcp?style=flat-square&color=blue)](https://github.com/Codeturion/unreal-api-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Instant, accurate Unreal Engine API lookups instead of expensive source file reads, saving your agent tokens, context, and hallucinations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML · Games & Graphics · Backend
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ Codeturion/unreal-api-mcp 的价值在于它帮助连接 AI 助手到真实工�
 | forks | 28/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

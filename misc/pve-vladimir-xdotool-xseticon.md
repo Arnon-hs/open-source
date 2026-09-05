@@ -1,6 +1,6 @@
 # PVE-Vladimir/xdotool_xseticon
 
-[![Stars](https://img.shields.io/github/stars/PVE-Vladimir/xdotool_xseticon?style=flat-square&color=yellow)](https://github.com/PVE-Vladimir/xdotool_xseticon/stargazers) [![Forks](https://img.shields.io/github/forks/PVE-Vladimir/xdotool_xseticon?style=flat-square&color=blue)](https://github.com/PVE-Vladimir/xdotool_xseticon/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PVE-Vladimir/xdotool_xseticon?style=flat-square&color=yellow)](https://github.com/PVE-Vladimir/xdotool_xseticon/stargazers) [![Forks](https://img.shields.io/github/forks/PVE-Vladimir/xdotool_xseticon?style=flat-square&color=blue)](https://github.com/PVE-Vladimir/xdotool_xseticon/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: Как установить анимацию GIF для иконки окна Linux? Как поменять и получить иконку окна Linux?
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -63,11 +63,11 @@ This project enables setting an animated GIF icon for Linux windows and changing
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # web-platform-dx/web-features
 
-[![Stars](https://img.shields.io/github/stars/web-platform-dx/web-features?style=flat-square&color=yellow)](https://github.com/web-platform-dx/web-features/stargazers) [![Forks](https://img.shields.io/github/forks/web-platform-dx/web-features?style=flat-square&color=blue)](https://github.com/web-platform-dx/web-features/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web-platform-dx/web-features?style=flat-square&color=yellow)](https://github.com/web-platform-dx/web-features/stargazers) [![Forks](https://img.shields.io/github/forks/web-platform-dx/web-features?style=flat-square&color=blue)](https://github.com/web-platform-dx/web-features/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Exploring how to present Web platform features adoptability
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 869 |
 | 🍴 **Forks** | 296 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ web-platform-dx/web‑features 汇总并分析了 Web 平台各项特性的可�
 | forks | 62/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

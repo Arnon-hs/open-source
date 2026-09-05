@@ -1,6 +1,6 @@
 # python-pillow/Pillow
 
-[![Stars](https://img.shields.io/github/stars/python-pillow/Pillow?style=flat-square&color=yellow)](https://github.com/python-pillow/Pillow/stargazers) [![Forks](https://img.shields.io/github/forks/python-pillow/Pillow?style=flat-square&color=blue)](https://github.com/python-pillow/Pillow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python-pillow/Pillow?style=flat-square&color=yellow)](https://github.com/python-pillow/Pillow/stargazers) [![Forks](https://img.shields.io/github/forks/python-pillow/Pillow?style=flat-square&color=blue)](https://github.com/python-pillow/Pillow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Python Imaging Library (fork)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.6k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Python‑Pillow（简称 Pillow）是 Python Imaging Library 的活跃分支，�
 | forks | 85/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

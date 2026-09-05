@@ -1,6 +1,6 @@
 # haunchen/n8n-skills
 
-[![Stars](https://img.shields.io/github/stars/haunchen/n8n-skills?style=flat-square&color=yellow)](https://github.com/haunchen/n8n-skills/stargazers) [![Forks](https://img.shields.io/github/forks/haunchen/n8n-skills?style=flat-square&color=blue)](https://github.com/haunchen/n8n-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haunchen/n8n-skills?style=flat-square&color=yellow)](https://github.com/haunchen/n8n-skills/stargazers) [![Forks](https://img.shields.io/github/forks/haunchen/n8n-skills?style=flat-square&color=blue)](https://github.com/haunchen/n8n-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ haunchen/n8n-skills 是专为 AI 助手设计的 n8n 工作流自动化技能套
 | forks | 37/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Anionex/agent-vision-toolkit
 
-[![Stars](https://img.shields.io/github/stars/Anionex/agent-vision-toolkit?style=flat-square&color=yellow)](https://github.com/Anionex/agent-vision-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/Anionex/agent-vision-toolkit?style=flat-square&color=blue)](https://github.com/Anionex/agent-vision-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anionex/agent-vision-toolkit?style=flat-square&color=yellow)](https://github.com/Anionex/agent-vision-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/Anionex/agent-vision-toolkit?style=flat-square&color=blue)](https://github.com/Anionex/agent-vision-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Anionex/agent-vision-toolkit 的价值在于，它可以帮助将孤立的提示
 | forks | 29/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # macrocosm-os/apex
 
-[![Stars](https://img.shields.io/github/stars/macrocosm-os/apex?style=flat-square&color=yellow)](https://github.com/macrocosm-os/apex/stargazers) [![Forks](https://img.shields.io/github/forks/macrocosm-os/apex?style=flat-square&color=blue)](https://github.com/macrocosm-os/apex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/macrocosm-os/apex?style=flat-square&color=yellow)](https://github.com/macrocosm-os/apex/stargazers) [![Forks](https://img.shields.io/github/forks/macrocosm-os/apex?style=flat-square&color=blue)](https://github.com/macrocosm-os/apex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SN1: An incentive mechanism for internet-scale conversational intelligence
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ macrocosm‑os/apex 是一个基于 Python 实现的激励机制框架（SN1）�
 | forks | 46/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 44/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

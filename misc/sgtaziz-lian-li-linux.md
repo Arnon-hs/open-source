@@ -1,6 +1,6 @@
 # sgtaziz/lian-li-linux
 
-[![Stars](https://img.shields.io/github/stars/sgtaziz/lian-li-linux?style=flat-square&color=yellow)](https://github.com/sgtaziz/lian-li-linux/stargazers) [![Forks](https://img.shields.io/github/forks/sgtaziz/lian-li-linux?style=flat-square&color=blue)](https://github.com/sgtaziz/lian-li-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgtaziz/lian-li-linux?style=flat-square&color=yellow)](https://github.com/sgtaziz/lian-li-linux/stargazers) [![Forks](https://img.shields.io/github/forks/sgtaziz/lian-li-linux?style=flat-square&color=blue)](https://github.com/sgtaziz/lian-li-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Linux replacement for L-Connect 3. Fan/RGB control and LCD streaming for Lian Li fans
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ sgtaziz/lian-li-linux是一个开源项目，旨在替代Lian Li的L-Connect 3�
 | forks | 35/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 44/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

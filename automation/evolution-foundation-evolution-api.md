@@ -1,6 +1,6 @@
 # evolution-foundation/evolution-api
 
-[![Stars](https://img.shields.io/github/stars/evolution-foundation/evolution-api?style=flat-square&color=yellow)](https://github.com/evolution-foundation/evolution-api/stargazers) [![Forks](https://img.shields.io/github/forks/evolution-foundation/evolution-api?style=flat-square&color=blue)](https://github.com/evolution-foundation/evolution-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evolution-foundation/evolution-api?style=flat-square&color=yellow)](https://github.com/evolution-foundation/evolution-api/stargazers) [![Forks](https://img.shields.io/github/forks/evolution-foundation/evolution-api?style=flat-square&color=blue)](https://github.com/evolution-foundation/evolution-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Evolution API is an open-source WhatsApp integration API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ evolution-foundation/evolution-api：evolution-foundation/evolution-api helps re
 | forks | 96/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # snomiao/agent-yes
 
-[![Stars](https://img.shields.io/github/stars/snomiao/agent-yes?style=flat-square&color=yellow)](https://github.com/snomiao/agent-yes/stargazers) [![Forks](https://img.shields.io/github/forks/snomiao/agent-yes?style=flat-square&color=blue)](https://github.com/snomiao/agent-yes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/snomiao/agent-yes?style=flat-square&color=yellow)](https://github.com/snomiao/agent-yes/stargazers) [![Forks](https://img.shields.io/github/forks/snomiao/agent-yes?style=flat-square&color=blue)](https://github.com/snomiao/agent-yes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Run AI coding agents (Claude, Codex, Gemini …) unattended — auto-answer prompts, auto-retry on rate limits, and list/tail/steer every agent locally or from agent-yes.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ snomiao/agent-yes 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 27/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

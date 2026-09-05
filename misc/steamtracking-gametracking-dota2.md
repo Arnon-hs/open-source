@@ -1,6 +1,6 @@
 # SteamTracking/GameTracking-Dota2
 
-[![Stars](https://img.shields.io/github/stars/SteamTracking/GameTracking-Dota2?style=flat-square&color=yellow)](https://github.com/SteamTracking/GameTracking-Dota2/stargazers) [![Forks](https://img.shields.io/github/forks/SteamTracking/GameTracking-Dota2?style=flat-square&color=blue)](https://github.com/SteamTracking/GameTracking-Dota2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteamTracking/GameTracking-Dota2?style=flat-square&color=yellow)](https://github.com/SteamTracking/GameTracking-Dota2/stargazers) [![Forks](https://img.shields.io/github/forks/SteamTracking/GameTracking-Dota2?style=flat-square&color=blue)](https://github.com/SteamTracking/GameTracking-Dota2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 📥 Game Tracker: Dota 2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ SteamTracking/GameTracking-Dota2 的生产可用性为中等。它适合用于�
 | forks | 57/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

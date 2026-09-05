@@ -1,6 +1,6 @@
 # kubeclipper/kubeclipper
 
-[![Stars](https://img.shields.io/github/stars/kubeclipper/kubeclipper?style=flat-square&color=yellow)](https://github.com/kubeclipper/kubeclipper/stargazers) [![Forks](https://img.shields.io/github/forks/kubeclipper/kubeclipper?style=flat-square&color=blue)](https://github.com/kubeclipper/kubeclipper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeclipper/kubeclipper?style=flat-square&color=yellow)](https://github.com/kubeclipper/kubeclipper/stargazers) [![Forks](https://img.shields.io/github/forks/kubeclipper/kubeclipper?style=flat-square&color=blue)](https://github.com/kubeclipper/kubeclipper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Manage kubernetes in the most light and convenient way ☸️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 442 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ kubeclipper/kubeclipper 的生产可用性很高，最近有活跃的开发和�
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

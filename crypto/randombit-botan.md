@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 644 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ randombit/botan：randombit/botan helps prototype or inspect blockchain workflow
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

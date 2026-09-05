@@ -1,6 +1,6 @@
 # NimaChu/my-wiki
 
-[![Stars](https://img.shields.io/github/stars/NimaChu/my-wiki?style=flat-square&color=yellow)](https://github.com/NimaChu/my-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/NimaChu/my-wiki?style=flat-square&color=blue)](https://github.com/NimaChu/my-wiki/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NimaChu/my-wiki?style=flat-square&color=yellow)](https://github.com/NimaChu/my-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/NimaChu/my-wiki?style=flat-square&color=blue)](https://github.com/NimaChu/my-wiki/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-cost, beginner-friendly local Markdown knowledge base for AI agents. Capture sources, preserve evidence and images, synthesize wiki pages, search, lint, and view an on-demand graph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ NimaChu/my-wiki 的生产可用性为中等。它适合于原型或内部流程�
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

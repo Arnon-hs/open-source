@@ -1,6 +1,6 @@
 # adyanth/openwrt-tailscale-enabler
 
-[![Stars](https://img.shields.io/github/stars/adyanth/openwrt-tailscale-enabler?style=flat-square&color=yellow)](https://github.com/adyanth/openwrt-tailscale-enabler/stargazers) [![Forks](https://img.shields.io/github/forks/adyanth/openwrt-tailscale-enabler?style=flat-square&color=blue)](https://github.com/adyanth/openwrt-tailscale-enabler/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adyanth/openwrt-tailscale-enabler?style=flat-square&color=yellow)](https://github.com/adyanth/openwrt-tailscale-enabler/stargazers) [![Forks](https://img.shields.io/github/forks/adyanth/openwrt-tailscale-enabler?style=flat-square&color=blue)](https://github.com/adyanth/openwrt-tailscale-enabler/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Brings Tailscale to low powered OpenWRT devices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ adyanth/openwrt-tailscale-enabler 的价值在于，它可以帮助开发者在�
 | forks | 58/100 |
 | stars | 68/100 |
 | topics | 25/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

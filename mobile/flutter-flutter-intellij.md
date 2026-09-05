@@ -1,6 +1,6 @@
 # flutter/flutter-intellij
 
-[![Stars](https://img.shields.io/github/stars/flutter/flutter-intellij?style=flat-square&color=yellow)](https://github.com/flutter/flutter-intellij/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/flutter-intellij?style=flat-square&color=blue)](https://github.com/flutter/flutter-intellij/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flutter/flutter-intellij?style=flat-square&color=yellow)](https://github.com/flutter/flutter-intellij/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/flutter-intellij?style=flat-square&color=blue)](https://github.com/flutter/flutter-intellij/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter Plugin for IntelliJ
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 350 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Flutter IntelliJ 插件在生产环境中的可用性很高，主要是因为：
 | forks | 64/100 |
 | stars | 70/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

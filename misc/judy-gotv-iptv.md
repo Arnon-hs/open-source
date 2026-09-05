@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -72,6 +72,7 @@ judy-gotv/iptv：judy-gotv/iptv may be useful when its README and activity match
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

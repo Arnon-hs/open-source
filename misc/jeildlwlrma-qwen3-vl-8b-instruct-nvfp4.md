@@ -1,6 +1,6 @@
 # JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4
 
-[![Stars](https://img.shields.io/github/stars/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4?style=flat-square&color=yellow)](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4/stargazers) [![Forks](https://img.shields.io/github/forks/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4?style=flat-square&color=blue)](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4?style=flat-square&color=yellow)](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4/stargazers) [![Forks](https://img.shields.io/github/forks/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4?style=flat-square&color=blue)](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Vision language (image-to-text) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 30/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -64,11 +64,11 @@ JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4：JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4 
 | forks | 0/100 |
 | stars | 13/100 |
 | topics | 38/100 |
-| outlook | 28/100 |
-| quality | 25/100 |
-| recency | 20/100 |
+| outlook | 49/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 9/100 |
-| production | 32/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

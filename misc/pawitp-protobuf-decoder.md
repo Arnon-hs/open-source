@@ -1,6 +1,6 @@
 # pawitp/protobuf-decoder
 
-[![Stars](https://img.shields.io/github/stars/pawitp/protobuf-decoder?style=flat-square&color=yellow)](https://github.com/pawitp/protobuf-decoder/stargazers) [![Forks](https://img.shields.io/github/forks/pawitp/protobuf-decoder?style=flat-square&color=blue)](https://github.com/pawitp/protobuf-decoder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pawitp/protobuf-decoder?style=flat-square&color=yellow)](https://github.com/pawitp/protobuf-decoder/stargazers) [![Forks](https://img.shields.io/github/forks/pawitp/protobuf-decoder?style=flat-square&color=blue)](https://github.com/pawitp/protobuf-decoder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript-based web UI to decode ad-hoc Protobuf data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 672 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ pawitp/protobuf-decoder 是一个基于 JavaScript 的 web UI 工具，用于解
 | forks | 53/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

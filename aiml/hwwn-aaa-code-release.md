@@ -1,6 +1,6 @@
 # hwwn/aaa-code-release
 
-[![Stars](https://img.shields.io/github/stars/hwwn/aaa-code-release?style=flat-square&color=yellow)](https://github.com/hwwn/aaa-code-release/stargazers) [![Forks](https://img.shields.io/github/forks/hwwn/aaa-code-release?style=flat-square&color=blue)](https://github.com/hwwn/aaa-code-release/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwwn/aaa-code-release?style=flat-square&color=yellow)](https://github.com/hwwn/aaa-code-release/stargazers) [![Forks](https://img.shields.io/github/forks/hwwn/aaa-code-release?style=flat-square&color=blue)](https://github.com/hwwn/aaa-code-release/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform Claude Code desktop client by hwwn. Multi-workspace, remote mobile access, session branching, BYO LLM. macOS / Windows / Linux.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ hwwn/aaa-code-release 为开发者提供了一套跨平台的 Claude Code 桌�
 | forks | 25/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

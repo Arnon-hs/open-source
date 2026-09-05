@@ -1,6 +1,6 @@
 # geonetwork/core-geonetwork
 
-[![Stars](https://img.shields.io/github/stars/geonetwork/core-geonetwork?style=flat-square&color=yellow)](https://github.com/geonetwork/core-geonetwork/stargazers) [![Forks](https://img.shields.io/github/forks/geonetwork/core-geonetwork?style=flat-square&color=blue)](https://github.com/geonetwork/core-geonetwork/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geonetwork/core-geonetwork?style=flat-square&color=yellow)](https://github.com/geonetwork/core-geonetwork/stargazers) [![Forks](https://img.shields.io/github/forks/geonetwork/core-geonetwork?style=flat-square&color=blue)](https://github.com/geonetwork/core-geonetwork/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > GeoNetwork is a catalog application to manage spatially referenced resources. It provides powerful metadata editing and search functions as well as an interactive web map viewer. It is currently used in numerous Spatial Data Infrastructure initiatives across the world.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 508 |
 | 🍴 **Forks** | 512 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ GeoNetwork/core-geonetwork 在生产环境中具有很高的可用性。它有�
 | forks | 68/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # dnGrep/dnGrep
 
-[![Stars](https://img.shields.io/github/stars/dnGrep/dnGrep?style=flat-square&color=yellow)](https://github.com/dnGrep/dnGrep/stargazers) [![Forks](https://img.shields.io/github/forks/dnGrep/dnGrep?style=flat-square&color=blue)](https://github.com/dnGrep/dnGrep/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dnGrep/dnGrep?style=flat-square&color=yellow)](https://github.com/dnGrep/dnGrep/stargazers) [![Forks](https://img.shields.io/github/forks/dnGrep/dnGrep?style=flat-square&color=blue)](https://github.com/dnGrep/dnGrep/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Graphical GREP tool for Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ dnGrep 是一款基于 Windows 的图形化 GREP 工具，使用 C# 开发，提
 | forks | 55/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

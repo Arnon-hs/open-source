@@ -1,6 +1,6 @@
 # kitsumed/ShizuCallRecorder
 
-[![Stars](https://img.shields.io/github/stars/kitsumed/ShizuCallRecorder?style=flat-square&color=yellow)](https://github.com/kitsumed/ShizuCallRecorder/stargazers) [![Forks](https://img.shields.io/github/forks/kitsumed/ShizuCallRecorder?style=flat-square&color=blue)](https://github.com/kitsumed/ShizuCallRecorder/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kitsumed/ShizuCallRecorder?style=flat-square&color=yellow)](https://github.com/kitsumed/ShizuCallRecorder/stargazers) [![Forks](https://img.shields.io/github/forks/kitsumed/ShizuCallRecorder?style=flat-square&color=blue)](https://github.com/kitsumed/ShizuCallRecorder/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 527 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ ShizuCallRecorder 为非 root Android 设备提供了一个轻量、开源的通
 | forks | 31/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

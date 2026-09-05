@@ -1,6 +1,6 @@
 # UI5/plugins-coding-agents
 
-[![Stars](https://img.shields.io/github/stars/UI5/plugins-coding-agents?style=flat-square&color=yellow)](https://github.com/UI5/plugins-coding-agents/stargazers) [![Forks](https://img.shields.io/github/forks/UI5/plugins-coding-agents?style=flat-square&color=blue)](https://github.com/UI5/plugins-coding-agents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UI5/plugins-coding-agents?style=flat-square&color=yellow)](https://github.com/UI5/plugins-coding-agents/stargazers) [![Forks](https://img.shields.io/github/forks/UI5/plugins-coding-agents?style=flat-square&color=blue)](https://github.com/UI5/plugins-coding-agents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SAPUI5 / OpenUI5 plugins for Coding Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ UI5/plugins-coding-agents 的价值在于，它提供了一个快速构建 AI �
 | forks | 23/100 |
 | stars | 30/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

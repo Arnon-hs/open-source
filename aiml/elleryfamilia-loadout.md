@@ -1,6 +1,6 @@
 # elleryfamilia/loadout
 
-[![Stars](https://img.shields.io/github/stars/elleryfamilia/loadout?style=flat-square&color=yellow)](https://github.com/elleryfamilia/loadout/stargazers) [![Forks](https://img.shields.io/github/forks/elleryfamilia/loadout?style=flat-square&color=blue)](https://github.com/elleryfamilia/loadout/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elleryfamilia/loadout?style=flat-square&color=yellow)](https://github.com/elleryfamilia/loadout/stargazers) [![Forks](https://img.shields.io/github/forks/elleryfamilia/loadout?style=flat-square&color=blue)](https://github.com/elleryfamilia/loadout/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Equip the right context for the job — named context kits for AI coding agents, auto-equipped per stack, machine, or task
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ elleryfamilia/loadout：elleryfamilia/loadout helps add AI capability without st
 | forks | 0/100 |
 | stars | 19/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 14/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

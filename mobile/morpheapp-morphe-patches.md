@@ -1,6 +1,6 @@
 # MorpheApp/morphe-patches
 
-[![Stars](https://img.shields.io/github/stars/MorpheApp/morphe-patches?style=flat-square&color=yellow)](https://github.com/MorpheApp/morphe-patches/stargazers) [![Forks](https://img.shields.io/github/forks/MorpheApp/morphe-patches?style=flat-square&color=blue)](https://github.com/MorpheApp/morphe-patches/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MorpheApp/morphe-patches?style=flat-square&color=yellow)](https://github.com/MorpheApp/morphe-patches/stargazers) [![Forks](https://img.shields.io/github/forks/MorpheApp/morphe-patches?style=flat-square&color=blue)](https://github.com/MorpheApp/morphe-patches/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Morphe Patches
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Morphe Patches 为 Android（Java）项目提供一套可直接引用的补丁
 | forks | 50/100 |
 | stars | 71/100 |
 | topics | 25/100 |
-| outlook | 44/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

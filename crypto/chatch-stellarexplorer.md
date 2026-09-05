@@ -1,6 +1,6 @@
 # chatch/stellarexplorer
 
-[![Stars](https://img.shields.io/github/stars/chatch/stellarexplorer?style=flat-square&color=yellow)](https://github.com/chatch/stellarexplorer/stargazers) [![Forks](https://img.shields.io/github/forks/chatch/stellarexplorer?style=flat-square&color=blue)](https://github.com/chatch/stellarexplorer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chatch/stellarexplorer?style=flat-square&color=yellow)](https://github.com/chatch/stellarexplorer/stargazers) [![Forks](https://img.shields.io/github/forks/chatch/stellarexplorer?style=flat-square&color=blue)](https://github.com/chatch/stellarexplorer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Ledger Explorer for the Stellar Network  🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 507 |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ chatch/stellarexplorer 是一款基于 TypeScript 的 Stellar 网络账本浏览
 | forks | 77/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

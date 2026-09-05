@@ -1,6 +1,6 @@
 # microsoft/hcsshim
 
-[![Stars](https://img.shields.io/github/stars/microsoft/hcsshim?style=flat-square&color=yellow)](https://github.com/microsoft/hcsshim/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/hcsshim?style=flat-square&color=blue)](https://github.com/microsoft/hcsshim/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/hcsshim?style=flat-square&color=yellow)](https://github.com/microsoft/hcsshim/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/hcsshim?style=flat-square&color=blue)](https://github.com/microsoft/hcsshim/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Windows - Host Compute Service Shim
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 668 |
 | 🍴 **Forks** | 285 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Microsoft /hcsshim is the Go‑based shim for the Windows Host Compute Service
 | forks | 61/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

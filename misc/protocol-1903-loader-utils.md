@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 29/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -72,7 +72,7 @@ protocol-1903/loader-utils：protocol-1903/loader-utils may be useful when its R
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

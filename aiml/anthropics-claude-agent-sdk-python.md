@@ -1,6 +1,6 @@
 # anthropics/claude-agent-sdk-python
 
-[![Stars](https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python?style=flat-square&color=yellow)](https://github.com/anthropics/claude-agent-sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-agent-sdk-python?style=flat-square&color=blue)](https://github.com/anthropics/claude-agent-sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python?style=flat-square&color=yellow)](https://github.com/anthropics/claude-agent-sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-agent-sdk-python?style=flat-square&color=blue)](https://github.com/anthropics/claude-agent-sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ Claude 机器人 SDK Python 是一个开源项目，帮助开发者在现有的�
 | forks | 77/100 |
 | stars | 83/100 |
 | topics | 0/100 |
-| outlook | 80/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

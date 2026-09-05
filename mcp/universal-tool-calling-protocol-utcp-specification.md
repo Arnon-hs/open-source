@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/utcp-specification
 
-[![Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/utcp-specification?style=flat-square&color=yellow)](https://github.com/universal-tool-calling-protocol/utcp-specification/stargazers) [![Forks](https://img.shields.io/github/forks/universal-tool-calling-protocol/utcp-specification?style=flat-square&color=blue)](https://github.com/universal-tool-calling-protocol/utcp-specification/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/utcp-specification?style=flat-square&color=yellow)](https://github.com/universal-tool-calling-protocol/utcp-specification/stargazers) [![Forks](https://img.shields.io/github/forks/universal-tool-calling-protocol/utcp-specification?style=flat-square&color=blue)](https://github.com/universal-tool-calling-protocol/utcp-specification/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The specification for the Universal Tool Calling Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ UTCP 的生产可用性较高，主要原因是：
 | forks | 35/100 |
 | stars | 53/100 |
 | topics | 88/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

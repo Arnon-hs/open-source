@@ -1,6 +1,6 @@
 # TingsongYu/PyTorch-Tutorial-2nd
 
-[![Stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd?style=flat-square&color=yellow)](https://github.com/TingsongYu/PyTorch-Tutorial-2nd/stargazers) [![Forks](https://img.shields.io/github/forks/TingsongYu/PyTorch-Tutorial-2nd?style=flat-square&color=blue)](https://github.com/TingsongYu/PyTorch-Tutorial-2nd/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd?style=flat-square&color=yellow)](https://github.com/TingsongYu/PyTorch-Tutorial-2nd/stargazers) [![Forks](https://img.shields.io/github/forks/TingsongYu/PyTorch-Tutorial-2nd?style=flat-square&color=blue)](https://github.com/TingsongYu/PyTorch-Tutorial-2nd/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 489 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ TingsongYu/PyTorch-Tutorial-2nd 是一个开源项目，提供了 PyTorch 实用
 | forks | 67/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 79/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

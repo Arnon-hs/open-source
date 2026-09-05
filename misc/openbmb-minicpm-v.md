@@ -1,6 +1,6 @@
 # OpenBMB/MiniCPM-V
 
-[![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square&color=yellow)](https://github.com/OpenBMB/MiniCPM-V/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/MiniCPM-V?style=flat-square&color=blue)](https://github.com/OpenBMB/MiniCPM-V/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square&color=yellow)](https://github.com/OpenBMB/MiniCPM-V/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/MiniCPM-V?style=flat-square&color=blue)](https://github.com/OpenBMB/MiniCPM-V/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.1k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ OpenBMB/MiniCPM-V 的生产可用性高，因为它有：
 | forks | 83/100 |
 | stars | 94/100 |
 | topics | 50/100 |
-| outlook | 67/100 |
-| quality | 78/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 66/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

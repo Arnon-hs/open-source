@@ -1,6 +1,6 @@
 # coreui/coreui-free-react-admin-template
 
-[![Stars](https://img.shields.io/github/stars/coreui/coreui-free-react-admin-template?style=flat-square&color=yellow)](https://github.com/coreui/coreui-free-react-admin-template/stargazers) [![Forks](https://img.shields.io/github/forks/coreui/coreui-free-react-admin-template?style=flat-square&color=blue)](https://github.com/coreui/coreui-free-react-admin-template/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coreui/coreui-free-react-admin-template?style=flat-square&color=yellow)](https://github.com/coreui/coreui-free-react-admin-template/stargazers) [![Forks](https://img.shields.io/github/forks/coreui/coreui-free-react-admin-template?style=flat-square&color=blue)](https://github.com/coreui/coreui-free-react-admin-template/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Free React Admin & Dashboard Template Built for AI-Assisted Development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ coreui/coreui-free-react-admin-template 是一个免费的 React 后台和仪表
 | forks | 85/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 81/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

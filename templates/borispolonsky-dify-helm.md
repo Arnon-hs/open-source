@@ -1,6 +1,6 @@
 # BorisPolonsky/dify-helm
 
-[![Stars](https://img.shields.io/github/stars/BorisPolonsky/dify-helm?style=flat-square&color=yellow)](https://github.com/BorisPolonsky/dify-helm/stargazers) [![Forks](https://img.shields.io/github/forks/BorisPolonsky/dify-helm?style=flat-square&color=blue)](https://github.com/BorisPolonsky/dify-helm/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BorisPolonsky/dify-helm?style=flat-square&color=yellow)](https://github.com/BorisPolonsky/dify-helm/stargazers) [![Forks](https://img.shields.io/github/forks/BorisPolonsky/dify-helm?style=flat-square&color=blue)](https://github.com/BorisPolonsky/dify-helm/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy langgenious/dify, an LLM based app on kubernetes with helm chart.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 654 |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Go Template |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ BorisPolonsky/dify-helm 帮助开发者快速添加 AI 能力，而无需从零�
 | forks | 57/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

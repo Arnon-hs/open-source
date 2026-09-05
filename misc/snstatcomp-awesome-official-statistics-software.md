@@ -1,6 +1,6 @@
 # SNStatComp/awesome-official-statistics-software
 
-[![Stars](https://img.shields.io/github/stars/SNStatComp/awesome-official-statistics-software?style=flat-square&color=yellow)](https://github.com/SNStatComp/awesome-official-statistics-software/stargazers) [![Forks](https://img.shields.io/github/forks/SNStatComp/awesome-official-statistics-software?style=flat-square&color=blue)](https://github.com/SNStatComp/awesome-official-statistics-software/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SNStatComp/awesome-official-statistics-software?style=flat-square&color=yellow)](https://github.com/SNStatComp/awesome-official-statistics-software/stargazers) [![Forks](https://img.shields.io/github/forks/SNStatComp/awesome-official-statistics-software?style=flat-square&color=blue)](https://github.com/SNStatComp/awesome-official-statistics-software/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An awesome list of statistical software for creating and accessing official statistics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ SNStatComp/awesome-official-statistics-software：SNStatComp/awesome-official-st
 | forks | 46/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

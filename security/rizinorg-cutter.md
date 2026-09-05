@@ -1,6 +1,6 @@
 # rizinorg/cutter
 
-[![Stars](https://img.shields.io/github/stars/rizinorg/cutter?style=flat-square&color=yellow)](https://github.com/rizinorg/cutter/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/cutter?style=flat-square&color=blue)](https://github.com/rizinorg/cutter/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizinorg/cutter?style=flat-square&color=yellow)](https://github.com/rizinorg/cutter/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/cutter?style=flat-square&color=blue)](https://github.com/rizinorg/cutter/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Free and Open Source Reverse Engineering Platform powered by rizin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.1k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ rizinorg/cutter 是基于 rizin 的免费开源逆向工程平台，提供图形
 | forks | 79/100 |
 | stars | 91/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

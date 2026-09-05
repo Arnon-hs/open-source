@@ -1,6 +1,6 @@
 # google-deepmind/mujoco
 
-[![Stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=flat-square&color=yellow)](https://github.com/google-deepmind/mujoco/stargazers) [![Forks](https://img.shields.io/github/forks/google-deepmind/mujoco?style=flat-square&color=blue)](https://github.com/google-deepmind/mujoco/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=flat-square&color=yellow)](https://github.com/google-deepmind/mujoco/stargazers) [![Forks](https://img.shields.io/github/forks/google-deepmind/mujoco?style=flat-square&color=blue)](https://github.com/google-deepmind/mujoco/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ google‑deepmind/mujoco 是一款通用的物理仿真引擎，专注于多关�
 | forks | 80/100 |
 | stars | 88/100 |
 | topics | 38/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

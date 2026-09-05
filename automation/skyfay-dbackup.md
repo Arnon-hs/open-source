@@ -1,6 +1,6 @@
 # Skyfay/DBackup
 
-[![Stars](https://img.shields.io/github/stars/Skyfay/DBackup?style=flat-square&color=yellow)](https://github.com/Skyfay/DBackup/stargazers) [![Forks](https://img.shields.io/github/forks/Skyfay/DBackup?style=flat-square&color=blue)](https://github.com/Skyfay/DBackup/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Skyfay/DBackup?style=flat-square&color=yellow)](https://github.com/Skyfay/DBackup/stargazers) [![Forks](https://img.shields.io/github/forks/Skyfay/DBackup?style=flat-square&color=blue)](https://github.com/Skyfay/DBackup/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Database · DevOps/Infra
+Automation · Cloud & Storage · Frontend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -114,15 +114,15 @@ Skyfay/DBackup 在生产环境中有较高的可用性，主要原因是：
 | forks | 33/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

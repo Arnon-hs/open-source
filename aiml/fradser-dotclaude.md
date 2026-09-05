@@ -1,6 +1,6 @@
 # FradSer/dotclaude
 
-[![Stars](https://img.shields.io/github/stars/FradSer/dotclaude?style=flat-square&color=yellow)](https://github.com/FradSer/dotclaude/stargazers) [![Forks](https://img.shields.io/github/forks/FradSer/dotclaude?style=flat-square&color=blue)](https://github.com/FradSer/dotclaude/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FradSer/dotclaude?style=flat-square&color=yellow)](https://github.com/FradSer/dotclaude/stargazers) [![Forks](https://img.shields.io/github/forks/FradSer/dotclaude?style=flat-square&color=blue)](https://github.com/FradSer/dotclaude/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 545 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Security · Marketing
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ FradSer/dotclaude 为项目提供了即插即用的 AI 能力，尤其在代码�
 | forks | 41/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

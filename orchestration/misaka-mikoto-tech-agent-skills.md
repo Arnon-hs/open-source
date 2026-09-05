@@ -1,6 +1,6 @@
 # Misaka-Mikoto-Tech/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/Misaka-Mikoto-Tech/agent-skills?style=flat-square&color=yellow)](https://github.com/Misaka-Mikoto-Tech/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Misaka-Mikoto-Tech/agent-skills?style=flat-square&color=blue)](https://github.com/Misaka-Mikoto-Tech/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Misaka-Mikoto-Tech/agent-skills?style=flat-square&color=yellow)](https://github.com/Misaka-Mikoto-Tech/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Misaka-Mikoto-Tech/agent-skills?style=flat-square&color=blue)](https://github.com/Misaka-Mikoto-Tech/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A personal collection of reusable AI agent skills, mostly for Codex, with optional MCP utilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Misaka-Mikoto-Tech/agent-skills 是一个开源项目，收集了一系列可重
 | forks | 17/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 40/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

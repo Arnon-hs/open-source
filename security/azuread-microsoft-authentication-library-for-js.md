@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ AzureAD/microsoft-authentication-library-for-js — это открытая Ja
 
 ### 中文
 
-AzureAD/microsoft-authentication-library-for-js：AzureAD/microsoft-authentication-library-for-js helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+AzureAD/microsoft-authentication-library-for-js：AzureAD/microsoft-authentication-library-for-js may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** AzureAD/microsoft-authentication-library-for-js helps catch security and privacy issues earlier in the workflow.
+**Value:** AzureAD/microsoft-authentication-library-for-js may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -64,17 +62,18 @@ AzureAD/microsoft-authentication-library-for-js：AzureAD/microsoft-authenticati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 79/100 |
-| stars | 77/100 |
 | forks | 86/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

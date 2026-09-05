@@ -1,6 +1,6 @@
 # fougue/mayo
 
-[![Stars](https://img.shields.io/github/stars/fougue/mayo?style=flat-square&color=yellow)](https://github.com/fougue/mayo/stargazers) [![Forks](https://img.shields.io/github/forks/fougue/mayo?style=flat-square&color=blue)](https://github.com/fougue/mayo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fougue/mayo?style=flat-square&color=yellow)](https://github.com/fougue/mayo/stargazers) [![Forks](https://img.shields.io/github/forks/fougue/mayo?style=flat-square&color=blue)](https://github.com/fougue/mayo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 3D CAD viewer and converter based on Qt + OpenCascade
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ fougue/mayo 是基于 Qt 与 OpenCascade 的开源 3D CAD 查看器与格式转�
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

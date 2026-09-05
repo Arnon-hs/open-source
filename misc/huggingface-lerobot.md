@@ -1,6 +1,6 @@
 # huggingface/lerobot
 
-[![Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=flat-square&color=yellow)](https://github.com/huggingface/lerobot/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/lerobot?style=flat-square&color=blue)](https://github.com/huggingface/lerobot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=flat-square&color=yellow)](https://github.com/huggingface/lerobot/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/lerobot?style=flat-square&color=blue)](https://github.com/huggingface/lerobot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.3k |
 | 🍴 **Forks** | 4.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ LeRobot scores high on production readiness: it is actively maintained (last upd
 | forks | 92/100 |
 | stars | 94/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

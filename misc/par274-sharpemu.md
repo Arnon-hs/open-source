@@ -1,6 +1,6 @@
 # par274/sharpemu
 
-[![Stars](https://img.shields.io/github/stars/par274/sharpemu?style=flat-square&color=yellow)](https://github.com/par274/sharpemu/stargazers) [![Forks](https://img.shields.io/github/forks/par274/sharpemu?style=flat-square&color=blue)](https://github.com/par274/sharpemu/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/par274/sharpemu?style=flat-square&color=yellow)](https://github.com/par274/sharpemu/stargazers) [![Forks](https://img.shields.io/github/forks/par274/sharpemu?style=flat-square&color=blue)](https://github.com/par274/sharpemu/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An experimental PlayStation 5 emulator project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ par274/sharpemu 是用 C# 编写的实验性 PlayStation 5 模拟器，适合�
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

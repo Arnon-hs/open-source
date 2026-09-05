@@ -1,6 +1,6 @@
 # rubyevents/rubyevents
 
-[![Stars](https://img.shields.io/github/stars/rubyevents/rubyevents?style=flat-square&color=yellow)](https://github.com/rubyevents/rubyevents/stargazers) [![Forks](https://img.shields.io/github/forks/rubyevents/rubyevents?style=flat-square&color=blue)](https://github.com/rubyevents/rubyevents/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rubyevents/rubyevents?style=flat-square&color=yellow)](https://github.com/rubyevents/rubyevents/stargazers) [![Forks](https://img.shields.io/github/forks/rubyevents/rubyevents?style=flat-square&color=blue)](https://github.com/rubyevents/rubyevents/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > On a mission to index all Ruby events.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ events.each { |e| puts "#{e.title} – #{e.start_time}" }
 | forks | 57/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # smp46/pingvin-share-x
 
-[![Stars](https://img.shields.io/github/stars/smp46/pingvin-share-x?style=flat-square&color=yellow)](https://github.com/smp46/pingvin-share-x/stargazers) [![Forks](https://img.shields.io/github/forks/smp46/pingvin-share-x?style=flat-square&color=blue)](https://github.com/smp46/pingvin-share-x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smp46/pingvin-share-x?style=flat-square&color=yellow)](https://github.com/smp46/pingvin-share-x/stargazers) [![Forks](https://img.shields.io/github/forks/smp46/pingvin-share-x?style=flat-square&color=blue)](https://github.com/smp46/pingvin-share-x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Pingvin Share X is a secure and easy self-hosted file sharing platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Pingvin Share X（smp46/pingvin-share-x）是一款基于 TypeScript 的自托�
 | forks | 34/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Open-Finance-Lab/AgenticTrading
 
-[![Stars](https://img.shields.io/github/stars/Open-Finance-Lab/AgenticTrading?style=flat-square&color=yellow)](https://github.com/Open-Finance-Lab/AgenticTrading/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Finance-Lab/AgenticTrading?style=flat-square&color=blue)](https://github.com/Open-Finance-Lab/AgenticTrading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-Finance-Lab/AgenticTrading?style=flat-square&color=yellow)](https://github.com/Open-Finance-Lab/AgenticTrading/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Finance-Lab/AgenticTrading?style=flat-square&color=blue)](https://github.com/Open-Finance-Lab/AgenticTrading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Open-Finance-Lab/AgenticTrading 是一个开源项目，旨在帮助研究和自
 | forks | 49/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

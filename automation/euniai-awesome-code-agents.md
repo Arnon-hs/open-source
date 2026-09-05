@@ -1,6 +1,6 @@
 # EuniAI/awesome-code-agents
 
-[![Stars](https://img.shields.io/github/stars/EuniAI/awesome-code-agents?style=flat-square&color=yellow)](https://github.com/EuniAI/awesome-code-agents/stargazers) [![Forks](https://img.shields.io/github/forks/EuniAI/awesome-code-agents?style=flat-square&color=blue)](https://github.com/EuniAI/awesome-code-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EuniAI/awesome-code-agents?style=flat-square&color=yellow)](https://github.com/EuniAI/awesome-code-agents/stargazers) [![Forks](https://img.shields.io/github/forks/EuniAI/awesome-code-agents?style=flat-square&color=blue)](https://github.com/EuniAI/awesome-code-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of products, benchmarks, and research papers on autonomous code agents. Beyond coding — they're redefining how software changes the world.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ EuniAI/awesome-code-agents 是一个精选合集，收录了自治代码代理�
 | forks | 25/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

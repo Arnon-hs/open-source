@@ -1,6 +1,6 @@
 # MengTo/Skills
 
-[![Stars](https://img.shields.io/github/stars/MengTo/Skills?style=flat-square&color=yellow)](https://github.com/MengTo/Skills/stargazers) [![Forks](https://img.shields.io/github/forks/MengTo/Skills?style=flat-square&color=blue)](https://github.com/MengTo/Skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MengTo/Skills?style=flat-square&color=yellow)](https://github.com/MengTo/Skills/stargazers) [![Forks](https://img.shields.io/github/forks/MengTo/Skills?style=flat-square&color=blue)](https://github.com/MengTo/Skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ MengTo/Skills 的生产可用性为中等（Medium）。它适合用于原型开
 | forks | 61/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

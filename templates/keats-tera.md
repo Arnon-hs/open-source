@@ -1,6 +1,6 @@
 # Keats/tera
 
-[![Stars](https://img.shields.io/github/stars/Keats/tera?style=flat-square&color=yellow)](https://github.com/Keats/tera/stargazers) [![Forks](https://img.shields.io/github/forks/Keats/tera?style=flat-square&color=blue)](https://github.com/Keats/tera/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Keats/tera?style=flat-square&color=yellow)](https://github.com/Keats/tera/stargazers) [![Forks](https://img.shields.io/github/forks/Keats/tera?style=flat-square&color=blue)](https://github.com/Keats/tera/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A template engine for Rust based on Jinja2/Django
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates
+Templates · Backend
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ Keats/tera 是一款基于 Jinja2/Django 语法的 Rust 模板引擎，提供高
 | forks | 63/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

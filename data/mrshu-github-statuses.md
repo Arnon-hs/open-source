@@ -1,6 +1,6 @@
 # mrshu/github-statuses
 
-[![Stars](https://img.shields.io/github/stars/mrshu/github-statuses?style=flat-square&color=yellow)](https://github.com/mrshu/github-statuses/stargazers) [![Forks](https://img.shields.io/github/forks/mrshu/github-statuses?style=flat-square&color=blue)](https://github.com/mrshu/github-statuses/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrshu/github-statuses?style=flat-square&color=yellow)](https://github.com/mrshu/github-statuses/stargazers) [![Forks](https://img.shields.io/github/forks/mrshu/github-statuses?style=flat-square&color=blue)](https://github.com/mrshu/github-statuses/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 491 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ mrshu/github-statuses 的生产可用性为中等（Medium），适用于以下�
 | forks | 34/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # nicholas-fedor/watchtower
 
-[![Stars](https://img.shields.io/github/stars/nicholas-fedor/watchtower?style=flat-square&color=yellow)](https://github.com/nicholas-fedor/watchtower/stargazers) [![Forks](https://img.shields.io/github/forks/nicholas-fedor/watchtower?style=flat-square&color=blue)](https://github.com/nicholas-fedor/watchtower/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicholas-fedor/watchtower?style=flat-square&color=yellow)](https://github.com/nicholas-fedor/watchtower/stargazers) [![Forks](https://img.shields.io/github/forks/nicholas-fedor/watchtower?style=flat-square&color=blue)](https://github.com/nicholas-fedor/watchtower/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Automate Docker container image updates
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ nicholas-fedor/watchtower 是一个开源项目，用于自动化 Docker 容器�
 | forks | 46/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

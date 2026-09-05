@@ -1,6 +1,6 @@
 # Kitware/trame
 
-[![Stars](https://img.shields.io/github/stars/Kitware/trame?style=flat-square&color=yellow)](https://github.com/Kitware/trame/stargazers) [![Forks](https://img.shields.io/github/forks/Kitware/trame?style=flat-square&color=blue)](https://github.com/Kitware/trame/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kitware/trame?style=flat-square&color=yellow)](https://github.com/Kitware/trame/stargazers) [![Forks](https://img.shields.io/github/forks/Kitware/trame?style=flat-square&color=blue)](https://github.com/Kitware/trame/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Trame lets you weave various components and technologies into a Web Application solely written in Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 671 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Trame（Kitware/trame）是一个纯 Python 编写的框架，能够把 VTK、Re
 | forks | 48/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

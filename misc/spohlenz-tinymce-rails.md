@@ -1,6 +1,6 @@
 # spohlenz/tinymce-rails
 
-[![Stars](https://img.shields.io/github/stars/spohlenz/tinymce-rails?style=flat-square&color=yellow)](https://github.com/spohlenz/tinymce-rails/stargazers) [![Forks](https://img.shields.io/github/forks/spohlenz/tinymce-rails?style=flat-square&color=blue)](https://github.com/spohlenz/tinymce-rails/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spohlenz/tinymce-rails?style=flat-square&color=yellow)](https://github.com/spohlenz/tinymce-rails/stargazers) [![Forks](https://img.shields.io/github/forks/spohlenz/tinymce-rails?style=flat-square&color=blue)](https://github.com/spohlenz/tinymce-rails/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Integration of TinyMCE with the Rails asset pipeline
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 824 |
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ spohlenz/tinymce-rails 是一个开源项目，旨在将 TinyMCE 与 Rails 资�
 | forks | 61/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

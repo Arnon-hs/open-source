@@ -1,6 +1,6 @@
 # AIsouler/MyClash
 
-[![Stars](https://img.shields.io/github/stars/AIsouler/MyClash?style=flat-square&color=yellow)](https://github.com/AIsouler/MyClash/stargazers) [![Forks](https://img.shields.io/github/forks/AIsouler/MyClash?style=flat-square&color=blue)](https://github.com/AIsouler/MyClash/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AIsouler/MyClash?style=flat-square&color=yellow)](https://github.com/AIsouler/MyClash/stargazers) [![Forks](https://img.shields.io/github/forks/AIsouler/MyClash?style=flat-square&color=blue)](https://github.com/AIsouler/MyClash/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Mihomo（Clash Meta）配置文件和覆写脚本，分别提供全量版和精简版，无DNS泄露，内置多项分流策略、地区策略，实现全局排除节点、自动识别节点倍率功能，解决机场使用私有DNS导致无法解析节点域名的问题，支持多项自定义配置
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 449 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ AIsouler/MyClash 的生产可用性为中等。它适合用于原型开发或内
 | forks | 37/100 |
 | stars | 56/100 |
 | topics | 38/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 57/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

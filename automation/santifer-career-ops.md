@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9.2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Documents · DevTools
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

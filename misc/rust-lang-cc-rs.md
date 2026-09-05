@@ -1,6 +1,6 @@
 # rust-lang/cc-rs
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/cc-rs?style=flat-square&color=yellow)](https://github.com/rust-lang/cc-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/cc-rs?style=flat-square&color=blue)](https://github.com/rust-lang/cc-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/cc-rs?style=flat-square&color=yellow)](https://github.com/rust-lang/cc-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/cc-rs?style=flat-square&color=blue)](https://github.com/rust-lang/cc-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Rust library for build scripts to compile C/C++ code into a Rust library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 595 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,11 +127,11 @@ rust-lang/cc-rs - это открытый проект на языке Rust, к�
 | forks | 69/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

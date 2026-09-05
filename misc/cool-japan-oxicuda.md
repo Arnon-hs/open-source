@@ -1,6 +1,6 @@
 # cool-japan/oxicuda
 
-[![Stars](https://img.shields.io/github/stars/cool-japan/oxicuda?style=flat-square&color=yellow)](https://github.com/cool-japan/oxicuda/stargazers) [![Forks](https://img.shields.io/github/forks/cool-japan/oxicuda?style=flat-square&color=blue)](https://github.com/cool-japan/oxicuda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cool-japan/oxicuda?style=flat-square&color=yellow)](https://github.com/cool-japan/oxicuda/stargazers) [![Forks](https://img.shields.io/github/forks/cool-japan/oxicuda?style=flat-square&color=blue)](https://github.com/cool-japan/oxicuda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OxiCUDA replaces the entire NVIDIA CUDA Toolkit software stack with type-safe, memory-safe Rust code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ OxiCUDA 为希望在 GPU 编程中引入 Rust 安全特性的团队提供了可�
 | forks | 25/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ada-url/ada
 
-[![Stars](https://img.shields.io/github/stars/ada-url/ada?style=flat-square&color=yellow)](https://github.com/ada-url/ada/stargazers) [![Forks](https://img.shields.io/github/forks/ada-url/ada?style=flat-square&color=blue)](https://github.com/ada-url/ada/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ada-url/ada?style=flat-square&color=yellow)](https://github.com/ada-url/ada/stargazers) [![Forks](https://img.shields.io/github/forks/ada-url/ada?style=flat-square&color=blue)](https://github.com/ada-url/ada/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > WHATWG-compliant and fast URL parser written in modern C++, part of Internet Archive, Node.js, Clickhouse, Redpanda, Kong, Telegram, Adguard, Datadog and Cloudflare Workers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ ada-url/ada 的生产可用性很高，理由如下：
 | forks | 53/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

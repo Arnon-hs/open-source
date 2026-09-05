@@ -1,6 +1,6 @@
 # saltnpepper97/halley
 
-[![Stars](https://img.shields.io/github/stars/saltnpepper97/halley?style=flat-square&color=yellow)](https://github.com/saltnpepper97/halley/stargazers) [![Forks](https://img.shields.io/github/forks/saltnpepper97/halley?style=flat-square&color=blue)](https://github.com/saltnpepper97/halley/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saltnpepper97/halley?style=flat-square&color=yellow)](https://github.com/saltnpepper97/halley/stargazers) [![Forks](https://img.shields.io/github/forks/saltnpepper97/halley?style=flat-square&color=blue)](https://github.com/saltnpepper97/halley/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Spatial Wayland compositor built around infinite workspace navigation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ Halley 是一个基于 Rust 的 Spatial Wayland compositor，围绕“无限工�
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 41/100 |
-| recency | 40/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 46/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

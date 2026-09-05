@@ -1,6 +1,6 @@
 # akiselev/ghidra-cli
 
-[![Stars](https://img.shields.io/github/stars/akiselev/ghidra-cli?style=flat-square&color=yellow)](https://github.com/akiselev/ghidra-cli/stargazers) [![Forks](https://img.shields.io/github/forks/akiselev/ghidra-cli?style=flat-square&color=blue)](https://github.com/akiselev/ghidra-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akiselev/ghidra-cli?style=flat-square&color=yellow)](https://github.com/akiselev/ghidra-cli/stargazers) [![Forks](https://img.shields.io/github/forks/akiselev/ghidra-cli?style=flat-square&color=blue)](https://github.com/akiselev/ghidra-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Automate Ghidra reverse engineering from the command line — headless analysis, decompilation, and structured JSON output for AI agents like Claude Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ akiselev/ghidra-cli 的生产可用性为中等（Medium），适合用于原型
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

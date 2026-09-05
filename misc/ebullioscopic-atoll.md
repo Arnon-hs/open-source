@@ -1,6 +1,6 @@
 # Ebullioscopic/Atoll
 
-[![Stars](https://img.shields.io/github/stars/Ebullioscopic/Atoll?style=flat-square&color=yellow)](https://github.com/Ebullioscopic/Atoll/stargazers) [![Forks](https://img.shields.io/github/forks/Ebullioscopic/Atoll?style=flat-square&color=blue)](https://github.com/Ebullioscopic/Atoll/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ebullioscopic/Atoll?style=flat-square&color=yellow)](https://github.com/Ebullioscopic/Atoll/stargazers) [![Forks](https://img.shields.io/github/forks/Ebullioscopic/Atoll?style=flat-square&color=blue)](https://github.com/Ebullioscopic/Atoll/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Dynamic Island for macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ Ebullioscopic/Atoll 的生产可用性为中等（Medium），这意味着它可
 | forks | 57/100 |
 | stars | 74/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

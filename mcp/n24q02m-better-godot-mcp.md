@@ -1,6 +1,6 @@
 # n24q02m/better-godot-mcp
 
-[![Stars](https://img.shields.io/github/stars/n24q02m/better-godot-mcp?style=flat-square&color=yellow)](https://github.com/n24q02m/better-godot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/n24q02m/better-godot-mcp?style=flat-square&color=blue)](https://github.com/n24q02m/better-godot-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n24q02m/better-godot-mcp?style=flat-square&color=yellow)](https://github.com/n24q02m/better-godot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/n24q02m/better-godot-mcp?style=flat-square&color=blue)](https://github.com/n24q02m/better-godot-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Composite MCP server for Godot Engine -- 17 composite tools for AI-assisted game development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevOps/Infra
+MCP · AI/ML · Games & Graphics · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ Overall, *better‑godot‑mcp* is production‑ready enough for a controlled pi
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

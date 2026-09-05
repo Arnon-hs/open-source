@@ -1,6 +1,6 @@
 # Karanjot786/agent-skills-cli
 
-[![Stars](https://img.shields.io/github/stars/Karanjot786/agent-skills-cli?style=flat-square&color=yellow)](https://github.com/Karanjot786/agent-skills-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Karanjot786/agent-skills-cli?style=flat-square&color=blue)](https://github.com/Karanjot786/agent-skills-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Karanjot786/agent-skills-cli?style=flat-square&color=yellow)](https://github.com/Karanjot786/agent-skills-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Karanjot786/agent-skills-cli?style=flat-square&color=blue)](https://github.com/Karanjot786/agent-skills-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Karanjot786/agent‑skills‑cli 是一个基于 TypeScript 的通用命令行�
 | forks | 27/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

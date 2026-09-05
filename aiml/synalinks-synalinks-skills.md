@@ -1,6 +1,6 @@
 # SynaLinks/synalinks-skills
 
-[![Stars](https://img.shields.io/github/stars/SynaLinks/synalinks-skills?style=flat-square&color=yellow)](https://github.com/SynaLinks/synalinks-skills/stargazers) [![Forks](https://img.shields.io/github/forks/SynaLinks/synalinks-skills?style=flat-square&color=blue)](https://github.com/SynaLinks/synalinks-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SynaLinks/synalinks-skills?style=flat-square&color=yellow)](https://github.com/SynaLinks/synalinks-skills/stargazers) [![Forks](https://img.shields.io/github/forks/SynaLinks/synalinks-skills?style=flat-square&color=blue)](https://github.com/SynaLinks/synalinks-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Claude skills for Synalinks OSS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 906 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ SynaLinks/synalinks-skills 的生产可用性为中等。它适合用于 prototy
 | forks | 48/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

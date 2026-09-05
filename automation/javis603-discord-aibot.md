@@ -1,6 +1,6 @@
 # Javis603/Discord-AIBot
 
-[![Stars](https://img.shields.io/github/stars/Javis603/Discord-AIBot?style=flat-square&color=yellow)](https://github.com/Javis603/Discord-AIBot/stargazers) [![Forks](https://img.shields.io/github/forks/Javis603/Discord-AIBot?style=flat-square&color=blue)](https://github.com/Javis603/Discord-AIBot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Javis603/Discord-AIBot?style=flat-square&color=yellow)](https://github.com/Javis603/Discord-AIBot/stargazers) [![Forks](https://img.shields.io/github/forks/Javis603/Discord-AIBot?style=flat-square&color=blue)](https://github.com/Javis603/Discord-AIBot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Discord AI assistant with OpenAI, Gemini, Claude & DeepSeek integration, multilingual support, multimodal chat, image generation, web search, and deep thinking | 一个强大的 Discord AI 助手，整合多种顶级 AI 模型，支持多语言、多模态交流、图片生成、联网搜索和深度思考
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -126,15 +126,15 @@ Javis603/Discord‑AIBot 是一款基于 Discord 的 AI 助手，内置 OpenAI�
 | forks | 8/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

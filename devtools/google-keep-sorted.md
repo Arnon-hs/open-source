@@ -1,6 +1,6 @@
 # google/keep-sorted
 
-[![Stars](https://img.shields.io/github/stars/google/keep-sorted?style=flat-square&color=yellow)](https://github.com/google/keep-sorted/stargazers) [![Forks](https://img.shields.io/github/forks/google/keep-sorted?style=flat-square&color=blue)](https://github.com/google/keep-sorted/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/keep-sorted?style=flat-square&color=yellow)](https://github.com/google/keep-sorted/stargazers) [![Forks](https://img.shields.io/github/forks/google/keep-sorted?style=flat-square&color=blue)](https://github.com/google/keep-sorted/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ keep‑sorted 是一款语言无关的代码/文本格式化工具，它会在�
 | forks | 38/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

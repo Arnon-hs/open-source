@@ -1,6 +1,6 @@
 # Adyen/adyen-mcp
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-mcp?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-mcp?style=flat-square&color=blue)](https://github.com/Adyen/adyen-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-mcp?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-mcp?style=flat-square&color=blue)](https://github.com/Adyen/adyen-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Typescript library for integrating Adyen APIs via an MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Adyen/adyen-mcp 的生产可用性很高，因为它有活跃的维护者、强�
 | forks | 30/100 |
 | stars | 30/100 |
 | topics | 75/100 |
-| outlook | 64/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

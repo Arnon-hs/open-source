@@ -1,6 +1,6 @@
 # swyxio/skills
 
-[![Stars](https://img.shields.io/github/stars/swyxio/skills?style=flat-square&color=yellow)](https://github.com/swyxio/skills/stargazers) [![Forks](https://img.shields.io/github/forks/swyxio/skills?style=flat-square&color=blue)](https://github.com/swyxio/skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swyxio/skills?style=flat-square&color=yellow)](https://github.com/swyxio/skills/stargazers) [![Forks](https://img.shields.io/github/forks/swyxio/skills?style=flat-square&color=blue)](https://github.com/swyxio/skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for Claude Code and other AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ swyxio/skills is considered production-ready with
 | forks | 24/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

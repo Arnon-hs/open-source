@@ -1,6 +1,6 @@
 # gcpaas/DataRoom
 
-[![Stars](https://img.shields.io/github/stars/gcpaas/DataRoom?style=flat-square&color=yellow)](https://github.com/gcpaas/DataRoom/stargazers) [![Forks](https://img.shields.io/github/forks/gcpaas/DataRoom?style=flat-square&color=blue)](https://github.com/gcpaas/DataRoom/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gcpaas/DataRoom?style=flat-square&color=yellow)](https://github.com/gcpaas/DataRoom/stargazers) [![Forks](https://img.shields.io/github/forks/gcpaas/DataRoom?style=flat-square&color=blue)](https://github.com/gcpaas/DataRoom/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥AI对话式生成大屏、页面，采用前后端一体化解决方案，几十种炫酷图表，支持20+数据来源接入，适用于大屏、低代码、BI场景，使用简单，代码完全开源。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 809 |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,11 +127,11 @@ gcpaas/DataRoom 是一套前后端一体化的 AI 对话式大屏/页面生成�
 | forks | 58/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

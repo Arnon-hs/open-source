@@ -1,6 +1,6 @@
 # osteele/claude-chat-viewer
 
-[![Stars](https://img.shields.io/github/stars/osteele/claude-chat-viewer?style=flat-square&color=yellow)](https://github.com/osteele/claude-chat-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/osteele/claude-chat-viewer?style=flat-square&color=blue)](https://github.com/osteele/claude-chat-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/osteele/claude-chat-viewer?style=flat-square&color=yellow)](https://github.com/osteele/claude-chat-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/osteele/claude-chat-viewer?style=flat-square&color=blue)](https://github.com/osteele/claude-chat-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > View Claude chat conversations in the browser, from exported JSON files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 100 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ osteele/claude-chat-viewer 的价值在于，它可以帮助开发者快速添�
 | forks | 25/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SWE-agent/mini-swe-agent
 
-[![Stars](https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=flat-square&color=yellow)](https://github.com/SWE-agent/mini-swe-agent/stargazers) [![Forks](https://img.shields.io/github/forks/SWE-agent/mini-swe-agent?style=flat-square&color=blue)](https://github.com/SWE-agent/mini-swe-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=flat-square&color=yellow)](https://github.com/SWE-agent/mini-swe-agent/stargazers) [![Forks](https://img.shields.io/github/forks/SWE-agent/mini-swe-agent?style=flat-square&color=blue)](https://github.com/SWE-agent/mini-swe-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 747 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ SWE-agent/mini-swe-agent 的生产可用性较高，因为它具有以下特点�
 | forks | 72/100 |
 | stars | 80/100 |
 | topics | 75/100 |
-| outlook | 66/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

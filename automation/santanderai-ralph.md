@@ -1,6 +1,6 @@
 # SantanderAI/ralph
 
-[![Stars](https://img.shields.io/github/stars/SantanderAI/ralph?style=flat-square&color=yellow)](https://github.com/SantanderAI/ralph/stargazers) [![Forks](https://img.shields.io/github/forks/SantanderAI/ralph?style=flat-square&color=blue)](https://github.com/SantanderAI/ralph/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SantanderAI/ralph?style=flat-square&color=yellow)](https://github.com/SantanderAI/ralph/stargazers) [![Forks](https://img.shields.io/github/forks/SantanderAI/ralph?style=flat-square&color=blue)](https://github.com/SantanderAI/ralph/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A configurable Bash/PowerShell loop that runs an AI coding CLI with a fresh session each iteration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ SantanderAI/ralph 是一个可配置的 Bash/PowerShell 循环脚本，能够在
 | forks | 31/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

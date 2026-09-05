@@ -1,6 +1,6 @@
 # khendzel/skills-janitor
 
-[![Stars](https://img.shields.io/github/stars/khendzel/skills-janitor?style=flat-square&color=yellow)](https://github.com/khendzel/skills-janitor/stargazers) [![Forks](https://img.shields.io/github/forks/khendzel/skills-janitor?style=flat-square&color=blue)](https://github.com/khendzel/skills-janitor/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khendzel/skills-janitor?style=flat-square&color=yellow)](https://github.com/khendzel/skills-janitor/stargazers) [![Forks](https://img.shields.io/github/forks/khendzel/skills-janitor?style=flat-square&color=blue)](https://github.com/khendzel/skills-janitor/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Audit, track usage, and manage your Claude Code and OpenAI Codex skills. 7 slash commands, zero dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
@@ -94,15 +94,15 @@ khendzel/skills-janitor 帮助将孤立的提示和工具转换为可重复的�
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 59/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

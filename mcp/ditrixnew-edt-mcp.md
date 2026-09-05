@@ -1,6 +1,6 @@
 # DitriXNew/EDT-MCP
 
-[![Stars](https://img.shields.io/github/stars/DitriXNew/EDT-MCP?style=flat-square&color=yellow)](https://github.com/DitriXNew/EDT-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/DitriXNew/EDT-MCP?style=flat-square&color=blue)](https://github.com/DitriXNew/EDT-MCP/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DitriXNew/EDT-MCP?style=flat-square&color=yellow)](https://github.com/DitriXNew/EDT-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/DitriXNew/EDT-MCP?style=flat-square&color=blue)](https://github.com/DitriXNew/EDT-MCP/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > MCP for 1C:EDT
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ DitriXNew/EDT-MCP 的生产可用性为中等（Medium），适合用于原型�
 | forks | 42/100 |
 | stars | 49/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

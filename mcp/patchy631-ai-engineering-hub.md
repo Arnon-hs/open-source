@@ -1,6 +1,6 @@
 # patchy631/ai-engineering-hub
 
-[![Stars](https://img.shields.io/github/stars/patchy631/ai-engineering-hub?style=flat-square&color=yellow)](https://github.com/patchy631/ai-engineering-hub/stargazers) [![Forks](https://img.shields.io/github/forks/patchy631/ai-engineering-hub?style=flat-square&color=blue)](https://github.com/patchy631/ai-engineering-hub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patchy631/ai-engineering-hub?style=flat-square&color=yellow)](https://github.com/patchy631/ai-engineering-hub/stargazers) [![Forks](https://img.shields.io/github/forks/patchy631/ai-engineering-hub?style=flat-square&color=blue)](https://github.com/patchy631/ai-engineering-hub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36.5k |
 | 🍴 **Forks** | 6.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ patchy631/ai-engineering-hub 帮助连接 AI 助手到真实工具和数据通�
 | forks | 95/100 |
 | stars | 97/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 80/100 |
-| recency | 40/100 |
+| outlook | 88/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 96/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # fabriziosalmi/lws
 
-[![Stars](https://img.shields.io/github/stars/fabriziosalmi/lws?style=flat-square&color=yellow)](https://github.com/fabriziosalmi/lws/stargazers) [![Forks](https://img.shields.io/github/forks/fabriziosalmi/lws?style=flat-square&color=blue)](https://github.com/fabriziosalmi/lws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fabriziosalmi/lws?style=flat-square&color=yellow)](https://github.com/fabriziosalmi/lws/stargazers) [![Forks](https://img.shields.io/github/forks/fabriziosalmi/lws?style=flat-square&color=blue)](https://github.com/fabriziosalmi/lws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Unified command line interface for Proxmox, LXC and Docker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ fabriziosalmi/lws 是一个统一的命令行工具，能够在同一界面下�
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

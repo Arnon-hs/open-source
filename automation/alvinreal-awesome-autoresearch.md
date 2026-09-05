@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ alvinreal/awesome-autoresearch：alvinreal/awesome-autoresearch helps remove rep
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

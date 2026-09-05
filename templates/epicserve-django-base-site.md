@@ -1,6 +1,6 @@
 # epicserve/django-base-site
 
-[![Stars](https://img.shields.io/github/stars/epicserve/django-base-site?style=flat-square&color=yellow)](https://github.com/epicserve/django-base-site/stargazers) [![Forks](https://img.shields.io/github/forks/epicserve/django-base-site?style=flat-square&color=blue)](https://github.com/epicserve/django-base-site/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epicserve/django-base-site?style=flat-square&color=yellow)](https://github.com/epicserve/django-base-site/stargazers) [![Forks](https://img.shields.io/github/forks/epicserve/django-base-site?style=flat-square&color=blue)](https://github.com/epicserve/django-base-site/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 450 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Education
+Templates · Backend · Education
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ epicserve/django-base-site 是一个基于Django的开源项目，遵循最佳�
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 66/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

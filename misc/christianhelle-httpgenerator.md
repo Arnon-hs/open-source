@@ -1,6 +1,6 @@
 # christianhelle/httpgenerator
 
-[![Stars](https://img.shields.io/github/stars/christianhelle/httpgenerator?style=flat-square&color=yellow)](https://github.com/christianhelle/httpgenerator/stargazers) [![Forks](https://img.shields.io/github/forks/christianhelle/httpgenerator?style=flat-square&color=blue)](https://github.com/christianhelle/httpgenerator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/christianhelle/httpgenerator?style=flat-square&color=yellow)](https://github.com/christianhelle/httpgenerator/stargazers) [![Forks](https://img.shields.io/github/forks/christianhelle/httpgenerator?style=flat-square&color=blue)](https://github.com/christianhelle/httpgenerator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Generate .http files from OpenAPI (Swagger) specifications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ In short, `httpgenerator` can speed up API development and testing with minimal 
 | forks | 27/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 48/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 48/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

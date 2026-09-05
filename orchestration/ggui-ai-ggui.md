@@ -1,6 +1,6 @@
 # ggui-ai/ggui
 
-[![Stars](https://img.shields.io/github/stars/ggui-ai/ggui?style=flat-square&color=yellow)](https://github.com/ggui-ai/ggui/stargazers) [![Forks](https://img.shields.io/github/forks/ggui-ai/ggui?style=flat-square&color=blue)](https://github.com/ggui-ai/ggui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ggui-ai/ggui?style=flat-square&color=yellow)](https://github.com/ggui-ai/ggui/stargazers) [![Forks](https://img.shields.io/github/forks/ggui-ai/ggui?style=flat-square&color=blue)](https://github.com/ggui-ai/ggui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Frontend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -90,15 +90,15 @@ ggui-ai/ggui 的生产可用性很高，最近有活跃的维护和采用，生�
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

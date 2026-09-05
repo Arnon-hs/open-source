@@ -1,6 +1,6 @@
 # Open-Document-Alliance/PDF-Tools
 
-[![Stars](https://img.shields.io/github/stars/Open-Document-Alliance/PDF-Tools?style=flat-square&color=yellow)](https://github.com/Open-Document-Alliance/PDF-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Document-Alliance/PDF-Tools?style=flat-square&color=blue)](https://github.com/Open-Document-Alliance/PDF-Tools/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-Document-Alliance/PDF-Tools?style=flat-square&color=yellow)](https://github.com/Open-Document-Alliance/PDF-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Document-Alliance/PDF-Tools?style=flat-square&color=blue)](https://github.com/Open-Document-Alliance/PDF-Tools/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > PDF Filler for Claude Desktop (using Claude Desktop Extensions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Open-Document-Alliance/PDF-Tools 的主要价值在于提供了快速添加 AI �
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,0 +1,83 @@
+# documenso/documenso
+
+[![Stars](https://img.shields.io/github/stars/documenso/documenso?style=flat-square&color=yellow)](https://github.com/documenso/documenso/stargazers) [![Forks](https://img.shields.io/github/forks/documenso/documenso?style=flat-square&color=blue)](https://github.com/documenso/documenso/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+
+> The Open Source DocuSign Alternative.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 12.8k |
+| 🍴 **Forks** | 2.6k |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`digital-signature` `document-signing` `docusign-alternative` `e-signature` `esign` `esignature` `next-auth` `nextjs` `open-source` `pades-standard` `pdf` `pdf-sign`
+
+## 🎯 Categories
+
+Documents · Database · Security
+
+## 📝 Summary
+
+### English
+
+Documenso is an open‑source platform that offers a self‑hosted alternative to DocuSign for creating, signing, and managing digital documents securely. Built with a focus on privacy and extensibility, it provides role‑based access controls, audit trails, and customizable workflows for teams that need trustworthy electronic signatures.
+
+### Русский
+
+**documenso/documenso** — это открытая платформа, предоставляющая функциональность электронного документооборота, полностью совместимую с DocuSign. Проект ориентирован на безопасность: все подписи и передаваемые данные защищаются современными криптографическими методами, а исходный код доступен для аудита и доработки сообществом. Он подходит для организаций, которым нужен надёжный и контролируемый инструмент для создания, подписи и управления юридически значимыми документами.
+
+### 中文
+
+documenso/documenso：documenso/documenso helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** documenso/documenso helps teams persist, query, and move data with less custom plumbing.
+
+**Best use cases**
+
+- manage persistence
+- speed up data access
+- prototype database-backed apps
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 12809 GitHub stars
+- 2580 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 18 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 85/100 |
+| stars | 87/100 |
+| topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/documenso/documenso) · [← Back to Documents](./README.md)</sub>

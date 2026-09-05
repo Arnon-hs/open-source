@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Mobile · DevOps/Infra
+Backend · Libraries & SDKs · Mobile · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ tryzealot/zealot：tryzealot/zealot helps teams reuse service infrastructure ins
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

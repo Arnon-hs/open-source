@@ -1,6 +1,6 @@
 # cacity/VideoHub
 
-[![Stars](https://img.shields.io/github/stars/cacity/VideoHub?style=flat-square&color=yellow)](https://github.com/cacity/VideoHub/stargazers) [![Forks](https://img.shields.io/github/forks/cacity/VideoHub?style=flat-square&color=blue)](https://github.com/cacity/VideoHub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cacity/VideoHub?style=flat-square&color=yellow)](https://github.com/cacity/VideoHub/stargazers) [![Forks](https://img.shields.io/github/forks/cacity/VideoHub?style=flat-square&color=blue)](https://github.com/cacity/VideoHub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > VideoHub 是一款本地化多平台视频处理与智能剪辑工具，支持 YouTube、抖音/TikTok、Instagram、Bilibili 和 Twitter/X，提供视频下载、Whisper 转写、字幕翻译与润色、多模型 AI 配音、影视解说、故事剪辑、音乐卡点及剧集批量处理，并可通过 Codex、Claude Code 等智能助手以自然语言完成完整工作流。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ cacity/VideoHub：cacity/VideoHub helps turn media editing, captions, rendering,
 | forks | 32/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dhicoc/wuyun-liuqi-skills
 
-[![Stars](https://img.shields.io/github/stars/dhicoc/wuyun-liuqi-skills?style=flat-square&color=yellow)](https://github.com/dhicoc/wuyun-liuqi-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dhicoc/wuyun-liuqi-skills?style=flat-square&color=blue)](https://github.com/dhicoc/wuyun-liuqi-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dhicoc/wuyun-liuqi-skills?style=flat-square&color=yellow)](https://github.com/dhicoc/wuyun-liuqi-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dhicoc/wuyun-liuqi-skills?style=flat-square&color=blue)](https://github.com/dhicoc/wuyun-liuqi-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 五运六气 AI Agent 技能包 — 中医运气学说推算引擎。干支推算 + 六气步移 + RAG五层知识库(104键) + ReAct推理工作流 + 自进化引擎。支持 Claude Code/Codex CLI/Cursor/Cline/OpenClaw 等 AI 客户端。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ dhicoc/wuyun-liuqi-skills 的生产可用性为中等。它适合用于原
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

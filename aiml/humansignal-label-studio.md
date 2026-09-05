@@ -1,6 +1,6 @@
 # HumanSignal/label-studio
 
-[![Stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=flat-square&color=yellow)](https://github.com/HumanSignal/label-studio/stargazers) [![Forks](https://img.shields.io/github/forks/HumanSignal/label-studio?style=flat-square&color=blue)](https://github.com/HumanSignal/label-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=flat-square&color=yellow)](https://github.com/HumanSignal/label-studio/stargazers) [![Forks](https://img.shields.io/github/forks/HumanSignal/label-studio?style=flat-square&color=blue)](https://github.com/HumanSignal/label-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Label Studio is a multi-type data labeling and annotation tool with standardized output format
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.8k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database · Education
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Label Studio 的生产可用性非常高，主要原因是：
 | forks | 89/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 83/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 83/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

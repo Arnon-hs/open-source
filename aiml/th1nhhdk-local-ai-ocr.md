@@ -1,6 +1,6 @@
 # th1nhhdk/local_ai_ocr
 
-[![Stars](https://img.shields.io/github/stars/th1nhhdk/local_ai_ocr?style=flat-square&color=yellow)](https://github.com/th1nhhdk/local_ai_ocr/stargazers) [![Forks](https://img.shields.io/github/forks/th1nhhdk/local_ai_ocr?style=flat-square&color=blue)](https://github.com/th1nhhdk/local_ai_ocr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/th1nhhdk/local_ai_ocr?style=flat-square&color=yellow)](https://github.com/th1nhhdk/local_ai_ocr/stargazers) [![Forks](https://img.shields.io/github/forks/th1nhhdk/local_ai_ocr?style=flat-square&color=blue)](https://github.com/th1nhhdk/local_ai_ocr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An local, offline (after initial setup), portable OCR software that can process images and PDF files, using DeepSeek-OCR AI (running directly on your machine).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Documents
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ th1nhhdk/local_ai_ocr 是一款本地离线、可移植的 OCR 软件，使用 D
 | forks | 57/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

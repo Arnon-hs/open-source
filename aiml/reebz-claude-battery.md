@@ -1,6 +1,6 @@
 # Reebz/claude-battery
 
-[![Stars](https://img.shields.io/github/stars/Reebz/claude-battery?style=flat-square&color=yellow)](https://github.com/Reebz/claude-battery/stargazers) [![Forks](https://img.shields.io/github/forks/Reebz/claude-battery?style=flat-square&color=blue)](https://github.com/Reebz/claude-battery/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Reebz/claude-battery?style=flat-square&color=yellow)](https://github.com/Reebz/claude-battery/stargazers) [![Forks](https://img.shields.io/github/forks/Reebz/claude-battery?style=flat-square&color=blue)](https://github.com/Reebz/claude-battery/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Your Claude usage, at a glance. A macOS menu bar widget that shows how much of your weekly quota remains — as a battery.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Reebz/claude‑battery 是一款 macOS 菜单栏小组件，实时以电量图�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 38/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

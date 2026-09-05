@@ -1,6 +1,6 @@
 # FasterXML/jackson-databind
 
-[![Stars](https://img.shields.io/github/stars/FasterXML/jackson-databind?style=flat-square&color=yellow)](https://github.com/FasterXML/jackson-databind/stargazers) [![Forks](https://img.shields.io/github/forks/FasterXML/jackson-databind?style=flat-square&color=blue)](https://github.com/FasterXML/jackson-databind/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FasterXML/jackson-databind?style=flat-square&color=yellow)](https://github.com/FasterXML/jackson-databind/stargazers) [![Forks](https://img.shields.io/github/forks/FasterXML/jackson-databind?style=flat-square&color=blue)](https://github.com/FasterXML/jackson-databind/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > General data-binding package for Jackson: works on streaming API (core) implementation(s)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,11 +124,11 @@ FasterXML/jackson-databind 的价值在于，它可以帮助开发者快速构�
 | forks | 79/100 |
 | stars | 76/100 |
 | topics | 50/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # michaelmjhhhh/pi-atelier
 
-[![Stars](https://img.shields.io/github/stars/michaelmjhhhh/pi-atelier?style=flat-square&color=yellow)](https://github.com/michaelmjhhhh/pi-atelier/stargazers) [![Forks](https://img.shields.io/github/forks/michaelmjhhhh/pi-atelier?style=flat-square&color=blue)](https://github.com/michaelmjhhhh/pi-atelier/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/michaelmjhhhh/pi-atelier?style=flat-square&color=yellow)](https://github.com/michaelmjhhhh/pi-atelier/stargazers) [![Forks](https://img.shields.io/github/forks/michaelmjhhhh/pi-atelier?style=flat-square&color=blue)](https://github.com/michaelmjhhhh/pi-atelier/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > An elegant, information-rich status, menu, and side bar for Pi Agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ michaelmjhhhh/pi-atelier 的主要价值在于：
 | forks | 28/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

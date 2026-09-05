@@ -1,6 +1,6 @@
 # AdguardTeam/HostlistsRegistry
 
-[![Stars](https://img.shields.io/github/stars/AdguardTeam/HostlistsRegistry?style=flat-square&color=yellow)](https://github.com/AdguardTeam/HostlistsRegistry/stargazers) [![Forks](https://img.shields.io/github/forks/AdguardTeam/HostlistsRegistry?style=flat-square&color=blue)](https://github.com/AdguardTeam/HostlistsRegistry/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdguardTeam/HostlistsRegistry?style=flat-square&color=yellow)](https://github.com/AdguardTeam/HostlistsRegistry/stargazers) [![Forks](https://img.shields.io/github/forks/AdguardTeam/HostlistsRegistry?style=flat-square&color=blue)](https://github.com/AdguardTeam/HostlistsRegistry/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Known hosts blocklists that are made available to the users of AdGuard products
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ AdguardTeam/HostlistsRegistry 的生产可用性为中等。它适合用于内�
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

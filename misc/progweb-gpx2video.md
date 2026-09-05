@@ -1,6 +1,6 @@
 # progweb/gpx2video
 
-[![Stars](https://img.shields.io/github/stars/progweb/gpx2video?style=flat-square&color=yellow)](https://github.com/progweb/gpx2video/stargazers) [![Forks](https://img.shields.io/github/forks/progweb/gpx2video?style=flat-square&color=blue)](https://github.com/progweb/gpx2video/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/progweb/gpx2video?style=flat-square&color=yellow)](https://github.com/progweb/gpx2video/stargazers) [![Forks](https://img.shields.io/github/forks/progweb/gpx2video?style=flat-square&color=blue)](https://github.com/progweb/gpx2video/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Creating video with telemetry overlay from GPX data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Overall, the project is ready for a serious pilot, with a clear, low‑risk inte
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Upsonic/Upsonic
 
-[![Stars](https://img.shields.io/github/stars/Upsonic/Upsonic?style=flat-square&color=yellow)](https://github.com/Upsonic/Upsonic/stargazers) [![Forks](https://img.shields.io/github/forks/Upsonic/Upsonic?style=flat-square&color=blue)](https://github.com/Upsonic/Upsonic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Upsonic/Upsonic?style=flat-square&color=yellow)](https://github.com/Upsonic/Upsonic/stargazers) [![Forks](https://img.shields.io/github/forks/Upsonic/Upsonic?style=flat-square&color=blue)](https://github.com/Upsonic/Upsonic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Build autonomous AI agents in Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 733 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Upsonic 是一个基于 Python 的开源框架，帮助开发者把零散的 Pro
 | forks | 72/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 71/100 |
-| recency | 20/100 |
+| outlook | 88/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

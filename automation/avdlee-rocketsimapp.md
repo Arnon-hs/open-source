@@ -1,6 +1,6 @@
 # AvdLee/RocketSimApp
 
-[![Stars](https://img.shields.io/github/stars/AvdLee/RocketSimApp?style=flat-square&color=yellow)](https://github.com/AvdLee/RocketSimApp/stargazers) [![Forks](https://img.shields.io/github/forks/AvdLee/RocketSimApp?style=flat-square&color=blue)](https://github.com/AvdLee/RocketSimApp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AvdLee/RocketSimApp?style=flat-square&color=yellow)](https://github.com/AvdLee/RocketSimApp/stargazers) [![Forks](https://img.shields.io/github/forks/AvdLee/RocketSimApp?style=flat-square&color=blue)](https://github.com/AvdLee/RocketSimApp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 756 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ RocketSim（AvdLee/RocketSimApp）是一套面向 Xcode iOS Simulator 的 30 多
 | forks | 39/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

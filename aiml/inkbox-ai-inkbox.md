@@ -1,6 +1,6 @@
 # inkbox-ai/inkbox
 
-[![Stars](https://img.shields.io/github/stars/inkbox-ai/inkbox?style=flat-square&color=yellow)](https://github.com/inkbox-ai/inkbox/stargazers) [![Forks](https://img.shields.io/github/forks/inkbox-ai/inkbox?style=flat-square&color=blue)](https://github.com/inkbox-ai/inkbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inkbox-ai/inkbox?style=flat-square&color=yellow)](https://github.com/inkbox-ai/inkbox/stargazers) [![Forks](https://img.shields.io/github/forks/inkbox-ai/inkbox?style=flat-square&color=blue)](https://github.com/inkbox-ai/inkbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > SDK, skills, and examples for Inkbox: give AI agents a persistent identity with email, phone number, and internet address
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Communication · Backend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ Inkbox 的生产可用性很高，主要原因是：
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

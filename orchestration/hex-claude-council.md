@@ -1,6 +1,6 @@
 # hex/claude-council
 
-[![Stars](https://img.shields.io/github/stars/hex/claude-council?style=flat-square&color=yellow)](https://github.com/hex/claude-council/stargazers) [![Forks](https://img.shields.io/github/forks/hex/claude-council?style=flat-square&color=blue)](https://github.com/hex/claude-council/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hex/claude-council?style=flat-square&color=yellow)](https://github.com/hex/claude-council/stargazers) [![Forks](https://img.shields.io/github/forks/hex/claude-council?style=flat-square&color=blue)](https://github.com/hex/claude-council/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 407 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ hex/claude‑council 是一款 Claude Code 插件，能够在一次调用中调�
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

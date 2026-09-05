@@ -1,6 +1,6 @@
 # Fyrd/caniuse
 
-[![Stars](https://img.shields.io/github/stars/Fyrd/caniuse?style=flat-square&color=yellow)](https://github.com/Fyrd/caniuse/stargazers) [![Forks](https://img.shields.io/github/forks/Fyrd/caniuse?style=flat-square&color=blue)](https://github.com/Fyrd/caniuse/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fyrd/caniuse?style=flat-square&color=yellow)](https://github.com/Fyrd/caniuse/stargazers) [![Forks](https://img.shields.io/github/forks/Fyrd/caniuse?style=flat-square&color=blue)](https://github.com/Fyrd/caniuse/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Raw browser/feature support data from caniuse.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JSON |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Fyrd/caniuse 的生产可用性为中等。它适合用于原型或内部工作�
 | forks | 79/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

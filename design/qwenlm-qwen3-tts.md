@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-TTS
 
-[![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-TTS?style=flat-square&color=yellow)](https://github.com/QwenLM/Qwen3-TTS/stargazers) [![Forks](https://img.shields.io/github/forks/QwenLM/Qwen3-TTS?style=flat-square&color=blue)](https://github.com/QwenLM/Qwen3-TTS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-TTS?style=flat-square&color=yellow)](https://github.com/QwenLM/Qwen3-TTS/stargazers) [![Forks](https://img.shields.io/github/forks/QwenLM/Qwen3-TTS?style=flat-square&color=blue)](https://github.com/QwenLM/Qwen3-TTS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.2k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ QwenLM/Qwen3-TTS：QwenLM/Qwen3-TTS may be useful when its README and activity m
 | forks | 81/100 |
 | stars | 88/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

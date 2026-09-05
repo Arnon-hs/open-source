@@ -1,6 +1,6 @@
 # Agents365-ai/asta-skill
 
-[![Stars](https://img.shields.io/github/stars/Agents365-ai/asta-skill?style=flat-square&color=yellow)](https://github.com/Agents365-ai/asta-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/asta-skill?style=flat-square&color=blue)](https://github.com/Agents365-ai/asta-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agents365-ai/asta-skill?style=flat-square&color=yellow)](https://github.com/Agents365-ai/asta-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/asta-skill?style=flat-square&color=blue)](https://github.com/Agents365-ai/asta-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Asta MCP skill — give Claude Code/Codex/Cursor/Windsurf/OpenClaw access to Semantic Scholar via Ai2 Asta MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -116,15 +116,15 @@ Agents365‑ai/asta‑skill 为 Claude、Code、Codex、Cursor、Windsurf、Open
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 50/100 |
-| outlook | 45/100 |
-| quality | 43/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

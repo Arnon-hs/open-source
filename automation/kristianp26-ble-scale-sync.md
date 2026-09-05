@@ -1,6 +1,6 @@
 # KristianP26/ble-scale-sync
 
-[![Stars](https://img.shields.io/github/stars/KristianP26/ble-scale-sync?style=flat-square&color=yellow)](https://github.com/KristianP26/ble-scale-sync/stargazers) [![Forks](https://img.shields.io/github/forks/KristianP26/ble-scale-sync?style=flat-square&color=blue)](https://github.com/KristianP26/ble-scale-sync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KristianP26/ble-scale-sync?style=flat-square&color=yellow)](https://github.com/KristianP26/ble-scale-sync/stargazers) [![Forks](https://img.shields.io/github/forks/KristianP26/ble-scale-sync?style=flat-square&color=blue)](https://github.com/KristianP26/ble-scale-sync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Universal BLE Smart Scale bridge. Captures body composition from Renpho, Xiaomi & 20+ others, syncs to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, Webhooks, Ntfy & local files (CSV/JSONL). Headless CLI for Raspberry Pi, Linux, macOS & Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Data
+Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ KristianP26/ble-scale-sync：KristianP26/ble-scale-sync helps remove repetitive 
 | forks | 38/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

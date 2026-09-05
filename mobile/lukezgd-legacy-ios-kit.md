@@ -1,6 +1,6 @@
 # LukeZGD/Legacy-iOS-Kit
 
-[![Stars](https://img.shields.io/github/stars/LukeZGD/Legacy-iOS-Kit?style=flat-square&color=yellow)](https://github.com/LukeZGD/Legacy-iOS-Kit/stargazers) [![Forks](https://img.shields.io/github/forks/LukeZGD/Legacy-iOS-Kit?style=flat-square&color=blue)](https://github.com/LukeZGD/Legacy-iOS-Kit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LukeZGD/Legacy-iOS-Kit?style=flat-square&color=yellow)](https://github.com/LukeZGD/Legacy-iOS-Kit/stargazers) [![Forks](https://img.shields.io/github/forks/LukeZGD/Legacy-iOS-Kit?style=flat-square&color=blue)](https://github.com/LukeZGD/Legacy-iOS-Kit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ LukeZGD/Legacy‑iOS‑Kit 是一款集成了 iOS 设备降级、SHSH 备份、�
 | forks | 60/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

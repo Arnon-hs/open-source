@@ -1,6 +1,6 @@
 # rudrankriyam/Foundation-Models-Framework-Lab
 
-[![Stars](https://img.shields.io/github/stars/rudrankriyam/Foundation-Models-Framework-Lab?style=flat-square&color=yellow)](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab/stargazers) [![Forks](https://img.shields.io/github/forks/rudrankriyam/Foundation-Models-Framework-Lab?style=flat-square&color=blue)](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rudrankriyam/Foundation-Models-Framework-Lab?style=flat-square&color=yellow)](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab/stargazers) [![Forks](https://img.shields.io/github/forks/rudrankriyam/Foundation-Models-Framework-Lab?style=flat-square&color=blue)](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ rudrankriyam/Foundation-Models-Framework-Lab：rudrankriyam/Foundation-Models-Fr
 | forks | 46/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

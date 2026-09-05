@@ -1,6 +1,6 @@
 # sportradar/elixir-workspace
 
-[![Stars](https://img.shields.io/github/stars/sportradar/elixir-workspace?style=flat-square&color=yellow)](https://github.com/sportradar/elixir-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/sportradar/elixir-workspace?style=flat-square&color=blue)](https://github.com/sportradar/elixir-workspace/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sportradar/elixir-workspace?style=flat-square&color=yellow)](https://github.com/sportradar/elixir-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/sportradar/elixir-workspace?style=flat-square&color=blue)](https://github.com/sportradar/elixir-workspace/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Set of tools for working with elixir monorepos
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ sportradar/elixir-workspace 是一套用于管理 Elixir 多模块项目的工�
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 57/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

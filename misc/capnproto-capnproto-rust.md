@@ -1,6 +1,6 @@
 # capnproto/capnproto-rust
 
-[![Stars](https://img.shields.io/github/stars/capnproto/capnproto-rust?style=flat-square&color=yellow)](https://github.com/capnproto/capnproto-rust/stargazers) [![Forks](https://img.shields.io/github/forks/capnproto/capnproto-rust?style=flat-square&color=blue)](https://github.com/capnproto/capnproto-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/capnproto/capnproto-rust?style=flat-square&color=yellow)](https://github.com/capnproto/capnproto-rust/stargazers) [![Forks](https://img.shields.io/github/forks/capnproto/capnproto-rust?style=flat-square&color=blue)](https://github.com/capnproto/capnproto-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cap'n Proto for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ capnproto/capnproto-rust 在生产环境中具有
 | forks | 60/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

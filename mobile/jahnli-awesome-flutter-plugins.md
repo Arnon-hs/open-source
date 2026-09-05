@@ -1,6 +1,6 @@
 # jahnli/awesome-flutter-plugins
 
-[![Stars](https://img.shields.io/github/stars/jahnli/awesome-flutter-plugins?style=flat-square&color=yellow)](https://github.com/jahnli/awesome-flutter-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/jahnli/awesome-flutter-plugins?style=flat-square&color=blue)](https://github.com/jahnli/awesome-flutter-plugins/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jahnli/awesome-flutter-plugins?style=flat-square&color=yellow)](https://github.com/jahnli/awesome-flutter-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/jahnli/awesome-flutter-plugins?style=flat-square&color=blue)](https://github.com/jahnli/awesome-flutter-plugins/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥🔥 收集好用的Flutter插件以便更效率的开发
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ jahnli/awesome-flutter-plugins 是一个收集了好用的Flutter插件的开源
 | forks | 56/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

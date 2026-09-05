@@ -1,6 +1,6 @@
 # TecharoHQ/anubis
 
-[![Stars](https://img.shields.io/github/stars/TecharoHQ/anubis?style=flat-square&color=yellow)](https://github.com/TecharoHQ/anubis/stargazers) [![Forks](https://img.shields.io/github/forks/TecharoHQ/anubis?style=flat-square&color=blue)](https://github.com/TecharoHQ/anubis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TecharoHQ/anubis?style=flat-square&color=yellow)](https://github.com/TecharoHQ/anubis/stargazers) [![Forks](https://img.shields.io/github/forks/TecharoHQ/anubis?style=flat-square&color=blue)](https://github.com/TecharoHQ/anubis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Weighs the soul of incoming HTTP requests to stop AI crawlers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.6k |
 | 🍴 **Forks** | 655 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ TecharoHQ / anubis 是一款用 Go 编写的开源安全中间件，它通�
 | forks | 70/100 |
 | stars | 92/100 |
 | topics | 25/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

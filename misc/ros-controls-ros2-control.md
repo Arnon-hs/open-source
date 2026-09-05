@@ -1,6 +1,6 @@
 # ros-controls/ros2_control
 
-[![Stars](https://img.shields.io/github/stars/ros-controls/ros2_control?style=flat-square&color=yellow)](https://github.com/ros-controls/ros2_control/stargazers) [![Forks](https://img.shields.io/github/forks/ros-controls/ros2_control?style=flat-square&color=blue)](https://github.com/ros-controls/ros2_control/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ros-controls/ros2_control?style=flat-square&color=yellow)](https://github.com/ros-controls/ros2_control/stargazers) [![Forks](https://img.shields.io/github/forks/ros-controls/ros2_control?style=flat-square&color=blue)](https://github.com/ros-controls/ros2_control/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Generic and simple controls framework for ROS 2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 928 |
 | 🍴 **Forks** | 453 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ ros-controls/ros2_control的生产可用性很高，主要原因是：
 | forks | 66/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

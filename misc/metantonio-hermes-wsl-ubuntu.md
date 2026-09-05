@@ -1,6 +1,6 @@
 # metantonio/hermes-wsl-ubuntu
 
-[![Stars](https://img.shields.io/github/stars/metantonio/hermes-wsl-ubuntu?style=flat-square&color=yellow)](https://github.com/metantonio/hermes-wsl-ubuntu/stargazers) [![Forks](https://img.shields.io/github/forks/metantonio/hermes-wsl-ubuntu?style=flat-square&color=blue)](https://github.com/metantonio/hermes-wsl-ubuntu/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metantonio/hermes-wsl-ubuntu?style=flat-square&color=yellow)](https://github.com/metantonio/hermes-wsl-ubuntu/stargazers) [![Forks](https://img.shields.io/github/forks/metantonio/hermes-wsl-ubuntu?style=flat-square&color=blue)](https://github.com/metantonio/hermes-wsl-ubuntu/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Instructions to use Hermes AI agents on WSL2 - Ubuntu
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ metantonio/hermes-wsl-ubuntu provides step‑by‑step shell scripts for running
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 35/100 |
-| quality | 31/100 |
-| recency | 20/100 |
+| outlook | 56/100 |
+| quality | 46/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 37/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

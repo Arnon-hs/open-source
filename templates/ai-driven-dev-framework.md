@@ -1,6 +1,6 @@
 # ai-driven-dev/framework
 
-[![Stars](https://img.shields.io/github/stars/ai-driven-dev/framework?style=flat-square&color=yellow)](https://github.com/ai-driven-dev/framework/stargazers) [![Forks](https://img.shields.io/github/forks/ai-driven-dev/framework?style=flat-square&color=blue)](https://github.com/ai-driven-dev/framework/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-driven-dev/framework?style=flat-square&color=yellow)](https://github.com/ai-driven-dev/framework/stargazers) [![Forks](https://img.shields.io/github/forks/ai-driven-dev/framework?style=flat-square&color=blue)](https://github.com/ai-driven-dev/framework/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ ai‑driven‑dev/framework is an open‑source marketplace‑style framework th
 | forks | 17/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

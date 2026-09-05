@@ -1,6 +1,6 @@
 # WordPress/mcp-adapter
 
-[![Stars](https://img.shields.io/github/stars/WordPress/mcp-adapter?style=flat-square&color=yellow)](https://github.com/WordPress/mcp-adapter/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/mcp-adapter?style=flat-square&color=blue)](https://github.com/WordPress/mcp-adapter/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WordPress/mcp-adapter?style=flat-square&color=yellow)](https://github.com/WordPress/mcp-adapter/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/mcp-adapter?style=flat-square&color=blue)](https://github.com/WordPress/mcp-adapter/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ WordPress/mcp-adapter 已经有较高的生产可用性，主要原因是：
 | forks | 55/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

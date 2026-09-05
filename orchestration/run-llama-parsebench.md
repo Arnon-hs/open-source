@@ -1,6 +1,6 @@
 # run-llama/ParseBench
 
-[![Stars](https://img.shields.io/github/stars/run-llama/ParseBench?style=flat-square&color=yellow)](https://github.com/run-llama/ParseBench/stargazers) [![Forks](https://img.shields.io/github/forks/run-llama/ParseBench?style=flat-square&color=blue)](https://github.com/run-llama/ParseBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/run-llama/ParseBench?style=flat-square&color=yellow)](https://github.com/run-llama/ParseBench/stargazers) [![Forks](https://img.shields.io/github/forks/run-llama/ParseBench?style=flat-square&color=blue)](https://github.com/run-llama/ParseBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > ParseBench - A Document Parsing Benchmark for AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -92,15 +92,15 @@ ParseBench（run‑llama/ParseBench）是面向 AI 代理的文档解析基准�
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

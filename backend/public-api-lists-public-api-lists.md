@@ -1,6 +1,6 @@
 # public-api-lists/public-api-lists
 
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square&color=yellow)](https://github.com/public-api-lists/public-api-lists/stargazers) [![Forks](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square&color=blue)](https://github.com/public-api-lists/public-api-lists/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square&color=yellow)](https://github.com/public-api-lists/public-api-lists/stargazers) [![Forks](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square&color=blue)](https://github.com/public-api-lists/public-api-lists/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,11 +123,11 @@ getApis('AI/ML').then(console.log);
 | forks | 80/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

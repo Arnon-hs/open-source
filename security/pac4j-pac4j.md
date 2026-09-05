@@ -1,6 +1,6 @@
 # pac4j/pac4j
 
-[![Stars](https://img.shields.io/github/stars/pac4j/pac4j?style=flat-square&color=yellow)](https://github.com/pac4j/pac4j/stargazers) [![Forks](https://img.shields.io/github/forks/pac4j/pac4j?style=flat-square&color=blue)](https://github.com/pac4j/pac4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pac4j/pac4j?style=flat-square&color=yellow)](https://github.com/pac4j/pac4j/stargazers) [![Forks](https://img.shields.io/github/forks/pac4j/pac4j?style=flat-square&color=blue)](https://github.com/pac4j/pac4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 712 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ pac4j/pac4j 的生产可用性非常高，主要原因包括：
 | forks | 71/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 77/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

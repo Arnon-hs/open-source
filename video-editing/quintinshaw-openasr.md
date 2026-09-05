@@ -1,6 +1,6 @@
 # QuintinShaw/openasr
 
-[![Stars](https://img.shields.io/github/stars/QuintinShaw/openasr?style=flat-square&color=yellow)](https://github.com/QuintinShaw/openasr/stargazers) [![Forks](https://img.shields.io/github/forks/QuintinShaw/openasr?style=flat-square&color=blue)](https://github.com/QuintinShaw/openasr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QuintinShaw/openasr?style=flat-square&color=yellow)](https://github.com/QuintinShaw/openasr/stargazers) [![Forks](https://img.shields.io/github/forks/QuintinShaw/openasr?style=flat-square&color=blue)](https://github.com/QuintinShaw/openasr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ QuintinShaw/openasr 在生产环境中具有较高的可用性，主要原因是
 | forks | 21/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

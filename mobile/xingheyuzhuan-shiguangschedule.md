@@ -1,6 +1,6 @@
 # XingHeYuZhuan/shiguangschedule
 
-[![Stars](https://img.shields.io/github/stars/XingHeYuZhuan/shiguangschedule?style=flat-square&color=yellow)](https://github.com/XingHeYuZhuan/shiguangschedule/stargazers) [![Forks](https://img.shields.io/github/forks/XingHeYuZhuan/shiguangschedule?style=flat-square&color=blue)](https://github.com/XingHeYuZhuan/shiguangschedule/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XingHeYuZhuan/shiguangschedule?style=flat-square&color=yellow)](https://github.com/XingHeYuZhuan/shiguangschedule/stargazers) [![Forks](https://img.shields.io/github/forks/XingHeYuZhuan/shiguangschedule?style=flat-square&color=blue)](https://github.com/XingHeYuZhuan/shiguangschedule/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 一款开源、无广告、极简的课程表 APP，支持教务导入
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -141,11 +141,11 @@ XingHeYuZhuan/shiguangschedule 是一款开源、无广告、极简风格的课�
 | forks | 38/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

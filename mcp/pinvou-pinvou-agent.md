@@ -1,6 +1,6 @@
 # Pinvou/pinvou-agent
 
-[![Stars](https://img.shields.io/github/stars/Pinvou/pinvou-agent?style=flat-square&color=yellow)](https://github.com/Pinvou/pinvou-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Pinvou/pinvou-agent?style=flat-square&color=blue)](https://github.com/Pinvou/pinvou-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pinvou/pinvou-agent?style=flat-square&color=yellow)](https://github.com/Pinvou/pinvou-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Pinvou/pinvou-agent?style=flat-square&color=blue)](https://github.com/Pinvou/pinvou-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend
+MCP · Automation · AI/ML · Productivity · Frontend
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Pinvou/pinvou-agent 的生产可用性为中等（Medium）。它适合用于原
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

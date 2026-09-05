@@ -1,6 +1,6 @@
 # meta-pytorch/torchx
 
-[![Stars](https://img.shields.io/github/stars/meta-pytorch/torchx?style=flat-square&color=yellow)](https://github.com/meta-pytorch/torchx/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/torchx?style=flat-square&color=blue)](https://github.com/meta-pytorch/torchx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meta-pytorch/torchx?style=flat-square&color=yellow)](https://github.com/meta-pytorch/torchx/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/torchx?style=flat-square&color=blue)](https://github.com/meta-pytorch/torchx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 427 |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Design · Education · Product
+AI/ML · Cloud & Storage · Productivity · DevOps/Infra
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ meta-pytorch/torchx 已经有很强的生产可用性，包括：
 | forks | 55/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

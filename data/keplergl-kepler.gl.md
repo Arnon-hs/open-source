@@ -1,6 +1,6 @@
 # keplergl/kepler.gl
 
-[![Stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=flat-square&color=yellow)](https://github.com/keplergl/kepler.gl/stargazers) [![Forks](https://img.shields.io/github/forks/keplergl/kepler.gl?style=flat-square&color=blue)](https://github.com/keplergl/kepler.gl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=flat-square&color=yellow)](https://github.com/keplergl/kepler.gl/stargazers) [![Forks](https://img.shields.io/github/forks/keplergl/kepler.gl?style=flat-square&color=blue)](https://github.com/keplergl/kepler.gl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Kepler.gl 的生产可用性很高，因为它具有以下特点：
 | forks | 82/100 |
 | stars | 87/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

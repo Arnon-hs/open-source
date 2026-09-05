@@ -1,6 +1,6 @@
 # Coral-Protocol/coral-server
 
-[![Stars](https://img.shields.io/github/stars/Coral-Protocol/coral-server?style=flat-square&color=yellow)](https://github.com/Coral-Protocol/coral-server/stargazers) [![Forks](https://img.shields.io/github/forks/Coral-Protocol/coral-server?style=flat-square&color=blue)](https://github.com/Coral-Protocol/coral-server/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coral-Protocol/coral-server?style=flat-square&color=yellow)](https://github.com/Coral-Protocol/coral-server/stargazers) [![Forks](https://img.shields.io/github/forks/Coral-Protocol/coral-server?style=flat-square&color=blue)](https://github.com/Coral-Protocol/coral-server/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes for AI agents: CoralOS is a platform for everything between your agents and production: registry, runtimes, security, and orchestration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Coral-Protocol/coral-server 是面向 AI 代理的 “Kubernetes”，提供统�
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Linked-API/linkedin-skills
 
-[![Stars](https://img.shields.io/github/stars/Linked-API/linkedin-skills?style=flat-square&color=yellow)](https://github.com/Linked-API/linkedin-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Linked-API/linkedin-skills?style=flat-square&color=blue)](https://github.com/Linked-API/linkedin-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Linked-API/linkedin-skills?style=flat-square&color=yellow)](https://github.com/Linked-API/linkedin-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Linked-API/linkedin-skills?style=flat-square&color=blue)](https://github.com/Linked-API/linkedin-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > LinkedIn automation skills for AI agents – sales, social selling, data extraction, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Linked-API/linkedin-skills 的价值在于，它可以帮助开发者构建可�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

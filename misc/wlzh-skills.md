@@ -1,6 +1,6 @@
 # wlzh/skills
 
-[![Stars](https://img.shields.io/github/stars/wlzh/skills?style=flat-square&color=yellow)](https://github.com/wlzh/skills/stargazers) [![Forks](https://img.shields.io/github/forks/wlzh/skills?style=flat-square&color=blue)](https://github.com/wlzh/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wlzh/skills?style=flat-square&color=yellow)](https://github.com/wlzh/skills/stargazers) [![Forks](https://img.shields.io/github/forks/wlzh/skills?style=flat-square&color=blue)](https://github.com/wlzh/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 开源了Codex Skills等集合，大部分是自己实际需要搞得，需要的自取。欢迎star
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ wlzh/skills 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 47/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # bit-eagle8n8ilcd/Uniswap-Snip-Bot
 
-[![Stars](https://img.shields.io/github/stars/bit-eagle8n8ilcd/Uniswap-Snip-Bot?style=flat-square&color=yellow)](https://github.com/bit-eagle8n8ilcd/Uniswap-Snip-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/bit-eagle8n8ilcd/Uniswap-Snip-Bot?style=flat-square&color=blue)](https://github.com/bit-eagle8n8ilcd/Uniswap-Snip-Bot/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bit-eagle8n8ilcd/Uniswap-Snip-Bot?style=flat-square&color=yellow)](https://github.com/bit-eagle8n8ilcd/Uniswap-Snip-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/bit-eagle8n8ilcd/Uniswap-Snip-Bot?style=flat-square&color=blue)](https://github.com/bit-eagle8n8ilcd/Uniswap-Snip-Bot/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ bit-eagle8n8ilcd/Uniswap-Snip-Bot 是一个开源项目，用于检测 UniswapSw
 | forks | 28/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 57/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # genesislab-io/beatai
 
-[![Stars](https://img.shields.io/github/stars/genesislab-io/beatai?style=flat-square&color=yellow)](https://github.com/genesislab-io/beatai/stargazers) [![Forks](https://img.shields.io/github/forks/genesislab-io/beatai?style=flat-square&color=blue)](https://github.com/genesislab-io/beatai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/genesislab-io/beatai?style=flat-square&color=yellow)](https://github.com/genesislab-io/beatai/stargazers) [![Forks](https://img.shields.io/github/forks/genesislab-io/beatai?style=flat-square&color=blue)](https://github.com/genesislab-io/beatai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,11 +131,11 @@ Overall, *beatai* is production‑ready for pilot projects and can be scaled to 
 | forks | 60/100 |
 | stars | 78/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

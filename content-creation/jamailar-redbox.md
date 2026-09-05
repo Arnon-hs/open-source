@@ -1,6 +1,6 @@
 # Jamailar/RedBox
 
-[![Stars](https://img.shields.io/github/stars/Jamailar/RedBox?style=flat-square&color=yellow)](https://github.com/Jamailar/RedBox/stargazers) [![Forks](https://img.shields.io/github/forks/Jamailar/RedBox?style=flat-square&color=blue)](https://github.com/Jamailar/RedBox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jamailar/RedBox?style=flat-square&color=yellow)](https://github.com/Jamailar/RedBox/stargazers) [![Forks](https://img.shields.io/github/forks/Jamailar/RedBox?style=flat-square&color=blue)](https://github.com/Jamailar/RedBox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 用AI创作高质量内容，用gpt-image-2创作的最佳生图工具，AI图片自动编排，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、小红书AI创作｜🌟 Star if you like it! ｜ 你桌面盒子里的AI小河狸🦫
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Jamailar/RedBox 是面向自媒体创作者的 AI 工作台，集成了 GPT‑im
 | forks | 55/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

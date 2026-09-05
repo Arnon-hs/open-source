@@ -1,6 +1,6 @@
 # finos/architecture-as-code
 
-[![Stars](https://img.shields.io/github/stars/finos/architecture-as-code?style=flat-square&color=yellow)](https://github.com/finos/architecture-as-code/stargazers) [![Forks](https://img.shields.io/github/forks/finos/architecture-as-code?style=flat-square&color=blue)](https://github.com/finos/architecture-as-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finos/architecture-as-code?style=flat-square&color=yellow)](https://github.com/finos/architecture-as-code/stargazers) [![Forks](https://img.shields.io/github/forks/finos/architecture-as-code?style=flat-square&color=blue)](https://github.com/finos/architecture-as-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Finos/architecture-as-code是一个开源项目，旨在通过机器可读和版
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

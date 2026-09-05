@@ -1,6 +1,6 @@
 # magit/magit
 
-[![Stars](https://img.shields.io/github/stars/magit/magit?style=flat-square&color=yellow)](https://github.com/magit/magit/stargazers) [![Forks](https://img.shields.io/github/forks/magit/magit?style=flat-square&color=blue)](https://github.com/magit/magit/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magit/magit?style=flat-square&color=yellow)](https://github.com/magit/magit/stargazers) [![Forks](https://img.shields.io/github/forks/magit/magit?style=flat-square&color=blue)](https://github.com/magit/magit/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > It's Magit! A Git Porcelain inside Emacs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 865 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Magit 是运行在 Emacs 中的 Git 前端工具，提供了直观、强大的 G
 | forks | 73/100 |
 | stars | 82/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # App-vNext/Polly
 
-[![Stars](https://img.shields.io/github/stars/App-vNext/Polly?style=flat-square&color=yellow)](https://github.com/App-vNext/Polly/stargazers) [![Forks](https://img.shields.io/github/forks/App-vNext/Polly?style=flat-square&color=blue)](https://github.com/App-vNext/Polly/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/App-vNext/Polly?style=flat-square&color=yellow)](https://github.com/App-vNext/Polly/stargazers) [![Forks](https://img.shields.io/github/forks/App-vNext/Polly?style=flat-square&color=blue)](https://github.com/App-vNext/Polly/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ App-vNext/Polly 有着强大的社区支持和广泛的应用场景。它被广�
 | forks | 78/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 83/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

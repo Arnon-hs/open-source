@@ -1,6 +1,6 @@
 # Moli-X/Resources
 
-[![Stars](https://img.shields.io/github/stars/Moli-X/Resources?style=flat-square&color=yellow)](https://github.com/Moli-X/Resources/stargazers) [![Forks](https://img.shields.io/github/forks/Moli-X/Resources?style=flat-square&color=blue)](https://github.com/Moli-X/Resources/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Moli-X/Resources?style=flat-square&color=yellow)](https://github.com/Moli-X/Resources/stargazers) [![Forks](https://img.shields.io/github/forks/Moli-X/Resources?style=flat-square&color=blue)](https://github.com/Moli-X/Resources/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ Moli-X/Resources 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 53/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

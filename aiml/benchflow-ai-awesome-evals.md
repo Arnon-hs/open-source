@@ -1,6 +1,6 @@
 # benchflow-ai/awesome-evals
 
-[![Stars](https://img.shields.io/github/stars/benchflow-ai/awesome-evals?style=flat-square&color=yellow)](https://github.com/benchflow-ai/awesome-evals/stargazers) [![Forks](https://img.shields.io/github/forks/benchflow-ai/awesome-evals?style=flat-square&color=blue)](https://github.com/benchflow-ai/awesome-evals/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benchflow-ai/awesome-evals?style=flat-square&color=yellow)](https://github.com/benchflow-ai/awesome-evals/stargazers) [![Forks](https://img.shields.io/github/forks/benchflow-ai/awesome-evals?style=flat-square&color=blue)](https://github.com/benchflow-ai/awesome-evals/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ benchflow‑ai/awesome‑evals 是一个由 BenchFlow 维护的精选资源库�
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

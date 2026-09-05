@@ -1,6 +1,6 @@
 # solidjs-community/solid-primitives
 
-[![Stars](https://img.shields.io/github/stars/solidjs-community/solid-primitives?style=flat-square&color=yellow)](https://github.com/solidjs-community/solid-primitives/stargazers) [![Forks](https://img.shields.io/github/forks/solidjs-community/solid-primitives?style=flat-square&color=blue)](https://github.com/solidjs-community/solid-primitives/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solidjs-community/solid-primitives?style=flat-square&color=yellow)](https://github.com/solidjs-community/solid-primitives/stargazers) [![Forks](https://img.shields.io/github/forks/solidjs-community/solid-primitives?style=flat-square&color=blue)](https://github.com/solidjs-community/solid-primitives/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A library of high-quality primitives that extend Solid reactivity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ solidjs-community/solid-primitives 的生产可用性为中等（Medium）。它
 | forks | 55/100 |
 | stars | 68/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

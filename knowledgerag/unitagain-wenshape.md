@@ -1,6 +1,6 @@
 # unitagain/WenShape
 
-[![Stars](https://img.shields.io/github/stars/unitagain/WenShape?style=flat-square&color=yellow)](https://github.com/unitagain/WenShape/stargazers) [![Forks](https://img.shields.io/github/forks/unitagain/WenShape?style=flat-square&color=blue)](https://github.com/unitagain/WenShape/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unitagain/WenShape?style=flat-square&color=yellow)](https://github.com/unitagain/WenShape/stargazers) [![Forks](https://img.shields.io/github/forks/unitagain/WenShape?style=flat-square&color=blue)](https://github.com/unitagain/WenShape/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > WenShape文枢(原NOVIX写作):深度上下文感知的智能体小说创作系统/A Deep Context-Aware Agent-Based Novel Creation System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 401 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ WenShape 文枢的生产可用性高，主要原因包括：
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

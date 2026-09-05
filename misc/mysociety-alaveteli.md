@@ -1,6 +1,6 @@
 # mysociety/alaveteli
 
-[![Stars](https://img.shields.io/github/stars/mysociety/alaveteli?style=flat-square&color=yellow)](https://github.com/mysociety/alaveteli/stargazers) [![Forks](https://img.shields.io/github/forks/mysociety/alaveteli?style=flat-square&color=blue)](https://github.com/mysociety/alaveteli/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mysociety/alaveteli?style=flat-square&color=yellow)](https://github.com/mysociety/alaveteli/stargazers) [![Forks](https://img.shields.io/github/forks/mysociety/alaveteli?style=flat-square&color=blue)](https://github.com/mysociety/alaveteli/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Provide a Freedom of Information request system for your jurisdiction
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 416 |
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ mysociety/alaveteli的生产可用性为中等（Medium）。它适合用于快�
 | forks | 58/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

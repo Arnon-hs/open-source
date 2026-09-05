@@ -1,6 +1,6 @@
 # ZettaScaleLabs/hiroz
 
-[![Stars](https://img.shields.io/github/stars/ZettaScaleLabs/hiroz?style=flat-square&color=yellow)](https://github.com/ZettaScaleLabs/hiroz/stargazers) [![Forks](https://img.shields.io/github/forks/ZettaScaleLabs/hiroz?style=flat-square&color=blue)](https://github.com/ZettaScaleLabs/hiroz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZettaScaleLabs/hiroz?style=flat-square&color=yellow)](https://github.com/ZettaScaleLabs/hiroz/stargazers) [![Forks](https://img.shields.io/github/forks/ZettaScaleLabs/hiroz?style=flat-square&color=blue)](https://github.com/ZettaScaleLabs/hiroz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ ZettaScaleLabs/hiroz 是一个开源项目，主要用于特定工作流程。�
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 46/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

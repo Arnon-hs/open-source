@@ -1,6 +1,6 @@
 # TimeCyber/MCP-X-web
 
-[![Stars](https://img.shields.io/github/stars/TimeCyber/MCP-X-web?style=flat-square&color=yellow)](https://github.com/TimeCyber/MCP-X-web/stargazers) [![Forks](https://img.shields.io/github/forks/TimeCyber/MCP-X-web?style=flat-square&color=blue)](https://github.com/TimeCyber/MCP-X-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TimeCyber/MCP-X-web?style=flat-square&color=yellow)](https://github.com/TimeCyber/MCP-X-web/stargazers) [![Forks](https://img.shields.io/github/forks/TimeCyber/MCP-X-web?style=flat-square&color=blue)](https://github.com/TimeCyber/MCP-X-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP-X 是一个**企业级 AI 中台**，集成了 AI 对话、文案生成、视频生成、图片生成、前端应用构建、MCP市场、Agent智能体等多种创作工具，为企业和开发者提供一站式的 AIGC 工作台解决方案。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ TimeCyber/MCP-X-web 的生产可用性高，最近有活跃的维护和采用，
 | forks | 34/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

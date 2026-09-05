@@ -1,6 +1,6 @@
 # vintasoftware/django-ai-plugins
 
-[![Stars](https://img.shields.io/github/stars/vintasoftware/django-ai-plugins?style=flat-square&color=yellow)](https://github.com/vintasoftware/django-ai-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/vintasoftware/django-ai-plugins?style=flat-square&color=blue)](https://github.com/vintasoftware/django-ai-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vintasoftware/django-ai-plugins?style=flat-square&color=yellow)](https://github.com/vintasoftware/django-ai-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/vintasoftware/django-ai-plugins?style=flat-square&color=blue)](https://github.com/vintasoftware/django-ai-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of AI Skills specialized in Django Backend development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ vintasoftware/django-ai-plugins 是一个开源项目，提供了一系列专门
 | forks | 27/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

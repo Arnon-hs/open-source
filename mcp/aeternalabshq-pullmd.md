@@ -1,6 +1,6 @@
 # AeternaLabsHQ/pullmd
 
-[![Stars](https://img.shields.io/github/stars/AeternaLabsHQ/pullmd?style=flat-square&color=yellow)](https://github.com/AeternaLabsHQ/pullmd/stargazers) [![Forks](https://img.shields.io/github/forks/AeternaLabsHQ/pullmd?style=flat-square&color=blue)](https://github.com/AeternaLabsHQ/pullmd/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AeternaLabsHQ/pullmd?style=flat-square&color=yellow)](https://github.com/AeternaLabsHQ/pullmd/stargazers) [![Forks](https://img.shields.io/github/forks/AeternaLabsHQ/pullmd?style=flat-square&color=blue)](https://github.com/AeternaLabsHQ/pullmd/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP
+MCP · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -109,15 +109,15 @@ AeternaLabsHQ/pullmd 是一个自托管的 URL‑to‑Markdown 服务，面向�
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 38/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

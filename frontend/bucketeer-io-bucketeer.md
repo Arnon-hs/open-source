@@ -1,6 +1,6 @@
 # bucketeer-io/bucketeer
 
-[![Stars](https://img.shields.io/github/stars/bucketeer-io/bucketeer?style=flat-square&color=yellow)](https://github.com/bucketeer-io/bucketeer/stargazers) [![Forks](https://img.shields.io/github/forks/bucketeer-io/bucketeer?style=flat-square&color=blue)](https://github.com/bucketeer-io/bucketeer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bucketeer-io/bucketeer?style=flat-square&color=yellow)](https://github.com/bucketeer-io/bucketeer/stargazers) [![Forks](https://img.shields.io/github/forks/bucketeer-io/bucketeer?style=flat-square&color=blue)](https://github.com/bucketeer-io/bucketeer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Feature Flag Management and A/B Testing platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data
+Frontend · DevTools · Data
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ Bucketeer 的生产可用性非常高。它有：
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

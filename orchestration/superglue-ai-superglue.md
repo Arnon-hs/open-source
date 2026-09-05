@@ -1,6 +1,6 @@
 # superglue-ai/superglue
 
-[![Stars](https://img.shields.io/github/stars/superglue-ai/superglue?style=flat-square&color=yellow)](https://github.com/superglue-ai/superglue/stargazers) [![Forks](https://img.shields.io/github/forks/superglue-ai/superglue?style=flat-square&color=blue)](https://github.com/superglue-ai/superglue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superglue-ai/superglue?style=flat-square&color=yellow)](https://github.com/superglue-ai/superglue/stargazers) [![Forks](https://img.shields.io/github/forks/superglue-ai/superglue?style=flat-square&color=blue)](https://github.com/superglue-ai/superglue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ superglue（YC W25）是一套基于自然语言的集成与工具平台，能�
 | forks | 52/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # synth-laboratories/synth-ai
 
-[![Stars](https://img.shields.io/github/stars/synth-laboratories/synth-ai?style=flat-square&color=yellow)](https://github.com/synth-laboratories/synth-ai/stargazers) [![Forks](https://img.shields.io/github/forks/synth-laboratories/synth-ai?style=flat-square&color=blue)](https://github.com/synth-laboratories/synth-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/synth-laboratories/synth-ai?style=flat-square&color=yellow)](https://github.com/synth-laboratories/synth-ai/stargazers) [![Forks](https://img.shields.io/github/forks/synth-laboratories/synth-ai?style=flat-square&color=blue)](https://github.com/synth-laboratories/synth-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Synth Python SDK for Managed Research, Research Factory, and GEPA/GELO optimizer workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ Synth AI 的生产可用性较高，理由如下：
 | forks | 24/100 |
 | stars | 41/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

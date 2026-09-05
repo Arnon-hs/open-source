@@ -1,6 +1,6 @@
 # Aspirin0000/zhouli-translator
 
-[![Stars](https://img.shields.io/github/stars/Aspirin0000/zhouli-translator?style=flat-square&color=yellow)](https://github.com/Aspirin0000/zhouli-translator/stargazers) [![Forks](https://img.shields.io/github/forks/Aspirin0000/zhouli-translator?style=flat-square&color=blue)](https://github.com/Aspirin0000/zhouli-translator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aspirin0000/zhouli-translator?style=flat-square&color=yellow)](https://github.com/Aspirin0000/zhouli-translator/stargazers) [![Forks](https://img.shields.io/github/forks/Aspirin0000/zhouli-translator?style=flat-square&color=blue)](https://github.com/Aspirin0000/zhouli-translator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 合乎周礼：DeepSeek-powered Zhouli-style Chinese translator, web app, and distributable Skill package.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ Aspirin0000/zhouli-translator 的生产可用性为 Medium，适合用于 protot
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

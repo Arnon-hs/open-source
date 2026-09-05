@@ -1,6 +1,6 @@
 # nguyenhx2/agent-harness-bootstrap
 
-[![Stars](https://img.shields.io/github/stars/nguyenhx2/agent-harness-bootstrap?style=flat-square&color=yellow)](https://github.com/nguyenhx2/agent-harness-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/nguyenhx2/agent-harness-bootstrap?style=flat-square&color=blue)](https://github.com/nguyenhx2/agent-harness-bootstrap/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nguyenhx2/agent-harness-bootstrap?style=flat-square&color=yellow)](https://github.com/nguyenhx2/agent-harness-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/nguyenhx2/agent-harness-bootstrap?style=flat-square&color=blue)](https://github.com/nguyenhx2/agent-harness-bootstrap/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Specs both you and the AI understand. An agent team fitted to your repo. Guardrails that block, not advise. Two Claude Code skills - spec-builder + harness-bootstrap - for greenfield, brownfield, or audit-only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ The production readiness of nguyenhx2/agent-harness-bootstrap is medium, making 
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

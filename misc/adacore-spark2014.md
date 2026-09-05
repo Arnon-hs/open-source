@@ -1,6 +1,6 @@
 # AdaCore/spark2014
 
-[![Stars](https://img.shields.io/github/stars/AdaCore/spark2014?style=flat-square&color=yellow)](https://github.com/AdaCore/spark2014/stargazers) [![Forks](https://img.shields.io/github/forks/AdaCore/spark2014?style=flat-square&color=blue)](https://github.com/AdaCore/spark2014/network) [![Language](https://img.shields.io/badge/lang-Ada-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdaCore/spark2014?style=flat-square&color=yellow)](https://github.com/AdaCore/spark2014/stargazers) [![Forks](https://img.shields.io/github/forks/AdaCore/spark2014?style=flat-square&color=blue)](https://github.com/AdaCore/spark2014/network) [![Language](https://img.shields.io/badge/lang-Ada-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-reliability applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Ada |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ AdaCore 的 **spark2014** 是 SPARK 语言的最新版本，专为高可靠性�
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

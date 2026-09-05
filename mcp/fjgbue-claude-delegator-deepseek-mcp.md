@@ -1,6 +1,6 @@
 # fjgbue/claude-delegator-deepseek-mcp
 
-[![Stars](https://img.shields.io/github/stars/fjgbue/claude-delegator-deepseek-mcp?style=flat-square&color=yellow)](https://github.com/fjgbue/claude-delegator-deepseek-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/fjgbue/claude-delegator-deepseek-mcp?style=flat-square&color=blue)](https://github.com/fjgbue/claude-delegator-deepseek-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fjgbue/claude-delegator-deepseek-mcp?style=flat-square&color=yellow)](https://github.com/fjgbue/claude-delegator-deepseek-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/fjgbue/claude-delegator-deepseek-mcp?style=flat-square&color=blue)](https://github.com/fjgbue/claude-delegator-deepseek-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server: delegate heavy-token tasks from Claude Code to DeepSeek, Kimi, GLM, Qwen, Grok, or any OpenAI-compatible model. Mix providers per task, cost receipt on every call. Zero dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ fjgbue/claude-delegator-deepseek-mcp 是一个开源项目，提供了一个 Mod
 | forks | 12/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # luongnv89/asm
 
-[![Stars](https://img.shields.io/github/stars/luongnv89/asm?style=flat-square&color=yellow)](https://github.com/luongnv89/asm/stargazers) [![Forks](https://img.shields.io/github/forks/luongnv89/asm?style=flat-square&color=blue)](https://github.com/luongnv89/asm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luongnv89/asm?style=flat-square&color=yellow)](https://github.com/luongnv89/asm/stargazers) [![Forks](https://img.shields.io/github/forks/luongnv89/asm?style=flat-square&color=blue)](https://github.com/luongnv89/asm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The universal skill manager for AI coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 721 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ luongnv89/asm 的生产可用性为中等（Medium）。它适合用于 prototyp
 | forks | 45/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

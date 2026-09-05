@@ -1,6 +1,6 @@
 # kargnas/mac-optimizing-looper
 
-[![Stars](https://img.shields.io/github/stars/kargnas/mac-optimizing-looper?style=flat-square&color=yellow)](https://github.com/kargnas/mac-optimizing-looper/stargazers) [![Forks](https://img.shields.io/github/forks/kargnas/mac-optimizing-looper?style=flat-square&color=blue)](https://github.com/kargnas/mac-optimizing-looper/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kargnas/mac-optimizing-looper?style=flat-square&color=yellow)](https://github.com/kargnas/mac-optimizing-looper/stargazers) [![Forks](https://img.shields.io/github/forks/kargnas/mac-optimizing-looper?style=flat-square&color=blue)](https://github.com/kargnas/mac-optimizing-looper/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, risk-checked fixes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ kargnas/mac-optimizing-looper 的价值在于它可以帮助开发者快速构�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

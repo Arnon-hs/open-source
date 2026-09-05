@@ -1,6 +1,6 @@
 # jparkerweb/ai-assist-skills
 
-[![Stars](https://img.shields.io/github/stars/jparkerweb/ai-assist-skills?style=flat-square&color=yellow)](https://github.com/jparkerweb/ai-assist-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jparkerweb/ai-assist-skills?style=flat-square&color=blue)](https://github.com/jparkerweb/ai-assist-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jparkerweb/ai-assist-skills?style=flat-square&color=yellow)](https://github.com/jparkerweb/ai-assist-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jparkerweb/ai-assist-skills?style=flat-square&color=blue)](https://github.com/jparkerweb/ai-assist-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A collection of AI agent skills that automate recurring engineering workflows that can be installed across multiple AI coding assistants.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ jparkerweb/ai-assist-skills 是一套可复用的 AI 代理技能库，能够把
 | forks | 27/100 |
 | stars | 41/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

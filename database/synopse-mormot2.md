@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | Pascal |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ synopse/mORMot2：synopse/mORMot2 helps teams persist, query, and move data with
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

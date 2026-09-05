@@ -1,6 +1,6 @@
 # LangcliTeam/langcli
 
-[![Stars](https://img.shields.io/github/stars/LangcliTeam/langcli?style=flat-square&color=yellow)](https://github.com/LangcliTeam/langcli/stargazers) [![Forks](https://img.shields.io/github/forks/LangcliTeam/langcli?style=flat-square&color=blue)](https://github.com/LangcliTeam/langcli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LangcliTeam/langcli?style=flat-square&color=yellow)](https://github.com/LangcliTeam/langcli/stargazers) [![Forks](https://img.shields.io/github/forks/LangcliTeam/langcli?style=flat-square&color=blue)](https://github.com/LangcliTeam/langcli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Building agentic coding assistant in public
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ LangcliTeam / langcli 为项目提供即插即用的 AI 能力，帮助团�
 | forks | 21/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

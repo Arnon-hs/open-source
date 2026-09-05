@@ -1,6 +1,6 @@
 # utensils/mcp-nixos
 
-[![Stars](https://img.shields.io/github/stars/utensils/mcp-nixos?style=flat-square&color=yellow)](https://github.com/utensils/mcp-nixos/stargazers) [![Forks](https://img.shields.io/github/forks/utensils/mcp-nixos?style=flat-square&color=blue)](https://github.com/utensils/mcp-nixos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/utensils/mcp-nixos?style=flat-square&color=yellow)](https://github.com/utensils/mcp-nixos/stargazers) [![Forks](https://img.shields.io/github/forks/utensils/mcp-nixos?style=flat-square&color=blue)](https://github.com/utensils/mcp-nixos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > MCP-NixOS - Model Context Protocol Server for NixOS resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 770 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ utensils/mcp-nixos 的生产可用性是高的，因为它有：
 | forks | 41/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

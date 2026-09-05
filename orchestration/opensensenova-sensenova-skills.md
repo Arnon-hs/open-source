@@ -1,6 +1,6 @@
 # OpenSenseNova/SenseNova-Skills
 
-[![Stars](https://img.shields.io/github/stars/OpenSenseNova/SenseNova-Skills?style=flat-square&color=yellow)](https://github.com/OpenSenseNova/SenseNova-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSenseNova/SenseNova-Skills?style=flat-square&color=blue)](https://github.com/OpenSenseNova/SenseNova-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenSenseNova/SenseNova-Skills?style=flat-square&color=yellow)](https://github.com/OpenSenseNova/SenseNova-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSenseNova/SenseNova-Skills?style=flat-square&color=blue)](https://github.com/OpenSenseNova/SenseNova-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Data
+Orchestration · Automation · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ OpenSenseNova/SenseNova‑Skills 是一套可组合的 Skill 库，帮助开发�
 | forks | 62/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

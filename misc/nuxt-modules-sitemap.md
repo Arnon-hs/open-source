@@ -1,6 +1,6 @@
 # nuxt-modules/sitemap
 
-[![Stars](https://img.shields.io/github/stars/nuxt-modules/sitemap?style=flat-square&color=yellow)](https://github.com/nuxt-modules/sitemap/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt-modules/sitemap?style=flat-square&color=blue)](https://github.com/nuxt-modules/sitemap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt-modules/sitemap?style=flat-square&color=yellow)](https://github.com/nuxt-modules/sitemap/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt-modules/sitemap?style=flat-square&color=blue)](https://github.com/nuxt-modules/sitemap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Powerfully flexible XML Sitemaps that integrate seamlessly, for Nuxt.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ nuxt-modules/sitemap - мощный и гибкий инструмент для 
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

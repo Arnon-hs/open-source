@@ -1,6 +1,6 @@
 # etternagame/etterna
 
-[![Stars](https://img.shields.io/github/stars/etternagame/etterna?style=flat-square&color=yellow)](https://github.com/etternagame/etterna/stargazers) [![Forks](https://img.shields.io/github/forks/etternagame/etterna?style=flat-square&color=blue)](https://github.com/etternagame/etterna/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/etternagame/etterna?style=flat-square&color=yellow)](https://github.com/etternagame/etterna/stargazers) [![Forks](https://img.shields.io/github/forks/etternagame/etterna?style=flat-square&color=blue)](https://github.com/etternagame/etterna/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced cross-platform rhythm game focused on keyboard play
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 629 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ etterna 的生产可用性为中等，适合用于原型或内部工作流程。
 | forks | 55/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ChrisChen667788/wind-comic
 
-[![Stars](https://img.shields.io/github/stars/ChrisChen667788/wind-comic?style=flat-square&color=yellow)](https://github.com/ChrisChen667788/wind-comic/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisChen667788/wind-comic?style=flat-square&color=blue)](https://github.com/ChrisChen667788/wind-comic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChrisChen667788/wind-comic?style=flat-square&color=yellow)](https://github.com/ChrisChen667788/wind-comic/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisChen667788/wind-comic?style=flat-square&color=blue)](https://github.com/ChrisChen667788/wind-comic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Wind‑Comic 为需要将文字快速转化为多模态短剧的团队提供了�
 | forks | 31/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

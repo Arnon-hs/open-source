@@ -1,6 +1,6 @@
 # ogham-mcp/ogham-mcp
 
-[![Stars](https://img.shields.io/github/stars/ogham-mcp/ogham-mcp?style=flat-square&color=yellow)](https://github.com/ogham-mcp/ogham-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ogham-mcp/ogham-mcp?style=flat-square&color=blue)](https://github.com/ogham-mcp/ogham-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ogham-mcp/ogham-mcp?style=flat-square&color=yellow)](https://github.com/ogham-mcp/ogham-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ogham-mcp/ogham-mcp?style=flat-square&color=blue)](https://github.com/ogham-mcp/ogham-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Shared memory MCP server — persistent, searchable, cross-client Claude, Opencode
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ ogham‑mcp 是一个基于共享内存的 Multi‑Client Protocol（MCP）服
 | forks | 34/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

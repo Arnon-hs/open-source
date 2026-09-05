@@ -1,6 +1,6 @@
 # kubermatic/kubermatic
 
-[![Stars](https://img.shields.io/github/stars/kubermatic/kubermatic?style=flat-square&color=yellow)](https://github.com/kubermatic/kubermatic/stargazers) [![Forks](https://img.shields.io/github/forks/kubermatic/kubermatic?style=flat-square&color=blue)](https://github.com/kubermatic/kubermatic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubermatic/kubermatic?style=flat-square&color=yellow)](https://github.com/kubermatic/kubermatic/stargazers) [![Forks](https://img.shields.io/github/forks/kubermatic/kubermatic?style=flat-square&color=blue)](https://github.com/kubermatic/kubermatic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Kubermatic 的生产可用性较高，主要原因是最近的活跃度、采用
 | forks | 58/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 62/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

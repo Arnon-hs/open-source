@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · AI/ML · Backend · DevTools · Education
+Templates · AI/ML · Productivity · Backend · DevTools
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ Micro-SaaS-Examples/Best-Micro-SaaS-Tools：Micro-SaaS-Examples/Best-Micro-SaaS-
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

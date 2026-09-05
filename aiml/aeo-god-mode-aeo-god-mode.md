@@ -1,6 +1,6 @@
 # AEO-God-Mode/aeo-god-mode
 
-[![Stars](https://img.shields.io/github/stars/AEO-God-Mode/aeo-god-mode?style=flat-square&color=yellow)](https://github.com/AEO-God-Mode/aeo-god-mode/stargazers) [![Forks](https://img.shields.io/github/forks/AEO-God-Mode/aeo-god-mode?style=flat-square&color=blue)](https://github.com/AEO-God-Mode/aeo-god-mode/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AEO-God-Mode/aeo-god-mode?style=flat-square&color=yellow)](https://github.com/AEO-God-Mode/aeo-god-mode/stargazers) [![Forks](https://img.shields.io/github/forks/AEO-God-Mode/aeo-god-mode?style=flat-square&color=blue)](https://github.com/AEO-God-Mode/aeo-god-mode/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Free AEO + AI search readiness plugin for WordPress. Schema, llms.txt, AI crawler controls, brand sentiment + citation tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ AEO‑God‑Mode（aeo-god-mode）是一款面向 WordPress 的免费 AEO 与 AI
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 41/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

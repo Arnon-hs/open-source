@@ -1,6 +1,6 @@
 # FlorianUekermann/rustls-acme
 
-[![Stars](https://img.shields.io/github/stars/FlorianUekermann/rustls-acme?style=flat-square&color=yellow)](https://github.com/FlorianUekermann/rustls-acme/stargazers) [![Forks](https://img.shields.io/github/forks/FlorianUekermann/rustls-acme?style=flat-square&color=blue)](https://github.com/FlorianUekermann/rustls-acme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlorianUekermann/rustls-acme?style=flat-square&color=yellow)](https://github.com/FlorianUekermann/rustls-acme/stargazers) [![Forks](https://img.shields.io/github/forks/FlorianUekermann/rustls-acme?style=flat-square&color=blue)](https://github.com/FlorianUekermann/rustls-acme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,11 +75,11 @@ FlorianUekermann/rustls-acme是一个开源项目，基于Rust语言开发的ACM
 | forks | 42/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 52/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

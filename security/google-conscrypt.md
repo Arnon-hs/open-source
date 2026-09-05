@@ -1,6 +1,6 @@
 # google/conscrypt
 
-[![Stars](https://img.shields.io/github/stars/google/conscrypt?style=flat-square&color=yellow)](https://github.com/google/conscrypt/stargazers) [![Forks](https://img.shields.io/github/forks/google/conscrypt?style=flat-square&color=blue)](https://github.com/google/conscrypt/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/conscrypt?style=flat-square&color=yellow)](https://github.com/google/conscrypt/stargazers) [![Forks](https://img.shields.io/github/forks/google/conscrypt?style=flat-square&color=blue)](https://github.com/google/conscrypt/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Conscrypt 是 Google 开源的 Java Security Provider，实现了 JCE（Java Cry
 | forks | 63/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # codemistic/Web-Development
 
-[![Stars](https://img.shields.io/github/stars/codemistic/Web-Development?style=flat-square&color=yellow)](https://github.com/codemistic/Web-Development/stargazers) [![Forks](https://img.shields.io/github/forks/codemistic/Web-Development?style=flat-square&color=blue)](https://github.com/codemistic/Web-Development/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codemistic/Web-Development?style=flat-square&color=yellow)](https://github.com/codemistic/Web-Development/stargazers) [![Forks](https://img.shields.io/github/forks/codemistic/Web-Development?style=flat-square&color=blue)](https://github.com/codemistic/Web-Development/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A repository to help the open-source community with cool projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 326 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ Codemistic/Web-Development是一个开源项目，旨在帮助开源社区共享
 | forks | 63/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

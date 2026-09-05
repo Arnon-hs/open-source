@@ -1,6 +1,6 @@
 # godotengine/godot-website
 
-[![Stars](https://img.shields.io/github/stars/godotengine/godot-website?style=flat-square&color=yellow)](https://github.com/godotengine/godot-website/stargazers) [![Forks](https://img.shields.io/github/forks/godotengine/godot-website?style=flat-square&color=blue)](https://github.com/godotengine/godot-website/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/godotengine/godot-website?style=flat-square&color=yellow)](https://github.com/godotengine/godot-website/stargazers) [![Forks](https://img.shields.io/github/forks/godotengine/godot-website?style=flat-square&color=blue)](https://github.com/godotengine/godot-website/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The code for the official Godot Engine website. A static site built using Jekyll.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Overall, *godotengine/godot-website* offers a solid, low‑effort foundation for
 | forks | 59/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

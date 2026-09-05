@@ -1,6 +1,6 @@
 # Viren070/guides
 
-[![Stars](https://img.shields.io/github/stars/Viren070/guides?style=flat-square&color=yellow)](https://github.com/Viren070/guides/stargazers) [![Forks](https://img.shields.io/github/forks/Viren070/guides?style=flat-square&color=blue)](https://github.com/Viren070/guides/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Viren070/guides?style=flat-square&color=yellow)](https://github.com/Viren070/guides/stargazers) [![Forks](https://img.shields.io/github/forks/Viren070/guides?style=flat-square&color=blue)](https://github.com/Viren070/guides/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Viren070/guides 是一个基于 TypeScript 的前端组件库，旨在帮助开�
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 46/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

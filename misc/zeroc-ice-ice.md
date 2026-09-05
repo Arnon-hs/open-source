@@ -1,6 +1,6 @@
 # zeroc-ice/ice
 
-[![Stars](https://img.shields.io/github/stars/zeroc-ice/ice?style=flat-square&color=yellow)](https://github.com/zeroc-ice/ice/stargazers) [![Forks](https://img.shields.io/github/forks/zeroc-ice/ice?style=flat-square&color=blue)](https://github.com/zeroc-ice/ice/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeroc-ice/ice?style=flat-square&color=yellow)](https://github.com/zeroc-ice/ice/stargazers) [![Forks](https://img.shields.io/github/forks/zeroc-ice/ice?style=flat-square&color=blue)](https://github.com/zeroc-ice/ice/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one solution for creating networked applications with RPC, pub/sub, server deployment, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 600 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ zeroc-ice/ice 的生产可用性为中等（Medium）。它适合用于原型开
 | forks | 69/100 |
 | stars | 71/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # apache/uniffle
 
-[![Stars](https://img.shields.io/github/stars/apache/uniffle?style=flat-square&color=yellow)](https://github.com/apache/uniffle/stargazers) [![Forks](https://img.shields.io/github/forks/apache/uniffle?style=flat-square&color=blue)](https://github.com/apache/uniffle/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/uniffle?style=flat-square&color=yellow)](https://github.com/apache/uniffle/stargazers) [![Forks](https://img.shields.io/github/forks/apache/uniffle?style=flat-square&color=blue)](https://github.com/apache/uniffle/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Uniffle is a high performance, general purpose Remote Shuffle Service.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 449 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -143,11 +143,11 @@ Uniffle（apache/uniffle）是一个高性能、通用的远程 Shuffle 服务�
 | forks | 56/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

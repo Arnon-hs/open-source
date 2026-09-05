@@ -1,6 +1,6 @@
 # hetznercloud/terraform-provider-hcloud
 
-[![Stars](https://img.shields.io/github/stars/hetznercloud/terraform-provider-hcloud?style=flat-square&color=yellow)](https://github.com/hetznercloud/terraform-provider-hcloud/stargazers) [![Forks](https://img.shields.io/github/forks/hetznercloud/terraform-provider-hcloud?style=flat-square&color=blue)](https://github.com/hetznercloud/terraform-provider-hcloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hetznercloud/terraform-provider-hcloud?style=flat-square&color=yellow)](https://github.com/hetznercloud/terraform-provider-hcloud/stargazers) [![Forks](https://img.shields.io/github/forks/hetznercloud/terraform-provider-hcloud?style=flat-square&color=blue)](https://github.com/hetznercloud/terraform-provider-hcloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform Hetzner Cloud provider
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 727 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ hetznercloud/terraform-provider-hcloud 的生产可用性为中等（Medium）�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

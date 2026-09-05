@@ -1,6 +1,6 @@
 # e2b-dev/desktop
 
-[![Stars](https://img.shields.io/github/stars/e2b-dev/desktop?style=flat-square&color=yellow)](https://github.com/e2b-dev/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/desktop?style=flat-square&color=blue)](https://github.com/e2b-dev/desktop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e2b-dev/desktop?style=flat-square&color=yellow)](https://github.com/e2b-dev/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/desktop?style=flat-square&color=blue)](https://github.com/e2b-dev/desktop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ e2b-dev/desktop 的生产可用性很高，主要原因是：
 | forks | 57/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # tinymce/tinymce
 
-[![Stars](https://img.shields.io/github/stars/tinymce/tinymce?style=flat-square&color=yellow)](https://github.com/tinymce/tinymce/stargazers) [![Forks](https://img.shields.io/github/forks/tinymce/tinymce?style=flat-square&color=blue)](https://github.com/tinymce/tinymce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinymce/tinymce?style=flat-square&color=yellow)](https://github.com/tinymce/tinymce/stargazers) [![Forks](https://img.shields.io/github/forks/tinymce/tinymce?style=flat-square&color=blue)](https://github.com/tinymce/tinymce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.3k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ TinyMCE 是业界领先的 JavaScript 富文本编辑器，支持 React、Vue、
 | forks | 84/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 85/100 |
-| recency | 60/100 |
+| outlook | 78/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

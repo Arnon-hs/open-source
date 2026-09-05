@@ -1,6 +1,6 @@
 # Consensys/doc.linea
 
-[![Stars](https://img.shields.io/github/stars/Consensys/doc.linea?style=flat-square&color=yellow)](https://github.com/Consensys/doc.linea/stargazers) [![Forks](https://img.shields.io/github/forks/Consensys/doc.linea?style=flat-square&color=blue)](https://github.com/Consensys/doc.linea/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Consensys/doc.linea?style=flat-square&color=yellow)](https://github.com/Consensys/doc.linea/stargazers) [![Forks](https://img.shields.io/github/forks/Consensys/doc.linea?style=flat-square&color=blue)](https://github.com/Consensys/doc.linea/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Linea documentation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 556 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Consensys / doc.linea 是一套面向用户的前端文档 UI 框架，提�
 | forks | 69/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 45/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

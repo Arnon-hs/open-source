@@ -1,6 +1,6 @@
 # llama-farm/llamafarm
 
-[![Stars](https://img.shields.io/github/stars/llama-farm/llamafarm?style=flat-square&color=yellow)](https://github.com/llama-farm/llamafarm/stargazers) [![Forks](https://img.shields.io/github/forks/llama-farm/llamafarm?style=flat-square&color=blue)](https://github.com/llama-farm/llamafarm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llama-farm/llamafarm?style=flat-square&color=yellow)](https://github.com/llama-farm/llamafarm/stargazers) [![Forks](https://img.shields.io/github/forks/llama-farm/llamafarm?style=flat-square&color=blue)](https://github.com/llama-farm/llamafarm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 827 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ llama-farm（llamafarm）是一套一键部署框架，能够在本地或云端�
 | forks | 44/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # bonnard-data/bonnard-cli
 
-[![Stars](https://img.shields.io/github/stars/bonnard-data/bonnard-cli?style=flat-square&color=yellow)](https://github.com/bonnard-data/bonnard-cli/stargazers) [![Forks](https://img.shields.io/github/forks/bonnard-data/bonnard-cli?style=flat-square&color=blue)](https://github.com/bonnard-data/bonnard-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bonnard-data/bonnard-cli?style=flat-square&color=yellow)](https://github.com/bonnard-data/bonnard-cli/stargazers) [![Forks](https://img.shields.io/github/forks/bonnard-data/bonnard-cli?style=flat-square&color=blue)](https://github.com/bonnard-data/bonnard-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source agentic schema CLI. Optimised for claude code, gemini, codex and co-pilot. Skills included.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ bonnard-data/bonnard-cli 是一款开源的 *agentic schema* 命令行工具，�
 | forks | 17/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

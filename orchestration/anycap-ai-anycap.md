@@ -1,6 +1,6 @@
 # anycap-ai/anycap
 
-[![Stars](https://img.shields.io/github/stars/anycap-ai/anycap?style=flat-square&color=yellow)](https://github.com/anycap-ai/anycap/stargazers) [![Forks](https://img.shields.io/github/forks/anycap-ai/anycap?style=flat-square&color=blue)](https://github.com/anycap-ai/anycap/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anycap-ai/anycap?style=flat-square&color=yellow)](https://github.com/anycap-ai/anycap/stargazers) [![Forks](https://img.shields.io/github/forks/anycap-ai/anycap?style=flat-square&color=blue)](https://github.com/anycap-ai/anycap/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The capability harness for AI agents. Skills over SDKs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ anycap-ai/anycap 的生产可用性为中等，适合用于原型或内部工作
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # logisim-evolution/logisim-evolution
 
-[![Stars](https://img.shields.io/github/stars/logisim-evolution/logisim-evolution?style=flat-square&color=yellow)](https://github.com/logisim-evolution/logisim-evolution/stargazers) [![Forks](https://img.shields.io/github/forks/logisim-evolution/logisim-evolution?style=flat-square&color=blue)](https://github.com/logisim-evolution/logisim-evolution/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/logisim-evolution/logisim-evolution?style=flat-square&color=yellow)](https://github.com/logisim-evolution/logisim-evolution/stargazers) [![Forks](https://img.shields.io/github/forks/logisim-evolution/logisim-evolution?style=flat-square&color=blue)](https://github.com/logisim-evolution/logisim-evolution/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Digital logic design tool and simulator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 961 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Logisim‑Evolution 是一款基于 Java 的数字电路设计与仿真工具，
 | forks | 75/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 76/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 86/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # openstack/nova
 
-[![Stars](https://img.shields.io/github/stars/openstack/nova?style=flat-square&color=yellow)](https://github.com/openstack/nova/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/nova?style=flat-square&color=blue)](https://github.com/openstack/nova/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstack/nova?style=flat-square&color=yellow)](https://github.com/openstack/nova/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/nova?style=flat-square&color=blue)](https://github.com/openstack/nova/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > OpenStack Compute (Nova). Mirror of code maintained at opendev.org.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ OpenStack Nova 在生产环境中有很高的可用性，主要原因是：
 | forks | 85/100 |
 | stars | 75/100 |
 | topics | 13/100 |
-| outlook | 53/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

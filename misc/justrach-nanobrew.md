@@ -1,6 +1,6 @@
 # justrach/nanobrew
 
-[![Stars](https://img.shields.io/github/stars/justrach/nanobrew?style=flat-square&color=yellow)](https://github.com/justrach/nanobrew/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/nanobrew?style=flat-square&color=blue)](https://github.com/justrach/nanobrew/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justrach/nanobrew?style=flat-square&color=yellow)](https://github.com/justrach/nanobrew/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/nanobrew?style=flat-square&color=blue)](https://github.com/justrach/nanobrew/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest macOS package manager. Written in Zig. 3ms warm installs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ justrach/nanobrew 是用 Zig 编写的超高速 macOS 包管理器，号称在 3
 | forks | 29/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 45/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 46/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

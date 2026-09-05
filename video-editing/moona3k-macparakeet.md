@@ -1,6 +1,6 @@
 # moona3k/macparakeet
 
-[![Stars](https://img.shields.io/github/stars/moona3k/macparakeet?style=flat-square&color=yellow)](https://github.com/moona3k/macparakeet/stargazers) [![Forks](https://img.shields.io/github/forks/moona3k/macparakeet?style=flat-square&color=blue)](https://github.com/moona3k/macparakeet/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moona3k/macparakeet?style=flat-square&color=yellow)](https://github.com/moona3k/macparakeet/stargazers) [![Forks](https://img.shields.io/github/forks/moona3k/macparakeet?style=flat-square&color=blue)](https://github.com/moona3k/macparakeet/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, local voice app for Mac — system-wide dictation, file & YouTube transcription, and meeting recording. Powered by Parakeet TDT on Apple Silicon. Free and open-source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Moona3k/MacParakeet 的生产可用性评为中等级别（Medium）。它适合
 | forks | 41/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

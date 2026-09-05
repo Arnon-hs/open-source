@@ -1,6 +1,6 @@
 # microsoft/BCApps
 
-[![Stars](https://img.shields.io/github/stars/microsoft/BCApps?style=flat-square&color=yellow)](https://github.com/microsoft/BCApps/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/BCApps?style=flat-square&color=blue)](https://github.com/microsoft/BCApps/network) [![Language](https://img.shields.io/badge/lang-AL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/BCApps?style=flat-square&color=yellow)](https://github.com/microsoft/BCApps/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/BCApps?style=flat-square&color=blue)](https://github.com/microsoft/BCApps/network) [![Language](https://img.shields.io/badge/lang-AL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for collaboration on Microsoft Dynamics 365 Business Central applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 398 |
 | 💻 **Language** | AL |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Microsoft/BCApps 是一个开源项目，用于Microsoft Dynamics 365 Business C
 | forks | 65/100 |
 | stars | 60/100 |
 | topics | 13/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

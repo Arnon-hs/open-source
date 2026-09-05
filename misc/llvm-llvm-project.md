@@ -1,6 +1,6 @@
 # llvm/llvm-project
 
-[![Stars](https://img.shields.io/github/stars/llvm/llvm-project?style=flat-square&color=yellow)](https://github.com/llvm/llvm-project/stargazers) [![Forks](https://img.shields.io/github/forks/llvm/llvm-project?style=flat-square&color=blue)](https://github.com/llvm/llvm-project/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llvm/llvm-project?style=flat-square&color=yellow)](https://github.com/llvm/llvm-project/stargazers) [![Forks](https://img.shields.io/github/forks/llvm/llvm-project?style=flat-square&color=blue)](https://github.com/llvm/llvm-project/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38.9k |
 | 🍴 **Forks** | 17.6k |
 | 💻 **Language** | LLVM |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ LLVM 项目（llvm/llvm-project）是一套模块化、可复用的编译器和�
 | forks | 100/100 |
 | stars | 98/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

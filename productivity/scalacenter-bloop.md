@@ -1,0 +1,83 @@
+# scalacenter/bloop
+
+[![Stars](https://img.shields.io/github/stars/scalacenter/bloop?style=flat-square&color=yellow)](https://github.com/scalacenter/bloop/stargazers) [![Forks](https://img.shields.io/github/forks/scalacenter/bloop?style=flat-square&color=blue)](https://github.com/scalacenter/bloop/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+
+> Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 939 |
+| 🍴 **Forks** | 216 |
+| 💻 **Language** | Scala |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`build-system` `build-tools` `compilation-server` `developer-tools` `java` `productivity` `scala`
+
+## 🎯 Categories
+
+Productivity · Backend · DevTools
+
+## 📝 Summary
+
+### English
+
+scalacenter/bloop is an open‑source build server and command‑line interface designed to compile, test, and run Scala projects quickly and reliably. By providing a fast, incremental compilation engine and a language‑agnostic protocol, Bloop integrates seamlessly with editors (e.g., VS Code, IntelliJ) and build tools such as sbt, Maven, and Gradle. It serves both frontend and backend developers as a core DevTools component for Scala development.
+
+### Русский
+
+Bloop — это высокопроизводительный сервер сборки и CLI‑утилита, предназначенная для мгновенной компиляции, тестирования и запуска Scala‑проектов из любой IDE или системы сборки. Он обеспечивает быстрый отклик и кросс‑платформенную интеграцию, упрощая процесс разработки как на фронтенде, так и на бэкенде. Проект открытый, ориентирован на DevTools и поддерживает широкий спектр инструментов Scala‑экосистемы.
+
+### 中文
+
+scalacenter/bloop：scalacenter/bloop helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** scalacenter/bloop helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+
+**Best use cases**
+
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 939 GitHub stars
+- 216 forks
+- updated 2026-05-08
+- primary language: Scala
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 58/100 |
+| stars | 63/100 |
+| topics | 88/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/scalacenter/bloop) · [← Back to Productivity](./README.md)</sub>

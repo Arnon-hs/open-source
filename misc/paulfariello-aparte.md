@@ -1,6 +1,6 @@
 # paulfariello/aparte
 
-[![Stars](https://img.shields.io/github/stars/paulfariello/aparte?style=flat-square&color=yellow)](https://github.com/paulfariello/aparte/stargazers) [![Forks](https://img.shields.io/github/forks/paulfariello/aparte?style=flat-square&color=blue)](https://github.com/paulfariello/aparte/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paulfariello/aparte?style=flat-square&color=yellow)](https://github.com/paulfariello/aparte/stargazers) [![Forks](https://img.shields.io/github/forks/paulfariello/aparte?style=flat-square&color=blue)](https://github.com/paulfariello/aparte/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Simple XMPP console client written in Rust and inspired by Profanity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Overall, Aparte can quickly improve developer communication and automation with 
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 39/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

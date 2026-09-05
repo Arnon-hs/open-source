@@ -1,6 +1,6 @@
 # itsOwen/CyberScraper-2077
 
-[![Stars](https://img.shields.io/github/stars/itsOwen/CyberScraper-2077?style=flat-square&color=yellow)](https://github.com/itsOwen/CyberScraper-2077/stargazers) [![Forks](https://img.shields.io/github/forks/itsOwen/CyberScraper-2077?style=flat-square&color=blue)](https://github.com/itsOwen/CyberScraper-2077/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itsOwen/CyberScraper-2077?style=flat-square&color=yellow)](https://github.com/itsOwen/CyberScraper-2077/stargazers) [![Forks](https://img.shields.io/github/forks/itsOwen/CyberScraper-2077?style=flat-square&color=blue)](https://github.com/itsOwen/CyberScraper-2077/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ itsOwen/CyberScraper-2077 的价值在于它可以帮助开发者快速构建和
 | forks | 64/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 77/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

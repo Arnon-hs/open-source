@@ -1,6 +1,6 @@
 # rami3l/pacaptr
 
-[![Stars](https://img.shields.io/github/stars/rami3l/pacaptr?style=flat-square&color=yellow)](https://github.com/rami3l/pacaptr/stargazers) [![Forks](https://img.shields.io/github/forks/rami3l/pacaptr?style=flat-square&color=blue)](https://github.com/rami3l/pacaptr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rami3l/pacaptr?style=flat-square&color=yellow)](https://github.com/rami3l/pacaptr/stargazers) [![Forks](https://img.shields.io/github/forks/rami3l/pacaptr?style=flat-square&color=blue)](https://github.com/rami3l/pacaptr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Pacman-like syntax wrapper for many package managers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 416 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ rami3l/pacaptr - это утилита, которая помогает инже
 | forks | 26/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

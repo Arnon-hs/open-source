@@ -1,6 +1,6 @@
 # square/leakcanary
 
-[![Stars](https://img.shields.io/github/stars/square/leakcanary?style=flat-square&color=yellow)](https://github.com/square/leakcanary/stargazers) [![Forks](https://img.shields.io/github/forks/square/leakcanary?style=flat-square&color=blue)](https://github.com/square/leakcanary/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/square/leakcanary?style=flat-square&color=yellow)](https://github.com/square/leakcanary/stargazers) [![Forks](https://img.shields.io/github/forks/square/leakcanary?style=flat-square&color=blue)](https://github.com/square/leakcanary/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A memory leak detection library for Android.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Square/LeakCanary 的生产可用性很高，因为它是开源的，具有强�
 | forks | 90/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 87/100 |
-| recency | 60/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 94/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

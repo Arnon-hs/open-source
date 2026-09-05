@@ -1,6 +1,6 @@
 # testomatio/explorbot
 
-[![Stars](https://img.shields.io/github/stars/testomatio/explorbot?style=flat-square&color=yellow)](https://github.com/testomatio/explorbot/stargazers) [![Forks](https://img.shields.io/github/forks/testomatio/explorbot?style=flat-square&color=blue)](https://github.com/testomatio/explorbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/testomatio/explorbot?style=flat-square&color=yellow)](https://github.com/testomatio/explorbot/stargazers) [![Forks](https://img.shields.io/github/forks/testomatio/explorbot?style=flat-square&color=blue)](https://github.com/testomatio/explorbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent for Exploratory Browser Testing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ testomatio/explorbot 是一款基于 AI 的探索式浏览器测试代理，能�
 | forks | 24/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 37/100 |
-| quality | 35/100 |
-| recency | 20/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

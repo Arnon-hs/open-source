@@ -1,6 +1,6 @@
 # weiesky/cc-viewer
 
-[![Stars](https://img.shields.io/github/stars/weiesky/cc-viewer?style=flat-square&color=yellow)](https://github.com/weiesky/cc-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/weiesky/cc-viewer?style=flat-square&color=blue)](https://github.com/weiesky/cc-viewer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weiesky/cc-viewer?style=flat-square&color=yellow)](https://github.com/weiesky/cc-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/weiesky/cc-viewer?style=flat-square&color=blue)](https://github.com/weiesky/cc-viewer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A request monitoring system for Claude Code that captures and visualizes all API requests and responses in real time. Helps developers monitor their Context for reviewing and debugging during Vibe Coding.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ weiesky/cc‑viewer 是一款面向 Claude Code 的请求监控系统，能够�
 | forks | 52/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

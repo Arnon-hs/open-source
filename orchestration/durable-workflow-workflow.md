@@ -1,6 +1,6 @@
 # durable-workflow/workflow
 
-[![Stars](https://img.shields.io/github/stars/durable-workflow/workflow?style=flat-square&color=yellow)](https://github.com/durable-workflow/workflow/stargazers) [![Forks](https://img.shields.io/github/forks/durable-workflow/workflow?style=flat-square&color=blue)](https://github.com/durable-workflow/workflow/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/durable-workflow/workflow?style=flat-square&color=yellow)](https://github.com/durable-workflow/workflow/stargazers) [![Forks](https://img.shields.io/github/forks/durable-workflow/workflow?style=flat-square&color=blue)](https://github.com/durable-workflow/workflow/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Core package for defining and running durable workflows and activities. Supports long-running persistent workflows, retries, queues, parallel execution, workflow monitoring, dedicated storage connections, and orchestration for microservices, data pipelines, sagas, agentic workflows, and other complex business processes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ durable-workflow/workflow 是一个开源项目，用于定义和运行持久化
 | forks | 46/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

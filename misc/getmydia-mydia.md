@@ -1,6 +1,6 @@
 # getmydia/mydia
 
-[![Stars](https://img.shields.io/github/stars/getmydia/mydia?style=flat-square&color=yellow)](https://github.com/getmydia/mydia/stargazers) [![Forks](https://img.shields.io/github/forks/getmydia/mydia?style=flat-square&color=blue)](https://github.com/getmydia/mydia/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getmydia/mydia?style=flat-square&color=yellow)](https://github.com/getmydia/mydia/stargazers) [![Forks](https://img.shields.io/github/forks/getmydia/mydia?style=flat-square&color=blue)](https://github.com/getmydia/mydia/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Your personal media companion, built with Phoenix LiveView
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 731 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Misc
 | forks | 31/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

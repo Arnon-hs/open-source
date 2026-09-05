@@ -1,6 +1,6 @@
 # StewAlexander-com/Linux-Tools
 
-[![Stars](https://img.shields.io/github/stars/StewAlexander-com/Linux-Tools?style=flat-square&color=yellow)](https://github.com/StewAlexander-com/Linux-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/StewAlexander-com/Linux-Tools?style=flat-square&color=blue)](https://github.com/StewAlexander-com/Linux-Tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StewAlexander-com/Linux-Tools?style=flat-square&color=yellow)](https://github.com/StewAlexander-com/Linux-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/StewAlexander-com/Linux-Tools?style=flat-square&color=blue)](https://github.com/StewAlexander-com/Linux-Tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > List of Linux Tools I put on almost every linux / Debian host, with a lazy installer for those who just want all the tools at once
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ StewAlexander-com/Linux-Tools 是一个开源项目，提供了一份 Linux 工�
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

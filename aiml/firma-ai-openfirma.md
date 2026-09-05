@@ -1,6 +1,6 @@
 # Firma-AI/openfirma
 
-[![Stars](https://img.shields.io/github/stars/Firma-AI/openfirma?style=flat-square&color=yellow)](https://github.com/Firma-AI/openfirma/stargazers) [![Forks](https://img.shields.io/github/forks/Firma-AI/openfirma?style=flat-square&color=blue)](https://github.com/Firma-AI/openfirma/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Firma-AI/openfirma?style=flat-square&color=yellow)](https://github.com/Firma-AI/openfirma/stargazers) [![Forks](https://img.shields.io/github/forks/Firma-AI/openfirma?style=flat-square&color=blue)](https://github.com/Firma-AI/openfirma/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime enforcement boundary for AI agents: a local sidecar that gates every outbound call against Cedar policies you own. Deterministic, call-level, no model on the hot path
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ Firma‑AI/openfirma 是一个运行时强制执行边界（runtime enforcement 
 | forks | 15/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

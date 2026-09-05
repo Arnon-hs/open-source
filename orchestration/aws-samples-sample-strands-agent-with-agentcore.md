@@ -1,6 +1,6 @@
 # aws-samples/sample-strands-agent-with-agentcore
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/sample-strands-agent-with-agentcore?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-strands-agent-with-agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-strands-agent-with-agentcore?style=flat-square&color=blue)](https://github.com/aws-samples/sample-strands-agent-with-agentcore/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/sample-strands-agent-with-agentcore?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-strands-agent-with-agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-strands-agent-with-agentcore?style=flat-square&color=blue)](https://github.com/aws-samples/sample-strands-agent-with-agentcore/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Reference architecture for agentic AI chatbots with Strands Agents and Amazon Bedrock AgentCore
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML
+Orchestration · MCP · Automation · AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ Overall, the project is a solid, high‑readiness OSS candidate for teams lookin
 | forks | 43/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

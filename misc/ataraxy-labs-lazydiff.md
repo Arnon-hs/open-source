@@ -1,6 +1,6 @@
 # Ataraxy-Labs/lazydiff
 
-[![Stars](https://img.shields.io/github/stars/Ataraxy-Labs/lazydiff?style=flat-square&color=yellow)](https://github.com/Ataraxy-Labs/lazydiff/stargazers) [![Forks](https://img.shields.io/github/forks/Ataraxy-Labs/lazydiff?style=flat-square&color=blue)](https://github.com/Ataraxy-Labs/lazydiff/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ataraxy-Labs/lazydiff?style=flat-square&color=yellow)](https://github.com/Ataraxy-Labs/lazydiff/stargazers) [![Forks](https://img.shields.io/github/forks/Ataraxy-Labs/lazydiff?style=flat-square&color=blue)](https://github.com/Ataraxy-Labs/lazydiff/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A fast terminal UI for reviewing Git diffs with support for annotations for agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ Ataraxy‑Labs 的 **lazydiff** 是一款基于 Rust 的高速终端 UI，用于
 | forks | 23/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

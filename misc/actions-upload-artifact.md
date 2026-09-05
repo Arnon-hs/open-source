@@ -1,6 +1,6 @@
 # actions/upload-artifact
 
-[![Stars](https://img.shields.io/github/stars/actions/upload-artifact?style=flat-square&color=yellow)](https://github.com/actions/upload-artifact/stargazers) [![Forks](https://img.shields.io/github/forks/actions/upload-artifact?style=flat-square&color=blue)](https://github.com/actions/upload-artifact/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/actions/upload-artifact?style=flat-square&color=yellow)](https://github.com/actions/upload-artifact/stargazers) [![Forks](https://img.shields.io/github/forks/actions/upload-artifact?style=flat-square&color=blue)](https://github.com/actions/upload-artifact/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ actions/upload-artifact：actions/upload-artifact may be useful when its README 
 | forks | 76/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # zhuixin8/meiti-ai
 
-[![Stars](https://img.shields.io/github/stars/zhuixin8/meiti-ai?style=flat-square&color=yellow)](https://github.com/zhuixin8/meiti-ai/stargazers) [![Forks](https://img.shields.io/github/forks/zhuixin8/meiti-ai?style=flat-square&color=blue)](https://github.com/zhuixin8/meiti-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhuixin8/meiti-ai?style=flat-square&color=yellow)](https://github.com/zhuixin8/meiti-ai/stargazers) [![Forks](https://img.shields.io/github/forks/zhuixin8/meiti-ai?style=flat-square&color=blue)](https://github.com/zhuixin8/meiti-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵。完全免费，桌面端+网页端。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ zhuixin8/meiti-ai：zhuixin8/meiti-ai helps automate short-form video production
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 80/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 65/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

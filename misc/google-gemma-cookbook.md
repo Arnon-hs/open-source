@@ -1,6 +1,6 @@
 # google-gemma/cookbook
 
-[![Stars](https://img.shields.io/github/stars/google-gemma/cookbook?style=flat-square&color=yellow)](https://github.com/google-gemma/cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemma/cookbook?style=flat-square&color=blue)](https://github.com/google-gemma/cookbook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-gemma/cookbook?style=flat-square&color=yellow)](https://github.com/google-gemma/cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemma/cookbook?style=flat-square&color=blue)](https://github.com/google-gemma/cookbook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of guides and examples for the Gemma open models from Google.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 637 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ google-gemma/cookbook 具备较高的生产可用性，主要原因包括：
 | forks | 70/100 |
 | stars | 76/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

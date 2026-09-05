@@ -1,6 +1,6 @@
 # KathanModh259/latent-gate
 
-[![Stars](https://img.shields.io/github/stars/KathanModh259/latent-gate?style=flat-square&color=yellow)](https://github.com/KathanModh259/latent-gate/stargazers) [![Forks](https://img.shields.io/github/forks/KathanModh259/latent-gate?style=flat-square&color=blue)](https://github.com/KathanModh259/latent-gate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KathanModh259/latent-gate?style=flat-square&color=yellow)](https://github.com/KathanModh259/latent-gate/stargazers) [![Forks](https://img.shields.io/github/forks/KathanModh259/latent-gate?style=flat-square&color=blue)](https://github.com/KathanModh259/latent-gate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > VL-JEPA inspired pipeline — compress images/text locally via Ollama,  send compact payloads to any LLM API. Cut token costs by ~80%.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,11 +119,11 @@ KathanModh259/latent-gate 的生产可用性为中等（Medium）。它适用于
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

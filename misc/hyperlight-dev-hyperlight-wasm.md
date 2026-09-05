@@ -1,6 +1,6 @@
 # hyperlight-dev/hyperlight-wasm
 
-[![Stars](https://img.shields.io/github/stars/hyperlight-dev/hyperlight-wasm?style=flat-square&color=yellow)](https://github.com/hyperlight-dev/hyperlight-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlight-dev/hyperlight-wasm?style=flat-square&color=blue)](https://github.com/hyperlight-dev/hyperlight-wasm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperlight-dev/hyperlight-wasm?style=flat-square&color=yellow)](https://github.com/hyperlight-dev/hyperlight-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlight-dev/hyperlight-wasm?style=flat-square&color=blue)](https://github.com/hyperlight-dev/hyperlight-wasm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > hyperlight-wasm is a rust library crate that enables Wasm Modules and components to be run inside lightweight Virtual Machine backed Sandbox. It is built on top of Hyperlight.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 706 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ hyperlight-wasm 为 Rust 项目提供了一个轻量级的沙盒虚拟机，能�
 | forks | 39/100 |
 | stars | 61/100 |
 | topics | 13/100 |
-| outlook | 40/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 43/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

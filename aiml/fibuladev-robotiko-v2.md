@@ -1,6 +1,6 @@
 # fibuladev/robotiko-v2
 
-[![Stars](https://img.shields.io/github/stars/fibuladev/robotiko-v2?style=flat-square&color=yellow)](https://github.com/fibuladev/robotiko-v2/stargazers) [![Forks](https://img.shields.io/github/forks/fibuladev/robotiko-v2?style=flat-square&color=blue)](https://github.com/fibuladev/robotiko-v2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fibuladev/robotiko-v2?style=flat-square&color=yellow)](https://github.com/fibuladev/robotiko-v2/stargazers) [![Forks](https://img.shields.io/github/forks/fibuladev/robotiko-v2?style=flat-square&color=blue)](https://github.com/fibuladev/robotiko-v2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A shipped, 10-episode CyberAnatolian sci-fi musical — and the open, git-native pipeline that produced it.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ fibuladev/robotiko-v2：fibuladev/robotiko-v2 helps add AI capability without st
 | forks | 12/100 |
 | stars | 10/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 11/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

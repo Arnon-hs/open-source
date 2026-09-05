@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation · Backend · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ fabriziosalmi/certmate：fabriziosalmi/certmate helps remove repetitive manual o
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

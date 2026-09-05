@@ -1,6 +1,6 @@
 # bitpay/bitcore
 
-[![Stars](https://img.shields.io/github/stars/bitpay/bitcore?style=flat-square&color=yellow)](https://github.com/bitpay/bitcore/stargazers) [![Forks](https://img.shields.io/github/forks/bitpay/bitcore?style=flat-square&color=blue)](https://github.com/bitpay/bitcore/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitpay/bitcore?style=flat-square&color=yellow)](https://github.com/bitpay/bitcore/stargazers) [![Forks](https://img.shields.io/github/forks/bitpay/bitcore?style=flat-square&color=blue)](https://github.com/bitpay/bitcore/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A full stack for bitcoin and blockchain-based applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ bitpay/bitcore 的生产可用性为Medium，适合用于 prototypal 或内部�
 | forks | 83/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

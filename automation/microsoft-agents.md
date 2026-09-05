@@ -1,6 +1,6 @@
 # microsoft/Agents
 
-[![Stars](https://img.shields.io/github/stars/microsoft/Agents?style=flat-square&color=yellow)](https://github.com/microsoft/Agents/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/Agents?style=flat-square&color=blue)](https://github.com/microsoft/Agents/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/Agents?style=flat-square&color=yellow)](https://github.com/microsoft/Agents/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/Agents?style=flat-square&color=blue)](https://github.com/microsoft/Agents/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 893 |
 | 🍴 **Forks** | 291 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ Microsoft 365 Agent SDK（`microsoft/Agents`）提供了一套统一的 API/SDK/
 | forks | 62/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 59/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

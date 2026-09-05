@@ -1,6 +1,6 @@
 # xuliang2024/cutcli-cookbook
 
-[![Stars](https://img.shields.io/github/stars/xuliang2024/cutcli-cookbook?style=flat-square&color=yellow)](https://github.com/xuliang2024/cutcli-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/xuliang2024/cutcli-cookbook?style=flat-square&color=blue)](https://github.com/xuliang2024/cutcli-cookbook/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xuliang2024/cutcli-cookbook?style=flat-square&color=yellow)](https://github.com/xuliang2024/cutcli-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/xuliang2024/cutcli-cookbook?style=flat-square&color=blue)](https://github.com/xuliang2024/cutcli-cookbook/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Cookbook, JSON templates, AI prompts and docs for cutcli — the CapCut / Jianying (剪映) draft CLI. Generate editable video drafts from code, Cursor, Claude Code or any MCP agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ xuliang2024/cutcli-cookbook：xuliang2024/cutcli-cookbook helps automate short-f
 | forks | 26/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 69/100 |
-| recency | 80/100 |
+| outlook | 72/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

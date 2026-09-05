@@ -1,6 +1,6 @@
 # skyming/awesome-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/skyming/awesome-ai-agent?style=flat-square&color=yellow)](https://github.com/skyming/awesome-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/skyming/awesome-ai-agent?style=flat-square&color=blue)](https://github.com/skyming/awesome-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skyming/awesome-ai-agent?style=flat-square&color=yellow)](https://github.com/skyming/awesome-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/skyming/awesome-ai-agent?style=flat-square&color=blue)](https://github.com/skyming/awesome-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent 资源汇总，不限于基础概念、Harness 实践、RAG、测评基准、感知记忆、开源项目推荐、核心论文、开源项目等
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 245 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ skyming/awesome-ai-agent 是一个 AI Agent 资源汇总项目，涵盖了基础
 | forks | 38/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 58/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

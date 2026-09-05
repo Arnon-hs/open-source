@@ -1,6 +1,6 @@
 # harbor-framework/frontier-bench
 
-[![Stars](https://img.shields.io/github/stars/harbor-framework/frontier-bench?style=flat-square&color=yellow)](https://github.com/harbor-framework/frontier-bench/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/frontier-bench?style=flat-square&color=blue)](https://github.com/harbor-framework/frontier-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harbor-framework/frontier-bench?style=flat-square&color=yellow)](https://github.com/harbor-framework/frontier-bench/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/frontier-bench?style=flat-square&color=blue)](https://github.com/harbor-framework/frontier-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Measuring agents' ability to get work done on a computer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Harbor-framework/frontier-bench 的生产可用性为中等（Medium）。它适
 | forks | 63/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 50/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

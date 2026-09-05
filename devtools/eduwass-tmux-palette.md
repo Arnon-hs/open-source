@@ -1,6 +1,6 @@
 # eduwass/tmux-palette
 
-[![Stars](https://img.shields.io/github/stars/eduwass/tmux-palette?style=flat-square&color=yellow)](https://github.com/eduwass/tmux-palette/stargazers) [![Forks](https://img.shields.io/github/forks/eduwass/tmux-palette?style=flat-square&color=blue)](https://github.com/eduwass/tmux-palette/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eduwass/tmux-palette?style=flat-square&color=yellow)](https://github.com/eduwass/tmux-palette/stargazers) [![Forks](https://img.shields.io/github/forks/eduwass/tmux-palette?style=flat-square&color=blue)](https://github.com/eduwass/tmux-palette/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Raycast-style command palette for tmux — fast, scriptable, easy to extend
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ eduwass/tmux‑palette 为 tmux 提供了类似 Raycast 的命令面板，能够
 | forks | 21/100 |
 | stars | 49/100 |
 | topics | 38/100 |
-| outlook | 43/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 47/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

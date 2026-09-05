@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Julia |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ JuliaDynamics/Agents.jl：JuliaDynamics/Agents.jl helps add AI capability withou
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

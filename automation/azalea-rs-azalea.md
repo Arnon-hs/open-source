@@ -1,6 +1,6 @@
 # azalea-rs/azalea
 
-[![Stars](https://img.shields.io/github/stars/azalea-rs/azalea?style=flat-square&color=yellow)](https://github.com/azalea-rs/azalea/stargazers) [![Forks](https://img.shields.io/github/forks/azalea-rs/azalea?style=flat-square&color=blue)](https://github.com/azalea-rs/azalea/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/azalea-rs/azalea?style=flat-square&color=yellow)](https://github.com/azalea-rs/azalea/stargazers) [![Forks](https://img.shields.io/github/forks/azalea-rs/azalea?style=flat-square&color=blue)](https://github.com/azalea-rs/azalea/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of Rust crates for making Minecraft bots, clients, and tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 723 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ azalea‑rs/azalea 是一套基于 Rust 的库集合，旨在帮助开发者快�
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

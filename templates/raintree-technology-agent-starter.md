@@ -1,6 +1,6 @@
 # raintree-technology/agent-starter
 
-[![Stars](https://img.shields.io/github/stars/raintree-technology/agent-starter?style=flat-square&color=yellow)](https://github.com/raintree-technology/agent-starter/stargazers) [![Forks](https://img.shields.io/github/forks/raintree-technology/agent-starter?style=flat-square&color=blue)](https://github.com/raintree-technology/agent-starter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raintree-technology/agent-starter?style=flat-square&color=yellow)](https://github.com/raintree-technology/agent-starter/stargazers) [![Forks](https://img.shields.io/github/forks/raintree-technology/agent-starter?style=flat-square&color=blue)](https://github.com/raintree-technology/agent-starter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > One manifest for agent skills, MCP servers, and stack profiles across Claude Code, Codex, and Cursor.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ raintree-technology/agent-starter 的价值在于，它可以帮助用户：
 | forks | 25/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

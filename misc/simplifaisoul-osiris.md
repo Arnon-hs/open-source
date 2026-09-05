@@ -1,6 +1,6 @@
 # simplifaisoul/osiris
 
-[![Stars](https://img.shields.io/github/stars/simplifaisoul/osiris?style=flat-square&color=yellow)](https://github.com/simplifaisoul/osiris/stargazers) [![Forks](https://img.shields.io/github/forks/simplifaisoul/osiris?style=flat-square&color=blue)](https://github.com/simplifaisoul/osiris/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simplifaisoul/osiris?style=flat-square&color=yellow)](https://github.com/simplifaisoul/osiris/stargazers) [![Forks](https://img.shields.io/github/forks/simplifaisoul/osiris?style=flat-square&color=blue)](https://github.com/simplifaisoul/osiris/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded        2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ simplifaisoul/osiris 帮助开发者在不从头开始建立模型堆栈的情�
 | forks | 79/100 |
 | stars | 82/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

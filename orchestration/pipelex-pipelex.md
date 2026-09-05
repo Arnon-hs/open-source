@@ -1,6 +1,6 @@
 # Pipelex/pipelex
 
-[![Stars](https://img.shields.io/github/stars/Pipelex/pipelex?style=flat-square&color=yellow)](https://github.com/Pipelex/pipelex/stargazers) [![Forks](https://img.shields.io/github/forks/Pipelex/pipelex?style=flat-square&color=blue)](https://github.com/Pipelex/pipelex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pipelex/pipelex?style=flat-square&color=yellow)](https://github.com/Pipelex/pipelex/stargazers) [![Forks](https://img.shields.io/github/forks/Pipelex/pipelex?style=flat-square&color=blue)](https://github.com/Pipelex/pipelex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative language for composable Al workflows. Devtool for agents and mere humans.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 693 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ Pipelex/pipelex 的生产可用性非常高。该项目最近有活跃的开发�
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

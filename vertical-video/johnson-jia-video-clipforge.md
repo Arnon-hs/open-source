@@ -1,6 +1,6 @@
 # Johnson-Jia/video-clipforge
 
-[![Stars](https://img.shields.io/github/stars/Johnson-Jia/video-clipforge?style=flat-square&color=yellow)](https://github.com/Johnson-Jia/video-clipforge/stargazers) [![Forks](https://img.shields.io/github/forks/Johnson-Jia/video-clipforge?style=flat-square&color=blue)](https://github.com/Johnson-Jia/video-clipforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Johnson-Jia/video-clipforge?style=flat-square&color=yellow)](https://github.com/Johnson-Jia/video-clipforge/stargazers) [![Forks](https://img.shields.io/github/forks/Johnson-Jia/video-clipforge?style=flat-square&color=blue)](https://github.com/Johnson-Jia/video-clipforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AI 驱动的短视频制作系统。给它一个想法，它帮你写稿、配音、做画面、出成片。9 阶段 DAG 管线 + 自进化评分，支持每日自动执行。基于 Claude Code + HyperFrames。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Vertical Video · Content Creation · Automation
+Vertical Video · Content Creation · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Johnson-Jia/video-clipforge：Johnson-Jia/video-clipforge helps automate short-f
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

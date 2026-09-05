@@ -1,6 +1,6 @@
 # microsoft/testfx
 
-[![Stars](https://img.shields.io/github/stars/microsoft/testfx?style=flat-square&color=yellow)](https://github.com/microsoft/testfx/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/testfx?style=flat-square&color=blue)](https://github.com/microsoft/testfx/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/testfx?style=flat-square&color=yellow)](https://github.com/microsoft/testfx/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/testfx?style=flat-square&color=blue)](https://github.com/microsoft/testfx/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > This repository holds the source code of Microsoft.Testing.Platform (MTP), a lightweight alternative to VSTest, as well as MSTest adapter and framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Microsoft.Testing.Platform（MTP）是一个轻量级的测试运行时，提供
 | forks | 62/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

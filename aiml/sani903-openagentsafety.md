@@ -1,6 +1,6 @@
 # sani903/OpenAgentSafety
 
-[![Stars](https://img.shields.io/github/stars/sani903/OpenAgentSafety?style=flat-square&color=yellow)](https://github.com/sani903/OpenAgentSafety/stargazers) [![Forks](https://img.shields.io/github/forks/sani903/OpenAgentSafety?style=flat-square&color=blue)](https://github.com/sani903/OpenAgentSafety/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sani903/OpenAgentSafety?style=flat-square&color=yellow)](https://github.com/sani903/OpenAgentSafety/stargazers) [![Forks](https://img.shields.io/github/forks/sani903/OpenAgentSafety?style=flat-square&color=blue)](https://github.com/sani903/OpenAgentSafety/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Framework for Evaluating AI Agent Safety in Realistic Environments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ sani903/OpenAgentSafety 是一个用于在真实环境中评估 AI Agent 安全�
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 43/100 |
-| recency | 60/100 |
+| outlook | 60/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 54/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # tangcent/easy-yapi
 
-[![Stars](https://img.shields.io/github/stars/tangcent/easy-yapi?style=flat-square&color=yellow)](https://github.com/tangcent/easy-yapi/stargazers) [![Forks](https://img.shields.io/github/forks/tangcent/easy-yapi?style=flat-square&color=blue)](https://github.com/tangcent/easy-yapi/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tangcent/easy-yapi?style=flat-square&color=yellow)](https://github.com/tangcent/easy-yapi/stargazers) [![Forks](https://img.shields.io/github/forks/tangcent/easy-yapi?style=flat-square&color=blue)](https://github.com/tangcent/easy-yapi/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > IntelliJ plugin that generates API docs from Java/Kotlin projects and syncs them directly to YApi, with built-in request testing   and multi-channel export.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 486 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ tangcent/easy-yapi 是一个 IntelliJ 插件，用于生成 Java 和 Kotlin 项�
 | forks | 55/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # diegosouzapw/OmniGlyph
 
-[![Stars](https://img.shields.io/github/stars/diegosouzapw/OmniGlyph?style=flat-square&color=yellow)](https://github.com/diegosouzapw/OmniGlyph/stargazers) [![Forks](https://img.shields.io/github/forks/diegosouzapw/OmniGlyph?style=flat-square&color=blue)](https://github.com/diegosouzapw/OmniGlyph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diegosouzapw/OmniGlyph?style=flat-square&color=yellow)](https://github.com/diegosouzapw/OmniGlyph/stargazers) [![Forks](https://img.shields.io/github/forks/diegosouzapw/OmniGlyph?style=flat-square&color=blue)](https://github.com/diegosouzapw/OmniGlyph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Cut your Claude bill 59–70% by rendering bulky LLM context as dense PNG pages — 100% read accuracy, exact per-provider billing math (Anthropic/OpenAI/Gemini), fail-closed gates, measured benchmarks. CLI + proxy + Cloudflare Workers. Docs in 42 languages. Part of the OmniRoute family.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML
+Payments · AI/ML · Networking
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ OmniGlyph 的生产可用性非常高，最近有活动，采用率和生态系�
 | forks | 24/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

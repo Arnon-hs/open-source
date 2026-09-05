@@ -1,6 +1,6 @@
 # zcaceres/builtwith-api
 
-[![Stars](https://img.shields.io/github/stars/zcaceres/builtwith-api?style=flat-square&color=yellow)](https://github.com/zcaceres/builtwith-api/stargazers) [![Forks](https://img.shields.io/github/forks/zcaceres/builtwith-api?style=flat-square&color=blue)](https://github.com/zcaceres/builtwith-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zcaceres/builtwith-api?style=flat-square&color=yellow)](https://github.com/zcaceres/builtwith-api/stargazers) [![Forks](https://img.shields.io/github/forks/zcaceres/builtwith-api?style=flat-square&color=blue)](https://github.com/zcaceres/builtwith-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript library, MCP, and agent-friendly CLI for the BuiltWith API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ zcaceres/builtwith-api 的生产可用性很高，主要原因包括：
 | forks | 26/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

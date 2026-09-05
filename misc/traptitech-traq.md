@@ -1,6 +1,6 @@
 # traPtitech/traQ
 
-[![Stars](https://img.shields.io/github/stars/traPtitech/traQ?style=flat-square&color=yellow)](https://github.com/traPtitech/traQ/stargazers) [![Forks](https://img.shields.io/github/forks/traPtitech/traQ?style=flat-square&color=blue)](https://github.com/traPtitech/traQ/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/traPtitech/traQ?style=flat-square&color=yellow)](https://github.com/traPtitech/traQ/stargazers) [![Forks](https://img.shields.io/github/forks/traPtitech/traQ?style=flat-square&color=blue)](https://github.com/traPtitech/traQ/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > traQ - traP Internal Messenger Application Backend
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ traQ（traP Internal Messenger Application Backend）是一个用 Go 编写的�
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 25/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

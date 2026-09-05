@@ -1,6 +1,6 @@
 # sudara/awesome-juce
 
-[![Stars](https://img.shields.io/github/stars/sudara/awesome-juce?style=flat-square&color=yellow)](https://github.com/sudara/awesome-juce/stargazers) [![Forks](https://img.shields.io/github/forks/sudara/awesome-juce?style=flat-square&color=blue)](https://github.com/sudara/awesome-juce/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sudara/awesome-juce?style=flat-square&color=yellow)](https://github.com/sudara/awesome-juce/stargazers) [![Forks](https://img.shields.io/github/forks/sudara/awesome-juce?style=flat-square&color=blue)](https://github.com/sudara/awesome-juce/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of JUCE modules, templates, plugins, oh my!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ sudara/awesome-juce 的生产可用性较高，因为它有以下几点优势：
 | forks | 45/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

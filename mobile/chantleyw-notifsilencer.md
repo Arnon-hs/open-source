@@ -1,6 +1,6 @@
 # chantleyw/NotifSilencer
 
-[![Stars](https://img.shields.io/github/stars/chantleyw/NotifSilencer?style=flat-square&color=yellow)](https://github.com/chantleyw/NotifSilencer/stargazers) [![Forks](https://img.shields.io/github/forks/chantleyw/NotifSilencer?style=flat-square&color=blue)](https://github.com/chantleyw/NotifSilencer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chantleyw/NotifSilencer?style=flat-square&color=yellow)](https://github.com/chantleyw/NotifSilencer/stargazers) [![Forks](https://img.shields.io/github/forks/chantleyw/NotifSilencer?style=flat-square&color=blue)](https://github.com/chantleyw/NotifSilencer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate Android notification silencer. Build precise rules to block virtually any notification you don't want; by app, content, keyword, channel, or custom overrides, while keeping the notifications that matter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ chantleyw/NotifSilencer: . Use it for Mobile.
 
 ### Русский
 
-chantleyw/NotifSilencer: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+chantleyw/NotifSilencer: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ chantleyw/NotifSilencer：。适合用于Mobile。
 | forks | 0/100 |
 | stars | 10/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 34/100 |
-| recency | 80/100 |
+| outlook | 52/100 |
+| quality | 39/100 |
+| recency | 100/100 |
 | adoption | 7/100 |
-| production | 50/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

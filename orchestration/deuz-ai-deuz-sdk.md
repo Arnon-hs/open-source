@@ -1,6 +1,6 @@
 # Deuz-AI/Deuz-SDK
 
-[![Stars](https://img.shields.io/github/stars/Deuz-AI/Deuz-SDK?style=flat-square&color=yellow)](https://github.com/Deuz-AI/Deuz-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/Deuz-AI/Deuz-SDK?style=flat-square&color=blue)](https://github.com/Deuz-AI/Deuz-SDK/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Deuz-AI/Deuz-SDK?style=flat-square&color=yellow)](https://github.com/Deuz-AI/Deuz-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/Deuz-AI/Deuz-SDK?style=flat-square&color=blue)](https://github.com/Deuz-AI/Deuz-SDK/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool calling, human-in-the-loop approval, planning and CodeAct sandboxes. One streaming API for Claude, GPT, Gemini, Grok, Mistral and DeepSeek — Node, Bun, Deno, serverless and edge.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 287 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ De
 | forks | 21/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 68/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

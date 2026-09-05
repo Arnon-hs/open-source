@@ -1,6 +1,6 @@
 # tox-dev/platformdirs
 
-[![Stars](https://img.shields.io/github/stars/tox-dev/platformdirs?style=flat-square&color=yellow)](https://github.com/tox-dev/platformdirs/stargazers) [![Forks](https://img.shields.io/github/forks/tox-dev/platformdirs?style=flat-square&color=blue)](https://github.com/tox-dev/platformdirs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tox-dev/platformdirs?style=flat-square&color=yellow)](https://github.com/tox-dev/platformdirs/stargazers) [![Forks](https://img.shields.io/github/forks/tox-dev/platformdirs?style=flat-square&color=blue)](https://github.com/tox-dev/platformdirs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Python package for determining platform-specific directories (e.g. user data, config, cache, logs). Handles the differences between macOS, Windows, Linux/Unix, and Android so you don't have to.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 966 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ tox-dev/platformdirs 的生产可用性很高。它有活跃的维护者，最�
 | forks | 48/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

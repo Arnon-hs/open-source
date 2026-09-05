@@ -1,6 +1,6 @@
 # openhome-dev/abilities
 
-[![Stars](https://img.shields.io/github/stars/openhome-dev/abilities?style=flat-square&color=yellow)](https://github.com/openhome-dev/abilities/stargazers) [![Forks](https://img.shields.io/github/forks/openhome-dev/abilities?style=flat-square&color=blue)](https://github.com/openhome-dev/abilities/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openhome-dev/abilities?style=flat-square&color=yellow)](https://github.com/openhome-dev/abilities/stargazers) [![Forks](https://img.shields.io/github/forks/openhome-dev/abilities?style=flat-square&color=blue)](https://github.com/openhome-dev/abilities/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source abilities for OpenHome agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 407 |
 | 🍴 **Forks** | 281 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ openhome‑dev/abilities 是一套面向 OpenHome 代理的开源能力库，提
 | forks | 61/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

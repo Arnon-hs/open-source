@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 761 |
 | 💻 **Language** | Vim Script |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ jbranchaud/til：jbranchaud/til helps learn proven implementation patterns from 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

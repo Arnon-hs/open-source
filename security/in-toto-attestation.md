@@ -1,6 +1,6 @@
 # in-toto/attestation
 
-[![Stars](https://img.shields.io/github/stars/in-toto/attestation?style=flat-square&color=yellow)](https://github.com/in-toto/attestation/stargazers) [![Forks](https://img.shields.io/github/forks/in-toto/attestation?style=flat-square&color=blue)](https://github.com/in-toto/attestation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/in-toto/attestation?style=flat-square&color=yellow)](https://github.com/in-toto/attestation/stargazers) [![Forks](https://img.shields.io/github/forks/in-toto/attestation?style=flat-square&color=blue)](https://github.com/in-toto/attestation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > in-toto Attestation Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ in-toto/attestation 的生产可用性为中等，适用于以下场景：
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 51/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

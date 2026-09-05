@@ -1,6 +1,6 @@
 # modoojunko/awesome-novel-agent
 
-[![Stars](https://img.shields.io/github/stars/modoojunko/awesome-novel-agent?style=flat-square&color=yellow)](https://github.com/modoojunko/awesome-novel-agent/stargazers) [![Forks](https://img.shields.io/github/forks/modoojunko/awesome-novel-agent?style=flat-square&color=blue)](https://github.com/modoojunko/awesome-novel-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modoojunko/awesome-novel-agent?style=flat-square&color=yellow)](https://github.com/modoojunko/awesome-novel-agent/stargazers) [![Forks](https://img.shields.io/github/forks/modoojunko/awesome-novel-agent?style=flat-square&color=blue)](https://github.com/modoojunko/awesome-novel-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 让 AI agent成为你的小说创作搭档。从世界观搭建到角色塑造，从章节规划到正文写作，一步步陪你完成整部小说。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 553 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ modoojunko/awesome-novel-agent 是一个开源项目，旨在让 AI 代理成为
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

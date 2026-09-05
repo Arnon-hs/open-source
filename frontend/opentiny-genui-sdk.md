@@ -1,6 +1,6 @@
 # opentiny/genui-sdk
 
-[![Stars](https://img.shields.io/github/stars/opentiny/genui-sdk?style=flat-square&color=yellow)](https://github.com/opentiny/genui-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/opentiny/genui-sdk?style=flat-square&color=blue)](https://github.com/opentiny/genui-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opentiny/genui-sdk?style=flat-square&color=yellow)](https://github.com/opentiny/genui-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/opentiny/genui-sdk?style=flat-square&color=blue)](https://github.com/opentiny/genui-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A Generative UI SDK for Vue, Angular
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ If those checks pass, genui-sdk is suitable for internal tools, prototypes, or e
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 38/100 |
-| outlook | 52/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

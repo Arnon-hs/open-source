@@ -1,6 +1,6 @@
 # bpmn-io/diagram-js
 
-[![Stars](https://img.shields.io/github/stars/bpmn-io/diagram-js?style=flat-square&color=yellow)](https://github.com/bpmn-io/diagram-js/stargazers) [![Forks](https://img.shields.io/github/forks/bpmn-io/diagram-js?style=flat-square&color=blue)](https://github.com/bpmn-io/diagram-js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bpmn-io/diagram-js?style=flat-square&color=yellow)](https://github.com/bpmn-io/diagram-js/stargazers) [![Forks](https://img.shields.io/github/forks/bpmn-io/diagram-js?style=flat-square&color=blue)](https://github.com/bpmn-io/diagram-js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A toolbox for displaying and modifying diagrams on the web.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 445 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ bpmn-io/diagram-js 的生产可用性为中等（Medium）。它适用于原型�
 | forks | 66/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

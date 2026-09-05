@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Data · DevOps/Infra
+Automation · AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ mlrun/mlrun：mlrun/mlrun helps remove repetitive manual operations from a workf
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

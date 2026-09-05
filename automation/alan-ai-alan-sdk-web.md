@@ -1,6 +1,6 @@
 # alan-ai/alan-sdk-web
 
-[![Stars](https://img.shields.io/github/stars/alan-ai/alan-sdk-web?style=flat-square&color=yellow)](https://github.com/alan-ai/alan-sdk-web/stargazers) [![Forks](https://img.shields.io/github/forks/alan-ai/alan-sdk-web?style=flat-square&color=blue)](https://github.com/alan-ai/alan-sdk-web/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alan-ai/alan-sdk-web?style=flat-square&color=yellow)](https://github.com/alan-ai/alan-sdk-web/stargazers) [![Forks](https://img.shields.io/github/forks/alan-ai/alan-sdk-web?style=flat-square&color=blue)](https://github.com/alan-ai/alan-sdk-web/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The Self-Coding System for Your App — Alan AI SDK for Web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · Communication · Productivity · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ Alan AI SDK for Web（alan‑ai/alan-sdk-web）是一套自编码系统，帮助
 | forks | 51/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 58/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

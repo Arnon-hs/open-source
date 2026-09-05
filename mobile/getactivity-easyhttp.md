@@ -1,6 +1,6 @@
 # getActivity/EasyHttp
 
-[![Stars](https://img.shields.io/github/stars/getActivity/EasyHttp?style=flat-square&color=yellow)](https://github.com/getActivity/EasyHttp/stargazers) [![Forks](https://img.shields.io/github/forks/getActivity/EasyHttp?style=flat-square&color=blue)](https://github.com/getActivity/EasyHttp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getActivity/EasyHttp?style=flat-square&color=yellow)](https://github.com/getActivity/EasyHttp/stargazers) [![Forks](https://img.shields.io/github/forks/getActivity/EasyHttp?style=flat-square&color=blue)](https://github.com/getActivity/EasyHttp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Android 网络请求框架，简单易用，so easy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ getActivity/EasyHttp 的生产可用性较高，原因如下：
 | forks | 58/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

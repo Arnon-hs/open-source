@@ -1,6 +1,6 @@
 # masaic-ai-platform/AgC
 
-[![Stars](https://img.shields.io/github/stars/masaic-ai-platform/AgC?style=flat-square&color=yellow)](https://github.com/masaic-ai-platform/AgC/stargazers) [![Forks](https://img.shields.io/github/forks/masaic-ai-platform/AgC?style=flat-square&color=blue)](https://github.com/masaic-ai-platform/AgC/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/masaic-ai-platform/AgC?style=flat-square&color=yellow)](https://github.com/masaic-ai-platform/AgC/stargazers) [![Forks](https://img.shields.io/github/forks/masaic-ai-platform/AgC?style=flat-square&color=blue)](https://github.com/masaic-ai-platform/AgC/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AgC is the open-core platform that powers Open Agentic Compute — a new compute substrate purpose-built for deploying, running, and orchestrating AI agents at scale.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ AgC 的生产可用性为中等。它适合用于快速原型开发和内部工�
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

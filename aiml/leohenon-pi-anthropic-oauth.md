@@ -1,6 +1,6 @@
 # leohenon/pi-anthropic-oauth
 
-[![Stars](https://img.shields.io/github/stars/leohenon/pi-anthropic-oauth?style=flat-square&color=yellow)](https://github.com/leohenon/pi-anthropic-oauth/stargazers) [![Forks](https://img.shields.io/github/forks/leohenon/pi-anthropic-oauth?style=flat-square&color=blue)](https://github.com/leohenon/pi-anthropic-oauth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leohenon/pi-anthropic-oauth?style=flat-square&color=yellow)](https://github.com/leohenon/pi-anthropic-oauth/stargazers) [![Forks](https://img.shields.io/github/forks/leohenon/pi-anthropic-oauth?style=flat-square&color=blue)](https://github.com/leohenon/pi-anthropic-oauth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Pi extension for Anthropic OAuth with Claude Pro/Max.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -120,15 +120,15 @@ In short, `leohenon/pi-anthropic-oauth` is a solid starting point for internal A
 | forks | 28/100 |
 | stars | 37/100 |
 | topics | 50/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 50/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

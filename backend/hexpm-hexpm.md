@@ -1,6 +1,6 @@
 # hexpm/hexpm
 
-[![Stars](https://img.shields.io/github/stars/hexpm/hexpm?style=flat-square&color=yellow)](https://github.com/hexpm/hexpm/stargazers) [![Forks](https://img.shields.io/github/forks/hexpm/hexpm?style=flat-square&color=blue)](https://github.com/hexpm/hexpm/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexpm/hexpm?style=flat-square&color=yellow)](https://github.com/hexpm/hexpm/stargazers) [![Forks](https://img.shields.io/github/forks/hexpm/hexpm?style=flat-square&color=blue)](https://github.com/hexpm/hexpm/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > API server and website for Hex
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ hexpm/hexpm 是 Hex 包管理平台的 API 服务器与官方站点实现，基�
 | forks | 62/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 55/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

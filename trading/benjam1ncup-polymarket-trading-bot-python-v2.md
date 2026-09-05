@@ -1,6 +1,6 @@
 # Benjam1nCup/Polymarket-trading-bot-python-V2
 
-[![Stars](https://img.shields.io/github/stars/Benjam1nCup/Polymarket-trading-bot-python-V2?style=flat-square&color=yellow)](https://github.com/Benjam1nCup/Polymarket-trading-bot-python-V2/stargazers) [![Forks](https://img.shields.io/github/forks/Benjam1nCup/Polymarket-trading-bot-python-V2?style=flat-square&color=blue)](https://github.com/Benjam1nCup/Polymarket-trading-bot-python-V2/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Benjam1nCup/Polymarket-trading-bot-python-V2?style=flat-square&color=yellow)](https://github.com/Benjam1nCup/Polymarket-trading-bot-python-V2/stargazers) [![Forks](https://img.shields.io/github/forks/Benjam1nCup/Polymarket-trading-bot-python-V2?style=flat-square&color=blue)](https://github.com/Benjam1nCup/Polymarket-trading-bot-python-V2/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ Benjam1nCup/Polymarket‑trading‑bot‑python‑V2 是一个开源的 Polymark
 | forks | 40/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

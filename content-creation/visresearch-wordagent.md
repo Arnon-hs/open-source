@@ -1,6 +1,6 @@
 # visresearch/WordAgent
 
-[![Stars](https://img.shields.io/github/stars/visresearch/WordAgent?style=flat-square&color=yellow)](https://github.com/visresearch/WordAgent/stargazers) [![Forks](https://img.shields.io/github/forks/visresearch/WordAgent?style=flat-square&color=blue)](https://github.com/visresearch/WordAgent/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/visresearch/WordAgent?style=flat-square&color=yellow)](https://github.com/visresearch/WordAgent/stargazers) [![Forks](https://img.shields.io/github/forks/visresearch/WordAgent?style=flat-square&color=blue)](https://github.com/visresearch/WordAgent/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent-powered writing assistance system (Copilot style) that enables AI-assisted content creation via WPS and Microsoft Word add-ins. 基于AI智能体的写作辅助系统，通过WPS、Microsoft Word加载项，实现AI辅助的文字创作
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ visresearch/WordAgent 的生产可用性为中等（Medium）。它适合用于�
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

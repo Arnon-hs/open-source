@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Trading · Data
+Trading · Communication · Data
 
 ## 📝 Summary
 
 ### English
 
-AION-Analytics-India/aion-lithuanian-market-calendar: . Use it for Trading, Data. 
+AION-Analytics-India/aion-lithuanian-market-calendar: . Use it for Trading, Communication, Data. 
 
 ### Русский
 
-AION-Analytics-India/aion-lithuanian-market-calendar: open-source проект в категориях Trading, Data. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AION-Analytics-India/aion-lithuanian-market-calendar: open-source проект в категориях Trading, Communication, Data. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-AION-Analytics-India/aion-lithuanian-market-calendar：。适合用于Trading、Data。
+AION-Analytics-India/aion-lithuanian-market-calendar：。适合用于Trading、Communication、Data。
 
 ## 🧭 Practical evaluation
 
@@ -70,7 +70,7 @@ AION-Analytics-India/aion-lithuanian-market-calendar：。适合用于Trading、
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

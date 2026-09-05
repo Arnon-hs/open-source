@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | gguf |
 | 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2025-07-29 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics

@@ -1,6 +1,6 @@
 # MCPBlender/ableton-mcp
 
-[![Stars](https://img.shields.io/github/stars/MCPBlender/ableton-mcp?style=flat-square&color=yellow)](https://github.com/MCPBlender/ableton-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MCPBlender/ableton-mcp?style=flat-square&color=blue)](https://github.com/MCPBlender/ableton-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MCPBlender/ableton-mcp?style=flat-square&color=yellow)](https://github.com/MCPBlender/ableton-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MCPBlender/ableton-mcp?style=flat-square&color=blue)](https://github.com/MCPBlender/ableton-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 390 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ MCPBlender/Ableton-MCP 的生产可用性较高，原因包括：
 | forks | 65/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 77/100 |
-| recency | 60/100 |
+| outlook | 81/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 70/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

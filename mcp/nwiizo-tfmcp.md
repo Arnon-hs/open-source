@@ -1,6 +1,6 @@
 # nwiizo/tfmcp
 
-[![Stars](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&color=yellow)](https://github.com/nwiizo/tfmcp/stargazers) [![Forks](https://img.shields.io/github/forks/nwiizo/tfmcp?style=flat-square&color=blue)](https://github.com/nwiizo/tfmcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&color=yellow)](https://github.com/nwiizo/tfmcp/stargazers) [![Forks](https://img.shields.io/github/forks/nwiizo/tfmcp?style=flat-square&color=blue)](https://github.com/nwiizo/tfmcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🌍 Terraform Model Context Protocol (MCP) Tool - An experimental CLI tool that enables AI assistants to manage and operate Terraform environments. Supports reading Terraform configurations, analyzing plans, applying configurations, and managing state with Claude Desktop integration. ⚡️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevOps/Infra
+MCP · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ nwiizo/tfmcp 的生产可用性为中等，适合用于原型或内部工作流�
 | forks | 37/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

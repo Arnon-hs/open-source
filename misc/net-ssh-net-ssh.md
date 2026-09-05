@@ -1,6 +1,6 @@
 # net-ssh/net-ssh
 
-[![Stars](https://img.shields.io/github/stars/net-ssh/net-ssh?style=flat-square&color=yellow)](https://github.com/net-ssh/net-ssh/stargazers) [![Forks](https://img.shields.io/github/forks/net-ssh/net-ssh?style=flat-square&color=blue)](https://github.com/net-ssh/net-ssh/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/net-ssh/net-ssh?style=flat-square&color=yellow)](https://github.com/net-ssh/net-ssh/stargazers) [![Forks](https://img.shields.io/github/forks/net-ssh/net-ssh?style=flat-square&color=blue)](https://github.com/net-ssh/net-ssh/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Ruby implementation of an SSH (protocol 2) client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 479 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ net-ssh/net-ssh 的生产可用性为中等（Medium），它适合用于原型�
 | forks | 67/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 59/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

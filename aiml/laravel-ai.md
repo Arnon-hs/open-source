@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -35,17 +35,15 @@ Laravel AI — это открытый SDK для Laravel, который о
 
 ### 中文
 
-laravel/ai：laravel/ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+laravel/ai：laravel/ai may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** laravel/ai helps add AI capability without starting from a blank model stack.
+**Value:** laravel/ai may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,17 +62,18 @@ laravel/ai：laravel/ai helps add AI capability without starting from a blank mo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 47/100 |
-| adoption | 62/100 |
-| stars | 63/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 0/100 |
+| outlook | 47/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

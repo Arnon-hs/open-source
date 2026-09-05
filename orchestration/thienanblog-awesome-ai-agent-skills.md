@@ -1,6 +1,6 @@
 # thienanblog/awesome-ai-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/thienanblog/awesome-ai-agent-skills?style=flat-square&color=yellow)](https://github.com/thienanblog/awesome-ai-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/thienanblog/awesome-ai-agent-skills?style=flat-square&color=blue)](https://github.com/thienanblog/awesome-ai-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thienanblog/awesome-ai-agent-skills?style=flat-square&color=yellow)](https://github.com/thienanblog/awesome-ai-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/thienanblog/awesome-ai-agent-skills?style=flat-square&color=blue)](https://github.com/thienanblog/awesome-ai-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of essential skills, tools, and resources for building and enhancing advanced AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ thienanblog/awesome‑ai‑agent‑skills 汇聚了构建高级 AI 代理所需�
 | forks | 31/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 36/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 39/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

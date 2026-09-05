@@ -1,6 +1,6 @@
 # cellajs/cella
 
-[![Stars](https://img.shields.io/github/stars/cellajs/cella?style=flat-square&color=yellow)](https://github.com/cellajs/cella/stargazers) [![Forks](https://img.shields.io/github/forks/cellajs/cella?style=flat-square&color=blue)](https://github.com/cellajs/cella/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cellajs/cella?style=flat-square&color=yellow)](https://github.com/cellajs/cella/stargazers) [![Forks](https://img.shields.io/github/forks/cellajs/cella?style=flat-square&color=blue)](https://github.com/cellajs/cella/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Template to build modern web apps with a classic REST API. Ideal if you need offline & real-time features on day one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Frontend · Database
+Templates · Frontend · Backend · Database
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ cellajs/cella 的生产可用性非常高，理由如下：
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

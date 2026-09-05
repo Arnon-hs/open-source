@@ -1,6 +1,6 @@
 # llm4s/llm4s
 
-[![Stars](https://img.shields.io/github/stars/llm4s/llm4s?style=flat-square&color=yellow)](https://github.com/llm4s/llm4s/stargazers) [![Forks](https://img.shields.io/github/forks/llm4s/llm4s?style=flat-square&color=blue)](https://github.com/llm4s/llm4s/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm4s/llm4s?style=flat-square&color=yellow)](https://github.com/llm4s/llm4s/stargazers) [![Forks](https://img.shields.io/github/forks/llm4s/llm4s?style=flat-square&color=blue)](https://github.com/llm4s/llm4s/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic  and LLM Programming in Scala
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 249 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ llm4s 是一个基于 Scala 的开源框架，提供 Agentic 与 LLM 编程能�
 | forks | 51/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

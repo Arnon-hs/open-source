@@ -1,6 +1,6 @@
 # thunlp/ProactiveAgent
 
-[![Stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=flat-square&color=yellow)](https://github.com/thunlp/ProactiveAgent/stargazers) [![Forks](https://img.shields.io/github/forks/thunlp/ProactiveAgent?style=flat-square&color=blue)](https://github.com/thunlp/ProactiveAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=flat-square&color=yellow)](https://github.com/thunlp/ProactiveAgent/stargazers) [![Forks](https://img.shields.io/github/forks/thunlp/ProactiveAgent?style=flat-square&color=blue)](https://github.com/thunlp/ProactiveAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A LLM-based Agent that predict its tasks proactively.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 601 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ thunlp/ProactiveAgent 是一个基于大语言模型（LLM）的智能体，能�
 | forks | 44/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 45/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

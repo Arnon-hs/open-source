@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Awk |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ x-cmd/x-cmd：x-cmd/x-cmd helps add AI capability without starting from a blank 
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # menachem-dadon/SmartiAI-Agent-for-Windows
 
-[![Stars](https://img.shields.io/github/stars/menachem-dadon/SmartiAI-Agent-for-Windows?style=flat-square&color=yellow)](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows/stargazers) [![Forks](https://img.shields.io/github/forks/menachem-dadon/SmartiAI-Agent-for-Windows?style=flat-square&color=blue)](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/menachem-dadon/SmartiAI-Agent-for-Windows?style=flat-square&color=yellow)](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows/stargazers) [![Forks](https://img.shields.io/github/forks/menachem-dadon/SmartiAI-Agent-for-Windows?style=flat-square&color=blue)](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, blazing-fast AI agent for Windows. Automate your OS via CLI control, built-in tools, MCP tools, custom Python scripts, and expandable skills. Fully autonomous.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ SmartiAI‑Agent‑for‑Windows 是一款轻量级、极致快速的 Windows AI
 | forks | 15/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

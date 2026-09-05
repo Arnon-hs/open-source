@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · MCP · AI/ML · Backend · Data
+Trading · MCP · AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 

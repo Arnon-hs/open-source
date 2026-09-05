@@ -1,6 +1,6 @@
 # fr0ster/mcp-abap-adt
 
-[![Stars](https://img.shields.io/github/stars/fr0ster/mcp-abap-adt?style=flat-square&color=yellow)](https://github.com/fr0ster/mcp-abap-adt/stargazers) [![Forks](https://img.shields.io/github/forks/fr0ster/mcp-abap-adt?style=flat-square&color=blue)](https://github.com/fr0ster/mcp-abap-adt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fr0ster/mcp-abap-adt?style=flat-square&color=yellow)](https://github.com/fr0ster/mcp-abap-adt/stargazers) [![Forks](https://img.shields.io/github/forks/fr0ster/mcp-abap-adt?style=flat-square&color=blue)](https://github.com/fr0ster/mcp-abap-adt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for SAP BTP ABAP Cloud and On-Premise ECC/S/4HANA ABAP ADT with full CRUD, JWT/XSUAA, and service-key auth.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ fr0ster/mcp-abap-adt 是一个基于 Model‑Context‑Protocol (MCP) 的服务�
 | forks | 28/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 47/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

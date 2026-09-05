@@ -1,6 +1,6 @@
 # TheGreenCedar/codex-autoresearch
 
-[![Stars](https://img.shields.io/github/stars/TheGreenCedar/codex-autoresearch?style=flat-square&color=yellow)](https://github.com/TheGreenCedar/codex-autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/TheGreenCedar/codex-autoresearch?style=flat-square&color=blue)](https://github.com/TheGreenCedar/codex-autoresearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheGreenCedar/codex-autoresearch?style=flat-square&color=yellow)](https://github.com/TheGreenCedar/codex-autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/TheGreenCedar/codex-autoresearch?style=flat-square&color=blue)](https://github.com/TheGreenCedar/codex-autoresearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A codex plugin for running optimization loops inside a codebase. It is useful when you have a measurable target and many possible changes to try: test runtime, build speed, bundle size, model loss, Lighthouse scores, memory use, query latency, or any other metric you can print from a script.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 824 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ TheGreenCedar/codex‑autoresearch 是一个 Codex 插件，能够在代码库�
 | forks | 44/100 |
 | stars | 62/100 |
 | topics | 75/100 |
-| outlook | 57/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

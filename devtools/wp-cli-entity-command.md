@@ -1,6 +1,6 @@
 # wp-cli/entity-command
 
-[![Stars](https://img.shields.io/github/stars/wp-cli/entity-command?style=flat-square&color=yellow)](https://github.com/wp-cli/entity-command/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/entity-command?style=flat-square&color=blue)](https://github.com/wp-cli/entity-command/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wp-cli/entity-command?style=flat-square&color=yellow)](https://github.com/wp-cli/entity-command/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/entity-command?style=flat-square&color=blue)](https://github.com/wp-cli/entity-command/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Manage WordPress comments, menus, options, posts, sites, terms, and users.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ wp‑cli/entity‑command 是一套基于 WP‑CLI 的实体管理扩展，能�
 | forks | 49/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 50/100 |
-| quality | 55/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

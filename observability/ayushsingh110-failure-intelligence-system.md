@@ -1,6 +1,6 @@
 # AyushSingh110/Failure_Intelligence_System
 
-[![Stars](https://img.shields.io/github/stars/AyushSingh110/Failure_Intelligence_System?style=flat-square&color=yellow)](https://github.com/AyushSingh110/Failure_Intelligence_System/stargazers) [![Forks](https://img.shields.io/github/forks/AyushSingh110/Failure_Intelligence_System?style=flat-square&color=blue)](https://github.com/AyushSingh110/Failure_Intelligence_System/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AyushSingh110/Failure_Intelligence_System?style=flat-square&color=yellow)](https://github.com/AyushSingh110/Failure_Intelligence_System/stargazers) [![Forks](https://img.shields.io/github/forks/AyushSingh110/Failure_Intelligence_System?style=flat-square&color=blue)](https://github.com/AyushSingh110/Failure_Intelligence_System/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > An AI observability system that watches how models behave, detects when they fail, and explains why it happened. It tracks uncertainty and inconsistencies, groups similar mistakes, and turns them into preventive “auto-vaccines” to reduce overconfident errors and make AI systems more reliable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 35/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ AyushSingh110/Failure_Intelligence_System：AyushSingh110/Failure_Intelligence_S
 | forks | 0/100 |
 | stars | 15/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 35/100 |
-| recency | 80/100 |
+| outlook | 39/100 |
+| quality | 30/100 |
+| recency | 60/100 |
 | adoption | 11/100 |
-| production | 50/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

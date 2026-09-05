@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -80,6 +80,7 @@ ShaftHQ/SHAFT_ENGINE：ShaftHQ/SHAFT_ENGINE helps remove repetitive manual opera
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

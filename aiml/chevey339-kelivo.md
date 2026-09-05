@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Mobile
+AI/ML · Communication · Mobile
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Chevey339/kelivo：Chevey339/kelivo helps add AI capability without starting fro
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

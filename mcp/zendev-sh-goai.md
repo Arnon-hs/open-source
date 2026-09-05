@@ -1,6 +1,6 @@
 # zendev-sh/goai
 
-[![Stars](https://img.shields.io/github/stars/zendev-sh/goai?style=flat-square&color=yellow)](https://github.com/zendev-sh/goai/stargazers) [![Forks](https://img.shields.io/github/forks/zendev-sh/goai?style=flat-square&color=blue)](https://github.com/zendev-sh/goai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zendev-sh/goai?style=flat-square&color=yellow)](https://github.com/zendev-sh/goai/stargazers) [![Forks](https://img.shields.io/github/forks/zendev-sh/goai?style=flat-square&color=blue)](https://github.com/zendev-sh/goai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Go AI SDK, the Go way.  One unified API across 21+ providers. Streaming, structured output, MCP support, stdlib only. Go AI SDK for AI applications inspired by Vercel AI SDK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Cloud & Storage · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ zendev-sh/goai 的价值在于，它帮助连接 AI 辅助工具与真实数据�
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

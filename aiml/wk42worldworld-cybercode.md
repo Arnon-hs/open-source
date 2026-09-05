@@ -1,6 +1,6 @@
 # wk42worldworld/cybercode
 
-[![Stars](https://img.shields.io/github/stars/wk42worldworld/cybercode?style=flat-square&color=yellow)](https://github.com/wk42worldworld/cybercode/stargazers) [![Forks](https://img.shields.io/github/forks/wk42worldworld/cybercode?style=flat-square&color=blue)](https://github.com/wk42worldworld/cybercode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wk42worldworld/cybercode?style=flat-square&color=yellow)](https://github.com/wk42worldworld/cybercode/stargazers) [![Forks](https://img.shields.io/github/forks/wk42worldworld/cybercode?style=flat-square&color=blue)](https://github.com/wk42worldworld/cybercode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 整合 Claude Code 编程能力与 Hermes Agent 自进化能力的智能体 / An AI agent combining Claude Code coding capabilities with Hermes Agent self-evolution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ wk42worldworld/cybercode 是一个将 Claude Code 的强大代码生成能力�
 | forks | 19/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 42/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

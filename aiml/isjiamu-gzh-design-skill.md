@@ -1,6 +1,6 @@
 # isjiamu/gzh-design-skill
 
-[![Stars](https://img.shields.io/github/stars/isjiamu/gzh-design-skill?style=flat-square&color=yellow)](https://github.com/isjiamu/gzh-design-skill/stargazers) [![Forks](https://img.shields.io/github/forks/isjiamu/gzh-design-skill?style=flat-square&color=blue)](https://github.com/isjiamu/gzh-design-skill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isjiamu/gzh-design-skill?style=flat-square&color=yellow)](https://github.com/isjiamu/gzh-design-skill/stargazers) [![Forks](https://img.shields.io/github/forks/isjiamu/gzh-design-skill?style=flat-square&color=blue)](https://github.com/isjiamu/gzh-design-skill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML · Documents · Design
 
 ## 📝 Summary
 
@@ -92,15 +92,15 @@ isjiamu/gzh-design-skill 是一个开源项目，能够将 Markdown 一键转换
 | forks | 55/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # afritz1/OpenTESArena
 
-[![Stars](https://img.shields.io/github/stars/afritz1/OpenTESArena?style=flat-square&color=yellow)](https://github.com/afritz1/OpenTESArena/stargazers) [![Forks](https://img.shields.io/github/forks/afritz1/OpenTESArena?style=flat-square&color=blue)](https://github.com/afritz1/OpenTESArena/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/afritz1/OpenTESArena?style=flat-square&color=yellow)](https://github.com/afritz1/OpenTESArena/stargazers) [![Forks](https://img.shields.io/github/forks/afritz1/OpenTESArena?style=flat-square&color=blue)](https://github.com/afritz1/OpenTESArena/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source re-implementation of The Elder Scrolls: Arena.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ afritz1/OpenTESArena 是一个开源项目，重现了经典游戏The Elder Scro
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 38/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

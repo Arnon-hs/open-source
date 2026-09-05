@@ -1,6 +1,6 @@
 # JackA1ltman/NonGKI_Kernel_Build_2nd
 
-[![Stars](https://img.shields.io/github/stars/JackA1ltman/NonGKI_Kernel_Build_2nd?style=flat-square&color=yellow)](https://github.com/JackA1ltman/NonGKI_Kernel_Build_2nd/stargazers) [![Forks](https://img.shields.io/github/forks/JackA1ltman/NonGKI_Kernel_Build_2nd?style=flat-square&color=blue)](https://github.com/JackA1ltman/NonGKI_Kernel_Build_2nd/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JackA1ltman/NonGKI_Kernel_Build_2nd?style=flat-square&color=yellow)](https://github.com/JackA1ltman/NonGKI_Kernel_Build_2nd/stargazers) [![Forks](https://img.shields.io/github/forks/JackA1ltman/NonGKI_Kernel_Build_2nd?style=flat-square&color=blue)](https://github.com/JackA1ltman/NonGKI_Kernel_Build_2nd/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic build Non-GKI Kernel with KSU and SUSFS. Version 2.0
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ JackA1ltman/NonGKI_Kernel_Build_2nd 是一个开源项目，用于自动构建 N
 | forks | 67/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 56/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

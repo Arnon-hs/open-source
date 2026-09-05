@@ -1,6 +1,6 @@
 # Agions/scene-fab
 
-[![Stars](https://img.shields.io/github/stars/Agions/scene-fab?style=flat-square&color=yellow)](https://github.com/Agions/scene-fab/stargazers) [![Forks](https://img.shields.io/github/forks/Agions/scene-fab?style=flat-square&color=blue)](https://github.com/Agions/scene-fab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agions/scene-fab?style=flat-square&color=yellow)](https://github.com/Agions/scene-fab/stargazers) [![Forks](https://img.shields.io/github/forks/Agions/scene-fab?style=flat-square&color=blue)](https://github.com/Agions/scene-fab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > scene-fab - AI 影视解说创作工具 | 智能拆条 · AI 解说生成 · 一键配音合成
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ scene-fab 是一款面向影视解说创作的 AI 工具，提供智能拆条、
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

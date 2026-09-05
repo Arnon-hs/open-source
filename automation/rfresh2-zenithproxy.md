@@ -1,6 +1,6 @@
 # rfresh2/ZenithProxy
 
-[![Stars](https://img.shields.io/github/stars/rfresh2/ZenithProxy?style=flat-square&color=yellow)](https://github.com/rfresh2/ZenithProxy/stargazers) [![Forks](https://img.shields.io/github/forks/rfresh2/ZenithProxy?style=flat-square&color=blue)](https://github.com/rfresh2/ZenithProxy/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rfresh2/ZenithProxy?style=flat-square&color=yellow)](https://github.com/rfresh2/ZenithProxy/stargazers) [![Forks](https://img.shields.io/github/forks/rfresh2/ZenithProxy?style=flat-square&color=blue)](https://github.com/rfresh2/ZenithProxy/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 2b2t minecraft proxy / bot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation
+Automation · Networking
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ ZenithProxy（rfresh2/ZenithProxy）是一款面向 2b2t 服务器的 Minecraft 
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 49/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

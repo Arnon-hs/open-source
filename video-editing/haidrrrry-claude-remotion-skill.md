@@ -1,6 +1,6 @@
 # haidrrrry/claude-remotion-skill
 
-[![Stars](https://img.shields.io/github/stars/haidrrrry/claude-remotion-skill?style=flat-square&color=yellow)](https://github.com/haidrrrry/claude-remotion-skill/stargazers) [![Forks](https://img.shields.io/github/forks/haidrrrry/claude-remotion-skill?style=flat-square&color=blue)](https://github.com/haidrrrry/claude-remotion-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haidrrrry/claude-remotion-skill?style=flat-square&color=yellow)](https://github.com/haidrrrry/claude-remotion-skill/stargazers) [![Forks](https://img.shields.io/github/forks/haidrrrry/claude-remotion-skill?style=flat-square&color=blue)](https://github.com/haidrrrry/claude-remotion-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude agent skill that teaches Claude Code, Claude Desktop & Claude AI to create and edit professional motion graphics videos with Remotion. AI video editing, B-roll, captions, sound design — from one prompt.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ haidrrrry/claude-remotion-skill：haidrrrry/claude-remotion-skill helps turn med
 | forks | 23/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

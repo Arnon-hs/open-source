@@ -1,6 +1,6 @@
 # octelium/octelium
 
-[![Stars](https://img.shields.io/github/stars/octelium/octelium?style=flat-square&color=yellow)](https://github.com/octelium/octelium/stargazers) [![Forks](https://img.shields.io/github/forks/octelium/octelium?style=flat-square&color=blue)](https://github.com/octelium/octelium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/octelium/octelium?style=flat-square&color=yellow)](https://github.com/octelium/octelium/stargazers) [![Forks](https://img.shields.io/github/forks/octelium/octelium?style=flat-square&color=blue)](https://github.com/octelium/octelium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Observability · DevOps/Infra
+MCP · AI/ML · Networking · Backend · Observability
 
 ## 📝 Summary
 
@@ -68,11 +68,11 @@ Octelium 是一款开源的零信任统一访问平台，能够作为远程访�
 | forks | 54/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 84/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

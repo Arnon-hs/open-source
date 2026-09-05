@@ -1,6 +1,6 @@
 # yakupbulbul/scenarix
 
-[![Stars](https://img.shields.io/github/stars/yakupbulbul/scenarix?style=flat-square&color=yellow)](https://github.com/yakupbulbul/scenarix/stargazers) [![Forks](https://img.shields.io/github/forks/yakupbulbul/scenarix?style=flat-square&color=blue)](https://github.com/yakupbulbul/scenarix/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yakupbulbul/scenarix?style=flat-square&color=yellow)](https://github.com/yakupbulbul/scenarix/stargazers) [![Forks](https://img.shields.io/github/forks/yakupbulbul/scenarix?style=flat-square&color=blue)](https://github.com/yakupbulbul/scenarix/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered drama series studio - generate screenplays, images, voiceovers, subtitles, and background music, exported as vertical video.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ yakupbulbul/scenarix：yakupbulbul/scenarix helps automate short-form video prod
 | forks | 15/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 57/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 62/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

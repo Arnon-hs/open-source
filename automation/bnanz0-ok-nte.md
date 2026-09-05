@@ -1,6 +1,6 @@
 # BnanZ0/ok-nte
 
-[![Stars](https://img.shields.io/github/stars/BnanZ0/ok-nte?style=flat-square&color=yellow)](https://github.com/BnanZ0/ok-nte/stargazers) [![Forks](https://img.shields.io/github/forks/BnanZ0/ok-nte?style=flat-square&color=blue)](https://github.com/BnanZ0/ok-nte/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BnanZ0/ok-nte?style=flat-square&color=yellow)](https://github.com/BnanZ0/ok-nte/stargazers) [![Forks](https://img.shields.io/github/forks/BnanZ0/ok-nte?style=flat-square&color=blue)](https://github.com/BnanZ0/ok-nte/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 异环 后台副本挂机 Automation for Neverness to Everness
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 982 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ BnanZ0/ok-nte 的生产可用性很高，受众包括那些需要自动化后台
 | forks | 46/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

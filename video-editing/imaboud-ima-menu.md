@@ -1,6 +1,6 @@
 # iMAboud/iMA-Menu
 
-[![Stars](https://img.shields.io/github/stars/iMAboud/iMA-Menu?style=flat-square&color=yellow)](https://github.com/iMAboud/iMA-Menu/stargazers) [![Forks](https://img.shields.io/github/forks/iMAboud/iMA-Menu?style=flat-square&color=blue)](https://github.com/iMAboud/iMA-Menu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iMAboud/iMA-Menu?style=flat-square&color=yellow)](https://github.com/iMAboud/iMA-Menu/stargazers) [![Forks](https://img.shields.io/github/forks/iMAboud/iMA-Menu?style=flat-square&color=blue)](https://github.com/iMAboud/iMA-Menu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > iMA Menu - Do File Transfers, Remove Background, Video/Image edit, Draw over apps, Youtube & X downloader, Resize, Video to Gif, MP4 to MP3, Clean Temp... and more from your  CONTEXT MENU.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 292 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ iMAboud/iMA-Menu：iMAboud/iMA-Menu helps turn media editing, captions, renderin
 | forks | 23/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

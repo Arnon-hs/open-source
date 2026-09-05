@@ -1,6 +1,6 @@
 # systempromptio/systemprompt-template
 
-[![Stars](https://img.shields.io/github/stars/systempromptio/systemprompt-template?style=flat-square&color=yellow)](https://github.com/systempromptio/systemprompt-template/stargazers) [![Forks](https://img.shields.io/github/forks/systempromptio/systemprompt-template?style=flat-square&color=blue)](https://github.com/systempromptio/systemprompt-template/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/systempromptio/systemprompt-template?style=flat-square&color=yellow)](https://github.com/systempromptio/systemprompt-template/stargazers) [![Forks](https://img.shields.io/github/forks/systempromptio/systemprompt-template?style=flat-square&color=blue)](https://github.com/systempromptio/systemprompt-template/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > AI Governance Infrastructure — local evaluation. The governance layer for AI agents: a single compiled Rust binary that authenticates, authorises, rate-limits, logs, and costs every AI interaction. Self-hosted, air-gap capable, provider-agnostic.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ systempromptio/systemprompt-template 是一个开源项目，提供了 AI 治理
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

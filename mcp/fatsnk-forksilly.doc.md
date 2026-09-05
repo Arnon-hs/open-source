@@ -1,6 +1,6 @@
 # fatsnk/forksilly.doc
 
-[![Stars](https://img.shields.io/github/stars/fatsnk/forksilly.doc?style=flat-square&color=yellow)](https://github.com/fatsnk/forksilly.doc/stargazers) [![Forks](https://img.shields.io/github/forks/fatsnk/forksilly.doc?style=flat-square&color=blue)](https://github.com/fatsnk/forksilly.doc/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fatsnk/forksilly.doc?style=flat-square&color=yellow)](https://github.com/fatsnk/forksilly.doc/stargazers) [![Forks](https://img.shields.io/github/forks/fatsnk/forksilly.doc?style=flat-square&color=blue)](https://github.com/fatsnk/forksilly.doc/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Documents repo of ForkSilly. ForkSilly：兼容sillytavern（酒馆）角色卡、世界书、正则、预设、聊天记录的安卓移动端应用；同时也可作为stable diffusion客户端使用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database · Mobile
+MCP · AI/ML · Communication · Documents · Backend
 
 ## 📝 Summary
 
@@ -98,11 +98,11 @@ Forksilly.doc 是一个开源项目，主要用于连接 AI 助手到实际工�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

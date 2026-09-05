@@ -1,6 +1,6 @@
 # hsr88/log-voyager
 
-[![Stars](https://img.shields.io/github/stars/hsr88/log-voyager?style=flat-square&color=yellow)](https://github.com/hsr88/log-voyager/stargazers) [![Forks](https://img.shields.io/github/forks/hsr88/log-voyager?style=flat-square&color=blue)](https://github.com/hsr88/log-voyager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hsr88/log-voyager?style=flat-square&color=yellow)](https://github.com/hsr88/log-voyager/stargazers) [![Forks](https://img.shields.io/github/forks/hsr88/log-voyager?style=flat-square&color=blue)](https://github.com/hsr88/log-voyager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ hsr88/log-voyager是一个开源项目，允许在浏览器中快速分析大型
 | forks | 19/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

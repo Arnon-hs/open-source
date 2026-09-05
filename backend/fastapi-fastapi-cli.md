@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ FastAPI CLI — это набор команд для удобного зап�
 
 ### 中文
 
-fastapi/fastapi-cli：fastapi/fastapi-cli helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+fastapi/fastapi-cli：fastapi/fastapi-cli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** fastapi/fastapi-cli helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** fastapi/fastapi-cli helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ fastapi/fastapi-cli：fastapi/fastapi-cli helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

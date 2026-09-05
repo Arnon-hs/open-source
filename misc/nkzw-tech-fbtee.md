@@ -1,6 +1,6 @@
 # nkzw-tech/fbtee
 
-[![Stars](https://img.shields.io/github/stars/nkzw-tech/fbtee?style=flat-square&color=yellow)](https://github.com/nkzw-tech/fbtee/stargazers) [![Forks](https://img.shields.io/github/forks/nkzw-tech/fbtee?style=flat-square&color=blue)](https://github.com/nkzw-tech/fbtee/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nkzw-tech/fbtee?style=flat-square&color=yellow)](https://github.com/nkzw-tech/fbtee/stargazers) [![Forks](https://img.shields.io/github/forks/nkzw-tech/fbtee?style=flat-square&color=blue)](https://github.com/nkzw-tech/fbtee/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The JavaScript & React Internationalization Framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ nkzw-tech/fbtee 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 30/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

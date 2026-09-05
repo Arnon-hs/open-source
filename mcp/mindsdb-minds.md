@@ -1,6 +1,6 @@
 # mindsdb/minds
 
-[![Stars](https://img.shields.io/github/stars/mindsdb/minds?style=flat-square&color=yellow)](https://github.com/mindsdb/minds/stargazers) [![Forks](https://img.shields.io/github/forks/mindsdb/minds?style=flat-square&color=blue)](https://github.com/mindsdb/minds/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mindsdb/minds?style=flat-square&color=yellow)](https://github.com/mindsdb/minds/stargazers) [![Forks](https://img.shields.io/github/forks/mindsdb/minds?style=flat-square&color=blue)](https://github.com/mindsdb/minds/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39.3k |
 | 🍴 **Forks** | 6.2k |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ mindsdb/minds 是面向知识工作者（创作者、策划者、运营者）以
 | forks | 95/100 |
 | stars | 98/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 84/100 |
-| recency | 40/100 |
+| outlook | 90/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 97/100 |
-| production | 63/100 |
+| production | 77/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

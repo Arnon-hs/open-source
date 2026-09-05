@@ -1,6 +1,6 @@
 # FabricMC/fabric-api
 
-[![Stars](https://img.shields.io/github/stars/FabricMC/fabric-api?style=flat-square&color=yellow)](https://github.com/FabricMC/fabric-api/stargazers) [![Forks](https://img.shields.io/github/forks/FabricMC/fabric-api?style=flat-square&color=blue)](https://github.com/FabricMC/fabric-api/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FabricMC/fabric-api?style=flat-square&color=yellow)](https://github.com/FabricMC/fabric-api/stargazers) [![Forks](https://img.shields.io/github/forks/FabricMC/fabric-api?style=flat-square&color=blue)](https://github.com/FabricMC/fabric-api/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Essential hooks for modding with Fabric.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 560 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ FabricMC/fabric-api在生产环境中具有较高的可用性，因为它有最�
 | forks | 69/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 65/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

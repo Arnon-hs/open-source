@@ -1,6 +1,6 @@
 # mofeng-git/One-KVM
 
-[![Stars](https://img.shields.io/github/stars/mofeng-git/One-KVM?style=flat-square&color=yellow)](https://github.com/mofeng-git/One-KVM/stargazers) [![Forks](https://img.shields.io/github/forks/mofeng-git/One-KVM?style=flat-square&color=blue)](https://github.com/mofeng-git/One-KVM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mofeng-git/One-KVM?style=flat-square&color=yellow)](https://github.com/mofeng-git/One-KVM/stargazers) [![Forks](https://img.shields.io/github/forks/mofeng-git/One-KVM?style=flat-square&color=blue)](https://github.com/mofeng-git/One-KVM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > One-KVM Rust 是一个用 Rust 编写的轻量级 IP-KVM 解决方案，可通过网络远程管理服务器和工作站，实现 BIOS 级远程控制。One-KVM Rust  is a lightweight IP-KVM solution written in Rust. It lets you manage servers and workstations over the network, including at BIOS level.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ One‑KVM 是用 Rust 编写的轻量级 IP‑KVM 实现，能够通过网络对
 | forks | 60/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 42/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

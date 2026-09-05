@@ -1,6 +1,6 @@
 # FluxML/Flux.jl
 
-[![Stars](https://img.shields.io/github/stars/FluxML/Flux.jl?style=flat-square&color=yellow)](https://github.com/FluxML/Flux.jl/stargazers) [![Forks](https://img.shields.io/github/forks/FluxML/Flux.jl?style=flat-square&color=blue)](https://github.com/FluxML/Flux.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FluxML/Flux.jl?style=flat-square&color=yellow)](https://github.com/FluxML/Flux.jl/stargazers) [![Forks](https://img.shields.io/github/forks/FluxML/Flux.jl?style=flat-square&color=blue)](https://github.com/FluxML/Flux.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Relax! Flux is the ML library that doesn't make you tensor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 624 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Education
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ FluxML/Flux.jl 的生产可用性较高，因为它有以下特点：
 | forks | 70/100 |
 | stars | 78/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

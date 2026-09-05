@@ -1,6 +1,6 @@
 # signerless/llm-checker
 
-[![Stars](https://img.shields.io/github/stars/signerless/llm-checker?style=flat-square&color=yellow)](https://github.com/signerless/llm-checker/stargazers) [![Forks](https://img.shields.io/github/forks/signerless/llm-checker?style=flat-square&color=blue)](https://github.com/signerless/llm-checker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/signerless/llm-checker?style=flat-square&color=yellow)](https://github.com/signerless/llm-checker/stargazers) [![Forks](https://img.shields.io/github/forks/signerless/llm-checker?style=flat-square&color=blue)](https://github.com/signerless/llm-checker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ signerless/llm-checker 的生产可用性为中等。它适用于快速 prototyp
 | forks | 57/100 |
 | stars | 74/100 |
 | topics | 0/100 |
-| outlook | 80/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

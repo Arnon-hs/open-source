@@ -1,6 +1,6 @@
 # KaringX/clashmi
 
-[![Stars](https://img.shields.io/github/stars/KaringX/clashmi?style=flat-square&color=yellow)](https://github.com/KaringX/clashmi/stargazers) [![Forks](https://img.shields.io/github/forks/KaringX/clashmi?style=flat-square&color=blue)](https://github.com/KaringX/clashmi/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KaringX/clashmi?style=flat-square&color=yellow)](https://github.com/KaringX/clashmi/stargazers) [![Forks](https://img.shields.io/github/forks/KaringX/clashmi?style=flat-square&color=blue)](https://github.com/KaringX/clashmi/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.1k |
 | 🍴 **Forks** | 489 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ KaringX/clashmi 是基于 Dart 的跨平台实现，提供 Clash Mihomo 在 iOS�
 | forks | 67/100 |
 | stars | 83/100 |
 | topics | 38/100 |
-| outlook | 56/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

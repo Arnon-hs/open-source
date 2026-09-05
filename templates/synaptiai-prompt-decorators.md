@@ -1,6 +1,6 @@
 # synaptiai/prompt-decorators
 
-[![Stars](https://img.shields.io/github/stars/synaptiai/prompt-decorators?style=flat-square&color=yellow)](https://github.com/synaptiai/prompt-decorators/stargazers) [![Forks](https://img.shields.io/github/forks/synaptiai/prompt-decorators?style=flat-square&color=blue)](https://github.com/synaptiai/prompt-decorators/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/synaptiai/prompt-decorators?style=flat-square&color=yellow)](https://github.com/synaptiai/prompt-decorators/stargazers) [![Forks](https://img.shields.io/github/forks/synaptiai/prompt-decorators?style=flat-square&color=blue)](https://github.com/synaptiai/prompt-decorators/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A standardized framework for enhancing how LLMs process and respond to prompts through composable decorators, featuring an official open standard specification and Python reference implementation. Claude Code plugin and MCP server integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ Overall, the project meets the criteria for an OSS candidate suitable for a seri
 | forks | 26/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 53/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Liubsyy/M3U8Quicker
 
-[![Stars](https://img.shields.io/github/stars/Liubsyy/M3U8Quicker?style=flat-square&color=yellow)](https://github.com/Liubsyy/M3U8Quicker/stargazers) [![Forks](https://img.shields.io/github/forks/Liubsyy/M3U8Quicker?style=flat-square&color=blue)](https://github.com/Liubsyy/M3U8Quicker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Liubsyy/M3U8Quicker?style=flat-square&color=yellow)](https://github.com/Liubsyy/M3U8Quicker/stargazers) [![Forks](https://img.shields.io/github/forks/Liubsyy/M3U8Quicker?style=flat-square&color=blue)](https://github.com/Liubsyy/M3U8Quicker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 跨平台HLS(M3U8格式)/DASH/MP4视频下载器和直播录制器，支持多线程下载、断点续传、边下边播、AES解密、浏览器自动扫描地址一键下载
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Liubsyy/M3U8Quicker 的生产可用性为中等（Medium）。它
 | forks | 33/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

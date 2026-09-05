@@ -1,6 +1,6 @@
 # konkers/irminsul
 
-[![Stars](https://img.shields.io/github/stars/konkers/irminsul?style=flat-square&color=yellow)](https://github.com/konkers/irminsul/stargazers) [![Forks](https://img.shields.io/github/forks/konkers/irminsul?style=flat-square&color=blue)](https://github.com/konkers/irminsul/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/konkers/irminsul?style=flat-square&color=yellow)](https://github.com/konkers/irminsul/stargazers) [![Forks](https://img.shields.io/github/forks/konkers/irminsul?style=flat-square&color=blue)](https://github.com/konkers/irminsul/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Data exporter for Genshin Impact
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ konkers/irminsul 是一款基于 Rust 的 Genshin Impact 数据导出工具，�
 | forks | 33/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 44/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

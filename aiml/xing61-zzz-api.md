@@ -1,6 +1,6 @@
 # xing61/zzz-api
 
-[![Stars](https://img.shields.io/github/stars/xing61/zzz-api?style=flat-square&color=yellow)](https://github.com/xing61/zzz-api/stargazers) [![Forks](https://img.shields.io/github/forks/xing61/zzz-api?style=flat-square&color=blue)](https://github.com/xing61/zzz-api/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xing61/zzz-api?style=flat-square&color=yellow)](https://github.com/xing61/zzz-api/stargazers) [![Forks](https://img.shields.io/github/forks/xing61/zzz-api?style=flat-square&color=blue)](https://github.com/xing61/zzz-api/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 企业级稳定的OpenAI、Claude、Gemini等的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持Anthropic claude的官方接口形式，支持Google gemini的官方接口形式，支持：gpt-5，sora。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 979 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Networking · Backend
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ xing61/zzz-api 有很高的生产可用性，理由如下：
 | forks | 48/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

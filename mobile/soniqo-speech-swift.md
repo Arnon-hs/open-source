@@ -1,6 +1,6 @@
 # soniqo/speech-swift
 
-[![Stars](https://img.shields.io/github/stars/soniqo/speech-swift?style=flat-square&color=yellow)](https://github.com/soniqo/speech-swift/stargazers) [![Forks](https://img.shields.io/github/forks/soniqo/speech-swift?style=flat-square&color=blue)](https://github.com/soniqo/speech-swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soniqo/speech-swift?style=flat-square&color=yellow)](https://github.com/soniqo/speech-swift/stargazers) [![Forks](https://img.shields.io/github/forks/soniqo/speech-swift?style=flat-square&color=blue)](https://github.com/soniqo/speech-swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI speech toolkit for Apple Silicon — ASR, TTS, speech-to-speech, VAD, and diarization powered by MLX and CoreML
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 710 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ soniqo /speech‑swift 为 Apple Silicon（iPhone、iPad、Mac）提供了一�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

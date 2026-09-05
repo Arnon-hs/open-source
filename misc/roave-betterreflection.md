@@ -1,6 +1,6 @@
 # Roave/BetterReflection
 
-[![Stars](https://img.shields.io/github/stars/Roave/BetterReflection?style=flat-square&color=yellow)](https://github.com/Roave/BetterReflection/stargazers) [![Forks](https://img.shields.io/github/forks/Roave/BetterReflection?style=flat-square&color=blue)](https://github.com/Roave/BetterReflection/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Roave/BetterReflection?style=flat-square&color=yellow)](https://github.com/Roave/BetterReflection/stargazers) [![Forks](https://img.shields.io/github/forks/Roave/BetterReflection?style=flat-square&color=blue)](https://github.com/Roave/BetterReflection/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -142,11 +142,11 @@ Roave/BetterReflection 是一个面向 PHP 的高级反射库，提供比原生 
 | forks | 53/100 |
 | stars | 66/100 |
 | topics | 13/100 |
-| outlook | 52/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

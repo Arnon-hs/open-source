@@ -1,6 +1,6 @@
 # performancecopilot/pcp
 
-[![Stars](https://img.shields.io/github/stars/performancecopilot/pcp?style=flat-square&color=yellow)](https://github.com/performancecopilot/pcp/stargazers) [![Forks](https://img.shields.io/github/forks/performancecopilot/pcp?style=flat-square&color=blue)](https://github.com/performancecopilot/pcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/performancecopilot/pcp?style=flat-square&color=yellow)](https://github.com/performancecopilot/pcp/stargazers) [![Forks](https://img.shields.io/github/forks/performancecopilot/pcp?style=flat-square&color=blue)](https://github.com/performancecopilot/pcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Performance Co-Pilot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 269 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ Performance Co‑Pilot (PCP) 是一个开源的性能观测与数据持久化平
 | forks | 61/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

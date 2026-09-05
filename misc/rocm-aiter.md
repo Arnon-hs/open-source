@@ -1,6 +1,6 @@
 # ROCm/aiter
 
-[![Stars](https://img.shields.io/github/stars/ROCm/aiter?style=flat-square&color=yellow)](https://github.com/ROCm/aiter/stargazers) [![Forks](https://img.shields.io/github/forks/ROCm/aiter?style=flat-square&color=blue)](https://github.com/ROCm/aiter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ROCm/aiter?style=flat-square&color=yellow)](https://github.com/ROCm/aiter/stargazers) [![Forks](https://img.shields.io/github/forks/ROCm/aiter?style=flat-square&color=blue)](https://github.com/ROCm/aiter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI Tensor Engine for ROCm
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 307 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ROCm/aiter 是基于 AMD ROCm 平台的 AI Tensor Engine，提供即插即用的
 | forks | 62/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 46/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

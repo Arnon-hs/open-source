@@ -1,6 +1,6 @@
 # simonw/datasette
 
-[![Stars](https://img.shields.io/github/stars/simonw/datasette?style=flat-square&color=yellow)](https://github.com/simonw/datasette/stargazers) [![Forks](https://img.shields.io/github/forks/simonw/datasette?style=flat-square&color=blue)](https://github.com/simonw/datasette/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonw/datasette?style=flat-square&color=yellow)](https://github.com/simonw/datasette/stargazers) [![Forks](https://img.shields.io/github/forks/simonw/datasette?style=flat-square&color=blue)](https://github.com/simonw/datasette/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > An open source multi-tool for exploring and publishing data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 868 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ datasette 的生产可用性较高，主要原因是：
 | forks | 73/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

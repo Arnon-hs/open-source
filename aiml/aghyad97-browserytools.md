@@ -1,6 +1,6 @@
 # aghyad97/browserytools
 
-[![Stars](https://img.shields.io/github/stars/aghyad97/browserytools?style=flat-square&color=yellow)](https://github.com/aghyad97/browserytools/stargazers) [![Forks](https://img.shields.io/github/forks/aghyad97/browserytools?style=flat-square&color=blue)](https://github.com/aghyad97/browserytools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aghyad97/browserytools?style=flat-square&color=yellow)](https://github.com/aghyad97/browserytools/stargazers) [![Forks](https://img.shields.io/github/forks/aghyad97/browserytools?style=flat-square&color=blue)](https://github.com/aghyad97/browserytools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 160+ free browser-based tools for productivity & developers. 100% client-side — no servers, no uploads, full privacy. Image & on-device AI tools, file/format converters, code formatters, calculators, generators, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 634 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ aghyad97/browserytools 帮助开发者在不从零开始搭建模型堆栈的情
 | forks | 47/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 67/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

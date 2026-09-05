@@ -1,6 +1,6 @@
 # regyssilveira/RadIA-Plugin
 
-[![Stars](https://img.shields.io/github/stars/regyssilveira/RadIA-Plugin?style=flat-square&color=yellow)](https://github.com/regyssilveira/RadIA-Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/regyssilveira/RadIA-Plugin?style=flat-square&color=blue)](https://github.com/regyssilveira/RadIA-Plugin/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/regyssilveira/RadIA-Plugin?style=flat-square&color=yellow)](https://github.com/regyssilveira/RadIA-Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/regyssilveira/RadIA-Plugin?style=flat-square&color=blue)](https://github.com/regyssilveira/RadIA-Plugin/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Assistente de IA avançado para a IDE Embarcadero Delphi (usando Open Tools API) com chat acoplável VCL/WebView2, streaming SSE e refatoração visual. 🇧🇷 (English docs available in README.en.md 🇺🇸)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Communication · Backend · DevTools
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ RadIA‑Plugin 是一款面向 Embarcadero Delphi IDE 的高级 AI 助手插件�
 | forks | 23/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

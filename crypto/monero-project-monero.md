@@ -1,6 +1,6 @@
 # monero-project/monero
 
-[![Stars](https://img.shields.io/github/stars/monero-project/monero?style=flat-square&color=yellow)](https://github.com/monero-project/monero/stargazers) [![Forks](https://img.shields.io/github/forks/monero-project/monero?style=flat-square&color=blue)](https://github.com/monero-project/monero/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monero-project/monero?style=flat-square&color=yellow)](https://github.com/monero-project/monero/stargazers) [![Forks](https://img.shields.io/github/forks/monero-project/monero?style=flat-square&color=blue)](https://github.com/monero-project/monero/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Monero: the secure, private, untraceable cryptocurrency
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Security
+Crypto · Networking · Security
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ Monero（monero-project/monero）是一款注重安全与隐私的加密货币�
 | forks | 89/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 79/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 59/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

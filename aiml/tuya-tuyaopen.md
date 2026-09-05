@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | C |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ tuya/TuyaOpen：tuya/TuyaOpen helps add AI capability without starting from a bl
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

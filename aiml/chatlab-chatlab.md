@@ -1,6 +1,6 @@
 # ChatLab/ChatLab
 
-[![Stars](https://img.shields.io/github/stars/ChatLab/ChatLab?style=flat-square&color=yellow)](https://github.com/ChatLab/ChatLab/stargazers) [![Forks](https://img.shields.io/github/forks/ChatLab/ChatLab?style=flat-square&color=blue)](https://github.com/ChatLab/ChatLab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChatLab/ChatLab?style=flat-square&color=yellow)](https://github.com/ChatLab/ChatLab/stargazers) [![Forks](https://img.shields.io/github/forks/ChatLab/ChatLab?style=flat-square&color=blue)](https://github.com/ChatLab/ChatLab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Communication · Data
 
 ## 📝 Summary
 
@@ -108,15 +108,15 @@ ChatLab 是一款本地优先的聊天记录分析工具，内置 AI 能力，�
 | forks | 78/100 |
 | stars | 81/100 |
 | topics | 75/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

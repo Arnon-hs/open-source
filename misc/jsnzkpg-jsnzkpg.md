@@ -1,6 +1,6 @@
 # Jsnzkpg/Jsnzkpg
 
-[![Stars](https://img.shields.io/github/stars/Jsnzkpg/Jsnzkpg?style=flat-square&color=yellow)](https://github.com/Jsnzkpg/Jsnzkpg/stargazers) [![Forks](https://img.shields.io/github/forks/Jsnzkpg/Jsnzkpg?style=flat-square&color=blue)](https://github.com/Jsnzkpg/Jsnzkpg/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jsnzkpg/Jsnzkpg?style=flat-square&color=yellow)](https://github.com/Jsnzkpg/Jsnzkpg/stargazers) [![Forks](https://img.shields.io/github/forks/Jsnzkpg/Jsnzkpg?style=flat-square&color=blue)](https://github.com/Jsnzkpg/Jsnzkpg/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Jsnzkpg 是一个已连续维护 5 年以上的免费节点订阅库，项目每
 | forks | 64/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Lykon/dreamshaper-7
 
-[![Stars](https://img.shields.io/github/stars/Lykon/dreamshaper-7?style=flat-square&color=yellow)](https://huggingface.co/Lykon/dreamshaper-7/stargazers) [![Forks](https://img.shields.io/github/forks/Lykon/dreamshaper-7?style=flat-square&color=blue)](https://huggingface.co/Lykon/dreamshaper-7/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lykon/dreamshaper-7?style=flat-square&color=yellow)](https://huggingface.co/Lykon/dreamshaper-7/stargazers) [![Forks](https://img.shields.io/github/forks/Lykon/dreamshaper-7?style=flat-square&color=blue)](https://huggingface.co/Lykon/dreamshaper-7/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Image generation (text-to-image) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
-| 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Lykon/dreamshaper-7 的价值在于，它可能适用于那些README和活动与
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 38/100 |
-| outlook | 33/100 |
-| quality | 34/100 |
-| recency | 20/100 |
+| outlook | 54/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 35/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

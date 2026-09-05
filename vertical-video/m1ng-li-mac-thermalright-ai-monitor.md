@@ -1,6 +1,6 @@
 # m1ng-li/mac-thermalright-ai-monitor
 
-[![Stars](https://img.shields.io/github/stars/m1ng-li/mac-thermalright-ai-monitor?style=flat-square&color=yellow)](https://github.com/m1ng-li/mac-thermalright-ai-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/m1ng-li/mac-thermalright-ai-monitor?style=flat-square&color=blue)](https://github.com/m1ng-li/mac-thermalright-ai-monitor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/m1ng-li/mac-thermalright-ai-monitor?style=flat-square&color=yellow)](https://github.com/m1ng-li/mac-thermalright-ai-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/m1ng-li/mac-thermalright-ai-monitor?style=flat-square&color=blue)](https://github.com/m1ng-li/mac-thermalright-ai-monitor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent (Claude Code + Codex) & system monitor for the Thermalright 9.16 LCD — native macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ m1ng-li/mac-thermalright-ai-monitor 的价值在于，它能够帮助用户快�
 | forks | 24/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 57/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

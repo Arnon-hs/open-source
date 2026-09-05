@@ -1,6 +1,6 @@
 # next-hat/nanocl
 
-[![Stars](https://img.shields.io/github/stars/next-hat/nanocl?style=flat-square&color=yellow)](https://github.com/next-hat/nanocl/stargazers) [![Forks](https://img.shields.io/github/forks/next-hat/nanocl?style=flat-square&color=blue)](https://github.com/next-hat/nanocl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/next-hat/nanocl?style=flat-square&color=yellow)](https://github.com/next-hat/nanocl/stargazers) [![Forks](https://img.shields.io/github/forks/next-hat/nanocl?style=flat-square&color=blue)](https://github.com/next-hat/nanocl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 981 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · DevTools · DevOps/Infra
+Orchestration · Cloud & Storage · Networking · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ next‑hat/nanocl 是一款正在开发中的分布式系统，旨在以更轻�
 | forks | 43/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 61/100 |
-| recency | 20/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 769 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -35,17 +35,15 @@ A lightweight bridge that connects local AI coding agents—such as Claude Cod
 
 ### 中文
 
-chenhg5/cc-connect：chenhg5/cc-connect helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chenhg5/cc-connect：chenhg5/cc-connect may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** chenhg5/cc-connect helps add AI capability without starting from a blank model stack.
+**Value:** chenhg5/cc-connect may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,17 +62,18 @@ chenhg5/cc-connect：chenhg5/cc-connect helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 52/100 |
-| adoption | 80/100 |
-| stars | 83/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 0/100 |
+| outlook | 52/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

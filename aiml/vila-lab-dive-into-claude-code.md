@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ VILA-Lab/Dive-into-Claude-Code：VILA-Lab/Dive-into-Claude-Code helps add AI cap
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

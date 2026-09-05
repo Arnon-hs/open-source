@@ -1,6 +1,6 @@
 # prisma/prisma
 
-[![Stars](https://img.shields.io/github/stars/prisma/prisma?style=flat-square&color=yellow)](https://github.com/prisma/prisma/stargazers) [![Forks](https://img.shields.io/github/forks/prisma/prisma?style=flat-square&color=blue)](https://github.com/prisma/prisma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prisma/prisma?style=flat-square&color=yellow)](https://github.com/prisma/prisma/stargazers) [![Forks](https://img.shields.io/github/forks/prisma/prisma?style=flat-square&color=blue)](https://github.com/prisma/prisma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47.5k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Prisma 的生产可用性为高，理由如下：
 | forks | 85/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 88/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 93/100 |
+| recency | 80/100 |
 | adoption | 95/100 |
-| production | 74/100 |
+| production | 81/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

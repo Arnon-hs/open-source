@@ -1,6 +1,6 @@
 # 100thCoin/TriCNES
 
-[![Stars](https://img.shields.io/github/stars/100thCoin/TriCNES?style=flat-square&color=yellow)](https://github.com/100thCoin/TriCNES/stargazers) [![Forks](https://img.shields.io/github/forks/100thCoin/TriCNES?style=flat-square&color=blue)](https://github.com/100thCoin/TriCNES/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/100thCoin/TriCNES?style=flat-square&color=yellow)](https://github.com/100thCoin/TriCNES/stargazers) [![Forks](https://img.shields.io/github/forks/100thCoin/TriCNES?style=flat-square&color=blue)](https://github.com/100thCoin/TriCNES/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A NES emulator written in C# for playing back TASes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ Here's a brief summary and explanation of the 100thCoin/TriCNES project:
 | forks | 29/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 53/100 |
-| recency | 60/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 55/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

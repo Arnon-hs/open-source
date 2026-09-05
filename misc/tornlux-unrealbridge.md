@@ -1,6 +1,6 @@
 # TornLux/UnrealBridge
 
-[![Stars](https://img.shields.io/github/stars/TornLux/UnrealBridge?style=flat-square&color=yellow)](https://github.com/TornLux/UnrealBridge/stargazers) [![Forks](https://img.shields.io/github/forks/TornLux/UnrealBridge?style=flat-square&color=blue)](https://github.com/TornLux/UnrealBridge/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TornLux/UnrealBridge?style=flat-square&color=yellow)](https://github.com/TornLux/UnrealBridge/stargazers) [![Forks](https://img.shields.io/github/forks/TornLux/UnrealBridge?style=flat-square&color=blue)](https://github.com/TornLux/UnrealBridge/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Typed control surface for Unreal Engine that lets AI agents introspect assets, author Blueprints/AnimBPs,   and edit levels — with reactive events and undoable writes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ TornLux/UnrealBridge 是一个为 Unreal Engine 提供强类型控制层的开�
 | forks | 38/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 40/100 |
-| quality | 41/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 41/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

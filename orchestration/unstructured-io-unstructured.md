@@ -1,6 +1,6 @@
 # Unstructured-IO/unstructured
 
-[![Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=flat-square&color=yellow)](https://github.com/Unstructured-IO/unstructured/stargazers) [![Forks](https://img.shields.io/github/forks/Unstructured-IO/unstructured?style=flat-square&color=blue)](https://github.com/Unstructured-IO/unstructured/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=flat-square&color=yellow)](https://github.com/Unstructured-IO/unstructured/stargazers) [![Forks](https://img.shields.io/github/forks/Unstructured-IO/unstructured?style=flat-square&color=blue)](https://github.com/Unstructured-IO/unstructured/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.7k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data
+Orchestration · Knowledge/RAG · AI/ML · Documents · Data
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Unstructured‑IO/unstructured 能把各种格式的文档（PDF、Word、HTML�
 | forks | 77/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

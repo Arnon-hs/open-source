@@ -1,6 +1,6 @@
 # webonyx/graphql-php
 
-[![Stars](https://img.shields.io/github/stars/webonyx/graphql-php?style=flat-square&color=yellow)](https://github.com/webonyx/graphql-php/stargazers) [![Forks](https://img.shields.io/github/forks/webonyx/graphql-php?style=flat-square&color=blue)](https://github.com/webonyx/graphql-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webonyx/graphql-php?style=flat-square&color=yellow)](https://github.com/webonyx/graphql-php/stargazers) [![Forks](https://img.shields.io/github/forks/webonyx/graphql-php?style=flat-square&color=blue)](https://github.com/webonyx/graphql-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 575 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Webonyx/graphql-php 的生产可用性非常高。它有强大的社区支持，
 | forks | 69/100 |
 | stars | 78/100 |
 | topics | 75/100 |
-| outlook | 69/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

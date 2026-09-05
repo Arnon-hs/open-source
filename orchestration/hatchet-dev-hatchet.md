@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 371 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation
+Orchestration · Automation · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ hatchet-dev/hatchet：hatchet-dev/hatchet helps turn isolated prompts and tools 
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

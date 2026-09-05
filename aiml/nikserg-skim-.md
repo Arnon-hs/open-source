@@ -1,6 +1,6 @@
 # nikserg/skim_
 
-[![Stars](https://img.shields.io/github/stars/nikserg/skim_?style=flat-square&color=yellow)](https://github.com/nikserg/skim_/stargazers) [![Forks](https://img.shields.io/github/forks/nikserg/skim_?style=flat-square&color=blue)](https://github.com/nikserg/skim_/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikserg/skim_?style=flat-square&color=yellow)](https://github.com/nikserg/skim_/stargazers) [![Forks](https://img.shields.io/github/forks/nikserg/skim_?style=flat-square&color=blue)](https://github.com/nikserg/skim_/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag showdev): I built Skim: a free open-source Email client for Windows with BYOK AI (MIT)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication · Productivity
 
 ## 📝 Summary
 
@@ -89,15 +89,15 @@ I Built Skim 帮助开发者在自己的项目中快速加入AI能力，没有�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 39/100 |
-| quality | 30/100 |
-| recency | 40/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 41/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

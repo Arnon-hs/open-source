@@ -1,6 +1,6 @@
 # nicobailon/surf-cli
 
-[![Stars](https://img.shields.io/github/stars/nicobailon/surf-cli?style=flat-square&color=yellow)](https://github.com/nicobailon/surf-cli/stargazers) [![Forks](https://img.shields.io/github/forks/nicobailon/surf-cli?style=flat-square&color=blue)](https://github.com/nicobailon/surf-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicobailon/surf-cli?style=flat-square&color=yellow)](https://github.com/nicobailon/surf-cli/stargazers) [![Forks](https://img.shields.io/github/forks/nicobailon/surf-cli?style=flat-square&color=blue)](https://github.com/nicobailon/surf-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ nic
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

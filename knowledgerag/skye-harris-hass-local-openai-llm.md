@@ -1,6 +1,6 @@
 # skye-harris/hass_local_openai_llm
 
-[![Stars](https://img.shields.io/github/stars/skye-harris/hass_local_openai_llm?style=flat-square&color=yellow)](https://github.com/skye-harris/hass_local_openai_llm/stargazers) [![Forks](https://img.shields.io/github/forks/skye-harris/hass_local_openai_llm?style=flat-square&color=blue)](https://github.com/skye-harris/hass_local_openai_llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skye-harris/hass_local_openai_llm?style=flat-square&color=yellow)](https://github.com/skye-harris/hass_local_openai_llm/stargazers) [![Forks](https://img.shields.io/github/forks/skye-harris/hass_local_openai_llm?style=flat-square&color=blue)](https://github.com/skye-harris/hass_local_openai_llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ skye‑harris/hass_local_openai_llm 为 Home Assistant 提供了对本地 OpenAI
 | forks | 39/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

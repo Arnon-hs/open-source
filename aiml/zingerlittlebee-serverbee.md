@@ -1,6 +1,6 @@
 # ZingerLittleBee/ServerBee
 
-[![Stars](https://img.shields.io/github/stars/ZingerLittleBee/ServerBee?style=flat-square&color=yellow)](https://github.com/ZingerLittleBee/ServerBee/stargazers) [![Forks](https://img.shields.io/github/forks/ZingerLittleBee/ServerBee?style=flat-square&color=blue)](https://github.com/ZingerLittleBee/ServerBee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZingerLittleBee/ServerBee?style=flat-square&color=yellow)](https://github.com/ZingerLittleBee/ServerBee/stargazers) [![Forks](https://img.shields.io/github/forks/ZingerLittleBee/ServerBee?style=flat-square&color=blue)](https://github.com/ZingerLittleBee/ServerBee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ ZingerLittleBee/ServerBee 是一个轻量级的 VPS 监控系统，采用 **agen
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

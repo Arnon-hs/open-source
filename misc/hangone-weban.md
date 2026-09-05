@@ -1,6 +1,6 @@
 # hangone/WeBan
 
-[![Stars](https://img.shields.io/github/stars/hangone/WeBan?style=flat-square&color=yellow)](https://github.com/hangone/WeBan/stargazers) [![Forks](https://img.shields.io/github/forks/hangone/WeBan?style=flat-square&color=blue)](https://github.com/hangone/WeBan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hangone/WeBan?style=flat-square&color=yellow)](https://github.com/hangone/WeBan/stargazers) [![Forks](https://img.shields.io/github/forks/hangone/WeBan?style=flat-square&color=blue)](https://github.com/hangone/WeBan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 安全微伴（weiban）安全微课 大学生安全教育 自动刷课脚本工具 附带题库
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ hangone/WeBan 是一款基于 Python 的安全微伴（weiban）自动刷课脚�
 | forks | 47/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

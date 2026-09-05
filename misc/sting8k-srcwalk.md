@@ -1,6 +1,6 @@
 # sting8k/srcwalk
 
-[![Stars](https://img.shields.io/github/stars/sting8k/srcwalk?style=flat-square&color=yellow)](https://github.com/sting8k/srcwalk/stargazers) [![Forks](https://img.shields.io/github/forks/sting8k/srcwalk?style=flat-square&color=blue)](https://github.com/sting8k/srcwalk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sting8k/srcwalk?style=flat-square&color=yellow)](https://github.com/sting8k/srcwalk/stargazers) [![Forks](https://img.shields.io/github/forks/sting8k/srcwalk?style=flat-square&color=blue)](https://github.com/sting8k/srcwalk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Code navigation for AI agents - exact reads, structural discovery, evidence packets. One binary, zero config.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ sting8k/srcwalk是一个开源项目，提供了AI代理的代码导航功能，
 | forks | 17/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 44/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 52/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

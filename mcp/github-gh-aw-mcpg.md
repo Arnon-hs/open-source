@@ -1,6 +1,6 @@
 # github/gh-aw-mcpg
 
-[![Stars](https://img.shields.io/github/stars/github/gh-aw-mcpg?style=flat-square&color=yellow)](https://github.com/github/gh-aw-mcpg/stargazers) [![Forks](https://img.shields.io/github/forks/github/gh-aw-mcpg?style=flat-square&color=blue)](https://github.com/github/gh-aw-mcpg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/gh-aw-mcpg?style=flat-square&color=yellow)](https://github.com/github/gh-aw-mcpg/stargazers) [![Forks](https://img.shields.io/github/forks/github/gh-aw-mcpg?style=flat-square&color=blue)](https://github.com/github/gh-aw-mcpg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Github Agentic Workflows MCP Gateway
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ github/gh-aw-mcpg（Github Agentic Workflows MCP Gateway）是一款基于 Go �
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 53/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

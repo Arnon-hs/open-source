@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ stakpak/agent：stakpak/agent helps remove repetitive manual operations from a w
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

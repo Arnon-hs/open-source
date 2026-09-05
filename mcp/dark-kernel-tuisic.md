@@ -1,6 +1,6 @@
 # Dark-Kernel/tuisic
 
-[![Stars](https://img.shields.io/github/stars/Dark-Kernel/tuisic?style=flat-square&color=yellow)](https://github.com/Dark-Kernel/tuisic/stargazers) [![Forks](https://img.shields.io/github/forks/Dark-Kernel/tuisic?style=flat-square&color=blue)](https://github.com/Dark-Kernel/tuisic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dark-Kernel/tuisic?style=flat-square&color=yellow)](https://github.com/Dark-Kernel/tuisic/stargazers) [![Forks](https://img.shields.io/github/forks/Dark-Kernel/tuisic?style=flat-square&color=blue)](https://github.com/Dark-Kernel/tuisic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > First of its kind, A simple TUI online music streaming application written in c++ with easy vim motions, now with support for Model Context Protocol (MCP)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Dark-Kernel/tuisic 的生产可用性为中等（Medium），适合用于原型�
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

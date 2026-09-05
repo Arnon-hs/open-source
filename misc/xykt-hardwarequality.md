@@ -1,6 +1,6 @@
 # xykt/HardwareQuality
 
-[![Stars](https://img.shields.io/github/stars/xykt/HardwareQuality?style=flat-square&color=yellow)](https://github.com/xykt/HardwareQuality/stargazers) [![Forks](https://img.shields.io/github/forks/xykt/HardwareQuality?style=flat-square&color=blue)](https://github.com/xykt/HardwareQuality/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xykt/HardwareQuality?style=flat-square&color=yellow)](https://github.com/xykt/HardwareQuality/stargazers) [![Forks](https://img.shields.io/github/forks/xykt/HardwareQuality?style=flat-square&color=blue)](https://github.com/xykt/HardwareQuality/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 硬件质量检测脚本 - Hardware Quality Check Script
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 488 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ xykt/HardwareQuality 是一套用于硬件质量检测的 Shell 脚本，能够�
 | forks | 37/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

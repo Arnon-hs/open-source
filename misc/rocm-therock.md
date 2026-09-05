@@ -1,6 +1,6 @@
 # ROCm/TheRock
 
-[![Stars](https://img.shields.io/github/stars/ROCm/TheRock?style=flat-square&color=yellow)](https://github.com/ROCm/TheRock/stargazers) [![Forks](https://img.shields.io/github/forks/ROCm/TheRock?style=flat-square&color=blue)](https://github.com/ROCm/TheRock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ROCm/TheRock?style=flat-square&color=yellow)](https://github.com/ROCm/TheRock/stargazers) [![Forks](https://img.shields.io/github/forks/ROCm/TheRock?style=flat-square&color=blue)](https://github.com/ROCm/TheRock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ ROCm/TheRock 是面向 HIP 与 ROCm 的轻量级开源构建系统，提供统�
 | forks | 60/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

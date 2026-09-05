@@ -1,6 +1,6 @@
 # clasp-developers/clasp
 
-[![Stars](https://img.shields.io/github/stars/clasp-developers/clasp?style=flat-square&color=yellow)](https://github.com/clasp-developers/clasp/stargazers) [![Forks](https://img.shields.io/github/forks/clasp-developers/clasp?style=flat-square&color=blue)](https://github.com/clasp-developers/clasp/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clasp-developers/clasp?style=flat-square&color=yellow)](https://github.com/clasp-developers/clasp/stargazers) [![Forks](https://img.shields.io/github/forks/clasp-developers/clasp?style=flat-square&color=blue)](https://github.com/clasp-developers/clasp/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > clasp Common Lisp environment
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Common Lisp |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ clasp-developers/clasp：clasp-developers/clasp helps engineers save time in dai
 | forks | 55/100 |
 | stars | 73/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

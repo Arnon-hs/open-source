@@ -1,6 +1,6 @@
 # zero-to-mastery/start-here-guidelines
 
-[![Stars](https://img.shields.io/github/stars/zero-to-mastery/start-here-guidelines?style=flat-square&color=yellow)](https://github.com/zero-to-mastery/start-here-guidelines/stargazers) [![Forks](https://img.shields.io/github/forks/zero-to-mastery/start-here-guidelines?style=flat-square&color=blue)](https://github.com/zero-to-mastery/start-here-guidelines/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zero-to-mastery/start-here-guidelines?style=flat-square&color=yellow)](https://github.com/zero-to-mastery/start-here-guidelines/stargazers) [![Forks](https://img.shields.io/github/forks/zero-to-mastery/start-here-guidelines?style=flat-square&color=blue)](https://github.com/zero-to-mastery/start-here-guidelines/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 17.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ zero-to-mastery/start-here‑guidelines 是 Zero To Mastery 为开源新人准�
 | forks | 100/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 56/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 57/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

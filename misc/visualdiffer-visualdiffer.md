@@ -1,6 +1,6 @@
 # visualdiffer/visualdiffer
 
-[![Stars](https://img.shields.io/github/stars/visualdiffer/visualdiffer?style=flat-square&color=yellow)](https://github.com/visualdiffer/visualdiffer/stargazers) [![Forks](https://img.shields.io/github/forks/visualdiffer/visualdiffer?style=flat-square&color=blue)](https://github.com/visualdiffer/visualdiffer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/visualdiffer/visualdiffer?style=flat-square&color=yellow)](https://github.com/visualdiffer/visualdiffer/stargazers) [![Forks](https://img.shields.io/github/forks/visualdiffer/visualdiffer?style=flat-square&color=blue)](https://github.com/visualdiffer/visualdiffer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > macOS application designed to visually compare folders and files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ visualdiffer 在 macOS 环境下提供了高效、可视化的文件/文件夹�
 | forks | 26/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

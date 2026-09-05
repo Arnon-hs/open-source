@@ -1,6 +1,6 @@
 # memex-lab/memex
 
-[![Stars](https://img.shields.io/github/stars/memex-lab/memex?style=flat-square&color=yellow)](https://github.com/memex-lab/memex/stargazers) [![Forks](https://img.shields.io/github/forks/memex-lab/memex?style=flat-square&color=blue)](https://github.com/memex-lab/memex/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memex-lab/memex?style=flat-square&color=yellow)](https://github.com/memex-lab/memex/stargazers) [![Forks](https://img.shields.io/github/forks/memex-lab/memex?style=flat-square&color=blue)](https://github.com/memex-lab/memex/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, local-first AI journal app for iOS and Android. Capture text, photos, and voice — AI agents organize them into timeline cards and insights. Your data stays on your device. Bring your own LLM (OpenAI, Claude, Gemini, Ollama, and more).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Mobile
+AI/ML · Productivity · Mobile
 
 ## 📝 Summary
 
@@ -123,15 +123,15 @@ memex‑lab/memex 是一个 **“本地优先 + 可插拔 LLM”** 的移动端 
 | forks | 30/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 49/100 |
-| quality | 53/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

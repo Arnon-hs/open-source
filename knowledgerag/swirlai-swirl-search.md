@@ -1,6 +1,6 @@
 # swirlai/swirl-search
 
-[![Stars](https://img.shields.io/github/stars/swirlai/swirl-search?style=flat-square&color=yellow)](https://github.com/swirlai/swirl-search/stargazers) [![Forks](https://img.shields.io/github/forks/swirlai/swirl-search?style=flat-square&color=blue)](https://github.com/swirlai/swirl-search/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swirlai/swirl-search?style=flat-square&color=yellow)](https://github.com/swirlai/swirl-search/stargazers) [![Forks](https://img.shields.io/github/forks/swirlai/swirl-search?style=flat-square&color=blue)](https://github.com/swirlai/swirl-search/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 285 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ swirlai/swirl-search 是一款基于 LLM 的企业内部搜索与 RAG（检索�
 | forks | 61/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

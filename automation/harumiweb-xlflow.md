@@ -1,6 +1,6 @@
 # harumiWeb/xlflow
 
-[![Stars](https://img.shields.io/github/stars/harumiWeb/xlflow?style=flat-square&color=yellow)](https://github.com/harumiWeb/xlflow/stargazers) [![Forks](https://img.shields.io/github/forks/harumiWeb/xlflow?style=flat-square&color=blue)](https://github.com/harumiWeb/xlflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harumiWeb/xlflow?style=flat-square&color=yellow)](https://github.com/harumiWeb/xlflow/stargazers) [![Forks](https://img.shields.io/github/forks/harumiWeb/xlflow?style=flat-square&color=blue)](https://github.com/harumiWeb/xlflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Agent-ready CLI framework for editing, testing, running, tracing, and diffing Excel VBA projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ harumiWeb/xlflow 是一款面向 AI‑Agent 的命令行框架，专注于 Excel
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

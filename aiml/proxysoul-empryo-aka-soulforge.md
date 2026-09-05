@@ -1,6 +1,6 @@
 # proxysoul/Empryo-aka-soulforge
 
-[![Stars](https://img.shields.io/github/stars/proxysoul/Empryo-aka-soulforge?style=flat-square&color=yellow)](https://github.com/proxysoul/Empryo-aka-soulforge/stargazers) [![Forks](https://img.shields.io/github/forks/proxysoul/Empryo-aka-soulforge?style=flat-square&color=blue)](https://github.com/proxysoul/Empryo-aka-soulforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/proxysoul/Empryo-aka-soulforge?style=flat-square&color=yellow)](https://github.com/proxysoul/Empryo-aka-soulforge/stargazers) [![Forks](https://img.shields.io/github/forks/proxysoul/Empryo-aka-soulforge?style=flat-square&color=blue)](https://github.com/proxysoul/Empryo-aka-soulforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding agent that edits symbols, not strings. AST surgery, full LSP, and a live code graph wired to memory that resurfaces by file, co-change, and semantics. https://soulforge.proxysoul.com/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 833 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ proxysoul/Empryo-aka-soulforge 帮助开发者在不从头开始构建模型堆�
 | forks | 45/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

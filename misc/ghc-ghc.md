@@ -1,6 +1,6 @@
 # ghc/ghc
 
-[![Stars](https://img.shields.io/github/stars/ghc/ghc?style=flat-square&color=yellow)](https://github.com/ghc/ghc/stargazers) [![Forks](https://img.shields.io/github/forks/ghc/ghc?style=flat-square&color=blue)](https://github.com/ghc/ghc/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghc/ghc?style=flat-square&color=yellow)](https://github.com/ghc/ghc/stargazers) [![Forks](https://img.shields.io/github/forks/ghc/ghc?style=flat-square&color=blue)](https://github.com/ghc/ghc/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 734 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ ghc/ghc 是 Glasgow Haskell Compiler（GHC）的官方镜像仓库，提供 Hask
 | forks | 72/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

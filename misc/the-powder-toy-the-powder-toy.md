@@ -1,6 +1,6 @@
 # The-Powder-Toy/The-Powder-Toy
 
-[![Stars](https://img.shields.io/github/stars/The-Powder-Toy/The-Powder-Toy?style=flat-square&color=yellow)](https://github.com/The-Powder-Toy/The-Powder-Toy/stargazers) [![Forks](https://img.shields.io/github/forks/The-Powder-Toy/The-Powder-Toy?style=flat-square&color=blue)](https://github.com/The-Powder-Toy/The-Powder-Toy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-Powder-Toy/The-Powder-Toy?style=flat-square&color=yellow)](https://github.com/The-Powder-Toy/The-Powder-Toy/stargazers) [![Forks](https://img.shields.io/github/forks/The-Powder-Toy/The-Powder-Toy?style=flat-square&color=blue)](https://github.com/The-Powder-Toy/The-Powder-Toy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 887 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ The Powder Toy 是一款基于 C++ 和 SDL 的桌面版“落沙”物理沙盒�
 | forks | 74/100 |
 | stars | 79/100 |
 | topics | 75/100 |
-| outlook | 66/100 |
-| quality | 76/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # kokkos/kokkos
 
-[![Stars](https://img.shields.io/github/stars/kokkos/kokkos?style=flat-square&color=yellow)](https://github.com/kokkos/kokkos/stargazers) [![Forks](https://img.shields.io/github/forks/kokkos/kokkos?style=flat-square&color=blue)](https://github.com/kokkos/kokkos/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kokkos/kokkos?style=flat-square&color=yellow)](https://github.com/kokkos/kokkos/stargazers) [![Forks](https://img.shields.io/github/forks/kokkos/kokkos?style=flat-square&color=blue)](https://github.com/kokkos/kokkos/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 497 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Kokkos（kokkos/kokkos）是一个面向 C++ 的性能可移植性编程生态�
 | forks | 67/100 |
 | stars | 72/100 |
 | topics | 88/100 |
-| outlook | 52/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

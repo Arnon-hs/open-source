@@ -1,6 +1,6 @@
 # tickmao/Novel
 
-[![Stars](https://img.shields.io/github/stars/tickmao/Novel?style=flat-square&color=yellow)](https://github.com/tickmao/Novel/stargazers) [![Forks](https://img.shields.io/github/forks/tickmao/Novel?style=flat-square&color=blue)](https://github.com/tickmao/Novel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tickmao/Novel?style=flat-square&color=yellow)](https://github.com/tickmao/Novel/stargazers) [![Forks](https://img.shields.io/github/forks/tickmao/Novel?style=flat-square&color=blue)](https://github.com/tickmao/Novel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 Novle setting | 小说书源及软件整理 爱阅书香 / 香色闺阁 / 阅读（含字体、净化规则、TTS配置）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ tickmao/Novel 是一个面向中文阅读爱好者的开源工具集合，提供
 | forks | 46/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 63/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

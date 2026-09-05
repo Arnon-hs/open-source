@@ -1,6 +1,6 @@
 # VoiceBlender/voiceblender
 
-[![Stars](https://img.shields.io/github/stars/VoiceBlender/voiceblender?style=flat-square&color=yellow)](https://github.com/VoiceBlender/voiceblender/stargazers) [![Forks](https://img.shields.io/github/forks/VoiceBlender/voiceblender?style=flat-square&color=blue)](https://github.com/VoiceBlender/voiceblender/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoiceBlender/voiceblender?style=flat-square&color=yellow)](https://github.com/VoiceBlender/voiceblender/stargazers) [![Forks](https://img.shields.io/github/forks/VoiceBlender/voiceblender?style=flat-square&color=blue)](https://github.com/VoiceBlender/voiceblender/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A programmable voice platform: SIP and WebRTC call control, multi-party mixing, recording, TTS/STT, and pluggable AI agents (ElevenLabs, VAPI, Pipecat, Deepgram) — all driven through a REST API, webhooks, and a WebSocket event stream
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ VoiceBlender（voiceblender）是一个可编程的语音平台，提供 SIP 与
 | forks | 17/100 |
 | stars | 38/100 |
 | topics | 88/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # serejaris/personal-corp-skills
 
-[![Stars](https://img.shields.io/github/stars/serejaris/personal-corp-skills?style=flat-square&color=yellow)](https://github.com/serejaris/personal-corp-skills/stargazers) [![Forks](https://img.shields.io/github/forks/serejaris/personal-corp-skills?style=flat-square&color=blue)](https://github.com/serejaris/personal-corp-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serejaris/personal-corp-skills?style=flat-square&color=yellow)](https://github.com/serejaris/personal-corp-skills/stargazers) [![Forks](https://img.shields.io/github/forks/serejaris/personal-corp-skills?style=flat-square&color=blue)](https://github.com/serejaris/personal-corp-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Public Claude Code skills for Personal Corp, product work, AI operations, and agent-assisted development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ serejaris/personal-corp-skills 将零散的 Prompt 与工具封装成可重复�
 | forks | 34/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

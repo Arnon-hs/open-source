@@ -1,6 +1,6 @@
 # shuntaka9576/agentoast
 
-[![Stars](https://img.shields.io/github/stars/shuntaka9576/agentoast?style=flat-square&color=yellow)](https://github.com/shuntaka9576/agentoast/stargazers) [![Forks](https://img.shields.io/github/forks/shuntaka9576/agentoast?style=flat-square&color=blue)](https://github.com/shuntaka9576/agentoast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shuntaka9576/agentoast?style=flat-square&color=yellow)](https://github.com/shuntaka9576/agentoast/stargazers) [![Forks](https://img.shields.io/github/forks/shuntaka9576/agentoast?style=flat-square&color=blue)](https://github.com/shuntaka9576/agentoast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🍞 Toast notifications from AI coding agents on your macOS menu bar, with tmux pane switching
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ shuntaka9576/agentoast 是一个用 Rust 编写的 macOS 小工具，能够在�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 44/100 |
-| quality | 44/100 |
-| recency | 20/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 42/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

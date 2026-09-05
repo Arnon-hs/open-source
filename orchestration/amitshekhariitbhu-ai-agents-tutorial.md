@@ -1,6 +1,6 @@
 # amitshekhariitbhu/ai-agents-tutorial
 
-[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/ai-agents-tutorial?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/ai-agents-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/ai-agents-tutorial?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/ai-agents-tutorial/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/ai-agents-tutorial?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/ai-agents-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/ai-agents-tutorial?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/ai-agents-tutorial/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ amitshekhariitbhu/ai-agents-tutorial 是一个开源项目，帮助开发人员�
 | forks | 39/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

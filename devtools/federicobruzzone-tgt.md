@@ -1,6 +1,6 @@
 # FedericoBruzzone/tgt
 
-[![Stars](https://img.shields.io/github/stars/FedericoBruzzone/tgt?style=flat-square&color=yellow)](https://github.com/FedericoBruzzone/tgt/stargazers) [![Forks](https://img.shields.io/github/forks/FedericoBruzzone/tgt?style=flat-square&color=blue)](https://github.com/FedericoBruzzone/tgt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FedericoBruzzone/tgt?style=flat-square&color=yellow)](https://github.com/FedericoBruzzone/tgt/stargazers) [![Forks](https://img.shields.io/github/forks/FedericoBruzzone/tgt?style=flat-square&color=blue)](https://github.com/FedericoBruzzone/tgt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > TUI for Telegram written in Rust 🦀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 964 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ FedericoBruzzone/tgt 是一个使用 Rust 语言编写的 Telegram 的 TUI（文
 | forks | 41/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

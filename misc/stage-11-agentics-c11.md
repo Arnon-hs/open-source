@@ -1,6 +1,6 @@
 # Stage-11-Agentics/c11
 
-[![Stars](https://img.shields.io/github/stars/Stage-11-Agentics/c11?style=flat-square&color=yellow)](https://github.com/Stage-11-Agentics/c11/stargazers) [![Forks](https://img.shields.io/github/forks/Stage-11-Agentics/c11?style=flat-square&color=blue)](https://github.com/Stage-11-Agentics/c11/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Stage-11-Agentics/c11?style=flat-square&color=yellow)](https://github.com/Stage-11-Agentics/c11/stargazers) [![Forks](https://img.shields.io/github/forks/Stage-11-Agentics/c11?style=flat-square&color=blue)](https://github.com/Stage-11-Agentics/c11/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-native Terminal Multiplexing for 10,000x hyperengineers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ Stage-11-Agentics/c11 是面向“超工程师”（10,000 倍生产力）的 
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

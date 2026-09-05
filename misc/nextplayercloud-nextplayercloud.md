@@ -1,6 +1,6 @@
 # NextPlayerCloud/NextPlayerCloud
 
-[![Stars](https://img.shields.io/github/stars/NextPlayerCloud/NextPlayerCloud?style=flat-square&color=yellow)](https://github.com/NextPlayerCloud/NextPlayerCloud/stargazers) [![Forks](https://img.shields.io/github/forks/NextPlayerCloud/NextPlayerCloud?style=flat-square&color=blue)](https://github.com/NextPlayerCloud/NextPlayerCloud/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NextPlayerCloud/NextPlayerCloud?style=flat-square&color=yellow)](https://github.com/NextPlayerCloud/NextPlayerCloud/stargazers) [![Forks](https://img.shields.io/github/forks/NextPlayerCloud/NextPlayerCloud?style=flat-square&color=blue)](https://github.com/NextPlayerCloud/NextPlayerCloud/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ NextPlayerCloud/NextPlayerCloud 是一个开源项目，分数为 49/100。它�
 | forks | 25/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 46/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

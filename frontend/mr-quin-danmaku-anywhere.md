@@ -1,6 +1,6 @@
 # Mr-Quin/danmaku-anywhere
 
-[![Stars](https://img.shields.io/github/stars/Mr-Quin/danmaku-anywhere?style=flat-square&color=yellow)](https://github.com/Mr-Quin/danmaku-anywhere/stargazers) [![Forks](https://img.shields.io/github/forks/Mr-Quin/danmaku-anywhere?style=flat-square&color=blue)](https://github.com/Mr-Quin/danmaku-anywhere/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mr-Quin/danmaku-anywhere?style=flat-square&color=yellow)](https://github.com/Mr-Quin/danmaku-anywhere/stargazers) [![Forks](https://img.shields.io/github/forks/Mr-Quin/danmaku-anywhere?style=flat-square&color=blue)](https://github.com/Mr-Quin/danmaku-anywhere/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 一个可以给几乎任何视频网站添加弹幕的开源软件 | An open source solution to add danmaku to almost every video website
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Mr-Quin/danmaku-anywhere是一款开源软件，能够为几乎任何视频网�
 | forks | 31/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

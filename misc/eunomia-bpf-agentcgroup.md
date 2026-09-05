@@ -1,6 +1,6 @@
 # eunomia-bpf/agentcgroup
 
-[![Stars](https://img.shields.io/github/stars/eunomia-bpf/agentcgroup?style=flat-square&color=yellow)](https://github.com/eunomia-bpf/agentcgroup/stargazers) [![Forks](https://img.shields.io/github/forks/eunomia-bpf/agentcgroup?style=flat-square&color=blue)](https://github.com/eunomia-bpf/agentcgroup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eunomia-bpf/agentcgroup?style=flat-square&color=yellow)](https://github.com/eunomia-bpf/agentcgroup/stargazers) [![Forks](https://img.shields.io/github/forks/eunomia-bpf/agentcgroup?style=flat-square&color=blue)](https://github.com/eunomia-bpf/agentcgroup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AgentCgroup: Understanding and Controlling OS Resources of AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ eunomia-bpf/agentcgroup：eunomia-bpf/agentcgroup may be useful when its README 
 | forks | 17/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 45/100 |
-| recency | 80/100 |
+| outlook | 48/100 |
+| quality | 40/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 56/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

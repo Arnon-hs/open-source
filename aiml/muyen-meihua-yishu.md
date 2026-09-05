@@ -1,6 +1,6 @@
 # muyen/meihua-yishu
 
-[![Stars](https://img.shields.io/github/stars/muyen/meihua-yishu?style=flat-square&color=yellow)](https://github.com/muyen/meihua-yishu/stargazers) [![Forks](https://img.shields.io/github/forks/muyen/meihua-yishu?style=flat-square&color=blue)](https://github.com/muyen/meihua-yishu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muyen/meihua-yishu?style=flat-square&color=yellow)](https://github.com/muyen/meihua-yishu/stargazers) [![Forks](https://img.shields.io/github/forks/muyen/meihua-yishu?style=flat-square&color=blue)](https://github.com/muyen/meihua-yishu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 梅花易數 - 適用於 Claude、ChatGPT、Gemini、DeepSeek 等 AI/LLM 的占卜技能
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Here's a brief summary and explanation of the open-source project muyen/meihua-y
 | forks | 45/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

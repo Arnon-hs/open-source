@@ -1,6 +1,6 @@
 # aaron-he-zhu/aaron-marketing-skills
 
-[![Stars](https://img.shields.io/github/stars/aaron-he-zhu/aaron-marketing-skills?style=flat-square&color=yellow)](https://github.com/aaron-he-zhu/aaron-marketing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aaron-he-zhu/aaron-marketing-skills?style=flat-square&color=blue)](https://github.com/aaron-he-zhu/aaron-marketing-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaron-he-zhu/aaron-marketing-skills?style=flat-square&color=yellow)](https://github.com/aaron-he-zhu/aaron-marketing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aaron-he-zhu/aaron-marketing-skills?style=flat-square&color=blue)](https://github.com/aaron-he-zhu/aaron-marketing-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 38 marketing skills + 5 commands for Claude Code & 35+ AI agents: SEO/GEO + influencer marketing (IMPACT). Frameworks: CORE-EEAT, CITE, C3.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ aaron-he-zhu/aaron-marketing-skills 汇集了 38 项营销技能、5 条 Claude 
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

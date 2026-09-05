@@ -1,6 +1,6 @@
 # SteamAchievementNotifier/SteamAchievementNotifier
 
-[![Stars](https://img.shields.io/github/stars/SteamAchievementNotifier/SteamAchievementNotifier?style=flat-square&color=yellow)](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier/stargazers) [![Forks](https://img.shields.io/github/forks/SteamAchievementNotifier/SteamAchievementNotifier?style=flat-square&color=blue)](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteamAchievementNotifier/SteamAchievementNotifier?style=flat-square&color=yellow)](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier/stargazers) [![Forks](https://img.shields.io/github/forks/SteamAchievementNotifier/SteamAchievementNotifier?style=flat-square&color=blue)](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Steam Achievement Notifier shows fully customisable notifications when you unlock any achievement on Steam!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 488 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ SteamAchievementNotifier 是一款开源工具，能够在玩家于 Steam 上解
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 59/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

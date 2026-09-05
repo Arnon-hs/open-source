@@ -1,6 +1,6 @@
 # schmitthub/clawker
 
-[![Stars](https://img.shields.io/github/stars/schmitthub/clawker?style=flat-square&color=yellow)](https://github.com/schmitthub/clawker/stargazers) [![Forks](https://img.shields.io/github/forks/schmitthub/clawker?style=flat-square&color=blue)](https://github.com/schmitthub/clawker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schmitthub/clawker?style=flat-square&color=yellow)](https://github.com/schmitthub/clawker/stargazers) [![Forks](https://img.shields.io/github/forks/schmitthub/clawker?style=flat-square&color=blue)](https://github.com/schmitthub/clawker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding agent sandbox: run Claude Code in isolated Docker containers behind an egress firewall — self-hosted & free
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ schmitthub/clawker 是一个 AI 编码代理沙箱，能够在受限的 Docker �
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 56/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

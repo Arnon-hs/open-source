@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | transformers |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2024-02-04 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ microsoft/xclip-base-patch32：microsoft/xclip-base-patch32 may be useful when i
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

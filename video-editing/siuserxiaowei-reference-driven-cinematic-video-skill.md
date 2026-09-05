@@ -1,6 +1,6 @@
 # siuserxiaowei/reference-driven-cinematic-video-skill
 
-[![Stars](https://img.shields.io/github/stars/siuserxiaowei/reference-driven-cinematic-video-skill?style=flat-square&color=yellow)](https://github.com/siuserxiaowei/reference-driven-cinematic-video-skill/stargazers) [![Forks](https://img.shields.io/github/forks/siuserxiaowei/reference-driven-cinematic-video-skill?style=flat-square&color=blue)](https://github.com/siuserxiaowei/reference-driven-cinematic-video-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siuserxiaowei/reference-driven-cinematic-video-skill?style=flat-square&color=yellow)](https://github.com/siuserxiaowei/reference-driven-cinematic-video-skill/stargazers) [![Forks](https://img.shields.io/github/forks/siuserxiaowei/reference-driven-cinematic-video-skill?style=flat-square&color=blue)](https://github.com/siuserxiaowei/reference-driven-cinematic-video-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Codex skill for cinematic product videos with user recording or voice API support, default narration fallback, captions, and FFmpeg quality gates
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-09-01 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ This open‑source skill automates the creation of cinematic product videos, sup
 | forks | 27/100 |
 | stars | 39/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

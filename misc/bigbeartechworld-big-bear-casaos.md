@@ -1,6 +1,6 @@
 # bigbeartechworld/big-bear-casaos
 
-[![Stars](https://img.shields.io/github/stars/bigbeartechworld/big-bear-casaos?style=flat-square&color=yellow)](https://github.com/bigbeartechworld/big-bear-casaos/stargazers) [![Forks](https://img.shields.io/github/forks/bigbeartechworld/big-bear-casaos?style=flat-square&color=blue)](https://github.com/bigbeartechworld/big-bear-casaos/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bigbeartechworld/big-bear-casaos?style=flat-square&color=yellow)](https://github.com/bigbeartechworld/big-bear-casaos/stargazers) [![Forks](https://img.shields.io/github/forks/bigbeartechworld/big-bear-casaos?style=flat-square&color=blue)](https://github.com/bigbeartechworld/big-bear-casaos/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > One of the official app stores for IceWhale products (CasaOS & ZimaOS), developed and maintained independently by BigBearTechWorld. This curated collection offers a wide range of carefully selected applications to enhance your CasaOS and ZimaOS experience.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 607 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ bigbeartechworld/big-bear-casaos 是一款开源项目，专为 IceWhale 产品 
 | forks | 53/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

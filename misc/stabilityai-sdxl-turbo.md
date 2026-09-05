@@ -1,6 +1,6 @@
 # stabilityai/sdxl-turbo
 
-[![Stars](https://img.shields.io/github/stars/stabilityai/sdxl-turbo?style=flat-square&color=yellow)](https://huggingface.co/stabilityai/sdxl-turbo/stargazers) [![Forks](https://img.shields.io/github/forks/stabilityai/sdxl-turbo?style=flat-square&color=blue)](https://huggingface.co/stabilityai/sdxl-turbo/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stabilityai/sdxl-turbo?style=flat-square&color=yellow)](https://huggingface.co/stabilityai/sdxl-turbo/stargazers) [![Forks](https://img.shields.io/github/forks/stabilityai/sdxl-turbo?style=flat-square&color=blue)](https://huggingface.co/stabilityai/sdxl-turbo/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Image generation (text-to-image) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ stabilityai/sdxl-turbo 的主要价值在于，它可以帮助开发者快速添
 | forks | 0/100 |
 | stars | 73/100 |
 | topics | 38/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 39/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

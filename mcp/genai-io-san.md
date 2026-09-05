@@ -1,6 +1,6 @@
 # genai-io/san
 
-[![Stars](https://img.shields.io/github/stars/genai-io/san?style=flat-square&color=yellow)](https://github.com/genai-io/san/stargazers) [![Forks](https://img.shields.io/github/forks/genai-io/san?style=flat-square&color=blue)](https://github.com/genai-io/san/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/genai-io/san?style=flat-square&color=yellow)](https://github.com/genai-io/san/stargazers) [![Forks](https://img.shields.io/github/forks/genai-io/san?style=flat-square&color=blue)](https://github.com/genai-io/san/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The lightweight, model-agnostic agent harness — one ~12MB Go binary, ~0.01s cold start, runs anywhere from your laptop to a CI step or edge device. Learns as you work; skills, subagents, plugins & MCP run unmodified.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ genai-io/san 是一个轻量级、模型无关的智能体框架，核心仅约 
 | forks | 37/100 |
 | stars | 38/100 |
 | topics | 63/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

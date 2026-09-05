@@ -1,6 +1,6 @@
 # jacob-bd/notebooklm-mcp-cli
 
-[![Stars](https://img.shields.io/github/stars/jacob-bd/notebooklm-mcp-cli?style=flat-square&color=yellow)](https://github.com/jacob-bd/notebooklm-mcp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jacob-bd/notebooklm-mcp-cli?style=flat-square&color=blue)](https://github.com/jacob-bd/notebooklm-mcp-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jacob-bd/notebooklm-mcp-cli?style=flat-square&color=yellow)](https://github.com/jacob-bd/notebooklm-mcp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jacob-bd/notebooklm-mcp-cli?style=flat-square&color=blue)](https://github.com/jacob-bd/notebooklm-mcp-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 683 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ The project scores high on readiness: it has recent commits (as of 2026‑05‑1
 | forks | 71/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 54/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 51/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 66/100 |
 | sourceTrust | 100/100 |

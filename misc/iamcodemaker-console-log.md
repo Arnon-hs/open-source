@@ -1,6 +1,6 @@
 # iamcodemaker/console_log
 
-[![Stars](https://img.shields.io/github/stars/iamcodemaker/console_log?style=flat-square&color=yellow)](https://github.com/iamcodemaker/console_log/stargazers) [![Forks](https://img.shields.io/github/forks/iamcodemaker/console_log?style=flat-square&color=blue)](https://github.com/iamcodemaker/console_log/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamcodemaker/console_log?style=flat-square&color=yellow)](https://github.com/iamcodemaker/console_log/stargazers) [![Forks](https://img.shields.io/github/forks/iamcodemaker/console_log?style=flat-square&color=blue)](https://github.com/iamcodemaker/console_log/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A rust logger that routes messages to the browser's console.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ iamcodemaker/console_log 的生产可用性为中等，分数为 51/100。它可
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 38/100 |
-| outlook | 46/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 48/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

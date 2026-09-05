@@ -1,6 +1,6 @@
 # mlb-rs/mlbt
 
-[![Stars](https://img.shields.io/github/stars/mlb-rs/mlbt?style=flat-square&color=yellow)](https://github.com/mlb-rs/mlbt/stargazers) [![Forks](https://img.shields.io/github/forks/mlb-rs/mlbt?style=flat-square&color=blue)](https://github.com/mlb-rs/mlbt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlb-rs/mlbt?style=flat-square&color=yellow)](https://github.com/mlb-rs/mlbt/stargazers) [![Forks](https://img.shields.io/github/forks/mlb-rs/mlbt?style=flat-square&color=blue)](https://github.com/mlb-rs/mlbt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ mlb-rs/mlbt 为 MLB Stats API 提供了一个在终端运行的交互式界面�
 | forks | 32/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

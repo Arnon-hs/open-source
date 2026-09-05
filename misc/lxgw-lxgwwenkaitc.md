@@ -1,6 +1,6 @@
 # lxgw/LxgwWenkaiTC
 
-[![Stars](https://img.shields.io/github/stars/lxgw/LxgwWenkaiTC?style=flat-square&color=yellow)](https://github.com/lxgw/LxgwWenkaiTC/stargazers) [![Forks](https://img.shields.io/github/forks/lxgw/LxgwWenkaiTC?style=flat-square&color=blue)](https://github.com/lxgw/LxgwWenkaiTC/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lxgw/LxgwWenkaiTC?style=flat-square&color=yellow)](https://github.com/lxgw/LxgwWenkaiTC/stargazers) [![Forks](https://img.shields.io/github/forks/lxgw/LxgwWenkaiTC?style=flat-square&color=blue)](https://github.com/lxgw/LxgwWenkaiTC/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Traditional Chinese Edition of LXGW WenKai.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 786 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ lxgw/LxgwWenkaiTC 提供了现成的 LXGW WenKai 繁体中文版，能够快速�
 | forks | 29/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 49/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

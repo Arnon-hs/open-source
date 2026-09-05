@@ -1,6 +1,6 @@
 # Nasiko-Labs/nasiko
 
-[![Stars](https://img.shields.io/github/stars/Nasiko-Labs/nasiko?style=flat-square&color=yellow)](https://github.com/Nasiko-Labs/nasiko/stargazers) [![Forks](https://img.shields.io/github/forks/Nasiko-Labs/nasiko?style=flat-square&color=blue)](https://github.com/Nasiko-Labs/nasiko/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nasiko-Labs/nasiko?style=flat-square&color=yellow)](https://github.com/Nasiko-Labs/nasiko/stargazers) [![Forks](https://img.shields.io/github/forks/Nasiko-Labs/nasiko?style=flat-square&color=blue)](https://github.com/Nasiko-Labs/nasiko/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Developer Control Plane for your AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ Nasiko 是 Nasiko‑Labs 开源的 **Developer Control Plane**，帮助开发者
 | forks | 55/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

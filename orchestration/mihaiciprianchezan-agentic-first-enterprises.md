@@ -1,6 +1,6 @@
 # MihaiCiprianChezan/Agentic-First-Enterprises
 
-[![Stars](https://img.shields.io/github/stars/MihaiCiprianChezan/Agentic-First-Enterprises?style=flat-square&color=yellow)](https://github.com/MihaiCiprianChezan/Agentic-First-Enterprises/stargazers) [![Forks](https://img.shields.io/github/forks/MihaiCiprianChezan/Agentic-First-Enterprises?style=flat-square&color=blue)](https://github.com/MihaiCiprianChezan/Agentic-First-Enterprises/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MihaiCiprianChezan/Agentic-First-Enterprises?style=flat-square&color=yellow)](https://github.com/MihaiCiprianChezan/Agentic-First-Enterprises/stargazers) [![Forks](https://img.shields.io/github/forks/MihaiCiprianChezan/Agentic-First-Enterprises?style=flat-square&color=blue)](https://github.com/MihaiCiprianChezan/Agentic-First-Enterprises/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A reference operating model for organizations where any role can be filled by a human or an agent, every process is built for agents first, and every flow can be paused, adjusted by a human, and resumed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Agentic-First-Enterprises 是一个开源项目，提供了一个参考运营模
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Vertical Video · Content Creation · AI/ML · Frontend
+Vertical Video · Content Creation · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ xuanyustudio/LocalMiniDrama：xuanyustudio/LocalMiniDrama helps automate short-f
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ainfosec/FISSURE
 
-[![Stars](https://img.shields.io/github/stars/ainfosec/FISSURE?style=flat-square&color=yellow)](https://github.com/ainfosec/FISSURE/stargazers) [![Forks](https://img.shields.io/github/forks/ainfosec/FISSURE?style=flat-square&color=blue)](https://github.com/ainfosec/FISSURE/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ainfosec/FISSURE?style=flat-square&color=yellow)](https://github.com/ainfosec/FISSURE/stargazers) [![Forks](https://img.shields.io/github/forks/ainfosec/FISSURE?style=flat-square&color=blue)](https://github.com/ainfosec/FISSURE/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The RF and reverse engineering framework for everyone. Follow and ★ to show your support!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ AINFOSEC/FISSURE 的生产可用性较高，主要原因是：
 | forks | 53/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

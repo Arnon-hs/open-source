@@ -1,6 +1,6 @@
 # reHackable/awesome-reMarkable
 
-[![Stars](https://img.shields.io/github/stars/reHackable/awesome-reMarkable?style=flat-square&color=yellow)](https://github.com/reHackable/awesome-reMarkable/stargazers) [![Forks](https://img.shields.io/github/forks/reHackable/awesome-reMarkable?style=flat-square&color=blue)](https://github.com/reHackable/awesome-reMarkable/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reHackable/awesome-reMarkable?style=flat-square&color=yellow)](https://github.com/reHackable/awesome-reMarkable/stargazers) [![Forks](https://img.shields.io/github/forks/reHackable/awesome-reMarkable?style=flat-square&color=blue)](https://github.com/reHackable/awesome-reMarkable/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of projects related to the reMarkable tablet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ reHackable/awesome-reMarkable 是一个由社区维护的精选列表，收录�
 | forks | 60/100 |
 | stars | 82/100 |
 | topics | 38/100 |
-| outlook | 48/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

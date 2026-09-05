@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 471 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Education
+Templates · Documents · Education
 
 ## 📝 Summary
 
@@ -118,7 +118,7 @@ nasirkhan/laravel-starter 具有高生产可用性，理由如下：
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

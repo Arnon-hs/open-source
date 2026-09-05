@@ -1,6 +1,6 @@
 # Project-OSRM/osrm-backend
 
-[![Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=flat-square&color=yellow)](https://github.com/Project-OSRM/osrm-backend/stargazers) [![Forks](https://img.shields.io/github/forks/Project-OSRM/osrm-backend?style=flat-square&color=blue)](https://github.com/Project-OSRM/osrm-backend/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=flat-square&color=yellow)](https://github.com/Project-OSRM/osrm-backend/stargazers) [![Forks](https://img.shields.io/github/forks/Project-OSRM/osrm-backend?style=flat-square&color=blue)](https://github.com/Project-OSRM/osrm-backend/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Routing Machine - C++ backend
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Project‑OSRM/osrm‑backend 是 Open Source Routing Machine 的 C++ 核心实�
 | forks | 90/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 78/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

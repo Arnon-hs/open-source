@@ -1,6 +1,6 @@
 # jahwag/clem
 
-[![Stars](https://img.shields.io/github/stars/jahwag/clem?style=flat-square&color=yellow)](https://github.com/jahwag/clem/stargazers) [![Forks](https://img.shields.io/github/forks/jahwag/clem?style=flat-square&color=blue)](https://github.com/jahwag/clem/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jahwag/clem?style=flat-square&color=yellow)](https://github.com/jahwag/clem/stargazers) [![Forks](https://img.shields.io/github/forks/jahwag/clem?style=flat-square&color=blue)](https://github.com/jahwag/clem/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Continuously Looping Engineering Machines. docker-compose for Claude Code agents - persistent teams, 24/7, on any Linux host.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ In short, CLEM offers a quick, low‑overhead way to embed Claude‑powered agen
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 63/100 |
-| outlook | 49/100 |
-| quality | 46/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 54/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

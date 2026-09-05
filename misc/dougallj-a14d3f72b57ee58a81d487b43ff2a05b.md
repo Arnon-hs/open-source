@@ -1,6 +1,6 @@
 # dougallj/a14d3f72b57ee58a81d487b43ff2a05b
 
-[![Stars](https://img.shields.io/github/stars/dougallj/a14d3f72b57ee58a81d487b43ff2a05b?style=flat-square&color=yellow)](https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b/stargazers) [![Forks](https://img.shields.io/github/forks/dougallj/a14d3f72b57ee58a81d487b43ff2a05b?style=flat-square&color=blue)](https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dougallj/a14d3f72b57ee58a81d487b43ff2a05b?style=flat-square&color=yellow)](https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b/stargazers) [![Forks](https://img.shields.io/github/forks/dougallj/a14d3f72b57ee58a81d487b43ff2a05b?style=flat-square&color=blue)](https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: huff12 - a 12-stream Huffman decoder for Apple Silicon
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 30/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ huff12 是专为 Apple Silicon 设计的 12 路并行 Huffman 解码器，能够
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 31/100 |
-| quality | 22/100 |
-| recency | 40/100 |
+| outlook | 45/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 36/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

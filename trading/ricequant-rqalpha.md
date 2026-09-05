@@ -1,6 +1,6 @@
 # ricequant/rqalpha
 
-[![Stars](https://img.shields.io/github/stars/ricequant/rqalpha?style=flat-square&color=yellow)](https://github.com/ricequant/rqalpha/stargazers) [![Forks](https://img.shields.io/github/forks/ricequant/rqalpha?style=flat-square&color=blue)](https://github.com/ricequant/rqalpha/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ricequant/rqalpha?style=flat-square&color=yellow)](https://github.com/ricequant/rqalpha/stargazers) [![Forks](https://img.shields.io/github/forks/ricequant/rqalpha?style=flat-square&color=blue)](https://github.com/ricequant/rqalpha/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ ricequant/rqalpha 已经有了高生产可用性，主要原因是：
 | forks | 81/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 77/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

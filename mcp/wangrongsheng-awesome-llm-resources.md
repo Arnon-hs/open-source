@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 845 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ WangRongsheng/awesome-LLM-resources：WangRongsheng/awesome-LLM-resources helps 
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

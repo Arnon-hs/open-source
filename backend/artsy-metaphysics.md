@@ -1,6 +1,6 @@
 # artsy/metaphysics
 
-[![Stars](https://img.shields.io/github/stars/artsy/metaphysics?style=flat-square&color=yellow)](https://github.com/artsy/metaphysics/stargazers) [![Forks](https://img.shields.io/github/forks/artsy/metaphysics?style=flat-square&color=blue)](https://github.com/artsy/metaphysics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artsy/metaphysics?style=flat-square&color=yellow)](https://github.com/artsy/metaphysics/stargazers) [![Forks](https://img.shields.io/github/forks/artsy/metaphysics?style=flat-square&color=blue)](https://github.com/artsy/metaphysics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Artsy's GraphQL API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ artsy/metaphysics 的生产可用性较高，主要原因是：
 | forks | 49/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

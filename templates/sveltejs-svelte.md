@@ -1,6 +1,6 @@
 # sveltejs/svelte
 
-[![Stars](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&color=yellow)](https://github.com/sveltejs/svelte/stargazers) [![Forks](https://img.shields.io/github/forks/sveltejs/svelte?style=flat-square&color=blue)](https://github.com/sveltejs/svelte/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&color=yellow)](https://github.com/sveltejs/svelte/stargazers) [![Forks](https://img.shields.io/github/forks/sveltejs/svelte?style=flat-square&color=blue)](https://github.com/sveltejs/svelte/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > web development for the rest of us
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86.6k |
 | 🍴 **Forks** | 4.9k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Frontend
+Templates · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ Svelte（sveltejs/svelte）是一款面向普通开发者的现代前端框架�
 | forks | 92/100 |
 | stars | 100/100 |
 | topics | 38/100 |
-| outlook | 57/100 |
-| quality | 70/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 54/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

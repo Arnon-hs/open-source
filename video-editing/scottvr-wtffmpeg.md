@@ -1,6 +1,6 @@
 # scottvr/wtffmpeg
 
-[![Stars](https://img.shields.io/github/stars/scottvr/wtffmpeg?style=flat-square&color=yellow)](https://github.com/scottvr/wtffmpeg/stargazers) [![Forks](https://img.shields.io/github/forks/scottvr/wtffmpeg?style=flat-square&color=blue)](https://github.com/scottvr/wtffmpeg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scottvr/wtffmpeg?style=flat-square&color=yellow)](https://github.com/scottvr/wtffmpeg/stargazers) [![Forks](https://img.shields.io/github/forks/scottvr/wtffmpeg?style=flat-square&color=blue)](https://github.com/scottvr/wtffmpeg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal character terminal (console) REPL UI for controlling ffmpeg via natural language descriptions of input files and the desired outcome, powered by local or remote LLM. Shell-style history with arrow keys support, !subshell support, /slash REPL op commands, run-time, env, and cli configuration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,11 +113,11 @@ scottvr/wtffmpeg 是一个开源项目，提供了一个基于自然语言描述
 | forks | 27/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

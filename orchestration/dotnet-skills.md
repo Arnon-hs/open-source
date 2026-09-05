@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,6 +78,7 @@ dotnet/skills：dotnet/skills helps turn isolated prompts and tools into repeata
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

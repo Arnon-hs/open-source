@@ -1,6 +1,6 @@
 # yuwen-cool/yuwen-publish-precheck
 
-[![Stars](https://img.shields.io/github/stars/yuwen-cool/yuwen-publish-precheck?style=flat-square&color=yellow)](https://github.com/yuwen-cool/yuwen-publish-precheck/stargazers) [![Forks](https://img.shields.io/github/forks/yuwen-cool/yuwen-publish-precheck?style=flat-square&color=blue)](https://github.com/yuwen-cool/yuwen-publish-precheck/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuwen-cool/yuwen-publish-precheck?style=flat-square&color=yellow)](https://github.com/yuwen-cool/yuwen-publish-precheck/stargazers) [![Forks](https://img.shields.io/github/forks/yuwen-cool/yuwen-publish-precheck?style=flat-square&color=blue)](https://github.com/yuwen-cool/yuwen-publish-precheck/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ yuwen-cool/yuwen-publish-precheck 的价值在于，它可以帮助开发者将�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

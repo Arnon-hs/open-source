@@ -1,6 +1,6 @@
 # jez500/pricebuddy
 
-[![Stars](https://img.shields.io/github/stars/jez500/pricebuddy?style=flat-square&color=yellow)](https://github.com/jez500/pricebuddy/stargazers) [![Forks](https://img.shields.io/github/forks/jez500/pricebuddy?style=flat-square&color=blue)](https://github.com/jez500/pricebuddy/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jez500/pricebuddy?style=flat-square&color=yellow)](https://github.com/jez500/pricebuddy/stargazers) [![Forks](https://img.shields.io/github/forks/jez500/pricebuddy?style=flat-square&color=blue)](https://github.com/jez500/pricebuddy/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A self hostable app that tracks prices and sends you notifications when prices match your preferences
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 979 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ PriceBuddy has a medium production readiness score, indicating that it can be us
 | forks | 44/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

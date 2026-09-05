@@ -1,6 +1,6 @@
 # docker/buildx
 
-[![Stars](https://img.shields.io/github/stars/docker/buildx?style=flat-square&color=yellow)](https://github.com/docker/buildx/stargazers) [![Forks](https://img.shields.io/github/forks/docker/buildx?style=flat-square&color=blue)](https://github.com/docker/buildx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docker/buildx?style=flat-square&color=yellow)](https://github.com/docker/buildx/stargazers) [![Forks](https://img.shields.io/github/forks/docker/buildx?style=flat-square&color=blue)](https://github.com/docker/buildx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Docker CLI plugin for extended build capabilities with BuildKit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 656 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ docker/buildx 的生产可用性是高的。它有 4440 个 GitHub 星星，656 
 | forks | 70/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

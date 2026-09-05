@@ -1,6 +1,6 @@
 # mailkite/server
 
-[![Stars](https://img.shields.io/github/stars/mailkite/server?style=flat-square&color=yellow)](https://github.com/mailkite/server/stargazers) [![Forks](https://img.shields.io/github/forks/mailkite/server?style=flat-square&color=blue)](https://github.com/mailkite/server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mailkite/server?style=flat-square&color=yellow)](https://github.com/mailkite/server/stargazers) [![Forks](https://img.shields.io/github/forks/mailkite/server?style=flat-square&color=blue)](https://github.com/mailkite/server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source programmable mail server for apps and AI agents — Haraka SMTP (MX + submission) + IMAP, one small backend contract. Self-host or use MailKite Cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -67,15 +67,15 @@ mailkite/server：mailkite/server helps add AI capability without starting from 
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 46/100 |
-| recency | 80/100 |
+| outlook | 53/100 |
+| quality | 41/100 |
+| recency | 60/100 |
 | adoption | 5/100 |
-| production | 54/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

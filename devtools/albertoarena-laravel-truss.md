@@ -1,6 +1,6 @@
 # albertoarena/laravel-truss
 
-[![Stars](https://img.shields.io/github/stars/albertoarena/laravel-truss?style=flat-square&color=yellow)](https://github.com/albertoarena/laravel-truss/stargazers) [![Forks](https://img.shields.io/github/forks/albertoarena/laravel-truss?style=flat-square&color=blue)](https://github.com/albertoarena/laravel-truss/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/albertoarena/laravel-truss?style=flat-square&color=yellow)](https://github.com/albertoarena/laravel-truss/stargazers) [![Forks](https://img.shields.io/github/forks/albertoarena/laravel-truss?style=flat-square&color=blue)](https://github.com/albertoarena/laravel-truss/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A live database structure viewer for Laravel that renders your schema as a scrollable, zoomable ER diagram. Structure only, never data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ albertoarena/laravel-truss 帮助添加 AI 能力而无需从零开始构建模�
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

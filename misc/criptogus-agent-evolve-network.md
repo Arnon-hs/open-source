@@ -1,6 +1,6 @@
 # criptogus/agent-evolve-network
 
-[![Stars](https://img.shields.io/github/stars/criptogus/agent-evolve-network?style=flat-square&color=yellow)](https://github.com/criptogus/agent-evolve-network/stargazers) [![Forks](https://img.shields.io/github/forks/criptogus/agent-evolve-network?style=flat-square&color=blue)](https://github.com/criptogus/agent-evolve-network/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/criptogus/agent-evolve-network?style=flat-square&color=yellow)](https://github.com/criptogus/agent-evolve-network/stargazers) [![Forks](https://img.shields.io/github/forks/criptogus/agent-evolve-network?style=flat-square&color=blue)](https://github.com/criptogus/agent-evolve-network/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 475 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ criptogus/agent-evolve-network 是一个开源项目，帮助开发者在不从�
 | forks | 12/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 50/100 |
-| recency | 60/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

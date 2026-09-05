@@ -1,6 +1,6 @@
 # domainaware/parsedmarc
 
-[![Stars](https://img.shields.io/github/stars/domainaware/parsedmarc?style=flat-square&color=yellow)](https://github.com/domainaware/parsedmarc/stargazers) [![Forks](https://img.shields.io/github/forks/domainaware/parsedmarc?style=flat-square&color=blue)](https://github.com/domainaware/parsedmarc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/domainaware/parsedmarc?style=flat-square&color=yellow)](https://github.com/domainaware/parsedmarc/stargazers) [![Forks](https://img.shields.io/github/forks/domainaware/parsedmarc?style=flat-square&color=blue)](https://github.com/domainaware/parsedmarc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A Python package and CLI for parsing aggregate and forensic DMARC reports
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ domainaware/parsedmarc 的生产可用性为中等（Medium）。它适合用于
 | forks | 60/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

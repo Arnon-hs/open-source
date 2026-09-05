@@ -1,6 +1,6 @@
 # uutils/sed
 
-[![Stars](https://img.shields.io/github/stars/uutils/sed?style=flat-square&color=yellow)](https://github.com/uutils/sed/stargazers) [![Forks](https://img.shields.io/github/forks/uutils/sed?style=flat-square&color=blue)](https://github.com/uutils/sed/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uutils/sed?style=flat-square&color=yellow)](https://github.com/uutils/sed/stargazers) [![Forks](https://img.shields.io/github/forks/uutils/sed?style=flat-square&color=blue)](https://github.com/uutils/sed/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rewrite of sed in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ uutils/sed 的生产可用性为中等（Medium）。它适用于原型开发或
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 48/100 |
-| recency | 60/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 53/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

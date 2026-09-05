@@ -1,6 +1,6 @@
 # randoop/randoop
 
-[![Stars](https://img.shields.io/github/stars/randoop/randoop?style=flat-square&color=yellow)](https://github.com/randoop/randoop/stargazers) [![Forks](https://img.shields.io/github/forks/randoop/randoop?style=flat-square&color=blue)](https://github.com/randoop/randoop/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/randoop/randoop?style=flat-square&color=yellow)](https://github.com/randoop/randoop/stargazers) [![Forks](https://img.shields.io/github/forks/randoop/randoop?style=flat-square&color=blue)](https://github.com/randoop/randoop/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic test generation for Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Randoop（randoop/randoop）是一款面向 Java 的自动化单元测试生成�
 | forks | 56/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

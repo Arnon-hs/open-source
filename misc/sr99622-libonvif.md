@@ -1,6 +1,6 @@
 # sr99622/libonvif
 
-[![Stars](https://img.shields.io/github/stars/sr99622/libonvif?style=flat-square&color=yellow)](https://github.com/sr99622/libonvif/stargazers) [![Forks](https://img.shields.io/github/forks/sr99622/libonvif?style=flat-square&color=blue)](https://github.com/sr99622/libonvif/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sr99622/libonvif?style=flat-square&color=yellow)](https://github.com/sr99622/libonvif/stargazers) [![Forks](https://img.shields.io/github/forks/sr99622/libonvif?style=flat-square&color=blue)](https://github.com/sr99622/libonvif/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > ONVIF library in python with utility program
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ sr99622/libonvif 的生产可用性为中等（Medium）。它可以用于原型
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 25/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

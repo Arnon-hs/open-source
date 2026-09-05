@@ -1,6 +1,6 @@
 # nuxt/nuxt.com
 
-[![Stars](https://img.shields.io/github/stars/nuxt/nuxt.com?style=flat-square&color=yellow)](https://github.com/nuxt/nuxt.com/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/nuxt.com?style=flat-square&color=blue)](https://github.com/nuxt/nuxt.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt/nuxt.com?style=flat-square&color=yellow)](https://github.com/nuxt/nuxt.com/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/nuxt.com?style=flat-square&color=blue)](https://github.com/nuxt/nuxt.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Nuxt website, made with Nuxt.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ nuxt/nuxt.com 的生产可用性为中等。虽然它是一个有用的工具，
 | forks | 61/100 |
 | stars | 57/100 |
 | topics | 25/100 |
-| outlook | 56/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

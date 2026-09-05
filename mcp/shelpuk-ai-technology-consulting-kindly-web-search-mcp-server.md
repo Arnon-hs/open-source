@@ -1,6 +1,6 @@
 # Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server?style=flat-square&color=yellow)](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server?style=flat-square&color=blue)](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server?style=flat-square&color=yellow)](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server?style=flat-square&color=blue)](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents (Claude Desktop, OpenClaw, Hermes, etc.). Supports Serper, Tavily, and SearXNG.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 356 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Kindly Web Search MCP Server
 | forks | 36/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

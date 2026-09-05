@@ -1,6 +1,6 @@
 # Hyundai-Kia-Connect/hyundai_kia_connect_api
 
-[![Stars](https://img.shields.io/github/stars/Hyundai-Kia-Connect/hyundai_kia_connect_api?style=flat-square&color=yellow)](https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api/stargazers) [![Forks](https://img.shields.io/github/forks/Hyundai-Kia-Connect/hyundai_kia_connect_api?style=flat-square&color=blue)](https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hyundai-Kia-Connect/hyundai_kia_connect_api?style=flat-square&color=yellow)](https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api/stargazers) [![Forks](https://img.shields.io/github/forks/Hyundai-Kia-Connect/hyundai_kia_connect_api?style=flat-square&color=blue)](https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > This is a Kia UVO and Hyundai Bluelink written in python. It is primary consumed by home assistant. If you are looking for a home assistant Kia / Hyundai implementation please look here: https://github.com/Hyundai-Kia-Connect/kia_uvo. Much of this base code came from reading bluelinky and contributions to the kia_uvo home assistant project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ Hyundai-Kia-Connect/hyundai_kia_connect_api 帮助开发者在不从零开始的
 | forks | 57/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 61/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

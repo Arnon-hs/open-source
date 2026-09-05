@@ -1,6 +1,6 @@
 # aeroxy/ast-bro
 
-[![Stars](https://img.shields.io/github/stars/aeroxy/ast-bro?style=flat-square&color=yellow)](https://github.com/aeroxy/ast-bro/stargazers) [![Forks](https://img.shields.io/github/forks/aeroxy/ast-bro?style=flat-square&color=blue)](https://github.com/aeroxy/ast-bro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aeroxy/ast-bro?style=flat-square&color=yellow)](https://github.com/aeroxy/ast-bro/stargazers) [![Forks](https://img.shields.io/github/forks/aeroxy/ast-bro?style=flat-square&color=blue)](https://github.com/aeroxy/ast-bro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, AST-based code navigation toolkit that maps file shapes, public APIs, and call graphs across coding languages. Designed to help coding agents and humans explore codebases, analyze blast radius, and generate token-budgeted context with massive token savings.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ aeroxy/ast-bro 的生产可用性为中等，适用于 prototyping 或内部工�
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 50/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 56/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

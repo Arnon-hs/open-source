@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Orchestration · Automation · AI/ML
+Templates · Orchestration · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ emretasss/AI-Workflow-Hub-2000-：emretasss/AI-Workflow-Hub-2000- helps teams re
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

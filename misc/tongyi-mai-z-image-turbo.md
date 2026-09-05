@@ -1,6 +1,6 @@
 # Tongyi-MAI/Z-Image-Turbo
 
-[![Stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image-Turbo?style=flat-square&color=yellow)](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo/stargazers) [![Forks](https://img.shields.io/github/forks/Tongyi-MAI/Z-Image-Turbo?style=flat-square&color=blue)](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image-Turbo?style=flat-square&color=yellow)](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo/stargazers) [![Forks](https://img.shields.io/github/forks/Tongyi-MAI/Z-Image-Turbo?style=flat-square&color=blue)](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Image generation (text-to-image) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ Tongyi-MAI/Z-Image-Turbo 的生产可用性为早期或不明确。由于缺乏�
 | forks | 0/100 |
 | stars | 79/100 |
 | topics | 38/100 |
-| outlook | 40/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

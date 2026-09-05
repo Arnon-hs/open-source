@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ vilaca/awesome-k8s-tools：vilaca/awesome-k8s-tools helps engineers save time in
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

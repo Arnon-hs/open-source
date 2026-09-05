@@ -1,6 +1,6 @@
 # sinclairzx81/typebox
 
-[![Stars](https://img.shields.io/github/stars/sinclairzx81/typebox?style=flat-square&color=yellow)](https://github.com/sinclairzx81/typebox/stargazers) [![Forks](https://img.shields.io/github/forks/sinclairzx81/typebox?style=flat-square&color=blue)](https://github.com/sinclairzx81/typebox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sinclairzx81/typebox?style=flat-square&color=yellow)](https://github.com/sinclairzx81/typebox/stargazers) [![Forks](https://img.shields.io/github/forks/sinclairzx81/typebox?style=flat-square&color=blue)](https://github.com/sinclairzx81/typebox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > JSON Schema Type Builder with Static Type Resolution for TypeScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ sinclairzx81/typebox 的生产可用性较高，主要原因是：
 | forks | 58/100 |
 | stars | 82/100 |
 | topics | 25/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

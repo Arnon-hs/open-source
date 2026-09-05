@@ -1,6 +1,6 @@
 # EutropicAI/Final2x
 
-[![Stars](https://img.shields.io/github/stars/EutropicAI/Final2x?style=flat-square&color=yellow)](https://github.com/EutropicAI/Final2x/stargazers) [![Forks](https://img.shields.io/github/forks/EutropicAI/Final2x?style=flat-square&color=blue)](https://github.com/EutropicAI/Final2x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EutropicAI/Final2x?style=flat-square&color=yellow)](https://github.com/EutropicAI/Final2x/stargazers) [![Forks](https://img.shields.io/github/forks/EutropicAI/Final2x?style=flat-square&color=blue)](https://github.com/EutropicAI/Final2x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > a cross-platform image super-resolution tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 525 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ EutropicAI/Final2x：EutropicAI/Final2x helps add AI capability without starting
 | forks | 68/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 80/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

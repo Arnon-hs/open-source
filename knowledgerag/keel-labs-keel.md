@@ -1,6 +1,6 @@
 # Keel-Labs/keel
 
-[![Stars](https://img.shields.io/github/stars/Keel-Labs/keel?style=flat-square&color=yellow)](https://github.com/Keel-Labs/keel/stargazers) [![Forks](https://img.shields.io/github/forks/Keel-Labs/keel?style=flat-square&color=blue)](https://github.com/Keel-Labs/keel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Keel-Labs/keel?style=flat-square&color=yellow)](https://github.com/Keel-Labs/keel/stargazers) [![Forks](https://img.shields.io/github/forks/Keel-Labs/keel?style=flat-square&color=blue)](https://github.com/Keel-Labs/keel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An AI assistant whose memory belongs to you. Local-first Mac app, plain markdown workspace, bring your own model.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Documents · Productivity
 
 ## 📝 Summary
 
@@ -112,15 +112,15 @@ Keel 是一款本地优先的 Mac 应用，提供纯 Markdown 工作区并支持
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 42/100 |
-| quality | 47/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 45/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

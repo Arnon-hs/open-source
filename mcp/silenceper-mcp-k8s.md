@@ -1,6 +1,6 @@
 # silenceper/mcp-k8s
 
-[![Stars](https://img.shields.io/github/stars/silenceper/mcp-k8s?style=flat-square&color=yellow)](https://github.com/silenceper/mcp-k8s/stargazers) [![Forks](https://img.shields.io/github/forks/silenceper/mcp-k8s?style=flat-square&color=blue)](https://github.com/silenceper/mcp-k8s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/silenceper/mcp-k8s?style=flat-square&color=yellow)](https://github.com/silenceper/mcp-k8s/stargazers) [![Forks](https://img.shields.io/github/forks/silenceper/mcp-k8s?style=flat-square&color=blue)](https://github.com/silenceper/mcp-k8s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes MCP (Model Control Protocol) server that enables interaction with Kubernetes clusters through MCP tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ silenceper/mcp-k8s 是一个基于 Go 实现的 Kubernetes MCP（Model Control P
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 55/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # aboofx41-sys/topological-horizon
 
-[![Stars](https://img.shields.io/github/stars/aboofx41-sys/topological-horizon?style=flat-square&color=yellow)](https://github.com/aboofx41-sys/topological-horizon/stargazers) [![Forks](https://img.shields.io/github/forks/aboofx41-sys/topological-horizon?style=flat-square&color=blue)](https://github.com/aboofx41-sys/topological-horizon/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aboofx41-sys/topological-horizon?style=flat-square&color=yellow)](https://github.com/aboofx41-sys/topological-horizon/stargazers) [![Forks](https://img.shields.io/github/forks/aboofx41-sys/topological-horizon?style=flat-square&color=blue)](https://github.com/aboofx41-sys/topological-horizon/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -83,11 +83,11 @@ Topological Horizon 是一个开源项目，基于 Rust 编程语言，专注于
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 40/100 |
-| quality | 31/100 |
-| recency | 60/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 45/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |

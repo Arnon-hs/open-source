@@ -1,6 +1,6 @@
 # acoooder/aliyunpanshare
 
-[![Stars](https://img.shields.io/github/stars/acoooder/aliyunpanshare?style=flat-square&color=yellow)](https://github.com/acoooder/aliyunpanshare/stargazers) [![Forks](https://img.shields.io/github/forks/acoooder/aliyunpanshare?style=flat-square&color=blue)](https://github.com/acoooder/aliyunpanshare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/acoooder/aliyunpanshare?style=flat-square&color=yellow)](https://github.com/acoooder/aliyunpanshare/stargazers) [![Forks](https://img.shields.io/github/forks/acoooder/aliyunpanshare?style=flat-square&color=blue)](https://github.com/acoooder/aliyunpanshare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ Overall, `aliyunpanshare` can accelerate a media‑sharing workflow after a mode
 | forks | 53/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 44/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

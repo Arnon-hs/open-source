@@ -1,6 +1,6 @@
 # laguagu/claude-code-nextjs-skills
 
-[![Stars](https://img.shields.io/github/stars/laguagu/claude-code-nextjs-skills?style=flat-square&color=yellow)](https://github.com/laguagu/claude-code-nextjs-skills/stargazers) [![Forks](https://img.shields.io/github/forks/laguagu/claude-code-nextjs-skills?style=flat-square&color=blue)](https://github.com/laguagu/claude-code-nextjs-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laguagu/claude-code-nextjs-skills?style=flat-square&color=yellow)](https://github.com/laguagu/claude-code-nextjs-skills/stargazers) [![Forks](https://img.shields.io/github/forks/laguagu/claude-code-nextjs-skills?style=flat-square&color=blue)](https://github.com/laguagu/claude-code-nextjs-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skills for AI apps • Next.js 16 • AI SDK 6 • pgvector • bun
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ laguagu/claude-code-nextjs-skills 的价值在于帮助连接AI助手与真实�
 | forks | 31/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # php-debugger/php-debugger
 
-[![Stars](https://img.shields.io/github/stars/php-debugger/php-debugger?style=flat-square&color=yellow)](https://github.com/php-debugger/php-debugger/stargazers) [![Forks](https://img.shields.io/github/forks/php-debugger/php-debugger?style=flat-square&color=blue)](https://github.com/php-debugger/php-debugger/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/php-debugger/php-debugger?style=flat-square&color=yellow)](https://github.com/php-debugger/php-debugger/stargazers) [![Forks](https://img.shields.io/github/forks/php-debugger/php-debugger?style=flat-square&color=blue)](https://github.com/php-debugger/php-debugger/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight PHP debugger extension (forked from Xdebug, stripped to debug-only and optimized)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 434 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,11 +91,11 @@ php-debugger/php-debugger 是一个轻量级的 PHP 调试器扩展，基于 Xde
 | forks | 27/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 52/100 |
-| recency | 60/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 54/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

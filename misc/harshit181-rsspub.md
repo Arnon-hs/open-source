@@ -1,6 +1,6 @@
 # harshit181/RSSPub
 
-[![Stars](https://img.shields.io/github/stars/harshit181/RSSPub?style=flat-square&color=yellow)](https://github.com/harshit181/RSSPub/stargazers) [![Forks](https://img.shields.io/github/forks/harshit181/RSSPub?style=flat-square&color=blue)](https://github.com/harshit181/RSSPub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harshit181/RSSPub?style=flat-square&color=yellow)](https://github.com/harshit181/RSSPub/stargazers) [![Forks](https://img.shields.io/github/forks/harshit181/RSSPub?style=flat-square&color=blue)](https://github.com/harshit181/RSSPub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your RSS feeds and Read later articles into a personal daily newspaper for your e-reader.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ harshit181/RSSPub 是一个开源项目，能将 RSS feeds 和 Read later 文章
 | forks | 26/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 60/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 53/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

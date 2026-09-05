@@ -1,6 +1,6 @@
 # tanweai/pua
 
-[![Stars](https://img.shields.io/github/stars/tanweai/pua?style=flat-square&color=yellow)](https://github.com/tanweai/pua/stargazers) [![Forks](https://img.shields.io/github/forks/tanweai/pua?style=flat-square&color=blue)](https://github.com/tanweai/pua/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tanweai/pua?style=flat-square&color=yellow)](https://github.com/tanweai/pua/stargazers) [![Forks](https://img.shields.io/github/forks/tanweai/pua?style=flat-square&color=blue)](https://github.com/tanweai/pua/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ tanweai/pua 的生产可用性较高，因为：
 | forks | 76/100 |
 | stars | 91/100 |
 | topics | 50/100 |
-| outlook | 62/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

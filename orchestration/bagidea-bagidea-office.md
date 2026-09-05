@@ -1,6 +1,6 @@
 # bagidea/bagidea-office
 
-[![Stars](https://img.shields.io/github/stars/bagidea/bagidea-office?style=flat-square&color=yellow)](https://github.com/bagidea/bagidea-office/stargazers) [![Forks](https://img.shields.io/github/forks/bagidea/bagidea-office?style=flat-square&color=blue)](https://github.com/bagidea/bagidea-office/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bagidea/bagidea-office?style=flat-square&color=yellow)](https://github.com/bagidea/bagidea-office/stargazers) [![Forks](https://img.shields.io/github/forks/bagidea/bagidea-office?style=flat-square&color=blue)](https://github.com/bagidea/bagidea-office/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A living AI-agent office on your desktop wallpaper — Claude Code agents that walk, work, delegate, learn & hold meetings. Per-agent swappable models (Claude/GLM/DeepSeek/Qwen/Kimi/OpenAI/Gemini/Groq/Ollama…), workflows, plugins, voice & Telegram/Discord/LINE. Open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ bagidea/bagidea‑office 是一款把 Claude 等大模型包装成“AI 办公�
 | forks | 38/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

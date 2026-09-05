@@ -1,6 +1,6 @@
 # hiero-ledger/hiero-sdk-cpp
 
-[![Stars](https://img.shields.io/github/stars/hiero-ledger/hiero-sdk-cpp?style=flat-square&color=yellow)](https://github.com/hiero-ledger/hiero-sdk-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/hiero-ledger/hiero-sdk-cpp?style=flat-square&color=blue)](https://github.com/hiero-ledger/hiero-sdk-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hiero-ledger/hiero-sdk-cpp?style=flat-square&color=yellow)](https://github.com/hiero-ledger/hiero-sdk-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/hiero-ledger/hiero-sdk-cpp?style=flat-square&color=blue)](https://github.com/hiero-ledger/hiero-sdk-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A C++ SDK for Hiero: A C++ toolkit for creating, updating, and interacting with on-ledger assets and smart contracts on Hedera and other Hiero networks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ hiero-ledger/hiero-sdk-cpp 的生产可用性非常高。它有：
 | forks | 50/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

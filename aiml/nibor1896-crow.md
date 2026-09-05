@@ -1,6 +1,6 @@
 # nibor1896/Crow
 
-[![Stars](https://img.shields.io/github/stars/nibor1896/Crow?style=flat-square&color=yellow)](https://github.com/nibor1896/Crow/stargazers) [![Forks](https://img.shields.io/github/forks/nibor1896/Crow?style=flat-square&color=blue)](https://github.com/nibor1896/Crow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nibor1896/Crow?style=flat-square&color=yellow)](https://github.com/nibor1896/Crow/stargazers) [![Forks](https://img.shields.io/github/forks/nibor1896/Crow?style=flat-square&color=blue)](https://github.com/nibor1896/Crow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Qwen3.8-27B at 200k context on one GPU. An agent, not a chat box: 12 tools, persistent memory, its own skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Communication
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ nibor1896/Crow：nibor1896/Crow helps add AI capability without starting from a 
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

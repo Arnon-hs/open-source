@@ -1,6 +1,6 @@
 # Illusionna/LocalTransfer
 
-[![Stars](https://img.shields.io/github/stars/Illusionna/LocalTransfer?style=flat-square&color=yellow)](https://github.com/Illusionna/LocalTransfer/stargazers) [![Forks](https://img.shields.io/github/forks/Illusionna/LocalTransfer?style=flat-square&color=blue)](https://github.com/Illusionna/LocalTransfer/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Illusionna/LocalTransfer?style=flat-square&color=yellow)](https://github.com/Illusionna/LocalTransfer/stargazers) [![Forks](https://img.shields.io/github/forks/Illusionna/LocalTransfer?style=flat-square&color=blue)](https://github.com/Illusionna/LocalTransfer/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A fast cross-platform HTTP file server (轻量小巧快速上手的跨平台 HTTP 文件服务器互传文件)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 457 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Illusionna/LocalTransfer 在生产环境中表现良好，具有高生产可用�
 | forks | 29/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # Jieyab89/OSINT-Cheat-sheet
 
-[![Stars](https://img.shields.io/github/stars/Jieyab89/OSINT-Cheat-sheet?style=flat-square&color=yellow)](https://github.com/Jieyab89/OSINT-Cheat-sheet/stargazers) [![Forks](https://img.shields.io/github/forks/Jieyab89/OSINT-Cheat-sheet?style=flat-square&color=blue)](https://github.com/Jieyab89/OSINT-Cheat-sheet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jieyab89/OSINT-Cheat-sheet?style=flat-square&color=yellow)](https://github.com/Jieyab89/OSINT-Cheat-sheet/stargazers) [![Forks](https://img.shields.io/github/forks/Jieyab89/OSINT-Cheat-sheet?style=flat-square&color=blue)](https://github.com/Jieyab89/OSINT-Cheat-sheet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 306 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ Jieyab89/OSINT-Cheat-sheet 帮助开发者在不从头开始时添加 AI 能力�
 | forks | 62/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

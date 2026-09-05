@@ -1,6 +1,6 @@
 # AI-Shell-Team/aish
 
-[![Stars](https://img.shields.io/github/stars/AI-Shell-Team/aish?style=flat-square&color=yellow)](https://github.com/AI-Shell-Team/aish/stargazers) [![Forks](https://img.shields.io/github/forks/AI-Shell-Team/aish?style=flat-square&color=blue)](https://github.com/AI-Shell-Team/aish/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI-Shell-Team/aish?style=flat-square&color=yellow)](https://github.com/AI-Shell-Team/aish/stargazers) [![Forks](https://img.shields.io/github/forks/AI-Shell-Team/aish?style=flat-square&color=blue)](https://github.com/AI-Shell-Team/aish/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Empower the Shell to think. Evolve Operations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ AI‑Shell‑Team/aish 为 Shell 环境注入 AI 能力，让命令行不仅能�
 | forks | 49/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

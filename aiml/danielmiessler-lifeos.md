@@ -1,6 +1,6 @@
 # danielmiessler/LifeOS
 
-[![Stars](https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&color=yellow)](https://github.com/danielmiessler/LifeOS/stargazers) [![Forks](https://img.shields.io/github/forks/danielmiessler/LifeOS?style=flat-square&color=blue)](https://github.com/danielmiessler/LifeOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&color=yellow)](https://github.com/danielmiessler/LifeOS/stargazers) [![Forks](https://img.shields.io/github/forks/danielmiessler/LifeOS?style=flat-square&color=blue)](https://github.com/danielmiessler/LifeOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-powered Life Operating System for Magnifying Human Capabilities
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.3k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ LifeOS（danielmiessler/LifeOS）是一个基于 AI 的“生活操作系统”�
 | forks | 84/100 |
 | stars | 90/100 |
 | topics | 50/100 |
-| outlook | 59/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

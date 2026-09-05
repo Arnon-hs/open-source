@@ -1,6 +1,6 @@
 # zli12321/LHTB
 
-[![Stars](https://img.shields.io/github/stars/zli12321/LHTB?style=flat-square&color=yellow)](https://github.com/zli12321/LHTB/stargazers) [![Forks](https://img.shields.io/github/forks/zli12321/LHTB?style=flat-square&color=blue)](https://github.com/zli12321/LHTB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zli12321/LHTB?style=flat-square&color=yellow)](https://github.com/zli12321/LHTB/stargazers) [![Forks](https://img.shields.io/github/forks/zli12321/LHTB?style=flat-square&color=blue)](https://github.com/zli12321/LHTB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Long Horizon Terminal Benchmark with Dense Reward Grading
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ zli12321/LHTB 是一个开源项目，提供了 Long Horizon Terminal Benchmark 
 | forks | 32/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

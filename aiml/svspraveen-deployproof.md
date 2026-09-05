@@ -1,6 +1,6 @@
 # SVSPraveen/DeployProof
 
-[![Stars](https://img.shields.io/github/stars/SVSPraveen/DeployProof?style=flat-square&color=yellow)](https://github.com/SVSPraveen/DeployProof/stargazers) [![Forks](https://img.shields.io/github/forks/SVSPraveen/DeployProof?style=flat-square&color=blue)](https://github.com/SVSPraveen/DeployProof/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SVSPraveen/DeployProof?style=flat-square&color=yellow)](https://github.com/SVSPraveen/DeployProof/stargazers) [![Forks](https://img.shields.io/github/forks/SVSPraveen/DeployProof?style=flat-square&color=blue)](https://github.com/SVSPraveen/DeployProof/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Deterministic pre-push verification for AI-assisted codebases: AST mutation testing, credential scanning, sandbox-escape detection, mock-usage alerts, and dependency hallucination defense.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-29 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -66,15 +66,15 @@ SVSPraveen/DeployProof：SVSPraveen/DeployProof helps add AI capability without 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 63/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

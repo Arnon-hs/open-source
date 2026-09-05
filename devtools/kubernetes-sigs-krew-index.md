@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 599 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ kubernetes-sigs/krew-index：kubernetes-sigs/krew-index helps engineers save tim
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

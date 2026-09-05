@@ -1,6 +1,6 @@
 # xdan/jodit
 
-[![Stars](https://img.shields.io/github/stars/xdan/jodit?style=flat-square&color=yellow)](https://github.com/xdan/jodit/stargazers) [![Forks](https://img.shields.io/github/forks/xdan/jodit?style=flat-square&color=blue)](https://github.com/xdan/jodit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xdan/jodit?style=flat-square&color=yellow)](https://github.com/xdan/jodit/stargazers) [![Forks](https://img.shields.io/github/forks/xdan/jodit?style=flat-square&color=blue)](https://github.com/xdan/jodit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Jodit - Best WYSIWYG Editor for You
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 380 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Jodit（xdan/jodit）是一款基于 JavaScript 的开源 WYSIWYG 编辑器，�
 | forks | 65/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

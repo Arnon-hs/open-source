@@ -1,6 +1,6 @@
 # AI-QL/tuui
 
-[![Stars](https://img.shields.io/github/stars/AI-QL/tuui?style=flat-square&color=yellow)](https://github.com/AI-QL/tuui/stargazers) [![Forks](https://img.shields.io/github/forks/AI-QL/tuui?style=flat-square&color=blue)](https://github.com/AI-QL/tuui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI-QL/tuui?style=flat-square&color=yellow)](https://github.com/AI-QL/tuui/stargazers) [![Forks](https://img.shields.io/github/forks/AI-QL/tuui?style=flat-square&color=blue)](https://github.com/AI-QL/tuui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -105,15 +105,15 @@ AI‑QL/tuui 是一款基于 Model Context Protocol（MCP）的桌面客户端�
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 83/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 58/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

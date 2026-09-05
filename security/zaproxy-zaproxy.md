@@ -1,6 +1,6 @@
 # zaproxy/zaproxy
 
-[![Stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=flat-square&color=yellow)](https://github.com/zaproxy/zaproxy/stargazers) [![Forks](https://img.shields.io/github/forks/zaproxy/zaproxy?style=flat-square&color=blue)](https://github.com/zaproxy/zaproxy/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=flat-square&color=yellow)](https://github.com/zaproxy/zaproxy/stargazers) [![Forks](https://img.shields.io/github/forks/zaproxy/zaproxy?style=flat-square&color=blue)](https://github.com/zaproxy/zaproxy/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The ZAP by Checkmarx Core project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.3k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ ZAP（Zed Attack Proxy）是 Checkmarx 维护的开源 Web 安全测试平台，
 | forks | 85/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 80/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

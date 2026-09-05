@@ -1,6 +1,6 @@
 # VkRainB/ccMesh
 
-[![Stars](https://img.shields.io/github/stars/VkRainB/ccMesh?style=flat-square&color=yellow)](https://github.com/VkRainB/ccMesh/stargazers) [![Forks](https://img.shields.io/github/forks/VkRainB/ccMesh?style=flat-square&color=blue)](https://github.com/VkRainB/ccMesh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VkRainB/ccMesh?style=flat-square&color=yellow)](https://github.com/VkRainB/ccMesh/stargazers) [![Forks](https://img.shields.io/github/forks/VkRainB/ccMesh?style=flat-square&color=blue)](https://github.com/VkRainB/ccMesh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ccMesh is a lightweight forwarding layer for Claude Code. It intercepts Claude protocol traffic and routes it to either Anthropic Claude endpoints or OpenAI-compatible APIs — switch backends without touching your client config.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ VkRainB/ccMesh：VkRainB/ccMesh helps add AI capability without starting from a 
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # OpenShot/openshot-qt
 
-[![Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=flat-square&color=yellow)](https://github.com/OpenShot/openshot-qt/stargazers) [![Forks](https://img.shields.io/github/forks/OpenShot/openshot-qt?style=flat-square&color=blue)](https://github.com/OpenShot/openshot-qt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=flat-square&color=yellow)](https://github.com/OpenShot/openshot-qt/stargazers) [![Forks](https://img.shields.io/github/forks/OpenShot/openshot-qt?style=flat-square&color=blue)](https://github.com/OpenShot/openshot-qt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 738 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,11 +88,11 @@ OpenShot/openshot-qt 是一个免费开源的视频编辑软件，支持 Linux�
 | forks | 72/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 75/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

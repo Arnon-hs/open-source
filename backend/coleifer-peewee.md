@@ -1,6 +1,6 @@
 # coleifer/peewee
 
-[![Stars](https://img.shields.io/github/stars/coleifer/peewee?style=flat-square&color=yellow)](https://github.com/coleifer/peewee/stargazers) [![Forks](https://img.shields.io/github/forks/coleifer/peewee?style=flat-square&color=blue)](https://github.com/coleifer/peewee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coleifer/peewee?style=flat-square&color=yellow)](https://github.com/coleifer/peewee/stargazers) [![Forks](https://img.shields.io/github/forks/coleifer/peewee?style=flat-square&color=blue)](https://github.com/coleifer/peewee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Peewee（coleifer/peewee）是一个体积小、语法简洁的 Python ORM，支
 | forks | 79/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

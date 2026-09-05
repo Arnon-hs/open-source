@@ -1,6 +1,6 @@
 # astro-btc/Astro
 
-[![Stars](https://img.shields.io/github/stars/astro-btc/Astro?style=flat-square&color=yellow)](https://github.com/astro-btc/Astro/stargazers) [![Forks](https://img.shields.io/github/forks/astro-btc/Astro?style=flat-square&color=blue)](https://github.com/astro-btc/Astro/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/astro-btc/Astro?style=flat-square&color=yellow)](https://github.com/astro-btc/Astro/stargazers) [![Forks](https://img.shields.io/github/forks/astro-btc/Astro?style=flat-square&color=blue)](https://github.com/astro-btc/Astro/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Astro 是一个基于 Shell 的开源工具库，旨在为比特币相关的自�
 | forks | 52/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 39/100 |
-| quality | 45/100 |
-| recency | 20/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 41/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |

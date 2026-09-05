@@ -1,6 +1,6 @@
 # devoxx/DevoxxGenieIDEAPlugin
 
-[![Stars](https://img.shields.io/github/stars/devoxx/DevoxxGenieIDEAPlugin?style=flat-square&color=yellow)](https://github.com/devoxx/DevoxxGenieIDEAPlugin/stargazers) [![Forks](https://img.shields.io/github/forks/devoxx/DevoxxGenieIDEAPlugin?style=flat-square&color=blue)](https://github.com/devoxx/DevoxxGenieIDEAPlugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devoxx/DevoxxGenieIDEAPlugin?style=flat-square&color=yellow)](https://github.com/devoxx/DevoxxGenieIDEAPlugin/stargazers) [![Forks](https://img.shields.io/github/forks/devoxx/DevoxxGenieIDEAPlugin?style=flat-square&color=blue)](https://github.com/devoxx/DevoxxGenieIDEAPlugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code. Latest version now also supports Spec Driven Development with CLI Runners.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Cloud & Storage · Communication · Backend · DevTools
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ DevoxxGenie IDEA 插件让开发者可以在 IntelliJ 中直接调用本地（Ol
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 61/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

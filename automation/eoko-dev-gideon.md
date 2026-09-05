@@ -1,6 +1,6 @@
 # eoko-dev/gideon
 
-[![Stars](https://img.shields.io/github/stars/eoko-dev/gideon?style=flat-square&color=yellow)](https://github.com/eoko-dev/gideon/stargazers) [![Forks](https://img.shields.io/github/forks/eoko-dev/gideon?style=flat-square&color=blue)](https://github.com/eoko-dev/gideon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eoko-dev/gideon?style=flat-square&color=yellow)](https://github.com/eoko-dev/gideon/stargazers) [![Forks](https://img.shields.io/github/forks/eoko-dev/gideon?style=flat-square&color=blue)](https://github.com/eoko-dev/gideon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Gideon turns your Discord server into an AI-powered hub—enabling smart conversations, creative image generation, visual analysis, news summarization, adventure creation, and seamless discussion management, all with state-of-the-art language and image models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Gideon 在生产环境中的可用性为中等（Medium），适合用于原型�
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 88/100 |
-| outlook | 55/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

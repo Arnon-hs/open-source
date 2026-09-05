@@ -1,6 +1,6 @@
 # cortexkit/aft
 
-[![Stars](https://img.shields.io/github/stars/cortexkit/aft?style=flat-square&color=yellow)](https://github.com/cortexkit/aft/stargazers) [![Forks](https://img.shields.io/github/forks/cortexkit/aft?style=flat-square&color=blue)](https://github.com/cortexkit/aft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cortexkit/aft?style=flat-square&color=yellow)](https://github.com/cortexkit/aft/stargazers) [![Forks](https://img.shields.io/github/forks/cortexkit/aft?style=flat-square&color=blue)](https://github.com/cortexkit/aft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ cortexkit/aft：cortexkit/aft helps turn isolated prompts and tools into repeata
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 52/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

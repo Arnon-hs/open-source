@@ -1,6 +1,6 @@
 # areofyl/fetch
 
-[![Stars](https://img.shields.io/github/stars/areofyl/fetch?style=flat-square&color=yellow)](https://github.com/areofyl/fetch/stargazers) [![Forks](https://img.shields.io/github/forks/areofyl/fetch?style=flat-square&color=blue)](https://github.com/areofyl/fetch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/areofyl/fetch?style=flat-square&color=yellow)](https://github.com/areofyl/fetch/stargazers) [![Forks](https://img.shields.io/github/forks/areofyl/fetch?style=flat-square&color=blue)](https://github.com/areofyl/fetch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ areofyl/fetch 在生产环境中的可用性为中等。它适合用于原型或
 | forks | 33/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevOps/Infra
+DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ homarr-labs/homarr：homarr-labs/homarr helps make deployment and operations mor
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

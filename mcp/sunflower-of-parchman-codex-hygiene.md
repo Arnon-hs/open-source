@@ -1,6 +1,6 @@
 # sunflower-of-parchman/codex-hygiene
 
-[![Stars](https://img.shields.io/github/stars/sunflower-of-parchman/codex-hygiene?style=flat-square&color=yellow)](https://github.com/sunflower-of-parchman/codex-hygiene/stargazers) [![Forks](https://img.shields.io/github/forks/sunflower-of-parchman/codex-hygiene?style=flat-square&color=blue)](https://github.com/sunflower-of-parchman/codex-hygiene/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunflower-of-parchman/codex-hygiene?style=flat-square&color=yellow)](https://github.com/sunflower-of-parchman/codex-hygiene/stargazers) [![Forks](https://img.shields.io/github/forks/sunflower-of-parchman/codex-hygiene?style=flat-square&color=blue)](https://github.com/sunflower-of-parchman/codex-hygiene/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Codex skill for auditing and tuning Codex Desktop context/tool surfaces
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 241 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ sunflower-of-parchman/codex-hygiene 的价值在于它提供了一个标准的�
 | forks | 23/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

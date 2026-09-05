@@ -1,6 +1,6 @@
 # vstorm-co/full-stack-ai-agent-template
 
-[![Stars](https://img.shields.io/github/stars/vstorm-co/full-stack-ai-agent-template?style=flat-square&color=yellow)](https://github.com/vstorm-co/full-stack-ai-agent-template/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/full-stack-ai-agent-template?style=flat-square&color=blue)](https://github.com/vstorm-co/full-stack-ai-agent-template/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vstorm-co/full-stack-ai-agent-template?style=flat-square&color=yellow)](https://github.com/vstorm-co/full-stack-ai-agent-template/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/full-stack-ai-agent-template?style=flat-square&color=blue)](https://github.com/vstorm-co/full-stack-ai-agent-template/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Full-stack AI app generator — FastAPI + Next.js with agents, RAG, streaming, auth, and 20+ integrations out of the box.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ vstorm‑co/full‑stack‑ai‑agent‑template 是一个开箱即用的全栈 
 | forks | 60/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 84/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 59/100 |
+| production | 79/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

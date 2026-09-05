@@ -1,6 +1,6 @@
 # ucbepic/docetl
 
-[![Stars](https://img.shields.io/github/stars/ucbepic/docetl?style=flat-square&color=yellow)](https://github.com/ucbepic/docetl/stargazers) [![Forks](https://img.shields.io/github/forks/ucbepic/docetl?style=flat-square&color=blue)](https://github.com/ucbepic/docetl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ucbepic/docetl?style=flat-square&color=yellow)](https://github.com/ucbepic/docetl/stargazers) [![Forks](https://img.shields.io/github/forks/ucbepic/docetl?style=flat-square&color=blue)](https://github.com/ucbepic/docetl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A system for agentic LLM-powered data processing and ETL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Data
+Automation · AI/ML · Documents · Data
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ ucbepic/docetl 是一个基于可自主行动的大语言模型（LLM）的数�
 | forks | 65/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

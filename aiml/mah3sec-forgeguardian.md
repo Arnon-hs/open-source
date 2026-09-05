@@ -1,6 +1,6 @@
 # Mah3Sec/ForgeGuardian
 
-[![Stars](https://img.shields.io/github/stars/Mah3Sec/ForgeGuardian?style=flat-square&color=yellow)](https://github.com/Mah3Sec/ForgeGuardian/stargazers) [![Forks](https://img.shields.io/github/forks/Mah3Sec/ForgeGuardian?style=flat-square&color=blue)](https://github.com/Mah3Sec/ForgeGuardian/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mah3Sec/ForgeGuardian?style=flat-square&color=yellow)](https://github.com/Mah3Sec/ForgeGuardian/stargazers) [![Forks](https://img.shields.io/github/forks/Mah3Sec/ForgeGuardian?style=flat-square&color=blue)](https://github.com/Mah3Sec/ForgeGuardian/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first, AI-native Software Supply Chain Security Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,11 +62,11 @@ Mah3Sec/ForgeGuardian：。适合用于AI/ML、Security。
 | forks | 17/100 |
 | stars | 19/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 54/100 |
-| recency | 80/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 100/100 |
 | adoption | 19/100 |
-| production | 59/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

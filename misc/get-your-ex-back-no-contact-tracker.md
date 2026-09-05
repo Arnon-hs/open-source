@@ -1,6 +1,6 @@
 # get-your-ex-back/no-contact-tracker
 
-[![Stars](https://img.shields.io/github/stars/get-your-ex-back/no-contact-tracker?style=flat-square&color=yellow)](https://github.com/get-your-ex-back/no-contact-tracker/stargazers) [![Forks](https://img.shields.io/github/forks/get-your-ex-back/no-contact-tracker?style=flat-square&color=blue)](https://github.com/get-your-ex-back/no-contact-tracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/get-your-ex-back/no-contact-tracker?style=flat-square&color=yellow)](https://github.com/get-your-ex-back/no-contact-tracker/stargazers) [![Forks](https://img.shields.io/github/forks/get-your-ex-back/no-contact-tracker?style=flat-square&color=blue)](https://github.com/get-your-ex-back/no-contact-tracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Free, private no contact day counter with milestone coaching, an urge log and a daily reminder. PWA + Chrome extension. Nothing leaves your device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -64,11 +64,11 @@ get-your-ex-back/no-contact-tracker：get-your-ex-back/no-contact-tracker may be
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 88/100 |
-| outlook | 59/100 |
-| quality | 49/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 44/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

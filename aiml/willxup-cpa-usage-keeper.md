@@ -1,6 +1,6 @@
 # Willxup/cpa-usage-keeper
 
-[![Stars](https://img.shields.io/github/stars/Willxup/cpa-usage-keeper?style=flat-square&color=yellow)](https://github.com/Willxup/cpa-usage-keeper/stargazers) [![Forks](https://img.shields.io/github/forks/Willxup/cpa-usage-keeper?style=flat-square&color=blue)](https://github.com/Willxup/cpa-usage-keeper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Willxup/cpa-usage-keeper?style=flat-square&color=yellow)](https://github.com/Willxup/cpa-usage-keeper/stargazers) [![Forks](https://img.shields.io/github/forks/Willxup/cpa-usage-keeper?style=flat-square&color=blue)](https://github.com/Willxup/cpa-usage-keeper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Standalone CliProxyAPI usage tracker with SQLite persistence and built-in dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 860 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Willxup/cpa-usage-keeper 的价值在于，它可以帮助开发者:
 | forks | 50/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 81/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

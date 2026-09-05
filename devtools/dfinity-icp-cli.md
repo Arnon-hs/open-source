@@ -1,6 +1,6 @@
 # dfinity/icp-cli
 
-[![Stars](https://img.shields.io/github/stars/dfinity/icp-cli?style=flat-square&color=yellow)](https://github.com/dfinity/icp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/dfinity/icp-cli?style=flat-square&color=blue)](https://github.com/dfinity/icp-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dfinity/icp-cli?style=flat-square&color=yellow)](https://github.com/dfinity/icp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/dfinity/icp-cli?style=flat-square&color=blue)](https://github.com/dfinity/icp-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The command-line interface for the ICP SDK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ dfinity/icp-cli 的生产可用性为中等（Medium），适合用于原型开�
 | forks | 27/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

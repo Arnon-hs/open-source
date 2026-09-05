@@ -1,6 +1,6 @@
 # jeremychone/rust-genai
 
-[![Stars](https://img.shields.io/github/stars/jeremychone/rust-genai?style=flat-square&color=yellow)](https://github.com/jeremychone/rust-genai/stargazers) [![Forks](https://img.shields.io/github/forks/jeremychone/rust-genai?style=flat-square&color=blue)](https://github.com/jeremychone/rust-genai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeremychone/rust-genai?style=flat-square&color=yellow)](https://github.com/jeremychone/rust-genai/stargazers) [![Forks](https://img.shields.io/github/forks/jeremychone/rust-genai?style=flat-square&color=blue)](https://github.com/jeremychone/rust-genai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 813 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ jeremychone/rust-genai 的生产可用性为中等（Medium），因为它适合
 | forks | 56/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

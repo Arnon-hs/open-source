@@ -1,6 +1,6 @@
 # nlohmann/json
 
-[![Stars](https://img.shields.io/github/stars/nlohmann/json?style=flat-square&color=yellow)](https://github.com/nlohmann/json/stargazers) [![Forks](https://img.shields.io/github/forks/nlohmann/json?style=flat-square&color=blue)](https://github.com/nlohmann/json/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nlohmann/json?style=flat-square&color=yellow)](https://github.com/nlohmann/json/stargazers) [![Forks](https://img.shields.io/github/forks/nlohmann/json?style=flat-square&color=blue)](https://github.com/nlohmann/json/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > JSON for Modern C++
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49.7k |
 | 🍴 **Forks** | 7.4k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ nlohmann/json 是业界最流行的 C++ JSON 库，提供 **“JSON for Modern C
 | forks | 97/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 80/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 95/100 |
+| recency | 80/100 |
 | adoption | 99/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # NVIDIA/GenerativeAIExamples
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/GenerativeAIExamples?style=flat-square&color=yellow)](https://github.com/NVIDIA/GenerativeAIExamples/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/GenerativeAIExamples?style=flat-square&color=blue)](https://github.com/NVIDIA/GenerativeAIExamples/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/GenerativeAIExamples?style=flat-square&color=yellow)](https://github.com/NVIDIA/GenerativeAIExamples/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/GenerativeAIExamples?style=flat-square&color=blue)](https://github.com/NVIDIA/GenerativeAIExamples/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ Knowledge/RAG · AI/ML · Backend
 | forks | 76/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 80/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

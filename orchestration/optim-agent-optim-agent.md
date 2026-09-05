@@ -1,6 +1,6 @@
 # Optim-Agent/optim-agent
 
-[![Stars](https://img.shields.io/github/stars/Optim-Agent/optim-agent?style=flat-square&color=yellow)](https://github.com/Optim-Agent/optim-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Optim-Agent/optim-agent?style=flat-square&color=blue)](https://github.com/Optim-Agent/optim-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Optim-Agent/optim-agent?style=flat-square&color=yellow)](https://github.com/Optim-Agent/optim-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Optim-Agent/optim-agent?style=flat-square&color=blue)](https://github.com/Optim-Agent/optim-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > LLM agents as your hyperparameter optimizer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ Optim-Agent/optim-agent 的生产可用性很高，主要原因是其最近的�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

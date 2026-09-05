@@ -1,6 +1,6 @@
 # NVIDIA/k8s-device-plugin
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/k8s-device-plugin?style=flat-square&color=yellow)](https://github.com/NVIDIA/k8s-device-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/k8s-device-plugin?style=flat-square&color=blue)](https://github.com/NVIDIA/k8s-device-plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/k8s-device-plugin?style=flat-square&color=yellow)](https://github.com/NVIDIA/k8s-device-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/k8s-device-plugin?style=flat-square&color=blue)](https://github.com/NVIDIA/k8s-device-plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA device plugin for Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 838 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ NVIDIA/k8s-device-plugin 的生产可用性较高，原因如下：
 | forks | 73/100 |
 | stars | 76/100 |
 | topics | 13/100 |
-| outlook | 52/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

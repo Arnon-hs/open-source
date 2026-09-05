@@ -1,6 +1,6 @@
 # JetBrains/android
 
-[![Stars](https://img.shields.io/github/stars/JetBrains/android?style=flat-square&color=yellow)](https://github.com/JetBrains/android/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/android?style=flat-square&color=blue)](https://github.com/JetBrains/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetBrains/android?style=flat-square&color=yellow)](https://github.com/JetBrains/android/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/android?style=flat-square&color=blue)](https://github.com/JetBrains/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Android Plugin for IntelliJ IDEA. This repository is a subset of git://git.jetbrains.org/idea/android.git cut according to GitHub file size limitations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ JetBrains/android 是 Android 插件的官方实现，基于 JetBrains 内部的
 | forks | 60/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 41/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

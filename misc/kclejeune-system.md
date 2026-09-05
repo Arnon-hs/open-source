@@ -1,6 +1,6 @@
 # kclejeune/system
 
-[![Stars](https://img.shields.io/github/stars/kclejeune/system?style=flat-square&color=yellow)](https://github.com/kclejeune/system/stargazers) [![Forks](https://img.shields.io/github/forks/kclejeune/system?style=flat-square&color=blue)](https://github.com/kclejeune/system/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kclejeune/system?style=flat-square&color=yellow)](https://github.com/kclejeune/system/stargazers) [![Forks](https://img.shields.io/github/forks/kclejeune/system?style=flat-square&color=blue)](https://github.com/kclejeune/system/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative system configurations using nixOS, nix-darwin, and home-manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ In short, kclejeune/system can accelerate the move to a fully declarative, repro
 | forks | 41/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 47/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 47/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # darky/bull-repl
 
-[![Stars](https://img.shields.io/github/stars/darky/bull-repl?style=flat-square&color=yellow)](https://github.com/darky/bull-repl/stargazers) [![Forks](https://img.shields.io/github/forks/darky/bull-repl?style=flat-square&color=blue)](https://github.com/darky/bull-repl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darky/bull-repl?style=flat-square&color=yellow)](https://github.com/darky/bull-repl/stargazers) [![Forks](https://img.shields.io/github/forks/darky/bull-repl?style=flat-square&color=blue)](https://github.com/darky/bull-repl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Bull / BullMQ queue command line REPL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ darky/bull-repl 是一个基于 Bull / BullMQ 的命令行 REPL（交互式解�
 | forks | 34/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

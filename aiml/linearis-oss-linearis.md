@@ -1,6 +1,6 @@
 # linearis-oss/linearis
 
-[![Stars](https://img.shields.io/github/stars/linearis-oss/linearis?style=flat-square&color=yellow)](https://github.com/linearis-oss/linearis/stargazers) [![Forks](https://img.shields.io/github/forks/linearis-oss/linearis?style=flat-square&color=blue)](https://github.com/linearis-oss/linearis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linearis-oss/linearis?style=flat-square&color=yellow)](https://github.com/linearis-oss/linearis/stargazers) [![Forks](https://img.shields.io/github/forks/linearis-oss/linearis?style=flat-square&color=blue)](https://github.com/linearis-oss/linearis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for Linear.app with JSON output, smart ID resolution, and optimized GraphQL queries. Designed for LLM agents and humans who prefer structured data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ linearis‑oss/linearis 是一个面向 Linear.app 的命令行工具，能够�
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

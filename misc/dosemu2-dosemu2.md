@@ -1,6 +1,6 @@
 # dosemu2/dosemu2
 
-[![Stars](https://img.shields.io/github/stars/dosemu2/dosemu2?style=flat-square&color=yellow)](https://github.com/dosemu2/dosemu2/stargazers) [![Forks](https://img.shields.io/github/forks/dosemu2/dosemu2?style=flat-square&color=blue)](https://github.com/dosemu2/dosemu2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dosemu2/dosemu2?style=flat-square&color=yellow)](https://github.com/dosemu2/dosemu2/stargazers) [![Forks](https://img.shields.io/github/forks/dosemu2/dosemu2?style=flat-square&color=blue)](https://github.com/dosemu2/dosemu2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Run DOS programs under linux:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 712 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | C |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ dosemu2 是一款可靠的 DOS 兼容层，适合在内部或原型环境中快�
 | forks | 47/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 50/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

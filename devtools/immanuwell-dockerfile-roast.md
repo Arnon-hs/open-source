@@ -1,6 +1,6 @@
 # immanuwell/dockerfile-roast
 
-[![Stars](https://img.shields.io/github/stars/immanuwell/dockerfile-roast?style=flat-square&color=yellow)](https://github.com/immanuwell/dockerfile-roast/stargazers) [![Forks](https://img.shields.io/github/forks/immanuwell/dockerfile-roast?style=flat-square&color=blue)](https://github.com/immanuwell/dockerfile-roast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/immanuwell/dockerfile-roast?style=flat-square&color=yellow)](https://github.com/immanuwell/dockerfile-roast/stargazers) [![Forks](https://img.shields.io/github/forks/immanuwell/dockerfile-roast?style=flat-square&color=blue)](https://github.com/immanuwell/dockerfile-roast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > droast - a dockerfile linter that actually has opinions 🔥
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 457 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ immanuwell/dockerfile-roast 的生产可用性为中等（Medium），适合用�
 | forks | 25/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

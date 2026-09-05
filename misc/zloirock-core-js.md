@@ -1,6 +1,6 @@
 # zloirock/core-js
 
-[![Stars](https://img.shields.io/github/stars/zloirock/core-js?style=flat-square&color=yellow)](https://github.com/zloirock/core-js/stargazers) [![Forks](https://img.shields.io/github/forks/zloirock/core-js?style=flat-square&color=blue)](https://github.com/zloirock/core-js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zloirock/core-js?style=flat-square&color=yellow)](https://github.com/zloirock/core-js/stargazers) [![Forks](https://img.shields.io/github/forks/zloirock/core-js?style=flat-square&color=blue)](https://github.com/zloirock/core-js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Standard Library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ zloirock/core-js 是一个面向现代 JavaScript 环境的完整标准库实现
 | forks | 81/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 81/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

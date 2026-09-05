@@ -1,6 +1,6 @@
 # lidge-jun/ima2-gen
 
-[![Stars](https://img.shields.io/github/stars/lidge-jun/ima2-gen?style=flat-square&color=yellow)](https://github.com/lidge-jun/ima2-gen/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/ima2-gen?style=flat-square&color=blue)](https://github.com/lidge-jun/ima2-gen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lidge-jun/ima2-gen?style=flat-square&color=yellow)](https://github.com/lidge-jun/ima2-gen/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/ima2-gen?style=flat-square&color=blue)](https://github.com/lidge-jun/ima2-gen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal CLI + web UI for OpenAI GPT Image 2 generation. Dual auth: API Key (paid) or OAuth via ChatGPT (free). Text-to-image, image-to-image, parallel gen, custom sizes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Security
+AI/ML · Backend · DevTools · Security
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ lidge-jun/ima-gen 是一个轻量级的 CLI 与 Web UI 双模工具，封装了 
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

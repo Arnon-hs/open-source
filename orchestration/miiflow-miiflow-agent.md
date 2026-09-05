@@ -1,6 +1,6 @@
 # MiiFlow/miiflow-agent
 
-[![Stars](https://img.shields.io/github/stars/MiiFlow/miiflow-agent?style=flat-square&color=yellow)](https://github.com/MiiFlow/miiflow-agent/stargazers) [![Forks](https://img.shields.io/github/forks/MiiFlow/miiflow-agent?style=flat-square&color=blue)](https://github.com/MiiFlow/miiflow-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MiiFlow/miiflow-agent?style=flat-square&color=yellow)](https://github.com/MiiFlow/miiflow-agent/stargazers) [![Forks](https://img.shields.io/github/forks/MiiFlow/miiflow-agent?style=flat-square&color=blue)](https://github.com/MiiFlow/miiflow-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Python SDK for LLMs with unified API across 9 providers. Built-in ReAct & Plan-Execute agents, streaming,   native tool calling, context injection, structured outputs, and observability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Observability
+Orchestration · AI/ML · Frontend · Libraries & SDKs · Observability
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ MiiFlow/miiflow-agent 已具备高可用的技术栈和完善的功能特性，�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

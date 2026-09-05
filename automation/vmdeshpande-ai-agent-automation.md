@@ -1,6 +1,6 @@
 # vmDeshpande/ai-agent-automation
 
-[![Stars](https://img.shields.io/github/stars/vmDeshpande/ai-agent-automation?style=flat-square&color=yellow)](https://github.com/vmDeshpande/ai-agent-automation/stargazers) [![Forks](https://img.shields.io/github/forks/vmDeshpande/ai-agent-automation?style=flat-square&color=blue)](https://github.com/vmDeshpande/ai-agent-automation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vmDeshpande/ai-agent-automation?style=flat-square&color=yellow)](https://github.com/vmDeshpande/ai-agent-automation/stargazers) [![Forks](https://img.shields.io/github/forks/vmDeshpande/ai-agent-automation?style=flat-square&color=blue)](https://github.com/vmDeshpande/ai-agent-automation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Modular AI agent workflow automation platform with schedulers, tools, and observability. https://vmdeshpande.github.io/ai-automation-platform-website/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Observability
+Automation · AI/ML · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
@@ -108,11 +108,11 @@ vmDeshpande/ai-agent-automation 是一个基于 TypeScript 的模块化 AI 代�
 | forks | 47/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

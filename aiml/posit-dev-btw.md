@@ -1,6 +1,6 @@
 # posit-dev/btw
 
-[![Stars](https://img.shields.io/github/stars/posit-dev/btw?style=flat-square&color=yellow)](https://github.com/posit-dev/btw/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/btw?style=flat-square&color=blue)](https://github.com/posit-dev/btw/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/posit-dev/btw?style=flat-square&color=yellow)](https://github.com/posit-dev/btw/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/btw?style=flat-square&color=blue)](https://github.com/posit-dev/btw/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A complete toolkit for connecting R and LLMs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | R |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ posit‑dev/btw 提供了一整套在 R 语言环境中调用大语言模型（L
 | forks | 24/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 50/100 |
-| quality | 50/100 |
-| recency | 20/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 44/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

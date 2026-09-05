@@ -1,6 +1,6 @@
 # icsharpcode/ILSpy
 
-[![Stars](https://img.shields.io/github/stars/icsharpcode/ILSpy?style=flat-square&color=yellow)](https://github.com/icsharpcode/ILSpy/stargazers) [![Forks](https://img.shields.io/github/forks/icsharpcode/ILSpy?style=flat-square&color=blue)](https://github.com/icsharpcode/ILSpy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/icsharpcode/ILSpy?style=flat-square&color=yellow)](https://github.com/icsharpcode/ILSpy/stargazers) [![Forks](https://img.shields.io/github/forks/icsharpcode/ILSpy?style=flat-square&color=blue)](https://github.com/icsharpcode/ILSpy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.5k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ icsharpcode/ILSpy 具有高生产可用性，因为它有最近的活动、广�
 | forks | 89/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 60/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

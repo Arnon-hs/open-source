@@ -1,6 +1,6 @@
 # Appsilon/mediforce
 
-[![Stars](https://img.shields.io/github/stars/Appsilon/mediforce?style=flat-square&color=yellow)](https://github.com/Appsilon/mediforce/stargazers) [![Forks](https://img.shields.io/github/forks/Appsilon/mediforce?style=flat-square&color=blue)](https://github.com/Appsilon/mediforce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Appsilon/mediforce?style=flat-square&color=yellow)](https://github.com/Appsilon/mediforce/stargazers) [![Forks](https://img.shields.io/github/forks/Appsilon/mediforce?style=flat-square&color=blue)](https://github.com/Appsilon/mediforce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Platform for orchestrating AI Agents + Human workflows in pharma
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Appsilon/mediforce 是一个面向制药行业的协同平台，能够将 AI 代
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 46/100 |
-| quality | 38/100 |
-| recency | 40/100 |
+| outlook | 60/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

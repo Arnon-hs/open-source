@@ -1,6 +1,6 @@
 # authorjapps/zerocode
 
-[![Stars](https://img.shields.io/github/stars/authorjapps/zerocode?style=flat-square&color=yellow)](https://github.com/authorjapps/zerocode/stargazers) [![Forks](https://img.shields.io/github/forks/authorjapps/zerocode?style=flat-square&color=blue)](https://github.com/authorjapps/zerocode/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/authorjapps/zerocode?style=flat-square&color=yellow)](https://github.com/authorjapps/zerocode/stargazers) [![Forks](https://img.shields.io/github/forks/authorjapps/zerocode?style=flat-square&color=blue)](https://github.com/authorjapps/zerocode/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > zerocode-tdd is a community-developed, free, open-source, outcome-driven automated testing for Data Pipelines, ETL, REST API, Kafka(Data Streams), Databases and Load scenarios. all defined in simple JSON or YAML — with zero coding.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 447 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · Data
+Automation · Backend · DevTools · Data
 
 ## 📝 Summary
 
@@ -119,15 +119,15 @@ zerocode 具备较高的生产可用性，理由如下：
 | forks | 66/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

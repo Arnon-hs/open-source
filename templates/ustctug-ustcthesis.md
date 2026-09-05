@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 449 |
 | 💻 **Language** | TeX |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ustctug/ustcthesis：ustctug/ustcthesis helps teams reuse working workflows and 
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

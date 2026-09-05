@@ -1,6 +1,6 @@
 # jvogan/motif
 
-[![Stars](https://img.shields.io/github/stars/jvogan/motif?style=flat-square&color=yellow)](https://github.com/jvogan/motif/stargazers) [![Forks](https://img.shields.io/github/forks/jvogan/motif?style=flat-square&color=blue)](https://github.com/jvogan/motif/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jvogan/motif?style=flat-square&color=yellow)](https://github.com/jvogan/motif/stargazers) [![Forks](https://img.shields.io/github/forks/jvogan/motif?style=flat-square&color=blue)](https://github.com/jvogan/motif/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-native molecular biology workbench for Claude Science: Claude opens sequence files and prepares analyses on request; you annotate, align, and review them in an interactive workspace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ jvogan/motif 的生产可用性为中等（Medium）。它适合用于原型开�
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

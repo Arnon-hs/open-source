@@ -1,6 +1,6 @@
 # opengisch/QField
 
-[![Stars](https://img.shields.io/github/stars/opengisch/QField?style=flat-square&color=yellow)](https://github.com/opengisch/QField/stargazers) [![Forks](https://img.shields.io/github/forks/opengisch/QField?style=flat-square&color=blue)](https://github.com/opengisch/QField/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opengisch/QField?style=flat-square&color=yellow)](https://github.com/opengisch/QField/stargazers) [![Forks](https://img.shields.io/github/forks/opengisch/QField?style=flat-square&color=blue)](https://github.com/opengisch/QField/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A simplified touch optimized interface for QGIS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ opengisch/QField 是为 QGIS 打造的轻量级、触控优化的移动端客户
 | forks | 63/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 64/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

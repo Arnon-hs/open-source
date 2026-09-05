@@ -1,6 +1,6 @@
 # fitlab-ai/agent-infra
 
-[![Stars](https://img.shields.io/github/stars/fitlab-ai/agent-infra?style=flat-square&color=yellow)](https://github.com/fitlab-ai/agent-infra/stargazers) [![Forks](https://img.shields.io/github/forks/fitlab-ai/agent-infra?style=flat-square&color=blue)](https://github.com/fitlab-ai/agent-infra/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fitlab-ai/agent-infra?style=flat-square&color=yellow)](https://github.com/fitlab-ai/agent-infra/stargazers) [![Forks](https://img.shields.io/github/forks/fitlab-ai/agent-infra?style=flat-square&color=blue)](https://github.com/fitlab-ai/agent-infra/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Collaboration infrastructure for AI coding agents | AI 编程代理的协作基础设施
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ fitlab‑ai/agent‑infra 适合作为 AI 编码代理的原型平台或内部�
 | forks | 15/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 49/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 48/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

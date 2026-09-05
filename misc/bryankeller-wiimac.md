@@ -1,6 +1,6 @@
 # bryankeller/wiiMac
 
-[![Stars](https://img.shields.io/github/stars/bryankeller/wiiMac?style=flat-square&color=yellow)](https://github.com/bryankeller/wiiMac/stargazers) [![Forks](https://img.shields.io/github/forks/bryankeller/wiiMac?style=flat-square&color=blue)](https://github.com/bryankeller/wiiMac/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bryankeller/wiiMac?style=flat-square&color=yellow)](https://github.com/bryankeller/wiiMac/stargazers) [![Forks](https://img.shields.io/github/forks/bryankeller/wiiMac?style=flat-square&color=blue)](https://github.com/bryankeller/wiiMac/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A Mac OS X bootloader for the Nintendo Wii.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 658 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ wiiMac 的生产可用性为中等。它可以用于 prototyping 或内部工作
 | forks | 30/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 48/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

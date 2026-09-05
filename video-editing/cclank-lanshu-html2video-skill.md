@@ -1,6 +1,6 @@
 # cclank/lanshu-html2video-skill
 
-[![Stars](https://img.shields.io/github/stars/cclank/lanshu-html2video-skill?style=flat-square&color=yellow)](https://github.com/cclank/lanshu-html2video-skill/stargazers) [![Forks](https://img.shields.io/github/forks/cclank/lanshu-html2video-skill?style=flat-square&color=blue)](https://github.com/cclank/lanshu-html2video-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cclank/lanshu-html2video-skill?style=flat-square&color=yellow)](https://github.com/cclank/lanshu-html2video-skill/stargazers) [![Forks](https://img.shields.io/github/forks/cclank/lanshu-html2video-skill?style=flat-square&color=blue)](https://github.com/cclank/lanshu-html2video-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Turn web articles into polished 1080p videos with Codex and Remotion
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ cclank/lanshu-html2video-skill：cclank/lanshu-html2video-skill helps turn media
 | forks | 8/100 |
 | stars | 23/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 19/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

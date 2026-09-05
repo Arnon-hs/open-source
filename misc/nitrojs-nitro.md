@@ -1,6 +1,6 @@
 # nitrojs/nitro
 
-[![Stars](https://img.shields.io/github/stars/nitrojs/nitro?style=flat-square&color=yellow)](https://github.com/nitrojs/nitro/stargazers) [![Forks](https://img.shields.io/github/forks/nitrojs/nitro?style=flat-square&color=blue)](https://github.com/nitrojs/nitro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nitrojs/nitro?style=flat-square&color=yellow)](https://github.com/nitrojs/nitro/stargazers) [![Forks](https://img.shields.io/github/forks/nitrojs/nitro?style=flat-square&color=blue)](https://github.com/nitrojs/nitro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 860 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ nitrojs/nitro 的生产可用性非常高，主要原因是：
 | forks | 73/100 |
 | stars | 86/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

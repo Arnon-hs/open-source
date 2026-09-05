@@ -1,6 +1,6 @@
 # telly6/searchpin
 
-[![Stars](https://img.shields.io/github/stars/telly6/searchpin?style=flat-square&color=yellow)](https://github.com/telly6/searchpin/stargazers) [![Forks](https://img.shields.io/github/forks/telly6/searchpin?style=flat-square&color=blue)](https://github.com/telly6/searchpin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/telly6/searchpin?style=flat-square&color=yellow)](https://github.com/telly6/searchpin/stargazers) [![Forks](https://img.shields.io/github/forks/telly6/searchpin?style=flat-square&color=blue)](https://github.com/telly6/searchpin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Free web search for AI agents — multi-engine parallel, smart re-ranking, zero API keys. | 免费 AI 联网搜索 — 多引擎并行、语义重排、零 API Key
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ telly6/searchpin 是一款面向 AI 代理的免费联网搜索服务，支持�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 75/100 |
-| outlook | 58/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

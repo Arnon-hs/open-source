@@ -1,6 +1,6 @@
 # TheDuffman85/crowdsec-web-ui
 
-[![Stars](https://img.shields.io/github/stars/TheDuffman85/crowdsec-web-ui?style=flat-square&color=yellow)](https://github.com/TheDuffman85/crowdsec-web-ui/stargazers) [![Forks](https://img.shields.io/github/forks/TheDuffman85/crowdsec-web-ui?style=flat-square&color=blue)](https://github.com/TheDuffman85/crowdsec-web-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheDuffman85/crowdsec-web-ui?style=flat-square&color=yellow)](https://github.com/TheDuffman85/crowdsec-web-ui/stargazers) [![Forks](https://img.shields.io/github/forks/TheDuffman85/crowdsec-web-ui?style=flat-square&color=blue)](https://github.com/TheDuffman85/crowdsec-web-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, responsive web interface for managing CrowdSec alerts and decisions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ TheDuffman85/crowdsec‑web‑ui 是一套现代化、响应式的 Web 前端，
 | forks | 30/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

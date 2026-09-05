@@ -1,6 +1,6 @@
 # mbhall88/rasusa
 
-[![Stars](https://img.shields.io/github/stars/mbhall88/rasusa?style=flat-square&color=yellow)](https://github.com/mbhall88/rasusa/stargazers) [![Forks](https://img.shields.io/github/forks/mbhall88/rasusa?style=flat-square&color=blue)](https://github.com/mbhall88/rasusa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mbhall88/rasusa?style=flat-square&color=yellow)](https://github.com/mbhall88/rasusa/stargazers) [![Forks](https://img.shields.io/github/forks/mbhall88/rasusa?style=flat-square&color=blue)](https://github.com/mbhall88/rasusa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Randomly subsample sequencing reads or alignments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ mbhall88/rasusa 是一个开源项目，用于随机子样化序列读取或对�
 | forks | 33/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

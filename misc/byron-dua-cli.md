@@ -1,6 +1,6 @@
 # Byron/dua-cli
 
-[![Stars](https://img.shields.io/github/stars/Byron/dua-cli?style=flat-square&color=yellow)](https://github.com/Byron/dua-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Byron/dua-cli?style=flat-square&color=blue)](https://github.com/Byron/dua-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Byron/dua-cli?style=flat-square&color=yellow)](https://github.com/Byron/dua-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Byron/dua-cli?style=flat-square&color=blue)](https://github.com/Byron/dua-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > View disk space usage and delete unwanted data, fast.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Byron/dua‑cli 是一款基于 Rust 的命令行工具，能够快速查看磁�
 | forks | 55/100 |
 | stars | 80/100 |
 | topics | 75/100 |
-| outlook | 61/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

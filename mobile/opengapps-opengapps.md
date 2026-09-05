@@ -1,6 +1,6 @@
 # opengapps/opengapps
 
-[![Stars](https://img.shields.io/github/stars/opengapps/opengapps?style=flat-square&color=yellow)](https://github.com/opengapps/opengapps/stargazers) [![Forks](https://img.shields.io/github/forks/opengapps/opengapps?style=flat-square&color=blue)](https://github.com/opengapps/opengapps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opengapps/opengapps?style=flat-square&color=yellow)](https://github.com/opengapps/opengapps/stargazers) [![Forks](https://img.shields.io/github/forks/opengapps/opengapps?style=flat-square&color=blue)](https://github.com/opengapps/opengapps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The main repository of the Open GApps Project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 982 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Open GApps（仓库 opengapps/opengapps）是 Open GApps 项目的官方代码
 | forks | 75/100 |
 | stars | 80/100 |
 | topics | 88/100 |
-| outlook | 54/100 |
-| quality | 69/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

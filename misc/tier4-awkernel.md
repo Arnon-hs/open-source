@@ -1,6 +1,6 @@
 # tier4/awkernel
 
-[![Stars](https://img.shields.io/github/stars/tier4/awkernel?style=flat-square&color=yellow)](https://github.com/tier4/awkernel/stargazers) [![Forks](https://img.shields.io/github/forks/tier4/awkernel?style=flat-square&color=blue)](https://github.com/tier4/awkernel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tier4/awkernel?style=flat-square&color=yellow)](https://github.com/tier4/awkernel/stargazers) [![Forks](https://img.shields.io/github/forks/tier4/awkernel?style=flat-square&color=blue)](https://github.com/tier4/awkernel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Awkernel: realtime operating system written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ Awkernel 在原型开发和内部实验中能够显著缩短实现实时操作�
 | forks | 21/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 36/100 |
-| quality | 39/100 |
-| recency | 20/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 40/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

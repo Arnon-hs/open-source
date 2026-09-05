@@ -1,6 +1,6 @@
 # react-dropzone/react-dropzone
 
-[![Stars](https://img.shields.io/github/stars/react-dropzone/react-dropzone?style=flat-square&color=yellow)](https://github.com/react-dropzone/react-dropzone/stargazers) [![Forks](https://img.shields.io/github/forks/react-dropzone/react-dropzone?style=flat-square&color=blue)](https://github.com/react-dropzone/react-dropzone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/react-dropzone/react-dropzone?style=flat-square&color=yellow)](https://github.com/react-dropzone/react-dropzone/stargazers) [![Forks](https://img.shields.io/github/forks/react-dropzone/react-dropzone?style=flat-square&color=blue)](https://github.com/react-dropzone/react-dropzone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Simple HTML5 drag-drop zone with React.js.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 801 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ react-dropzone/react-dropzone 的生产可用性很高，因为它有强烈的�
 | forks | 73/100 |
 | stars | 86/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 65/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

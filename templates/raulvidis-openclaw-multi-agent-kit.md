@@ -1,6 +1,6 @@
 # raulvidis/openclaw-multi-agent-kit
 
-[![Stars](https://img.shields.io/github/stars/raulvidis/openclaw-multi-agent-kit?style=flat-square&color=yellow)](https://github.com/raulvidis/openclaw-multi-agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/raulvidis/openclaw-multi-agent-kit?style=flat-square&color=blue)](https://github.com/raulvidis/openclaw-multi-agent-kit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raulvidis/openclaw-multi-agent-kit?style=flat-square&color=yellow)](https://github.com/raulvidis/openclaw-multi-agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/raulvidis/openclaw-multi-agent-kit?style=flat-square&color=blue)](https://github.com/raulvidis/openclaw-multi-agent-kit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Production-tested templates for deploying multi-agent AI teams on OpenClaw with Telegram supergroup integration. 10 agent personalities, shared context workflows, bot-to-bot communication, and step-by-step AI-readable setup instructions. Built from a live 10-agent setup.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ raulvidis/openclaw-multi-agent-kit 是一个开源项目，提供了用于部署
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 57/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

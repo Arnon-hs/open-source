@@ -1,6 +1,6 @@
 # littlebizzy/slickstack
 
-[![Stars](https://img.shields.io/github/stars/littlebizzy/slickstack?style=flat-square&color=yellow)](https://github.com/littlebizzy/slickstack/stargazers) [![Forks](https://img.shields.io/github/forks/littlebizzy/slickstack?style=flat-square&color=blue)](https://github.com/littlebizzy/slickstack/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/littlebizzy/slickstack?style=flat-square&color=yellow)](https://github.com/littlebizzy/slickstack/stargazers) [![Forks](https://img.shields.io/github/forks/littlebizzy/slickstack?style=flat-square&color=blue)](https://github.com/littlebizzy/slickstack/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Lightning-fast WordPress on Nginx
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 700 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database · Marketing
+DevTools · Database · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
@@ -96,15 +96,15 @@ littlebizzy/slickstack 的生产可用性非常高。根据评估结果，它拥
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

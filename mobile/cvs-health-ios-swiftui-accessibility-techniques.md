@@ -1,6 +1,6 @@
 # cvs-health/ios-swiftui-accessibility-techniques
 
-[![Stars](https://img.shields.io/github/stars/cvs-health/ios-swiftui-accessibility-techniques?style=flat-square&color=yellow)](https://github.com/cvs-health/ios-swiftui-accessibility-techniques/stargazers) [![Forks](https://img.shields.io/github/forks/cvs-health/ios-swiftui-accessibility-techniques?style=flat-square&color=blue)](https://github.com/cvs-health/ios-swiftui-accessibility-techniques/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cvs-health/ios-swiftui-accessibility-techniques?style=flat-square&color=yellow)](https://github.com/cvs-health/ios-swiftui-accessibility-techniques/stargazers) [![Forks](https://img.shields.io/github/forks/cvs-health/ios-swiftui-accessibility-techniques?style=flat-square&color=blue)](https://github.com/cvs-health/ios-swiftui-accessibility-techniques/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Demonstrates iOS SwiftUI Accessibility programming techniques using live good and bad examples that can be tested with VoiceOver and other AT. Includes documentation for developers explaining how to code accessible patterns for iOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ cvs-health/ios‑swiftui‑accessibility‑techniques 为 iOS 开发者提供了
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

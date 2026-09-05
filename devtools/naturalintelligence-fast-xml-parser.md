@@ -1,6 +1,6 @@
 # NaturalIntelligence/fast-xml-parser
 
-[![Stars](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=flat-square&color=yellow)](https://github.com/NaturalIntelligence/fast-xml-parser/stargazers) [![Forks](https://img.shields.io/github/forks/NaturalIntelligence/fast-xml-parser?style=flat-square&color=blue)](https://github.com/NaturalIntelligence/fast-xml-parser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=flat-square&color=yellow)](https://github.com/NaturalIntelligence/fast-xml-parser/stargazers) [![Forks](https://img.shields.io/github/forks/NaturalIntelligence/fast-xml-parser?style=flat-square&color=blue)](https://github.com/NaturalIntelligence/fast-xml-parser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 371 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ NaturalIntelligence/fast-xml-parser 是一款纯 JavaScript 实现的 XML 处理
 | forks | 64/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

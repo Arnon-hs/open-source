@@ -1,6 +1,6 @@
 # pacphi/agentic-kit
 
-[![Stars](https://img.shields.io/github/stars/pacphi/agentic-kit?style=flat-square&color=yellow)](https://github.com/pacphi/agentic-kit/stargazers) [![Forks](https://img.shields.io/github/forks/pacphi/agentic-kit?style=flat-square&color=blue)](https://github.com/pacphi/agentic-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pacphi/agentic-kit?style=flat-square&color=yellow)](https://github.com/pacphi/agentic-kit/stargazers) [![Forks](https://img.shields.io/github/forks/pacphi/agentic-kit?style=flat-square&color=blue)](https://github.com/pacphi/agentic-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > One command to install, heal & prove ruflo (claude-flow) + agentic-qe — plus Claude + Codex dual-host with per-activity model routing. Thin, reversible, cross-platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ pacphi/agentic-kit 的生产可用性为中等（Medium），适合用于原型�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 60/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

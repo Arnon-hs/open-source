@@ -1,6 +1,6 @@
 # VasiHemanth/tokentelemetry
 
-[![Stars](https://img.shields.io/github/stars/VasiHemanth/tokentelemetry?style=flat-square&color=yellow)](https://github.com/VasiHemanth/tokentelemetry/stargazers) [![Forks](https://img.shields.io/github/forks/VasiHemanth/tokentelemetry?style=flat-square&color=blue)](https://github.com/VasiHemanth/tokentelemetry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VasiHemanth/tokentelemetry?style=flat-square&color=yellow)](https://github.com/VasiHemanth/tokentelemetry/stargazers) [![Forks](https://img.shields.io/github/forks/VasiHemanth/tokentelemetry?style=flat-square&color=blue)](https://github.com/VasiHemanth/tokentelemetry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Token telemetry dashboard for AI autonomous and coding agents — tracks tokens, sessions, tool calls & reasoning across Hermes agent, Claude Code, Antigravity CLI, Codex & more. 100% local.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ VasiHemanth/tokentelemetry 是一款本地运行的 Token 遥测仪表盘，能�
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

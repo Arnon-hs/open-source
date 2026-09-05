@@ -1,6 +1,6 @@
 # hotovo/aider-desk
 
-[![Stars](https://img.shields.io/github/stars/hotovo/aider-desk?style=flat-square&color=yellow)](https://github.com/hotovo/aider-desk/stargazers) [![Forks](https://img.shields.io/github/forks/hotovo/aider-desk?style=flat-square&color=blue)](https://github.com/hotovo/aider-desk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hotovo/aider-desk?style=flat-square&color=yellow)](https://github.com/hotovo/aider-desk/stargazers) [![Forks](https://img.shields.io/github/forks/hotovo/aider-desk?style=flat-square&color=blue)](https://github.com/hotovo/aider-desk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Platform for AI-powered software engineers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ hotovo/aider-desk 有很高的生产可用性，主要原因是：
 | forks | 51/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

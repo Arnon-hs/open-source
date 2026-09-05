@@ -1,6 +1,6 @@
 # yangbobo2021/relay-dsh-plugin-claude
 
-[![Stars](https://img.shields.io/github/stars/yangbobo2021/relay-dsh-plugin-claude?style=flat-square&color=yellow)](https://github.com/yangbobo2021/relay-dsh-plugin-claude/stargazers) [![Forks](https://img.shields.io/github/forks/yangbobo2021/relay-dsh-plugin-claude?style=flat-square&color=blue)](https://github.com/yangbobo2021/relay-dsh-plugin-claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yangbobo2021/relay-dsh-plugin-claude?style=flat-square&color=yellow)](https://github.com/yangbobo2021/relay-dsh-plugin-claude/stargazers) [![Forks](https://img.shields.io/github/forks/yangbobo2021/relay-dsh-plugin-claude?style=flat-square&color=blue)](https://github.com/yangbobo2021/relay-dsh-plugin-claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code integration plugin for DeepSeek Harness, providing native Claude conversations powered by the Claude Agent SDK, with approvals, session continuity, and DSH tool support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-30 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ yangbobo2021/relay-dsh-plugin-claude：yangbobo2021/relay-dsh-plugin-claude help
 | forks | 12/100 |
 | stars | 10/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 11/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

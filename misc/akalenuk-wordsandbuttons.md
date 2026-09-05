@@ -1,6 +1,6 @@
 # akalenuk/wordsandbuttons
 
-[![Stars](https://img.shields.io/github/stars/akalenuk/wordsandbuttons?style=flat-square&color=yellow)](https://github.com/akalenuk/wordsandbuttons/stargazers) [![Forks](https://img.shields.io/github/forks/akalenuk/wordsandbuttons?style=flat-square&color=blue)](https://github.com/akalenuk/wordsandbuttons/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akalenuk/wordsandbuttons?style=flat-square&color=yellow)](https://github.com/akalenuk/wordsandbuttons/stargazers) [![Forks](https://img.shields.io/github/forks/akalenuk/wordsandbuttons?style=flat-square&color=blue)](https://github.com/akalenuk/wordsandbuttons/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ akalenuk/wordsandbuttons 的生产可用性为中等（Medium）。虽然该项�
 | forks | 31/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

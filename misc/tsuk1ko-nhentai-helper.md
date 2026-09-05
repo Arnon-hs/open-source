@@ -1,6 +1,6 @@
 # Tsuk1ko/nhentai-helper
 
-[![Stars](https://img.shields.io/github/stars/Tsuk1ko/nhentai-helper?style=flat-square&color=yellow)](https://github.com/Tsuk1ko/nhentai-helper/stargazers) [![Forks](https://img.shields.io/github/forks/Tsuk1ko/nhentai-helper?style=flat-square&color=blue)](https://github.com/Tsuk1ko/nhentai-helper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tsuk1ko/nhentai-helper?style=flat-square&color=yellow)](https://github.com/Tsuk1ko/nhentai-helper/stargazers) [![Forks](https://img.shields.io/github/forks/Tsuk1ko/nhentai-helper?style=flat-square&color=blue)](https://github.com/Tsuk1ko/nhentai-helper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🔞 A user script make it easy for you to download nHentai manga as zip (or cbz), also support some mirror sites. 一个可以让你轻松打包下载 nHentai 本子的用户脚本，并支持一些镜像站
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 797 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ Tsuk1ko/nhentai‑helper 是一款基于 TypeScript 的油猴/Violentmonkey 脚�
 | forks | 43/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

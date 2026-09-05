@@ -1,6 +1,6 @@
 # alireza787b/mavsdk_drone_show
 
-[![Stars](https://img.shields.io/github/stars/alireza787b/mavsdk_drone_show?style=flat-square&color=yellow)](https://github.com/alireza787b/mavsdk_drone_show/stargazers) [![Forks](https://img.shields.io/github/forks/alireza787b/mavsdk_drone_show?style=flat-square&color=blue)](https://github.com/alireza787b/mavsdk_drone_show/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alireza787b/mavsdk_drone_show?style=flat-square&color=yellow)](https://github.com/alireza787b/mavsdk_drone_show/stargazers) [![Forks](https://img.shields.io/github/forks/alireza787b/mavsdk_drone_show?style=flat-square&color=blue)](https://github.com/alireza787b/mavsdk_drone_show/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source MAVLink fleet operations platform for PX4 drones, SITL, drone shows, SAR, and cooperative autonomy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 286 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ alireza787b/mavsdk_drone_show 是基于 MAVLink 与 MAVSDK 的开源平台，面
 | forks | 47/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 58/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

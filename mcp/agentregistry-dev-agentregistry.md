@@ -1,6 +1,6 @@
 # agentregistry-dev/agentregistry
 
-[![Stars](https://img.shields.io/github/stars/agentregistry-dev/agentregistry?style=flat-square&color=yellow)](https://github.com/agentregistry-dev/agentregistry/stargazers) [![Forks](https://img.shields.io/github/forks/agentregistry-dev/agentregistry?style=flat-square&color=blue)](https://github.com/agentregistry-dev/agentregistry/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentregistry-dev/agentregistry?style=flat-square&color=yellow)](https://github.com/agentregistry-dev/agentregistry/stargazers) [![Forks](https://img.shields.io/github/forks/agentregistry-dev/agentregistry?style=flat-square&color=blue)](https://github.com/agentregistry-dev/agentregistry/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Fast-track AI innovation with a centralized, trusted, curated registry
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 418 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ AgentRegistry 的生产可用性很高，主要因为：
 | forks | 46/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 56/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

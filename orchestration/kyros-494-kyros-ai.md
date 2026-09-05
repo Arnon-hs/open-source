@@ -1,6 +1,6 @@
 # Kyros-494/kyros-ai
 
-[![Stars](https://img.shields.io/github/stars/Kyros-494/kyros-ai?style=flat-square&color=yellow)](https://github.com/Kyros-494/kyros-ai/stargazers) [![Forks](https://img.shields.io/github/forks/Kyros-494/kyros-ai?style=flat-square&color=blue)](https://github.com/Kyros-494/kyros-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kyros-494/kyros-ai?style=flat-square&color=yellow)](https://github.com/Kyros-494/kyros-ai/stargazers) [![Forks](https://img.shields.io/github/forks/Kyros-494/kyros-ai?style=flat-square&color=blue)](https://github.com/Kyros-494/kyros-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Kyros — The Memory OS for AI Agents  Give your AI agents secure, self-correcting, persistent memory in 3 lines of code.  Three memory types (episodic, semantic, procedural) with built-in forgetting curves, cryptographic integrity, and automatic contradiction resolution. Model-agnostic REST API with Python and TypeScript SDKs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Database · DevOps/Infra
+Orchestration · Knowledge/RAG · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -68,11 +68,11 @@ Kyros-494/kyros-ai：Kyros-494/kyros-ai helps prototype or inspect blockchain wo
 | forks | 12/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 60/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 67/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

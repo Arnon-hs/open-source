@@ -1,6 +1,6 @@
 # Gaurav-Gosain/tuios
 
-[![Stars](https://img.shields.io/github/stars/Gaurav-Gosain/tuios?style=flat-square&color=yellow)](https://github.com/Gaurav-Gosain/tuios/stargazers) [![Forks](https://img.shields.io/github/forks/Gaurav-Gosain/tuios?style=flat-square&color=blue)](https://github.com/Gaurav-Gosain/tuios/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gaurav-Gosain/tuios?style=flat-square&color=yellow)](https://github.com/Gaurav-Gosain/tuios/stargazers) [![Forks](https://img.shields.io/github/forks/Gaurav-Gosain/tuios?style=flat-square&color=blue)](https://github.com/Gaurav-Gosain/tuios/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal UI OS (Terminal Multiplexer)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Gaurav-Gosain/tuios 的生产可用性较高，主要原因是：
 | forks | 46/100 |
 | stars | 73/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

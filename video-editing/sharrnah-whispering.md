@@ -1,6 +1,6 @@
 # Sharrnah/whispering
 
-[![Stars](https://img.shields.io/github/stars/Sharrnah/whispering?style=flat-square&color=yellow)](https://github.com/Sharrnah/whispering/stargazers) [![Forks](https://img.shields.io/github/forks/Sharrnah/whispering?style=flat-square&color=blue)](https://github.com/Sharrnah/whispering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sharrnah/whispering?style=flat-square&color=yellow)](https://github.com/Sharrnah/whispering/stargazers) [![Forks](https://img.shields.io/github/forks/Sharrnah/whispering?style=flat-square&color=blue)](https://github.com/Sharrnah/whispering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Whispering Tiger - OpenAI's whisper (and other models) with OSC and Websocket support. Allowing live transcription / translation in VRChat and Overlays in most Streaming Applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 538 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ Sharrnah/whispering：Sharrnah/whispering helps add AI capability without starti
 | forks | 41/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

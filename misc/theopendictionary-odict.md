@@ -1,6 +1,6 @@
 # TheOpenDictionary/odict
 
-[![Stars](https://img.shields.io/github/stars/TheOpenDictionary/odict?style=flat-square&color=yellow)](https://github.com/TheOpenDictionary/odict/stargazers) [![Forks](https://img.shields.io/github/forks/TheOpenDictionary/odict?style=flat-square&color=blue)](https://github.com/TheOpenDictionary/odict/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheOpenDictionary/odict?style=flat-square&color=yellow)](https://github.com/TheOpenDictionary/odict/stargazers) [![Forks](https://img.shields.io/github/forks/TheOpenDictionary/odict?style=flat-square&color=blue)](https://github.com/TheOpenDictionary/odict/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A blazingly-fast, offline-first format and toolchain for lexical data 📖
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ TheOpenDictionary/odict 是一个基于 Rust 实现的超高速、离线优先�
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 55/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 51/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

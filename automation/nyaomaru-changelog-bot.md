@@ -1,6 +1,6 @@
 # nyaomaru/changelog-bot
 
-[![Stars](https://img.shields.io/github/stars/nyaomaru/changelog-bot?style=flat-square&color=yellow)](https://github.com/nyaomaru/changelog-bot/stargazers) [![Forks](https://img.shields.io/github/forks/nyaomaru/changelog-bot?style=flat-square&color=blue)](https://github.com/nyaomaru/changelog-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nyaomaru/changelog-bot?style=flat-square&color=yellow)](https://github.com/nyaomaru/changelog-bot/stargazers) [![Forks](https://img.shields.io/github/forks/nyaomaru/changelog-bot?style=flat-square&color=blue)](https://github.com/nyaomaru/changelog-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic create changelog with AI. 🤖 It provides CLI and github actions. 🚀  https://www.npmjs.com/package/@nyaomaru/changelog-bot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools
+Automation · AI/ML · Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,15 +68,15 @@ nyaomaru/changelog-bot：nyaomaru/changelog-bot helps remove repetitive manual o
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # renee-jia/scholar-loop
 
-[![Stars](https://img.shields.io/github/stars/renee-jia/scholar-loop?style=flat-square&color=yellow)](https://github.com/renee-jia/scholar-loop/stargazers) [![Forks](https://img.shields.io/github/forks/renee-jia/scholar-loop?style=flat-square&color=blue)](https://github.com/renee-jia/scholar-loop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/renee-jia/scholar-loop?style=flat-square&color=yellow)](https://github.com/renee-jia/scholar-loop/stargazers) [![Forks](https://img.shields.io/github/forks/renee-jia/scholar-loop?style=flat-square&color=blue)](https://github.com/renee-jia/scholar-loop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ renee-jia/scholar‑loop 是一个面向科研的自治 AI 系统，采用多代
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 56/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

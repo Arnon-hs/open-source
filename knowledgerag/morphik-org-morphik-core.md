@@ -1,6 +1,6 @@
 # morphik-org/morphik-core
 
-[![Stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=flat-square&color=yellow)](https://github.com/morphik-org/morphik-core/stargazers) [![Forks](https://img.shields.io/github/forks/morphik-org/morphik-core?style=flat-square&color=blue)](https://github.com/morphik-org/morphik-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=flat-square&color=yellow)](https://github.com/morphik-org/morphik-core/stargazers) [![Forks](https://img.shields.io/github/forks/morphik-org/morphik-core?style=flat-square&color=blue)](https://github.com/morphik-org/morphik-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The most accurate document search and store for building AI apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database
+Knowledge/RAG · AI/ML · Documents · Database
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ Morphik‑Core 是一套高精度的文档搜索与存储引擎，专为 AI 应�
 | forks | 62/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 53/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

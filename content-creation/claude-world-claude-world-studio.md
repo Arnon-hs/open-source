@@ -1,6 +1,6 @@
 # claude-world/claude-world-studio
 
-[![Stars](https://img.shields.io/github/stars/claude-world/claude-world-studio?style=flat-square&color=yellow)](https://github.com/claude-world/claude-world-studio/stargazers) [![Forks](https://img.shields.io/github/forks/claude-world/claude-world-studio?style=flat-square&color=blue)](https://github.com/claude-world/claude-world-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/claude-world/claude-world-studio?style=flat-square&color=yellow)](https://github.com/claude-world/claude-world-studio/stargazers) [![Forks](https://img.shields.io/github/forks/claude-world/claude-world-studio?style=flat-square&color=blue)](https://github.com/claude-world/claude-world-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered content pipeline: trend discovery → research → social publishing. Built with Claude Agent SDK + MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Content Creation · MCP · AI/ML
+Content Creation · MCP · AI/ML · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Claude-world/claude-world-studio 的主要价值在于帮助连接 AI 辅助器�
 | forks | 26/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

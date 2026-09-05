@@ -1,6 +1,6 @@
 # Alexis12119/nvim-config
 
-[![Stars](https://img.shields.io/github/stars/Alexis12119/nvim-config?style=flat-square&color=yellow)](https://github.com/Alexis12119/nvim-config/stargazers) [![Forks](https://img.shields.io/github/forks/Alexis12119/nvim-config?style=flat-square&color=blue)](https://github.com/Alexis12119/nvim-config/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alexis12119/nvim-config?style=flat-square&color=yellow)](https://github.com/Alexis12119/nvim-config/stargazers) [![Forks](https://img.shields.io/github/forks/Alexis12119/nvim-config?style=flat-square&color=blue)](https://github.com/Alexis12119/nvim-config/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Perfect for developers seeking a single, unified environment for web development, backend systems, mobile apps, and competitive programming.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Alexis12119/nvim-config 是一个开源项目，为开发者提供一个统一�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 63/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

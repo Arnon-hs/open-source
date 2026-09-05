@@ -1,6 +1,6 @@
 # JuneYaooo/awesome-ai-media-cn
 
-[![Stars](https://img.shields.io/github/stars/JuneYaooo/awesome-ai-media-cn?style=flat-square&color=yellow)](https://github.com/JuneYaooo/awesome-ai-media-cn/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/awesome-ai-media-cn?style=flat-square&color=blue)](https://github.com/JuneYaooo/awesome-ai-media-cn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuneYaooo/awesome-ai-media-cn?style=flat-square&color=yellow)](https://github.com/JuneYaooo/awesome-ai-media-cn/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/awesome-ai-media-cn?style=flat-square&color=blue)](https://github.com/JuneYaooo/awesome-ai-media-cn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ JuneYaooo/awesome-ai-media-cn：JuneYaooo/awesome-ai-media-cn helps automate sho
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

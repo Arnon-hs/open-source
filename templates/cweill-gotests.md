@@ -1,6 +1,6 @@
 # cweill/gotests
 
-[![Stars](https://img.shields.io/github/stars/cweill/gotests?style=flat-square&color=yellow)](https://github.com/cweill/gotests/stargazers) [![Forks](https://img.shields.io/github/forks/cweill/gotests?style=flat-square&color=blue)](https://github.com/cweill/gotests/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cweill/gotests?style=flat-square&color=yellow)](https://github.com/cweill/gotests/stargazers) [![Forks](https://img.shields.io/github/forks/cweill/gotests?style=flat-square&color=blue)](https://github.com/cweill/gotests/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically generate Go test boilerplate from your source code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 350 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ cweill/gotests：cweill/gotests helps teams reuse working workflows and producti
 | forks | 64/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

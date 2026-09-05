@@ -1,6 +1,6 @@
 # PostgREST/postgrest
 
-[![Stars](https://img.shields.io/github/stars/PostgREST/postgrest?style=flat-square&color=yellow)](https://github.com/PostgREST/postgrest/stargazers) [![Forks](https://img.shields.io/github/forks/PostgREST/postgrest?style=flat-square&color=blue)](https://github.com/PostgREST/postgrest/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PostgREST/postgrest?style=flat-square&color=yellow)](https://github.com/PostgREST/postgrest/stargazers) [![Forks](https://img.shields.io/github/forks/PostgREST/postgrest?style=flat-square&color=blue)](https://github.com/PostgREST/postgrest/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > REST API for any Postgres database
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ PostgREST/postgrest 的生产可用性很高，因为它具有以下特征：
 | forks | 77/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 85/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 69/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

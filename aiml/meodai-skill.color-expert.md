@@ -1,6 +1,6 @@
 # meodai/skill.color-expert
 
-[![Stars](https://img.shields.io/github/stars/meodai/skill.color-expert?style=flat-square&color=yellow)](https://github.com/meodai/skill.color-expert/stargazers) [![Forks](https://img.shields.io/github/forks/meodai/skill.color-expert?style=flat-square&color=blue)](https://github.com/meodai/skill.color-expert/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meodai/skill.color-expert?style=flat-square&color=yellow)](https://github.com/meodai/skill.color-expert/stargazers) [![Forks](https://img.shields.io/github/forks/meodai/skill.color-expert?style=flat-square&color=blue)](https://github.com/meodai/skill.color-expert/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 452 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ meodai/skill.color‑expert 是一个面向颜色科学的 Agent 技能库，汇
 | forks | 36/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

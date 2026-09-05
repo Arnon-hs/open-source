@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Data · Database
+MCP · Knowledge/RAG · AI/ML · Documents · Data
 
 ## 📝 Summary
 
@@ -78,6 +78,7 @@ Open-Source-Legal/OpenContracts：Open-Source-Legal/OpenContracts helps connect 
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

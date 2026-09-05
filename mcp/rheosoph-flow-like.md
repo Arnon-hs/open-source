@@ -1,6 +1,6 @@
 # Rheosoph/flow-like
 
-[![Stars](https://img.shields.io/github/stars/Rheosoph/flow-like?style=flat-square&color=yellow)](https://github.com/Rheosoph/flow-like/stargazers) [![Forks](https://img.shields.io/github/forks/Rheosoph/flow-like?style=flat-square&color=blue)](https://github.com/Rheosoph/flow-like/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rheosoph/flow-like?style=flat-square&color=yellow)](https://github.com/Rheosoph/flow-like/stargazers) [![Forks](https://img.shields.io/github/forks/Rheosoph/flow-like?style=flat-square&color=blue)](https://github.com/Rheosoph/flow-like/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 903 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ Rheosoph/flow‑like 是一套强类型、企业级工作流框架，专为高�
 | forks | 46/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 83/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

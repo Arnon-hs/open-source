@@ -1,6 +1,6 @@
 # rustic-rs/rustic
 
-[![Stars](https://img.shields.io/github/stars/rustic-rs/rustic?style=flat-square&color=yellow)](https://github.com/rustic-rs/rustic/stargazers) [![Forks](https://img.shields.io/github/forks/rustic-rs/rustic?style=flat-square&color=blue)](https://github.com/rustic-rs/rustic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustic-rs/rustic?style=flat-square&color=yellow)](https://github.com/rustic-rs/rustic/stargazers) [![Forks](https://img.shields.io/github/forks/rustic-rs/rustic?style=flat-square&color=blue)](https://github.com/rustic-rs/rustic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > rustic - fast, encrypted, and deduplicated backups powered by Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ rustic-rs/rustic 的生产可用性为中等（Medium），适合用于原型或
 | forks | 53/100 |
 | stars | 74/100 |
 | topics | 75/100 |
-| outlook | 64/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

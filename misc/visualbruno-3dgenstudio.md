@@ -1,6 +1,6 @@
 # visualbruno/3DGenStudio
 
-[![Stars](https://img.shields.io/github/stars/visualbruno/3DGenStudio?style=flat-square&color=yellow)](https://github.com/visualbruno/3DGenStudio/stargazers) [![Forks](https://img.shields.io/github/forks/visualbruno/3DGenStudio?style=flat-square&color=blue)](https://github.com/visualbruno/3DGenStudio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/visualbruno/3DGenStudio?style=flat-square&color=yellow)](https://github.com/visualbruno/3DGenStudio/stargazers) [![Forks](https://img.shields.io/github/forks/visualbruno/3DGenStudio?style=flat-square&color=blue)](https://github.com/visualbruno/3DGenStudio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate complete 3D generation pipelines — from text-to-image, image editing, mesh generation, UV unwrapping, to texturing — all in a single visual workspace powered by ComfyUI and external APIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ To adopt 3DGenStudio, developers should start by evaluating its feasibility thro
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

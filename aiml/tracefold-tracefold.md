@@ -1,6 +1,6 @@
 # TraceFold/tracefold
 
-[![Stars](https://img.shields.io/github/stars/TraceFold/tracefold?style=flat-square&color=yellow)](https://github.com/TraceFold/tracefold/stargazers) [![Forks](https://img.shields.io/github/forks/TraceFold/tracefold?style=flat-square&color=blue)](https://github.com/TraceFold/tracefold/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TraceFold/tracefold?style=flat-square&color=yellow)](https://github.com/TraceFold/tracefold/stargazers) [![Forks](https://img.shields.io/github/forks/TraceFold/tracefold?style=flat-square&color=blue)](https://github.com/TraceFold/tracefold/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag showdev): The undo has to exist before the write does
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-30 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -65,11 +65,11 @@ The "Undo must exist before write" project adds AI capabilities without starting
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

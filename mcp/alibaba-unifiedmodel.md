@@ -1,6 +1,6 @@
 # alibaba/UnifiedModel
 
-[![Stars](https://img.shields.io/github/stars/alibaba/UnifiedModel?style=flat-square&color=yellow)](https://github.com/alibaba/UnifiedModel/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/UnifiedModel?style=flat-square&color=blue)](https://github.com/alibaba/UnifiedModel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/UnifiedModel?style=flat-square&color=yellow)](https://github.com/alibaba/UnifiedModel/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/UnifiedModel?style=flat-square&color=blue)](https://github.com/alibaba/UnifiedModel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry, services, and business objects in one object graph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ UnifiedModel（alibaba/UnifiedModel）是面向企业的语义层，提供一次
 | forks | 39/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

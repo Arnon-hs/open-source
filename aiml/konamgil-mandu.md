@@ -1,6 +1,6 @@
 # konamgil/mandu
 
-[![Stars](https://img.shields.io/github/stars/konamgil/mandu?style=flat-square&color=yellow)](https://github.com/konamgil/mandu/stargazers) [![Forks](https://img.shields.io/github/forks/konamgil/mandu?style=flat-square&color=blue)](https://github.com/konamgil/mandu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/konamgil/mandu?style=flat-square&color=yellow)](https://github.com/konamgil/mandu/stargazers) [![Forks](https://img.shields.io/github/forks/konamgil/mandu?style=flat-square&color=blue)](https://github.com/konamgil/mandu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source framework that prevents AI agents from breaking your codebase.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,11 +114,11 @@ konamgil/mandu 是一个开源框架，专门用于在代码库中安全地引�
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 52/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

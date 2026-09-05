@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | C |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ netdata/netdata：netdata/netdata helps connect AI assistants to real tools and 
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

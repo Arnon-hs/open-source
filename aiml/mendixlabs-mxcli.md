@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,17 @@ Mendix CLI (mxcli) is a headless command‑line tool that lets developers mana
 
 ### 中文
 
-mendixlabs/mxcli：mendixlabs/mxcli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+mendixlabs/mxcli：mendixlabs/mxcli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** mendixlabs/mxcli helps add AI capability without starting from a blank model stack.
+**Value:** mendixlabs/mxcli helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,17 +65,18 @@ mendixlabs/mxcli：mendixlabs/mxcli helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 39/100 |
-| stars | 41/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 75/100 |
+| outlook | 52/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

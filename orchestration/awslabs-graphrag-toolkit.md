@@ -1,6 +1,6 @@
 # awslabs/graphrag-toolkit
 
-[![Stars](https://img.shields.io/github/stars/awslabs/graphrag-toolkit?style=flat-square&color=yellow)](https://github.com/awslabs/graphrag-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/graphrag-toolkit?style=flat-square&color=blue)](https://github.com/awslabs/graphrag-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/graphrag-toolkit?style=flat-square&color=yellow)](https://github.com/awslabs/graphrag-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/graphrag-toolkit?style=flat-square&color=blue)](https://github.com/awslabs/graphrag-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Python toolkit for building graph-enhanced GenAI applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Database
+Orchestration · MCP · Cloud & Storage · Database
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ graphrag-toolkit 以“图‑增强 + 生成式 AI”为核心，提供即插即
 | forks | 50/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 64/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 58/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

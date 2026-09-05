@@ -1,6 +1,6 @@
 # wangxin6x/AutoVideo-Agent
 
-[![Stars](https://img.shields.io/github/stars/wangxin6x/AutoVideo-Agent?style=flat-square&color=yellow)](https://github.com/wangxin6x/AutoVideo-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/wangxin6x/AutoVideo-Agent?style=flat-square&color=blue)](https://github.com/wangxin6x/AutoVideo-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangxin6x/AutoVideo-Agent?style=flat-square&color=yellow)](https://github.com/wangxin6x/AutoVideo-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/wangxin6x/AutoVideo-Agent?style=flat-square&color=blue)](https://github.com/wangxin6x/AutoVideo-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-friendly Markdown-to-video automation pipeline with reproducible rendering and pluggable media providers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ wangxin6x/AutoVideo-Agent：wangxin6x/AutoVideo-Agent helps turn media editing, 
 | forks | 15/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

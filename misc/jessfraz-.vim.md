@@ -1,6 +1,6 @@
 # jessfraz/.vim
 
-[![Stars](https://img.shields.io/github/stars/jessfraz/.vim?style=flat-square&color=yellow)](https://github.com/jessfraz/.vim/stargazers) [![Forks](https://img.shields.io/github/forks/jessfraz/.vim?style=flat-square&color=blue)](https://github.com/jessfraz/.vim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jessfraz/.vim?style=flat-square&color=yellow)](https://github.com/jessfraz/.vim/stargazers) [![Forks](https://img.shields.io/github/forks/jessfraz/.vim?style=flat-square&color=blue)](https://github.com/jessfraz/.vim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > My .vim dotfiles and configurations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 645 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,11 +90,11 @@ jessfraz/.vim 的生产可用性为中等（Medium）。它适用于 Prototypes 
 | forks | 57/100 |
 | stars | 60/100 |
 | topics | 13/100 |
-| outlook | 48/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

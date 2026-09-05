@@ -1,6 +1,6 @@
 # RevylAI/revyl-cli
 
-[![Stars](https://img.shields.io/github/stars/RevylAI/revyl-cli?style=flat-square&color=yellow)](https://github.com/RevylAI/revyl-cli/stargazers) [![Forks](https://img.shields.io/github/forks/RevylAI/revyl-cli?style=flat-square&color=blue)](https://github.com/RevylAI/revyl-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RevylAI/revyl-cli?style=flat-square&color=yellow)](https://github.com/RevylAI/revyl-cli/stargazers) [![Forks](https://img.shields.io/github/forks/RevylAI/revyl-cli?style=flat-square&color=blue)](https://github.com/RevylAI/revyl-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ RevylAI/revyl-cli 是一个开源 CLI 工具，旨在帮助开发者轻松地集
 | forks | 35/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 48/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

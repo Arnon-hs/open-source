@@ -1,6 +1,6 @@
 # tianjiangqiji/nova-image-studio
 
-[![Stars](https://img.shields.io/github/stars/tianjiangqiji/nova-image-studio?style=flat-square&color=yellow)](https://github.com/tianjiangqiji/nova-image-studio/stargazers) [![Forks](https://img.shields.io/github/forks/tianjiangqiji/nova-image-studio?style=flat-square&color=blue)](https://github.com/tianjiangqiji/nova-image-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tianjiangqiji/nova-image-studio?style=flat-square&color=yellow)](https://github.com/tianjiangqiji/nova-image-studio/stargazers) [![Forks](https://img.shields.io/github/forks/tianjiangqiji/nova-image-studio?style=flat-square&color=blue)](https://github.com/tianjiangqiji/nova-image-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ tianjiangqiji/nova-image-studio 的价值在于，它帮助开发者快速添加
 | forks | 46/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

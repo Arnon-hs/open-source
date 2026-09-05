@@ -1,6 +1,6 @@
 # kubeflow/mcp-apache-spark-history-server
 
-[![Stars](https://img.shields.io/github/stars/kubeflow/mcp-apache-spark-history-server?style=flat-square&color=yellow)](https://github.com/kubeflow/mcp-apache-spark-history-server/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/mcp-apache-spark-history-server?style=flat-square&color=blue)](https://github.com/kubeflow/mcp-apache-spark-history-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeflow/mcp-apache-spark-history-server?style=flat-square&color=yellow)](https://github.com/kubeflow/mcp-apache-spark-history-server/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/mcp-apache-spark-history-server?style=flat-square&color=blue)](https://github.com/kubeflow/mcp-apache-spark-history-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server and CLI for Apache Spark History Server. Debug Spark applications from AI agents, scripts, or the terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ kubeflow/mcp‑apache‑spark‑history‑server 为 Apache Spark History Server
 | forks | 44/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 52/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 54/100 |
+| production | 74/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # aidenlx/zotlit
 
-[![Stars](https://img.shields.io/github/stars/aidenlx/zotlit?style=flat-square&color=yellow)](https://github.com/aidenlx/zotlit/stargazers) [![Forks](https://img.shields.io/github/forks/aidenlx/zotlit?style=flat-square&color=blue)](https://github.com/aidenlx/zotlit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aidenlx/zotlit?style=flat-square&color=yellow)](https://github.com/aidenlx/zotlit/stargazers) [![Forks](https://img.shields.io/github/forks/aidenlx/zotlit?style=flat-square&color=blue)](https://github.com/aidenlx/zotlit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Bring your Zotero library into Obsidian. Create liter ature notes, insert citations, and annotate PDFs without leaving your vault.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 978 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ aidenlx/zotlit 有很高的生产可用性，主要原因是：
 | forks | 45/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

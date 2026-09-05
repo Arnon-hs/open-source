@@ -1,6 +1,6 @@
 # nsonaniya2010/SubDomainizer
 
-[![Stars](https://img.shields.io/github/stars/nsonaniya2010/SubDomainizer?style=flat-square&color=yellow)](https://github.com/nsonaniya2010/SubDomainizer/stargazers) [![Forks](https://img.shields.io/github/forks/nsonaniya2010/SubDomainizer?style=flat-square&color=blue)](https://github.com/nsonaniya2010/SubDomainizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nsonaniya2010/SubDomainizer?style=flat-square&color=yellow)](https://github.com/nsonaniya2010/SubDomainizer/stargazers) [![Forks](https://img.shields.io/github/forks/nsonaniya2010/SubDomainizer?style=flat-square&color=blue)](https://github.com/nsonaniya2010/SubDomainizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Security
+Automation · Cloud & Storage · Security
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ nsonaniya2010/SubDomainizer 在生产环境中具有较高的可用性，因为�
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 65/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

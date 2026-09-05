@@ -1,6 +1,6 @@
 # artginzburg/sudo-touchid
 
-[![Stars](https://img.shields.io/github/stars/artginzburg/sudo-touchid?style=flat-square&color=yellow)](https://github.com/artginzburg/sudo-touchid/stargazers) [![Forks](https://img.shields.io/github/forks/artginzburg/sudo-touchid?style=flat-square&color=blue)](https://github.com/artginzburg/sudo-touchid/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artginzburg/sudo-touchid?style=flat-square&color=yellow)](https://github.com/artginzburg/sudo-touchid/stargazers) [![Forks](https://img.shields.io/github/forks/artginzburg/sudo-touchid?style=flat-square&color=blue)](https://github.com/artginzburg/sudo-touchid/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 >  Permanent TouchID support 👆 for `sudo`.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ artginzburg/sudo-touchid 的价值在于它可以帮助工程师:
 | forks | 31/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 63/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

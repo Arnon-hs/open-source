@@ -1,6 +1,6 @@
 # qualcomm/ai-hub-models
 
-[![Stars](https://img.shields.io/github/stars/qualcomm/ai-hub-models?style=flat-square&color=yellow)](https://github.com/qualcomm/ai-hub-models/stargazers) [![Forks](https://img.shields.io/github/forks/qualcomm/ai-hub-models?style=flat-square&color=blue)](https://github.com/qualcomm/ai-hub-models/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qualcomm/ai-hub-models?style=flat-square&color=yellow)](https://github.com/qualcomm/ai-hub-models/stargazers) [![Forks](https://img.shields.io/github/forks/qualcomm/ai-hub-models?style=flat-square&color=blue)](https://github.com/qualcomm/ai-hub-models/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Qualcomm® AI Hub Models is our collection of state-of-the-art machine learning models optimized for performance (latency, memory etc.) and ready to deploy on Qualcomm® devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database · Education
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Qualcomm® AI Hub Models 是一套经过 Qualcomm® 硬件深度优化的前沿�
 | forks | 58/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

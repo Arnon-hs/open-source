@@ -1,6 +1,6 @@
 # WenyuChiou/research-hub
 
-[![Stars](https://img.shields.io/github/stars/WenyuChiou/research-hub?style=flat-square&color=yellow)](https://github.com/WenyuChiou/research-hub/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/research-hub?style=flat-square&color=blue)](https://github.com/WenyuChiou/research-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WenyuChiou/research-hub?style=flat-square&color=yellow)](https://github.com/WenyuChiou/research-hub/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/research-hub?style=flat-square&color=blue)](https://github.com/WenyuChiou/research-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > AI-operable research workspace for Zotero, Obsidian, and NotebookLM. Use any two, or all three, through CLI, MCP, REST, and dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
@@ -107,11 +107,11 @@ WenyuChiou/research-hub 的主要价值在于帮助连接 AI 助手与现实工�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 53/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

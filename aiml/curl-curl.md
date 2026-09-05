@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | C |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Communication · DevTools · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ curl/curl：curl/curl helps add AI capability without starting from a blank mode
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

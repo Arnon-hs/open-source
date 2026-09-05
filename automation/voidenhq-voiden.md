@@ -1,6 +1,6 @@
 # VoidenHQ/voiden
 
-[![Stars](https://img.shields.io/github/stars/VoidenHQ/voiden?style=flat-square&color=yellow)](https://github.com/VoidenHQ/voiden/stargazers) [![Forks](https://img.shields.io/github/forks/VoidenHQ/voiden?style=flat-square&color=blue)](https://github.com/VoidenHQ/voiden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoidenHQ/voiden?style=flat-square&color=yellow)](https://github.com/VoidenHQ/voiden/stargazers) [![Forks](https://img.shields.io/github/forks/VoidenHQ/voiden?style=flat-square&color=blue)](https://github.com/VoidenHQ/voiden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools · Design
+Automation · Documents · Networking · Backend · DevTools
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ VoidenHQ/voiden 是一款基于纯 Markdown 的 API 设计、测试与文档工�
 | forks | 44/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 67/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

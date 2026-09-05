@@ -1,6 +1,6 @@
 # kube-rs/kube
 
-[![Stars](https://img.shields.io/github/stars/kube-rs/kube?style=flat-square&color=yellow)](https://github.com/kube-rs/kube/stargazers) [![Forks](https://img.shields.io/github/forks/kube-rs/kube?style=flat-square&color=blue)](https://github.com/kube-rs/kube/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kube-rs/kube?style=flat-square&color=yellow)](https://github.com/kube-rs/kube/stargazers) [![Forks](https://img.shields.io/github/forks/kube-rs/kube?style=flat-square&color=blue)](https://github.com/kube-rs/kube/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Kubernetes client and controller runtime
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 398 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ kube‑rs/kube 是用 Rust 实现的 Kubernetes 客户端与控制器运行时�
 | forks | 65/100 |
 | stars | 76/100 |
 | topics | 50/100 |
-| outlook | 52/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # inbrace-tech/tokenline
 
-[![Stars](https://img.shields.io/github/stars/inbrace-tech/tokenline?style=flat-square&color=yellow)](https://github.com/inbrace-tech/tokenline/stargazers) [![Forks](https://img.shields.io/github/forks/inbrace-tech/tokenline?style=flat-square&color=blue)](https://github.com/inbrace-tech/tokenline/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inbrace-tech/tokenline?style=flat-square&color=yellow)](https://github.com/inbrace-tech/tokenline/stargazers) [![Forks](https://img.shields.io/github/forks/inbrace-tech/tokenline?style=flat-square&color=blue)](https://github.com/inbrace-tech/tokenline/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > See your AI coding costs in real time. Tokenline adds context usage, prompt-cache savings, TTL countdown and rate-limit pacing to Claude Code and Antigravity CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Tokenline 的生产可用性为中等（Medium）。它适合用于原型开发�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

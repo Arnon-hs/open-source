@@ -1,6 +1,6 @@
 # 0xDarkMatter/claude-mods
 
-[![Stars](https://img.shields.io/github/stars/0xDarkMatter/claude-mods?style=flat-square&color=yellow)](https://github.com/0xDarkMatter/claude-mods/stargazers) [![Forks](https://img.shields.io/github/forks/0xDarkMatter/claude-mods?style=flat-square&color=blue)](https://github.com/0xDarkMatter/claude-mods/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xDarkMatter/claude-mods?style=flat-square&color=yellow)](https://github.com/0xDarkMatter/claude-mods/stargazers) [![Forks](https://img.shields.io/github/forks/0xDarkMatter/claude-mods?style=flat-square&color=blue)](https://github.com/0xDarkMatter/claude-mods/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Expert skills, agents, commands, rules, hooks & output styles for Claude Code — session continuity + modern CLI tooling for real-world dev workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ To adopt 0xDarkMatter/claude-mods, developers can follow these steps:
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

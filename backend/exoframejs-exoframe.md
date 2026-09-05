@@ -1,6 +1,6 @@
 # exoframejs/exoframe
 
-[![Stars](https://img.shields.io/github/stars/exoframejs/exoframe?style=flat-square&color=yellow)](https://github.com/exoframejs/exoframe/stargazers) [![Forks](https://img.shields.io/github/forks/exoframejs/exoframe?style=flat-square&color=blue)](https://github.com/exoframejs/exoframe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exoframejs/exoframe?style=flat-square&color=yellow)](https://github.com/exoframejs/exoframe/stargazers) [![Forks](https://img.shields.io/github/forks/exoframejs/exoframe?style=flat-square&color=blue)](https://github.com/exoframejs/exoframe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Exoframe（exoframejs/exoframe）是一款自托管的 DevOps 工具，利用 Do
 | forks | 44/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 62/100 |
-| recency | 20/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

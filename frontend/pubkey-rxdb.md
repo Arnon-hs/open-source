@@ -1,6 +1,6 @@
 # pubkey/rxdb
 
-[![Stars](https://img.shields.io/github/stars/pubkey/rxdb?style=flat-square&color=yellow)](https://github.com/pubkey/rxdb/stargazers) [![Forks](https://img.shields.io/github/forks/pubkey/rxdb?style=flat-square&color=blue)](https://github.com/pubkey/rxdb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pubkey/rxdb?style=flat-square&color=yellow)](https://github.com/pubkey/rxdb/stargazers) [![Forks](https://img.shields.io/github/forks/pubkey/rxdb?style=flat-square&color=blue)](https://github.com/pubkey/rxdb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile
+Frontend · Backend · Database · Mobile
 
 ## 📝 Summary
 
@@ -167,15 +167,15 @@ pubkey/rxdb 是一个基于 RxJS 的 **本地优先、响应式** JavaScript 数
 | forks | 77/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 75/100 |
-| recency | 20/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 80/100 |
 | adoption | 88/100 |
-| production | 55/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cutbypham/awesome-davinci-resolve
 
-[![Stars](https://img.shields.io/github/stars/cutbypham/awesome-davinci-resolve?style=flat-square&color=yellow)](https://github.com/cutbypham/awesome-davinci-resolve/stargazers) [![Forks](https://img.shields.io/github/forks/cutbypham/awesome-davinci-resolve?style=flat-square&color=blue)](https://github.com/cutbypham/awesome-davinci-resolve/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cutbypham/awesome-davinci-resolve?style=flat-square&color=yellow)](https://github.com/cutbypham/awesome-davinci-resolve/stargazers) [![Forks](https://img.shields.io/github/forks/cutbypham/awesome-davinci-resolve?style=flat-square&color=blue)](https://github.com/cutbypham/awesome-davinci-resolve/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > awesome list related to Davinci Resolve
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ cutbypham/awesome-davinci-resolve 是一份整理好的资源列表，帮助在 
 | forks | 25/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

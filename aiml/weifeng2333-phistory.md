@@ -1,6 +1,6 @@
 # WEIFENG2333/phistory
 
-[![Stars](https://img.shields.io/github/stars/WEIFENG2333/phistory?style=flat-square&color=yellow)](https://github.com/WEIFENG2333/phistory/stargazers) [![Forks](https://img.shields.io/github/forks/WEIFENG2333/phistory?style=flat-square&color=blue)](https://github.com/WEIFENG2333/phistory/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WEIFENG2333/phistory?style=flat-square&color=yellow)](https://github.com/WEIFENG2333/phistory/stargazers) [![Forks](https://img.shields.io/github/forks/WEIFENG2333/phistory?style=flat-square&color=blue)](https://github.com/WEIFENG2333/phistory/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ WEIFENG2333/phistory 的生产可用性为中等（Medium）。它适合用于�
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rupeshs/fastsdcpu
 
-[![Stars](https://img.shields.io/github/stars/rupeshs/fastsdcpu?style=flat-square&color=yellow)](https://github.com/rupeshs/fastsdcpu/stargazers) [![Forks](https://img.shields.io/github/forks/rupeshs/fastsdcpu?style=flat-square&color=blue)](https://github.com/rupeshs/fastsdcpu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rupeshs/fastsdcpu?style=flat-square&color=yellow)](https://github.com/rupeshs/fastsdcpu/stargazers) [![Forks](https://img.shields.io/github/forks/rupeshs/fastsdcpu?style=flat-square&color=blue)](https://github.com/rupeshs/fastsdcpu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Fast stable diffusion on CPU and AI PC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ rupeshs/fastsdcpu 是一个在 CPU 上实现高速 Stable Diffusion 推理的开
 | forks | 58/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

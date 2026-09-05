@@ -1,6 +1,6 @@
 # jasp-stats/jasp-desktop
 
-[![Stars](https://img.shields.io/github/stars/jasp-stats/jasp-desktop?style=flat-square&color=yellow)](https://github.com/jasp-stats/jasp-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/jasp-stats/jasp-desktop?style=flat-square&color=blue)](https://github.com/jasp-stats/jasp-desktop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jasp-stats/jasp-desktop?style=flat-square&color=yellow)](https://github.com/jasp-stats/jasp-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/jasp-stats/jasp-desktop?style=flat-square&color=blue)](https://github.com/jasp-stats/jasp-desktop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > JASP aims to be a complete statistical package for both Bayesian and Frequentist statistical methods, that is easy to use and familiar to users of SPSS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 970 |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,11 +86,11 @@ JASP‑Desktop 是一款易于使用的统计软件，兼顾贝叶斯和频率�
 | forks | 59/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

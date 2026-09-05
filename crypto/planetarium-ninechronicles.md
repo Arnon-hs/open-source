@@ -1,6 +1,6 @@
 # planetarium/NineChronicles
 
-[![Stars](https://img.shields.io/github/stars/planetarium/NineChronicles?style=flat-square&color=yellow)](https://github.com/planetarium/NineChronicles/stargazers) [![Forks](https://img.shields.io/github/forks/planetarium/NineChronicles?style=flat-square&color=blue)](https://github.com/planetarium/NineChronicles/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/planetarium/NineChronicles?style=flat-square&color=yellow)](https://github.com/planetarium/NineChronicles/stargazers) [![Forks](https://img.shields.io/github/forks/planetarium/NineChronicles?style=flat-square&color=blue)](https://github.com/planetarium/NineChronicles/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ planetarium/NineChronicles 是基于 Unity 的客户端实现，面向完全去�
 | forks | 56/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 53/100 |
-| quality | 60/100 |
-| recency | 20/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 50/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

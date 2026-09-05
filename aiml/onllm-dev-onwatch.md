@@ -1,6 +1,6 @@
 # onllm-dev/onWatch
 
-[![Stars](https://img.shields.io/github/stars/onllm-dev/onWatch?style=flat-square&color=yellow)](https://github.com/onllm-dev/onWatch/stargazers) [![Forks](https://img.shields.io/github/forks/onllm-dev/onWatch?style=flat-square&color=blue)](https://github.com/onllm-dev/onWatch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onllm-dev/onWatch?style=flat-square&color=yellow)](https://github.com/onllm-dev/onWatch/stargazers) [![Forks](https://img.shields.io/github/forks/onllm-dev/onWatch?style=flat-square&color=blue)](https://github.com/onllm-dev/onWatch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,11 +117,11 @@ onWatch 的生产可用性很高，主要原因是：
 | forks | 43/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

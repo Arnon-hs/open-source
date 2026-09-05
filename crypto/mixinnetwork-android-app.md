@@ -1,6 +1,6 @@
 # MixinNetwork/android-app
 
-[![Stars](https://img.shields.io/github/stars/MixinNetwork/android-app?style=flat-square&color=yellow)](https://github.com/MixinNetwork/android-app/stargazers) [![Forks](https://img.shields.io/github/forks/MixinNetwork/android-app?style=flat-square&color=blue)](https://github.com/MixinNetwork/android-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MixinNetwork/android-app?style=flat-square&color=yellow)](https://github.com/MixinNetwork/android-app/stargazers) [![Forks](https://img.shields.io/github/forks/MixinNetwork/android-app?style=flat-square&color=blue)](https://github.com/MixinNetwork/android-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 📱 Android private messenger, crypto wallet and light node to Mixin Network
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ MixinNetwork/android-app 是一款基于 Kotlin 开发的 Android 私密即时�
 | forks | 51/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 54/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

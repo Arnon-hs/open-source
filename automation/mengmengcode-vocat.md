@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · Observability
+Automation · Networking · Observability
 
 ## 📝 Summary
 
@@ -105,7 +105,7 @@ Vocat的生产可用性为中等水平，适合用于原型或内部工作流程
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

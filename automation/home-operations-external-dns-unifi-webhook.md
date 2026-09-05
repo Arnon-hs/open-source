@@ -1,6 +1,6 @@
 # home-operations/external-dns-unifi-webhook
 
-[![Stars](https://img.shields.io/github/stars/home-operations/external-dns-unifi-webhook?style=flat-square&color=yellow)](https://github.com/home-operations/external-dns-unifi-webhook/stargazers) [![Forks](https://img.shields.io/github/forks/home-operations/external-dns-unifi-webhook?style=flat-square&color=blue)](https://github.com/home-operations/external-dns-unifi-webhook/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/home-operations/external-dns-unifi-webhook?style=flat-square&color=yellow)](https://github.com/home-operations/external-dns-unifi-webhook/stargazers) [![Forks](https://img.shields.io/github/forks/home-operations/external-dns-unifi-webhook?style=flat-square&color=blue)](https://github.com/home-operations/external-dns-unifi-webhook/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > External-DNS Webhook to manage UniFi DNS Records
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,11 +106,11 @@ home-operations/external-dns-unifi-webhook 是一个开源项目，用于管理 
 | forks | 29/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

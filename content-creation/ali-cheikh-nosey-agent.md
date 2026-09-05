@@ -1,6 +1,6 @@
 # Ali-Cheikh/nosey-agent
 
-[![Stars](https://img.shields.io/github/stars/Ali-Cheikh/nosey-agent?style=flat-square&color=yellow)](https://github.com/Ali-Cheikh/nosey-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Ali-Cheikh/nosey-agent?style=flat-square&color=blue)](https://github.com/Ali-Cheikh/nosey-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ali-Cheikh/nosey-agent?style=flat-square&color=yellow)](https://github.com/Ali-Cheikh/nosey-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Ali-Cheikh/nosey-agent?style=flat-square&color=blue)](https://github.com/Ali-Cheikh/nosey-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight framework that turns RSS feeds into daily AI-ranked digests. You define the sources and rules; the engine handles the rest. No paid subscriptions required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ Ali-Cheikh/nosey-agent：Ali-Cheikh/nosey-agent helps creators research, generat
 | forks | 0/100 |
 | stars | 6/100 |
 | topics | 63/100 |
-| outlook | 67/100 |
-| quality | 47/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 42/100 |
+| recency | 80/100 |
 | adoption | 5/100 |
-| production | 59/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

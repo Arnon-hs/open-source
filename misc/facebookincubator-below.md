@@ -1,6 +1,6 @@
 # facebookincubator/below
 
-[![Stars](https://img.shields.io/github/stars/facebookincubator/below?style=flat-square&color=yellow)](https://github.com/facebookincubator/below/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/below?style=flat-square&color=blue)](https://github.com/facebookincubator/below/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookincubator/below?style=flat-square&color=yellow)](https://github.com/facebookincubator/below/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/below?style=flat-square&color=blue)](https://github.com/facebookincubator/below/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A time traveling resource monitor for modern Linux systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ Below is considered medium-level production-ready, making it suitable for protot
 | forks | 51/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

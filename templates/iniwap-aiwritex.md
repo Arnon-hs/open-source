@@ -1,6 +1,6 @@
 # iniwap/AIWriteX
 
-[![Stars](https://img.shields.io/github/stars/iniwap/AIWriteX?style=flat-square&color=yellow)](https://github.com/iniwap/AIWriteX/stargazers) [![Forks](https://img.shields.io/github/forks/iniwap/AIWriteX?style=flat-square&color=blue)](https://github.com/iniwap/AIWriteX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iniwap/AIWriteX?style=flat-square&color=yellow)](https://github.com/iniwap/AIWriteX/stargazers) [![Forks](https://img.shields.io/github/forks/iniwap/AIWriteX?style=flat-square&color=blue)](https://github.com/iniwap/AIWriteX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布 | AI自动配图 | 去AI味、过朱雀检测 | 支持小红书/百家号/头条等多平台 | 洗稿润色支持多账号 | 专家赛道 | 手机控制 | 小说连载 | 爆文10w+神器
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 308 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ AIWriteX 通过把热搜舆情、趋势分析、爆款选题、内容采集、�
 | forks | 62/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

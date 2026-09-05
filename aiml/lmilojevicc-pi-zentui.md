@@ -1,6 +1,6 @@
 # lmilojevicc/pi-zentui
 
-[![Stars](https://img.shields.io/github/stars/lmilojevicc/pi-zentui?style=flat-square&color=yellow)](https://github.com/lmilojevicc/pi-zentui/stargazers) [![Forks](https://img.shields.io/github/forks/lmilojevicc/pi-zentui?style=flat-square&color=blue)](https://github.com/lmilojevicc/pi-zentui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lmilojevicc/pi-zentui?style=flat-square&color=yellow)](https://github.com/lmilojevicc/pi-zentui/stargazers) [![Forks](https://img.shields.io/github/forks/lmilojevicc/pi-zentui?style=flat-square&color=blue)](https://github.com/lmilojevicc/pi-zentui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A Starship-inspired statusline and Opencode-style TUI for Pi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ lmilojevicc/pi-zentui 的生产可用性较高，主要原因是：
 | forks | 35/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

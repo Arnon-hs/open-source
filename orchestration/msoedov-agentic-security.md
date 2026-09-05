@@ -1,6 +1,6 @@
 # msoedov/agentic_security
 
-[![Stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=flat-square&color=yellow)](https://github.com/msoedov/agentic_security/stargazers) [![Forks](https://img.shields.io/github/forks/msoedov/agentic_security?style=flat-square&color=blue)](https://github.com/msoedov/agentic_security/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=flat-square&color=yellow)](https://github.com/msoedov/agentic_security/stargazers) [![Forks](https://img.shields.io/github/forks/msoedov/agentic_security?style=flat-square&color=blue)](https://github.com/msoedov/agentic_security/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Security
+Orchestration · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -101,15 +101,15 @@ msoedov/agentic_security 是一套基于大模型的漏洞扫描与红队工具�
 | forks | 60/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

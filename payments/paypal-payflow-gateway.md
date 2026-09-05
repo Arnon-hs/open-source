@@ -1,6 +1,6 @@
 # paypal/payflow-gateway
 
-[![Stars](https://img.shields.io/github/stars/paypal/payflow-gateway?style=flat-square&color=yellow)](https://github.com/paypal/payflow-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/paypal/payflow-gateway?style=flat-square&color=blue)](https://github.com/paypal/payflow-gateway/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paypal/payflow-gateway?style=flat-square&color=yellow)](https://github.com/paypal/payflow-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/paypal/payflow-gateway?style=flat-square&color=blue)](https://github.com/paypal/payflow-gateway/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > PayPal Payflow Gateway SDK for .NET (C# and VB) and Java. Supports .NET 8/10/Framework 4.8 and Java 11+.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ PayPal Payflow Gateway SDK 为 .NET（C#、VB）和 Java 提供统一的 Payflow
 | forks | 47/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

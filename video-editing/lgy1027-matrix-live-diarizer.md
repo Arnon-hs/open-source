@@ -1,6 +1,6 @@
 # lgy1027/matrix-live-diarizer
 
-[![Stars](https://img.shields.io/github/stars/lgy1027/matrix-live-diarizer?style=flat-square&color=yellow)](https://github.com/lgy1027/matrix-live-diarizer/stargazers) [![Forks](https://img.shields.io/github/forks/lgy1027/matrix-live-diarizer?style=flat-square&color=blue)](https://github.com/lgy1027/matrix-live-diarizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lgy1027/matrix-live-diarizer?style=flat-square&color=yellow)](https://github.com/lgy1027/matrix-live-diarizer/stargazers) [![Forks](https://img.shields.io/github/forks/lgy1027/matrix-live-diarizer?style=flat-square&color=blue)](https://github.com/lgy1027/matrix-live-diarizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first real-time meeting transcription with speaker diarization, switchable ASR engines, and optional OpenAI-compatible LLM summaries.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · AI/ML · Frontend · DevOps/Infra
+Video Editing · AI/ML · Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -103,15 +103,15 @@ lgy1027/matrix-live-diarizer 是一个开源项目，提供本地实时会议记
 | forks | 34/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 66/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 400/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

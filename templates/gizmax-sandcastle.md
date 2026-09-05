@@ -1,6 +1,6 @@
 # gizmax/Sandcastle
 
-[![Stars](https://img.shields.io/github/stars/gizmax/Sandcastle?style=flat-square&color=yellow)](https://github.com/gizmax/Sandcastle/stargazers) [![Forks](https://img.shields.io/github/forks/gizmax/Sandcastle?style=flat-square&color=blue)](https://github.com/gizmax/Sandcastle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gizmax/Sandcastle?style=flat-square&color=yellow)](https://github.com/gizmax/Sandcastle/stargazers) [![Forks](https://img.shields.io/github/forks/gizmax/Sandcastle?style=flat-square&color=blue)](https://github.com/gizmax/Sandcastle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Describe what you want. Go home. Sandcastle ships it. 6 AI providers, EU data residency, smart failover, cost intelligence, 20 step types, 236 templates. European-built, open source. pip install sandcastle-ai
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ gizmax/Sandcastle 的生产可用性较高，主要是因为：
 | forks | 21/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |

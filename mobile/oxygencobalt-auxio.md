@@ -1,6 +1,6 @@
 # OxygenCobalt/Auxio
 
-[![Stars](https://img.shields.io/github/stars/OxygenCobalt/Auxio?style=flat-square&color=yellow)](https://github.com/OxygenCobalt/Auxio/stargazers) [![Forks](https://img.shields.io/github/forks/OxygenCobalt/Auxio?style=flat-square&color=blue)](https://github.com/OxygenCobalt/Auxio/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OxygenCobalt/Auxio?style=flat-square&color=yellow)](https://github.com/OxygenCobalt/Auxio/stargazers) [![Forks](https://img.shields.io/github/forks/OxygenCobalt/Auxio?style=flat-square&color=blue)](https://github.com/OxygenCobalt/Auxio/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, rational music player for android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ OxygenCobalt/Auxio 的生产可用性较高，因为它是一个活跃的开源�
 | forks | 61/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

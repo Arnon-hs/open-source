@@ -1,6 +1,6 @@
 # jipraks/yt-short-clipper
 
-[![Stars](https://img.shields.io/github/stars/jipraks/yt-short-clipper?style=flat-square&color=yellow)](https://github.com/jipraks/yt-short-clipper/stargazers) [![Forks](https://img.shields.io/github/forks/jipraks/yt-short-clipper?style=flat-square&color=blue)](https://github.com/jipraks/yt-short-clipper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jipraks/yt-short-clipper?style=flat-square&color=yellow)](https://github.com/jipraks/yt-short-clipper/stargazers) [![Forks](https://img.shields.io/github/forks/jipraks/yt-short-clipper?style=flat-square&color=blue)](https://github.com/jipraks/yt-short-clipper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-tracking portrait reframe, and word-by-word captions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 964 |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Vertical Video · Video Editing · Content Creation · AI/ML · Frontend
+Vertical Video · Video Editing · Content Creation · AI/ML · Productivity
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ jipraks/yt-short-clipper：jipraks/yt-short-clipper helps automate short-form vi
 | forks | 62/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 85/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

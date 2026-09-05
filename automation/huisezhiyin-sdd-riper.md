@@ -1,6 +1,6 @@
 # huisezhiyin/sdd-riper
 
-[![Stars](https://img.shields.io/github/stars/huisezhiyin/sdd-riper?style=flat-square&color=yellow)](https://github.com/huisezhiyin/sdd-riper/stargazers) [![Forks](https://img.shields.io/github/forks/huisezhiyin/sdd-riper?style=flat-square&color=blue)](https://github.com/huisezhiyin/sdd-riper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huisezhiyin/sdd-riper?style=flat-square&color=yellow)](https://github.com/huisezhiyin/sdd-riper/stargazers) [![Forks](https://img.shields.io/github/forks/huisezhiyin/sdd-riper?style=flat-square&color=blue)](https://github.com/huisezhiyin/sdd-riper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight AI Agent Harness for agentic coding: let strong models explore while humans steer with minimal specs, checkpoints, approval, validation, and reverse sync.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ huisezhiyin/sdd‑riper 是一款轻量级的 AI Agent 框架，旨在让强大�
 | forks | 40/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 56/100 |
-| recency | 20/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 49/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

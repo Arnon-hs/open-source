@@ -1,6 +1,6 @@
 # processing/p5.js
 
-[![Stars](https://img.shields.io/github/stars/processing/p5.js?style=flat-square&color=yellow)](https://github.com/processing/p5.js/stargazers) [![Forks](https://img.shields.io/github/forks/processing/p5.js?style=flat-square&color=blue)](https://github.com/processing/p5.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/processing/p5.js?style=flat-square&color=yellow)](https://github.com/processing/p5.js/stargazers) [![Forks](https://img.shields.io/github/forks/processing/p5.js?style=flat-square&color=blue)](https://github.com/processing/p5.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.7k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ processing/p5.js 是一个面向艺术家、设计师、学生以及所有想在
 | forks | 89/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 76/100 |
-| recency | 20/100 |
+| outlook | 83/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 56/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

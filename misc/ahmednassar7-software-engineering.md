@@ -1,6 +1,6 @@
 # AhmedNassar7/Software-Engineering
 
-[![Stars](https://img.shields.io/github/stars/AhmedNassar7/Software-Engineering?style=flat-square&color=yellow)](https://github.com/AhmedNassar7/Software-Engineering/stargazers) [![Forks](https://img.shields.io/github/forks/AhmedNassar7/Software-Engineering?style=flat-square&color=blue)](https://github.com/AhmedNassar7/Software-Engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AhmedNassar7/Software-Engineering?style=flat-square&color=yellow)](https://github.com/AhmedNassar7/Software-Engineering/stargazers) [![Forks](https://img.shields.io/github/forks/AhmedNassar7/Software-Engineering?style=flat-square&color=blue)](https://github.com/AhmedNassar7/Software-Engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Software Engineering opportunities & resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 517 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ AhmedNassar7/Software-Engineering 是一个开源项目，提供软件工程机�
 | forks | 33/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 68/100 |
-| recency | 60/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 62/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

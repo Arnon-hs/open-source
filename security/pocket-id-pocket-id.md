@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -35,17 +35,15 @@ Pocket‑ID – это лёгкий OIDC‑провайдер с открыты�
 
 ### 中文
 
-pocket-id/pocket-id：pocket-id/pocket-id helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pocket-id/pocket-id：pocket-id/pocket-id may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** pocket-id/pocket-id helps catch security and privacy issues earlier in the workflow.
+**Value:** pocket-id/pocket-id may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,17 +63,18 @@ pocket-id/pocket-id：pocket-id/pocket-id helps catch security and privacy issue
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 76/100 |
-| stars | 83/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 50/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

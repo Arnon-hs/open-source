@@ -1,6 +1,6 @@
 # patternfly/patternfly-react
 
-[![Stars](https://img.shields.io/github/stars/patternfly/patternfly-react?style=flat-square&color=yellow)](https://github.com/patternfly/patternfly-react/stargazers) [![Forks](https://img.shields.io/github/forks/patternfly/patternfly-react?style=flat-square&color=blue)](https://github.com/patternfly/patternfly-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patternfly/patternfly-react?style=flat-square&color=yellow)](https://github.com/patternfly/patternfly-react/stargazers) [![Forks](https://img.shields.io/github/forks/patternfly/patternfly-react?style=flat-square&color=blue)](https://github.com/patternfly/patternfly-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A set of React components for the PatternFly project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 856 |
 | 🍴 **Forks** | 390 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,11 +116,11 @@ Patternfly/patternfly-react 是一个开源项目，提供了一个可重用的 
 | forks | 65/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 67/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

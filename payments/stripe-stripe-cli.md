@@ -1,6 +1,6 @@
 # stripe/stripe-cli
 
-[![Stars](https://img.shields.io/github/stars/stripe/stripe-cli?style=flat-square&color=yellow)](https://github.com/stripe/stripe-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-cli?style=flat-square&color=blue)](https://github.com/stripe/stripe-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/stripe-cli?style=flat-square&color=yellow)](https://github.com/stripe/stripe-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-cli?style=flat-square&color=blue)](https://github.com/stripe/stripe-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A command-line tool for Stripe
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 496 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Payments
+Payments · DevTools
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ stripe/stripe-cli 的生产可用性很高，因为它有以下特点：
 | forks | 67/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 70/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

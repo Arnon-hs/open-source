@@ -1,6 +1,6 @@
 # niclasvestlund-YT/vibepulse
 
-[![Stars](https://img.shields.io/github/stars/niclasvestlund-YT/vibepulse?style=flat-square&color=yellow)](https://github.com/niclasvestlund-YT/vibepulse/stargazers) [![Forks](https://img.shields.io/github/forks/niclasvestlund-YT/vibepulse?style=flat-square&color=blue)](https://github.com/niclasvestlund-YT/vibepulse/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niclasvestlund-YT/vibepulse?style=flat-square&color=yellow)](https://github.com/niclasvestlund-YT/vibepulse/stargazers) [![Forks](https://img.shields.io/github/forks/niclasvestlund-YT/vibepulse?style=flat-square&color=blue)](https://github.com/niclasvestlund-YT/vibepulse/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A shelf-top AMOLED screen showing your Claude Code & Codex usage, live agent activity, and a NEEDS YOU alert when an agent waits for your input. ESP32-S3 + a pure-stdlib Mac service. Nothing leaves your LAN.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ niclasvestlund-YT/vibepulse 帮助你在不从零开始建立模型堆栈的情�
 | forks | 24/100 |
 | stars | 37/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

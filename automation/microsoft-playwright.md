@@ -1,6 +1,6 @@
 # microsoft/playwright
 
-[![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&color=yellow)](https://github.com/microsoft/playwright/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/playwright?style=flat-square&color=blue)](https://github.com/microsoft/playwright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&color=yellow)](https://github.com/microsoft/playwright/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/playwright?style=flat-square&color=blue)](https://github.com/microsoft/playwright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92.3k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Playwright（microsoft/playwright）是一个用于 Web 测试与自动化的开
 | forks | 95/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 40/100 |
+| outlook | 93/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 98/100 |
-| production | 66/100 |
+| production | 79/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

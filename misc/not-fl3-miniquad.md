@@ -1,6 +1,6 @@
 # not-fl3/miniquad
 
-[![Stars](https://img.shields.io/github/stars/not-fl3/miniquad?style=flat-square&color=yellow)](https://github.com/not-fl3/miniquad/stargazers) [![Forks](https://img.shields.io/github/forks/not-fl3/miniquad?style=flat-square&color=blue)](https://github.com/not-fl3/miniquad/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/not-fl3/miniquad?style=flat-square&color=yellow)](https://github.com/not-fl3/miniquad/stargazers) [![Forks](https://img.shields.io/github/forks/not-fl3/miniquad?style=flat-square&color=blue)](https://github.com/not-fl3/miniquad/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Cross platform rendering in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,11 +110,11 @@ not-fl3/miniquad 的生产可用性为中等。它适合用于：
 | forks | 60/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 55/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

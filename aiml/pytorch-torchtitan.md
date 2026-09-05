@@ -1,6 +1,6 @@
 # pytorch/torchtitan
 
-[![Stars](https://img.shields.io/github/stars/pytorch/torchtitan?style=flat-square&color=yellow)](https://github.com/pytorch/torchtitan/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/torchtitan?style=flat-square&color=blue)](https://github.com/pytorch/torchtitan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pytorch/torchtitan?style=flat-square&color=yellow)](https://github.com/pytorch/torchtitan/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/torchtitan?style=flat-square&color=blue)](https://github.com/pytorch/torchtitan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A PyTorch native platform for training generative AI models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 873 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ pytorch/torchtitan 是一个基于 PyTorch 的原生平台，专注于训练生�
 | forks | 74/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 78/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

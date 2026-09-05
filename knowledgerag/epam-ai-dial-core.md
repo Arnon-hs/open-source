@@ -1,6 +1,6 @@
 # epam/ai-dial-core
 
-[![Stars](https://img.shields.io/github/stars/epam/ai-dial-core?style=flat-square&color=yellow)](https://github.com/epam/ai-dial-core/stargazers) [![Forks](https://img.shields.io/github/forks/epam/ai-dial-core?style=flat-square&color=blue)](https://github.com/epam/ai-dial-core/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epam/ai-dial-core?style=flat-square&color=yellow)](https://github.com/epam/ai-dial-core/stargazers) [![Forks](https://img.shields.io/github/forks/epam/ai-dial-core?style=flat-square&color=blue)](https://github.com/epam/ai-dial-core/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The main component of AI DIAL, which provides unified API to different chat completion and embedding models, assistants, and applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 656 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML
+Knowledge/RAG · AI/ML · Communication
 
 ## 📝 Summary
 
@@ -120,15 +120,15 @@ The **ep​am/ai‑dial‑core** library is the core of the AI DIAL platform, 
 | forks | 41/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tommylin07-web/podclip-matrix
 
-[![Stars](https://img.shields.io/github/stars/tommylin07-web/podclip-matrix?style=flat-square&color=yellow)](https://github.com/tommylin07-web/podclip-matrix/stargazers) [![Forks](https://img.shields.io/github/forks/tommylin07-web/podclip-matrix?style=flat-square&color=blue)](https://github.com/tommylin07-web/podclip-matrix/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tommylin07-web/podclip-matrix?style=flat-square&color=yellow)](https://github.com/tommylin07-web/podclip-matrix/stargazers) [![Forks](https://img.shields.io/github/forks/tommylin07-web/podclip-matrix?style=flat-square&color=blue)](https://github.com/tommylin07-web/podclip-matrix/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 把长播客自动切成竖屏短视频，一键/定时分发到小红书·视频号·抖音·YouTube，带本地网页控制台。与具体 AI 助手无关。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ tommylin07-web/podclip-matrix：tommylin07-web/podclip-matrix helps automate sho
 | forks | 15/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 80/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 22/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

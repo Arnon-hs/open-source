@@ -1,6 +1,6 @@
 # raojiacui/prompt-lens
 
-[![Stars](https://img.shields.io/github/stars/raojiacui/prompt-lens?style=flat-square&color=yellow)](https://github.com/raojiacui/prompt-lens/stargazers) [![Forks](https://img.shields.io/github/forks/raojiacui/prompt-lens?style=flat-square&color=blue)](https://github.com/raojiacui/prompt-lens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raojiacui/prompt-lens?style=flat-square&color=yellow)](https://github.com/raojiacui/prompt-lens/stargazers) [![Forks](https://img.shields.io/github/forks/raojiacui/prompt-lens?style=flat-square&color=blue)](https://github.com/raojiacui/prompt-lens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 反推出AI视频的提示词，并配有音频分析功能，可提取视频中的台词文案，并且一句话就可剪辑出你要的视频
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ raojiacui/prompt-lens 的生产可用性为中等
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 45/100 |
-| quality | 48/100 |
-| recency | 40/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

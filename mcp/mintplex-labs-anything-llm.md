@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Database
+MCP · Knowledge/RAG · AI/ML · Productivity · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ Mintplex-Labs/anything-llm：Mintplex-Labs/anything-llm helps connect AI assista
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

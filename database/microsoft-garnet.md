@@ -1,6 +1,6 @@
 # microsoft/garnet
 
-[![Stars](https://img.shields.io/github/stars/microsoft/garnet?style=flat-square&color=yellow)](https://github.com/microsoft/garnet/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/garnet?style=flat-square&color=blue)](https://github.com/microsoft/garnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/garnet?style=flat-square&color=yellow)](https://github.com/microsoft/garnet/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/garnet?style=flat-square&color=blue)](https://github.com/microsoft/garnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 682 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ Garnet 的生产可用性非常高，主要原因是：
 | forks | 71/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 82/100 |
-| recency | 60/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

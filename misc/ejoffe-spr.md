@@ -1,6 +1,6 @@
 # ejoffe/spr
 
-[![Stars](https://img.shields.io/github/stars/ejoffe/spr?style=flat-square&color=yellow)](https://github.com/ejoffe/spr/stargazers) [![Forks](https://img.shields.io/github/forks/ejoffe/spr?style=flat-square&color=blue)](https://github.com/ejoffe/spr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-27%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ejoffe/spr?style=flat-square&color=yellow)](https://github.com/ejoffe/spr/stargazers) [![Forks](https://img.shields.io/github/forks/ejoffe/spr?style=flat-square&color=blue)](https://github.com/ejoffe/spr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: spr: Stacked Pull Requests on GitHub
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 27/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ spr 为 GitHub 提供了轻量级的堆叠 PR 方案，能够显著提升多步�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 24/100 |
-| quality | 17/100 |
-| recency | 20/100 |
+| outlook | 45/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 29/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

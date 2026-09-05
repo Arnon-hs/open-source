@@ -1,6 +1,6 @@
 # longxiang-ai/awesome-gaussians
 
-[![Stars](https://img.shields.io/github/stars/longxiang-ai/awesome-gaussians?style=flat-square&color=yellow)](https://github.com/longxiang-ai/awesome-gaussians/stargazers) [![Forks](https://img.shields.io/github/forks/longxiang-ai/awesome-gaussians?style=flat-square&color=blue)](https://github.com/longxiang-ai/awesome-gaussians/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/longxiang-ai/awesome-gaussians?style=flat-square&color=yellow)](https://github.com/longxiang-ai/awesome-gaussians/stargazers) [![Forks](https://img.shields.io/github/forks/longxiang-ai/awesome-gaussians?style=flat-square&color=blue)](https://github.com/longxiang-ai/awesome-gaussians/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > This repository tracks the latest advancements in 3D Gaussian Splatting from Arxiv, with daily automated updates. Stay up-to-date with cutting-edge research in this exciting field!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ longxiang-ai/awesome-gaussians 是一个追踪 3D Gaussian Splatting 最新进�
 | forks | 36/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 62/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 55/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

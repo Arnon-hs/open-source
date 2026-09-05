@@ -1,6 +1,6 @@
 # afairgiant/MediKeep
 
-[![Stars](https://img.shields.io/github/stars/afairgiant/MediKeep?style=flat-square&color=yellow)](https://github.com/afairgiant/MediKeep/stargazers) [![Forks](https://img.shields.io/github/forks/afairgiant/MediKeep?style=flat-square&color=blue)](https://github.com/afairgiant/MediKeep/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/afairgiant/MediKeep?style=flat-square&color=yellow)](https://github.com/afairgiant/MediKeep/stargazers) [![Forks](https://img.shields.io/github/forks/afairgiant/MediKeep?style=flat-square&color=blue)](https://github.com/afairgiant/MediKeep/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, self-hosted application for managing your personal medical information. Keep your health records organized and accessible while maintaining complete control over your data privacy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 507 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ MediKeep的生产可用性为中等。它适合用于内部工作流或原型，
 | forks | 40/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 54/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 55/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # clerk/javascript
 
-[![Stars](https://img.shields.io/github/stars/clerk/javascript?style=flat-square&color=yellow)](https://github.com/clerk/javascript/stargazers) [![Forks](https://img.shields.io/github/forks/clerk/javascript?style=flat-square&color=blue)](https://github.com/clerk/javascript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clerk/javascript?style=flat-square&color=yellow)](https://github.com/clerk/javascript/stargazers) [![Forks](https://img.shields.io/github/forks/clerk/javascript?style=flat-square&color=blue)](https://github.com/clerk/javascript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Official JavaScript repository for Clerk authentication
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 459 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Security
+Frontend · Backend · Security
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ The SDK scores high on readiness: recent commits (as of 2026‑06‑26), active 
 | forks | 67/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

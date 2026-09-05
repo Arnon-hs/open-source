@@ -1,6 +1,6 @@
 # AtlasCloudAI/awesome-seedance-2.5-prompts-skills
 
-[![Stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=flat-square&color=yellow)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/stargazers) [![Forks](https://img.shields.io/github/forks/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=flat-square&color=blue)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=flat-square&color=yellow)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/stargazers) [![Forks](https://img.shields.io/github/forks/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=flat-square&color=blue)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, creates storyboards, and generates videos via Seedance models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ AtlasCloudAI/awesome-seedance-2.5-prompts-skills 是一个开源项目，提供�
 | forks | 12/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 61/100 |
-| recency | 60/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

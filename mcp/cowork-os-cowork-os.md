@@ -1,6 +1,6 @@
 # CoWork-OS/CoWork-OS
 
-[![Stars](https://img.shields.io/github/stars/CoWork-OS/CoWork-OS?style=flat-square&color=yellow)](https://github.com/CoWork-OS/CoWork-OS/stargazers) [![Forks](https://img.shields.io/github/forks/CoWork-OS/CoWork-OS?style=flat-square&color=blue)](https://github.com/CoWork-OS/CoWork-OS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoWork-OS/CoWork-OS?style=flat-square&color=yellow)](https://github.com/CoWork-OS/CoWork-OS/stargazers) [![Forks](https://img.shields.io/github/forks/CoWork-OS/CoWork-OS?style=flat-square&color=blue)](https://github.com/CoWork-OS/CoWork-OS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first personal agentic OS and everything app for coding, knowledge work, web design, automations, and artifacts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Security · Design
+MCP · Automation · AI/ML · Communication · Productivity
 
 ## 📝 Summary
 
@@ -105,11 +105,11 @@ CoWork‑OS 是一个本地优先的个人化操作系统与“一站式”工�
 | forks | 42/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 80/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 51/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

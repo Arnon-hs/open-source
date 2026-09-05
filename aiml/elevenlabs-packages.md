@@ -1,6 +1,6 @@
 # elevenlabs/packages
 
-[![Stars](https://img.shields.io/github/stars/elevenlabs/packages?style=flat-square&color=yellow)](https://github.com/elevenlabs/packages/stargazers) [![Forks](https://img.shields.io/github/forks/elevenlabs/packages?style=flat-square&color=blue)](https://github.com/elevenlabs/packages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elevenlabs/packages?style=flat-square&color=yellow)](https://github.com/elevenlabs/packages/stargazers) [![Forks](https://img.shields.io/github/forks/elevenlabs/packages?style=flat-square&color=blue)](https://github.com/elevenlabs/packages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The ElevenLabs Agents SDK for TypeScript.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML · Frontend · Libraries & SDKs · Mobile
 
 ## 📝 Summary
 
@@ -102,15 +102,15 @@ ElevenLabs Agents SDK（`elevenlabs/packages`）是面向 TypeScript 的 AI �
 | forks | 48/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

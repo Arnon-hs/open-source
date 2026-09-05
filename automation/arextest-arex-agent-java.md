@@ -1,6 +1,6 @@
 # arextest/arex-agent-java
 
-[![Stars](https://img.shields.io/github/stars/arextest/arex-agent-java?style=flat-square&color=yellow)](https://github.com/arextest/arex-agent-java/stargazers) [![Forks](https://img.shields.io/github/forks/arextest/arex-agent-java?style=flat-square&color=blue)](https://github.com/arextest/arex-agent-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arextest/arex-agent-java?style=flat-square&color=yellow)](https://github.com/arextest/arex-agent-java/stargazers) [![Forks](https://img.shields.io/github/forks/arextest/arex-agent-java?style=flat-square&color=blue)](https://github.com/arextest/arex-agent-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Java agent for traffic capture and replay, enhancing testing and debugging.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools
+Automation · Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ arextest/arex-agent-java 在生产环境中的可用性非常高，因为它有�
 | forks | 53/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

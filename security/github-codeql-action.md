@@ -1,6 +1,6 @@
 # github/codeql-action
 
-[![Stars](https://img.shields.io/github/stars/github/codeql-action?style=flat-square&color=yellow)](https://github.com/github/codeql-action/stargazers) [![Forks](https://img.shields.io/github/forks/github/codeql-action?style=flat-square&color=blue)](https://github.com/github/codeql-action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/codeql-action?style=flat-square&color=yellow)](https://github.com/github/codeql-action/stargazers) [![Forks](https://img.shields.io/github/forks/github/codeql-action?style=flat-square&color=blue)](https://github.com/github/codeql-action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Actions for running CodeQL analysis
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 475 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ github/codeql-action 的生产可用性较高。它有强大的社区支持，Gi
 | forks | 67/100 |
 | stars | 68/100 |
 | topics | 75/100 |
-| outlook | 64/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 64/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

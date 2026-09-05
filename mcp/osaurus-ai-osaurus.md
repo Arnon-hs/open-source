@@ -1,6 +1,6 @@
 # osaurus-ai/osaurus
 
-[![Stars](https://img.shields.io/github/stars/osaurus-ai/osaurus?style=flat-square&color=yellow)](https://github.com/osaurus-ai/osaurus/stargazers) [![Forks](https://img.shields.io/github/forks/osaurus-ai/osaurus?style=flat-square&color=blue)](https://github.com/osaurus-ai/osaurus/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/osaurus-ai/osaurus?style=flat-square&color=yellow)](https://github.com/osaurus-ai/osaurus/stargazers) [![Forks](https://img.shields.io/github/forks/osaurus-ai/osaurus?style=flat-square&color=blue)](https://github.com/osaurus-ai/osaurus/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 341 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ osaurus‑ai/osaurus 是一款基于 Swift 的原生 macOS 框架，提供离线
 | forks | 63/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 74/100 |
-| recency | 40/100 |
+| outlook | 82/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

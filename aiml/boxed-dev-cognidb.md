@@ -1,6 +1,6 @@
 # boxed-dev/cognidb
 
-[![Stars](https://img.shields.io/github/stars/boxed-dev/cognidb?style=flat-square&color=yellow)](https://github.com/boxed-dev/cognidb/stargazers) [![Forks](https://img.shields.io/github/forks/boxed-dev/cognidb?style=flat-square&color=blue)](https://github.com/boxed-dev/cognidb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boxed-dev/cognidb?style=flat-square&color=yellow)](https://github.com/boxed-dev/cognidb/stargazers) [![Forks](https://img.shields.io/github/forks/boxed-dev/cognidb?style=flat-square&color=blue)](https://github.com/boxed-dev/cognidb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CogniDB is a Python-powered Natural Language to SQL interface that enables users to query databases like MySQL, PostgreSQL, MongoDB, and AWS RDS using plain English. It parses questions, understands schema, generates safe SQL, and returns results, empowering non-technical users to gain database insights without writing SQL.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Security
+AI/ML · Cloud & Storage · Database · Security
 
 ## 📝 Summary
 
@@ -110,15 +110,15 @@ CogniDB（boxed‑dev/cognidb）是一个基于 Python 的「自然语言 → SQ
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 54/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

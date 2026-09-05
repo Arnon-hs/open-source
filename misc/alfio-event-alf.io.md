@@ -1,6 +1,6 @@
 # alfio-event/alf.io
 
-[![Stars](https://img.shields.io/github/stars/alfio-event/alf.io?style=flat-square&color=yellow)](https://github.com/alfio-event/alf.io/stargazers) [![Forks](https://img.shields.io/github/forks/alfio-event/alf.io?style=flat-square&color=blue)](https://github.com/alfio-event/alf.io/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alfio-event/alf.io?style=flat-square&color=yellow)](https://github.com/alfio-event/alf.io/stargazers) [![Forks](https://img.shields.io/github/forks/alfio-event/alf.io?style=flat-square&color=blue)](https://github.com/alfio-event/alf.io/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,11 +89,11 @@ alf.io 的生产可用性为高。它具有最近的活动、广泛的采用和�
 | forks | 65/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 75/100 |
-| recency | 60/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

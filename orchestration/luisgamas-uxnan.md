@@ -1,6 +1,6 @@
 # luisgamas/uxnan
 
-[![Stars](https://img.shields.io/github/stars/luisgamas/uxnan?style=flat-square&color=yellow)](https://github.com/luisgamas/uxnan/stargazers) [![Forks](https://img.shields.io/github/forks/luisgamas/uxnan?style=flat-square&color=blue)](https://github.com/luisgamas/uxnan/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luisgamas/uxnan?style=flat-square&color=yellow)](https://github.com/luisgamas/uxnan/stargazers) [![Forks](https://img.shields.io/github/forks/luisgamas/uxnan?style=flat-square&color=blue)](https://github.com/luisgamas/uxnan/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Uxnan (pronounced /uʃ.nan/) is a suite of tools I built to solve a very specific problem I face as a developer: managing AI-powered coding agents from anywhere, without my hardware becoming a bottleneck.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ Uxnan 的生产可用性为中等（Medium）。它适合于 Prototypes 或内�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 49/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

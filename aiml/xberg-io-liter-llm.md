@@ -1,6 +1,6 @@
 # xberg-io/liter-llm
 
-[![Stars](https://img.shields.io/github/stars/xberg-io/liter-llm?style=flat-square&color=yellow)](https://github.com/xberg-io/liter-llm/stargazers) [![Forks](https://img.shields.io/github/forks/xberg-io/liter-llm?style=flat-square&color=blue)](https://github.com/xberg-io/liter-llm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xberg-io/liter-llm?style=flat-square&color=yellow)](https://github.com/xberg-io/liter-llm/stargazers) [![Forks](https://img.shields.io/github/forks/xberg-io/liter-llm?style=flat-square&color=blue)](https://github.com/xberg-io/liter-llm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Universal LLM API client — 142+ providers, 11 native language bindings, powered by Rust core
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Backend · Libraries & SDKs
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ xberg-io/liter-llm 是一个基于 Rust 核心实现的通用 LLM API 客户端�
 | forks | 30/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 62/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # moosefs/moosefs
 
-[![Stars](https://img.shields.io/github/stars/moosefs/moosefs?style=flat-square&color=yellow)](https://github.com/moosefs/moosefs/stargazers) [![Forks](https://img.shields.io/github/forks/moosefs/moosefs?style=flat-square&color=blue)](https://github.com/moosefs/moosefs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moosefs/moosefs?style=flat-square&color=yellow)](https://github.com/moosefs/moosefs/stargazers) [![Forks](https://img.shields.io/github/forks/moosefs/moosefs?style=flat-square&color=blue)](https://github.com/moosefs/moosefs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,11 +118,11 @@ MooseFS 是一款开源的分布式文件系统，具备 PB 级容量、容错�
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 55/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 50/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

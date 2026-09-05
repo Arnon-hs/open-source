@@ -1,6 +1,6 @@
 # SharezoneApp/sharezone-app
 
-[![Stars](https://img.shields.io/github/stars/SharezoneApp/sharezone-app?style=flat-square&color=yellow)](https://github.com/SharezoneApp/sharezone-app/stargazers) [![Forks](https://img.shields.io/github/forks/SharezoneApp/sharezone-app?style=flat-square&color=blue)](https://github.com/SharezoneApp/sharezone-app/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SharezoneApp/sharezone-app?style=flat-square&color=yellow)](https://github.com/SharezoneApp/sharezone-app/stargazers) [![Forks](https://img.shields.io/github/forks/SharezoneApp/sharezone-app?style=flat-square&color=blue)](https://github.com/SharezoneApp/sharezone-app/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Sharezone is a collaborative school organization app for iOS, Android, macOS and web with +500,000 downloads. Built with Flutter & Firebase.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ SharezoneApp/sharezone-app 的生产可用性为中等。它适合用于原型�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 58/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 58/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

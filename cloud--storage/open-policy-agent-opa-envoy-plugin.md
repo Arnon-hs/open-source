@@ -1,0 +1,81 @@
+# open-policy-agent/opa-envoy-plugin
+
+[![Stars](https://img.shields.io/github/stars/open-policy-agent/opa-envoy-plugin?style=flat-square&color=yellow)](https://github.com/open-policy-agent/opa-envoy-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/open-policy-agent/opa-envoy-plugin?style=flat-square&color=blue)](https://github.com/open-policy-agent/opa-envoy-plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> A plugin to enforce OPA policies with Envoy
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 356 |
+| 🍴 **Forks** | 125 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`authorization` `cloud-native` `compliance` `envoy` `istio-proxy` `opa` `opa-envoy` `policy`
+
+## 🎯 Categories
+
+Cloud & Storage · Networking · Security
+
+## 📝 Summary
+
+### English
+
+The **OPA Envoy Plugin** is an open‑source extension that integrates the Open Policy Agent (OPA) with Envoy proxy, allowing real‑time enforcement of fine‑grained security and compliance policies on inbound and outbound traffic. By offloading policy evaluation to OPA, the plugin enables dynamic, context‑aware decisions for authentication, authorization, and other security controls without modifying application code. It is particularly useful for cloud‑native environments where consistent, programmable policy enforcement across microservices is required.
+
+### Русский
+
+Open‑policy‑agent/opa‑envoy‑plugin — это открытый плагин, позволяющий интегрировать движок OPA (Open Policy Agent) непосредственно в прокси‑сервер Envoy и выполнять проверку запросов в режиме реального времени согласно заданным политикам. Плагин обеспечивает гибкую и масштабируемую систему контроля доступа, что повышает уровень безопасности микросервисных архитектур и сервис‑мэшей. Он относится к категориям AI/ML (за счёт декларативного описания политик) и Security.
+
+### 中文
+
+open-policy-agent/opa-envoy-plugin：open-policy-agent/opa-envoy-plugin may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** open-policy-agent/opa-envoy-plugin may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 356 GitHub stars
+- 125 forks
+- updated 2026-05-08
+- primary language: Go
+- 8 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 53/100 |
+| stars | 54/100 |
+| topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/open-policy-agent/opa-envoy-plugin) · [← Back to Cloud--storage](./README.md)</sub>

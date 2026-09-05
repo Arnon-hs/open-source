@@ -1,6 +1,6 @@
 # westandskif/rate-mirrors
 
-[![Stars](https://img.shields.io/github/stars/westandskif/rate-mirrors?style=flat-square&color=yellow)](https://github.com/westandskif/rate-mirrors/stargazers) [![Forks](https://img.shields.io/github/forks/westandskif/rate-mirrors?style=flat-square&color=blue)](https://github.com/westandskif/rate-mirrors/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/westandskif/rate-mirrors?style=flat-square&color=yellow)](https://github.com/westandskif/rate-mirrors/stargazers) [![Forks](https://img.shields.io/github/forks/westandskif/rate-mirrors?style=flat-square&color=blue)](https://github.com/westandskif/rate-mirrors/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 629 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Westandskif/rate-mirrors 是一个开源项目，帮助开发者优化日常开�
 | forks | 39/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 60/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

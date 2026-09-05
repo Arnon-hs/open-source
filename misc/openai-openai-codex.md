@@ -1,6 +1,6 @@
 # openai/openai-codex
 
-[![Stars](https://img.shields.io/github/stars/openai/openai-codex?style=flat-square&color=yellow)](https://github.com/openai/openai-codex/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-codex?style=flat-square&color=blue)](https://github.com/openai/openai-codex/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/openai-codex?style=flat-square&color=yellow)](https://github.com/openai/openai-codex/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-codex?style=flat-square&color=blue)](https://github.com/openai/openai-codex/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 33/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -62,11 +62,11 @@ openai/openai-codex：。适合用于Misc。
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 0/100 |
-| outlook | 22/100 |
-| quality | 16/100 |
-| recency | 20/100 |
+| outlook | 43/100 |
+| quality | 31/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 27/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 70/100 |

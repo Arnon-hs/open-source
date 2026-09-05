@@ -1,6 +1,6 @@
 # shetabit/multipay
 
-[![Stars](https://img.shields.io/github/stars/shetabit/multipay?style=flat-square&color=yellow)](https://github.com/shetabit/multipay/stargazers) [![Forks](https://img.shields.io/github/forks/shetabit/multipay?style=flat-square&color=blue)](https://github.com/shetabit/multipay/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shetabit/multipay?style=flat-square&color=yellow)](https://github.com/shetabit/multipay/stargazers) [![Forks](https://img.shields.io/github/forks/shetabit/multipay?style=flat-square&color=blue)](https://github.com/shetabit/multipay/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > simple PHP payment package , supports multiple drivers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ Shetabit/multipay的生产可用性为中等（Medium）。它适用于原型开
 | forks | 54/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 59/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

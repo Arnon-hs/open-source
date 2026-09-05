@@ -1,6 +1,6 @@
 # SamurAIGPT/Generative-Media-Skills
 
-[![Stars](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/Generative-Media-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/Generative-Media-Skills?style=flat-square&color=blue)](https://github.com/SamurAIGPT/Generative-Media-Skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/Generative-Media-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/Generative-Media-Skills?style=flat-square&color=blue)](https://github.com/SamurAIGPT/Generative-Media-Skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 356 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ SamurAIGPT/Generative-Media-Skills 为 AI 代理（如 Claude Code、Cursor、Ge
 | forks | 64/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 67/100 |
-| recency | 20/100 |
+| outlook | 86/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 57/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

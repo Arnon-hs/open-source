@@ -1,6 +1,6 @@
 # mostlygeek/llama-swap
 
-[![Stars](https://img.shields.io/github/stars/mostlygeek/llama-swap?style=flat-square&color=yellow)](https://github.com/mostlygeek/llama-swap/stargazers) [![Forks](https://img.shields.io/github/forks/mostlygeek/llama-swap?style=flat-square&color=blue)](https://github.com/mostlygeek/llama-swap/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mostlygeek/llama-swap?style=flat-square&color=yellow)](https://github.com/mostlygeek/llama-swap/stargazers) [![Forks](https://img.shields.io/github/forks/mostlygeek/llama-swap?style=flat-square&color=blue)](https://github.com/mostlygeek/llama-swap/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 399 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ mostlygeek/llama-swap 是一个开源项目，用于可靠地在本地 OpenAI/An
 | forks | 65/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Pi4J/pi4j
 
-[![Stars](https://img.shields.io/github/stars/Pi4J/pi4j?style=flat-square&color=yellow)](https://github.com/Pi4J/pi4j/stargazers) [![Forks](https://img.shields.io/github/forks/Pi4J/pi4j?style=flat-square&color=blue)](https://github.com/Pi4J/pi4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pi4J/pi4j?style=flat-square&color=yellow)](https://github.com/Pi4J/pi4j/stargazers) [![Forks](https://img.shields.io/github/forks/Pi4J/pi4j?style=flat-square&color=blue)](https://github.com/Pi4J/pi4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Pi4J, the Java library to control the GPIOs of the Raspberry Pi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,11 +121,11 @@ Pi4J 是一套基于 Java 的开源库，专门用于在 Raspberry Pi 上操�
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 52/100 |
-| quality | 58/100 |
-| recency | 40/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

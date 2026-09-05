@@ -1,6 +1,6 @@
 # omarchy/omarchy
 
-[![Stars](https://img.shields.io/github/stars/omarchy/omarchy?style=flat-square&color=yellow)](https://github.com/omarchy/omarchy/stargazers) [![Forks](https://img.shields.io/github/forks/omarchy/omarchy?style=flat-square&color=blue)](https://github.com/omarchy/omarchy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omarchy/omarchy?style=flat-square&color=yellow)](https://github.com/omarchy/omarchy/stargazers) [![Forks](https://img.shields.io/github/forks/omarchy/omarchy?style=flat-square&color=blue)](https://github.com/omarchy/omarchy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Config files for my GitHub profile.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -31,7 +31,7 @@ omarchy/omarchy: . Use it for Misc.
 
 ### Русский
 
-omarchy/omarchy: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+omarchy/omarchy: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,11 +62,11 @@ omarchy/omarchy：。适合用于Misc。
 | forks | 8/100 |
 | stars | 13/100 |
 | topics | 25/100 |
-| outlook | 28/100 |
-| quality | 24/100 |
-| recency | 20/100 |
+| outlook | 56/100 |
+| quality | 44/100 |
+| recency | 100/100 |
 | adoption | 11/100 |
-| production | 32/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

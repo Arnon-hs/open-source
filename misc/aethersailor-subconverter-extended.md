@@ -1,6 +1,6 @@
 # Aethersailor/SubConverter-Extended
 
-[![Stars](https://img.shields.io/github/stars/Aethersailor/SubConverter-Extended?style=flat-square&color=yellow)](https://github.com/Aethersailor/SubConverter-Extended/stargazers) [![Forks](https://img.shields.io/github/forks/Aethersailor/SubConverter-Extended?style=flat-square&color=blue)](https://github.com/Aethersailor/SubConverter-Extended/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aethersailor/SubConverter-Extended?style=flat-square&color=yellow)](https://github.com/Aethersailor/SubConverter-Extended/stargazers) [![Forks](https://img.shields.io/github/forks/Aethersailor/SubConverter-Extended?style=flat-square&color=blue)](https://github.com/Aethersailor/SubConverter-Extended/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 subconverter 二次开发的 Mihomo 专用订阅转换后端增强版。无需由后端拉取远程订阅内容即可完成转换，有效规避订阅源访问受限或屏蔽问题；深度集成 Mihomo 原生解析能力，持续同步上游协议与参数支持，可准确解析各类节点链接，并兼容原版 subconverter 模板。同时提供可视化仪表盘及多项实用扩展功能。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 865 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Aethersailor/SubConverter-Extended 帮助开发者在不从零开始的模型堆
 | forks | 50/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 64/100 |
-| quality | 72/100 |
-| recency | 60/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 62/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

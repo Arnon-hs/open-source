@@ -1,6 +1,6 @@
 # littlehorse-enterprises/littlehorse
 
-[![Stars](https://img.shields.io/github/stars/littlehorse-enterprises/littlehorse?style=flat-square&color=yellow)](https://github.com/littlehorse-enterprises/littlehorse/stargazers) [![Forks](https://img.shields.io/github/forks/littlehorse-enterprises/littlehorse?style=flat-square&color=blue)](https://github.com/littlehorse-enterprises/littlehorse/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/littlehorse-enterprises/littlehorse?style=flat-square&color=yellow)](https://github.com/littlehorse-enterprises/littlehorse/stargazers) [![Forks](https://img.shields.io/github/forks/littlehorse-enterprises/littlehorse?style=flat-square&color=blue)](https://github.com/littlehorse-enterprises/littlehorse/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > LittleHorse Server: Workflow Engine for Microservice Orchestration & Business-as-Code, and the core of the Saddle Command Center
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,11 +112,11 @@ LittleHorse 的 GitHub 星标数为 385，分支数
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 57/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

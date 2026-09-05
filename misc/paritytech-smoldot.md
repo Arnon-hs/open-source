@@ -1,6 +1,6 @@
 # paritytech/smoldot
 
-[![Stars](https://img.shields.io/github/stars/paritytech/smoldot?style=flat-square&color=yellow)](https://github.com/paritytech/smoldot/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/smoldot?style=flat-square&color=blue)](https://github.com/paritytech/smoldot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paritytech/smoldot?style=flat-square&color=yellow)](https://github.com/paritytech/smoldot/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/smoldot?style=flat-square&color=blue)](https://github.com/paritytech/smoldot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Alternative client for Substrate-based chains.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ paritytech/smoldot 的生产可用性为中等（Medium）。它适合用于 pro
 | forks | 48/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 54/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

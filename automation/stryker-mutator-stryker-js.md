@@ -1,6 +1,6 @@
 # stryker-mutator/stryker-js
 
-[![Stars](https://img.shields.io/github/stars/stryker-mutator/stryker-js?style=flat-square&color=yellow)](https://github.com/stryker-mutator/stryker-js/stargazers) [![Forks](https://img.shields.io/github/forks/stryker-mutator/stryker-js?style=flat-square&color=blue)](https://github.com/stryker-mutator/stryker-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stryker-mutator/stryker-js?style=flat-square&color=yellow)](https://github.com/stryker-mutator/stryker-js/stargazers) [![Forks](https://img.shields.io/github/forks/stryker-mutator/stryker-js?style=flat-square&color=blue)](https://github.com/stryker-mutator/stryker-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Mutation testing for JavaScript and friends
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ Stryker-JS 在生产环境中具有较高的可用性，因为它有：
 | forks | 61/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 72/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 59/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

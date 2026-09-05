@@ -1,6 +1,6 @@
 # feder-cr/resume_render_from_job_description
 
-[![Stars](https://img.shields.io/github/stars/feder-cr/resume_render_from_job_description?style=flat-square&color=yellow)](https://github.com/feder-cr/resume_render_from_job_description/stargazers) [![Forks](https://img.shields.io/github/forks/feder-cr/resume_render_from_job_description?style=flat-square&color=blue)](https://github.com/feder-cr/resume_render_from_job_description/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feder-cr/resume_render_from_job_description?style=flat-square&color=yellow)](https://github.com/feder-cr/resume_render_from_job_description/stargazers) [![Forks](https://img.shields.io/github/forks/feder-cr/resume_render_from_job_description?style=flat-square&color=blue)](https://github.com/feder-cr/resume_render_from_job_description/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Resume_Builder_AIHawk is a powerful Python tool that allows you to automatically customize your resume based on a job URL, ensuring it perfectly aligns with the job requirements and skills. With an interactive command-line interface, this tool makes it easy to navigate through options and select from various pre-defined styles
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,11 +76,11 @@ Let's craft: "feder-cr/resume_render_from_job_description（Resume_Builder_AIHaw
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 60/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

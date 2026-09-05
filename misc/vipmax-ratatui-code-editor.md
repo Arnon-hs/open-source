@@ -1,6 +1,6 @@
 # vipmax/ratatui-code-editor
 
-[![Stars](https://img.shields.io/github/stars/vipmax/ratatui-code-editor?style=flat-square&color=yellow)](https://github.com/vipmax/ratatui-code-editor/stargazers) [![Forks](https://img.shields.io/github/forks/vipmax/ratatui-code-editor?style=flat-square&color=blue)](https://github.com/vipmax/ratatui-code-editor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vipmax/ratatui-code-editor?style=flat-square&color=yellow)](https://github.com/vipmax/ratatui-code-editor/stargazers) [![Forks](https://img.shields.io/github/forks/vipmax/ratatui-code-editor?style=flat-square&color=blue)](https://github.com/vipmax/ratatui-code-editor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A code editor widget for Ratatui
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,11 +128,11 @@ The project is at a **medium** readiness level: it’s actively maintained (last
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 48/100 |
-| quality | 52/100 |
-| recency | 40/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 50/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

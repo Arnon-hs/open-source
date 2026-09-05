@@ -1,6 +1,6 @@
 # BinaryHB0916/iSparto
 
-[![Stars](https://img.shields.io/github/stars/BinaryHB0916/iSparto?style=flat-square&color=yellow)](https://github.com/BinaryHB0916/iSparto/stargazers) [![Forks](https://img.shields.io/github/forks/BinaryHB0916/iSparto?style=flat-square&color=blue)](https://github.com/BinaryHB0916/iSparto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BinaryHB0916/iSparto?style=flat-square&color=yellow)](https://github.com/BinaryHB0916/iSparto/stargazers) [![Forks](https://img.shields.io/github/forks/BinaryHB0916/iSparto?style=flat-square&color=blue)](https://github.com/BinaryHB0916/iSparto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Agent Team framework for Claude Code, built for solopreneurs. One command spins up the whole agent team — all working in perfect sync.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · DevTools
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,15 +107,15 @@ BinaryHB0916/iSparto 是面向独立创业者的开源 Agent Team 框架，专�
 | forks | 25/100 |
 | stars | 37/100 |
 | topics | 88/100 |
-| outlook | 54/100 |
-| quality | 48/100 |
-| recency | 20/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 46/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

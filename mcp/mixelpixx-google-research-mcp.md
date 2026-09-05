@@ -1,6 +1,6 @@
 # mixelpixx/Google-Research-MCP
 
-[![Stars](https://img.shields.io/github/stars/mixelpixx/Google-Research-MCP?style=flat-square&color=yellow)](https://github.com/mixelpixx/Google-Research-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/mixelpixx/Google-Research-MCP?style=flat-square&color=blue)](https://github.com/mixelpixx/Google-Research-MCP/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mixelpixx/Google-Research-MCP?style=flat-square&color=yellow)](https://github.com/mixelpixx/Google-Research-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/mixelpixx/Google-Research-MCP?style=flat-square&color=blue)](https://github.com/mixelpixx/Google-Research-MCP/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server built for use with Claude Code, Claude Desktop, VS Code, Cline  - enable google search and ability to follow links and research websites
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 246 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,11 +87,11 @@ mixelpixx/Google-Research-MCP 通过实现 Model Context Protocol（MCP）服务
 | forks | 44/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 47/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

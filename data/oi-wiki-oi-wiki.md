@@ -1,6 +1,6 @@
 # OI-wiki/OI-wiki
 
-[![Stars](https://img.shields.io/github/stars/OI-wiki/OI-wiki?style=flat-square&color=yellow)](https://github.com/OI-wiki/OI-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/OI-wiki/OI-wiki?style=flat-square&color=blue)](https://github.com/OI-wiki/OI-wiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OI-wiki/OI-wiki?style=flat-square&color=yellow)](https://github.com/OI-wiki/OI-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/OI-wiki/OI-wiki?style=flat-square&color=blue)](https://github.com/OI-wiki/OI-wiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.3k |
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,11 +115,11 @@ OI-wiki/OI-wiki 是一个开源项目，提供了OI和ICPC的wiki内容，内含
 | forks | 92/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 66/100 |
-| quality | 82/100 |
-| recency | 40/100 |
+| outlook | 80/100 |
+| quality | 92/100 |
+| recency | 80/100 |
 | adoption | 93/100 |
-| production | 65/100 |
+| production | 78/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

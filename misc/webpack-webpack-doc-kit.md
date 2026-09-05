@@ -1,6 +1,6 @@
 # webpack/webpack-doc-kit
 
-[![Stars](https://img.shields.io/github/stars/webpack/webpack-doc-kit?style=flat-square&color=yellow)](https://github.com/webpack/webpack-doc-kit/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-doc-kit?style=flat-square&color=blue)](https://github.com/webpack/webpack-doc-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webpack/webpack-doc-kit?style=flat-square&color=yellow)](https://github.com/webpack/webpack-doc-kit/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-doc-kit?style=flat-square&color=blue)](https://github.com/webpack/webpack-doc-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-webpack/webpack-doc-kit: . Use it for Misc. 
+webpack/webpack-doc-kit: webpack/webpack-doc-kit may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
@@ -35,25 +35,28 @@ webpack/webpack-doc-kit: open-source проект в категориях Misc. 
 
 ### 中文
 
-webpack/webpack-doc-kit：。适合用于Misc。
+webpack/webpack-doc-kit：webpack/webpack-doc-kit may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** webpack/webpack-doc-kit may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 17 GitHub stars
+- 83 forks
+- updated 2026-08-21
+- primary language: JavaScript
 
-**Risks:** No metadata risk notes yet.
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
 ## 🧮 Score breakdown
 
@@ -62,11 +65,11 @@ webpack/webpack-doc-kit：。适合用于Misc。
 | forks | 48/100 |
 | stars | 27/100 |
 | topics | 0/100 |
-| outlook | 52/100 |
-| quality | 45/100 |
-| recency | 80/100 |
+| outlook | 45/100 |
+| quality | 40/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 52/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 70/100 |

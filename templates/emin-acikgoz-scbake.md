@@ -1,6 +1,6 @@
 # Emin-ACIKGOZ/scbake
 
-[![Stars](https://img.shields.io/github/stars/Emin-ACIKGOZ/scbake?style=flat-square&color=yellow)](https://github.com/Emin-ACIKGOZ/scbake/stargazers) [![Forks](https://img.shields.io/github/forks/Emin-ACIKGOZ/scbake?style=flat-square&color=blue)](https://github.com/Emin-ACIKGOZ/scbake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Emin-ACIKGOZ/scbake?style=flat-square&color=yellow)](https://github.com/Emin-ACIKGOZ/scbake/stargazers) [![Forks](https://img.shields.io/github/forks/Emin-ACIKGOZ/scbake?style=flat-square&color=blue)](https://github.com/Emin-ACIKGOZ/scbake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Scaffold Bake is a single-binary CLI that atomically scaffolds and maintains projects using composable language packs and infrastructure templates from a single source of truth.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Automation · DevTools
+Templates · Automation · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -67,15 +67,15 @@ Emin-ACIKGOZ/scbake：Emin-ACIKGOZ/scbake helps teams reuse working workflows an
 | forks | 0/100 |
 | stars | 17/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 51/100 |
-| recency | 80/100 |
+| outlook | 61/100 |
+| quality | 46/100 |
+| recency | 60/100 |
 | adoption | 12/100 |
-| production | 63/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

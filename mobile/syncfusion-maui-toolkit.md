@@ -1,6 +1,6 @@
 # syncfusion/maui-toolkit
 
-[![Stars](https://img.shields.io/github/stars/syncfusion/maui-toolkit?style=flat-square&color=yellow)](https://github.com/syncfusion/maui-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/syncfusion/maui-toolkit?style=flat-square&color=blue)](https://github.com/syncfusion/maui-toolkit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syncfusion/maui-toolkit?style=flat-square&color=yellow)](https://github.com/syncfusion/maui-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/syncfusion/maui-toolkit?style=flat-square&color=blue)](https://github.com/syncfusion/maui-toolkit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Syncfusion Toolkit for .NET MAUI offers high-quality UI controls to help you build rich, high-performance applications for iOS, Android, macOS, and Windows from a single codebase
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 726 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ Syncfusion/MAUI-Toolkit 的生产可用性为中等。它
 | forks | 52/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

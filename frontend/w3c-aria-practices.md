@@ -1,6 +1,6 @@
 # w3c/aria-practices
 
-[![Stars](https://img.shields.io/github/stars/w3c/aria-practices?style=flat-square&color=yellow)](https://github.com/w3c/aria-practices/stargazers) [![Forks](https://img.shields.io/github/forks/w3c/aria-practices?style=flat-square&color=blue)](https://github.com/w3c/aria-practices/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/w3c/aria-practices?style=flat-square&color=yellow)](https://github.com/w3c/aria-practices/stargazers) [![Forks](https://img.shields.io/github/forks/w3c/aria-practices?style=flat-square&color=blue)](https://github.com/w3c/aria-practices/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > WAI-ARIA Authoring Practices Guide (APG)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 479 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ w3c/aria-practices 是 WAI‑ARIA 作者实践指南（APG），提供一套完�
 | forks | 67/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 53/100 |
-| quality | 61/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

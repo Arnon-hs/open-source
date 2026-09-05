@@ -1,6 +1,6 @@
 # zricethezav/gitleaks
 
-[![Stars](https://img.shields.io/github/stars/zricethezav/gitleaks?style=flat-square&color=yellow)](https://github.com/zricethezav/gitleaks/stargazers) [![Forks](https://img.shields.io/github/forks/zricethezav/gitleaks?style=flat-square&color=blue)](https://github.com/zricethezav/gitleaks/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zricethezav/gitleaks?style=flat-square&color=yellow)](https://github.com/zricethezav/gitleaks/stargazers) [![Forks](https://img.shields.io/github/forks/zricethezav/gitleaks?style=flat-square&color=blue)](https://github.com/zricethezav/gitleaks/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Find secrets with Gitleaks 🔑
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-26 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -68,11 +68,11 @@ zricethezav/gitleaks：zricethezav/gitleaks helps add AI capability without star
 | forks | 84/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 92/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |

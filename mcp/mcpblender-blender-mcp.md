@@ -1,6 +1,6 @@
 # MCPBlender/blender-mcp
 
-[![Stars](https://img.shields.io/github/stars/MCPBlender/blender-mcp?style=flat-square&color=yellow)](https://github.com/MCPBlender/blender-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MCPBlender/blender-mcp?style=flat-square&color=blue)](https://github.com/MCPBlender/blender-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MCPBlender/blender-mcp?style=flat-square&color=yellow)](https://github.com/MCPBlender/blender-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MCPBlender/blender-mcp?style=flat-square&color=blue)](https://github.com/MCPBlender/blender-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.6k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,11 +94,11 @@ MCPBlender/blender-mcp 是一个开源项目，通过 Model Context Protocol (MC
 | forks | 85/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 86/100 |
-| recency | 60/100 |
+| outlook | 82/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 71/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

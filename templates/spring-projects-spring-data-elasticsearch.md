@@ -1,6 +1,6 @@
 # spring-projects/spring-data-elasticsearch
 
-[![Stars](https://img.shields.io/github/stars/spring-projects/spring-data-elasticsearch?style=flat-square&color=yellow)](https://github.com/spring-projects/spring-data-elasticsearch/stargazers) [![Forks](https://img.shields.io/github/forks/spring-projects/spring-data-elasticsearch?style=flat-square&color=blue)](https://github.com/spring-projects/spring-data-elasticsearch/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-projects/spring-data-elasticsearch?style=flat-square&color=yellow)](https://github.com/spring-projects/spring-data-elasticsearch/stargazers) [![Forks](https://img.shields.io/github/forks/spring-projects/spring-data-elasticsearch?style=flat-square&color=blue)](https://github.com/spring-projects/spring-data-elasticsearch/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Provide support to increase developer productivity in Java when using Elasticsearch. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Templates
+Templates · Productivity
 
 ## 📝 Summary
 
@@ -104,15 +104,15 @@ Spring Data Elasticsearch 具有较高的生产可用性，主要原因包括：
 | forks | 78/100 |
 | stars | 74/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 72/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 63/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

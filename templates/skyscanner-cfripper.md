@@ -1,6 +1,6 @@
 # Skyscanner/cfripper
 
-[![Stars](https://img.shields.io/github/stars/Skyscanner/cfripper?style=flat-square&color=yellow)](https://github.com/Skyscanner/cfripper/stargazers) [![Forks](https://img.shields.io/github/forks/Skyscanner/cfripper?style=flat-square&color=blue)](https://github.com/Skyscanner/cfripper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Skyscanner/cfripper?style=flat-square&color=yellow)](https://github.com/Skyscanner/cfripper/stargazers) [![Forks](https://img.shields.io/github/forks/Skyscanner/cfripper?style=flat-square&color=blue)](https://github.com/Skyscanner/cfripper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Library and CLI tool for analysing CloudFormation templates and check them for security compliance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 416 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Templates · Security
+Templates · Cloud & Storage · DevTools · Security
 
 ## 📝 Summary
 
@@ -106,15 +106,15 @@ Skyscanner/cfripper 是一个基于 Python 的库和命令行工具，用于解�
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 65/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 79/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 63/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

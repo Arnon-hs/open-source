@@ -1,6 +1,6 @@
 # oracle/opengrok
 
-[![Stars](https://img.shields.io/github/stars/oracle/opengrok?style=flat-square&color=yellow)](https://github.com/oracle/opengrok/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/opengrok?style=flat-square&color=blue)](https://github.com/oracle/opengrok/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oracle/opengrok?style=flat-square&color=yellow)](https://github.com/oracle/opengrok/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/opengrok?style=flat-square&color=blue)](https://github.com/oracle/opengrok/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 834 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ oracle/opengrok：oracle/opengrok may be useful when its README and activity mat
 | forks | 73/100 |
 | stars | 79/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

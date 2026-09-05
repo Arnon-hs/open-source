@@ -1,6 +1,6 @@
 # oruga-ui/oruga
 
-[![Stars](https://img.shields.io/github/stars/oruga-ui/oruga?style=flat-square&color=yellow)](https://github.com/oruga-ui/oruga/stargazers) [![Forks](https://img.shields.io/github/forks/oruga-ui/oruga?style=flat-square&color=blue)](https://github.com/oruga-ui/oruga/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oruga-ui/oruga?style=flat-square&color=yellow)](https://github.com/oruga-ui/oruga/stargazers) [![Forks](https://img.shields.io/github/forks/oruga-ui/oruga?style=flat-square&color=blue)](https://github.com/oruga-ui/oruga/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ Oruga UI 组件库的生产可用性较高，主要原因是：
 | forks | 56/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 61/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

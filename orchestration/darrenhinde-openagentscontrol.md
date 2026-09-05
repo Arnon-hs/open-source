@@ -1,6 +1,6 @@
 # darrenhinde/OpenAgentsControl
 
-[![Stars](https://img.shields.io/github/stars/darrenhinde/OpenAgentsControl?style=flat-square&color=yellow)](https://github.com/darrenhinde/OpenAgentsControl/stargazers) [![Forks](https://img.shields.io/github/forks/darrenhinde/OpenAgentsControl?style=flat-square&color=blue)](https://github.com/darrenhinde/OpenAgentsControl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darrenhinde/OpenAgentsControl?style=flat-square&color=yellow)](https://github.com/darrenhinde/OpenAgentsControl/stargazers) [![Forks](https://img.shields.io/github/forks/darrenhinde/OpenAgentsControl?style=flat-square&color=blue)](https://github.com/darrenhinde/OpenAgentsControl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ darrenhinde/OpenAgentsControl 的价值在于，它能够帮助将孤立的提�
 | forks | 64/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 40/100 |
+| outlook | 87/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 64/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |

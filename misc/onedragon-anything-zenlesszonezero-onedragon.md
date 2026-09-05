@@ -1,6 +1,6 @@
 # OneDragon-Anything/ZenlessZoneZero-OneDragon
 
-[![Stars](https://img.shields.io/github/stars/OneDragon-Anything/ZenlessZoneZero-OneDragon?style=flat-square&color=yellow)](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon/stargazers) [![Forks](https://img.shields.io/github/forks/OneDragon-Anything/ZenlessZoneZero-OneDragon?style=flat-square&color=blue)](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OneDragon-Anything/ZenlessZoneZero-OneDragon?style=flat-square&color=yellow)](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon/stargazers) [![Forks](https://img.shields.io/github/forks/OneDragon-Anything/ZenlessZoneZero-OneDragon?style=flat-square&color=blue)](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 绝区零 一条龙 | 全自动 | 自动闪避 | 自动每日 | 自动空洞 | 支持手柄
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,11 +95,11 @@ OneDragon-Anything/ZenlessZoneZero-OneDragon 是一个开源项目，帮助通�
 | forks | 58/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 54/100 |
-| quality | 59/100 |
-| recency | 40/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

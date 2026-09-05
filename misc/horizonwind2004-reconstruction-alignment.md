@@ -1,6 +1,6 @@
 # HorizonWind2004/reconstruction-alignment
 
-[![Stars](https://img.shields.io/github/stars/HorizonWind2004/reconstruction-alignment?style=flat-square&color=yellow)](https://github.com/HorizonWind2004/reconstruction-alignment/stargazers) [![Forks](https://img.shields.io/github/forks/HorizonWind2004/reconstruction-alignment?style=flat-square&color=blue)](https://github.com/HorizonWind2004/reconstruction-alignment/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HorizonWind2004/reconstruction-alignment?style=flat-square&color=yellow)](https://github.com/HorizonWind2004/reconstruction-alignment/stargazers) [![Forks](https://img.shields.io/github/forks/HorizonWind2004/reconstruction-alignment?style=flat-square&color=blue)](https://github.com/HorizonWind2004/reconstruction-alignment/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > [ICLR 2026] Official repo of paper "Reconstruction Alignment Improves Unified Multimodal Models". Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,11 +99,11 @@ HorizonWind2004/reconstruction‑alignment 是 ICLR 2026 论文 “Reconstruct
 | forks | 31/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 48/100 |
-| quality | 57/100 |
-| recency | 20/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

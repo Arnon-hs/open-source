@@ -1,6 +1,6 @@
 # VictoriaMetrics/VictoriaLogs
 
-[![Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaLogs?style=flat-square&color=yellow)](https://github.com/VictoriaMetrics/VictoriaLogs/stargazers) [![Forks](https://img.shields.io/github/forks/VictoriaMetrics/VictoriaLogs?style=flat-square&color=blue)](https://github.com/VictoriaMetrics/VictoriaLogs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaLogs?style=flat-square&color=yellow)](https://github.com/VictoriaMetrics/VictoriaLogs/stargazers) [![Forks](https://img.shields.io/github/forks/VictoriaMetrics/VictoriaLogs?style=flat-square&color=blue)](https://github.com/VictoriaMetrics/VictoriaLogs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,11 +97,11 @@ VictoriaLogs 是一款面向日志数据的高性能时序数据库，能够在�
 | forks | 54/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 59/100 |
-| quality | 70/100 |
-| recency | 40/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 61/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

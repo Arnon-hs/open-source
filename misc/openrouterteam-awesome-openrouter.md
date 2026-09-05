@@ -1,6 +1,6 @@
 # OpenRouterTeam/awesome-openrouter
 
-[![Stars](https://img.shields.io/github/stars/OpenRouterTeam/awesome-openrouter?style=flat-square&color=yellow)](https://github.com/OpenRouterTeam/awesome-openrouter/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRouterTeam/awesome-openrouter?style=flat-square&color=blue)](https://github.com/OpenRouterTeam/awesome-openrouter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenRouterTeam/awesome-openrouter?style=flat-square&color=yellow)](https://github.com/OpenRouterTeam/awesome-openrouter/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRouterTeam/awesome-openrouter?style=flat-square&color=blue)](https://github.com/OpenRouterTeam/awesome-openrouter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ OpenRouterTeam/awesome-openrouter 是一个开源项目，提供了一个包含 
 | forks | 52/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 56/100 |
-| quality | 55/100 |
-| recency | 60/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

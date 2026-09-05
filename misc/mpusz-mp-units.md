@@ -1,6 +1,6 @@
 # mpusz/mp-units
 
-[![Stars](https://img.shields.io/github/stars/mpusz/mp-units?style=flat-square&color=yellow)](https://github.com/mpusz/mp-units/stargazers) [![Forks](https://img.shields.io/github/forks/mpusz/mp-units?style=flat-square&color=blue)](https://github.com/mpusz/mp-units/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpusz/mp-units?style=flat-square&color=yellow)](https://github.com/mpusz/mp-units/stargazers) [![Forks](https://img.shields.io/github/forks/mpusz/mp-units?style=flat-square&color=blue)](https://github.com/mpusz/mp-units/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ mpusz/mp‑units 是一套面向 C++ 的“域正确”量与单位库，提供�
 | forks | 52/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

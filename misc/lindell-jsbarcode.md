@@ -1,6 +1,6 @@
 # lindell/JsBarcode
 
-[![Stars](https://img.shields.io/github/stars/lindell/JsBarcode?style=flat-square&color=yellow)](https://github.com/lindell/JsBarcode/stargazers) [![Forks](https://img.shields.io/github/forks/lindell/JsBarcode?style=flat-square&color=blue)](https://github.com/lindell/JsBarcode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lindell/JsBarcode?style=flat-square&color=yellow)](https://github.com/lindell/JsBarcode/stargazers) [![Forks](https://img.shields.io/github/forks/lindell/JsBarcode?style=flat-square&color=blue)](https://github.com/lindell/JsBarcode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Barcode generation library written in JavaScript that works in both the browser and on Node.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-25 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -66,11 +66,11 @@ lindell/JsBarcode：lindell/JsBarcode may be useful when its README and activity
 | forks | 76/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |

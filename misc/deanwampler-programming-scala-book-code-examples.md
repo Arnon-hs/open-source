@@ -1,6 +1,6 @@
 # deanwampler/programming-scala-book-code-examples
 
-[![Stars](https://img.shields.io/github/stars/deanwampler/programming-scala-book-code-examples?style=flat-square&color=yellow)](https://github.com/deanwampler/programming-scala-book-code-examples/stargazers) [![Forks](https://img.shields.io/github/forks/deanwampler/programming-scala-book-code-examples?style=flat-square&color=blue)](https://github.com/deanwampler/programming-scala-book-code-examples/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deanwampler/programming-scala-book-code-examples?style=flat-square&color=yellow)](https://github.com/deanwampler/programming-scala-book-code-examples/stargazers) [![Forks](https://img.shields.io/github/forks/deanwampler/programming-scala-book-code-examples?style=flat-square&color=blue)](https://github.com/deanwampler/programming-scala-book-code-examples/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The code examples used in Programming Scala, 2nd and 3rd Editions (O'Reilly)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 405 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -136,11 +136,11 @@ In short, the repo is a valuable, low‑cost resource for learning and bootstrap
 | forks | 65/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 55/100 |
-| quality | 64/100 |
-| recency | 40/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 54/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

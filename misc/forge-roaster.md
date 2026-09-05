@@ -1,6 +1,6 @@
 # forge/roaster
 
-[![Stars](https://img.shields.io/github/stars/forge/roaster?style=flat-square&color=yellow)](https://github.com/forge/roaster/stargazers) [![Forks](https://img.shields.io/github/forks/forge/roaster?style=flat-square&color=blue)](https://github.com/forge/roaster/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/forge/roaster?style=flat-square&color=yellow)](https://github.com/forge/roaster/stargazers) [![Forks](https://img.shields.io/github/forks/forge/roaster?style=flat-square&color=blue)](https://github.com/forge/roaster/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Java Parser library that allows easy parsing and formatting of Java source files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 688 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,11 +120,11 @@ forge/roaster 是一个轻量级的 Java 代码解析与格式化库，能够把
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 40/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 49/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # laoma2053/awesome-zhuiju-free
 
-[![Stars](https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&color=yellow)](https://github.com/laoma2053/awesome-zhuiju-free/stargazers) [![Forks](https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&color=blue)](https://github.com/laoma2053/awesome-zhuiju-free/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&color=yellow)](https://github.com/laoma2053/awesome-zhuiju-free/stargazers) [![Forks](https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&color=blue)](https://github.com/laoma2053/awesome-zhuiju-free/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 免费无广告的追剧资源导航与影视工具指南，收录无广告在线影视、影视App、网盘搜索、磁力与 BT、字幕、TVBox、影视仓配置地址、IPTV 订阅源和会员拼团，每日可用性检测。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 806 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,11 +107,11 @@ The project has a medium production readiness score, indicating that it's useful
 | forks | 44/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 60/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 55/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

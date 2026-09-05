@@ -1,6 +1,6 @@
 # adenaufal/anti-slop-writing
 
-[![Stars](https://img.shields.io/github/stars/adenaufal/anti-slop-writing?style=flat-square&color=yellow)](https://github.com/adenaufal/anti-slop-writing/stargazers) [![Forks](https://img.shields.io/github/forks/adenaufal/anti-slop-writing?style=flat-square&color=blue)](https://github.com/adenaufal/anti-slop-writing/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adenaufal/anti-slop-writing?style=flat-square&color=yellow)](https://github.com/adenaufal/anti-slop-writing/stargazers) [![Forks](https://img.shields.io/github/forks/adenaufal/anti-slop-writing?style=flat-square&color=blue)](https://github.com/adenaufal/anti-slop-writing/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Stop your AI from writing like AI. A universal system prompt eliminating every known LLM style tell — works with Claude Code, Gemini CLI, Codex CLI, Copilot, Cursor, and any web AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ anti‑slop‑writing 为在现有 LLM 上快速实现“人类化”输出提�
 | forks | 21/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 56/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 53/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

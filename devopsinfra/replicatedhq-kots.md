@@ -1,6 +1,6 @@
 # replicatedhq/kots
 
-[![Stars](https://img.shields.io/github/stars/replicatedhq/kots?style=flat-square&color=yellow)](https://github.com/replicatedhq/kots/stargazers) [![Forks](https://img.shields.io/github/forks/replicatedhq/kots?style=flat-square&color=blue)](https://github.com/replicatedhq/kots/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/replicatedhq/kots?style=flat-square&color=yellow)](https://github.com/replicatedhq/kots/stargazers) [![Forks](https://img.shields.io/github/forks/replicatedhq/kots?style=flat-square&color=blue)](https://github.com/replicatedhq/kots/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 947 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,11 +104,11 @@ KOTS 的生产可用性很高，主要原因是：
 | forks | 50/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 66/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # vdaas/vald
 
-[![Stars](https://img.shields.io/github/stars/vdaas/vald?style=flat-square&color=yellow)](https://github.com/vdaas/vald/stargazers) [![Forks](https://img.shields.io/github/forks/vdaas/vald?style=flat-square&color=blue)](https://github.com/vdaas/vald/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vdaas/vald?style=flat-square&color=yellow)](https://github.com/vdaas/vald/stargazers) [![Forks](https://img.shields.io/github/forks/vdaas/vald?style=flat-square&color=blue)](https://github.com/vdaas/vald/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Vald.  A Highly Scalable Distributed Vector Search Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Data · DevOps/Infra
+Knowledge/RAG · Cloud & Storage · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -99,15 +99,15 @@ Vald的生产可用性较高，主要原因是其最近的活动、采用度和�
 | forks | 49/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 58/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

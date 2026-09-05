@@ -1,6 +1,6 @@
 # geraldohomero/best-foss-alternatives
 
-[![Stars](https://img.shields.io/github/stars/geraldohomero/best-foss-alternatives?style=flat-square&color=yellow)](https://github.com/geraldohomero/best-foss-alternatives/stargazers) [![Forks](https://img.shields.io/github/forks/geraldohomero/best-foss-alternatives?style=flat-square&color=blue)](https://github.com/geraldohomero/best-foss-alternatives/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geraldohomero/best-foss-alternatives?style=flat-square&color=yellow)](https://github.com/geraldohomero/best-foss-alternatives/stargazers) [![Forks](https://img.shields.io/github/forks/geraldohomero/best-foss-alternatives?style=flat-square&color=blue)](https://github.com/geraldohomero/best-foss-alternatives/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > List of the best Free and Open Source Software alternatives (Privacy)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,11 +67,11 @@ geraldohomero/best-foss-alternatives 是一个列出最佳隐私导向的自由�
 | forks | 30/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 60/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

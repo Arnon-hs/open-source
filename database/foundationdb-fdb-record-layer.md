@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ FoundationDB/fdb-record-layer：FoundationDB/fdb-record-layer helps teams persis
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

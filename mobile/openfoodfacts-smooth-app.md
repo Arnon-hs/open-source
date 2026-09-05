@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 445 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ openfoodfacts/smooth-app：openfoodfacts/smooth-app may be useful when its READM
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

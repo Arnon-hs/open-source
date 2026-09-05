@@ -1,6 +1,6 @@
 # jannistpl/egui-file-dialog
 
-[![Stars](https://img.shields.io/github/stars/jannistpl/egui-file-dialog?style=flat-square&color=yellow)](https://github.com/jannistpl/egui-file-dialog/stargazers) [![Forks](https://img.shields.io/github/forks/jannistpl/egui-file-dialog?style=flat-square&color=blue)](https://github.com/jannistpl/egui-file-dialog/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jannistpl/egui-file-dialog?style=flat-square&color=yellow)](https://github.com/jannistpl/egui-file-dialog/stargazers) [![Forks](https://img.shields.io/github/forks/jannistpl/egui-file-dialog?style=flat-square&color=blue)](https://github.com/jannistpl/egui-file-dialog/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Full featured and customizable file dialog for egui
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ The project sits at a **medium** readiness level: it is stable enough for protot
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 45/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # GetPublii/Publii
 
-[![Stars](https://img.shields.io/github/stars/GetPublii/Publii?style=flat-square&color=yellow)](https://github.com/GetPublii/Publii/stargazers) [![Forks](https://img.shields.io/github/forks/GetPublii/Publii?style=flat-square&color=blue)](https://github.com/GetPublii/Publii/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GetPublii/Publii?style=flat-square&color=yellow)](https://github.com/GetPublii/Publii/stargazers) [![Forks](https://img.shields.io/github/forks/GetPublii/Publii?style=flat-square&color=blue)](https://github.com/GetPublii/Publii/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #foss by @oldcoder
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | mastodon |
 
 ## 🏷️ Topics
@@ -93,11 +93,11 @@ For a successful adoption, follow these steps:
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 38/100 |
-| quality | 24/100 |
-| recency | 40/100 |
+| outlook | 52/100 |
+| quality | 34/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 39/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # bardsoftware/ganttproject
 
-[![Stars](https://img.shields.io/github/stars/bardsoftware/ganttproject?style=flat-square&color=yellow)](https://github.com/bardsoftware/ganttproject/stargazers) [![Forks](https://img.shields.io/github/forks/bardsoftware/ganttproject?style=flat-square&color=blue)](https://github.com/bardsoftware/ganttproject/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bardsoftware/ganttproject?style=flat-square&color=yellow)](https://github.com/bardsoftware/ganttproject/stargazers) [![Forks](https://img.shields.io/github/forks/bardsoftware/ganttproject?style=flat-square&color=blue)](https://github.com/bardsoftware/ganttproject/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Official GanttProject repository.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 338 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ GanttProject 的生产可用性为中等（Medium），适合用于内部工作�
 | forks | 63/100 |
 | stars | 65/100 |
 | topics | 75/100 |
-| outlook | 63/100 |
-| quality | 70/100 |
-| recency | 60/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 61/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

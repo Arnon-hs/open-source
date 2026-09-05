@@ -1,6 +1,6 @@
 # arthur-ai/arthur-engine
 
-[![Stars](https://img.shields.io/github/stars/arthur-ai/arthur-engine?style=flat-square&color=yellow)](https://github.com/arthur-ai/arthur-engine/stargazers) [![Forks](https://img.shields.io/github/forks/arthur-ai/arthur-engine?style=flat-square&color=blue)](https://github.com/arthur-ai/arthur-engine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arthur-ai/arthur-engine?style=flat-square&color=yellow)](https://github.com/arthur-ai/arthur-engine/stargazers) [![Forks](https://img.shields.io/github/forks/arthur-ai/arthur-engine?style=flat-square&color=blue)](https://github.com/arthur-ai/arthur-engine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Make AI work for Everyone - Monitoring and governing for your AI/ML
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ Arthur Engine（arthur-ai/arthur-engine）是一套面向 AI/ML 的可观测性�
 | forks | 26/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 49/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

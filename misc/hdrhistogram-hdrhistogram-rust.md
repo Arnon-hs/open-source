@@ -1,6 +1,6 @@
 # HdrHistogram/HdrHistogram_rust
 
-[![Stars](https://img.shields.io/github/stars/HdrHistogram/HdrHistogram_rust?style=flat-square&color=yellow)](https://github.com/HdrHistogram/HdrHistogram_rust/stargazers) [![Forks](https://img.shields.io/github/forks/HdrHistogram/HdrHistogram_rust?style=flat-square&color=blue)](https://github.com/HdrHistogram/HdrHistogram_rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HdrHistogram/HdrHistogram_rust?style=flat-square&color=yellow)](https://github.com/HdrHistogram/HdrHistogram_rust/stargazers) [![Forks](https://img.shields.io/github/forks/HdrHistogram/HdrHistogram_rust?style=flat-square&color=blue)](https://github.com/HdrHistogram/HdrHistogram_rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A port of HdrHistogram to Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 358 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,11 +92,11 @@ HdrHistogram/HdrHistogram_rust 是 Rust 语言的 HdrHistogram 项目的移植�
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 51/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

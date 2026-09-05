@@ -1,6 +1,6 @@
 # sooperset/mcp-atlassian
 
-[![Stars](https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=flat-square&color=yellow)](https://github.com/sooperset/mcp-atlassian/stargazers) [![Forks](https://img.shields.io/github/forks/sooperset/mcp-atlassian?style=flat-square&color=blue)](https://github.com/sooperset/mcp-atlassian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=flat-square&color=yellow)](https://github.com/sooperset/mcp-atlassian/stargazers) [![Forks](https://img.shields.io/github/forks/sooperset/mcp-atlassian?style=flat-square&color=blue)](https://github.com/sooperset/mcp-atlassian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Atlassian tools (Confluence, Jira)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,11 +109,11 @@ sooperset/mcp-atlassian 是一个基于 Model Context Protocol（MCP）的服务
 | forks | 77/100 |
 | stars | 80/100 |
 | topics | 50/100 |
-| outlook | 64/100 |
-| quality | 68/100 |
-| recency | 40/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 60/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # erikrose/parsimonious
 
-[![Stars](https://img.shields.io/github/stars/erikrose/parsimonious?style=flat-square&color=yellow)](https://github.com/erikrose/parsimonious/stargazers) [![Forks](https://img.shields.io/github/forks/erikrose/parsimonious?style=flat-square&color=blue)](https://github.com/erikrose/parsimonious/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erikrose/parsimonious?style=flat-square&color=yellow)](https://github.com/erikrose/parsimonious/stargazers) [![Forks](https://img.shields.io/github/forks/erikrose/parsimonious?style=flat-square&color=blue)](https://github.com/erikrose/parsimonious/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): Porting a Python PEG parser to Rust in 72 hours, and actually proving it worked
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ This project is considered medium-ready for production.
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

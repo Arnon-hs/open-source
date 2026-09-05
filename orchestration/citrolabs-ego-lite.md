@@ -1,6 +1,6 @@
 # citrolabs/ego-lite
 
-[![Stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=flat-square&color=yellow)](https://github.com/citrolabs/ego-lite/stargazers) [![Forks](https://img.shields.io/github/forks/citrolabs/ego-lite?style=flat-square&color=blue)](https://github.com/citrolabs/ego-lite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=flat-square&color=yellow)](https://github.com/citrolabs/ego-lite/stargazers) [![Forks](https://img.shields.io/github/forks/citrolabs/ego-lite?style=flat-square&color=blue)](https://github.com/citrolabs/ego-lite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The best browser for both you and your AI agents work in parallel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 236 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,11 +108,11 @@ citrolabs/ego-lite 是一款面向人类与 AI 代理并行协作的轻量级浏
 | forks | 28/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 54/100 |
-| recency | 40/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 53/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

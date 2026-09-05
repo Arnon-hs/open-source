@@ -1,6 +1,6 @@
 # KDE/kdeconnect-kde
 
-[![Stars](https://img.shields.io/github/stars/KDE/kdeconnect-kde?style=flat-square&color=yellow)](https://github.com/KDE/kdeconnect-kde/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/kdeconnect-kde?style=flat-square&color=blue)](https://github.com/KDE/kdeconnect-kde/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KDE/kdeconnect-kde?style=flat-square&color=yellow)](https://github.com/KDE/kdeconnect-kde/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/kdeconnect-kde?style=flat-square&color=blue)](https://github.com/KDE/kdeconnect-kde/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-platform app that allows your devices to communicate
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ KDE/kdeconnect‑kde 为多平台设备之间提供即时的跨设备通信能�
 | forks | 60/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 50/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 52/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

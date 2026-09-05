@@ -1,6 +1,6 @@
 # legluondunet/MyLittleLutrisScripts
 
-[![Stars](https://img.shields.io/github/stars/legluondunet/MyLittleLutrisScripts?style=flat-square&color=yellow)](https://github.com/legluondunet/MyLittleLutrisScripts/stargazers) [![Forks](https://img.shields.io/github/forks/legluondunet/MyLittleLutrisScripts?style=flat-square&color=blue)](https://github.com/legluondunet/MyLittleLutrisScripts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/legluondunet/MyLittleLutrisScripts?style=flat-square&color=yellow)](https://github.com/legluondunet/MyLittleLutrisScripts/stargazers) [![Forks](https://img.shields.io/github/forks/legluondunet/MyLittleLutrisScripts?style=flat-square&color=blue)](https://github.com/legluondunet/MyLittleLutrisScripts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Lutris scripts for old games.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ legluondunet/MyLittleLutrisScripts 的生产可用性为中等。它适合用于
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 60/100 |
-| quality | 64/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 59/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

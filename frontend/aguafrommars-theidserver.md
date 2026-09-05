@@ -1,6 +1,6 @@
 # Aguafrommars/TheIdServer
 
-[![Stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square&color=yellow)](https://github.com/Aguafrommars/TheIdServer/stargazers) [![Forks](https://img.shields.io/github/forks/Aguafrommars/TheIdServer?style=flat-square&color=blue)](https://github.com/Aguafrommars/TheIdServer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square&color=yellow)](https://github.com/Aguafrommars/TheIdServer/stargazers) [![Forks](https://img.shields.io/github/forks/Aguafrommars/TheIdServer?style=flat-square&color=blue)](https://github.com/Aguafrommars/TheIdServer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > OpenID/Connect, OAuth2, WS-Federation and SAML 2.0 server based on Duende IdentityServer and ITFoxtec Identity SAML 2.0 with its admin UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevOps/Infra
+Frontend · Backend · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -113,15 +113,15 @@ Aguafromars/TheIdServer 帮助开发者在不从头开始构建 AI 模型栈的�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 57/100 |
-| quality | 66/100 |
-| recency | 40/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 300/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

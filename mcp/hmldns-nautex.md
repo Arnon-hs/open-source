@@ -1,6 +1,6 @@
 # hmldns/nautex
 
-[![Stars](https://img.shields.io/github/stars/hmldns/nautex?style=flat-square&color=yellow)](https://github.com/hmldns/nautex/stargazers) [![Forks](https://img.shields.io/github/forks/hmldns/nautex?style=flat-square&color=blue)](https://github.com/hmldns/nautex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hmldns/nautex?style=flat-square&color=yellow)](https://github.com/hmldns/nautex/stargazers) [![Forks](https://img.shields.io/github/forks/hmldns/nautex?style=flat-square&color=blue)](https://github.com/hmldns/nautex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for guiding Coding Agents via end-to-end requirements to implementation plan pipeline
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,11 +98,11 @@ hmldns/nautex 的生产可用性为中等（Medium），因为它适合用于原
 | forks | 24/100 |
 | stars | 41/100 |
 | topics | 13/100 |
-| outlook | 49/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 51/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

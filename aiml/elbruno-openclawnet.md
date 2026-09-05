@@ -1,6 +1,6 @@
 # elbruno/openclawnet
 
-[![Stars](https://img.shields.io/github/stars/elbruno/openclawnet?style=flat-square&color=yellow)](https://github.com/elbruno/openclawnet/stargazers) [![Forks](https://img.shields.io/github/forks/elbruno/openclawnet?style=flat-square&color=blue)](https://github.com/elbruno/openclawnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elbruno/openclawnet?style=flat-square&color=yellow)](https://github.com/elbruno/openclawnet/stargazers) [![Forks](https://img.shields.io/github/forks/elbruno/openclawnet?style=flat-square&color=blue)](https://github.com/elbruno/openclawnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🐾 OpenClawNet — Build an AI Agent Platform in .NET 10 (Reactor live series materials)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML · Cloud & Storage · Education
 
 ## 📝 Summary
 
@@ -111,15 +111,15 @@ OpenClawNet（elbruno/openclawnet）是一个基于 .NET 10 的 AI Agent 平�
 | forks | 33/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 47/100 |
-| quality | 51/100 |
-| recency | 20/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 45/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

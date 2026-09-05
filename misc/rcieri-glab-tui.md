@@ -1,6 +1,6 @@
 # rcieri/glab-tui
 
-[![Stars](https://img.shields.io/github/stars/rcieri/glab-tui?style=flat-square&color=yellow)](https://github.com/rcieri/glab-tui/stargazers) [![Forks](https://img.shields.io/github/forks/rcieri/glab-tui?style=flat-square&color=blue)](https://github.com/rcieri/glab-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rcieri/glab-tui?style=flat-square&color=yellow)](https://github.com/rcieri/glab-tui/stargazers) [![Forks](https://img.shields.io/github/forks/rcieri/glab-tui?style=flat-square&color=blue)](https://github.com/rcieri/glab-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal user interface (TUI) for GitLab/GitHub, built on top of glab/gh. Browse issues, merge requests, pipelines, runners, and releases without leaving your terminal. Built for personal use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,11 +111,11 @@ rcieri/glab-tui 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 24/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 49/100 |
-| quality | 48/100 |
-| recency | 60/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 53/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

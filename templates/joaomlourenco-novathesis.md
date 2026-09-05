@@ -1,6 +1,6 @@
 # joaomlourenco/novathesis
 
-[![Stars](https://img.shields.io/github/stars/joaomlourenco/novathesis?style=flat-square&color=yellow)](https://github.com/joaomlourenco/novathesis/stargazers) [![Forks](https://img.shields.io/github/forks/joaomlourenco/novathesis?style=flat-square&color=blue)](https://github.com/joaomlourenco/novathesis/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joaomlourenco/novathesis?style=flat-square&color=yellow)](https://github.com/joaomlourenco/novathesis/stargazers) [![Forks](https://img.shields.io/github/forks/joaomlourenco/novathesis?style=flat-square&color=blue)](https://github.com/joaomlourenco/novathesis/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A LaTeX template for academic monographs (e.g., dissertations and thesis). This template serves both beginners and proficient LaTeX users.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 995 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,11 +102,11 @@ joaomlourenco/novathesis 是一个开源的 LaTeX 模板，专为学术专著（
 | forks | 57/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 73/100 |
-| recency | 60/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 64/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

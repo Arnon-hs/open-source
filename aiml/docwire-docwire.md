@@ -1,6 +1,6 @@
 # docwire/docwire
 
-[![Stars](https://img.shields.io/github/stars/docwire/docwire?style=flat-square&color=yellow)](https://github.com/docwire/docwire/stargazers) [![Forks](https://img.shields.io/github/forks/docwire/docwire?style=flat-square&color=blue)](https://github.com/docwire/docwire/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docwire/docwire?style=flat-square&color=yellow)](https://github.com/docwire/docwire/stargazers) [![Forks](https://img.shields.io/github/forks/docwire/docwire?style=flat-square&color=blue)](https://github.com/docwire/docwire/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > DocWire SDK: Award-winning modern data processing in C++20. SourceForge Community Choice & Microsoft support. AI-driven processing. Supports nearly 100 data formats, including email boxes and OCR. Boost efficiency in text extraction, web data extraction, data mining, document analysis. Offline processing is possible for security and confidentiality
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Data · Database
+AI/ML · Communication · Documents · Backend · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ DocWire SDK 是一款基于 C++20 的现代化数据处理库，获奖且得到 
 | forks | 36/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aws-samples/amazon-bedrock-client-for-mac
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-client-for-mac?style=flat-square&color=yellow)](https://github.com/aws-samples/amazon-bedrock-client-for-mac/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-client-for-mac?style=flat-square&color=blue)](https://github.com/aws-samples/amazon-bedrock-client-for-mac/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-client-for-mac?style=flat-square&color=yellow)](https://github.com/aws-samples/amazon-bedrock-client-for-mac/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-client-for-mac?style=flat-square&color=blue)](https://github.com/aws-samples/amazon-bedrock-client-for-mac/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A native macOS client that brings Amazon Bedrock's AI models directly to your desktop. Access Claude Opus 4.8, Sonnet 4.6, and other foundation models through a clean interface designed for macOS, with system-wide quick access and full AWS integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Design
+AI/ML · Cloud & Storage
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ aws-samples/amazon-bedrock-client-for-mac 是一个原生的 macOS 客户端，�
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

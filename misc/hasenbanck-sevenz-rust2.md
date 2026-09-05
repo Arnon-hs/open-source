@@ -1,6 +1,6 @@
 # hasenbanck/sevenz-rust2
 
-[![Stars](https://img.shields.io/github/stars/hasenbanck/sevenz-rust2?style=flat-square&color=yellow)](https://github.com/hasenbanck/sevenz-rust2/stargazers) [![Forks](https://img.shields.io/github/forks/hasenbanck/sevenz-rust2?style=flat-square&color=blue)](https://github.com/hasenbanck/sevenz-rust2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hasenbanck/sevenz-rust2?style=flat-square&color=yellow)](https://github.com/hasenbanck/sevenz-rust2/stargazers) [![Forks](https://img.shields.io/github/forks/hasenbanck/sevenz-rust2?style=flat-square&color=blue)](https://github.com/hasenbanck/sevenz-rust2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rust native 7z compressor / decompressor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ Sevenz-Rust2的生产可用性为中等（Medium）。虽然它是一个稳定�
 | forks | 36/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 43/100 |
-| quality | 43/100 |
-| recency | 40/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 47/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

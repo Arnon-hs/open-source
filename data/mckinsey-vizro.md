@@ -1,6 +1,6 @@
 # mckinsey/vizro
 
-[![Stars](https://img.shields.io/github/stars/mckinsey/vizro?style=flat-square&color=yellow)](https://github.com/mckinsey/vizro/stargazers) [![Forks](https://img.shields.io/github/forks/mckinsey/vizro?style=flat-square&color=blue)](https://github.com/mckinsey/vizro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mckinsey/vizro?style=flat-square&color=yellow)](https://github.com/mckinsey/vizro/stargazers) [![Forks](https://img.shields.io/github/forks/mckinsey/vizro?style=flat-square&color=blue)](https://github.com/mckinsey/vizro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Vizro is a low-code toolkit for building high-quality data visualization apps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 271 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ Vizro（mckinsey/vizro）是一个面向数据可视化的低代码工具箱，�
 | forks | 61/100 |
 | stars | 76/100 |
 | topics | 88/100 |
-| outlook | 58/100 |
-| quality | 65/100 |
-| recency | 20/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 52/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

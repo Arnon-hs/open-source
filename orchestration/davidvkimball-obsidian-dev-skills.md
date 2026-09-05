@@ -1,6 +1,6 @@
 # davidvkimball/obsidian-dev-skills
 
-[![Stars](https://img.shields.io/github/stars/davidvkimball/obsidian-dev-skills?style=flat-square&color=yellow)](https://github.com/davidvkimball/obsidian-dev-skills/stargazers) [![Forks](https://img.shields.io/github/forks/davidvkimball/obsidian-dev-skills?style=flat-square&color=blue)](https://github.com/davidvkimball/obsidian-dev-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidvkimball/obsidian-dev-skills?style=flat-square&color=yellow)](https://github.com/davidvkimball/obsidian-dev-skills/stargazers) [![Forks](https://img.shields.io/github/forks/davidvkimball/obsidian-dev-skills?style=flat-square&color=blue)](https://github.com/davidvkimball/obsidian-dev-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Centralized AI agent skills for Obsidian plugin and theme development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,11 +101,11 @@ davidvkimball/obsidian‑dev‑skills 为 Obsidian 插件和主题开发提供�
 | forks | 12/100 |
 | stars | 35/100 |
 | topics | 63/100 |
-| outlook | 42/100 |
-| quality | 42/100 |
-| recency | 20/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 44/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |

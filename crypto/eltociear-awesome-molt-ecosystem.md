@@ -1,6 +1,6 @@
 # eltociear/awesome-molt-ecosystem
 
-[![Stars](https://img.shields.io/github/stars/eltociear/awesome-molt-ecosystem?style=flat-square&color=yellow)](https://github.com/eltociear/awesome-molt-ecosystem/stargazers) [![Forks](https://img.shields.io/github/forks/eltociear/awesome-molt-ecosystem?style=flat-square&color=blue)](https://github.com/eltociear/awesome-molt-ecosystem/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eltociear/awesome-molt-ecosystem?style=flat-square&color=yellow)](https://github.com/eltociear/awesome-molt-ecosystem/stargazers) [![Forks](https://img.shields.io/github/forks/eltociear/awesome-molt-ecosystem?style=flat-square&color=blue)](https://github.com/eltociear/awesome-molt-ecosystem/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The brutally honest map of where AI-agent money actually flows. 51 rounds, 137 angles, 230+ platforms. 3 self-hosted x402 v2 endpoints + 3 tools in the official MCP Registry. 385K star distribution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,11 +103,11 @@ eltociear/awesome-molt-ecosystem 是一份“赤裸裸”展示 AI‑agent 资�
 | forks | 36/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

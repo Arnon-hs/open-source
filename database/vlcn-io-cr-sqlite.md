@@ -1,6 +1,6 @@
 # vlcn-io/cr-sqlite
 
-[![Stars](https://img.shields.io/github/stars/vlcn-io/cr-sqlite?style=flat-square&color=yellow)](https://github.com/vlcn-io/cr-sqlite/stargazers) [![Forks](https://img.shields.io/github/forks/vlcn-io/cr-sqlite?style=flat-square&color=blue)](https://github.com/vlcn-io/cr-sqlite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vlcn-io/cr-sqlite?style=flat-square&color=yellow)](https://github.com/vlcn-io/cr-sqlite/stargazers) [![Forks](https://img.shields.io/github/forks/vlcn-io/cr-sqlite?style=flat-square&color=blue)](https://github.com/vlcn-io/cr-sqlite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,11 +84,11 @@ vlcn-io/cr-sqlite 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 52/100 |
 | stars | 76/100 |
 | topics | 38/100 |
-| outlook | 60/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 60/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

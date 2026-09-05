@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | C |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Database
+MCP · AI/ML · Backend · DevTools · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps connect AI ass
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

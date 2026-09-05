@@ -1,6 +1,6 @@
 # tensorflow/tflite-micro
 
-[![Stars](https://img.shields.io/github/stars/tensorflow/tflite-micro?style=flat-square&color=yellow)](https://github.com/tensorflow/tflite-micro/stargazers) [![Forks](https://img.shields.io/github/forks/tensorflow/tflite-micro?style=flat-square&color=blue)](https://github.com/tensorflow/tflite-micro/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tensorflow/tflite-micro?style=flat-square&color=yellow)](https://github.com/tensorflow/tflite-micro/stargazers) [![Forks](https://img.shields.io/github/forks/tensorflow/tflite-micro?style=flat-square&color=blue)](https://github.com/tensorflow/tflite-micro/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ TensorFlow Lite Micro 的生产可用性为中等（Medium）。它适用于以�
 | forks | 76/100 |
 | stars | 74/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

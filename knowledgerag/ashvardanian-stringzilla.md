@@ -1,6 +1,6 @@
 # ashvardanian/StringZilla
 
-[![Stars](https://img.shields.io/github/stars/ashvardanian/StringZilla?style=flat-square&color=yellow)](https://github.com/ashvardanian/StringZilla/stargazers) [![Forks](https://img.shields.io/github/forks/ashvardanian/StringZilla?style=flat-square&color=blue)](https://github.com/ashvardanian/StringZilla/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashvardanian/StringZilla?style=flat-square&color=yellow)](https://github.com/ashvardanian/StringZilla/stargazers) [![Forks](https://img.shields.io/github/forks/ashvardanian/StringZilla?style=flat-square&color=blue)](https://github.com/ashvardanian/StringZilla/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,11 +105,11 @@ StringZilla具有很高的生产可用性，理由包括：
 | forks | 53/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 76/100 |
-| recency | 60/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 68/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

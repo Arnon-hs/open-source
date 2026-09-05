@@ -1,6 +1,6 @@
 # enowdev/antares
 
-[![Stars](https://img.shields.io/github/stars/enowdev/antares?style=flat-square&color=yellow)](https://github.com/enowdev/antares/stargazers) [![Forks](https://img.shields.io/github/forks/enowdev/antares?style=flat-square&color=blue)](https://github.com/enowdev/antares/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enowdev/antares?style=flat-square&color=yellow)](https://github.com/enowdev/antares/stargazers) [![Forks](https://img.shields.io/github/forks/enowdev/antares?style=flat-square&color=blue)](https://github.com/enowdev/antares/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Antares — a self-hosted AI agent: Go backend, React dashboard, terminal UI, and messaging gateways.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Communication · Frontend
 
 ## 📝 Summary
 
@@ -98,15 +98,15 @@ Antares 的生产可用性为中等水平。它适合用于原型开发或内部
 | forks | 29/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 57/100 |
-| quality | 44/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 54/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

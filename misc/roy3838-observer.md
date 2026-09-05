@@ -1,6 +1,6 @@
 # Roy3838/Observer
 
-[![Stars](https://img.shields.io/github/stars/Roy3838/Observer?style=flat-square&color=yellow)](https://github.com/Roy3838/Observer/stargazers) [![Forks](https://img.shields.io/github/forks/Roy3838/Observer?style=flat-square&color=blue)](https://github.com/Roy3838/Observer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Roy3838/Observer?style=flat-square&color=yellow)](https://github.com/Roy3838/Observer/stargazers) [![Forks](https://img.shields.io/github/forks/Roy3838/Observer?style=flat-square&color=blue)](https://github.com/Roy3838/Observer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,11 +85,11 @@ Roy3838/Observer 的生产可用性为中等水平。它适合用于原型或内
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 55/100 |
-| quality | 59/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 58/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # ValveResourceFormat/ValveResourceFormat
 
-[![Stars](https://img.shields.io/github/stars/ValveResourceFormat/ValveResourceFormat?style=flat-square&color=yellow)](https://github.com/ValveResourceFormat/ValveResourceFormat/stargazers) [![Forks](https://img.shields.io/github/forks/ValveResourceFormat/ValveResourceFormat?style=flat-square&color=blue)](https://github.com/ValveResourceFormat/ValveResourceFormat/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ValveResourceFormat/ValveResourceFormat?style=flat-square&color=yellow)](https://github.com/ValveResourceFormat/ValveResourceFormat/stargazers) [![Forks](https://img.shields.io/github/forks/ValveResourceFormat/ValveResourceFormat?style=flat-square&color=blue)](https://github.com/ValveResourceFormat/ValveResourceFormat/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,11 +100,11 @@ ValveResourceFormat（Source 2 Viewer）是一款面向 Source 2 引擎的�
 | forks | 61/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 63/100 |
-| quality | 71/100 |
-| recency | 40/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 57/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |

@@ -1,6 +1,6 @@
 # JiongXing/PhotoBrowser
 
-[![Stars](https://img.shields.io/github/stars/JiongXing/PhotoBrowser?style=flat-square&color=yellow)](https://github.com/JiongXing/PhotoBrowser/stargazers) [![Forks](https://img.shields.io/github/forks/JiongXing/PhotoBrowser?style=flat-square&color=blue)](https://github.com/JiongXing/PhotoBrowser/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JiongXing/PhotoBrowser?style=flat-square&color=yellow)](https://github.com/JiongXing/PhotoBrowser/stargazers) [![Forks](https://img.shields.io/github/forks/JiongXing/PhotoBrowser?style=flat-square&color=blue)](https://github.com/JiongXing/PhotoBrowser/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, highly customizable iOS photo & video browser in Swift. Supports zoom transitions, drag-to-dismiss, pinch-to-zoom, infinite looping, custom cells and overlays. No third-party dependencies. Works with both UIKit and SwiftUI. 图片/视频媒体浏览器。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,11 +96,11 @@ JiongXing/PhotoBrowser 帮助内部知识库变得可搜索和可用，方便助
 | forks | 59/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 62/100 |
-| quality | 69/100 |
-| recency | 40/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 56/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
