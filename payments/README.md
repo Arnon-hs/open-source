@@ -46,8 +46,8 @@
 | 36 | [mivano/azure-cost-cli](./mivano-azure-cost-cli.md) | ⭐ 1.1k | C# | 66/100 |
 | 37 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 66/100 |
 | 38 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.4k | TypeScript | 66/100 |
-| 39 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
-| 40 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
+| 39 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
+| 40 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
 | 41 | [abracadabra50/uk-grocery-cli](./abracadabra50-uk-grocery-cli.md) | ⭐ 68 | TypeScript | 65/100 |
 | 42 | [nozomi-koborinai/gcp-cost-mcp-server](./nozomi-koborinai-gcp-cost-mcp-server.md) | ⭐ 21 | Go | 65/100 |
 | 43 | [InvoicePlane/InvoicePlane](./invoiceplane-invoiceplane.md) | ⭐ 3.1k | PHP | 65/100 |
@@ -226,8 +226,8 @@
 | 216 | [stustapay/stustapay](./stustapay-stustapay.md) | ⭐ 153 | Python | 50/100 |
 | 217 | [PatWie/drafft-ink](./patwie-drafft-ink.md) | ⭐ 479 | Rust | 50/100 |
 | 218 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 30 | HTML | 50/100 |
-| 219 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 50/100 |
-| 220 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 219 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 220 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 50/100 |
 | 221 | [lopinx/epay](./lopinx-epay.md) | ⭐ 113 | PHP | 49/100 |
 | 222 | [braintree/braintree_node](./braintree-braintree-node.md) | ⭐ 333 | JavaScript | 49/100 |
 | 223 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 381 | JavaScript | 49/100 |

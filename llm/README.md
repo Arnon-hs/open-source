@@ -2,7 +2,7 @@
 
 > 
 
-**7 projects** in this category.
+**8 projects** in this category.
 
 ## Projects
 
@@ -15,6 +15,7 @@
 | 5 | [tab4moji/pystdoc](./tab4moji-pystdoc.md) | ⭐ — | Python | 39/100 |
 | 6 | [iDebunk/cachegate](./idebunk-cachegate.md) | ⭐ — | JavaScript | 36/100 |
 | 7 | [datago_8008/burn_probe](./datago-8008-burn-probe.md) | ⭐ — | — | 27/100 |
+| 8 | [jxnl/instructor](./jxnl-instructor.md) | ⭐ — | — | 24/100 |
 
 ---
 

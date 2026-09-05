@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [containerd/containerd](./containerd-containerd.md) | ⭐ 21.2k | Go | 74/100 |
+| 1 | [containerd/containerd](./containerd-containerd.md) | ⭐ 21.2k | Go | 71/100 |
 
 ---
 
