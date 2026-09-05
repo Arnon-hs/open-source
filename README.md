@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34497** |
-| **Categories** | **179** |
+| **Projects** | **34502** |
+| **Categories** | **182** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15675 | [Browse →](./misc/) |
+| 📦 **Misc** | 15677 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2195 | [Browse →](./orchestration/) |
@@ -93,6 +93,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |
+| 🏷️ **Terraform** | 1 | [Browse →](./terraform/) |
+| 🏷️ **Accessibility** | 1 | [Browse →](./accessibility/) |
 | 🏷️ **Nat-traversal** | 1 | [Browse →](./nat-traversal/) |
 | 🏷️ **Scaffolding** | 1 | [Browse →](./scaffolding/) |
 | 🏷️ **Cli** | 1 | [Browse →](./cli/) |

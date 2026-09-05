@@ -248,8 +248,8 @@
 | 238 | [glotzerlab/hoomd-blue](./glotzerlab-hoomd-blue.md) | ⭐ 444 | C++ | 59/100 |
 | 239 | [nicholas-fedor/watchtower](./nicholas-fedor-watchtower.md) | ⭐ 4.2k | Go | 59/100 |
 | 240 | [Sportarr/Sportarr](./sportarr-sportarr.md) | ⭐ 430 | C# | 59/100 |
-| 241 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
-| 242 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
+| 241 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
+| 242 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
 | 243 | [NVIDIA/k8s-device-plugin](./nvidia-k8s-device-plugin.md) | ⭐ 3.8k | Go | 59/100 |
 | 244 | [project-dalec/dalec](./project-dalec-dalec.md) | ⭐ 314 | Go | 59/100 |
 | 245 | [OWASP/wrongsecrets](./owasp-wrongsecrets.md) | ⭐ 1.4k | Java | 59/100 |
