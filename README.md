@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34539** |
-| **Categories** | **187** |
+| **Projects** | **34541** |
+| **Categories** | **188** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -69,6 +69,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Web-performance** | 2 | [Browse →](./web-performance/) |
 | 🏷️ **Pacs** | 2 | [Browse →](./pacs/) |
 | 🏷️ **Voice-input** | 2 | [Browse →](./voice-input/) |
 | 🏷️ **Voice-ai** | 2 | [Browse →](./voice-ai/) |
