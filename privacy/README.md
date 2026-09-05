@@ -2,7 +2,7 @@
 
 > 
 
-**9 projects** in this category.
+**10 projects** in this category.
 
 ## Projects
 
@@ -15,8 +15,9 @@
 | 5 | [MihaiMotoi/SifEdge](./mihaimotoi-sifedge.md) | ⭐ — | JavaScript | 39/100 |
 | 6 | [krgpi/fennec](./krgpi-fennec.md) | ⭐ 1 | Rust | 37/100 |
 | 7 | [devenquan/aisubtools](./devenquan-aisubtools.md) | ⭐ — | — | 28/100 |
-| 8 | [jasonmayes/file-proxy-cache](./jasonmayes-file-proxy-cache.md) | ⭐ — | — | 24/100 |
-| 9 | [litert-community/litert](./litert-community-litert.md) | ⭐ — | — | 24/100 |
+| 8 | [your-username/cryptly](./your-username-cryptly.md) | ⭐ — | — | 24/100 |
+| 9 | [jasonmayes/file-proxy-cache](./jasonmayes-file-proxy-cache.md) | ⭐ — | — | 24/100 |
+| 10 | [litert-community/litert](./litert-community-litert.md) | ⭐ — | — | 24/100 |
 
 ---
 
