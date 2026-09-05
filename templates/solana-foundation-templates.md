@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,61 +21,56 @@ _no topics_
 
 ## 🎯 Categories
 
-Templates · Crypto · Frontend · DevTools · anchor-framework · blockchain · cli · dapp · nextjs · nft · solana · spl-token
+Templates · Crypto
 
 ## 📝 Summary
 
 ### English
 
-solana-foundation/templates: solana-foundation/templates helps teams reuse working workflows and production presets instead of rebuilding them.. Use it for start from reusable workflows; standardize production recipes. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+solana-foundation/templates: . Use it for Templates, Crypto. 
 
 ### Русский
 
-solana-foundation/templates: open-source проект в категориях Templates, Crypto, Frontend, DevTools, anchor-framework, blockchain, cli, dapp, nextjs, nft, solana, spl-token. Практическое применение: start from reusable workflows; standardize production recipes. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+solana-foundation/templates: open-source проект в категориях Templates, Crypto. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-solana-foundation/templates：solana-foundation/templates helps teams reuse working workflows and production presets instead of rebuilding them.。适合用于start from reusable workflows、standardize production recipes。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+solana-foundation/templates：。适合用于Templates、Crypto。
 
 ## 🧭 Practical evaluation
 
-**Value:** solana-foundation/templates helps teams reuse working workflows and production presets instead of rebuilding them.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- start from reusable workflows
-- standardize production recipes
-- share repeatable setups with a team
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 106 GitHub stars
-- 95 forks
-- updated 2026-08-24
-- primary language: TypeScript
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 78/100 |
-| production | 63/100 |
-| outlook | 61/100 |
-| adoption | 45/100 |
-| categoryMatchCount | 1200/100 |
-| stars | 43/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| stars | 43/100 |
 | topics | 0/100 |
+| outlook | 61/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 45/100 |
+| production | 63/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -27,56 +27,50 @@ Backend
 
 ### English
 
-masterking32/MasterDnsVPN: masterking32/MasterDnsVPN helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+masterking32/MasterDnsVPN: . Use it for Backend. 
 
 ### Русский
 
-masterking32/MasterDnsVPN: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+masterking32/MasterDnsVPN: open-source проект в категориях Backend. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-masterking32/MasterDnsVPN：masterking32/MasterDnsVPN helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+masterking32/MasterDnsVPN：。适合用于Backend。
 
 ## 🧭 Practical evaluation
 
-**Value:** masterking32/MasterDnsVPN helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- Not enough metadata yet.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 6972 GitHub stars
-- 805 forks
-- updated 2026-09-05
-- primary language: Go
-- 12 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 86/100 |
-| integration | 62/100 |
-| production | 78/100 |
-| outlook | 83/100 |
-| adoption | 79/100 |
-| categoryMatchCount | 100/100 |
-| stars | 82/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 83/100 |
+| quality | 86/100 |
+| recency | 100/100 |
+| adoption | 79/100 |
+| production | 78/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

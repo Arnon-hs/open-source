@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 24/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-TomOnTime/gatus: TomOnTime/gatus may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+TomOnTime/gatus: . Use it for Misc. 
 
 ### Русский
 
@@ -35,42 +35,42 @@ TomOnTime/gatus: open-source проект в категориях Misc. Прак
 
 ### 中文
 
-TomOnTime/gatus：TomOnTime/gatus may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+TomOnTime/gatus：。适合用于Misc。
 
 ## 🧭 Practical evaluation
 
-**Value:** TomOnTime/gatus may be useful when its README and activity match a concrete workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
 - Not enough metadata yet.
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 16/100 |
-| integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 22/100 |
+| quality | 16/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 27/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

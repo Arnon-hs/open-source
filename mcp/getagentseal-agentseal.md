@@ -27,56 +27,50 @@ MCP · AI/ML · DevTools · Security
 
 ### English
 
-getagentseal/agentseal: getagentseal/agentseal helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+getagentseal/agentseal: . Use it for MCP, AI/ML, DevTools, Security. 
 
 ### Русский
 
-getagentseal/agentseal: open-source проект в категориях MCP, AI/ML, DevTools, Security. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+getagentseal/agentseal: open-source проект в категориях MCP, AI/ML, DevTools, Security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-getagentseal/agentseal：getagentseal/agentseal helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+getagentseal/agentseal：。适合用于MCP、AI/ML、DevTools、Security。
 
 ## 🧭 Practical evaluation
 
-**Value:** getagentseal/agentseal helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- Not enough metadata yet.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 363 GitHub stars
-- 66 forks
-- updated 2026-09-05
-- primary language: Python
-- 16 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 74/100 |
-| integration | 78/100 |
-| production | 76/100 |
-| outlook | 85/100 |
-| adoption | 52/100 |
-| categoryMatchCount | 400/100 |
-| stars | 55/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 85/100 |
+| quality | 74/100 |
+| recency | 100/100 |
+| adoption | 52/100 |
+| production | 76/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

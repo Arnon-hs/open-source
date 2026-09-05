@@ -27,56 +27,50 @@ AI/ML
 
 ### English
 
-Leonxlnx/unlazy: Leonxlnx/unlazy helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Leonxlnx/unlazy: . Use it for AI/ML. 
 
 ### Русский
 
-Leonxlnx/unlazy: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Leonxlnx/unlazy: open-source проект в категориях AI/ML. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Leonxlnx/unlazy：Leonxlnx/unlazy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Leonxlnx/unlazy：。适合用于AI/ML。
 
 ## 🧭 Practical evaluation
 
-**Value:** Leonxlnx/unlazy helps add AI capability without starting from a blank model stack.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 3060 GitHub stars
-- 199 forks
-- updated 2026-09-05
-- primary language: JavaScript
-- 7 topics
+- Not enough metadata yet.
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 80/100 |
-| integration | 30/100 |
-| production | 71/100 |
-| outlook | 80/100 |
-| adoption | 70/100 |
-| categoryMatchCount | 100/100 |
-| stars | 74/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| stars | 74/100 |
 | topics | 88/100 |
+| outlook | 80/100 |
+| quality | 80/100 |
+| recency | 100/100 |
+| adoption | 70/100 |
+| production | 71/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

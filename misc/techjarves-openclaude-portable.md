@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-techjarves/OpenClaude-Portable: techjarves/OpenClaude-Portable may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+techjarves/OpenClaude-Portable: . Use it for Misc. 
 
 ### Русский
 
@@ -35,45 +35,42 @@ techjarves/OpenClaude-Portable: open-source проект в категориях
 
 ### 中文
 
-techjarves/OpenClaude-Portable：techjarves/OpenClaude-Portable may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+techjarves/OpenClaude-Portable：。适合用于Misc。
 
 ## 🧭 Practical evaluation
 
-**Value:** techjarves/OpenClaude-Portable may be useful when its README and activity match a concrete workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1185 GitHub stars
-- 409 forks
-- updated 2026-09-05
-- primary language: HTML
+- Not enough metadata yet.
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 66/100 |
-| outlook | 70/100 |
-| adoption | 65/100 |
-| categoryMatchCount | 0/100 |
-| stars | 65/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| stars | 65/100 |
 | topics | 0/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 100/100 |
+| adoption | 65/100 |
+| production | 66/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

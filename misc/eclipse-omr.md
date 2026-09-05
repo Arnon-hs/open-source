@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 32/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,56 +21,56 @@ _no topics_
 
 ## 🎯 Categories
 
-Misc · compiler · eclipse-openj9 · garbage-collector · gc · hacktoberfest · interpreter · java · jit · jvm · runtime · virtual-machine
+Misc
 
 ## 📝 Summary
 
 ### English
 
-eclipse/omr: eclipse/omr may be useful when its README and activity match a concrete workflow.. Use it for Misc, compiler, eclipse-openj9, garbage-collector, gc, hacktoberfest, interpreter, java, jit, jvm, runtime, virtual-machine. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+eclipse/omr: . Use it for Misc. 
 
 ### Русский
 
-eclipse/omr: open-source проект в категориях Misc, compiler, eclipse-openj9, garbage-collector, gc, hacktoberfest, interpreter, java, jit, jvm, runtime, virtual-machine. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+eclipse/omr: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-eclipse/omr：eclipse/omr may be useful when its README and activity match a concrete workflow.。适合用于Misc、compiler、eclipse-openj9、garbage-collector、gc、hacktoberfest、interpreter、java、jit、jvm、runtime、virtual-machine。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+eclipse/omr：。适合用于Misc。
 
 ## 🧭 Practical evaluation
 
-**Value:** eclipse/omr may be useful when its README and activity match a concrete workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
 - Not enough metadata yet.
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 16/100 |
-| integration | 34/100 |
-| production | 29/100 |
-| outlook | 26/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 1100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 26/100 |
+| quality | 16/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 29/100 |
+| usefulness | 58/100 |
+| integration | 34/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

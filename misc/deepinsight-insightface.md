@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-deepinsight/insightface: deepinsight/insightface may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+deepinsight/insightface: . Use it for Misc. 
 
 ### Русский
 
@@ -35,46 +35,42 @@ deepinsight/insightface: open-source проект в категориях Misc. 
 
 ### 中文
 
-deepinsight/insightface：deepinsight/insightface may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+deepinsight/insightface：。适合用于Misc。
 
 ## 🧭 Practical evaluation
 
-**Value:** deepinsight/insightface may be useful when its README and activity match a concrete workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 29612 GitHub stars
-- 6080 forks
-- updated 2026-08-31
-- primary language: Python
-- 10 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 88/100 |
-| integration | 46/100 |
-| production | 72/100 |
-| outlook | 77/100 |
-| adoption | 95/100 |
-| categoryMatchCount | 0/100 |
-| stars | 95/100 |
 | forks | 95/100 |
-| recency | 80/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 77/100 |
+| quality | 88/100 |
+| recency | 80/100 |
+| adoption | 95/100 |
+| production | 72/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-09-01 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,54 +27,50 @@ DevTools
 
 ### English
 
-bunhine0452/k-saju: bunhine0452/k-saju helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bunhine0452/k-saju: . Use it for DevTools. 
 
 ### Русский
 
-bunhine0452/k-saju: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+bunhine0452/k-saju: open-source проект в категориях DevTools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-bunhine0452/k-saju：bunhine0452/k-saju helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bunhine0452/k-saju：。适合用于DevTools。
 
 ## 🧭 Practical evaluation
 
-**Value:** bunhine0452/k-saju helps engineers save time in daily development and review loops.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- Not enough metadata yet.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- updated 2026-09-01
-- primary language: TypeScript
-- 10 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 57/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

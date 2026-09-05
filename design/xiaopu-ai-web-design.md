@@ -27,7 +27,7 @@ Design
 
 ### English
 
-xiaopu-ai/web-design: xiaopu-ai/web-design may be useful when its README and activity match a concrete workflow.. Use it for Design. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xiaopu-ai/web-design: . Use it for Design. 
 
 ### Русский
 
@@ -35,46 +35,42 @@ xiaopu-ai/web-design: open-source проект в категориях Design. �
 
 ### 中文
 
-xiaopu-ai/web-design：xiaopu-ai/web-design may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xiaopu-ai/web-design：。适合用于Design。
 
 ## 🧭 Practical evaluation
 
-**Value:** xiaopu-ai/web-design may be useful when its README and activity match a concrete workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 744 GitHub stars
-- 75 forks
-- updated 2026-09-05
-- primary language: Python
-- 7 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 71/100 |
-| outlook | 73/100 |
-| adoption | 57/100 |
-| categoryMatchCount | 100/100 |
-| stars | 61/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| stars | 61/100 |
 | topics | 88/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 100/100 |
+| adoption | 57/100 |
+| production | 71/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

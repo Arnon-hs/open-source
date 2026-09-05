@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-31 |
+| 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,55 +27,50 @@ AI/ML · Frontend · DevTools
 
 ### English
 
-sapniyogi/ui-behavior-coverage: sapniyogi/ui-behavior-coverage helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sapniyogi/ui-behavior-coverage: . Use it for AI/ML, Frontend, DevTools. 
 
 ### Русский
 
-sapniyogi/ui-behavior-coverage: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+sapniyogi/ui-behavior-coverage: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-sapniyogi/ui-behavior-coverage：sapniyogi/ui-behavior-coverage helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sapniyogi/ui-behavior-coverage：。适合用于AI/ML、Frontend、DevTools。
 
 ## 🧭 Practical evaluation
 
-**Value:** sapniyogi/ui-behavior-coverage helps add AI capability without starting from a blank model stack.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1 GitHub stars
-- updated 2026-08-31
-- primary language: TypeScript
-- 15 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 58/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 300/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

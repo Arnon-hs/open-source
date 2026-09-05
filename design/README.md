@@ -33,13 +33,13 @@
 | 23 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 4.7k | TypeScript | 60/100 |
 | 24 | [nim-lang/Nim](./nim-lang-nim.md) | ⭐ 18.1k | Nim | 60/100 |
 | 25 | [langgptai/LangGPT](./langgptai-langgpt.md) | ⭐ 12.3k | Jupyter Notebook | 60/100 |
-| 26 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 59/100 |
-| 27 | [material-components/material-web](./material-components-material-web.md) | ⭐ 11.1k | SCSS | 59/100 |
-| 28 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 832 | TypeScript | 59/100 |
-| 29 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.2k | Java | 59/100 |
-| 30 | [nextcloud/server](./nextcloud-server.md) | ⭐ 35.9k | PHP | 59/100 |
-| 31 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 6.7k | PHP | 59/100 |
-| 32 | [xiaopu-ai/web-design](./xiaopu-ai-web-design.md) | ⭐ 744 | Python | 59/100 |
+| 26 | [xiaopu-ai/web-design](./xiaopu-ai-web-design.md) | ⭐ 744 | Python | 59/100 |
+| 27 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 59/100 |
+| 28 | [material-components/material-web](./material-components-material-web.md) | ⭐ 11.1k | SCSS | 59/100 |
+| 29 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 832 | TypeScript | 59/100 |
+| 30 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.2k | Java | 59/100 |
+| 31 | [nextcloud/server](./nextcloud-server.md) | ⭐ 35.9k | PHP | 59/100 |
+| 32 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 6.7k | PHP | 59/100 |
 | 33 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 670 | Vue | 58/100 |
 | 34 | [Ibexoft/awesome-startup-tools-list](./ibexoft-awesome-startup-tools-list.md) | ⭐ 1k | — | 58/100 |
 | 35 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 791 | C# | 58/100 |
