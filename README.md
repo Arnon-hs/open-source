@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34479** |
-| **Categories** | **172** |
+| **Projects** | **34480** |
+| **Categories** | **173** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -91,6 +91,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **New-tab** | 1 | [Browse →](./new-tab/) |
 | 🏷️ **Architecture-diagrams** | 1 | [Browse →](./architecture-diagrams/) |
 | 🏷️ **Reproducibility** | 1 | [Browse →](./reproducibility/) |
 | 🏷️ **Agent-orchestration** | 1 | [Browse →](./agent-orchestration/) |
