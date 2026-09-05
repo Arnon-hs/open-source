@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34522** |
-| **Categories** | **183** |
+| **Projects** | **34530** |
+| **Categories** | **186** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15684 | [Browse →](./misc/) |
+| 📦 **Misc** | 15686 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3307 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2555 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2195 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1348 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1246 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1247 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 898 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 757 | [Browse →](./crypto/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 346 | [Browse →](./observability/) |
 | 🏷️ **Video-editing** | 323 | [Browse →](./video-editing/) |
-| 💳 **Payments** | 306 | [Browse →](./payments/) |
+| 💳 **Payments** | 307 | [Browse →](./payments/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
 | ✨ **Design** | 170 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
@@ -69,6 +69,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Pacs** | 2 | [Browse →](./pacs/) |
 | 🏷️ **Voice-input** | 2 | [Browse →](./voice-input/) |
 | 🏷️ **Voice-ai** | 2 | [Browse →](./voice-ai/) |
 | 🏷️ **Video-production** | 2 | [Browse →](./video-production/) |
@@ -94,6 +95,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Security-scanning** | 1 | [Browse →](./security-scanning/) |
+| 🏷️ **Hardware-monitoring** | 1 | [Browse →](./hardware-monitoring/) |
 | 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |
 | 🏷️ **Terraform** | 1 | [Browse →](./terraform/) |
 | 🏷️ **Accessibility** | 1 | [Browse →](./accessibility/) |
