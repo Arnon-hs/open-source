@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-08-11 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Marketing
 
 ### English
 
-a353551071/dividend-math: . Use it for Marketing. 
+a353551071/dividend-math: a353551071/dividend-math may be useful when its README and activity match a concrete workflow.. Use it for Marketing. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
@@ -35,25 +35,27 @@ a353551071/dividend-math: open-source проект в категориях Marke
 
 ### 中文
 
-a353551071/dividend-math：。适合用于Marketing。
+a353551071/dividend-math：a353551071/dividend-math may be useful when its README and activity match a concrete workflow.。适合用于Marketing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** a353551071/dividend-math may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- updated 2026-08-11
+- primary language: TypeScript
+- 5 topics
 
-**Risks:** No metadata risk notes yet.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
@@ -70,7 +72,6 @@ a353551071/dividend-math：。适合用于Marketing。
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 100/100 |
 
 ---
 

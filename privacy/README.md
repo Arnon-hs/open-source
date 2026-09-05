@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [TomSchimansky/CustomTkinter](./tomschimansky-customtkinter.md) | ⭐ 13.5k | Python | 66/100 |
-| 2 | [huggingface/transformers.js](./huggingface-transformers.js.md) | ⭐ 16.3k | JavaScript | 61/100 |
-| 3 | [naptha/tesseract.js](./naptha-tesseract.js.md) | ⭐ 38.7k | JavaScript | 60/100 |
+| 2 | [naptha/tesseract.js](./naptha-tesseract.js.md) | ⭐ 38.7k | JavaScript | 60/100 |
+| 3 | [huggingface/transformers.js](./huggingface-transformers.js.md) | ⭐ 16.3k | JavaScript | 58/100 |
 | 4 | [alexcorvi/heic2any](./alexcorvi-heic2any.md) | ⭐ 883 | TypeScript | 54/100 |
 | 5 | [MihaiMotoi/SifEdge](./mihaimotoi-sifedge.md) | ⭐ — | JavaScript | 39/100 |
 | 6 | [krgpi/fennec](./krgpi-fennec.md) | ⭐ 1 | Rust | 37/100 |
