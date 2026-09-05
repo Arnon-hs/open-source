@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-08-23 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,33 +27,37 @@ Database · Security
 
 ### English
 
-zaengit/beaver: . Use it for Database, Security. 
+zaengit/beaver: zaengit/beaver helps teams persist, query, and move data with less custom plumbing.. Use it for manage persistence; speed up data access. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-zaengit/beaver: open-source проект в категориях Database, Security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+zaengit/beaver: open-source проект в категориях Database, Security. Практическое применение: manage persistence; speed up data access. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-zaengit/beaver：。适合用于Database、Security。
+zaengit/beaver：zaengit/beaver helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** zaengit/beaver helps teams persist, query, and move data with less custom plumbing.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- manage persistence
+- speed up data access
+- prototype database-backed apps
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 5 GitHub stars
+- updated 2026-08-23
+- primary language: TypeScript
 
-**Risks:** No metadata risk notes yet.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
@@ -70,7 +74,6 @@ zaengit/beaver：。适合用于Database、Security。
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 200/100 |
 
 ---
 
