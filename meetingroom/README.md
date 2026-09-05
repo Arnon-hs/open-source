@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pavlobu/deskreen](./pavlobu-deskreen.md) | ⭐ 21.4k | TypeScript | 67/100 |
+| 1 | [pavlobu/deskreen](./pavlobu-deskreen.md) | ⭐ 21.4k | TypeScript | 64/100 |
 
 ---
 
