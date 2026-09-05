@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rhasspy/piper](./rhasspy-piper.md) | ⭐ 11.3k | C++ | 57/100 |
+| 1 | [m-bain/whisperX](./m-bain-whisperx.md) | ⭐ 23.9k | Python | 66/100 |
+| 2 | [rhasspy/piper](./rhasspy-piper.md) | ⭐ 11.3k | C++ | 57/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34480** |
-| **Categories** | **173** |
+| **Projects** | **34486** |
+| **Categories** | **176** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15668 | [Browse →](./misc/) |
+| 📦 **Misc** | 15669 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2195 | [Browse →](./orchestration/) |
@@ -69,6 +69,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Voice-ai** | 2 | [Browse →](./voice-ai/) |
+| 🏷️ **Video-production** | 2 | [Browse →](./video-production/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Docker** | 2 | [Browse →](./docker/) |
@@ -91,6 +93,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Kafka** | 1 | [Browse →](./kafka/) |
+| 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
 | 🏷️ **New-tab** | 1 | [Browse →](./new-tab/) |
 | 🏷️ **Architecture-diagrams** | 1 | [Browse →](./architecture-diagrams/) |
 | 🏷️ **Reproducibility** | 1 | [Browse →](./reproducibility/) |
@@ -144,7 +148,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
 | 🏷️ **Uzbek** | 1 | [Browse →](./uzbek/) |
-| 🏷️ **Video-production** | 1 | [Browse →](./video-production/) |
 | 🏷️ **Circuitdesign** | 1 | [Browse →](./circuitdesign/) |
 | 🏷️ **Codex** | 1 | [Browse →](./codex/) |
 | 🏷️ **Roblox** | 1 | [Browse →](./roblox/) |
