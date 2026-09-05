@@ -540,8 +540,8 @@
 | 530 | [garagon/nanostack](./garagon-nanostack.md) | ⭐ 194 | Shell | 62/100 |
 | 531 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 532 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 533 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 534 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 533 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 534 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 535 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 536 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 537 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -561,8 +561,8 @@
 | 551 | [qwen-code-dev-bot/oh-my-cli](./qwen-code-dev-bot-oh-my-cli.md) | ⭐ 339 | TypeScript | 61/100 |
 | 552 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 61/100 |
 | 553 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 61/100 |
-| 554 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 61/100 |
-| 555 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 61/100 |
+| 554 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 61/100 |
+| 555 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 61/100 |
 | 556 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 61/100 |
 | 557 | [discordeno/discordeno](./discordeno-discordeno.md) | ⭐ 939 | TypeScript | 61/100 |
 | 558 | [tonylofgren/aurora-smart-home](./tonylofgren-aurora-smart-home.md) | ⭐ 97 | Python | 61/100 |
@@ -1086,8 +1086,8 @@
 | 1076 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 49/100 |
 | 1077 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 329 | — | 49/100 |
 | 1078 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 49/100 |
-| 1079 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
-| 1080 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1079 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1080 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
 | 1081 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 3.6k | Shell | 49/100 |
 | 1082 | [durable-workflow/sample-app](./durable-workflow-sample-app.md) | ⭐ — | — | 48/100 |
 | 1083 | [muzhi-888/ai-side-hustle-checker](./muzhi-888-ai-side-hustle-checker.md) | ⭐ — | — | 48/100 |
@@ -1238,8 +1238,8 @@
 | 1228 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 36/100 |
 | 1229 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 36/100 |
 | 1230 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 36/100 |
-| 1231 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
-| 1232 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
+| 1231 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
+| 1232 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
 | 1233 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 35/100 |
 | 1234 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 35/100 |
 | 1235 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 35/100 |
@@ -1267,8 +1267,8 @@
 | 1257 | [kristofers322/SvelteChatKit](./kristofers322-sveltechatkit.md) | ⭐ — | — | 31/100 |
 | 1258 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 31/100 |
 | 1259 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 31/100 |
-| 1260 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1261 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1260 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1261 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 
 ---
 

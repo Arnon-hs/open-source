@@ -538,8 +538,8 @@
 | 528 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 47/100 |
 | 529 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 46/100 |
 | 530 | [ministryofjustice/modernisation-platform](./ministryofjustice-modernisation-platform.md) | ⭐ 722 | HCL | 46/100 |
-| 531 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
-| 532 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 46/100 |
+| 531 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 46/100 |
+| 532 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
 | 533 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 600 | Perl | 46/100 |
 | 534 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 45/100 |
 | 535 | [isms-core-project/kubernetes-dashboard](./isms-core-project-kubernetes-dashboard.md) | ⭐ — | — | 45/100 |
@@ -559,8 +559,8 @@
 | 549 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 43/100 |
 | 550 | [chainwayxyz/citrea](./chainwayxyz-citrea.md) | ⭐ 291 | Rust | 43/100 |
 | 551 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
-| 552 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
-| 553 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 552 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 553 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
 | 554 | [curie-eng/curie](./curie-eng-curie.md) | ⭐ — | — | 42/100 |
 | 555 | [trydirect/stacker](./trydirect-stacker.md) | ⭐ — | — | 42/100 |
 | 556 | [shirozuki/claude-cli](./shirozuki-claude-cli.md) | ⭐ — | — | 42/100 |

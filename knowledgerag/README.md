@@ -325,8 +325,8 @@
 | 315 | [mamei16/LLM_Web_search](./mamei16-llm-web-search.md) | ⭐ 279 | Python | 56/100 |
 | 316 | [sysid/bkmr](./sysid-bkmr.md) | ⭐ 251 | Rust | 56/100 |
 | 317 | [jeffreylanters/react-unity-webgl](./jeffreylanters-react-unity-webgl.md) | ⭐ 1.9k | TypeScript | 56/100 |
-| 318 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
-| 319 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
+| 318 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
+| 319 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
 | 320 | [aws-samples/generative-ai-use-cases](./aws-samples-generative-ai-use-cases.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 321 | [tetherto/qvac](./tetherto-qvac.md) | ⭐ 163 | JavaScript | 56/100 |
 | 322 | [neo4j/neo4j-graphrag-python](./neo4j-neo4j-graphrag-python.md) | ⭐ 1.2k | Python | 56/100 |
@@ -471,8 +471,8 @@
 | 461 | [kenforthewin/atomic](./kenforthewin-atomic.md) | ⭐ 1.4k | Rust | 48/100 |
 | 462 | [ChuckHend/pg_vectorize](./chuckhend-pg-vectorize.md) | ⭐ 831 | Rust | 48/100 |
 | 463 | [crawlchat/crawlchat](./crawlchat-crawlchat.md) | ⭐ 119 | TypeScript | 48/100 |
-| 464 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
-| 465 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
+| 464 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
+| 465 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
 | 466 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
 | 467 | [software-mansion/react-native-executorch](./software-mansion-react-native-executorch.md) | ⭐ 1.5k | C++ | 48/100 |
 | 468 | [1661169091kiwi/Knote](./1661169091kiwi-knote.md) | ⭐ 37 | Vue | 47/100 |
@@ -531,8 +531,8 @@
 | 521 | [punnerud/Local_Knowledge_Graph](./punnerud-local-knowledge-graph.md) | ⭐ — | — | 38/100 |
 | 522 | [asanabrial/leteo](./asanabrial-leteo.md) | ⭐ — | — | 38/100 |
 | 523 | [cloudkj/lance-bundle](./cloudkj-lance-bundle.md) | ⭐ — | — | 38/100 |
-| 524 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 38/100 |
-| 525 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 38/100 |
+| 524 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 38/100 |
+| 525 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 38/100 |
 | 526 | [sentence-transformers/all-MiniLM-L12-v2](./sentence-transformers-all-minilm-l12-v2.md) | ⭐ 324 | sentence-transformers | 37/100 |
 | 527 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 37/100 |
 | 528 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 37/100 |
