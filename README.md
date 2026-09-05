@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34597** |
-| **Categories** | **36** |
+| **Projects** | **34603** |
+| **Categories** | **39** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12866 | [Browse →](./misc/) |
+| 📦 **Misc** | 12868 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4038 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2567 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2207 | [Browse →](./orchestration/) |
@@ -57,6 +57,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
+| 🏷️ **C** | 1 | [Browse →](./c/) |
 | 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |
 | 🏷️ **Ai** | 1 | [Browse →](./ai/) |
 

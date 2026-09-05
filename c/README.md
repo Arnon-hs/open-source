@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ishan5hrestha/SapanaEngine](./ishan5hrestha-sapanaengine.md) | ⭐ — | C++ | 39/100 |
+| 1 | [olafurjohannsson/kjarni](./olafurjohannsson-kjarni.md) | ⭐ 37 | Rust | 58/100 |
 
 ---
 
