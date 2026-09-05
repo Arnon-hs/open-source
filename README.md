@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34506** |
-| **Categories** | **182** |
+| **Projects** | **34514** |
+| **Categories** | **183** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15680 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
+| 📦 **Misc** | 15681 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3307 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2553 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2195 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1348 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1246 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 897 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 898 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 756 | [Browse →](./crypto/) |
-| 📱 **Mobile** | 716 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 717 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 613 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 584 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
@@ -43,7 +43,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 323 | [Browse →](./video-editing/) |
 | 💳 **Payments** | 306 | [Browse →](./payments/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
-| ✨ **Design** | 169 | [Browse →](./design/) |
+| ✨ **Design** | 170 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 77 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
@@ -69,6 +69,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Voice-input** | 2 | [Browse →](./voice-input/) |
 | 🏷️ **Voice-ai** | 2 | [Browse →](./voice-ai/) |
 | 🏷️ **Video-production** | 2 | [Browse →](./video-production/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
