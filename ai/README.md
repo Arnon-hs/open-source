@@ -2,7 +2,7 @@
 
 > 
 
-**16 projects** in this category.
+**17 projects** in this category.
 
 ## Projects
 
@@ -18,12 +18,13 @@
 | 8 | [chahe-dridi/vscode-agent-bell](./chahe-dridi-vscode-agent-bell.md) | ⭐ 3 | TypeScript | 47/100 |
 | 9 | [javimosch/fleet-cli](./javimosch-fleet-cli.md) | ⭐ — | Go | 47/100 |
 | 10 | [knightsky-cpu/col-workspace](./knightsky-cpu-col-workspace.md) | ⭐ 1 | Python | 44/100 |
-| 11 | [shareefmx/minomeet](./shareefmx-minomeet.md) | ⭐ 3 | TypeScript | 41/100 |
-| 12 | [razashariff/agentpass-opa](./razashariff-agentpass-opa.md) | ⭐ — | — | 28/100 |
-| 13 | [razashariff/agentmesh](./razashariff-agentmesh.md) | ⭐ — | — | 28/100 |
-| 14 | [javimosch/am-fleet](./javimosch-am-fleet.md) | ⭐ — | — | 24/100 |
-| 15 | [sponsors/conorbronsdon](./sponsors-conorbronsdon.md) | ⭐ — | — | 24/100 |
-| 16 | [erikrose/mutmut](./erikrose-mutmut.md) | ⭐ — | — | 24/100 |
+| 11 | [maisamabbas0323/doneehub](./maisamabbas0323-doneehub.md) | ⭐ — | TypeScript | 42/100 |
+| 12 | [shareefmx/minomeet](./shareefmx-minomeet.md) | ⭐ 3 | TypeScript | 41/100 |
+| 13 | [razashariff/agentpass-opa](./razashariff-agentpass-opa.md) | ⭐ — | — | 28/100 |
+| 14 | [razashariff/agentmesh](./razashariff-agentmesh.md) | ⭐ — | — | 28/100 |
+| 15 | [javimosch/am-fleet](./javimosch-am-fleet.md) | ⭐ — | — | 24/100 |
+| 16 | [sponsors/conorbronsdon](./sponsors-conorbronsdon.md) | ⭐ — | — | 24/100 |
+| 17 | [erikrose/mutmut](./erikrose-mutmut.md) | ⭐ — | — | 24/100 |
 
 ---
 
