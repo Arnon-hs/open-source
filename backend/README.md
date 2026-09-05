@@ -242,8 +242,8 @@
 | 232 | [BenLorantfy/nestjs-zod](./benlorantfy-nestjs-zod.md) | ⭐ 1.1k | TypeScript | 68/100 |
 | 233 | [DeepL/deepl-python](./deepl-deepl-python.md) | ⭐ 1.3k | Python | 68/100 |
 | 234 | [nwjs/nw.js](./nwjs-nw.js.md) | ⭐ 41.2k | JavaScript | 68/100 |
-| 235 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2k | Go | 68/100 |
-| 236 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 235 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 236 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2k | Go | 68/100 |
 | 237 | [DnsChanger/dnsChanger-desktop](./dnschanger-dnschanger-desktop.md) | ⭐ 1.3k | TypeScript | 68/100 |
 | 238 | [launchdarkly/rust-eventsource-client](./launchdarkly-rust-eventsource-client.md) | ⭐ 113 | Rust | 68/100 |
 | 239 | [sequelize/sequelize](./sequelize-sequelize.md) | ⭐ 30.4k | TypeScript | 68/100 |
