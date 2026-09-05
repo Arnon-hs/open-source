@@ -651,8 +651,8 @@
 | 641 | [mytechnotalent/Go-Hacking](./mytechnotalent-go-hacking.md) | ⭐ 309 | Go | 56/100 |
 | 642 | [rathena/rathena](./rathena-rathena.md) | ⭐ 3.4k | C++ | 56/100 |
 | 643 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
-| 644 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
-| 645 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 644 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 645 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
 | 646 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 647 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
 | 648 | [kysely-org/kysely](./kysely-org-kysely.md) | ⭐ 13.8k | TypeScript | 56/100 |
@@ -682,8 +682,8 @@
 | 672 | [Submitty/Submitty](./submitty-submitty.md) | ⭐ 773 | PHP | 55/100 |
 | 673 | [ActivityWatch/aw-server-rust](./activitywatch-aw-server-rust.md) | ⭐ 303 | Rust | 55/100 |
 | 674 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 55/100 |
-| 675 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
-| 676 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
+| 675 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
+| 676 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
 | 677 | [ndonfris/fish-lsp](./ndonfris-fish-lsp.md) | ⭐ 306 | TypeScript | 55/100 |
 | 678 | [owasp-noir/noir](./owasp-noir-noir.md) | ⭐ 1.2k | Crystal | 55/100 |
 | 679 | [napi-rs/node-rs](./napi-rs-node-rs.md) | ⭐ 1.4k | Rust | 55/100 |

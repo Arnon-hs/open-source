@@ -185,8 +185,8 @@
 | 175 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 113.8k | Rust | 56/100 |
 | 176 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.4k | Markdown | 56/100 |
 | 177 | [Milad-Akarie/smooth_page_indicator](./milad-akarie-smooth-page-indicator.md) | ⭐ 1.5k | Dart | 55/100 |
-| 178 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
-| 179 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
+| 178 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
+| 179 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
 | 180 | [maazm7d/TermuxHub](./maazm7d-termuxhub.md) | ⭐ 306 | Kotlin | 55/100 |
 | 181 | [mpv-android/mpv-android](./mpv-android-mpv-android.md) | ⭐ 3.5k | Kotlin | 55/100 |
 | 182 | [termux/termux-x11](./termux-termux-x11.md) | ⭐ 4.5k | C | 55/100 |
@@ -213,8 +213,8 @@
 | 203 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 234 | Kotlin | 55/100 |
 | 204 | [zhashut/goread](./zhashut-goread.md) | ⭐ 591 | TypeScript | 55/100 |
 | 205 | [LottieFiles/dotlottie-rs](./lottiefiles-dotlottie-rs.md) | ⭐ 268 | Rust | 55/100 |
-| 206 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 55/100 |
-| 207 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 55/100 |
+| 206 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 55/100 |
+| 207 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 55/100 |
 | 208 | [pascal-lab/Tai-e](./pascal-lab-tai-e.md) | ⭐ 1.8k | Java | 55/100 |
 | 209 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 800 | JavaScript | 55/100 |
 | 210 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13k | Swift | 55/100 |
