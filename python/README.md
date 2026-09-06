@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Akhouri-Anmol-Kumar/ACALCU-v3](./akhouri-anmol-kumar-acalcu-v3.md) | ⭐ 3 | — | 32/100 |
+| 1 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 2 | Python | 49/100 |
 
 ---
 
