@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kirodev/crew](./kirodev-crew.md) | ⭐ — | — | 24/100 |
+| 1 | [kiro-crew/app-sdk](./kiro-crew-app-sdk.md) | ⭐ — | — | 32/100 |
 
 ---
 
