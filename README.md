@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34677** |
-| **Categories** | **65** |
+| **Projects** | **34679** |
+| **Categories** | **66** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12893 | [Browse →](./misc/) |
+| 📦 **Misc** | 12894 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4040 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2570 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2208 | [Browse →](./orchestration/) |
@@ -61,6 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Bazi** | 1 | [Browse →](./bazi/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
 | 🏷️ **Claude-code** | 1 | [Browse →](./claude-code/) |
