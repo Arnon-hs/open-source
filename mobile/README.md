@@ -268,8 +268,8 @@
 | 258 | [IReaderorg/IReader](./ireaderorg-ireader.md) | ⭐ 859 | Kotlin | 56/100 |
 | 259 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 56/100 |
 | 260 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.1k | Kotlin | 56/100 |
-| 261 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
-| 262 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
+| 261 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
+| 262 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
 | 263 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 527 | Kotlin | 55/100 |
 | 264 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 55/100 |
 | 265 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |

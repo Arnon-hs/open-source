@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kunpeng-ai/codex](./kunpeng-ai-codex.md) | ⭐ — | — | 24/100 |
+| 1 | [hrinkar01/rewind](./hrinkar01-rewind.md) | ⭐ 1 | Python | 43/100 |
 
 ---
 

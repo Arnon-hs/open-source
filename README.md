@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34700** |
-| **Categories** | **72** |
+| **Projects** | **34706** |
+| **Categories** | **73** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12904 | [Browse →](./misc/) |
+| 📦 **Misc** | 12907 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4041 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2571 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2208 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2209 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1263 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
@@ -56,12 +56,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Ai** | 4 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 5 | [Browse →](./ai/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
 | 🏷️ **Ai-native-delivery** | 1 | [Browse →](./ai-native-delivery/) |
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
