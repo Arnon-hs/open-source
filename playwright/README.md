@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [microsoft/eslint-plugin-playwright](./microsoft-eslint-plugin-playwright.md) | ⭐ — | — | 27/100 |
+| 1 | [daijro/camoufox](./daijro-camoufox.md) | ⭐ 11.7k | C++ | 70/100 |
 
 ---
 

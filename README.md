@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34649** |
-| **Categories** | **57** |
+| **Projects** | **34653** |
+| **Categories** | **58** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12882 | [Browse →](./misc/) |
+| 📦 **Misc** | 12884 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4040 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2570 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2208 | [Browse →](./orchestration/) |
@@ -57,9 +57,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai** | 2 | [Browse →](./ai/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
 | 🏷️ **Ai-agents** | 1 | [Browse →](./ai-agents/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Excel** | 1 | [Browse →](./excel/) |
@@ -79,7 +81,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
 | 🏷️ **C** | 1 | [Browse →](./c/) |
 | 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |
-| 🏷️ **Ai** | 1 | [Browse →](./ai/) |
 
 ## Top projects by score
 
