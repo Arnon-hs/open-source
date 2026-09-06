@@ -190,8 +190,8 @@
 | 180 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.3k | Go | 62/100 |
 | 181 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 303 | Go | 62/100 |
 | 182 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 62/100 |
-| 183 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
-| 184 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 183 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 184 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
 | 185 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 2.7k | Go | 62/100 |
 | 186 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 15.6k | Shell | 62/100 |
 | 187 | [unikraft/kraftkit](./unikraft-kraftkit.md) | ⭐ 437 | Go | 61/100 |
@@ -211,8 +211,8 @@
 | 201 | [kube-rs/kopium](./kube-rs-kopium.md) | ⭐ 166 | Rust | 61/100 |
 | 202 | [stefanpejcic/OpenPanel](./stefanpejcic-openpanel.md) | ⭐ 687 | TypeScript | 61/100 |
 | 203 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 31.8k | Go | 61/100 |
-| 204 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
-| 205 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 204 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 205 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
 | 206 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 824 | JavaScript | 60/100 |
 | 207 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 31 | Nix | 60/100 |
 | 208 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 399 | Go | 60/100 |
@@ -404,8 +404,8 @@
 | 394 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
 | 395 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ — | — | 42/100 |
 | 396 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 397 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
-| 398 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 397 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 398 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
 | 399 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 400 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 401 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |
