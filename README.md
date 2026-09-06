@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34616** |
-| **Categories** | **47** |
+| **Projects** | **34623** |
+| **Categories** | **49** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12870 | [Browse →](./misc/) |
+| 📦 **Misc** | 12872 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4038 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2568 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2207 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2569 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2208 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1262 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
@@ -46,7 +46,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 319 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 312 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 311 | [Browse →](./payments/) |
-| 🏷️ **Productivity** | 298 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 299 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 260 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 238 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 187 | [Browse →](./trading/) |
@@ -60,6 +60,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Browser-ui** | 1 | [Browse →](./browser-ui/) |
+| 🏷️ **Self-hosting** | 1 | [Browse →](./self-hosting/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **Hooks** | 1 | [Browse →](./hooks/) |
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |

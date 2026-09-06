@@ -1,4 +1,4 @@
-# 🏷️ Self-hosting
+# 🏷️ Browser-ui
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [raghavan/BookSync](./raghavan-booksync.md) | ⭐ 1 | TypeScript | 43/100 |
+| 1 | [fullstorydev/grpcui](./fullstorydev-grpcui.md) | ⭐ 5.9k | JavaScript | 61/100 |
 
 ---
 
