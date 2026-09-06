@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34612** |
-| **Categories** | **44** |
+| **Projects** | **34616** |
+| **Categories** | **47** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12869 | [Browse →](./misc/) |
+| 📦 **Misc** | 12870 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4038 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2568 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2207 | [Browse →](./orchestration/) |
@@ -60,6 +60,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
+| 🏷️ **Hooks** | 1 | [Browse →](./hooks/) |
+| 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
 | 🏷️ **Rails** | 1 | [Browse →](./rails/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Qa** | 1 | [Browse →](./qa/) |
