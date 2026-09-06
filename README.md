@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34604** |
-| **Categories** | **39** |
+| **Projects** | **34607** |
+| **Categories** | **41** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12868 | [Browse →](./misc/) |
+| 📦 **Misc** | 12869 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4038 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2568 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2207 | [Browse →](./orchestration/) |
@@ -58,6 +58,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
+| 🏷️ **Qa** | 1 | [Browse →](./qa/) |
 | 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
 | 🏷️ **C** | 1 | [Browse →](./c/) |
 | 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |
