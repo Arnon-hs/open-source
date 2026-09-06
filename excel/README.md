@@ -1,4 +1,4 @@
-# 🏷️ Api
+# 🏷️ Excel
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wilnowilx/aetheriusxapi](./wilnowilx-aetheriusxapi.md) | ⭐ — | Python | 69/100 |
+| 1 | [kent-tokyo/elixcee](./kent-tokyo-elixcee.md) | ⭐ 1 | Rust | 44/100 |
 
 ---
 
