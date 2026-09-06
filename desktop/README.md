@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [techygeekshome/AuthGeek](./techygeekshome-authgeek.md) | ⭐ 1 | C# | 40/100 |
+| 1 | [techygeekshome/AuthGeek](./techygeekshome-authgeek.md) | ⭐ 1 | C# | 37/100 |
 
 ---
 
