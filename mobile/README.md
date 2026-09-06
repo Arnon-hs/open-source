@@ -105,8 +105,8 @@
 | 95 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.3k | Kotlin | 61/100 |
 | 96 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 627 | Kotlin | 61/100 |
 | 97 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 234 | Kotlin | 61/100 |
-| 98 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 61/100 |
-| 99 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 61/100 |
+| 98 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 61/100 |
+| 99 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 61/100 |
 | 100 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 800 | JavaScript | 61/100 |
 | 101 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13k | Swift | 61/100 |
 | 102 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.4k | Kotlin | 61/100 |
@@ -272,8 +272,8 @@
 | 262 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
 | 263 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 527 | Kotlin | 55/100 |
 | 264 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 55/100 |
-| 265 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
-| 266 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 582 | JavaScript | 55/100 |
+| 265 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 582 | JavaScript | 55/100 |
+| 266 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
 | 267 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 465 | Kotlin | 55/100 |
 | 268 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 269 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 2.1k | Kotlin | 55/100 |
