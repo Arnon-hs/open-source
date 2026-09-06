@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [apify/apify-client-python](./apify-apify-client-python.md) | ⭐ 97 | Python | 81/100 |
+| 1 | [apify/apify-client-python](./apify-apify-client-python.md) | ⭐ 97 | Python | 78/100 |
 
 ---
 
