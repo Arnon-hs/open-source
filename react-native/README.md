@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [software-mansion/react-native-svg](./software-mansion-react-native-svg.md) | ⭐ 8k | TypeScript | 57/100 |
-| 2 | [wuxudong/react-native-chart-kit](./wuxudong-react-native-chart-kit.md) | ⭐ — | — | 24/100 |
+| 1 | [typicode/husky](./typicode-husky.md) | ⭐ 35.3k | JavaScript | 62/100 |
+| 2 | [okonet/lint-staged](./okonet-lint-staged.md) | ⭐ — | — | 24/100 |
 
 ---
 
