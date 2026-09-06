@@ -190,8 +190,8 @@
 | 180 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.3k | Go | 62/100 |
 | 181 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 303 | Go | 62/100 |
 | 182 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 62/100 |
-| 183 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 184 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 183 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 184 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 185 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 2.7k | Go | 62/100 |
 | 186 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 15.6k | Shell | 62/100 |
 | 187 | [unikraft/kraftkit](./unikraft-kraftkit.md) | ⭐ 437 | Go | 61/100 |

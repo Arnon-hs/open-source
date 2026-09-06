@@ -1,4 +1,4 @@
-# 🏷️ Claude-code
+# 🏷️ Tiny-llm
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hishamkaram/claude-code-router](./hishamkaram-claude-code-router.md) | ⭐ 4 | Go | 54/100 |
+| 1 | [pspdev/pspdev](./pspdev-pspdev.md) | ⭐ 305 | Shell | 50/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34659** |
-| **Categories** | **62** |
+| **Projects** | **34667** |
+| **Categories** | **64** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12884 | [Browse →](./misc/) |
+| 📦 **Misc** | 12887 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4040 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2570 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2208 | [Browse →](./orchestration/) |
@@ -37,8 +37,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 558 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 551 | [Browse →](./cloud--storage/) |
+| 🏷️ **Database** | 460 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 459 | [Browse →](./devopsinfra/) |
-| 🏷️ **Database** | 459 | [Browse →](./database/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
 | 🔐 **Security** | 372 | [Browse →](./security/) |
 | 🏷️ **Communication** | 367 | [Browse →](./communication/) |
@@ -56,11 +56,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Ai** | 4 | [Browse →](./ai/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
-| 🏷️ **Ai** | 2 | [Browse →](./ai/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
+| 🏷️ **Claude-code** | 1 | [Browse →](./claude-code/) |
 | 🏷️ **Documentation** | 1 | [Browse →](./documentation/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
 | 🏷️ **Gpu** | 1 | [Browse →](./gpu/) |
