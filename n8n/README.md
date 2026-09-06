@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sevenedge-pl/n8n-reliability](./sevenedge-pl-n8n-reliability.md) | ⭐ — | Python | 36/100 |
+| 1 | [Pitambarmahato/hardnumbers-experiments](./pitambarmahato-hardnumbers-experiments.md) | ⭐ 1 | Python | 41/100 |
 
 ---
 

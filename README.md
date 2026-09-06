@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34630** |
-| **Categories** | **52** |
+| **Projects** | **34632** |
+| **Categories** | **53** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 850 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 604 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 605 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 597 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 557 | [Browse →](./mobile/) |
@@ -60,6 +60,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **N8n** | 1 | [Browse →](./n8n/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Local-seo** | 1 | [Browse →](./local-seo/) |
 | 🏷️ **Npm** | 1 | [Browse →](./npm/) |
