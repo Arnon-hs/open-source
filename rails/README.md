@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [globalize/globalize](./globalize-globalize.md) | ⭐ 2.2k | Ruby | 55/100 |
+| 1 | [globalize/globalize](./globalize-globalize.md) | ⭐ 2.2k | Ruby | 52/100 |
 
 ---
 
