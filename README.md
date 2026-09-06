@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34690** |
-| **Categories** | **69** |
+| **Projects** | **34694** |
+| **Categories** | **72** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12899 | [Browse →](./misc/) |
+| 📦 **Misc** | 12900 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4041 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2570 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2208 | [Browse →](./orchestration/) |
@@ -62,6 +62,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Ai-native-delivery** | 1 | [Browse →](./ai-native-delivery/) |
+| 🏷️ **Php** | 1 | [Browse →](./php/) |
+| 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
 | 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Macos** | 1 | [Browse →](./macos/) |
 | 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
