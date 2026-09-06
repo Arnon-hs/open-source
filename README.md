@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34653** |
-| **Categories** | **58** |
+| **Projects** | **34657** |
+| **Categories** | **61** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -44,7 +44,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Communication** | 367 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 330 | [Browse →](./video-editing/) |
 | 📊 **Data** | 319 | [Browse →](./data/) |
-| 🏷️ **Games--graphics** | 312 | [Browse →](./games--graphics/) |
+| 🏷️ **Games--graphics** | 313 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 311 | [Browse →](./payments/) |
 | 🏷️ **Productivity** | 299 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 260 | [Browse →](./observability/) |
@@ -61,6 +61,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
+| 🏷️ **Gpu** | 1 | [Browse →](./gpu/) |
+| 🏷️ **Deepseek-harness** | 1 | [Browse →](./deepseek-harness/) |
 | 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
 | 🏷️ **Ai-agents** | 1 | [Browse →](./ai-agents/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
