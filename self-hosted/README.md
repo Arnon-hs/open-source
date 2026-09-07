@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [deeploy-sh/deeploy](./deeploy-sh-deeploy.md) | ⭐ — | — | 24/100 |
+| 1 | [ottochapp/ottoch-demo](./ottochapp-ottoch-demo.md) | ⭐ — | Python | 50/100 |
 
 ---
 

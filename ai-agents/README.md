@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [alexar76/aicom](./alexar76-aicom.md) | ⭐ 6 | Python | 70/100 |
+| 1 | [sampleXbro/agentsmesh](./samplexbro-agentsmesh.md) | ⭐ 24 | TypeScript | 75/100 |
+| 2 | [alexar76/aicom](./alexar76-aicom.md) | ⭐ 6 | Python | 70/100 |
 
 ---
 
