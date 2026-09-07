@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34734** |
-| **Categories** | **76** |
+| **Projects** | **34735** |
+| **Categories** | **77** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Apify** | 1 | [Browse →](./apify/) |
 | 🏷️ **Vector-similarity** | 1 | [Browse →](./vector-similarity/) |
