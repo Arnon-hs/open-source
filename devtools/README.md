@@ -261,8 +261,8 @@
 | 251 | [antoniorodr/memo](./antoniorodr-memo.md) | ⭐ 256 | Python | 68/100 |
 | 252 | [mobile-next/mobilecli](./mobile-next-mobilecli.md) | ⭐ 179 | Go | 68/100 |
 | 253 | [bensadeh/circumflex](./bensadeh-circumflex.md) | ⭐ 2k | Go | 68/100 |
-| 254 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 4.5k | JavaScript | 68/100 |
-| 255 | [symfony/console](./symfony-console.md) | ⭐ 9.8k | PHP | 68/100 |
+| 254 | [symfony/console](./symfony-console.md) | ⭐ 9.8k | PHP | 68/100 |
+| 255 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 4.5k | JavaScript | 68/100 |
 | 256 | [projectdiscovery/katana](./projectdiscovery-katana.md) | ⭐ 16.7k | Go | 68/100 |
 | 257 | [web-infra-dev/rspack](./web-infra-dev-rspack.md) | ⭐ 12.7k | Rust | 68/100 |
 | 258 | [grafana/pyroscope](./grafana-pyroscope.md) | ⭐ 11.4k | Go | 68/100 |
@@ -456,8 +456,8 @@
 | 446 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 65/100 |
 | 447 | [olavolav/uniplot](./olavolav-uniplot.md) | ⭐ 455 | Python | 65/100 |
 | 448 | [BrianPugh/cyclopts](./brianpugh-cyclopts.md) | ⭐ 1.2k | Python | 65/100 |
-| 449 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 65/100 |
-| 450 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 65/100 |
+| 449 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 65/100 |
+| 450 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 65/100 |
 | 451 | [Canop/broot](./canop-broot.md) | ⭐ 12.7k | Rust | 65/100 |
 | 452 | [kainctl/isd](./kainctl-isd.md) | ⭐ 2.1k | Python | 65/100 |
 | 453 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 65/100 |
@@ -481,8 +481,8 @@
 | 471 | [Veirt/weathr](./veirt-weathr.md) | ⭐ 3k | Rust | 64/100 |
 | 472 | [rafaeltonholo/svg-to-compose](./rafaeltonholo-svg-to-compose.md) | ⭐ 214 | Kotlin | 64/100 |
 | 473 | [fluentassertions/fluentassertions](./fluentassertions-fluentassertions.md) | ⭐ 3.8k | C# | 64/100 |
-| 474 | [voska/qbo-cli](./voska-qbo-cli.md) | ⭐ 31 | Go | 64/100 |
-| 475 | [sohamw03/wifui](./sohamw03-wifui.md) | ⭐ 143 | Rust | 64/100 |
+| 474 | [sohamw03/wifui](./sohamw03-wifui.md) | ⭐ 143 | Rust | 64/100 |
+| 475 | [voska/qbo-cli](./voska-qbo-cli.md) | ⭐ 31 | Go | 64/100 |
 | 476 | [style-dictionary/style-dictionary](./style-dictionary-style-dictionary.md) | ⭐ 4.8k | JavaScript | 64/100 |
 | 477 | [stackryze/FreeDomains](./stackryze-freedomains.md) | ⭐ 9.2k | JavaScript | 64/100 |
 | 478 | [zap-studio/monorepo](./zap-studio-monorepo.md) | ⭐ 166 | TypeScript | 64/100 |
