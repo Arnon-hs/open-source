@@ -2,7 +2,7 @@
 
 > 
 
-**551 projects** in this category.
+**552 projects** in this category.
 
 ## Projects
 
@@ -469,8 +469,8 @@
 | 459 | [xingpingcn/enhanced-FaaS-in-China](./xingpingcn-enhanced-faas-in-china.md) | ⭐ 3k | Python | 52/100 |
 | 460 | [Azure/Azure-Sentinel](./azure-azure-sentinel.md) | ⭐ 5.8k | Python | 52/100 |
 | 461 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 434 | Go | 52/100 |
-| 462 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 463 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 83 | TypeScript | 51/100 |
+| 462 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 83 | TypeScript | 51/100 |
+| 463 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 464 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 31 | Python | 51/100 |
 | 465 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 466 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 310 | PowerShell | 51/100 |
@@ -488,8 +488,8 @@
 | 478 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 359 | Rust | 50/100 |
 | 479 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 134 | Rust | 50/100 |
 | 480 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 335 | Java | 50/100 |
-| 481 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 50/100 |
-| 482 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 50/100 |
+| 481 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 50/100 |
+| 482 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 50/100 |
 | 483 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 50/100 |
 | 484 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 589 | Rust | 50/100 |
 | 485 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 639 | Python | 50/100 |
@@ -530,35 +530,36 @@
 | 520 | [sthalatech/atropim-s3-storage](./sthalatech-atropim-s3-storage.md) | ⭐ — | — | 42/100 |
 | 521 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 42/100 |
 | 522 | [s3s-project/s3s](./s3s-project-s3s.md) | ⭐ 277 | Rust | 42/100 |
-| 523 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ — | — | 41/100 |
-| 524 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 333 | Bicep | 41/100 |
-| 525 | [earlgreyhot1701D/madame-minou](./earlgreyhot1701d-madame-minou.md) | ⭐ — | — | 39/100 |
-| 526 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 39/100 |
-| 527 | [crabbuild/crab](./crabbuild-crab.md) | ⭐ — | — | 38/100 |
-| 528 | [fregacmols/RotaryCell](./fregacmols-rotarycell.md) | ⭐ — | — | 38/100 |
-| 529 | [robertpitt/git3](./robertpitt-git3.md) | ⭐ — | — | 38/100 |
-| 530 | [danthegoodman1/waltier](./danthegoodman1-waltier.md) | ⭐ — | — | 38/100 |
-| 531 | [themew2/FreeRDP-to-Entra-Connected-Windows-Device](./themew2-freerdp-to-entra-connected-windows-device.md) | ⭐ — | — | 38/100 |
-| 532 | [tombaldwin/ebman](./tombaldwin-ebman.md) | ⭐ — | — | 38/100 |
-| 533 | [aws/dotnet-foss](./aws-dotnet-foss.md) | ⭐ — | — | 38/100 |
-| 534 | [melastmohican/rust-reterminal-e1002-examples](./melastmohican-rust-reterminal-e1002-examples.md) | ⭐ — | — | 38/100 |
-| 535 | [Carloscodix/qapla](./carloscodix-qapla.md) | ⭐ — | — | 38/100 |
-| 536 | [varveio/swath](./varveio-swath.md) | ⭐ — | — | 38/100 |
-| 537 | [harmansingh4163-ai/R-457](./harmansingh4163-ai-r-457.md) | ⭐ — | — | 38/100 |
-| 538 | [wladimiravila/esp32s3-distributed-ai](./wladimiravila-esp32s3-distributed-ai.md) | ⭐ — | — | 38/100 |
-| 539 | [wizenink/aethers3](./wizenink-aethers3.md) | ⭐ — | — | 38/100 |
-| 540 | [dbsystel/cdk-sops-secrets](./dbsystel-cdk-sops-secrets.md) | ⭐ — | — | 38/100 |
-| 541 | [michidk/shimesu](./michidk-shimesu.md) | ⭐ — | — | 38/100 |
-| 542 | [mickael-kerjean/fdrive](./mickael-kerjean-fdrive.md) | ⭐ — | — | 38/100 |
-| 543 | [wocdamjack/thepersonalsafe](./wocdamjack-thepersonalsafe.md) | ⭐ — | — | 38/100 |
-| 544 | [sonthonaxrk/demandmap](./sonthonaxrk-demandmap.md) | ⭐ — | — | 38/100 |
-| 545 | [Elpulgo/azdo](./elpulgo-azdo.md) | ⭐ — | — | 38/100 |
-| 546 | [RobinSrimal/irongate](./robinsrimal-irongate.md) | ⭐ — | — | 38/100 |
-| 547 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 38/100 |
-| 548 | [cgopalan/s3fileviewer](./cgopalan-s3fileviewer.md) | ⭐ — | — | 38/100 |
-| 549 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ — | — | 38/100 |
-| 550 | [floci-io/floci](./floci-io-floci.md) | ⭐ — | — | 38/100 |
-| 551 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 28/100 |
+| 523 | [mrhardlint/Hard-Chat](./mrhardlint-hard-chat.md) | ⭐ — | — | 41/100 |
+| 524 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ — | — | 41/100 |
+| 525 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 333 | Bicep | 41/100 |
+| 526 | [earlgreyhot1701D/madame-minou](./earlgreyhot1701d-madame-minou.md) | ⭐ — | — | 39/100 |
+| 527 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 39/100 |
+| 528 | [crabbuild/crab](./crabbuild-crab.md) | ⭐ — | — | 38/100 |
+| 529 | [fregacmols/RotaryCell](./fregacmols-rotarycell.md) | ⭐ — | — | 38/100 |
+| 530 | [robertpitt/git3](./robertpitt-git3.md) | ⭐ — | — | 38/100 |
+| 531 | [danthegoodman1/waltier](./danthegoodman1-waltier.md) | ⭐ — | — | 38/100 |
+| 532 | [themew2/FreeRDP-to-Entra-Connected-Windows-Device](./themew2-freerdp-to-entra-connected-windows-device.md) | ⭐ — | — | 38/100 |
+| 533 | [tombaldwin/ebman](./tombaldwin-ebman.md) | ⭐ — | — | 38/100 |
+| 534 | [aws/dotnet-foss](./aws-dotnet-foss.md) | ⭐ — | — | 38/100 |
+| 535 | [melastmohican/rust-reterminal-e1002-examples](./melastmohican-rust-reterminal-e1002-examples.md) | ⭐ — | — | 38/100 |
+| 536 | [Carloscodix/qapla](./carloscodix-qapla.md) | ⭐ — | — | 38/100 |
+| 537 | [varveio/swath](./varveio-swath.md) | ⭐ — | — | 38/100 |
+| 538 | [harmansingh4163-ai/R-457](./harmansingh4163-ai-r-457.md) | ⭐ — | — | 38/100 |
+| 539 | [wladimiravila/esp32s3-distributed-ai](./wladimiravila-esp32s3-distributed-ai.md) | ⭐ — | — | 38/100 |
+| 540 | [wizenink/aethers3](./wizenink-aethers3.md) | ⭐ — | — | 38/100 |
+| 541 | [dbsystel/cdk-sops-secrets](./dbsystel-cdk-sops-secrets.md) | ⭐ — | — | 38/100 |
+| 542 | [michidk/shimesu](./michidk-shimesu.md) | ⭐ — | — | 38/100 |
+| 543 | [mickael-kerjean/fdrive](./mickael-kerjean-fdrive.md) | ⭐ — | — | 38/100 |
+| 544 | [wocdamjack/thepersonalsafe](./wocdamjack-thepersonalsafe.md) | ⭐ — | — | 38/100 |
+| 545 | [sonthonaxrk/demandmap](./sonthonaxrk-demandmap.md) | ⭐ — | — | 38/100 |
+| 546 | [Elpulgo/azdo](./elpulgo-azdo.md) | ⭐ — | — | 38/100 |
+| 547 | [RobinSrimal/irongate](./robinsrimal-irongate.md) | ⭐ — | — | 38/100 |
+| 548 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 38/100 |
+| 549 | [cgopalan/s3fileviewer](./cgopalan-s3fileviewer.md) | ⭐ — | — | 38/100 |
+| 550 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ — | — | 38/100 |
+| 551 | [floci-io/floci](./floci-io-floci.md) | ⭐ — | — | 38/100 |
+| 552 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 28/100 |
 
 ---
 
