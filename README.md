@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34728** |
-| **Categories** | **75** |
+| **Projects** | **34732** |
+| **Categories** | **76** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12917 | [Browse →](./misc/) |
+| 📦 **Misc** | 12919 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4043 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2573 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2574 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2209 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1263 | [Browse →](./automation/) |
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Apify** | 1 | [Browse →](./apify/) |
 | 🏷️ **Vector-similarity** | 1 | [Browse →](./vector-similarity/) |
 | 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
