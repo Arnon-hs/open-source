@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34770** |
-| **Categories** | **84** |
+| **Projects** | **34772** |
+| **Categories** | **85** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12936 | [Browse →](./misc/) |
+| 📦 **Misc** | 12937 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4044 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2575 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2210 | [Browse →](./orchestration/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Blockchain** | 1 | [Browse →](./blockchain/) |
 | 🏷️ **Escrow** | 1 | [Browse →](./escrow/) |
 | 🏷️ **Peertopeer** | 1 | [Browse →](./peertopeer/) |
 | 🏷️ **Llm** | 1 | [Browse →](./llm/) |
