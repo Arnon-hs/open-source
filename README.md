@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34789** |
+| **Projects** | **34795** |
 | **Categories** | **91** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12942 | [Browse →](./misc/) |
+| 📦 **Misc** | 12945 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4045 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2575 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2211 | [Browse →](./orchestration/) |
@@ -32,12 +32,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 850 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 606 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 607 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 599 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 558 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 552 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 464 | [Browse →](./database/) |
+| 🏷️ **Database** | 465 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 460 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
 | 🔐 **Security** | 372 | [Browse →](./security/) |
@@ -47,7 +47,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Games--graphics** | 313 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 311 | [Browse →](./payments/) |
 | 🏷️ **Productivity** | 299 | [Browse →](./productivity/) |
-| 🏷️ **Observability** | 260 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 261 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 238 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 187 | [Browse →](./trading/) |
 | ✨ **Design** | 145 | [Browse →](./design/) |
