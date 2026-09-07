@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34750** |
-| **Categories** | **78** |
+| **Projects** | **34752** |
+| **Categories** | **79** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -57,13 +57,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Ai** | 6 | [Browse →](./ai/) |
+| 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
 | 🏷️ **Self-hosting** | 2 | [Browse →](./self-hosting/) |
-| 🏷️ **Claude-code** | 2 | [Browse →](./claude-code/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Google-tasks** | 1 | [Browse →](./google-tasks/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Go** | 1 | [Browse →](./go/) |
