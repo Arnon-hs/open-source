@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34746** |
+| **Projects** | **34748** |
 | **Categories** | **78** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -56,8 +56,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Ai** | 5 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 6 | [Browse →](./ai/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Self-hosting** | 2 | [Browse →](./self-hosting/) |
 | 🏷️ **Claude-code** | 2 | [Browse →](./claude-code/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
@@ -91,7 +92,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Local-seo** | 1 | [Browse →](./local-seo/) |
 | 🏷️ **Browser-ui** | 1 | [Browse →](./browser-ui/) |
-| 🏷️ **Self-hosting** | 1 | [Browse →](./self-hosting/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **Hooks** | 1 | [Browse →](./hooks/) |
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
