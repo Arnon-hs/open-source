@@ -1,32 +1,83 @@
 # Shpigford/chops
 
-[![Stars](https://img.shields.io/github/stars/Shpigford/chops?style=flat-square&color=yellow)](https://github.com/Shpigford/chops/stargazers) [![Forks](https://img.shields.io/github/forks/Shpigford/chops?style=flat-square&color=blue)](https://github.com/Shpigford/chops/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shpigford/chops?style=flat-square&color=yellow)](https://github.com/Shpigford/chops/stargazers) [![Forks](https://img.shields.io/github/forks/Shpigford/chops?style=flat-square&color=blue)](https://github.com/Shpigford/chops/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
-> Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
+> Discovers, organizes, and edits coding agent skills for Claude Code, Cursor, Codex, Windsurf, and Amp.  https://t.co/YJoAyAcqN2 https://t.co/5bfotSxSQ4 https://github.com/Shpigford/chops
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 78 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 104 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `macos` `skills` `swiftui`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
-Chops is an open-source macOS application designed to streamline AI agent management. It provides a centralized platform to browse, edit, and manage skills across various AI services, including Claude Code, Cursor, Codex, Windsurf, and Amp. This tool aims to help users organize and orchestrate their AI agent skills for efficient and effective usage.
+### English
+
+Shpigford/chops: Shpigford/chops helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+Shpigford/chops: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+Shpigford/chops：Shpigford/chops helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** Shpigford/chops helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1569 GitHub stars
+- 104 forks
+- updated 2026-09-05
+- primary language: Swift
+- 5 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 73/100 |
+| integration | 30/100 |
+| production | 69/100 |
+| outlook | 76/100 |
+| adoption | 63/100 |
+| categoryMatchCount | 200/100 |
+| stars | 68/100 |
+| forks | 51/100 |
+| recency | 100/100 |
+| topics | 63/100 |
+| sourceTrust | 70/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/Shpigford/chops) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-09-07 · [View on GitHub](https://github.com/Shpigford/chops) · [← Back to Orchestration](./README.md)</sub>

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34780** |
-| **Categories** | **87** |
+| **Projects** | **34789** |
+| **Categories** | **91** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12939 | [Browse →](./misc/) |
+| 📦 **Misc** | 12942 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4045 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2575 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2210 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2211 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1263 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 558 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 552 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 463 | [Browse →](./database/) |
+| 🏷️ **Database** | 464 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 460 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
 | 🔐 **Security** | 372 | [Browse →](./security/) |
@@ -68,6 +68,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Expense-management** | 1 | [Browse →](./expense-management/) |
+| 🏷️ **Bot-protection** | 1 | [Browse →](./bot-protection/) |
+| 🏷️ **Budgeting** | 1 | [Browse →](./budgeting/) |
+| 🏷️ **Vectorization** | 1 | [Browse →](./vectorization/) |
 | 🏷️ **Ttrpg** | 1 | [Browse →](./ttrpg/) |
 | 🏷️ **Blockchain** | 1 | [Browse →](./blockchain/) |
 | 🏷️ **Escrow** | 1 | [Browse →](./escrow/) |
