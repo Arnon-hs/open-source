@@ -1,6 +1,6 @@
 # gitpython-developers/GitPython
 
-[![Stars](https://img.shields.io/github/stars/gitpython-developers/GitPython?style=flat-square&color=yellow)](https://github.com/gitpython-developers/GitPython/stargazers) [![Forks](https://img.shields.io/github/forks/gitpython-developers/GitPython?style=flat-square&color=blue)](https://github.com/gitpython-developers/GitPython/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitpython-developers/GitPython?style=flat-square&color=yellow)](https://github.com/gitpython-developers/GitPython/stargazers) [![Forks](https://img.shields.io/github/forks/gitpython-developers/GitPython?style=flat-square&color=blue)](https://github.com/gitpython-developers/GitPython/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > GitPython is a python library used to interact with Git repositories.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 993 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-04 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ gitpython-developers/GitPython：gitpython-developers/GitPython may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 78/100 |
 | categoryMatchCount | 700/100 |
 | stars | 79/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 
