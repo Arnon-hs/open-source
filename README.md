@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34795** |
-| **Categories** | **91** |
+| **Projects** | **34807** |
+| **Categories** | **92** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,22 +23,22 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12945 | [Browse →](./misc/) |
+| 📦 **Misc** | 12950 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4045 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2575 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2211 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2576 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2212 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1263 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 850 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 607 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 608 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 599 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 558 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 552 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 465 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 460 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 461 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
 | 🔐 **Security** | 372 | [Browse →](./security/) |
 | 🏷️ **Communication** | 367 | [Browse →](./communication/) |
@@ -50,7 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 261 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 238 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 187 | [Browse →](./trading/) |
-| ✨ **Design** | 145 | [Browse →](./design/) |
+| ✨ **Design** | 146 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 77 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
@@ -60,6 +60,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Llm** | 2 | [Browse →](./llm/) |
 | 🏷️ **Ai-agent** | 2 | [Browse →](./ai-agent/) |
 | 🏷️ **Python** | 2 | [Browse →](./python/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
@@ -68,6 +69,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Astro** | 1 | [Browse →](./astro/) |
 | 🏷️ **Expense-management** | 1 | [Browse →](./expense-management/) |
 | 🏷️ **Bot-protection** | 1 | [Browse →](./bot-protection/) |
 | 🏷️ **Budgeting** | 1 | [Browse →](./budgeting/) |
@@ -76,7 +78,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Blockchain** | 1 | [Browse →](./blockchain/) |
 | 🏷️ **Escrow** | 1 | [Browse →](./escrow/) |
 | 🏷️ **Peertopeer** | 1 | [Browse →](./peertopeer/) |
-| 🏷️ **Llm** | 1 | [Browse →](./llm/) |
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Google-tasks** | 1 | [Browse →](./google-tasks/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
