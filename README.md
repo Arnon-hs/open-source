@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34772** |
-| **Categories** | **85** |
+| **Projects** | **34775** |
+| **Categories** | **86** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -60,6 +60,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-agent** | 2 | [Browse →](./ai-agent/) |
+| 🏷️ **Python** | 2 | [Browse →](./python/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Self-hosting** | 2 | [Browse →](./self-hosting/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
@@ -80,7 +82,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-native-delivery** | 1 | [Browse →](./ai-native-delivery/) |
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
-| 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Macos** | 1 | [Browse →](./macos/) |
 | 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
 | 🏷️ **Bazi** | 1 | [Browse →](./bazi/) |

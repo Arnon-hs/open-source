@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 2 | Python | 49/100 |
+| 1 | [VerityOfficial/AeroCord](./verityofficial-aerocord.md) | ⭐ — | Python | 49/100 |
+| 2 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 2 | Python | 49/100 |
 
 ---
 
