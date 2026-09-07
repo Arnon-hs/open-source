@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CBLU2005/us-govdata-mcp](./cblu2005-us-govdata-mcp.md) | ⭐ — | TypeScript | 68/100 |
+| 1 | [solutionssmart/actorwebapp](./solutionssmart-actorwebapp.md) | ⭐ — | — | 24/100 |
 
 ---
 
