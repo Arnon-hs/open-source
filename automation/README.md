@@ -550,8 +550,8 @@
 | 540 | [gradle/gradle](./gradle-gradle.md) | ⭐ 18.5k | Groovy | 66/100 |
 | 541 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
 | 542 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 65/100 |
-| 543 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
-| 544 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 543 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 544 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
 | 545 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 546 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 547 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -692,8 +692,8 @@
 | 682 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.3k | Go | 63/100 |
 | 683 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 63/100 |
 | 684 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 63/100 |
-| 685 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
-| 686 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
+| 685 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
+| 686 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
 | 687 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 63/100 |
 | 688 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 63/100 |
 | 689 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 379 | Nushell | 63/100 |
@@ -1121,8 +1121,8 @@
 | 1111 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 49/100 |
 | 1112 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 329 | — | 49/100 |
 | 1113 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 49/100 |
-| 1114 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
-| 1115 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1114 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1115 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
 | 1116 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 3.6k | Shell | 49/100 |
 | 1117 | [muzhi-888/ai-side-hustle-checker](./muzhi-888-ai-side-hustle-checker.md) | ⭐ — | — | 48/100 |
 | 1118 | [Felixwang007/github-daily-trending](./felixwang007-github-daily-trending.md) | ⭐ — | Python | 48/100 |
@@ -1255,8 +1255,8 @@
 | 1245 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 38/100 |
 | 1246 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1247 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1248 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
-| 1249 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
+| 1248 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
+| 1249 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
 | 1250 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 38/100 |
 | 1251 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 38/100 |
 | 1252 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 38/100 |
