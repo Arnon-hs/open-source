@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34827** |
-| **Categories** | **96** |
+| **Projects** | **34834** |
+| **Categories** | **97** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12958 | [Browse →](./misc/) |
+| 📦 **Misc** | 12962 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4045 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2576 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2212 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2213 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1263 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
@@ -57,6 +57,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 7 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Llm** | 3 | [Browse →](./llm/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
@@ -66,11 +67,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 2 | [Browse →](./ai-agents/) |
 | 🏷️ **Ai-agent** | 2 | [Browse →](./ai-agent/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
-| 🏷️ **Self-hosting** | 2 | [Browse →](./self-hosting/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Webhooks** | 1 | [Browse →](./webhooks/) |
 | 🏷️ **Ide** | 1 | [Browse →](./ide/) |
 | 🏷️ **Quantum-computing** | 1 | [Browse →](./quantum-computing/) |
 | 🏷️ **Rpa** | 1 | [Browse →](./rpa/) |
