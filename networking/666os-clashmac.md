@@ -1,6 +1,6 @@
 # 666OS/ClashMac
 
-[![Stars](https://img.shields.io/github/stars/666OS/ClashMac?style=flat-square&color=yellow)](https://github.com/666OS/ClashMac/stargazers) [![Forks](https://img.shields.io/github/forks/666OS/ClashMac?style=flat-square&color=blue)](https://github.com/666OS/ClashMac/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/666OS/ClashMac?style=flat-square&color=yellow)](https://github.com/666OS/ClashMac/stargazers) [![Forks](https://img.shields.io/github/forks/666OS/ClashMac?style=flat-square&color=blue)](https://github.com/666OS/ClashMac/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Maps active proxy traffic across the globe in real time and monitors per-app bandwidth usage.  https://t.co/oVReRcVUH5 https://t.co/j3A0Jl4nWy https://github.com/666OS/ClashMac
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Networking
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 81/100 |
+| production | 65/100 |
+| outlook | 74/100 |
 | adoption | 75/100 |
 | categoryMatchCount | 100/100 |
 | stars | 81/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

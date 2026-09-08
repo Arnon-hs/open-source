@@ -2,7 +2,7 @@
 
 > 
 
-**4 projects** in this category.
+**5 projects** in this category.
 
 ## Projects
 
@@ -11,7 +11,8 @@
 | 1 | [VerityOfficial/AeroCord](./verityofficial-aerocord.md) | ⭐ — | Python | 49/100 |
 | 2 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 2 | Python | 49/100 |
 | 3 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
-| 4 | [KhanZia/AI-Job-Search](./khanzia-ai-job-search.md) | ⭐ — | — | 24/100 |
+| 4 | [ethereum/x402-py](./ethereum-x402-py.md) | ⭐ — | — | 24/100 |
+| 5 | [KhanZia/AI-Job-Search](./khanzia-ai-job-search.md) | ⭐ — | — | 24/100 |
 
 ---
 
