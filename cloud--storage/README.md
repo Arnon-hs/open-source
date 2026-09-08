@@ -327,8 +327,8 @@
 | 317 | [micrometer-metrics/micrometer](./micrometer-metrics-micrometer.md) | ⭐ 4.8k | Java | 59/100 |
 | 318 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 10.4k | Go | 59/100 |
 | 319 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 24.8k | C | 59/100 |
-| 320 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 177 | Go | 58/100 |
-| 321 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 320 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 321 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 177 | Go | 58/100 |
 | 322 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 323 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1k | Go | 58/100 |
 | 324 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -469,8 +469,8 @@
 | 459 | [xingpingcn/enhanced-FaaS-in-China](./xingpingcn-enhanced-faas-in-china.md) | ⭐ 3k | Python | 52/100 |
 | 460 | [Azure/Azure-Sentinel](./azure-azure-sentinel.md) | ⭐ 5.8k | Python | 52/100 |
 | 461 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 434 | Go | 52/100 |
-| 462 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 463 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 83 | TypeScript | 51/100 |
+| 462 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 83 | TypeScript | 51/100 |
+| 463 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 464 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 31 | Python | 51/100 |
 | 465 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 466 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 310 | PowerShell | 51/100 |
@@ -509,8 +509,8 @@
 | 499 | [murerkinn/bookshelf](./murerkinn-bookshelf.md) | ⭐ — | — | 46/100 |
 | 500 | [ministryofjustice/modernisation-platform](./ministryofjustice-modernisation-platform.md) | ⭐ 722 | HCL | 46/100 |
 | 501 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
-| 502 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 503 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 502 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 503 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 504 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ — | — | 45/100 |
 | 505 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ — | — | 45/100 |
 | 506 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |
