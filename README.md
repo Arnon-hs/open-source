@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34950** |
+| **Projects** | **34955** |
 | **Categories** | **115** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13024 | [Browse →](./misc/) |
+| 📦 **Misc** | 13027 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4051 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2583 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2213 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 566 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 559 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 552 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 465 | [Browse →](./database/) |
+| 🏷️ **Database** | 466 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 462 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
 | 🔐 **Security** | 375 | [Browse →](./security/) |
@@ -59,6 +59,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
+| 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Llm** | 3 | [Browse →](./llm/) |
@@ -70,7 +71,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
-| 🏷️ **Escrow** | 2 | [Browse →](./escrow/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |

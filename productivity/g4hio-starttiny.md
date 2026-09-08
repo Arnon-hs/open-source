@@ -1,6 +1,6 @@
 # g4hio/starttiny
 
-[![Stars](https://img.shields.io/github/stars/g4hio/starttiny?style=flat-square&color=yellow)](https://github.com/g4hio/starttiny/stargazers) [![Forks](https://img.shields.io/github/forks/g4hio/starttiny?style=flat-square&color=blue)](https://github.com/g4hio/starttiny/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/g4hio/starttiny?style=flat-square&color=yellow)](https://github.com/g4hio/starttiny/stargazers) [![Forks](https://img.shields.io/github/forks/g4hio/starttiny?style=flat-square&color=blue)](https://github.com/g4hio/starttiny/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A free, private, open-source anti-procrastination tool with flexible focus timers, tasks, deadlines, sorting, and a brain-dump notepad.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ productivity · anti-procrastination · local-first · open-source · timer
 
 ### English
 
-g4hio/starttiny: g4hio/starttiny may be useful when its README and activity match a concrete workflow.. Use it for productivity, anti-procrastination, local-first, open-source, timer. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+g4hio/starttiny: g4hio/starttiny may be useful when its README and activity match a concrete workflow.. Use it for productivity, anti-procrastination, local-first, open-source, timer. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-g4hio/starttiny: open-source проект в категориях productivity, anti-procrastination, local-first, open-source, timer. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+g4hio/starttiny: open-source проект в категориях productivity, anti-procrastination, local-first, open-source, timer. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-g4hio/starttiny：g4hio/starttiny may be useful when its README and activity match a concrete workflow.。适合用于productivity、anti-procrastination、local-first、open-source、timer。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+g4hio/starttiny：g4hio/starttiny may be useful when its README and activity match a concrete workflow.。适合用于productivity、anti-procrastination、local-first、open-source、timer。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ g4hio/starttiny：g4hio/starttiny may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ g4hio/starttiny：g4hio/starttiny may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
