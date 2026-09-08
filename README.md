@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34885** |
-| **Categories** | **107** |
+| **Projects** | **34902** |
+| **Categories** | **110** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 12991 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4045 | [Browse →](./aiml/) |
+| 📦 **Misc** | 12996 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4049 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2581 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2213 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
@@ -57,6 +57,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 7 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Llm** | 3 | [Browse →](./llm/) |
@@ -64,15 +66,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
-| 🏷️ **Aws** | 2 | [Browse →](./aws/) |
+| 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
 | 🏷️ **Escrow** | 2 | [Browse →](./escrow/) |
-| 🏷️ **Ai-agents** | 2 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Embedded** | 1 | [Browse →](./embedded/) |
+| 🏷️ **Ai-contributions** | 1 | [Browse →](./ai-contributions/) |
 | 🏷️ **Dex** | 1 | [Browse →](./dex/) |
 | 🏷️ **Personal-website** | 1 | [Browse →](./personal-website/) |
 | 🏷️ **Serverless** | 1 | [Browse →](./serverless/) |
