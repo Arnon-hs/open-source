@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34978** |
+| **Projects** | **34981** |
 | **Categories** | **116** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13039 | [Browse →](./misc/) |
+| 📦 **Misc** | 13041 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4051 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2584 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2213 | [Browse →](./orchestration/) |
@@ -57,10 +57,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 9 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
-| 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Llm** | 3 | [Browse →](./llm/) |
