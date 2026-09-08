@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [typicode/husky](./typicode-husky.md) | ⭐ 35.3k | JavaScript | 62/100 |
+| 1 | [typicode/husky](./typicode-husky.md) | ⭐ 35.3k | JavaScript | 59/100 |
 | 2 | [okonet/lint-staged](./okonet-lint-staged.md) | ⭐ — | — | 24/100 |
 
 ---
