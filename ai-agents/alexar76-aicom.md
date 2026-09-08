@@ -1,6 +1,6 @@
 # alexar76/aicom
 
-[![Stars](https://img.shields.io/github/stars/alexar76/aicom?style=flat-square&color=yellow)](https://github.com/alexar76/aicom/stargazers) [![Forks](https://img.shields.io/github/forks/alexar76/aicom?style=flat-square&color=blue)](https://github.com/alexar76/aicom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexar76/aicom?style=flat-square&color=yellow)](https://github.com/alexar76/aicom/stargazers) [![Forks](https://img.shields.io/github/forks/alexar76/aicom?style=flat-square&color=blue)](https://github.com/alexar76/aicom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Factory — autonomous pipeline that designs, builds, tests, and publishes products.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ alexar76/aicom：alexar76/aicom may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 63/100 |
+| outlook | 67/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 600/100 |
 | stars | 18/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

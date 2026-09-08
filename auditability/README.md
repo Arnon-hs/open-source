@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MLSystemsRI/ml-systems-public](./mlsystemsri-ml-systems-public.md) | ⭐ — | TypeScript | 51/100 |
+| 1 | [MLSystemsRI/ml-systems-public](./mlsystemsri-ml-systems-public.md) | ⭐ — | TypeScript | 48/100 |
 
 ---
 
