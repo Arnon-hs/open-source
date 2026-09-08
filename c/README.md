@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [olafurjohannsson/kjarni](./olafurjohannsson-kjarni.md) | ⭐ 37 | Rust | 58/100 |
+| 1 | [olafurjohannsson/kjarni](./olafurjohannsson-kjarni.md) | ⭐ 37 | Rust | 55/100 |
 
 ---
 

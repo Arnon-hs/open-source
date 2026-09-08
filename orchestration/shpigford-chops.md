@@ -1,6 +1,6 @@
 # Shpigford/chops
 
-[![Stars](https://img.shields.io/github/stars/Shpigford/chops?style=flat-square&color=yellow)](https://github.com/Shpigford/chops/stargazers) [![Forks](https://img.shields.io/github/forks/Shpigford/chops?style=flat-square&color=blue)](https://github.com/Shpigford/chops/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shpigford/chops?style=flat-square&color=yellow)](https://github.com/Shpigford/chops/stargazers) [![Forks](https://img.shields.io/github/forks/Shpigford/chops?style=flat-square&color=blue)](https://github.com/Shpigford/chops/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Discovers, organizes, and edits coding agent skills for Claude Code, Cursor, Codex, Windsurf, and Amp.  https://t.co/YJoAyAcqN2 https://t.co/5bfotSxSQ4 https://github.com/Shpigford/chops
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ Shpigford/chops：Shpigford/chops helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 62/100 |
+| outlook | 69/100 |
 | adoption | 63/100 |
 | categoryMatchCount | 200/100 |
 | stars | 68/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
