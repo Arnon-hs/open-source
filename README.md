@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34930** |
+| **Projects** | **34937** |
 | **Categories** | **114** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13012 | [Browse →](./misc/) |
+| 📦 **Misc** | 13016 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4050 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2582 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2583 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2213 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1263 | [Browse →](./automation/) |
@@ -55,7 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 77 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 8 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 9 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Rust** | 2 | [Browse →](./rust/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
@@ -77,7 +78,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
 | 🏷️ **Apple-music** | 1 | [Browse →](./apple-music/) |
-| 🏷️ **Rust** | 1 | [Browse →](./rust/) |
 | 🏷️ **Kanban** | 1 | [Browse →](./kanban/) |
 | 🏷️ **Embedded** | 1 | [Browse →](./embedded/) |
 | 🏷️ **Ai-contributions** | 1 | [Browse →](./ai-contributions/) |
