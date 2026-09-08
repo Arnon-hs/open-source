@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [quintetkit/ccheck](./quintetkit-ccheck.md) | ⭐ — | TypeScript | 59/100 |
+| 1 | [quintetkit/ccheck](./quintetkit-ccheck.md) | ⭐ — | TypeScript | 56/100 |
 
 ---
 

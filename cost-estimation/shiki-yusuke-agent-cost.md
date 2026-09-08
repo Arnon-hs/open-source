@@ -1,6 +1,6 @@
 # shiki-yusuke/agent-cost
 
-[![Stars](https://img.shields.io/github/stars/shiki-yusuke/agent-cost?style=flat-square&color=yellow)](https://github.com/shiki-yusuke/agent-cost/stargazers) [![Forks](https://img.shields.io/github/forks/shiki-yusuke/agent-cost?style=flat-square&color=blue)](https://github.com/shiki-yusuke/agent-cost/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shiki-yusuke/agent-cost?style=flat-square&color=yellow)](https://github.com/shiki-yusuke/agent-cost/stargazers) [![Forks](https://img.shields.io/github/forks/shiki-yusuke/agent-cost?style=flat-square&color=blue)](https://github.com/shiki-yusuke/agent-cost/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Measure AI coding agent token usage and estimate costs from local logs (Claude Code / Codex CLI) — zero dependencies, zero network
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ shiki-yusuke/agent-cost：shiki-yusuke/agent-cost may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

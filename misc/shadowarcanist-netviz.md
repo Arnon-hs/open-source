@@ -1,6 +1,6 @@
 # ShadowArcanist/netviz
 
-[![Stars](https://img.shields.io/github/stars/ShadowArcanist/netviz?style=flat-square&color=yellow)](https://github.com/ShadowArcanist/netviz/stargazers) [![Forks](https://img.shields.io/github/forks/ShadowArcanist/netviz?style=flat-square&color=blue)](https://github.com/ShadowArcanist/netviz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShadowArcanist/netviz?style=flat-square&color=yellow)](https://github.com/ShadowArcanist/netviz/stargazers) [![Forks](https://img.shields.io/github/forks/ShadowArcanist/netviz?style=flat-square&color=blue)](https://github.com/ShadowArcanist/netviz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Netviz builds animated network architecture diagrams to visualize data flow between components like servers and databases.  https://t.co/831PhQRxMc https://t.co/maM2NqIztV https://github.com/ShadowArcanist/netviz
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 796 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ ShadowArcanist/netviz：ShadowArcanist/netviz may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 60/100 |
+| outlook | 58/100 |
 | adoption | 57/100 |
 | categoryMatchCount | 0/100 |
 | stars | 62/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shiki-yusuke/agent-cost](./shiki-yusuke-agent-cost.md) | ⭐ 1 | Python | 64/100 |
+| 1 | [shiki-yusuke/agent-cost](./shiki-yusuke-agent-cost.md) | ⭐ 1 | Python | 61/100 |
 | 2 | [astral-sh/uvx](./astral-sh-uvx.md) | ⭐ — | — | 24/100 |
 
 ---
