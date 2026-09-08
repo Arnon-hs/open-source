@@ -551,8 +551,8 @@
 | 541 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 542 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 38/100 |
 | 543 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 544 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
-| 545 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 544 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 545 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
 | 546 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 38/100 |
 | 547 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 38/100 |
 | 548 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 38/100 |
