@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mistralai/mcp](./mistralai-mcp.md) | ⭐ — | — | 32/100 |
+| 1 | [agentguard-dev/agentguard-demo](./agentguard-dev-agentguard-demo.md) | ⭐ — | — | 47/100 |
+| 2 | [agentguard-dev/agentguard](./agentguard-dev-agentguard.md) | ⭐ — | JavaScript | 43/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mhieuhonda/halis-lang](./mhieuhonda-halis-lang.md) | ⭐ 2 | Python | 44/100 |
+| 1 | [mhieuhonda/halis-lang](./mhieuhonda-halis-lang.md) | ⭐ 2 | Python | 41/100 |
 
 ---
 

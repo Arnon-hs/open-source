@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34967** |
-| **Categories** | **115** |
+| **Projects** | **34974** |
+| **Categories** | **116** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -28,7 +28,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcp** | 2584 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2213 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1263 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1264 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 850 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 600 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 566 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 559 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 553 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 554 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 466 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 462 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
@@ -48,25 +48,26 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 💳 **Payments** | 311 | [Browse →](./payments/) |
 | 🏷️ **Productivity** | 299 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 262 | [Browse →](./observability/) |
-| 🏷️ **Libraries--sdks** | 238 | [Browse →](./libraries--sdks/) |
+| 🏷️ **Libraries--sdks** | 239 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 187 | [Browse →](./trading/) |
 | ✨ **Design** | 146 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 77 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 78 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 9 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Llm** | 3 | [Browse →](./llm/) |
-| 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent-security** | 2 | [Browse →](./agent-security/) |
 | 🏷️ **Rust** | 2 | [Browse →](./rust/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
