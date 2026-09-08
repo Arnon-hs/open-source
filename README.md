@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34916** |
+| **Projects** | **34918** |
 | **Categories** | **114** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13003 | [Browse →](./misc/) |
+| 📦 **Misc** | 13004 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4049 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2582 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2213 | [Browse →](./orchestration/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 611 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 600 | [Browse →](./networking/) |
-| 🏷️ **Knowledgerag** | 565 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 566 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 559 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 552 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 465 | [Browse →](./database/) |
