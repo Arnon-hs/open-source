@@ -2,7 +2,7 @@
 
 > 
 
-**9 projects** in this category.
+**10 projects** in this category.
 
 ## Projects
 
@@ -15,8 +15,9 @@
 | 5 | [xiaowu0162/LongMemEval](./xiaowu0162-longmemeval.md) | ⭐ 1.1k | Python | 56/100 |
 | 6 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 47/100 |
 | 7 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
-| 8 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 9 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 8 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 9 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 10 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34998** |
+| **Projects** | **35001** |
 | **Categories** | **117** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -55,14 +55,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 9 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 10 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
-| 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Llm** | 3 | [Browse →](./llm/) |
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
