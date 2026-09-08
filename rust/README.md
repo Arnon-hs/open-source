@@ -1,4 +1,4 @@
-# 🏷️ Multi-agent
+# 🏷️ Rust
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yourrepo/mcp](./yourrepo-mcp.md) | ⭐ — | — | 32/100 |
+| 1 | [abhayzangir1/sqlite-vec](./abhayzangir1-sqlite-vec.md) | ⭐ — | — | 24/100 |
 
 ---
 

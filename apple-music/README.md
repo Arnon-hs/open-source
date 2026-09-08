@@ -1,4 +1,4 @@
-# 🏷️ Multi-agent
+# 🏷️ Apple-music
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yourrepo/mcp](./yourrepo-mcp.md) | ⭐ — | — | 32/100 |
+| 1 | [suleyman416/mcp-applemusic](./suleyman416-mcp-applemusic.md) | ⭐ — | Python | 59/100 |
 
 ---
 
