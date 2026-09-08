@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fullstorydev/grpcui](./fullstorydev-grpcui.md) | ⭐ 5.9k | JavaScript | 61/100 |
+| 1 | [fullstorydev/grpcui](./fullstorydev-grpcui.md) | ⭐ 5.9k | JavaScript | 58/100 |
 
 ---
 

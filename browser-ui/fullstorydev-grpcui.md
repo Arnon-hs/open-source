@@ -1,6 +1,6 @@
 # fullstorydev/grpcui
 
-[![Stars](https://img.shields.io/github/stars/fullstorydev/grpcui?style=flat-square&color=yellow)](https://github.com/fullstorydev/grpcui/stargazers) [![Forks](https://img.shields.io/github/forks/fullstorydev/grpcui?style=flat-square&color=blue)](https://github.com/fullstorydev/grpcui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fullstorydev/grpcui?style=flat-square&color=yellow)](https://github.com/fullstorydev/grpcui/stargazers) [![Forks](https://img.shields.io/github/forks/fullstorydev/grpcui?style=flat-square&color=blue)](https://github.com/fullstorydev/grpcui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An interactive web UI for gRPC, along the lines of postman
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ fullstorydev/grpcui：fullstorydev/grpcui may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 600/100 |
 | stars | 80/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 
