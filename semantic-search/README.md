@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vivantel/kms](./vivantel-kms.md) | ⭐ 3 | Shell | 58/100 |
+| 1 | [vivantel/kms](./vivantel-kms.md) | ⭐ 3 | Shell | 55/100 |
 | 2 | [vivantel/virage](./vivantel-virage.md) | ⭐ 2 | TypeScript | 48/100 |
 
 ---

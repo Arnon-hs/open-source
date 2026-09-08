@@ -1,6 +1,6 @@
 # vivantel/kms
 
-[![Stars](https://img.shields.io/github/stars/vivantel/kms?style=flat-square&color=yellow)](https://github.com/vivantel/kms/stargazers) [![Forks](https://img.shields.io/github/forks/vivantel/kms?style=flat-square&color=blue)](https://github.com/vivantel/kms/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vivantel/kms?style=flat-square&color=yellow)](https://github.com/vivantel/kms/stargazers) [![Forks](https://img.shields.io/github/forks/vivantel/kms?style=flat-square&color=blue)](https://github.com/vivantel/kms/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Vivantel KMS: a Claude Code / Codex plugin marketplace of knowledge-management skills — capture decisions as durable, traceable artifacts and keep them current, queryable, and attributable across sessions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ vivantel/kms：vivantel/kms may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
