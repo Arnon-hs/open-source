@@ -2,7 +2,7 @@
 
 > 
 
-**126 projects** in this category.
+**127 projects** in this category.
 
 ## Projects
 
@@ -85,55 +85,56 @@
 | 75 | [RicardoGEsteves/omniscient](./ricardogesteves-omniscient.md) | ⭐ 120 | TypeScript | 63/100 |
 | 76 | [YouMind-OpenLab/awesome-seedance-2-prompts](./youmind-openlab-awesome-seedance-2-prompts.md) | ⭐ 960 | TypeScript | 63/100 |
 | 77 | [GraphiteEditor/Graphite](./graphiteeditor-graphite.md) | ⭐ 25.5k | Rust | 63/100 |
-| 78 | [BlackMixture/Mix-Studio](./blackmixture-mix-studio.md) | ⭐ 205 | JavaScript | 62/100 |
-| 79 | [FurkanGozukara/Stable-Diffusion](./furkangozukara-stable-diffusion.md) | ⭐ 2.8k | HTML | 62/100 |
-| 80 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 52 | Python | 62/100 |
-| 81 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 21 | Python | 61/100 |
-| 82 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 68 | — | 60/100 |
-| 83 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 104 | Vue | 60/100 |
-| 84 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 30 | TypeScript | 59/100 |
-| 85 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 138 | HTML | 59/100 |
-| 86 | [zxhwolfe-dev/aiworkstation-topic-intelligence](./zxhwolfe-dev-aiworkstation-topic-intelligence.md) | ⭐ 1 | Python | 58/100 |
-| 87 | [kostas2370/Video-Creator](./kostas2370-video-creator.md) | ⭐ 24 | Python | 58/100 |
-| 88 | [Mrkomiljon/awesome-generative-ai](./mrkomiljon-awesome-generative-ai.md) | ⭐ 40 | Python | 58/100 |
-| 89 | [flatkey-ai/flatkey-cli](./flatkey-ai-flatkey-cli.md) | ⭐ 149 | JavaScript | 58/100 |
-| 90 | [SkyNotSilent/ai-jianying-image-video](./skynotsilent-ai-jianying-image-video.md) | ⭐ 27 | Python | 57/100 |
-| 91 | [rediumvex/seo-blog-writer-claude](./rediumvex-seo-blog-writer-claude.md) | ⭐ 44 | — | 57/100 |
-| 92 | [rust-lang/this-week-in-rust](./rust-lang-this-week-in-rust.md) | ⭐ 2.6k | Rust | 57/100 |
-| 93 | [pentacent/keila](./pentacent-keila.md) | ⭐ 2.1k | Elixir | 57/100 |
-| 94 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 319 | Ruby | 57/100 |
-| 95 | [SandAI-org/MagiCompiler](./sandai-org-magicompiler.md) | ⭐ 317 | Python | 56/100 |
-| 96 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 56/100 |
-| 97 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](./youmind-openlab-nano-banana-pro-prompts-recommend-skill.md) | ⭐ 1.5k | TypeScript | 56/100 |
-| 98 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.4k | HTML | 55/100 |
-| 99 | [chinesehuazhou/python-weekly](./chinesehuazhou-python-weekly.md) | ⭐ 1.9k | TypeScript | 55/100 |
-| 100 | [ziqihuangg/Awesome-Evaluation-of-Visual-Generation](./ziqihuangg-awesome-evaluation-of-visual-generation.md) | ⭐ 455 | — | 54/100 |
-| 101 | [ALEEEHU/World-Simulator](./aleeehu-world-simulator.md) | ⭐ 382 | — | 54/100 |
-| 102 | [AceDataCloud/Nexior](./acedatacloud-nexior.md) | ⭐ 369 | Vue | 54/100 |
-| 103 | [Ali-Cheikh/nosey-agent](./ali-cheikh-nosey-agent.md) | ⭐ 1 | JavaScript | 53/100 |
-| 104 | [worldbench/awesome-agentic-world-model](./worldbench-awesome-agentic-world-model.md) | ⭐ 47 | HTML | 53/100 |
-| 105 | [MixItUpBot/Desktop](./mixitupbot-desktop.md) | ⭐ 34 | C# | 51/100 |
-| 106 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 52 | JavaScript | 51/100 |
-| 107 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 598 | Ruby | 50/100 |
-| 108 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 247 | Rust | 50/100 |
-| 109 | [farukkolip/xtapdown-mcp](./farukkolip-xtapdown-mcp.md) | ⭐ — | — | 49/100 |
-| 110 | [forwardemail/forwardemail.net](./forwardemail-forwardemail.net.md) | ⭐ 1.6k | JavaScript | 49/100 |
-| 111 | [lightx2v/Minimax-h3-Turbo](./lightx2v-minimax-h3-turbo.md) | ⭐ 764 | diffusers | 48/100 |
-| 112 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 8 | — | 46/100 |
-| 113 | [Lightricks/LTX-2.5](./lightricks-ltx-2.5.md) | ⭐ 1.6k | diffusion-single-file | 46/100 |
-| 114 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 46/100 |
-| 115 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
-| 116 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
-| 117 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 666 | HTML | 45/100 |
-| 118 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
-| 119 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
-| 120 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
-| 121 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 38/100 |
-| 122 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
-| 123 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
-| 124 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 125 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 78 | [TechMitten/Origami-AI](./techmitten-origami-ai.md) | ⭐ 11 | TypeScript | 62/100 |
+| 79 | [BlackMixture/Mix-Studio](./blackmixture-mix-studio.md) | ⭐ 205 | JavaScript | 62/100 |
+| 80 | [FurkanGozukara/Stable-Diffusion](./furkangozukara-stable-diffusion.md) | ⭐ 2.8k | HTML | 62/100 |
+| 81 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 52 | Python | 62/100 |
+| 82 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 21 | Python | 61/100 |
+| 83 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 68 | — | 60/100 |
+| 84 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 104 | Vue | 60/100 |
+| 85 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 30 | TypeScript | 59/100 |
+| 86 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 138 | HTML | 59/100 |
+| 87 | [zxhwolfe-dev/aiworkstation-topic-intelligence](./zxhwolfe-dev-aiworkstation-topic-intelligence.md) | ⭐ 1 | Python | 58/100 |
+| 88 | [kostas2370/Video-Creator](./kostas2370-video-creator.md) | ⭐ 24 | Python | 58/100 |
+| 89 | [Mrkomiljon/awesome-generative-ai](./mrkomiljon-awesome-generative-ai.md) | ⭐ 40 | Python | 58/100 |
+| 90 | [flatkey-ai/flatkey-cli](./flatkey-ai-flatkey-cli.md) | ⭐ 149 | JavaScript | 58/100 |
+| 91 | [SkyNotSilent/ai-jianying-image-video](./skynotsilent-ai-jianying-image-video.md) | ⭐ 27 | Python | 57/100 |
+| 92 | [rediumvex/seo-blog-writer-claude](./rediumvex-seo-blog-writer-claude.md) | ⭐ 44 | — | 57/100 |
+| 93 | [rust-lang/this-week-in-rust](./rust-lang-this-week-in-rust.md) | ⭐ 2.6k | Rust | 57/100 |
+| 94 | [pentacent/keila](./pentacent-keila.md) | ⭐ 2.1k | Elixir | 57/100 |
+| 95 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 319 | Ruby | 57/100 |
+| 96 | [SandAI-org/MagiCompiler](./sandai-org-magicompiler.md) | ⭐ 317 | Python | 56/100 |
+| 97 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 56/100 |
+| 98 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](./youmind-openlab-nano-banana-pro-prompts-recommend-skill.md) | ⭐ 1.5k | TypeScript | 56/100 |
+| 99 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.4k | HTML | 55/100 |
+| 100 | [chinesehuazhou/python-weekly](./chinesehuazhou-python-weekly.md) | ⭐ 1.9k | TypeScript | 55/100 |
+| 101 | [ziqihuangg/Awesome-Evaluation-of-Visual-Generation](./ziqihuangg-awesome-evaluation-of-visual-generation.md) | ⭐ 455 | — | 54/100 |
+| 102 | [ALEEEHU/World-Simulator](./aleeehu-world-simulator.md) | ⭐ 382 | — | 54/100 |
+| 103 | [AceDataCloud/Nexior](./acedatacloud-nexior.md) | ⭐ 369 | Vue | 54/100 |
+| 104 | [Ali-Cheikh/nosey-agent](./ali-cheikh-nosey-agent.md) | ⭐ 1 | JavaScript | 53/100 |
+| 105 | [worldbench/awesome-agentic-world-model](./worldbench-awesome-agentic-world-model.md) | ⭐ 47 | HTML | 53/100 |
+| 106 | [MixItUpBot/Desktop](./mixitupbot-desktop.md) | ⭐ 34 | C# | 51/100 |
+| 107 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 52 | JavaScript | 51/100 |
+| 108 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 598 | Ruby | 50/100 |
+| 109 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 247 | Rust | 50/100 |
+| 110 | [farukkolip/xtapdown-mcp](./farukkolip-xtapdown-mcp.md) | ⭐ — | — | 49/100 |
+| 111 | [forwardemail/forwardemail.net](./forwardemail-forwardemail.net.md) | ⭐ 1.6k | JavaScript | 49/100 |
+| 112 | [lightx2v/Minimax-h3-Turbo](./lightx2v-minimax-h3-turbo.md) | ⭐ 764 | diffusers | 48/100 |
+| 113 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 8 | — | 46/100 |
+| 114 | [Lightricks/LTX-2.5](./lightricks-ltx-2.5.md) | ⭐ 1.6k | diffusion-single-file | 46/100 |
+| 115 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 46/100 |
+| 116 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
+| 117 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
+| 118 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 666 | HTML | 45/100 |
+| 119 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
+| 120 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
+| 121 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
+| 122 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 38/100 |
+| 123 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
+| 124 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
+| 125 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
 | 126 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 127 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 
 ---
 
