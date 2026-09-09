@@ -1,6 +1,6 @@
 # scrapfly/Antibot-Detector
 
-[![Stars](https://img.shields.io/github/stars/scrapfly/Antibot-Detector?style=flat-square&color=yellow)](https://github.com/scrapfly/Antibot-Detector/stargazers) [![Forks](https://img.shields.io/github/forks/scrapfly/Antibot-Detector?style=flat-square&color=blue)](https://github.com/scrapfly/Antibot-Detector/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scrapfly/Antibot-Detector?style=flat-square&color=yellow)](https://github.com/scrapfly/Antibot-Detector/stargazers) [![Forks](https://img.shields.io/github/forks/scrapfly/Antibot-Detector?style=flat-square&color=blue)](https://github.com/scrapfly/Antibot-Detector/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Detects anti-bot systems, CAPTCHAs, and browser fingerprinting in real time.  https://t.co/ie4SeBY68f https://t.co/BCA9Y569wk https://github.com/scrapfly/Antibot-Detector
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ scrapfly/Antibot-Detector：scrapfly/Antibot-Detector helps remove repetitive ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 76/100 |
+| production | 64/100 |
+| outlook | 69/100 |
 | adoption | 51/100 |
 | categoryMatchCount | 200/100 |
 | stars | 55/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
