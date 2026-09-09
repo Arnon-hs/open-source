@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35115** |
-| **Categories** | **132** |
+| **Projects** | **35129** |
+| **Categories** | **134** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13093 | [Browse →](./misc/) |
+| 📦 **Misc** | 13103 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4064 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2591 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2592 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2214 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1267 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 851 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 612 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 613 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 603 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 566 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 560 | [Browse →](./mobile/) |
@@ -86,6 +86,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Net** | 1 | [Browse →](./net/) |
+| 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
 | 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
 | 🏷️ **Audio** | 1 | [Browse →](./audio/) |
