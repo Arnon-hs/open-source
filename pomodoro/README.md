@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rgmey/pomodoro](./rgmey-pomodoro.md) | ⭐ — | Python | 39/100 |
+| 1 | [rgmey/pomodoro](./rgmey-pomodoro.md) | ⭐ — | Python | 36/100 |
 
 ---
 
