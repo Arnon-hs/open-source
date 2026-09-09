@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [redis/redis-py](./redis-redis-py.md) | ⭐ 13.6k | Python | 73/100 |
+| 1 | [redis/redis-py](./redis-redis-py.md) | ⭐ 13.6k | Python | 70/100 |
 | 2 | [yourrepo/x402-py](./yourrepo-x402-py.md) | ⭐ — | — | 24/100 |
 | 3 | [ethereum/web3.py](./ethereum-web3.py.md) | ⭐ — | — | 24/100 |
 

@@ -1,6 +1,6 @@
 # redis/redis-py
 
-[![Stars](https://img.shields.io/github/stars/redis/redis-py?style=flat-square&color=yellow)](https://github.com/redis/redis-py/stargazers) [![Forks](https://img.shields.io/github/forks/redis/redis-py?style=flat-square&color=blue)](https://github.com/redis/redis-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redis/redis-py?style=flat-square&color=yellow)](https://github.com/redis/redis-py/stargazers) [![Forks](https://img.shields.io/github/forks/redis/redis-py?style=flat-square&color=blue)](https://github.com/redis/redis-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Redis Python client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.6k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ autonomous-agent · on-chain-payment · x402 · Base · AI-service · Python
 
 ### English
 
-redis/redis-py: redis/redis-py may be useful when its README and activity match a concrete workflow.. Use it for autonomous-agent, on-chain-payment, x402, Base, AI-service, Python. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+redis/redis-py: redis/redis-py may be useful when its README and activity match a concrete workflow.. Use it for autonomous-agent, on-chain-payment, x402, Base, AI-service, Python. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-redis/redis-py: open-source проект в категориях autonomous-agent, on-chain-payment, x402, Base, AI-service, Python. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+redis/redis-py: open-source проект в категориях autonomous-agent, on-chain-payment, x402, Base, AI-service, Python. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-redis/redis-py：redis/redis-py may be useful when its README and activity match a concrete workflow.。适合用于autonomous-agent、on-chain-payment、x402、Base、AI-service、Python。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+redis/redis-py：redis/redis-py may be useful when its README and activity match a concrete workflow.。适合用于autonomous-agent、on-chain-payment、x402、Base、AI-service、Python。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ redis/redis-py：redis/redis-py may be useful when its README and activity match
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ redis/redis-py：redis/redis-py may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 87/100 |
 | categoryMatchCount | 600/100 |
 | stars | 88/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
