@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35100** |
+| **Projects** | **35109** |
 | **Categories** | **132** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13084 | [Browse →](./misc/) |
+| 📦 **Misc** | 13090 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4064 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2590 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2591 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2214 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1266 | [Browse →](./automation/) |
@@ -57,11 +57,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 13 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
-| 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
@@ -70,6 +70,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Webhooks** | 2 | [Browse →](./webhooks/) |
 | 🏷️ **Local-deployment** | 2 | [Browse →](./local-deployment/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Rewriting** | 2 | [Browse →](./rewriting/) |
@@ -110,7 +111,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Micropayments** | 1 | [Browse →](./micropayments/) |
 | 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
 | 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
-| 🏷️ **Webhooks** | 1 | [Browse →](./webhooks/) |
 | 🏷️ **Ide** | 1 | [Browse →](./ide/) |
 | 🏷️ **Quantum-computing** | 1 | [Browse →](./quantum-computing/) |
 | 🏷️ **Rpa** | 1 | [Browse →](./rpa/) |
