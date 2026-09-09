@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35178** |
+| **Projects** | **35183** |
 | **Categories** | **140** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13121 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4067 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13123 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4069 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2594 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2216 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 555 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 469 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 463 | [Browse →](./devopsinfra/) |
-| 🏷️ **Templates** | 421 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 422 | [Browse →](./templates/) |
 | 🔐 **Security** | 377 | [Browse →](./security/) |
 | 🏷️ **Communication** | 370 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 341 | [Browse →](./video-editing/) |

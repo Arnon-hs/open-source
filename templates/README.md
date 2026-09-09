@@ -2,7 +2,7 @@
 
 > 
 
-**421 projects** in this category.
+**422 projects** in this category.
 
 ## Projects
 
@@ -421,14 +421,15 @@
 | 411 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 45/100 |
 | 412 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 45/100 |
 | 413 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
-| 414 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
-| 415 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
-| 416 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
-| 417 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
-| 418 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
-| 419 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
-| 420 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
-| 421 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
+| 414 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
+| 415 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
+| 416 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
+| 417 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
+| 418 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
+| 419 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
+| 420 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
+| 421 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
+| 422 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
 
 ---
 
