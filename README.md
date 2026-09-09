@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35033** |
-| **Categories** | **124** |
+| **Projects** | **35037** |
+| **Categories** | **125** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13061 | [Browse →](./misc/) |
+| 📦 **Misc** | 13063 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4051 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2585 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2214 | [Browse →](./orchestration/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
 | 🔐 **Security** | 376 | [Browse →](./security/) |
 | 🏷️ **Communication** | 368 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 337 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 338 | [Browse →](./video-editing/) |
 | 📊 **Data** | 320 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 314 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 312 | [Browse →](./payments/) |
@@ -82,6 +82,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
 | 🏷️ **Agent-commerce** | 1 | [Browse →](./agent-commerce/) |
 | 🏷️ **Cursor** | 1 | [Browse →](./cursor/) |
