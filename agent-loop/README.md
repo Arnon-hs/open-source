@@ -1,4 +1,4 @@
-# 🏷️ Macos
+# 🏷️ Agent-loop
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RAKKUNN/matuta](./rakkunn-matuta.md) | ⭐ 2 | Swift | 37/100 |
+| 1 | [Madheshvivekanandan/agent-loop](./madheshvivekanandan-agent-loop.md) | ⭐ — | Shell | 41/100 |
 
 ---
 

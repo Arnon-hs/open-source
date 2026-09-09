@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35132** |
-| **Categories** | **134** |
+| **Projects** | **35138** |
+| **Categories** | **136** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13104 | [Browse →](./misc/) |
+| 📦 **Misc** | 13105 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4066 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2592 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2214 | [Browse →](./orchestration/) |
@@ -61,12 +61,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
+| 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
+| 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
-| 🏷️ **Llm** | 3 | [Browse →](./llm/) |
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
@@ -86,7 +87,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
-| 🏷️ **Net** | 1 | [Browse →](./net/) |
+| 🏷️ **Multi-tenant** | 1 | [Browse →](./multi-tenant/) |
+| 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
 | 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |

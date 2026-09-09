@@ -1,4 +1,4 @@
-# 🏷️ Macos
+# 🏷️ Multi-tenant
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RAKKUNN/matuta](./rakkunn-matuta.md) | ⭐ 2 | Swift | 37/100 |
+| 1 | [harisnadeem93/dotnet-mcp-tenancy](./harisnadeem93-dotnet-mcp-tenancy.md) | ⭐ — | C# | 60/100 |
 
 ---
 
