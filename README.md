@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35023** |
+| **Projects** | **35024** |
 | **Categories** | **121** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 462 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
 | 🔐 **Security** | 376 | [Browse →](./security/) |
-| 🏷️ **Communication** | 367 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 368 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 337 | [Browse →](./video-editing/) |
 | 📊 **Data** | 320 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 314 | [Browse →](./games--graphics/) |
