@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hammrouni/nanoagentphp](./hammrouni-nanoagentphp.md) | ⭐ 8 | PHP | 54/100 |
+| 1 | [hammrouni/nanoagentphp](./hammrouni-nanoagentphp.md) | ⭐ 8 | PHP | 51/100 |
 
 ---
 
