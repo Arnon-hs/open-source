@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Pitambarmahato/hardnumbers-experiments](./pitambarmahato-hardnumbers-experiments.md) | ⭐ 1 | Python | 41/100 |
+| 1 | [Pitambarmahato/hardnumbers-experiments](./pitambarmahato-hardnumbers-experiments.md) | ⭐ 1 | Python | 37/100 |
 
 ---
 

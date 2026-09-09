@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [asg017/sqlite-vss](./asg017-sqlite-vss.md) | ⭐ 2k | C++ | 56/100 |
+| 1 | [asg017/sqlite-vss](./asg017-sqlite-vss.md) | ⭐ 2k | C++ | 53/100 |
 
 ---
 
