@@ -2,7 +2,7 @@
 
 > 
 
-**13 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -17,10 +17,11 @@
 | 7 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 47/100 |
 | 8 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
 | 9 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
-| 10 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 11 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 12 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 13 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 10 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 11 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 12 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 13 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 14 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 
