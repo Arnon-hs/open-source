@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35063** |
-| **Categories** | **130** |
+| **Projects** | **35074** |
+| **Categories** | **131** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13071 | [Browse →](./misc/) |
+| 📦 **Misc** | 13074 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4052 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2586 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2590 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2214 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1266 | [Browse →](./automation/) |
@@ -62,6 +62,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Rust** | 3 | [Browse →](./rust/) |
+| 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Llm** | 3 | [Browse →](./llm/) |
@@ -75,7 +77,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
 | 🏷️ **C** | 2 | [Browse →](./c/) |
 | 🏷️ **Agent-security** | 2 | [Browse →](./agent-security/) |
-| 🏷️ **Rust** | 2 | [Browse →](./rust/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
