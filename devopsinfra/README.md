@@ -211,8 +211,8 @@
 | 201 | [kube-rs/kopium](./kube-rs-kopium.md) | ⭐ 166 | Rust | 61/100 |
 | 202 | [stefanpejcic/OpenPanel](./stefanpejcic-openpanel.md) | ⭐ 687 | TypeScript | 61/100 |
 | 203 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 31.8k | Go | 61/100 |
-| 204 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
-| 205 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
+| 204 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
+| 205 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
 | 206 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 824 | JavaScript | 60/100 |
 | 207 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 31 | Nix | 60/100 |
 | 208 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 399 | Go | 60/100 |

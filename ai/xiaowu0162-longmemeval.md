@@ -1,6 +1,6 @@
 # xiaowu0162/LongMemEval
 
-[![Stars](https://img.shields.io/github/stars/xiaowu0162/LongMemEval?style=flat-square&color=yellow)](https://github.com/xiaowu0162/LongMemEval/stargazers) [![Forks](https://img.shields.io/github/forks/xiaowu0162/LongMemEval?style=flat-square&color=blue)](https://github.com/xiaowu0162/LongMemEval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaowu0162/LongMemEval?style=flat-square&color=yellow)](https://github.com/xiaowu0162/LongMemEval/stargazers) [![Forks](https://img.shields.io/github/forks/xiaowu0162/LongMemEval?style=flat-square&color=blue)](https://github.com/xiaowu0162/LongMemEval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Benchmarking Chat Assistants on Long-Term Interactive Memory (ICLR 2025)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ xiaowu0162/LongMemEval：xiaowu0162/LongMemEval may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 61/100 |
+| outlook | 58/100 |
 | adoption | 60/100 |
 | categoryMatchCount | 900/100 |
 | stars | 64/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
