@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35016** |
-| **Categories** | **118** |
+| **Projects** | **35023** |
+| **Categories** | **121** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13057 | [Browse →](./misc/) |
+| 📦 **Misc** | 13059 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4051 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2584 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2214 | [Browse →](./orchestration/) |
@@ -45,7 +45,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 337 | [Browse →](./video-editing/) |
 | 📊 **Data** | 320 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 314 | [Browse →](./games--graphics/) |
-| 💳 **Payments** | 311 | [Browse →](./payments/) |
+| 💳 **Payments** | 312 | [Browse →](./payments/) |
 | 🏷️ **Productivity** | 299 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 262 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 239 | [Browse →](./libraries--sdks/) |
@@ -67,6 +67,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
 | 🏷️ **C** | 2 | [Browse →](./c/) |
 | 🏷️ **Agent-security** | 2 | [Browse →](./agent-security/) |
@@ -79,6 +80,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Cursor** | 1 | [Browse →](./cursor/) |
+| 🏷️ **Chatgpt** | 1 | [Browse →](./chatgpt/) |
+| 🏷️ **Local-first** | 1 | [Browse →](./local-first/) |
 | 🏷️ **Investment** | 1 | [Browse →](./investment/) |
 | 🏷️ **Openclaw** | 1 | [Browse →](./openclaw/) |
 | 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
@@ -111,7 +115,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Google-tasks** | 1 | [Browse →](./google-tasks/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Go** | 1 | [Browse →](./go/) |
-| 🏷️ **Apify** | 1 | [Browse →](./apify/) |
 | 🏷️ **Vector-similarity** | 1 | [Browse →](./vector-similarity/) |
 | 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
 | 🏷️ **Ai-native-delivery** | 1 | [Browse →](./ai-native-delivery/) |

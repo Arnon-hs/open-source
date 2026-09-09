@@ -1,4 +1,4 @@
-# 🏷️ Local-first
+# 🏷️ Cursor
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 41/100 |
+| 1 | [S2thend/cursor-history-mcp](./s2thend-cursor-history-mcp.md) | ⭐ 32 | TypeScript | 65/100 |
 
 ---
 
