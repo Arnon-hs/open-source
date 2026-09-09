@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [daijro/camoufox](./daijro-camoufox.md) | ⭐ 11.7k | C++ | 70/100 |
+| 1 | [daijro/camoufox](./daijro-camoufox.md) | ⭐ 11.7k | C++ | 67/100 |
 
 ---
 

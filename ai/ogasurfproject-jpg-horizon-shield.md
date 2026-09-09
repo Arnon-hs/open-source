@@ -1,6 +1,6 @@
 # ogasurfproject-jpg/horizon-shield
 
-[![Stars](https://img.shields.io/github/stars/ogasurfproject-jpg/horizon-shield?style=flat-square&color=yellow)](https://github.com/ogasurfproject-jpg/horizon-shield/stargazers) [![Forks](https://img.shields.io/github/forks/ogasurfproject-jpg/horizon-shield?style=flat-square&color=blue)](https://github.com/ogasurfproject-jpg/horizon-shield/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ogasurfproject-jpg/horizon-shield?style=flat-square&color=yellow)](https://github.com/ogasurfproject-jpg/horizon-shield/stargazers) [![Forks](https://img.shields.io/github/forks/ogasurfproject-jpg/horizon-shield?style=flat-square&color=blue)](https://github.com/ogasurfproject-jpg/horizon-shield/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > NENRIN: tree rings for AI facing services. Bitcoin-anchored public ledger, open witnessing, and an MCP server for verifiable Japanese construction estimates. The operator cannot delete a valid record.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ ogasurfproject-jpg/horizon-shield：ogasurfproject-jpg/horizon-shield may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 800/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

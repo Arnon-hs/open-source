@@ -1,6 +1,6 @@
 # pspdev/pspdev
 
-[![Stars](https://img.shields.io/github/stars/pspdev/pspdev?style=flat-square&color=yellow)](https://github.com/pspdev/pspdev/stargazers) [![Forks](https://img.shields.io/github/forks/pspdev/pspdev?style=flat-square&color=blue)](https://github.com/pspdev/pspdev/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pspdev/pspdev?style=flat-square&color=yellow)](https://github.com/pspdev/pspdev/stargazers) [![Forks](https://img.shields.io/github/forks/pspdev/pspdev?style=flat-square&color=blue)](https://github.com/pspdev/pspdev/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > pspdev master repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ pspdev/pspdev：pspdev/pspdev may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 50/100 |
 | categoryMatchCount | 500/100 |
 | stars | 53/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
