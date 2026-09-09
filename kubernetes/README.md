@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [TiPunchLabs/ckad-dojo](./tipunchlabs-ckad-dojo.md) | ⭐ 89 | Shell | 51/100 |
+| 1 | [projectcalico/canal](./projectcalico-canal.md) | ⭐ 717 | — | 46/100 |
 
 ---
 

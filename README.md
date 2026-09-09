@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35165** |
-| **Categories** | **138** |
+| **Projects** | **35168** |
+| **Categories** | **139** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 13117 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4067 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2592 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2594 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2216 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1268 | [Browse →](./automation/) |
@@ -87,6 +87,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Kubernetes** | 1 | [Browse →](./kubernetes/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
 | 🏷️ **Multi-tenant** | 1 | [Browse →](./multi-tenant/) |
