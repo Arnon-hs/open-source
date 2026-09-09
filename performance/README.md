@@ -1,4 +1,4 @@
-# 🏷️ Local-llm
+# 🏷️ Performance
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 44/100 |
+| 1 | [mperham/sidekiq](./mperham-sidekiq.md) | ⭐ — | — | 24/100 |
 
 ---
 

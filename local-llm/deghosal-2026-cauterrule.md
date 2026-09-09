@@ -1,6 +1,6 @@
 # deghosal-2026/CauterRule
 
-[![Stars](https://img.shields.io/github/stars/deghosal-2026/CauterRule?style=flat-square&color=yellow)](https://github.com/deghosal-2026/CauterRule/stargazers) [![Forks](https://img.shields.io/github/forks/deghosal-2026/CauterRule?style=flat-square&color=blue)](https://github.com/deghosal-2026/CauterRule/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deghosal-2026/CauterRule?style=flat-square&color=yellow)](https://github.com/deghosal-2026/CauterRule/stargazers) [![Forks](https://img.shields.io/github/forks/deghosal-2026/CauterRule?style=flat-square&color=blue)](https://github.com/deghosal-2026/CauterRule/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Automated standing-rule extraction from agent failures — extract, test, promote. Every failure becomes a tested, reusable rule.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ deghosal-2026/CauterRule：deghosal-2026/CauterRule may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 55/100 |
+| production | 52/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

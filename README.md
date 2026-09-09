@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35037** |
-| **Categories** | **125** |
+| **Projects** | **35039** |
+| **Categories** | **126** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13063 | [Browse →](./misc/) |
+| 📦 **Misc** | 13064 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4051 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2585 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2214 | [Browse →](./orchestration/) |
@@ -82,6 +82,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Performance** | 1 | [Browse →](./performance/) |
 | 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
 | 🏷️ **Agent-commerce** | 1 | [Browse →](./agent-commerce/) |
