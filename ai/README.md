@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ovid/paad](./ovid-paad.md) | ⭐ 110 | Python | 68/100 |
+| 1 | [Ovid/paad](./ovid-paad.md) | ⭐ 110 | Python | 65/100 |
 | 2 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 65/100 |
 | 3 | [KeibiSoft/KeibiDrop](./keibisoft-keibidrop.md) | ⭐ 59 | Go | 61/100 |
 | 4 | [gitpython-developers/GitPython](./gitpython-developers-gitpython.md) | ⭐ 5.2k | Python | 59/100 |
