@@ -1,4 +1,4 @@
-# 🏷️ Deepseek-harness
+# 🏷️ Oracle
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [grloper/dsh-claude-oauth](./grloper-dsh-claude-oauth.md) | ⭐ — | JavaScript | 51/100 |
+| 1 | [OneClickDBA/harry-performance-scraper](./oneclickdba-harry-performance-scraper.md) | ⭐ 3 | Go | 55/100 |
 
 ---
 

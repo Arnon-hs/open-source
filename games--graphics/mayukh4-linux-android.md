@@ -1,6 +1,6 @@
 # mayukh4/linux-android
 
-[![Stars](https://img.shields.io/github/stars/mayukh4/linux-android?style=flat-square&color=yellow)](https://github.com/mayukh4/linux-android/stargazers) [![Forks](https://img.shields.io/github/forks/mayukh4/linux-android?style=flat-square&color=blue)](https://github.com/mayukh4/linux-android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mayukh4/linux-android?style=flat-square&color=yellow)](https://github.com/mayukh4/linux-android/stargazers) [![Forks](https://img.shields.io/github/forks/mayukh4/linux-android?style=flat-square&color=blue)](https://github.com/mayukh4/linux-android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Converts old Android phones into a GPU-accelerated Linux desktop or Home Assistant server using Termux shell scripts, requiring no root access.  https://t.co/ohslcJpC5u https://t.co/P8jhiFYwof https://github.com/mayukh4/linux-android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ mayukh4/linux-android：mayukh4/linux-android may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 81/100 |
+| production | 65/100 |
+| outlook | 74/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 200/100 |
 | stars | 72/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
