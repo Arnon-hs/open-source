@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35159** |
-| **Categories** | **137** |
+| **Projects** | **35165** |
+| **Categories** | **138** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,26 +23,26 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13116 | [Browse →](./misc/) |
+| 📦 **Misc** | 13117 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4067 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2592 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2216 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1267 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1268 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 851 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 613 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 604 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 566 | [Browse →](./knowledgerag/) |
-| 📱 **Mobile** | 560 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 561 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 555 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 469 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 463 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
 | 🔐 **Security** | 377 | [Browse →](./security/) |
 | 🏷️ **Communication** | 369 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 339 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 340 | [Browse →](./video-editing/) |
 | 📊 **Data** | 321 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 313 | [Browse →](./payments/) |
@@ -55,7 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 14 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 15 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
@@ -87,6 +87,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
 | 🏷️ **Multi-tenant** | 1 | [Browse →](./multi-tenant/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |

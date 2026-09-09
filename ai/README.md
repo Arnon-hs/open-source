@@ -2,7 +2,7 @@
 
 > 
 
-**14 projects** in this category.
+**15 projects** in this category.
 
 ## Projects
 
@@ -14,14 +14,15 @@
 | 4 | [KeibiSoft/KeibiDrop](./keibisoft-keibidrop.md) | ⭐ 59 | Go | 61/100 |
 | 5 | [gitpython-developers/GitPython](./gitpython-developers-gitpython.md) | ⭐ 5.2k | Python | 59/100 |
 | 6 | [xiaowu0162/LongMemEval](./xiaowu0162-longmemeval.md) | ⭐ 1.1k | Python | 53/100 |
-| 7 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 47/100 |
-| 8 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
-| 9 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
-| 10 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 11 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 12 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 13 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 14 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 7 | [joacod/self-context](./joacod-self-context.md) | ⭐ 1 | Python | 50/100 |
+| 8 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 47/100 |
+| 9 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
+| 10 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
+| 11 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 12 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 13 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 14 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 15 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 
