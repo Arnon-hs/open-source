@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simonchai-tw/tasks-todo-sync](./simonchai-tw-tasks-todo-sync.md) | ⭐ 12 | JavaScript | 55/100 |
+| 1 | [simonchai-tw/tasks-todo-sync](./simonchai-tw-tasks-todo-sync.md) | ⭐ 12 | JavaScript | 52/100 |
 
 ---
 

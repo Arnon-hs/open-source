@@ -1,6 +1,6 @@
 # simonchai-tw/tasks-todo-sync
 
-[![Stars](https://img.shields.io/github/stars/simonchai-tw/tasks-todo-sync?style=flat-square&color=yellow)](https://github.com/simonchai-tw/tasks-todo-sync/stargazers) [![Forks](https://img.shields.io/github/forks/simonchai-tw/tasks-todo-sync?style=flat-square&color=blue)](https://github.com/simonchai-tw/tasks-todo-sync/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonchai-tw/tasks-todo-sync?style=flat-square&color=yellow)](https://github.com/simonchai-tw/tasks-todo-sync/stargazers) [![Forks](https://img.shields.io/github/forks/simonchai-tw/tasks-todo-sync?style=flat-square&color=blue)](https://github.com/simonchai-tw/tasks-todo-sync/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, bidirectional sync between Google Tasks and Microsoft To Do, powered by Google Apps Script.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ simonchai-tw/tasks-todo-sync：simonchai-tw/tasks-todo-sync may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 59/100 |
+| outlook | 61/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 600/100 |
 | stars | 24/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

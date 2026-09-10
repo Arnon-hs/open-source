@@ -27,39 +27,33 @@ Frontend · Design
 
 ### English
 
-go-admin-team/go-admin: go-admin-team/go-admin helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+go-admin-team/go-admin: . Use it for Frontend, Design. 
 
 ### Русский
 
-go-admin-team/go-admin: open-source проект в категориях Frontend, Design. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+go-admin-team/go-admin: open-source проект в категориях Frontend, Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-go-admin-team/go-admin：go-admin-team/go-admin helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+go-admin-team/go-admin：。适合用于Frontend、Design。
 
 ## 🧭 Practical evaluation
 
-**Value:** go-admin-team/go-admin helps ship user-facing interfaces with less custom UI work.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- build product UI faster
-- reuse interface components
-- improve frontend delivery
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 12750 GitHub stars
-- 2589 forks
-- updated 2026-08-23
-- primary language: Go
-- 14 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
