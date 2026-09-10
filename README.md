@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35214** |
+| **Projects** | **35216** |
 | **Categories** | **145** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
+| 🏷️ **Desktop** | 3 | [Browse →](./desktop/) |
 | 🏷️ **Ml** | 3 | [Browse →](./ml/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Rust** | 3 | [Browse →](./rust/) |
@@ -164,7 +165,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hooks** | 1 | [Browse →](./hooks/) |
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
 | 🏷️ **Rails** | 1 | [Browse →](./rails/) |
-| 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Qa** | 1 | [Browse →](./qa/) |
 | 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
 | 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |
