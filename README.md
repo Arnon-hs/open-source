@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35216** |
-| **Categories** | **145** |
+| **Projects** | **35222** |
+| **Categories** | **146** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13132 | [Browse →](./misc/) |
+| 📦 **Misc** | 13134 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4070 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2594 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2216 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1536 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1270 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 852 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 853 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 613 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 605 | [Browse →](./networking/) |
@@ -42,8 +42,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 422 | [Browse →](./templates/) |
 | 🔐 **Security** | 377 | [Browse →](./security/) |
 | 🏷️ **Communication** | 371 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 343 | [Browse →](./video-editing/) |
-| 📊 **Data** | 322 | [Browse →](./data/) |
+| 🏷️ **Video-editing** | 344 | [Browse →](./video-editing/) |
+| 📊 **Data** | 323 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 313 | [Browse →](./payments/) |
 | 🏷️ **Productivity** | 299 | [Browse →](./productivity/) |
@@ -91,6 +91,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Ai-code-review** | 1 | [Browse →](./ai-code-review/) |
 | 🏷️ **Backtesting** | 1 | [Browse →](./backtesting/) |
 | 🏷️ **Operating-systems** | 1 | [Browse →](./operating-systems/) |
 | 🏷️ **Disaster-recovery** | 1 | [Browse →](./disaster-recovery/) |

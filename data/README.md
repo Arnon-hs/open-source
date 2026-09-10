@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**322 projects** in this category.
+**323 projects** in this category.
 
 ## Projects
 
@@ -318,18 +318,19 @@
 | 308 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 47/100 |
 | 309 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 47/100 |
 | 310 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 498 | R | 46/100 |
-| 311 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 45/100 |
-| 312 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 45/100 |
-| 313 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 45/100 |
-| 314 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
-| 315 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 116 | Rust | 44/100 |
-| 316 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
-| 317 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
-| 318 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
-| 319 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
-| 320 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
-| 321 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
-| 322 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 311 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ — | — | 45/100 |
+| 312 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 45/100 |
+| 313 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 45/100 |
+| 314 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 45/100 |
+| 315 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
+| 316 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 116 | Rust | 44/100 |
+| 317 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
+| 318 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
+| 319 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
+| 320 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
+| 321 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
+| 322 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
+| 323 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
 
 ---
 
