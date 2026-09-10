@@ -1,4 +1,4 @@
-# 🏷️ Browser
+# 🏷️ Sql
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wuyuwuyan3013/photo2reel-browser-slideshow-exporter](./wuyuwuyan3013-photo2reel-browser-slideshow-exporter.md) | ⭐ — | HTML | 43/100 |
+| 1 | [cccadet/omni-sql](./cccadet-omni-sql.md) | ⭐ — | TypeScript | 55/100 |
 
 ---
 

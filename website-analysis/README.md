@@ -1,4 +1,4 @@
-# 🏷️ Browser
+# 🏷️ Website-analysis
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wuyuwuyan3013/photo2reel-browser-slideshow-exporter](./wuyuwuyan3013-photo2reel-browser-slideshow-exporter.md) | ⭐ — | HTML | 43/100 |
+| 1 | [chethan-ultimax/reconax](./chethan-ultimax-reconax.md) | ⭐ — | Python | 59/100 |
 
 ---
 
