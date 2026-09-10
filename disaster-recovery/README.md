@@ -1,4 +1,4 @@
-# 🏷️ Ocr
+# 🏷️ Disaster-recovery
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sdcb/SimdPaddleOCR](./sdcb-simdpaddleocr.md) | ⭐ 60 | C# | 44/100 |
+| 1 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 7 | Shell | 42/100 |
 
 ---
 

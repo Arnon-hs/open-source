@@ -1,6 +1,6 @@
 # sdcb/SimdPaddleOCR
 
-[![Stars](https://img.shields.io/github/stars/sdcb/SimdPaddleOCR?style=flat-square&color=yellow)](https://github.com/sdcb/SimdPaddleOCR/stargazers) [![Forks](https://img.shields.io/github/forks/sdcb/SimdPaddleOCR?style=flat-square&color=blue)](https://github.com/sdcb/SimdPaddleOCR/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdcb/SimdPaddleOCR?style=flat-square&color=yellow)](https://github.com/sdcb/SimdPaddleOCR/stargazers) [![Forks](https://img.shields.io/github/forks/sdcb/SimdPaddleOCR?style=flat-square&color=blue)](https://github.com/sdcb/SimdPaddleOCR/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 纯 C# PP-OCRv6 推理库：多平台 SIMD 优化、较低内存占用、高正确率。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ sdcb/SimdPaddleOCR：sdcb/SimdPaddleOCR may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 35/100 |
 | categoryMatchCount | 700/100 |
 | stars | 38/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

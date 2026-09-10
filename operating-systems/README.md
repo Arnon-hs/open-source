@@ -1,4 +1,4 @@
-# 🏷️ Ocr
+# 🏷️ Operating-systems
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sdcb/SimdPaddleOCR](./sdcb-simdpaddleocr.md) | ⭐ 60 | C# | 44/100 |
+| 1 | [adriantips/boltossource](./adriantips-boltossource.md) | ⭐ — | — | 24/100 |
 
 ---
 
