@@ -1,34 +1,83 @@
 # sharpdeveye/maestro
 
-[![Stars](https://img.shields.io/github/stars/sharpdeveye/maestro?style=flat-square&color=yellow)](https://github.com/sharpdeveye/maestro/stargazers) [![Forks](https://img.shields.io/github/forks/sharpdeveye/maestro?style=flat-square&color=blue)](https://github.com/sharpdeveye/maestro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sharpdeveye/maestro?style=flat-square&color=yellow)](https://github.com/sharpdeveye/maestro/stargazers) [![Forks](https://img.shields.io/github/forks/sharpdeveye/maestro?style=flat-square&color=blue)](https://github.com/sharpdeveye/maestro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
-> Workflow fluency for AI coding agents. 1 core skill · 25 commands · 7 domain references · memory layer · audit trail — works across Cursor, Claude Code, Gemini CLI, Copilot, and 6 more.
+> Maestro diagnoses AI coding workflow issues with 25 targeted commands.  https://t.co/WUeVNhT6pa https://t.co/pUNMFzvVzu https://github.com/sharpdeveye/maestro
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 199 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 421 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-09-10 |
+| 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `ai` `ai-agents` `ai-workflows` `claude-code` `codex` `copilot` `cursor` `developer-tools` `gemini` `open-source` `prompt-engineering`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 3-sentence summary for the sharpdeveye/maestro project:
+### English
 
-Maestro is an open-source project that streamlines workflow for AI coding agents, offering users a unified interface across multiple platforms. With its extensive library of 21 commands and 7 references, Maestro empowers developers to work seamlessly with popular tools like Cursor, Claude Code, Gemini CLI, Copilot, and more. By providing a single skill to access these diverse platforms, Maestro enhances the productivity and efficiency of AI-powered coding experiences.
+sharpdeveye/maestro: sharpdeveye/maestro helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+sharpdeveye/maestro: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+sharpdeveye/maestro：sharpdeveye/maestro helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** sharpdeveye/maestro helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 421 GitHub stars
+- 63 forks
+- updated 2026-09-10
+- primary language: TypeScript
+- 13 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 90/100 |
+| quality | 74/100 |
+| integration | 46/100 |
+| production | 71/100 |
+| outlook | 83/100 |
+| adoption | 53/100 |
+| categoryMatchCount | 400/100 |
+| stars | 56/100 |
+| forks | 45/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 70/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/sharpdeveye/maestro) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-09-10 · [View on GitHub](https://github.com/sharpdeveye/maestro) · [← Back to Orchestration](./README.md)</sub>

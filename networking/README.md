@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 546 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 498 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 10.9k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 70/100 |
 | 64 | [voidauth/voidauth](./voidauth-voidauth.md) | ⭐ 2.5k | TypeScript | 70/100 |
 | 65 | [k8snetworkplumbingwg/multus-cni](./k8snetworkplumbingwg-multus-cni.md) | ⭐ 2.9k | Go | 69/100 |
 | 66 | [pouriyajamshidi/tcping](./pouriyajamshidi-tcping.md) | ⭐ 1.3k | Go | 69/100 |

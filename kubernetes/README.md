@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [projectcalico/canal](./projectcalico-canal.md) | ⭐ 717 | — | 46/100 |
+| 1 | [projectcalico/canal](./projectcalico-canal.md) | ⭐ 717 | — | 43/100 |
 
 ---
 

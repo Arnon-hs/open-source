@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35279** |
-| **Categories** | **155** |
+| **Projects** | **35290** |
+| **Categories** | **158** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,26 +23,26 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13157 | [Browse →](./misc/) |
+| 📦 **Misc** | 13159 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4074 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2595 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2217 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2218 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1536 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1272 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 896 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 854 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 760 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 613 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 605 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 569 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 562 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 555 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 473 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 463 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 464 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 422 | [Browse →](./templates/) |
-| 🔐 **Security** | 378 | [Browse →](./security/) |
+| 🔐 **Security** | 379 | [Browse →](./security/) |
 | 🏷️ **Communication** | 371 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 347 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 348 | [Browse →](./video-editing/) |
 | 📊 **Data** | 323 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 313 | [Browse →](./payments/) |
@@ -95,6 +95,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Session-replay** | 1 | [Browse →](./session-replay/) |
+| 🏷️ **Ai-coding** | 1 | [Browse →](./ai-coding/) |
+| 🏷️ **Financial-data** | 1 | [Browse →](./financial-data/) |
 | 🏷️ **Secrets** | 1 | [Browse →](./secrets/) |
 | 🏷️ **Css-art** | 1 | [Browse →](./css-art/) |
 | 🏷️ **Booking** | 1 | [Browse →](./booking/) |
