@@ -2,7 +2,7 @@
 
 > 
 
-**15 projects** in this category.
+**16 projects** in this category.
 
 ## Projects
 
@@ -15,14 +15,15 @@
 | 5 | [gitpython-developers/GitPython](./gitpython-developers-gitpython.md) | ⭐ 5.2k | Python | 59/100 |
 | 6 | [xiaowu0162/LongMemEval](./xiaowu0162-longmemeval.md) | ⭐ 1.1k | Python | 53/100 |
 | 7 | [joacod/self-context](./joacod-self-context.md) | ⭐ 1 | Python | 50/100 |
-| 8 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 47/100 |
-| 9 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
-| 10 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
-| 11 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 12 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 13 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 14 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 15 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 8 | [jastfan/github-trending](./jastfan-github-trending.md) | ⭐ 2 | HTML | 47/100 |
+| 9 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 47/100 |
+| 10 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
+| 11 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
+| 12 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 13 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 14 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 15 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 16 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

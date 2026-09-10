@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35205** |
-| **Categories** | **144** |
+| **Projects** | **35210** |
+| **Categories** | **145** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -33,15 +33,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 852 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 613 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 604 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 605 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 567 | [Browse →](./knowledgerag/) |
-| 📱 **Mobile** | 561 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 562 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 555 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 471 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 463 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 422 | [Browse →](./templates/) |
 | 🔐 **Security** | 377 | [Browse →](./security/) |
-| 🏷️ **Communication** | 370 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 371 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 342 | [Browse →](./video-editing/) |
 | 📊 **Data** | 321 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
@@ -55,7 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 15 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 16 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
@@ -90,6 +90,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Backtesting** | 1 | [Browse →](./backtesting/) |
 | 🏷️ **Operating-systems** | 1 | [Browse →](./operating-systems/) |
 | 🏷️ **Disaster-recovery** | 1 | [Browse →](./disaster-recovery/) |
 | 🏷️ **React** | 1 | [Browse →](./react/) |
