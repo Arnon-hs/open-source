@@ -614,8 +614,8 @@
 | 604 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ — | — | 38/100 |
 | 605 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 606 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 38/100 |
-| 607 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
-| 608 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
+| 607 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
+| 608 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
 | 609 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |
 | 610 | [williamanjo/json-pdf-designer](./williamanjo-json-pdf-designer.md) | ⭐ — | TypeScript | 36/100 |
 | 611 | [stirlinglabs/stirling-pdf](./stirlinglabs-stirling-pdf.md) | ⭐ — | — | 36/100 |
