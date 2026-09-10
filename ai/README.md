@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 1.9k | Go | 70/100 |
+| 1 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 1.9k | Go | 67/100 |
 | 2 | [yanairon/taskpods](./yanairon-taskpods.md) | ⭐ 5 | Python | 66/100 |
 | 3 | [Ovid/paad](./ovid-paad.md) | ⭐ 110 | Python | 65/100 |
 | 4 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 62/100 |
