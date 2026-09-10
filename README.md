@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35195** |
-| **Categories** | **141** |
+| **Projects** | **35200** |
+| **Categories** | **142** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13128 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4069 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13129 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4070 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2594 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2216 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
+| 🏷️ **Ml** | 3 | [Browse →](./ml/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
