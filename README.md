@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35290** |
+| **Projects** | **35291** |
 | **Categories** | **158** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 605 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 569 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 562 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 555 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 556 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 473 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 464 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 422 | [Browse →](./templates/) |
