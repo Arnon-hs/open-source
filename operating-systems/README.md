@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [adriantips/boltossource](./adriantips-boltossource.md) | ⭐ — | — | 24/100 |
+| 1 | [adriantips/boltossource](./adriantips-boltossource.md) | ⭐ 2 | C | 45/100 |
 
 ---
 
