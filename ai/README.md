@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -23,9 +23,10 @@
 | 13 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
 | 14 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
 | 15 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 16 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 17 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 18 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 16 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 17 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 18 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 19 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

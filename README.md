@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35322** |
-| **Categories** | **162** |
+| **Projects** | **35326** |
+| **Categories** | **163** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -55,24 +55,25 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 18 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 19 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
+| 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
 | 🏷️ **Desktop** | 3 | [Browse →](./desktop/) |
 | 🏷️ **Ml** | 3 | [Browse →](./ml/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
-| 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Macos** | 2 | [Browse →](./macos/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
@@ -95,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
 | 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Sql** | 1 | [Browse →](./sql/) |
 | 🏷️ **Browser** | 1 | [Browse →](./browser/) |
@@ -163,7 +165,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-native-delivery** | 1 | [Browse →](./ai-native-delivery/) |
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
-| 🏷️ **Macos** | 1 | [Browse →](./macos/) |
 | 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
 | 🏷️ **Bazi** | 1 | [Browse →](./bazi/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
