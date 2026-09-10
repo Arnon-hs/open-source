@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nasrulhazim/claude](./nasrulhazim-claude.md) | ⭐ 22 | Shell | 42/100 |
+| 1 | [HarjjotSinghh/jot](./harjjotsinghh-jot.md) | ⭐ — | HTML | 43/100 |
 
 ---
 
