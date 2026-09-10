@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [darksider4all/leadgen-mcp](./darksider4all-leadgen-mcp.md) | ⭐ — | Python | 66/100 |
+| 1 | [darksider4all/leadgen-mcp](./darksider4all-leadgen-mcp.md) | ⭐ — | Python | 63/100 |
 | 2 | [anthropic/mcp](./anthropic-mcp.md) | ⭐ — | — | 32/100 |
 
 ---
