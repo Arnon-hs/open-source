@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MRIGL/smart-scraper-m2m](./mrigl-smart-scraper-m2m.md) | ⭐ — | JavaScript | 58/100 |
+| 1 | [aio-libs/yarl](./aio-libs-yarl.md) | ⭐ 1.5k | Python | 59/100 |
 
 ---
 
