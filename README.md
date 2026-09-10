@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35256** |
-| **Categories** | **152** |
+| **Projects** | **35267** |
+| **Categories** | **154** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13146 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4073 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13151 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4074 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2595 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2216 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2217 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1536 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1271 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 896 | [Browse →](./backend/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 471 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 463 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 422 | [Browse →](./templates/) |
-| 🔐 **Security** | 377 | [Browse →](./security/) |
+| 🔐 **Security** | 378 | [Browse →](./security/) |
 | 🏷️ **Communication** | 371 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 346 | [Browse →](./video-editing/) |
 | 📊 **Data** | 323 | [Browse →](./data/) |
@@ -55,7 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 17 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 18 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
@@ -95,6 +95,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Css-art** | 1 | [Browse →](./css-art/) |
+| 🏷️ **Booking** | 1 | [Browse →](./booking/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Feishu** | 1 | [Browse →](./feishu/) |
