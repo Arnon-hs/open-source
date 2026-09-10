@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35228** |
+| **Projects** | **35233** |
 | **Categories** | **147** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13135 | [Browse →](./misc/) |
+| 📦 **Misc** | 13136 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4072 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2594 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2216 | [Browse →](./orchestration/) |
@@ -55,7 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 16 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 17 | [Browse →](./ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
@@ -73,6 +73,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
+| 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
+| 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
 | 🏷️ **Headless-cms** | 2 | [Browse →](./headless-cms/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Webhooks** | 2 | [Browse →](./webhooks/) |
@@ -99,7 +102,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Kubernetes** | 1 | [Browse →](./kubernetes/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
-| 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
 | 🏷️ **Multi-tenant** | 1 | [Browse →](./multi-tenant/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
@@ -127,7 +129,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloudflare** | 1 | [Browse →](./cloudflare/) |
 | 🏷️ **Micropayments** | 1 | [Browse →](./micropayments/) |
 | 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
-| 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Ide** | 1 | [Browse →](./ide/) |
 | 🏷️ **Quantum-computing** | 1 | [Browse →](./quantum-computing/) |
 | 🏷️ **Rpa** | 1 | [Browse →](./rpa/) |
@@ -158,7 +159,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Excel** | 1 | [Browse →](./excel/) |
-| 🏷️ **Coding-agents** | 1 | [Browse →](./coding-agents/) |
 | 🏷️ **N8n** | 1 | [Browse →](./n8n/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Local-seo** | 1 | [Browse →](./local-seo/) |

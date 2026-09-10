@@ -2,7 +2,7 @@
 
 > 
 
-**16 projects** in this category.
+**17 projects** in this category.
 
 ## Projects
 
@@ -18,12 +18,13 @@
 | 8 | [jastfan/github-trending](./jastfan-github-trending.md) | ⭐ 2 | HTML | 47/100 |
 | 9 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 47/100 |
 | 10 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
-| 11 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
-| 12 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 13 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 14 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 15 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 16 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 11 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 43/100 |
+| 12 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
+| 13 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 14 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 15 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 16 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 17 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

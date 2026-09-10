@@ -1,6 +1,6 @@
 # victordibia/designing-multiagent-systems
 
-[![Stars](https://img.shields.io/github/stars/victordibia/designing-multiagent-systems?style=flat-square&color=yellow)](https://github.com/victordibia/designing-multiagent-systems/stargazers) [![Forks](https://img.shields.io/github/forks/victordibia/designing-multiagent-systems?style=flat-square&color=blue)](https://github.com/victordibia/designing-multiagent-systems/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/victordibia/designing-multiagent-systems?style=flat-square&color=yellow)](https://github.com/victordibia/designing-multiagent-systems/stargazers) [![Forks](https://img.shields.io/github/forks/victordibia/designing-multiagent-systems?style=flat-square&color=blue)](https://github.com/victordibia/designing-multiagent-systems/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Builds multi-agent systems from first principles using the PicoAgents framework.  https://t.co/oTEiOg5yiG https://t.co/GCfpiZiKQx https://github.com/victordibia/designing-multiagent-systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 836 |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ victordibia/designing-multiagent-systems：victordibia/designing-multiagent-syst
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 61/100 |
 | categoryMatchCount | 200/100 |
 | stars | 62/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
