@@ -81,8 +81,8 @@
 | 71 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.2k | Python | 65/100 |
 | 72 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 1.9k | C++ | 65/100 |
 | 73 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.5k | C++ | 65/100 |
-| 74 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 75 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 74 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 75 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 76 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 725 | TypeScript | 65/100 |
 | 77 | [logto-io/logto](./logto-io-logto.md) | ⭐ 12.7k | TypeScript | 65/100 |
 | 78 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 348 | TypeScript | 65/100 |
