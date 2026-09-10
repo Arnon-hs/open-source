@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35301** |
-| **Categories** | **161** |
+| **Projects** | **35306** |
+| **Categories** | **162** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13165 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4075 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13168 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4076 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2595 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2218 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1536 | [Browse →](./devtools/) |
@@ -95,6 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Sql** | 1 | [Browse →](./sql/) |
 | 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Website-analysis** | 1 | [Browse →](./website-analysis/) |

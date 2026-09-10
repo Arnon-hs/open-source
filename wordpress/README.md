@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JackerArchitect/hide-login-secure](./jackerarchitect-hide-login-secure.md) | ⭐ — | PHP | 42/100 |
+| 1 | [damianhunziker/Wordpress-security-check](./damianhunziker-wordpress-security-check.md) | ⭐ — | Python | 30/100 |
 
 ---
 
