@@ -27,33 +27,38 @@ MCP
 
 ### English
 
-harishsg993010/damn-vulnerable-MCP-server: . Use it for MCP. 
+harishsg993010/damn-vulnerable-MCP-server: harishsg993010/damn-vulnerable-MCP-server helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-harishsg993010/damn-vulnerable-MCP-server: open-source проект в категориях MCP. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+harishsg993010/damn-vulnerable-MCP-server: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-harishsg993010/damn-vulnerable-MCP-server：。适合用于MCP。
+harishsg993010/damn-vulnerable-MCP-server：harishsg993010/damn-vulnerable-MCP-server helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** harishsg993010/damn-vulnerable-MCP-server helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 1336 GitHub stars
+- 174 forks
+- updated 2026-08-23
+- primary language: Python
 
-**Risks:** No metadata risk notes yet.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
