@@ -1,6 +1,6 @@
 # ThembaTman0/synthforge
 
-[![Stars](https://img.shields.io/github/stars/ThembaTman0/synthforge?style=flat-square&color=yellow)](https://github.com/ThembaTman0/synthforge/stargazers) [![Forks](https://img.shields.io/github/forks/ThembaTman0/synthforge?style=flat-square&color=blue)](https://github.com/ThembaTman0/synthforge/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThembaTman0/synthforge?style=flat-square&color=yellow)](https://github.com/ThembaTman0/synthforge/stargazers) [![Forks](https://img.shields.io/github/forks/ThembaTman0/synthforge?style=flat-square&color=blue)](https://github.com/ThembaTman0/synthforge/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > JPA-aware fake data seeding for Spring Boot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ ThembaTman0/synthforge：ThembaTman0/synthforge may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

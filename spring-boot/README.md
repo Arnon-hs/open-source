@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ThembaTman0/synthforge](./thembatman0-synthforge.md) | ⭐ — | Java | 44/100 |
+| 1 | [ThembaTman0/synthforge](./thembatman0-synthforge.md) | ⭐ — | Java | 41/100 |
 
 ---
 
