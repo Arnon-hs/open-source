@@ -1,6 +1,6 @@
 # OpenZeppelin/openzeppelin-contracts
 
-[![Stars](https://img.shields.io/github/stars/OpenZeppelin/openzeppelin-contracts?style=flat-square&color=yellow)](https://github.com/OpenZeppelin/openzeppelin-contracts/stargazers) [![Forks](https://img.shields.io/github/forks/OpenZeppelin/openzeppelin-contracts?style=flat-square&color=blue)](https://github.com/OpenZeppelin/openzeppelin-contracts/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenZeppelin/openzeppelin-contracts?style=flat-square&color=yellow)](https://github.com/OpenZeppelin/openzeppelin-contracts/stargazers) [![Forks](https://img.shields.io/github/forks/OpenZeppelin/openzeppelin-contracts?style=flat-square&color=blue)](https://github.com/OpenZeppelin/openzeppelin-contracts/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > OpenZeppelin Contracts is a library for secure smart contract development.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.2k |
 | 🍴 **Forks** | 12.4k |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ OpenZeppelin/openzeppelin-contracts：OpenZeppelin/openzeppelin-contracts may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 81/100 |
+| production | 67/100 |
+| outlook | 74/100 |
 | adoption | 96/100 |
 | categoryMatchCount | 700/100 |
 | stars | 94/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
