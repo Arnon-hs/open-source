@@ -1,6 +1,6 @@
 # tidwall/gjson
 
-[![Stars](https://img.shields.io/github/stars/tidwall/gjson?style=flat-square&color=yellow)](https://github.com/tidwall/gjson/stargazers) [![Forks](https://img.shields.io/github/forks/tidwall/gjson?style=flat-square&color=blue)](https://github.com/tidwall/gjson/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tidwall/gjson?style=flat-square&color=yellow)](https://github.com/tidwall/gjson/stargazers) [![Forks](https://img.shields.io/github/forks/tidwall/gjson?style=flat-square&color=blue)](https://github.com/tidwall/gjson/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Get JSON values quickly - JSON parser for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.6k |
 | 🍴 **Forks** | 911 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ tidwall/gjson：tidwall/gjson may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 85/100 |
 | categoryMatchCount | 500/100 |
 | stars | 89/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 
