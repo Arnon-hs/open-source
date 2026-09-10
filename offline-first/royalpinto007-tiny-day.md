@@ -1,6 +1,6 @@
 # royalpinto007/Tiny-Day
 
-[![Stars](https://img.shields.io/github/stars/royalpinto007/Tiny-Day?style=flat-square&color=yellow)](https://github.com/royalpinto007/Tiny-Day/stargazers) [![Forks](https://img.shields.io/github/forks/royalpinto007/Tiny-Day?style=flat-square&color=blue)](https://github.com/royalpinto007/Tiny-Day/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/royalpinto007/Tiny-Day?style=flat-square&color=yellow)](https://github.com/royalpinto007/Tiny-Day/stargazers) [![Forks](https://img.shields.io/github/forks/royalpinto007/Tiny-Day?style=flat-square&color=blue)](https://github.com/royalpinto007/Tiny-Day/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A cozy, offline-first daily planner for Android — gentle scheduling, focus, replanning, and no accounts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ royalpinto007/Tiny-Day：royalpinto007/Tiny-Day may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 62/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
