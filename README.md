@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35184** |
+| **Projects** | **35189** |
 | **Categories** | **140** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,26 +23,26 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13124 | [Browse →](./misc/) |
+| 📦 **Misc** | 13125 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4069 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2594 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2216 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1535 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1270 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 895 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 851 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 852 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 759 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 613 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 604 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 567 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 561 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 555 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 469 | [Browse →](./database/) |
+| 🏷️ **Database** | 470 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 463 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 422 | [Browse →](./templates/) |
 | 🔐 **Security** | 377 | [Browse →](./security/) |
 | 🏷️ **Communication** | 370 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 341 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 342 | [Browse →](./video-editing/) |
 | 📊 **Data** | 321 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 313 | [Browse →](./payments/) |
@@ -71,6 +71,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Webhooks** | 2 | [Browse →](./webhooks/) |
 | 🏷️ **Local-deployment** | 2 | [Browse →](./local-deployment/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
@@ -122,7 +123,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ide** | 1 | [Browse →](./ide/) |
 | 🏷️ **Quantum-computing** | 1 | [Browse →](./quantum-computing/) |
 | 🏷️ **Rpa** | 1 | [Browse →](./rpa/) |
-| 🏷️ **Self-hosted** | 1 | [Browse →](./self-hosted/) |
 | 🏷️ **Astro** | 1 | [Browse →](./astro/) |
 | 🏷️ **Expense-management** | 1 | [Browse →](./expense-management/) |
 | 🏷️ **Bot-protection** | 1 | [Browse →](./bot-protection/) |

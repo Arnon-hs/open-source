@@ -1,6 +1,6 @@
 # pmdroid/tesla-vehicle-command
 
-[![Stars](https://img.shields.io/github/stars/pmdroid/tesla-vehicle-command?style=flat-square&color=yellow)](https://github.com/pmdroid/tesla-vehicle-command/stargazers) [![Forks](https://img.shields.io/github/forks/pmdroid/tesla-vehicle-command?style=flat-square&color=blue)](https://github.com/pmdroid/tesla-vehicle-command/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pmdroid/tesla-vehicle-command?style=flat-square&color=yellow)](https://github.com/pmdroid/tesla-vehicle-command/stargazers) [![Forks](https://img.shields.io/github/forks/pmdroid/tesla-vehicle-command?style=flat-square&color=blue)](https://github.com/pmdroid/tesla-vehicle-command/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Tesla vehicles now support a new protocol that ensures secure, end-to-end command authentication. This C++ and Arduino library uses this protocol to control vehicle functions, such as climate control and charging.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ pmdroid/tesla-vehicle-command：pmdroid/tesla-vehicle-command may be useful when
 - updated 2026-09-07
 - primary language: C
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 55/100 |
+| outlook | 52/100 |
 | adoption | 24/100 |
 | categoryMatchCount | 600/100 |
 | stars | 28/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
