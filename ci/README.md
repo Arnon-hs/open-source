@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [soloncode/soloncode](./soloncode-soloncode.md) | ⭐ — | — | 24/100 |
-| 2 | [supabase/supabase-dotnet](./supabase-supabase-dotnet.md) | ⭐ — | — | 24/100 |
+| 1 | [korovin-aa97/ci-evidence-gate](./korovin-aa97-ci-evidence-gate.md) | ⭐ 6 | Python | 59/100 |
+| 2 | [korovin-aa97/fleet-failure-atlas](./korovin-aa97-fleet-failure-atlas.md) | ⭐ 7 | Python | 51/100 |
 
 ---
 

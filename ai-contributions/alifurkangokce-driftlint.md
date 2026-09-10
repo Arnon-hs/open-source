@@ -1,6 +1,6 @@
 # alifurkangokce/driftlint
 
-[![Stars](https://img.shields.io/github/stars/alifurkangokce/driftlint?style=flat-square&color=yellow)](https://github.com/alifurkangokce/driftlint/stargazers) [![Forks](https://img.shields.io/github/forks/alifurkangokce/driftlint?style=flat-square&color=blue)](https://github.com/alifurkangokce/driftlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alifurkangokce/driftlint?style=flat-square&color=yellow)](https://github.com/alifurkangokce/driftlint/stargazers) [![Forks](https://img.shields.io/github/forks/alifurkangokce/driftlint?style=flat-square&color=blue)](https://github.com/alifurkangokce/driftlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Finds the claims in your CLAUDE.md / AGENTS.md / skills that your code no longer supports. Zero-config, no API key.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ alifurkangokce/driftlint：alifurkangokce/driftlint may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 20/100 |
 | categoryMatchCount | 500/100 |
 | stars | 22/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
