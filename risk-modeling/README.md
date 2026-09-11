@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fengyuGbt/crash_simulator](./fengyugbt-crash-simulator.md) | ⭐ — | Python | 39/100 |
+| 1 | [fengyuGbt/crash_simulator](./fengyugbt-crash-simulator.md) | ⭐ — | Python | 36/100 |
 
 ---
 
