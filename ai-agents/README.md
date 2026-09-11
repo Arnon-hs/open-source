@@ -2,7 +2,7 @@
 
 > 
 
-**5 projects** in this category.
+**6 projects** in this category.
 
 ## Projects
 
@@ -13,6 +13,7 @@
 | 3 | [alexar76/aicom](./alexar76-aicom.md) | ⭐ 6 | Python | 67/100 |
 | 4 | [arthneura/arthneura-market](./arthneura-arthneura-market.md) | ⭐ 1 | Go | 47/100 |
 | 5 | [arthneura/arthneura-core](./arthneura-arthneura-core.md) | ⭐ 2 | Rust | 42/100 |
+| 6 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 41/100 |
 
 ---
 
