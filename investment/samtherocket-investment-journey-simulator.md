@@ -1,6 +1,6 @@
 # SAMtheROCKET/investment-journey-simulator
 
-[![Stars](https://img.shields.io/github/stars/SAMtheROCKET/investment-journey-simulator?style=flat-square&color=yellow)](https://github.com/SAMtheROCKET/investment-journey-simulator/stargazers) [![Forks](https://img.shields.io/github/forks/SAMtheROCKET/investment-journey-simulator?style=flat-square&color=blue)](https://github.com/SAMtheROCKET/investment-journey-simulator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SAMtheROCKET/investment-journey-simulator?style=flat-square&color=yellow)](https://github.com/SAMtheROCKET/investment-journey-simulator/stargazers) [![Forks](https://img.shields.io/github/forks/SAMtheROCKET/investment-journey-simulator?style=flat-square&color=blue)](https://github.com/SAMtheROCKET/investment-journey-simulator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > An investment journey simulator for beginners and advanced investors - model contributions, pauses, withdrawals, timing, tax and rebalancing, then see how each decision changes long-term outcomes and why.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ SAMtheROCKET/investment-journey-simulator：SAMtheROCKET/investment-journey-simu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 62/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

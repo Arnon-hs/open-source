@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SAMtheROCKET/investment-journey-simulator](./samtherocket-investment-journey-simulator.md) | ⭐ 1 | Python | 48/100 |
+| 1 | [SAMtheROCKET/investment-journey-simulator](./samtherocket-investment-journey-simulator.md) | ⭐ 1 | Python | 45/100 |
 
 ---
 
