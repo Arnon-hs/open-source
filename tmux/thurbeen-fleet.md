@@ -1,6 +1,6 @@
 # Thurbeen/fleet
 
-[![Stars](https://img.shields.io/github/stars/Thurbeen/fleet?style=flat-square&color=yellow)](https://github.com/Thurbeen/fleet/stargazers) [![Forks](https://img.shields.io/github/forks/Thurbeen/fleet?style=flat-square&color=blue)](https://github.com/Thurbeen/fleet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Thurbeen/fleet?style=flat-square&color=yellow)](https://github.com/Thurbeen/fleet/stargazers) [![Forks](https://img.shields.io/github/forks/Thurbeen/fleet?style=flat-square&color=blue)](https://github.com/Thurbeen/fleet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Template control plane: a map of your repos + self-contained thurbox orchestration (playbooks & run logs).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Thurbeen/fleet：Thurbeen/fleet may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 54/100 |
+| production | 53/100 |
+| outlook | 47/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
