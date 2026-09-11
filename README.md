@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35424** |
+| **Projects** | **35429** |
 | **Categories** | **178** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13217 | [Browse →](./misc/) |
+| 📦 **Misc** | 13220 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4077 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2598 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -55,7 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 21 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 22 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 7 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
@@ -199,7 +200,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
 | 🏷️ **Rails** | 1 | [Browse →](./rails/) |
 | 🏷️ **Qa** | 1 | [Browse →](./qa/) |
-| 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
 | 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |
 
 ## Top projects by score

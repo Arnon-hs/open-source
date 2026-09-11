@@ -84,8 +84,8 @@
 | 74 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 184 | Rust | 64/100 |
 | 75 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 76 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 77 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 63/100 |
-| 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 63/100 |
+| 77 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 63/100 |
+| 78 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 63/100 |
 | 79 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 63/100 |
 | 80 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 127 | Python | 63/100 |
 | 81 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4k | TypeScript | 63/100 |
