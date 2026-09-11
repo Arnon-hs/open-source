@@ -1,6 +1,6 @@
 # rameswaran-mohan/project-systemu
 
-[![Stars](https://img.shields.io/github/stars/rameswaran-mohan/project-systemu?style=flat-square&color=yellow)](https://github.com/rameswaran-mohan/project-systemu/stargazers) [![Forks](https://img.shields.io/github/forks/rameswaran-mohan/project-systemu?style=flat-square&color=blue)](https://github.com/rameswaran-mohan/project-systemu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rameswaran-mohan/project-systemu?style=flat-square&color=yellow)](https://github.com/rameswaran-mohan/project-systemu/stargazers) [![Forks](https://img.shields.io/github/forks/rameswaran-mohan/project-systemu?style=flat-square&color=blue)](https://github.com/rameswaran-mohan/project-systemu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source AI agent that builds the tools it's missing, mid-task — under your governance. Pull capabilities at runtime instead of pre-wiring them. Local-first, MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ rameswaran-mohan/project-systemu：rameswaran-mohan/project-systemu may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
