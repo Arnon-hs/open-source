@@ -2,7 +2,7 @@
 
 > 
 
-**20 projects** in this category.
+**21 projects** in this category.
 
 ## Projects
 
@@ -20,14 +20,15 @@
 | 10 | [jastfan/github-trending](./jastfan-github-trending.md) | ⭐ 2 | HTML | 47/100 |
 | 11 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
 | 12 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
-| 13 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 43/100 |
-| 14 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
-| 15 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 16 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 17 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 18 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 19 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 20 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 13 | [Om-Talaviya/claude-trade-skills](./om-talaviya-claude-trade-skills.md) | ⭐ — | — | 43/100 |
+| 14 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 43/100 |
+| 15 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
+| 16 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 17 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 18 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 19 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 20 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 21 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 
