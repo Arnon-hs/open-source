@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [DeveloperPuneet/Devlogr](./developerpuneet-devlogr.md) | ⭐ — | JavaScript | 56/100 |
+| 1 | [DeveloperPuneet/Devlogr](./developerpuneet-devlogr.md) | ⭐ — | JavaScript | 53/100 |
 
 ---
 
