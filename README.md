@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35374** |
-| **Categories** | **173** |
+| **Projects** | **35379** |
+| **Categories** | **175** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13192 | [Browse →](./misc/) |
+| 📦 **Misc** | 13195 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4077 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2597 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2218 | [Browse →](./orchestration/) |
@@ -99,6 +99,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Android** | 1 | [Browse →](./android/) |
+| 🏷️ **Vector-search** | 1 | [Browse →](./vector-search/) |
 | 🏷️ **Reactive-agents** | 1 | [Browse →](./reactive-agents/) |
 | 🏷️ **Self-hosted-analytics** | 1 | [Browse →](./self-hosted-analytics/) |
 | 🏷️ **Remote-support** | 1 | [Browse →](./remote-support/) |
