@@ -12,8 +12,8 @@
 | 2 | [yanairon/taskpods](./yanairon-taskpods.md) | ⭐ 5 | Python | 66/100 |
 | 3 | [Ovid/paad](./ovid-paad.md) | ⭐ 110 | Python | 65/100 |
 | 4 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 62/100 |
-| 5 | [KeibiSoft/KeibiDrop](./keibisoft-keibidrop.md) | ⭐ 59 | Go | 61/100 |
-| 6 | [gitpython-developers/GitPython](./gitpython-developers-gitpython.md) | ⭐ 5.2k | Python | 59/100 |
+| 5 | [gitpython-developers/GitPython](./gitpython-developers-gitpython.md) | ⭐ 5.2k | Python | 59/100 |
+| 6 | [KeibiSoft/KeibiDrop](./keibisoft-keibidrop.md) | ⭐ 59 | Go | 58/100 |
 | 7 | [xiaowu0162/LongMemEval](./xiaowu0162-longmemeval.md) | ⭐ 1.1k | Python | 53/100 |
 | 8 | [kenashe/ai-werewolf](./kenashe-ai-werewolf.md) | ⭐ 1 | — | 50/100 |
 | 9 | [joacod/self-context](./joacod-self-context.md) | ⭐ 1 | Python | 50/100 |

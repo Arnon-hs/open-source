@@ -1,6 +1,6 @@
 # KeibiSoft/KeibiDrop
 
-[![Stars](https://img.shields.io/github/stars/KeibiSoft/KeibiDrop?style=flat-square&color=yellow)](https://github.com/KeibiSoft/KeibiDrop/stargazers) [![Forks](https://img.shields.io/github/forks/KeibiSoft/KeibiDrop?style=flat-square&color=blue)](https://github.com/KeibiSoft/KeibiDrop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KeibiSoft/KeibiDrop?style=flat-square&color=yellow)](https://github.com/KeibiSoft/KeibiDrop/stargazers) [![Forks](https://img.shields.io/github/forks/KeibiSoft/KeibiDrop?style=flat-square&color=blue)](https://github.com/KeibiSoft/KeibiDrop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Share files between devices on demand. They show up as a folder on your computer, available instantly while downloading.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ KeibiSoft/KeibiDrop：KeibiSoft/KeibiDrop may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 71/100 |
+| production | 63/100 |
+| outlook | 64/100 |
 | adoption | 29/100 |
 | categoryMatchCount | 600/100 |
 | stars | 38/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
