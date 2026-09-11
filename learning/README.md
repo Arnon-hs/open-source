@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [richard_smith_154156d471ef/youtube-sidebar](./richard-smith-154156d471ef-youtube-sidebar.md) | ⭐ — | — | 24/100 |
+| 1 | [next-intl/next-intl](./next-intl-next-intl.md) | ⭐ — | — | 24/100 |
 
 ---
 
