@@ -1,6 +1,6 @@
 # AngleSharp/AngleSharp
 
-[![Stars](https://img.shields.io/github/stars/AngleSharp/AngleSharp?style=flat-square&color=yellow)](https://github.com/AngleSharp/AngleSharp/stargazers) [![Forks](https://img.shields.io/github/forks/AngleSharp/AngleSharp?style=flat-square&color=blue)](https://github.com/AngleSharp/AngleSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AngleSharp/AngleSharp?style=flat-square&color=yellow)](https://github.com/AngleSharp/AngleSharp/stargazers) [![Forks](https://img.shields.io/github/forks/AngleSharp/AngleSharp?style=flat-square&color=blue)](https://github.com/AngleSharp/AngleSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 597 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ AngleSharp/AngleSharp：AngleSharp/AngleSharp may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 80/100 |
+| production | 66/100 |
+| outlook | 73/100 |
 | adoption | 77/100 |
 | categoryMatchCount | 700/100 |
 | stars | 80/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
