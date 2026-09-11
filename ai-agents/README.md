@@ -2,7 +2,7 @@
 
 > 
 
-**7 projects** in this category.
+**8 projects** in this category.
 
 ## Projects
 
@@ -12,9 +12,10 @@
 | 2 | [rameswaran-mohan/project-systemu](./rameswaran-mohan-project-systemu.md) | ⭐ 2 | Python | 71/100 |
 | 3 | [alexar76/aicom](./alexar76-aicom.md) | ⭐ 6 | Python | 67/100 |
 | 4 | [arthneura/arthneura-market](./arthneura-arthneura-market.md) | ⭐ 1 | Go | 47/100 |
-| 5 | [arthneura/arthneura-core](./arthneura-arthneura-core.md) | ⭐ 2 | Rust | 42/100 |
-| 6 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 41/100 |
-| 7 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 5 | [eminsk/agentjit](./eminsk-agentjit.md) | ⭐ — | Python | 46/100 |
+| 6 | [arthneura/arthneura-core](./arthneura-arthneura-core.md) | ⭐ 2 | Rust | 42/100 |
+| 7 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 41/100 |
+| 8 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 

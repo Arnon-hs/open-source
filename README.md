@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35431** |
+| **Projects** | **35437** |
 | **Categories** | **178** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13220 | [Browse →](./misc/) |
+| 📦 **Misc** | 13224 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4077 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2599 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -56,7 +56,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 22 | [Browse →](./ai/) |
-| 🏷️ **Ai-agents** | 7 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 8 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Autonomous-agent** | 5 | [Browse →](./autonomous-agent/) |
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
@@ -101,7 +102,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
-| 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Ifttt** | 1 | [Browse →](./ifttt/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
 | 🏷️ **Android** | 1 | [Browse →](./android/) |
