@@ -18,8 +18,8 @@
 | 8 | [kenashe/ai-werewolf](./kenashe-ai-werewolf.md) | ⭐ 1 | — | 50/100 |
 | 9 | [joacod/self-context](./joacod-self-context.md) | ⭐ 1 | Python | 50/100 |
 | 10 | [jastfan/github-trending](./jastfan-github-trending.md) | ⭐ 2 | HTML | 47/100 |
-| 11 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 47/100 |
-| 12 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
+| 11 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
+| 12 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
 | 13 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 43/100 |
 | 14 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
 | 15 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
