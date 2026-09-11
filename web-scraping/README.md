@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aio-libs/yarl](./aio-libs-yarl.md) | ⭐ 1.5k | Python | 59/100 |
+| 1 | [aio-libs/yarl](./aio-libs-yarl.md) | ⭐ 1.5k | Python | 56/100 |
 
 ---
 

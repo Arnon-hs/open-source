@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35407** |
+| **Projects** | **35416** |
 | **Categories** | **177** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,18 +23,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13210 | [Browse →](./misc/) |
+| 📦 **Misc** | 13214 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4077 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2598 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1536 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1273 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1274 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 854 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 762 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 616 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 605 | [Browse →](./networking/) |
-| 🏷️ **Knowledgerag** | 569 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 570 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 562 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 557 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 473 | [Browse →](./database/) |
@@ -56,9 +56,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 21 | [Browse →](./ai/) |
+| 🏷️ **Ai-agents** | 7 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Ai-agents** | 6 | [Browse →](./ai-agents/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
+| 🏷️ **Autonomous-agent** | 5 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Llm** | 5 | [Browse →](./llm/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
@@ -72,7 +73,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
-| 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |

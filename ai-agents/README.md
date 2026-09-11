@@ -2,7 +2,7 @@
 
 > 
 
-**6 projects** in this category.
+**7 projects** in this category.
 
 ## Projects
 
@@ -14,6 +14,7 @@
 | 4 | [arthneura/arthneura-market](./arthneura-arthneura-market.md) | ⭐ 1 | Go | 47/100 |
 | 5 | [arthneura/arthneura-core](./arthneura-arthneura-core.md) | ⭐ 2 | Rust | 42/100 |
 | 6 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 41/100 |
+| 7 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 

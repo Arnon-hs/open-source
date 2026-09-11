@@ -1,6 +1,6 @@
 # aio-libs/yarl
 
-[![Stars](https://img.shields.io/github/stars/aio-libs/yarl?style=flat-square&color=yellow)](https://github.com/aio-libs/yarl/stargazers) [![Forks](https://img.shields.io/github/forks/aio-libs/yarl?style=flat-square&color=blue)](https://github.com/aio-libs/yarl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aio-libs/yarl?style=flat-square&color=yellow)](https://github.com/aio-libs/yarl/stargazers) [![Forks](https://img.shields.io/github/forks/aio-libs/yarl?style=flat-square&color=blue)](https://github.com/aio-libs/yarl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another URL library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ aio-libs/yarl：aio-libs/yarl may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 65/100 |
 | categoryMatchCount | 600/100 |
 | stars | 68/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
