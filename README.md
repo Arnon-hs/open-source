@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35354** |
+| **Projects** | **35357** |
 | **Categories** | **165** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13189 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4076 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13190 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4077 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2597 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2218 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1536 | [Browse →](./devtools/) |
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
 | 🏷️ **Macos** | 2 | [Browse →](./macos/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
@@ -104,7 +105,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sql** | 1 | [Browse →](./sql/) |
 | 🏷️ **Website-analysis** | 1 | [Browse →](./website-analysis/) |
 | 🏷️ **Session-replay** | 1 | [Browse →](./session-replay/) |
-| 🏷️ **Ai-coding** | 1 | [Browse →](./ai-coding/) |
 | 🏷️ **Financial-data** | 1 | [Browse →](./financial-data/) |
 | 🏷️ **Secrets** | 1 | [Browse →](./secrets/) |
 | 🏷️ **Css-art** | 1 | [Browse →](./css-art/) |

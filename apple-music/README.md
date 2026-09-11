@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [suleyman416/mcp-applemusic](./suleyman416-mcp-applemusic.md) | ⭐ — | Python | 59/100 |
+| 1 | [suleyman416/mcp-applemusic](./suleyman416-mcp-applemusic.md) | ⭐ — | Python | 56/100 |
 
 ---
 
