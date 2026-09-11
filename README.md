@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35417** |
-| **Categories** | **177** |
+| **Projects** | **35419** |
+| **Categories** | **178** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
@@ -99,6 +100,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Ifttt** | 1 | [Browse →](./ifttt/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
 | 🏷️ **Android** | 1 | [Browse →](./android/) |
@@ -138,7 +140,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
 | 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
-| 🏷️ **Audio** | 1 | [Browse →](./audio/) |
 | 🏷️ **Performance** | 1 | [Browse →](./performance/) |
 | 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
