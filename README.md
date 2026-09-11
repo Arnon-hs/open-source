@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35332** |
-| **Categories** | **163** |
+| **Projects** | **35335** |
+| **Categories** | **164** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13180 | [Browse →](./misc/) |
+| 📦 **Misc** | 13182 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4076 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2596 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2218 | [Browse →](./orchestration/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Legal-tech** | 1 | [Browse →](./legal-tech/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
 | 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Sql** | 1 | [Browse →](./sql/) |
