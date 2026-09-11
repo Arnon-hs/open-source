@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35383** |
-| **Categories** | **175** |
+| **Projects** | **35385** |
+| **Categories** | **176** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -61,6 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
+| 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
@@ -72,7 +73,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Autonomous-agent** | 3 | [Browse →](./autonomous-agent/) |
-| 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
@@ -99,6 +99,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Apx** | 1 | [Browse →](./apx/) |
 | 🏷️ **Android** | 1 | [Browse →](./android/) |
 | 🏷️ **Vector-search** | 1 | [Browse →](./vector-search/) |
 | 🏷️ **Reactive-agents** | 1 | [Browse →](./reactive-agents/) |
