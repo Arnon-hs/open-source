@@ -1,6 +1,6 @@
 # softaworks/agent-toolkit
 
-[![Stars](https://img.shields.io/github/stars/softaworks/agent-toolkit?style=flat-square&color=yellow)](https://github.com/softaworks/agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/softaworks/agent-toolkit?style=flat-square&color=blue)](https://github.com/softaworks/agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softaworks/agent-toolkit?style=flat-square&color=yellow)](https://github.com/softaworks/agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/softaworks/agent-toolkit?style=flat-square&color=blue)](https://github.com/softaworks/agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ softaworks/agent-toolkit：softaworks/agent-toolkit may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 88/100 |
+| production | 67/100 |
+| outlook | 81/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 500/100 |
 | stars | 72/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
