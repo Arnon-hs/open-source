@@ -1,6 +1,6 @@
 # Thurbeen/thurbox
 
-[![Stars](https://img.shields.io/github/stars/Thurbeen/thurbox?style=flat-square&color=yellow)](https://github.com/Thurbeen/thurbox/stargazers) [![Forks](https://img.shields.io/github/forks/Thurbeen/thurbox?style=flat-square&color=blue)](https://github.com/Thurbeen/thurbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Thurbeen/thurbox?style=flat-square&color=yellow)](https://github.com/Thurbeen/thurbox/stargazers) [![Forks](https://img.shields.io/github/forks/Thurbeen/thurbox?style=flat-square&color=blue)](https://github.com/Thurbeen/thurbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > TUI for agentic code orchestration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Thurbeen/thurbox：Thurbeen/thurbox may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 34/100 |
 | categoryMatchCount | 500/100 |
 | stars | 38/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
