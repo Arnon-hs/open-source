@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hunr-ai/onwrite](./hunr-ai-onwrite.md) | ⭐ — | Go | 63/100 |
+| 1 | [contactumairrana/omnitools-community](./contactumairrana-omnitools-community.md) | ⭐ — | — | 63/100 |
 
 ---
 
