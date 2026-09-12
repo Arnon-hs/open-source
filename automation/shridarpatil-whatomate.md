@@ -1,6 +1,6 @@
 # shridarpatil/whatomate
 
-[![Stars](https://img.shields.io/github/stars/shridarpatil/whatomate?style=flat-square&color=yellow)](https://github.com/shridarpatil/whatomate/stargazers) [![Forks](https://img.shields.io/github/forks/shridarpatil/whatomate?style=flat-square&color=blue)](https://github.com/shridarpatil/whatomate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shridarpatil/whatomate?style=flat-square&color=yellow)](https://github.com/shridarpatil/whatomate/stargazers) [![Forks](https://img.shields.io/github/forks/shridarpatil/whatomate?style=flat-square&color=blue)](https://github.com/shridarpatil/whatomate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Runs a multi-tenant WhatsApp Business platform with AI chatbots, bulk campaigns, and IVR using a single binary app.  https://t.co/2AbpC7nYZm https://t.co/XFlH2S7x5u https://github.com/shridarpatil/whatomate
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 371 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Automation · Communication · Backend
 
 ### English
 
-shridarpatil/whatomate: shridarpatil/whatomate helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shridarpatil/whatomate: shridarpatil/whatomate helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-shridarpatil/whatomate: open-source проект в категориях Automation, Communication, Backend. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+shridarpatil/whatomate: open-source проект в категориях Automation, Communication, Backend. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-shridarpatil/whatomate：shridarpatil/whatomate helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shridarpatil/whatomate：shridarpatil/whatomate helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shridarpatil/whatomate：shridarpatil/whatomate helps remove repetitive manual o
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,15 +66,15 @@ shridarpatil/whatomate：shridarpatil/whatomate helps remove repetitive manual o
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 84/100 |
+| production | 69/100 |
+| outlook | 77/100 |
 | adoption | 67/100 |
 | categoryMatchCount | 300/100 |
 | stars | 68/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
