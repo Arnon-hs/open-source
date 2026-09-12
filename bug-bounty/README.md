@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [truongsontung/pr-monitor](./truongsontung-pr-monitor.md) | ⭐ — | Python | 46/100 |
+| 1 | [truongsontung/pr-monitor](./truongsontung-pr-monitor.md) | ⭐ — | Python | 43/100 |
 
 ---
 
