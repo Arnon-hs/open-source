@@ -1,6 +1,6 @@
 # GhostCoder6969/lead-intake-automation-demo
 
-[![Stars](https://img.shields.io/github/stars/GhostCoder6969/lead-intake-automation-demo?style=flat-square&color=yellow)](https://github.com/GhostCoder6969/lead-intake-automation-demo/stargazers) [![Forks](https://img.shields.io/github/forks/GhostCoder6969/lead-intake-automation-demo?style=flat-square&color=blue)](https://github.com/GhostCoder6969/lead-intake-automation-demo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GhostCoder6969/lead-intake-automation-demo?style=flat-square&color=yellow)](https://github.com/GhostCoder6969/lead-intake-automation-demo/stargazers) [![Forks](https://img.shields.io/github/forks/GhostCoder6969/lead-intake-automation-demo?style=flat-square&color=blue)](https://github.com/GhostCoder6969/lead-intake-automation-demo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Live test-data demo + fixed-price lead-intake automation builds (n8n/CRM/Slack). No fake clients, no stored data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ GhostCoder6969/lead-intake-automation-demo：GhostCoder6969/lead-intake-automati
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 58/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # XHToken/Spark-X2.5
 
-[![Stars](https://img.shields.io/github/stars/XHToken/Spark-X2.5?style=flat-square&color=yellow)](https://github.com/XHToken/Spark-X2.5/stargazers) [![Forks](https://img.shields.io/github/forks/XHToken/Spark-X2.5?style=flat-square&color=blue)](https://github.com/XHToken/Spark-X2.5/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XHToken/Spark-X2.5?style=flat-square&color=yellow)](https://github.com/XHToken/Spark-X2.5/stargazers) [![Forks](https://img.shields.io/github/forks/XHToken/Spark-X2.5?style=flat-square&color=blue)](https://github.com/XHToken/Spark-X2.5/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Spark-x2.5 open model series. Pushing the Limits of Agentic Capabilities in On-Device Models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ XHToken/Spark-X2.5：XHToken/Spark-X2.5 may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 75/100 |
+| production | 61/100 |
+| outlook | 68/100 |
 | adoption | 45/100 |
 | categoryMatchCount | 600/100 |
 | stars | 48/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
