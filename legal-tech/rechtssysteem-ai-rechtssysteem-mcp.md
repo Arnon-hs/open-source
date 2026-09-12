@@ -1,6 +1,6 @@
 # rechtssysteem-ai/rechtssysteem-mcp
 
-[![Stars](https://img.shields.io/github/stars/rechtssysteem-ai/rechtssysteem-mcp?style=flat-square&color=yellow)](https://github.com/rechtssysteem-ai/rechtssysteem-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rechtssysteem-ai/rechtssysteem-mcp?style=flat-square&color=blue)](https://github.com/rechtssysteem-ai/rechtssysteem-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rechtssysteem-ai/rechtssysteem-mcp?style=flat-square&color=yellow)](https://github.com/rechtssysteem-ai/rechtssysteem-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rechtssysteem-ai/rechtssysteem-mcp?style=flat-square&color=blue)](https://github.com/rechtssysteem-ai/rechtssysteem-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Eerlijke Nederlandse rechtspraak-laag voor AI-agents (MCP). Open-core client; model en lekkage-knip draaien op de servers van Rechtssysteem.ai.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -57,22 +57,22 @@ rechtssysteem-ai/rechtssysteem-mcp：rechtssysteem-ai/rechtssysteem-mcp may be u
 - primary language: Python
 - 5 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 78/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rechtssysteem-ai/rechtssysteem-mcp](./rechtssysteem-ai-rechtssysteem-mcp.md) | ⭐ — | Python | 65/100 |
+| 1 | [rechtssysteem-ai/rechtssysteem-mcp](./rechtssysteem-ai-rechtssysteem-mcp.md) | ⭐ — | Python | 62/100 |
 
 ---
 
