@@ -1,6 +1,6 @@
 # suzuran0y/CCTV-Smartphone-AI-Monitoring
 
-[![Stars](https://img.shields.io/github/stars/suzuran0y/CCTV-Smartphone-AI-Monitoring?style=flat-square&color=yellow)](https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring/stargazers) [![Forks](https://img.shields.io/github/forks/suzuran0y/CCTV-Smartphone-AI-Monitoring?style=flat-square&color=blue)](https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suzuran0y/CCTV-Smartphone-AI-Monitoring?style=flat-square&color=yellow)](https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring/stargazers) [![Forks](https://img.shields.io/github/forks/suzuran0y/CCTV-Smartphone-AI-Monitoring?style=flat-square&color=blue)](https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Repurposes unused Android devices as network camera nodes for distributed image acquisition and real-time PC-side video streaming with Sentinel.  https://t.co/rZYjkmKYmg https://t.co/SlFahoadDK https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 773 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ suzuran0y/CCTV-Smartphone-AI-Monitoring：suzuran0y/CCTV-Smartphone-AI-Monitorin
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 81/100 |
+| production | 65/100 |
+| outlook | 74/100 |
 | adoption | 57/100 |
 | categoryMatchCount | 300/100 |
 | stars | 61/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

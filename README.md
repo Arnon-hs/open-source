@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35529** |
-| **Categories** | **192** |
+| **Projects** | **35533** |
+| **Categories** | **193** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13275 | [Browse →](./misc/) |
+| 📦 **Misc** | 13276 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4078 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2601 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -38,11 +38,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 563 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 557 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 474 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 468 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 469 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 423 | [Browse →](./templates/) |
 | 🔐 **Security** | 382 | [Browse →](./security/) |
 | 🏷️ **Communication** | 375 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 353 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 354 | [Browse →](./video-editing/) |
 | 📊 **Data** | 323 | [Browse →](./data/) |
 | 💳 **Payments** | 315 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
@@ -105,6 +105,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Cro** | 1 | [Browse →](./cro/) |
 | 🏷️ **Seed4j** | 1 | [Browse →](./seed4j/) |
 | 🏷️ **Localization** | 1 | [Browse →](./localization/) |
 | 🏷️ **Data-integrity** | 1 | [Browse →](./data-integrity/) |
