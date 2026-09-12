@@ -1,6 +1,6 @@
 # Cocoon-AI/architecture-diagram-generator
 
-[![Stars](https://img.shields.io/github/stars/Cocoon-AI/architecture-diagram-generator?style=flat-square&color=yellow)](https://github.com/Cocoon-AI/architecture-diagram-generator/stargazers) [![Forks](https://img.shields.io/github/forks/Cocoon-AI/architecture-diagram-generator?style=flat-square&color=blue)](https://github.com/Cocoon-AI/architecture-diagram-generator/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cocoon-AI/architecture-diagram-generator?style=flat-square&color=yellow)](https://github.com/Cocoon-AI/architecture-diagram-generator/stargazers) [![Forks](https://img.shields.io/github/forks/Cocoon-AI/architecture-diagram-generator?style=flat-square&color=blue)](https://github.com/Cocoon-AI/architecture-diagram-generator/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Generate professional, dark-themed system architecture diagrams using the architecture-diagram-generator skill in https://t.co/caX8l7g1mV. By describing a system's components in plain text, users receive a standalone HTML file that includes built-in buttons for copying the diagram, downloading as PNG, or exporting to PDF.  https://t.co/XC9snMsvPn http://Claude.ai https://github.com/Cocoon-AI/architecture-diagram-generator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 555 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ Cocoon-AI/architecture-diagram-generator：Cocoon-AI/architecture-diagram-genera
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 78/100 |
 | categoryMatchCount | 200/100 |
 | stars | 82/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
