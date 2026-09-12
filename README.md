@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35525** |
-| **Categories** | **190** |
+| **Projects** | **35529** |
+| **Categories** | **192** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
+| 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Documentation** | 3 | [Browse →](./documentation/) |
 | 🏷️ **Desktop** | 3 | [Browse →](./desktop/) |
 | 🏷️ **Ml** | 3 | [Browse →](./ml/) |
@@ -74,13 +75,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
 | 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
-| 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
 | 🏷️ **Macos** | 2 | [Browse →](./macos/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
@@ -104,6 +105,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Seed4j** | 1 | [Browse →](./seed4j/) |
 | 🏷️ **Localization** | 1 | [Browse →](./localization/) |
 | 🏷️ **Data-integrity** | 1 | [Browse →](./data-integrity/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
