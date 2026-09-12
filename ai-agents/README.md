@@ -2,7 +2,7 @@
 
 > 
 
-**8 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
@@ -15,7 +15,8 @@
 | 5 | [eminsk/agentjit](./eminsk-agentjit.md) | ⭐ — | Python | 46/100 |
 | 6 | [arthneura/arthneura-core](./arthneura-arthneura-core.md) | ⭐ 2 | Rust | 42/100 |
 | 7 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 41/100 |
-| 8 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 8 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
+| 9 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 

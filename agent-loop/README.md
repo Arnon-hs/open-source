@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Madheshvivekanandan/agent-loop](./madheshvivekanandan-agent-loop.md) | ⭐ — | Shell | 41/100 |
+| 1 | [Madheshvivekanandan/agent-loop](./madheshvivekanandan-agent-loop.md) | ⭐ — | Shell | 37/100 |
 
 ---
 
