@@ -903,7 +903,7 @@
 | 893 | [AndyShaman/gemini-webapi-mcp](./andyshaman-gemini-webapi-mcp.md) | ⭐ 34 | Python | 72/100 |
 | 894 | [AliAkhtari78/SpotifyScraper](./aliakhtari78-spotifyscraper.md) | ⭐ 265 | Python | 72/100 |
 | 895 | [hmmhmmhm/daiso-mcp](./hmmhmmhm-daiso-mcp.md) | ⭐ 305 | TypeScript | 72/100 |
-| 896 | [7xuanlu/wenlan](./7xuanlu-wenlan.md) | ⭐ 45 | Rust | 72/100 |
+| 896 | [7xuanlu/wenlan](./7xuanlu-wenlan.md) | ⭐ 64 | Rust | 72/100 |
 | 897 | [osaurus-ai/osaurus](./osaurus-ai-osaurus.md) | ⭐ 6k | Swift | 72/100 |
 | 898 | [msaad00/agent-bom](./msaad00-agent-bom.md) | ⭐ 22 | Python | 72/100 |
 | 899 | [danmartuszewski/hop](./danmartuszewski-hop.md) | ⭐ 54 | Go | 72/100 |
