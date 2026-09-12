@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35486** |
+| **Projects** | **35488** |
 | **Categories** | **185** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13255 | [Browse →](./misc/) |
+| 📦 **Misc** | 13256 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4077 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2599 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
+| 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
 | 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
@@ -123,7 +124,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Legal-tech** | 1 | [Browse →](./legal-tech/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
-| 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Sql** | 1 | [Browse →](./sql/) |
 | 🏷️ **Website-analysis** | 1 | [Browse →](./website-analysis/) |
 | 🏷️ **Session-replay** | 1 | [Browse →](./session-replay/) |
