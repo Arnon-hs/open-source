@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [EbotGT/chat-memory-protocol](./ebotgt-chat-memory-protocol.md) | ⭐ — | — | 39/100 |
+| 1 | [EbotGT/chat-memory-protocol](./ebotgt-chat-memory-protocol.md) | ⭐ — | — | 36/100 |
 
 ---
 
