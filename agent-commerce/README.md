@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [alicelabs-llc/universal-trust-adapter](./alicelabs-llc-universal-trust-adapter.md) | ⭐ 1 | JavaScript | 57/100 |
+| 1 | [alicelabs-llc/universal-trust-adapter](./alicelabs-llc-universal-trust-adapter.md) | ⭐ 1 | JavaScript | 54/100 |
 
 ---
 

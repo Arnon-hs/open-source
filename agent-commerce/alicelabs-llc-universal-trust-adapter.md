@@ -1,6 +1,6 @@
 # alicelabs-llc/universal-trust-adapter
 
-[![Stars](https://img.shields.io/github/stars/alicelabs-llc/universal-trust-adapter?style=flat-square&color=yellow)](https://github.com/alicelabs-llc/universal-trust-adapter/stargazers) [![Forks](https://img.shields.io/github/forks/alicelabs-llc/universal-trust-adapter?style=flat-square&color=blue)](https://github.com/alicelabs-llc/universal-trust-adapter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alicelabs-llc/universal-trust-adapter?style=flat-square&color=yellow)](https://github.com/alicelabs-llc/universal-trust-adapter/stargazers) [![Forks](https://img.shields.io/github/forks/alicelabs-llc/universal-trust-adapter?style=flat-square&color=blue)](https://github.com/alicelabs-llc/universal-trust-adapter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > ATC/1.0 — Agent Trust Card protocol spec + reference impl. Ed25519 signatures, RFC 8785 JCS, 8 verification controls. The USB-C of agent trust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ alicelabs-llc/universal-trust-adapter：alicelabs-llc/universal-trust-adapter ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 800/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
