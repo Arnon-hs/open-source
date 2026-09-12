@@ -1,6 +1,6 @@
 # MongLong0214/frontier-simplify
 
-[![Stars](https://img.shields.io/github/stars/MongLong0214/frontier-simplify?style=flat-square&color=yellow)](https://github.com/MongLong0214/frontier-simplify/stargazers) [![Forks](https://img.shields.io/github/forks/MongLong0214/frontier-simplify?style=flat-square&color=blue)](https://github.com/MongLong0214/frontier-simplify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MongLong0214/frontier-simplify?style=flat-square&color=yellow)](https://github.com/MongLong0214/frontier-simplify/stargazers) [![Forks](https://img.shields.io/github/forks/MongLong0214/frontier-simplify?style=flat-square&color=blue)](https://github.com/MongLong0214/frontier-simplify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Frontier-simplify: skills built for Fable and Astra (gpt-6-astra). Cut invented process and bound repeated code reviews.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ MongLong0214/frontier-simplify：MongLong0214/frontier-simplify may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 57/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 400/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

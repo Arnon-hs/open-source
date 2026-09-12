@@ -1,6 +1,6 @@
 # carthworks/ai-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/carthworks/ai-agent-skills?style=flat-square&color=yellow)](https://github.com/carthworks/ai-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/carthworks/ai-agent-skills?style=flat-square&color=blue)](https://github.com/carthworks/ai-agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carthworks/ai-agent-skills?style=flat-square&color=yellow)](https://github.com/carthworks/ai-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/carthworks/ai-agent-skills?style=flat-square&color=blue)](https://github.com/carthworks/ai-agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Drop-in SKILL.md files that give your AI coding agent specialised capabilities
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ carthworks/ai-agent-skills：carthworks/ai-agent-skills may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 900/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 

@@ -19,10 +19,10 @@
 | 9 | [kenashe/ai-werewolf](./kenashe-ai-werewolf.md) | ⭐ 1 | — | 50/100 |
 | 10 | [jastfan/github-trending](./jastfan-github-trending.md) | ⭐ 2 | HTML | 47/100 |
 | 11 | [joacod/self-context](./joacod-self-context.md) | ⭐ 1 | Python | 47/100 |
-| 12 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 46/100 |
-| 13 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
-| 14 | [Om-Talaviya/claude-trade-skills](./om-talaviya-claude-trade-skills.md) | ⭐ — | — | 43/100 |
-| 15 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 43/100 |
+| 12 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
+| 13 | [Om-Talaviya/claude-trade-skills](./om-talaviya-claude-trade-skills.md) | ⭐ — | — | 43/100 |
+| 14 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 43/100 |
+| 15 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 43/100 |
 | 16 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
 | 17 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
 | 18 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
