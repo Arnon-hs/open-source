@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [F0Rextasy/bigbullui](./f0rextasy-bigbullui.md) | ⭐ — | TypeScript | 55/100 |
+| 1 | [F0Rextasy/bigbullui](./f0rextasy-bigbullui.md) | ⭐ — | TypeScript | 52/100 |
 
 ---
 
