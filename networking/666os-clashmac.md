@@ -62,18 +62,18 @@ Networking
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 65/100 |
-| outlook | 74/100 |
-| adoption | 75/100 |
-| categoryMatchCount | 100/100 |
-| stars | 81/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| stars | 81/100 |
 | topics | 88/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
+| adoption | 75/100 |
+| production | 65/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
