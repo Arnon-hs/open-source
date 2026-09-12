@@ -25,8 +25,8 @@
 | 15 | [joacod/self-context](./joacod-self-context.md) | ⭐ 1 | Python | 47/100 |
 | 16 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
 | 17 | [Om-Talaviya/claude-trade-skills](./om-talaviya-claude-trade-skills.md) | ⭐ — | — | 43/100 |
-| 18 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 43/100 |
-| 19 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 43/100 |
+| 18 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 43/100 |
+| 19 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
 | 20 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
 | 21 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
 | 22 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
