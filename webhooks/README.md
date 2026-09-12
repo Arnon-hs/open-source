@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Spoke94/spoke-hooks](./spoke94-spoke-hooks.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [Spoke94/spoke-hooks](./spoke94-spoke-hooks.md) | ⭐ — | TypeScript | 39/100 |
 | 2 | [yavonalabs/invariant](./yavonalabs-invariant.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
