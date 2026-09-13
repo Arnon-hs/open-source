@@ -1,6 +1,6 @@
 # alsk1992/CloddsBot
 
-[![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=flat-square&color=yellow)](https://github.com/alsk1992/CloddsBot/stargazers) [![Forks](https://img.shields.io/github/forks/alsk1992/CloddsBot?style=flat-square&color=blue)](https://github.com/alsk1992/CloddsBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=flat-square&color=yellow)](https://github.com/alsk1992/CloddsBot/stargazers) [![Forks](https://img.shields.io/github/forks/alsk1992/CloddsBot?style=flat-square&color=blue)](https://github.com/alsk1992/CloddsBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Runs a personal AI trading terminal that executes trades across 10 prediction markets and 7 futures exchanges via chat.  https://t.co/KmsiXR5ERc https://t.co/qbhMX6WYna https://github.com/alsk1992/CloddsBot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ alsk1992/CloddsBot：alsk1992/CloddsBot helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 65/100 |
 | categoryMatchCount | 500/100 |
 | stars | 67/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
