@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [robertzengcn/aiFetchly](./robertzengcn-aifetchly.md) | ⭐ — | TypeScript | 54/100 |
+| 1 | [robertzengcn/aiFetchly](./robertzengcn-aifetchly.md) | ⭐ — | TypeScript | 51/100 |
 
 ---
 
