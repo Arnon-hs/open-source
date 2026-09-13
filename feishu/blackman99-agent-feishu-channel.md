@@ -1,6 +1,6 @@
 # Blackman99/agent-feishu-channel
 
-[![Stars](https://img.shields.io/github/stars/Blackman99/agent-feishu-channel?style=flat-square&color=yellow)](https://github.com/Blackman99/agent-feishu-channel/stargazers) [![Forks](https://img.shields.io/github/forks/Blackman99/agent-feishu-channel?style=flat-square&color=blue)](https://github.com/Blackman99/agent-feishu-channel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Blackman99/agent-feishu-channel?style=flat-square&color=yellow)](https://github.com/Blackman99/agent-feishu-channel/stargazers) [![Forks](https://img.shields.io/github/forks/Blackman99/agent-feishu-channel?style=flat-square&color=blue)](https://github.com/Blackman99/agent-feishu-channel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Bridge Claude Code/Codex sessions to a Feishu (Lark) bot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Blackman99/agent-feishu-channel：Blackman99/agent-feishu-channel may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 61/100 |
+| outlook | 64/100 |
 | adoption | 31/100 |
 | categoryMatchCount | 800/100 |
 | stars | 36/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

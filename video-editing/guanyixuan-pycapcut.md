@@ -1,6 +1,6 @@
 # GuanYixuan/pyCapCut
 
-[![Stars](https://img.shields.io/github/stars/GuanYixuan/pyCapCut?style=flat-square&color=yellow)](https://github.com/GuanYixuan/pyCapCut/stargazers) [![Forks](https://img.shields.io/github/forks/GuanYixuan/pyCapCut?style=flat-square&color=blue)](https://github.com/GuanYixuan/pyCapCut/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GuanYixuan/pyCapCut?style=flat-square&color=yellow)](https://github.com/GuanYixuan/pyCapCut/stargazers) [![Forks](https://img.shields.io/github/forks/GuanYixuan/pyCapCut?style=flat-square&color=blue)](https://github.com/GuanYixuan/pyCapCut/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, flexible, and easy-to-use Python tool for generating and exporting CapCut drafts to build fully automated video editing/remix pipelines! Another similar project: https://github.com/GuanYixuan/pyJianYingDraft
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ GuanYixuan/pyCapCut：GuanYixuan/pyCapCut helps turn media editing, captions, re
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 82/100 |
+| production | 66/100 |
+| outlook | 75/100 |
 | adoption | 57/100 |
 | categoryMatchCount | 900/100 |
 | stars | 60/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

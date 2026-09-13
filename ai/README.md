@@ -12,8 +12,8 @@
 | 2 | [bigrivi/nova](./bigrivi-nova.md) | ⭐ — | Python | 69/100 |
 | 3 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 1.9k | Go | 67/100 |
 | 4 | [huggingface/text-generation-inference](./huggingface-text-generation-inference.md) | ⭐ 10.9k | Python | 66/100 |
-| 5 | [yanairon/taskpods](./yanairon-taskpods.md) | ⭐ 5 | Python | 66/100 |
-| 6 | [Ovid/paad](./ovid-paad.md) | ⭐ 110 | Python | 65/100 |
+| 5 | [Ovid/paad](./ovid-paad.md) | ⭐ 110 | Python | 65/100 |
+| 6 | [yanairon/taskpods](./yanairon-taskpods.md) | ⭐ 5 | Python | 63/100 |
 | 7 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 62/100 |
 | 8 | [golproductions/check](./golproductions-check.md) | ⭐ — | — | 60/100 |
 | 9 | [gitpython-developers/GitPython](./gitpython-developers-gitpython.md) | ⭐ 5.2k | Python | 59/100 |
