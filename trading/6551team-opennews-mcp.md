@@ -1,6 +1,6 @@
 # 6551Team/opennews-mcp
 
-[![Stars](https://img.shields.io/github/stars/6551Team/opennews-mcp?style=flat-square&color=yellow)](https://github.com/6551Team/opennews-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/6551Team/opennews-mcp?style=flat-square&color=blue)](https://github.com/6551Team/opennews-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/6551Team/opennews-mcp?style=flat-square&color=yellow)](https://github.com/6551Team/opennews-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/6551Team/opennews-mcp?style=flat-square&color=blue)](https://github.com/6551Team/opennews-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Aggregates data from 85+ real-time sources across news, markets, and prediction engines to generate AI-analyzed trading signals and impact scores.  https://t.co/FJtvreuNWr https://t.co/VRi2KvYCgX https://github.com/6551Team/opennews-mcp
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ Trading · MCP
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 200/100 |
 | stars | 71/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
