@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35575** |
-| **Categories** | **196** |
+| **Projects** | **35578** |
+| **Categories** | **197** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13309 | [Browse →](./misc/) |
+| 📦 **Misc** | 13310 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4083 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2602 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
+| 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
 | 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
@@ -100,6 +101,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
 | 🏷️ **Benchmark** | 1 | [Browse →](./benchmark/) |
 | 🏷️ **Selfhosting** | 1 | [Browse →](./selfhosting/) |
 | 🏷️ **Ticketing** | 1 | [Browse →](./ticketing/) |
@@ -167,7 +169,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-commerce** | 1 | [Browse →](./agent-commerce/) |
 | 🏷️ **Cursor** | 1 | [Browse →](./cursor/) |
 | 🏷️ **Chatgpt** | 1 | [Browse →](./chatgpt/) |
-| 🏷️ **Local-first** | 1 | [Browse →](./local-first/) |
 | 🏷️ **Investment** | 1 | [Browse →](./investment/) |
 | 🏷️ **C** | 1 | [Browse →](./c/) |
 | 🏷️ **Openclaw** | 1 | [Browse →](./openclaw/) |
