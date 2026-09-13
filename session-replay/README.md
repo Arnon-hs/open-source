@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rrweb-io/rrweb](./rrweb-io-rrweb.md) | ⭐ 20.1k | TypeScript | 65/100 |
+| 1 | [rrweb-io/rrweb](./rrweb-io-rrweb.md) | ⭐ 20.1k | TypeScript | 62/100 |
 
 ---
 

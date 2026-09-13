@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cccadet/omni-sql](./cccadet-omni-sql.md) | ⭐ — | TypeScript | 55/100 |
+| 1 | [cccadet/omni-sql](./cccadet-omni-sql.md) | ⭐ — | TypeScript | 52/100 |
 
 ---
 
