@@ -1,4 +1,4 @@
-# 🏷️ Financial-data
+# 🏷️ Secrets-management
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [arian-gogani/nobulex-registry](./arian-gogani-nobulex-registry.md) | ⭐ — | Python | 63/100 |
+| 1 | [your-repo/dopbase](./your-repo-dopbase.md) | ⭐ — | — | 24/100 |
 
 ---
 
