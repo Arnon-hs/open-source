@@ -1,6 +1,6 @@
 # Nicolepcx/transformers-the-definitive-guide
 
-[![Stars](https://img.shields.io/github/stars/Nicolepcx/transformers-the-definitive-guide?style=flat-square&color=yellow)](https://github.com/Nicolepcx/transformers-the-definitive-guide/stargazers) [![Forks](https://img.shields.io/github/forks/Nicolepcx/transformers-the-definitive-guide?style=flat-square&color=blue)](https://github.com/Nicolepcx/transformers-the-definitive-guide/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nicolepcx/transformers-the-definitive-guide?style=flat-square&color=yellow)](https://github.com/Nicolepcx/transformers-the-definitive-guide/stargazers) [![Forks](https://img.shields.io/github/forks/Nicolepcx/transformers-the-definitive-guide?style=flat-square&color=blue)](https://github.com/Nicolepcx/transformers-the-definitive-guide/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Provides the corresponding Jupyter notebooks for the Transformers: The Definitive Guide O'Reilly book, featuring code for vision, time series, audio, and reinforcement learning tasks.  https://t.co/HB6EMakEwa https://t.co/82cuPHIPIf https://github.com/Nicolepcx/transformers-the-definitive-guide
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ Nicolepcx/transformers-the-definitive-guide：Nicolepcx/transformers-the-definit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 77/100 |
+| production | 63/100 |
+| outlook | 70/100 |
 | adoption | 54/100 |
 | categoryMatchCount | 100/100 |
 | stars | 56/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
