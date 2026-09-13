@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35627** |
+| **Projects** | **35632** |
 | **Categories** | **195** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13340 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4089 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13344 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4090 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2604 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1537 | [Browse →](./devtools/) |
@@ -66,7 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
-| 🏷️ **Macos** | 3 | [Browse →](./macos/) |
+| 🏷️ **Self-hosted** | 3 | [Browse →](./self-hosted/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
@@ -77,6 +77,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Excel** | 2 | [Browse →](./excel/) |
+| 🏷️ **Macos** | 2 | [Browse →](./macos/) |
 | 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
@@ -89,7 +90,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Headless-cms** | 2 | [Browse →](./headless-cms/) |
-| 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Webhooks** | 2 | [Browse →](./webhooks/) |
 | 🏷️ **Local-deployment** | 2 | [Browse →](./local-deployment/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |

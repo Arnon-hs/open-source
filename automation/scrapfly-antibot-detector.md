@@ -65,18 +65,18 @@ scrapfly/Antibot-Detector：scrapfly/Antibot-Detector helps remove repetitive ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 69/100 |
-| adoption | 51/100 |
-| categoryMatchCount | 200/100 |
-| stars | 55/100 |
 | forks | 40/100 |
-| recency | 80/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
+| adoption | 51/100 |
+| production | 64/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
