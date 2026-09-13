@@ -2,7 +2,7 @@
 
 > 
 
-**617 projects** in this category.
+**618 projects** in this category.
 
 ## Projects
 
@@ -568,8 +568,8 @@
 | 558 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ — | — | 38/100 |
 | 559 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ — | — | 38/100 |
 | 560 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ — | — | 38/100 |
-| 561 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
-| 562 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ — | — | 38/100 |
+| 561 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ — | — | 38/100 |
+| 562 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
 | 563 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ — | — | 38/100 |
 | 564 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ — | — | 38/100 |
 | 565 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ — | — | 38/100 |
@@ -583,10 +583,10 @@
 | 573 | [newptcai/repy](./newptcai-repy.md) | ⭐ — | — | 38/100 |
 | 574 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 575 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ — | — | 38/100 |
-| 576 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 577 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
-| 578 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ — | — | 38/100 |
-| 579 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ — | — | 38/100 |
+| 576 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
+| 577 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 578 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ — | — | 38/100 |
+| 579 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ — | — | 38/100 |
 | 580 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ — | — | 38/100 |
 | 581 | [grinev/boardown](./grinev-boardown.md) | ⭐ — | — | 38/100 |
 | 582 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ — | — | 38/100 |
@@ -623,8 +623,9 @@
 | 613 | [williamanjo/json-pdf-designer](./williamanjo-json-pdf-designer.md) | ⭐ — | TypeScript | 36/100 |
 | 614 | [stirlinglabs/stirling-pdf](./stirlinglabs-stirling-pdf.md) | ⭐ — | — | 36/100 |
 | 615 | [aziis98/368b40d6cae01f8d40a6e3d2cccd4c31](./aziis98-368b40d6cae01f8d40a6e3d2cccd4c31.md) | ⭐ — | — | 36/100 |
-| 616 | [hyperbob/sql2md](./hyperbob-sql2md.md) | ⭐ — | — | 28/100 |
-| 617 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 28/100 |
+| 616 | [zeflq/doc-skills](./zeflq-doc-skills.md) | ⭐ — | — | 34/100 |
+| 617 | [hyperbob/sql2md](./hyperbob-sql2md.md) | ⭐ — | — | 28/100 |
+| 618 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 28/100 |
 
 ---
 

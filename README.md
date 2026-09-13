@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13293 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4079 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13295 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4080 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2601 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1536 | [Browse →](./devtools/) |
@@ -32,9 +32,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 854 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 763 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 617 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 618 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 605 | [Browse →](./networking/) |
-| 🏷️ **Knowledgerag** | 570 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 571 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 563 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 557 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 474 | [Browse →](./database/) |
@@ -66,10 +66,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
-| 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Documentation** | 3 | [Browse →](./documentation/) |
-| 🏷️ **Desktop** | 3 | [Browse →](./desktop/) |
 | 🏷️ **Ml** | 3 | [Browse →](./ml/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
@@ -79,7 +77,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
 | 🏷️ **Windows** | 2 | [Browse →](./windows/) |
-| 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
@@ -88,6 +85,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
 | 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
+| 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Headless-cms** | 2 | [Browse →](./headless-cms/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Webhooks** | 2 | [Browse →](./webhooks/) |
@@ -96,7 +94,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rewriting** | 2 | [Browse →](./rewriting/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
-| 🏷️ **C** | 2 | [Browse →](./c/) |
 | 🏷️ **Agent-security** | 2 | [Browse →](./agent-security/) |
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
@@ -107,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
 | 🏷️ **Multi-language** | 1 | [Browse →](./multi-language/) |
 | 🏷️ **Proactive-ai** | 1 | [Browse →](./proactive-ai/) |
+| 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Economic-data** | 1 | [Browse →](./economic-data/) |
 | 🏷️ **Document-automation** | 1 | [Browse →](./document-automation/) |
 | 🏷️ **Cro** | 1 | [Browse →](./cro/) |
@@ -122,6 +120,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
 | 🏷️ **Algorithmic-trading** | 1 | [Browse →](./algorithmic-trading/) |
+| 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
 | 🏷️ **Ifttt** | 1 | [Browse →](./ifttt/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
 | 🏷️ **Android** | 1 | [Browse →](./android/) |
@@ -168,6 +167,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Chatgpt** | 1 | [Browse →](./chatgpt/) |
 | 🏷️ **Local-first** | 1 | [Browse →](./local-first/) |
 | 🏷️ **Investment** | 1 | [Browse →](./investment/) |
+| 🏷️ **C** | 1 | [Browse →](./c/) |
 | 🏷️ **Openclaw** | 1 | [Browse →](./openclaw/) |
 | 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
 | 🏷️ **Apple-music** | 1 | [Browse →](./apple-music/) |
