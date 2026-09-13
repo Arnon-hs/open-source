@@ -239,8 +239,8 @@
 | 229 | [bgreenwell/lstr](./bgreenwell-lstr.md) | ⭐ 1.5k | Rust | 68/100 |
 | 230 | [hatoo/oha](./hatoo-oha.md) | ⭐ 10.4k | Rust | 68/100 |
 | 231 | [stepchowfun/toast](./stepchowfun-toast.md) | ⭐ 1.6k | Rust | 68/100 |
-| 232 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 68/100 |
-| 233 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 306 | Go | 68/100 |
+| 232 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 306 | Go | 68/100 |
+| 233 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 68/100 |
 | 234 | [chenquan/diskusage](./chenquan-diskusage.md) | ⭐ 309 | Go | 68/100 |
 | 235 | [charmbracelet/ultraviolet](./charmbracelet-ultraviolet.md) | ⭐ 358 | Go | 68/100 |
 | 236 | [Albert-Weasker/niubi_guard](./albert-weasker-niubi-guard.md) | ⭐ 1.2k | TypeScript | 68/100 |
@@ -386,8 +386,8 @@
 | 376 | [julesklord/mangofetch](./julesklord-mangofetch.md) | ⭐ 111 | Rust | 66/100 |
 | 377 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 66/100 |
 | 378 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 66/100 |
-| 379 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 66/100 |
-| 380 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 66/100 |
+| 379 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 66/100 |
+| 380 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 66/100 |
 | 381 | [onotelli/justniffer](./onotelli-justniffer.md) | ⭐ 228 | C | 66/100 |
 | 382 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 66/100 |
 | 383 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 66/100 |
@@ -481,8 +481,8 @@
 | 471 | [Veirt/weathr](./veirt-weathr.md) | ⭐ 3k | Rust | 64/100 |
 | 472 | [rafaeltonholo/svg-to-compose](./rafaeltonholo-svg-to-compose.md) | ⭐ 214 | Kotlin | 64/100 |
 | 473 | [fluentassertions/fluentassertions](./fluentassertions-fluentassertions.md) | ⭐ 3.8k | C# | 64/100 |
-| 474 | [sohamw03/wifui](./sohamw03-wifui.md) | ⭐ 143 | Rust | 64/100 |
-| 475 | [voska/qbo-cli](./voska-qbo-cli.md) | ⭐ 31 | Go | 64/100 |
+| 474 | [voska/qbo-cli](./voska-qbo-cli.md) | ⭐ 31 | Go | 64/100 |
+| 475 | [sohamw03/wifui](./sohamw03-wifui.md) | ⭐ 143 | Rust | 64/100 |
 | 476 | [style-dictionary/style-dictionary](./style-dictionary-style-dictionary.md) | ⭐ 4.8k | JavaScript | 64/100 |
 | 477 | [stackryze/FreeDomains](./stackryze-freedomains.md) | ⭐ 9.2k | JavaScript | 64/100 |
 | 478 | [zap-studio/monorepo](./zap-studio-monorepo.md) | ⭐ 166 | TypeScript | 64/100 |
@@ -653,8 +653,8 @@
 | 643 | [hetznercloud/cli](./hetznercloud-cli.md) | ⭐ 1.7k | Go | 63/100 |
 | 644 | [GoogleChrome/lighthouse](./googlechrome-lighthouse.md) | ⭐ 30.2k | JavaScript | 63/100 |
 | 645 | [noborus/ov](./noborus-ov.md) | ⭐ 1.9k | Go | 63/100 |
-| 646 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
-| 647 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.1k | C# | 63/100 |
+| 646 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.1k | C# | 63/100 |
+| 647 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
 | 648 | [backstage/backstage](./backstage-backstage.md) | ⭐ 33.3k | TypeScript | 63/100 |
 | 649 | [fe3dback/go-arch-lint](./fe3dback-go-arch-lint.md) | ⭐ 534 | Go | 62/100 |
 | 650 | [brijr/iris](./brijr-iris.md) | ⭐ 186 | Rust | 62/100 |
@@ -1060,8 +1060,8 @@
 | 1050 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 381 | TypeScript | 58/100 |
 | 1051 | [AstraeLabs/VibraVid](./astraelabs-vibravid.md) | ⭐ 1.1k | Python | 58/100 |
 | 1052 | [1jehuang/mermaid-rs-renderer](./1jehuang-mermaid-rs-renderer.md) | ⭐ 1.3k | Rust | 58/100 |
-| 1053 | [patrickhoefler/dockerfilegraph](./patrickhoefler-dockerfilegraph.md) | ⭐ 263 | Go | 58/100 |
-| 1054 | [dyatko/arkit](./dyatko-arkit.md) | ⭐ 967 | JavaScript | 58/100 |
+| 1053 | [dyatko/arkit](./dyatko-arkit.md) | ⭐ 967 | JavaScript | 58/100 |
+| 1054 | [patrickhoefler/dockerfilegraph](./patrickhoefler-dockerfilegraph.md) | ⭐ 263 | Go | 58/100 |
 | 1055 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 58/100 |
 | 1056 | [nikolaydubina/go-recipes](./nikolaydubina-go-recipes.md) | ⭐ 4.5k | Go | 58/100 |
 | 1057 | [GitoxideLabs/gitoxide](./gitoxidelabs-gitoxide.md) | ⭐ 11.3k | Rust | 58/100 |
@@ -1090,8 +1090,8 @@
 | 1080 | [Zheoni/cooklang-chef](./zheoni-cooklang-chef.md) | ⭐ 135 | Rust | 57/100 |
 | 1081 | [aspiers/git-config](./aspiers-git-config.md) | ⭐ 104 | Shell | 57/100 |
 | 1082 | [oleiade/motus](./oleiade-motus.md) | ⭐ 157 | Rust | 57/100 |
-| 1083 | [pgenie-io/pgenie](./pgenie-io-pgenie.md) | ⭐ 153 | Haskell | 57/100 |
-| 1084 | [elm/compiler](./elm-compiler.md) | ⭐ 7.8k | Haskell | 57/100 |
+| 1083 | [elm/compiler](./elm-compiler.md) | ⭐ 7.8k | Haskell | 57/100 |
+| 1084 | [pgenie-io/pgenie](./pgenie-io-pgenie.md) | ⭐ 153 | Haskell | 57/100 |
 | 1085 | [danpozmanter/gossamer](./danpozmanter-gossamer.md) | ⭐ 117 | Rust | 57/100 |
 | 1086 | [Rust-GCC/gccrs](./rust-gcc-gccrs.md) | ⭐ 2.9k | C++ | 57/100 |
 | 1087 | [woodruffw/toml2json](./woodruffw-toml2json.md) | ⭐ 101 | Rust | 57/100 |
@@ -1421,8 +1421,8 @@
 | 1411 | [openchoreo/openchoreo](./openchoreo-openchoreo.md) | ⭐ 848 | Go | 51/100 |
 | 1412 | [serkanyersen/dotstate](./serkanyersen-dotstate.md) | ⭐ 339 | Rust | 51/100 |
 | 1413 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 51/100 |
-| 1414 | [railwayapp/cli](./railwayapp-cli.md) | ⭐ 540 | Rust | 51/100 |
-| 1415 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 238 | Rust | 51/100 |
+| 1414 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 238 | Rust | 51/100 |
+| 1415 | [railwayapp/cli](./railwayapp-cli.md) | ⭐ 540 | Rust | 51/100 |
 | 1416 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 51/100 |
 | 1417 | [KhronosGroup/glslang](./khronosgroup-glslang.md) | ⭐ 3.5k | C++ | 51/100 |
 | 1418 | [google/xls](./google-xls.md) | ⭐ 1.5k | C++ | 51/100 |
