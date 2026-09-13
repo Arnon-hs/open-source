@@ -1,6 +1,6 @@
 # cyberbotics/webots
 
-[![Stars](https://img.shields.io/github/stars/cyberbotics/webots?style=flat-square&color=yellow)](https://github.com/cyberbotics/webots/stargazers) [![Forks](https://img.shields.io/github/forks/cyberbotics/webots?style=flat-square&color=blue)](https://github.com/cyberbotics/webots/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyberbotics/webots?style=flat-square&color=yellow)](https://github.com/cyberbotics/webots/stargazers) [![Forks](https://img.shields.io/github/forks/cyberbotics/webots?style=flat-square&color=blue)](https://github.com/cyberbotics/webots/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Models, programs, and simulates robots, vehicles, and mechanical systems.  https://t.co/UaFX31CxRR https://t.co/GPAkqRaOqe https://github.com/cyberbotics/webots
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ cyberbotics/webots：cyberbotics/webots helps remove repetitive manual operation
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 79/100 |
 | categoryMatchCount | 300/100 |
 | stars | 78/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
