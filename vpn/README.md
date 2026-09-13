@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nestthub/v2hub-api](./nestthub-v2hub-api.md) | ⭐ 2 | Python | 64/100 |
+| 1 | [nestthub/v2hub-api](./nestthub-v2hub-api.md) | ⭐ 2 | Python | 61/100 |
 
 ---
 

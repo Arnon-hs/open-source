@@ -1,6 +1,6 @@
 # nestthub/v2hub-api
 
-[![Stars](https://img.shields.io/github/stars/nestthub/v2hub-api?style=flat-square&color=yellow)](https://github.com/nestthub/v2hub-api/stargazers) [![Forks](https://img.shields.io/github/forks/nestthub/v2hub-api?style=flat-square&color=blue)](https://github.com/nestthub/v2hub-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nestthub/v2hub-api?style=flat-square&color=yellow)](https://github.com/nestthub/v2hub-api/stargazers) [![Forks](https://img.shields.io/github/forks/nestthub/v2hub-api?style=flat-square&color=blue)](https://github.com/nestthub/v2hub-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > FastAPI service for generating and managing V2Ray/Xray VPN subscriptions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ nestthub/v2hub-api：nestthub/v2hub-api may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 94/100 |
-| production | 71/100 |
-| outlook | 66/100 |
+| production | 65/100 |
+| outlook | 59/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
