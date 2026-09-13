@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35645** |
+| **Projects** | **35647** |
 | **Categories** | **195** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13354 | [Browse →](./misc/) |
+| 📦 **Misc** | 13356 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4091 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2604 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -53,8 +53,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 152 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 129 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 30 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🏷️ **Ai** | 29 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 8 | [Browse →](./llm/) |
@@ -76,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
+| 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
 | 🏷️ **Excel** | 2 | [Browse →](./excel/) |
 | 🏷️ **Macos** | 2 | [Browse →](./macos/) |
 | 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
@@ -205,7 +206,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Google-tasks** | 1 | [Browse →](./google-tasks/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Vector-similarity** | 1 | [Browse →](./vector-similarity/) |
-| 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
