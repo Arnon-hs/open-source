@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35634** |
+| **Projects** | **35638** |
 | **Categories** | **195** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13346 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4090 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13348 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4091 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2604 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1537 | [Browse →](./devtools/) |
@@ -43,7 +43,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔐 **Security** | 382 | [Browse →](./security/) |
 | 🏷️ **Communication** | 377 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 356 | [Browse →](./video-editing/) |
-| 📊 **Data** | 323 | [Browse →](./data/) |
+| 📊 **Data** | 324 | [Browse →](./data/) |
 | 💳 **Payments** | 316 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 299 | [Browse →](./productivity/) |
@@ -53,13 +53,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 152 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 129 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
+| 🏷️ **Ai** | 30 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Ai** | 29 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 8 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Python** | 6 | [Browse →](./python/) |
+| 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Autonomous-agent** | 5 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
@@ -102,6 +102,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Remote-coding** | 1 | [Browse →](./remote-coding/) |
+| 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Agent-based-development** | 1 | [Browse →](./agent-based-development/) |
@@ -204,8 +206,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Vector-similarity** | 1 | [Browse →](./vector-similarity/) |
 | 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
-| 🏷️ **Ai-native-delivery** | 1 | [Browse →](./ai-native-delivery/) |
-| 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
