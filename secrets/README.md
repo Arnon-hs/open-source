@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Itzfeminisce/penvhq](./itzfeminisce-penvhq.md) | ⭐ 2 | Rust | 68/100 |
+| 1 | [Itzfeminisce/penvhq](./itzfeminisce-penvhq.md) | ⭐ 2 | Rust | 65/100 |
 
 ---
 

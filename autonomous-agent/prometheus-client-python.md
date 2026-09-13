@@ -1,6 +1,6 @@
 # prometheus/client_python
 
-[![Stars](https://img.shields.io/github/stars/prometheus/client_python?style=flat-square&color=yellow)](https://github.com/prometheus/client_python/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus/client_python?style=flat-square&color=blue)](https://github.com/prometheus/client_python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prometheus/client_python?style=flat-square&color=yellow)](https://github.com/prometheus/client_python/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus/client_python?style=flat-square&color=blue)](https://github.com/prometheus/client_python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus instrumentation library for Python applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 875 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ prometheus/client_python：prometheus/client_python may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 77/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

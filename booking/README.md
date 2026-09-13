@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bookrail-dev/bookrail](./bookrail-dev-bookrail.md) | ⭐ 1 | TypeScript | 43/100 |
+| 1 | [bookrail-dev/bookrail](./bookrail-dev-bookrail.md) | ⭐ 1 | TypeScript | 40/100 |
 
 ---
 
