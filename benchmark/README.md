@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [argszero/silicon-science-cs](./argszero-silicon-science-cs.md) | ⭐ — | Python | 43/100 |
+| 1 | [wontopos/glasshouse](./wontopos-glasshouse.md) | ⭐ 13 | — | 43/100 |
 
 ---
 

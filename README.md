@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35571** |
-| **Categories** | **195** |
+| **Projects** | **35574** |
+| **Categories** | **196** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13306 | [Browse →](./misc/) |
+| 📦 **Misc** | 13308 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4083 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2602 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -100,6 +100,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Benchmark** | 1 | [Browse →](./benchmark/) |
 | 🏷️ **Selfhosting** | 1 | [Browse →](./selfhosting/) |
 | 🏷️ **Ticketing** | 1 | [Browse →](./ticketing/) |
 | 🏷️ **Local-rag** | 1 | [Browse →](./local-rag/) |
