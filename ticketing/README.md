@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [helenanova/sevensignal](./helenanova-sevensignal.md) | ⭐ — | Python | 51/100 |
+| 1 | [helenanova/sevensignal](./helenanova-sevensignal.md) | ⭐ — | Python | 48/100 |
 
 ---
 

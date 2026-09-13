@@ -1,6 +1,6 @@
 # cartesiancs/map3d
 
-[![Stars](https://img.shields.io/github/stars/cartesiancs/map3d?style=flat-square&color=yellow)](https://github.com/cartesiancs/map3d/stargazers) [![Forks](https://img.shields.io/github/forks/cartesiancs/map3d?style=flat-square&color=blue)](https://github.com/cartesiancs/map3d/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cartesiancs/map3d?style=flat-square&color=yellow)](https://github.com/cartesiancs/map3d/stargazers) [![Forks](https://img.shields.io/github/forks/cartesiancs/map3d?style=flat-square&color=blue)](https://github.com/cartesiancs/map3d/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Generates 3D city maps from OpenStreetMap data using React-Three-Fiber  https://t.co/kOBe6YUsS9 https://t.co/dMTkPVetBp https://github.com/cartesiancs/map3d
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 374 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ cartesiancs/map3d：cartesiancs/map3d helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 69/100 |
 | categoryMatchCount | 100/100 |
 | stars | 71/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
