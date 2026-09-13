@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35609** |
-| **Categories** | **194** |
+| **Projects** | **35614** |
+| **Categories** | **195** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13328 | [Browse →](./misc/) |
+| 📦 **Misc** | 13330 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4088 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2603 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2604 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1537 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1280 | [Browse →](./automation/) |
@@ -59,10 +59,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 8 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Autonomous-agent** | 5 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
-| 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
@@ -102,6 +102,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Agent-based-development** | 1 | [Browse →](./agent-based-development/) |
 | 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
 | 🏷️ **Benchmark** | 1 | [Browse →](./benchmark/) |
