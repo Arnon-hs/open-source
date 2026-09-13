@@ -1,6 +1,6 @@
 # ultracontext/ultracontext
 
-[![Stars](https://img.shields.io/github/stars/ultracontext/ultracontext?style=flat-square&color=yellow)](https://github.com/ultracontext/ultracontext/stargazers) [![Forks](https://img.shields.io/github/forks/ultracontext/ultracontext?style=flat-square&color=blue)](https://github.com/ultracontext/ultracontext/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ultracontext/ultracontext?style=flat-square&color=yellow)](https://github.com/ultracontext/ultracontext/stargazers) [![Forks](https://img.shields.io/github/forks/ultracontext/ultracontext?style=flat-square&color=blue)](https://github.com/ultracontext/ultracontext/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Captures context from Claude Code and Codex to share real-time status across AI agents.  https://t.co/biVpbDkayj https://t.co/SBZBwekXPH https://github.com/ultracontext/ultracontext
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ ultracontext/ultracontext：ultracontext/ultracontext helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 64/100 |
+| outlook | 72/100 |
 | adoption | 48/100 |
 | categoryMatchCount | 200/100 |
 | stars | 52/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
