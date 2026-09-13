@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35587** |
-| **Categories** | **197** |
+| **Projects** | **35591** |
+| **Categories** | **196** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13315 | [Browse →](./misc/) |
+| 📦 **Misc** | 13316 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4083 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2603 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -33,7 +33,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 854 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 765 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 618 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 605 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 606 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 571 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 562 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 557 | [Browse →](./cloud--storage/) |
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
+| 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
@@ -75,7 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
-| 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Excel** | 2 | [Browse →](./excel/) |
 | 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
@@ -211,8 +212,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
 | 🏷️ **Gpu** | 1 | [Browse →](./gpu/) |
 | 🏷️ **Deepseek-harness** | 1 | [Browse →](./deepseek-harness/) |
-| 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
-| 🏷️ **Excel** | 1 | [Browse →](./excel/) |
 | 🏷️ **N8n** | 1 | [Browse →](./n8n/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |

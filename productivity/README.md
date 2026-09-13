@@ -280,8 +280,8 @@
 | 270 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 339 | Kotlin | 45/100 |
 | 271 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 557 | QML | 45/100 |
 | 272 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 273 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
-| 274 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
+| 273 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
+| 274 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
 | 275 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
 | 276 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
 | 277 | [dullage/flatnotes](./dullage-flatnotes.md) | ⭐ — | — | 42/100 |
