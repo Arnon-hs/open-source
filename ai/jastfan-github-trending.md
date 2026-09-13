@@ -1,6 +1,6 @@
 # jastfan/github-trending
 
-[![Stars](https://img.shields.io/github/stars/jastfan/github-trending?style=flat-square&color=yellow)](https://github.com/jastfan/github-trending/stargazers) [![Forks](https://img.shields.io/github/forks/jastfan/github-trending?style=flat-square&color=blue)](https://github.com/jastfan/github-trending/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jastfan/github-trending?style=flat-square&color=yellow)](https://github.com/jastfan/github-trending/stargazers) [![Forks](https://img.shields.io/github/forks/jastfan/github-trending?style=flat-square&color=blue)](https://github.com/jastfan/github-trending/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Tracking the most popular Github repos, update daily(Python version). Updated every 12 hours.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ jastfan/github-trending：jastfan/github-trending may be useful when its README 
 - primary language: HTML
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 58/100 |
+| production | 55/100 |
+| outlook | 51/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

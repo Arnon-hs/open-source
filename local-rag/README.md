@@ -1,4 +1,4 @@
-# 🏷️ React-native
+# 🏷️ Local-rag
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [okonet/lint-staged](./okonet-lint-staged.md) | ⭐ — | — | 24/100 |
+| 1 | [robertzengcn/aiFetchly](./robertzengcn-aifetchly.md) | ⭐ — | TypeScript | 54/100 |
 
 ---
 

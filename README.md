@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35557** |
-| **Categories** | **197** |
+| **Projects** | **35560** |
+| **Categories** | **198** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,15 +23,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13295 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4080 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13297 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4081 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2601 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1536 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1277 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 854 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 763 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 764 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 618 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 605 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 571 | [Browse →](./knowledgerag/) |
@@ -99,9 +99,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
-| 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
-| 🏷️ **Cost-estimation** | 2 | [Browse →](./cost-estimation/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ticketing** | 1 | [Browse →](./ticketing/) |
+| 🏷️ **Local-rag** | 1 | [Browse →](./local-rag/) |
 | 🏷️ **Multi-language** | 1 | [Browse →](./multi-language/) |
 | 🏷️ **Proactive-ai** | 1 | [Browse →](./proactive-ai/) |
 | 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
@@ -217,7 +217,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **Hooks** | 1 | [Browse →](./hooks/) |
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
-| 🏷️ **Rails** | 1 | [Browse →](./rails/) |
+| 🏷️ **React-native** | 1 | [Browse →](./react-native/) |
+| 🏷️ **Cost-estimation** | 1 | [Browse →](./cost-estimation/) |
 | 🏷️ **Qa** | 1 | [Browse →](./qa/) |
 | 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |
 
