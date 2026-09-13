@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chethan-ultimax/reconax](./chethan-ultimax-reconax.md) | ⭐ — | Python | 59/100 |
+| 1 | [chethan-ultimax/reconax](./chethan-ultimax-reconax.md) | ⭐ — | Python | 56/100 |
 
 ---
 

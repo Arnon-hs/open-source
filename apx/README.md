@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [agentprojectcontext/apx](./agentprojectcontext-apx.md) | ⭐ 4 | JavaScript | 43/100 |
+| 1 | [agentprojectcontext/apx](./agentprojectcontext-apx.md) | ⭐ 4 | JavaScript | 40/100 |
 
 ---
 

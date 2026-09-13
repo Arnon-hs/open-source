@@ -2,7 +2,7 @@
 
 > 
 
-**28 projects** in this category.
+**29 projects** in this category.
 
 ## Projects
 
@@ -30,12 +30,13 @@
 | 20 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
 | 21 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
 | 22 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 23 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 24 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 25 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 26 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 27 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 28 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 23 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 24 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 25 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 26 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 27 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 28 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 29 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 
