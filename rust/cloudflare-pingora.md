@@ -1,6 +1,6 @@
 # cloudflare/pingora
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/pingora?style=flat-square&color=yellow)](https://github.com/cloudflare/pingora/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/pingora?style=flat-square&color=blue)](https://github.com/cloudflare/pingora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/pingora?style=flat-square&color=yellow)](https://github.com/cloudflare/pingora/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/pingora?style=flat-square&color=blue)](https://github.com/cloudflare/pingora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A library for building fast, reliable and evolvable network services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.3k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ cloudflare/pingora：cloudflare/pingora may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 91/100 |
 | categoryMatchCount | 600/100 |
 | stars | 94/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
