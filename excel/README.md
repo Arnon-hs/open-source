@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kent-tokyo/elixcee](./kent-tokyo-elixcee.md) | ⭐ 1 | Rust | 44/100 |
+| 1 | [kent-tokyo/elixcee](./kent-tokyo-elixcee.md) | ⭐ 1 | Rust | 41/100 |
 
 ---
 
