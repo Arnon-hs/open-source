@@ -321,8 +321,8 @@
 | 311 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ — | — | 42/100 |
 | 312 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ — | — | 42/100 |
 | 313 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ — | — | 42/100 |
-| 314 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 42/100 |
-| 315 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 314 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 315 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 42/100 |
 | 316 | [arm/metis](./arm-metis.md) | ⭐ — | — | 42/100 |
 | 317 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 318 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ — | — | 42/100 |
@@ -372,8 +372,8 @@
 | 362 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ — | — | 38/100 |
 | 363 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ — | — | 38/100 |
 | 364 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ — | — | 38/100 |
-| 365 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
-| 366 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
+| 365 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
+| 366 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
 | 367 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ — | — | 38/100 |
 | 368 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 38/100 |
 | 369 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 38/100 |

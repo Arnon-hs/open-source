@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [eminsk/nanorecall](./eminsk-nanorecall.md) | ⭐ 1 | Python | 48/100 |
+| 1 | [eminsk/nanorecall](./eminsk-nanorecall.md) | ⭐ 1 | Python | 45/100 |
 
 ---
 
