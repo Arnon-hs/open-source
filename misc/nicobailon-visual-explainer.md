@@ -1,6 +1,6 @@
 # nicobailon/visual-explainer
 
-[![Stars](https://img.shields.io/github/stars/nicobailon/visual-explainer?style=flat-square&color=yellow)](https://github.com/nicobailon/visual-explainer/stargazers) [![Forks](https://img.shields.io/github/forks/nicobailon/visual-explainer?style=flat-square&color=blue)](https://github.com/nicobailon/visual-explainer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicobailon/visual-explainer?style=flat-square&color=yellow)](https://github.com/nicobailon/visual-explainer/stargazers) [![Forks](https://img.shields.io/github/forks/nicobailon/visual-explainer?style=flat-square&color=blue)](https://github.com/nicobailon/visual-explainer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Generates styled HTML pages from terminal output instead of ASCII art  https://t.co/m6mtg0k5jT https://t.co/vQY4IktKus https://github.com/nicobailon/visual-explainer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 644 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ nicobailon/visual-explainer：nicobailon/visual-explainer may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 81/100 |
 | categoryMatchCount | 0/100 |
 | stars | 85/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
