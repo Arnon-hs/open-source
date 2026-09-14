@@ -1,6 +1,6 @@
 # zangxin75/token-efficiency
 
-[![Stars](https://img.shields.io/github/stars/zangxin75/token-efficiency?style=flat-square&color=yellow)](https://github.com/zangxin75/token-efficiency/stargazers) [![Forks](https://img.shields.io/github/forks/zangxin75/token-efficiency?style=flat-square&color=blue)](https://github.com/zangxin75/token-efficiency/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zangxin75/token-efficiency?style=flat-square&color=yellow)](https://github.com/zangxin75/token-efficiency/stargazers) [![Forks](https://img.shields.io/github/forks/zangxin75/token-efficiency?style=flat-square&color=blue)](https://github.com/zangxin75/token-efficiency/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Unified LLM gateway with token compression, semantic caching, and cost analytics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-08-15 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ zangxin75/token-efficiency：zangxin75/token-efficiency may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 50/100 |
-| outlook | 46/100 |
+| production | 43/100 |
+| outlook | 39/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
