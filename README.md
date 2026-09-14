@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35783** |
-| **Categories** | **212** |
+| **Projects** | **35786** |
+| **Categories** | **213** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13426 | [Browse →](./misc/) |
+| 📦 **Misc** | 13427 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4099 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2608 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2225 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1537 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1283 | [Browse →](./automation/) |
+| 🔧 **DevTools** | 1538 | [Browse →](./devtools/) |
+| 🏷️ **Automation** | 1284 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 855 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
@@ -67,7 +67,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 4 | [Browse →](./self-hosting/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Cicd** | 3 | [Browse →](./cicd/) |
-| 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
@@ -81,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
 | 🏷️ **Data-leakage** | 2 | [Browse →](./data-leakage/) |
 | 🏷️ **Bug-bounty** | 2 | [Browse →](./bug-bounty/) |
+| 🏷️ **Ai-agent** | 2 | [Browse →](./ai-agent/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
@@ -107,6 +107,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Php** | 1 | [Browse →](./php/) |
+| 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |
 | 🏷️ **Postgres** | 1 | [Browse →](./postgres/) |
 | 🏷️ **Remote-work** | 1 | [Browse →](./remote-work/) |
 | 🏷️ **Flutter** | 1 | [Browse →](./flutter/) |
@@ -212,7 +214,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Thread-dump** | 1 | [Browse →](./thread-dump/) |
 | 🏷️ **Cloudflare** | 1 | [Browse →](./cloudflare/) |
 | 🏷️ **Micropayments** | 1 | [Browse →](./micropayments/) |
-| 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
 | 🏷️ **Ide** | 1 | [Browse →](./ide/) |
 | 🏷️ **Quantum-computing** | 1 | [Browse →](./quantum-computing/) |
 | 🏷️ **Rpa** | 1 | [Browse →](./rpa/) |
