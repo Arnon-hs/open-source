@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35651** |
+| **Projects** | **35652** |
 | **Categories** | **196** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 765 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 618 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 607 | [Browse →](./networking/) |
-| 🏷️ **Knowledgerag** | 571 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 572 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 562 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 557 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 474 | [Browse →](./database/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Neurobiology** | 1 | [Browse →](./neurobiology/) |
 | 🏷️ **Remote-coding** | 1 | [Browse →](./remote-coding/) |
 | 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |
@@ -206,7 +207,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Google-tasks** | 1 | [Browse →](./google-tasks/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
-| 🏷️ **Vector-similarity** | 1 | [Browse →](./vector-similarity/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
