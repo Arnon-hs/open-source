@@ -1,6 +1,6 @@
 # GMKamrussama/PowerLockGuard
 
-[![Stars](https://img.shields.io/github/stars/GMKamrussama/PowerLockGuard?style=flat-square&color=yellow)](https://github.com/GMKamrussama/PowerLockGuard/stargazers) [![Forks](https://img.shields.io/github/forks/GMKamrussama/PowerLockGuard?style=flat-square&color=blue)](https://github.com/GMKamrussama/PowerLockGuard/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GMKamrussama/PowerLockGuard?style=flat-square&color=yellow)](https://github.com/GMKamrussama/PowerLockGuard/stargazers) [![Forks](https://img.shields.io/github/forks/GMKamrussama/PowerLockGuard?style=flat-square&color=blue)](https://github.com/GMKamrussama/PowerLockGuard/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Smart auto-sleep & power management for developers, laptops & AI agents (Claude Code, Cursor, Aider, VS Code). Automatically sleeps or shuts down when coding tasks finish, plus instant deep sleep on charger unplug. Lightweight (~62 KB) & offline. Built by GMK Solution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ GMKamrussama/PowerLockGuard：GMKamrussama/PowerLockGuard may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

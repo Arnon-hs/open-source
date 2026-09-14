@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35707** |
-| **Categories** | **203** |
+| **Projects** | **35716** |
+| **Categories** | **205** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13386 | [Browse →](./misc/) |
+| 📦 **Misc** | 13390 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4095 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2606 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2220 | [Browse →](./orchestration/) |
@@ -67,6 +67,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
+| 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Cicd** | 3 | [Browse →](./cicd/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
@@ -77,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
+| 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
 | 🏷️ **Data-leakage** | 2 | [Browse →](./data-leakage/) |
 | 🏷️ **Bug-bounty** | 2 | [Browse →](./bug-bounty/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
@@ -106,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agentsmd** | 1 | [Browse →](./agentsmd/) |
 | 🏷️ **Claude** | 1 | [Browse →](./claude/) |
 | 🏷️ **Eu-cra** | 1 | [Browse →](./eu-cra/) |
 | 🏷️ **Ffmpeg** | 1 | [Browse →](./ffmpeg/) |
@@ -145,7 +148,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
 | 🏷️ **Ifttt** | 1 | [Browse →](./ifttt/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
-| 🏷️ **Android** | 1 | [Browse →](./android/) |
 | 🏷️ **Vector-search** | 1 | [Browse →](./vector-search/) |
 | 🏷️ **Reactive-agents** | 1 | [Browse →](./reactive-agents/) |
 | 🏷️ **Self-hosted-analytics** | 1 | [Browse →](./self-hosted-analytics/) |
