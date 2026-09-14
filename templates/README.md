@@ -2,7 +2,7 @@
 
 > 
 
-**423 projects** in this category.
+**424 projects** in this category.
 
 ## Projects
 
@@ -422,15 +422,16 @@
 | 412 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 45/100 |
 | 413 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 45/100 |
 | 414 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
-| 415 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
-| 416 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
-| 417 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
-| 418 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
-| 419 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
-| 420 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
-| 421 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
-| 422 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
-| 423 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
+| 415 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
+| 416 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
+| 417 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
+| 418 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
+| 419 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
+| 420 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
+| 421 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
+| 422 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
+| 423 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
+| 424 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
 
 ---
 

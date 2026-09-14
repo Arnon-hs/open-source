@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35719** |
-| **Categories** | **205** |
+| **Projects** | **35725** |
+| **Categories** | **206** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13393 | [Browse →](./misc/) |
+| 📦 **Misc** | 13394 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4095 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2606 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2220 | [Browse →](./orchestration/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 557 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 476 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 469 | [Browse →](./devopsinfra/) |
-| 🏷️ **Templates** | 423 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 424 | [Browse →](./templates/) |
 | 🔐 **Security** | 382 | [Browse →](./security/) |
 | 🏷️ **Communication** | 379 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 357 | [Browse →](./video-editing/) |
@@ -47,12 +47,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 💳 **Payments** | 316 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 300 | [Browse →](./productivity/) |
-| 🏷️ **Observability** | 266 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 267 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 239 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 189 | [Browse →](./trading/) |
 | ✨ **Design** | 152 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 79 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 80 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai** | 29 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
+| 🏷️ **Agent-self-editing** | 2 | [Browse →](./agent-self-editing/) |
 | 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
 | 🏷️ **Data-leakage** | 2 | [Browse →](./data-leakage/) |
 | 🏷️ **Bug-bounty** | 2 | [Browse →](./bug-bounty/) |
@@ -108,6 +109,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
+| 🏷️ **Env-spec** | 1 | [Browse →](./env-spec/) |
 | 🏷️ **Agentsmd** | 1 | [Browse →](./agentsmd/) |
 | 🏷️ **Claude** | 1 | [Browse →](./claude/) |
 | 🏷️ **Eu-cra** | 1 | [Browse →](./eu-cra/) |
@@ -210,8 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Astro** | 1 | [Browse →](./astro/) |
 | 🏷️ **Expense-management** | 1 | [Browse →](./expense-management/) |
 | 🏷️ **Bot-protection** | 1 | [Browse →](./bot-protection/) |
-| 🏷️ **Budgeting** | 1 | [Browse →](./budgeting/) |
-| 🏷️ **Vectorization** | 1 | [Browse →](./vectorization/) |
 | 🏷️ **Ttrpg** | 1 | [Browse →](./ttrpg/) |
 | 🏷️ **Blockchain** | 1 | [Browse →](./blockchain/) |
 | 🏷️ **Open-data** | 1 | [Browse →](./open-data/) |
