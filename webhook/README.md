@@ -1,4 +1,4 @@
-# 🏷️ Go
+# 🏷️ Webhook
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [PrinceXDev/molt](./princexdev-molt.md) | ⭐ 1 | Go | 40/100 |
+| 1 | [Eva-311/hermes-automation-examples](./eva-311-hermes-automation-examples.md) | ⭐ 2 | — | 56/100 |
 
 ---
 

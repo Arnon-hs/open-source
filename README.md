@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35657** |
-| **Categories** | **196** |
+| **Projects** | **35659** |
+| **Categories** | **197** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13359 | [Browse →](./misc/) |
+| 📦 **Misc** | 13361 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4092 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2604 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -94,7 +94,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Headless-cms** | 2 | [Browse →](./headless-cms/) |
 | 🏷️ **Webhooks** | 2 | [Browse →](./webhooks/) |
 | 🏷️ **Local-deployment** | 2 | [Browse →](./local-deployment/) |
-| 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Rewriting** | 2 | [Browse →](./rewriting/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
@@ -104,6 +103,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
 | 🏷️ **Neurobiology** | 1 | [Browse →](./neurobiology/) |
 | 🏷️ **Remote-coding** | 1 | [Browse →](./remote-coding/) |
 | 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
@@ -175,6 +175,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Performance** | 1 | [Browse →](./performance/) |
 | 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
+| 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Agent-commerce** | 1 | [Browse →](./agent-commerce/) |
 | 🏷️ **Cursor** | 1 | [Browse →](./cursor/) |
 | 🏷️ **Chatgpt** | 1 | [Browse →](./chatgpt/) |
