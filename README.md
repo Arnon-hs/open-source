@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35771** |
-| **Categories** | **210** |
+| **Projects** | **35776** |
+| **Categories** | **211** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,9 +24,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 13421 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4098 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4099 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2607 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2224 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2225 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1537 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1283 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 618 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 608 | [Browse →](./networking/) |
-| 🏷️ **Knowledgerag** | 572 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 573 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 563 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 557 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 478 | [Browse →](./database/) |
@@ -47,7 +47,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 💳 **Payments** | 316 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 300 | [Browse →](./productivity/) |
-| 🏷️ **Observability** | 267 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 269 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 240 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 189 | [Browse →](./trading/) |
 | ✨ **Design** | 152 | [Browse →](./design/) |
@@ -105,9 +105,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
 | 🏷️ **Agent-security** | 2 | [Browse →](./agent-security/) |
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
-| 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Remote-work** | 1 | [Browse →](./remote-work/) |
+| 🏷️ **Flutter** | 1 | [Browse →](./flutter/) |
 | 🏷️ **Nestjs** | 1 | [Browse →](./nestjs/) |
 | 🏷️ **Ai-safety** | 1 | [Browse →](./ai-safety/) |
 | 🏷️ **Css** | 1 | [Browse →](./css/) |

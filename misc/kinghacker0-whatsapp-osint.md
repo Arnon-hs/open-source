@@ -1,6 +1,6 @@
 # kinghacker0/WhatsApp-OSINT
 
-[![Stars](https://img.shields.io/github/stars/kinghacker0/WhatsApp-OSINT?style=flat-square&color=yellow)](https://github.com/kinghacker0/WhatsApp-OSINT/stargazers) [![Forks](https://img.shields.io/github/forks/kinghacker0/WhatsApp-OSINT?style=flat-square&color=blue)](https://github.com/kinghacker0/WhatsApp-OSINT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kinghacker0/WhatsApp-OSINT?style=flat-square&color=yellow)](https://github.com/kinghacker0/WhatsApp-OSINT/stargazers) [![Forks](https://img.shields.io/github/forks/kinghacker0/WhatsApp-OSINT?style=flat-square&color=blue)](https://github.com/kinghacker0/WhatsApp-OSINT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Retrieves WhatsApp profile photos, verifies business accounts, checks user status, and analyzes linked devices using the RapidAPI OSINT endpoint.  https://t.co/PnZKuuhdnQ https://t.co/8nQ83DWJ4M https://github.com/kinghacker0/WhatsApp-OSINT
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 955 |
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ kinghacker0/WhatsApp-OSINT：kinghacker0/WhatsApp-OSINT may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 62/100 |
 | categoryMatchCount | 0/100 |
 | stars | 63/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
