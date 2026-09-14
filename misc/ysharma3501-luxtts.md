@@ -1,6 +1,6 @@
 # ysharma3501/LuxTTS
 
-[![Stars](https://img.shields.io/github/stars/ysharma3501/LuxTTS?style=flat-square&color=yellow)](https://github.com/ysharma3501/LuxTTS/stargazers) [![Forks](https://img.shields.io/github/forks/ysharma3501/LuxTTS?style=flat-square&color=blue)](https://github.com/ysharma3501/LuxTTS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ysharma3501/LuxTTS?style=flat-square&color=yellow)](https://github.com/ysharma3501/LuxTTS/stargazers) [![Forks](https://img.shields.io/github/forks/ysharma3501/LuxTTS?style=flat-square&color=blue)](https://github.com/ysharma3501/LuxTTS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > LuxTTS generates 48khz voice cloning audio using zipvoice at 150x realtime speed while fitting within 1gb vram.  https://t.co/0QKBVldHtW https://t.co/luFTCmJWY9 https://github.com/ysharma3501/LuxTTS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 679 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ ysharma3501/LuxTTS：ysharma3501/LuxTTS may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 77/100 |
 | categoryMatchCount | 0/100 |
 | stars | 79/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
