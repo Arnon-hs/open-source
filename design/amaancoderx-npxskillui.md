@@ -1,6 +1,6 @@
 # amaancoderx/npxskillui
 
-[![Stars](https://img.shields.io/github/stars/amaancoderx/npxskillui?style=flat-square&color=yellow)](https://github.com/amaancoderx/npxskillui/stargazers) [![Forks](https://img.shields.io/github/forks/amaancoderx/npxskillui?style=flat-square&color=blue)](https://github.com/amaancoderx/npxskillui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amaancoderx/npxskillui?style=flat-square&color=yellow)](https://github.com/amaancoderx/npxskillui/stargazers) [![Forks](https://img.shields.io/github/forks/amaancoderx/npxskillui?style=flat-square&color=blue)](https://github.com/amaancoderx/npxskillui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Extracts complete design systems including colors, typography, and components from websites into a format readable by Claude Code for exact UI generation.  https://t.co/GJ15DNp2Ec https://t.co/MJfL9MQmgM https://github.com/amaancoderx/npxskillui
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ amaancoderx/npxskillui：amaancoderx/npxskillui may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 67/100 |
+| production | 61/100 |
+| outlook | 60/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 100/100 |
 | stars | 69/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
