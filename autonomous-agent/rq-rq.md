@@ -1,6 +1,6 @@
 # rq/rq
 
-[![Stars](https://img.shields.io/github/stars/rq/rq?style=flat-square&color=yellow)](https://github.com/rq/rq/stargazers) [![Forks](https://img.shields.io/github/forks/rq/rq?style=flat-square&color=blue)](https://github.com/rq/rq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rq/rq?style=flat-square&color=yellow)](https://github.com/rq/rq/stargazers) [![Forks](https://img.shields.io/github/forks/rq/rq?style=flat-square&color=blue)](https://github.com/rq/rq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Simple job queues for Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ autonomous-agent · micropayment · x402 · Base · USDC · Python · aiohttp ·
 
 ### English
 
-rq/rq: rq/rq may be useful when its README and activity match a concrete workflow.. Use it for autonomous-agent, micropayment, x402, Base, USDC, Python, aiohttp, Redis, RQ, Prometheus. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rq/rq: rq/rq may be useful when its README and activity match a concrete workflow.. Use it for autonomous-agent, micropayment, x402, Base, USDC, Python, aiohttp, Redis, RQ, Prometheus. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-rq/rq: open-source проект в категориях autonomous-agent, micropayment, x402, Base, USDC, Python, aiohttp, Redis, RQ, Prometheus. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+rq/rq: open-source проект в категориях autonomous-agent, micropayment, x402, Base, USDC, Python, aiohttp, Redis, RQ, Prometheus. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-rq/rq：rq/rq may be useful when its README and activity match a concrete workflow.。适合用于autonomous-agent、micropayment、x402、Base、USDC、Python、aiohttp、Redis、RQ、Prometheus。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rq/rq：rq/rq may be useful when its README and activity match a concrete workflow.。适合用于autonomous-agent、micropayment、x402、Base、USDC、Python、aiohttp、Redis、RQ、Prometheus。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rq/rq：rq/rq may be useful when its README and activity match a concrete workfl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ rq/rq：rq/rq may be useful when its README and activity match a concrete workfl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 84/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 86/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
