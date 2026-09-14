@@ -2,7 +2,7 @@
 
 > 
 
-**3 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
@@ -10,7 +10,8 @@
 |---|---|---|---|---|
 | 1 | [Raknaos/lightpanda-session-bridge](./raknaos-lightpanda-session-bridge.md) | ⭐ 1 | HTML | 61/100 |
 | 2 | [WiseLibs/better-sqlite3](./wiselibs-better-sqlite3.md) | ⭐ 7.5k | JavaScript | 56/100 |
-| 3 | [x402org/x402-js](./x402org-x402-js.md) | ⭐ — | — | 24/100 |
+| 3 | [imarpanpatra/claimback](./imarpanpatra-claimback.md) | ⭐ — | JavaScript | 36/100 |
+| 4 | [x402org/x402-js](./x402org-x402-js.md) | ⭐ — | — | 24/100 |
 
 ---
 

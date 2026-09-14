@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [venturaproject/tooler](./venturaproject-tooler.md) | ⭐ — | Rust | 49/100 |
+| 1 | [putme-in/putmein](./putme-in-putmein.md) | ⭐ 9 | TypeScript | 64/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35665** |
-| **Categories** | **198** |
+| **Projects** | **35672** |
+| **Categories** | **199** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13365 | [Browse →](./misc/) |
+| 📦 **Misc** | 13367 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4092 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2604 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -46,7 +46,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 324 | [Browse →](./data/) |
 | 💳 **Payments** | 316 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
-| 🏷️ **Productivity** | 299 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 300 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 266 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 239 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 189 | [Browse →](./trading/) |
@@ -56,13 +56,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai** | 29 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 10 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 8 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Autonomous-agent** | 5 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Escrow** | 4 | [Browse →](./escrow/) |
@@ -76,7 +77,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
-| 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
+| 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
 | 🏷️ **Excel** | 2 | [Browse →](./excel/) |
 | 🏷️ **Macos** | 2 | [Browse →](./macos/) |
@@ -103,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Devops** | 1 | [Browse →](./devops/) |
 | 🏷️ **Finetuning** | 1 | [Browse →](./finetuning/) |
 | 🏷️ **Mermaid** | 1 | [Browse →](./mermaid/) |
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
@@ -208,7 +210,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Blockchain** | 1 | [Browse →](./blockchain/) |
 | 🏷️ **Peertopeer** | 1 | [Browse →](./peertopeer/) |
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
-| 🏷️ **Google-tasks** | 1 | [Browse →](./google-tasks/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
