@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jamesjfoong/conventional-revert-hook](./jamesjfoong-conventional-revert-hook.md) | ⭐ — | Shell | 36/100 |
+| 1 | [jamesjfoong/conventional-revert-hook](./jamesjfoong-conventional-revert-hook.md) | ⭐ — | Shell | 33/100 |
 
 ---
 
