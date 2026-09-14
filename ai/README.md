@@ -16,8 +16,8 @@
 | 6 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 62/100 |
 | 7 | [goun7/veridict](./goun7-veridict.md) | ⭐ 1 | Python | 60/100 |
 | 8 | [golproductions/check](./golproductions-check.md) | ⭐ — | — | 60/100 |
-| 9 | [Nir-Bhay/antigravity-usage-intelligence](./nir-bhay-antigravity-usage-intelligence.md) | ⭐ 2 | HTML | 58/100 |
-| 10 | [KeibiSoft/KeibiDrop](./keibisoft-keibidrop.md) | ⭐ 59 | Go | 58/100 |
+| 9 | [KeibiSoft/KeibiDrop](./keibisoft-keibidrop.md) | ⭐ 59 | Go | 58/100 |
+| 10 | [Nir-Bhay/antigravity-usage-intelligence](./nir-bhay-antigravity-usage-intelligence.md) | ⭐ 2 | HTML | 55/100 |
 | 11 | [FORIFOR/oathra](./forifor-oathra.md) | ⭐ — | TypeScript | 51/100 |
 | 12 | [kenashe/ai-werewolf](./kenashe-ai-werewolf.md) | ⭐ 1 | — | 50/100 |
 | 13 | [joacod/self-context](./joacod-self-context.md) | ⭐ 1 | Python | 47/100 |
