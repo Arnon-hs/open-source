@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35754** |
+| **Projects** | **35762** |
 | **Categories** | **207** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13412 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4096 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13415 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4097 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2607 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2222 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2224 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1537 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1283 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 469 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 424 | [Browse →](./templates/) |
 | 🔐 **Security** | 383 | [Browse →](./security/) |
-| 🏷️ **Communication** | 379 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 380 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 358 | [Browse →](./video-editing/) |
 | 📊 **Data** | 324 | [Browse →](./data/) |
 | 💳 **Payments** | 316 | [Browse →](./payments/) |
@@ -56,15 +56,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 32 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 10 | [Browse →](./ai-agents/) |
+| 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Llm** | 6 | [Browse →](./llm/) |
-| 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
+| 🏷️ **Self-hosting** | 4 | [Browse →](./self-hosting/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Cicd** | 3 | [Browse →](./cicd/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |

@@ -2,7 +2,7 @@
 
 > 
 
-**9 projects** in this category.
+**10 projects** in this category.
 
 ## Projects
 
@@ -15,8 +15,9 @@
 | 5 | [arthneura/arthneura-core](./arthneura-arthneura-core.md) | ⭐ 2 | Rust | 42/100 |
 | 6 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
 | 7 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 38/100 |
-| 8 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
-| 9 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 8 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
+| 9 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
+| 10 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 

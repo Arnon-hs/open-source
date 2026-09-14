@@ -65,18 +65,18 @@ benmaster82/Kwipu：benmaster82/Kwipu helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 72/100 |
-| adoption | 49/100 |
-| categoryMatchCount | 500/100 |
-| stars | 52/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
+| adoption | 49/100 |
+| production | 66/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
