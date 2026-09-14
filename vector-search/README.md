@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [eminsk/nanovector](./eminsk-nanovector.md) | ⭐ — | C | 52/100 |
+| 1 | [eminsk/nanovector](./eminsk-nanovector.md) | ⭐ — | C | 49/100 |
 
 ---
 
