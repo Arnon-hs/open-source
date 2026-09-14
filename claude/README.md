@@ -1,4 +1,4 @@
-# 🏷️ Open-data
+# 🏷️ Claude
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [anthropic/mcp](./anthropic-mcp.md) | ⭐ — | — | 32/100 |
+| 1 | [FairdraftStudio/call-notes-to-actions-skill](./fairdraftstudio-call-notes-to-actions-skill.md) | ⭐ — | — | 47/100 |
 
 ---
 

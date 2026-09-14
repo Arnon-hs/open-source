@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [axios/axios](./axios-axios.md) | ⭐ 109.2k | JavaScript | 72/100 |
+| 1 | [axios/axios](./axios-axios.md) | ⭐ 109.2k | JavaScript | 69/100 |
 
 ---
 
