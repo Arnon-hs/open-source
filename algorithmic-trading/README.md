@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [eminsk/yfinance-ta-patterns](./eminsk-yfinance-ta-patterns.md) | ⭐ — | Python | 50/100 |
+| 1 | [eminsk/yfinance-ta-patterns](./eminsk-yfinance-ta-patterns.md) | ⭐ — | Python | 47/100 |
 
 ---
 
