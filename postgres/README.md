@@ -1,4 +1,4 @@
-# 🏷️ Web-games
+# 🏷️ Postgres
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yusufcicel54-rgb/-simbulamadimscript](./yusufcicel54-rgb--simbulamadimscript.md) | ⭐ — | JavaScript | 33/100 |
+| 1 | [.../rehearsal.sh](./...-rehearsal.sh.md) | ⭐ — | — | 24/100 |
 
 ---
 
