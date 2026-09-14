@@ -1,6 +1,6 @@
 # zubair-trabzada/ai-sales-team-claude
 
-[![Stars](https://img.shields.io/github/stars/zubair-trabzada/ai-sales-team-claude?style=flat-square&color=yellow)](https://github.com/zubair-trabzada/ai-sales-team-claude/stargazers) [![Forks](https://img.shields.io/github/forks/zubair-trabzada/ai-sales-team-claude?style=flat-square&color=blue)](https://github.com/zubair-trabzada/ai-sales-team-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zubair-trabzada/ai-sales-team-claude?style=flat-square&color=yellow)](https://github.com/zubair-trabzada/ai-sales-team-claude/stargazers) [![Forks](https://img.shields.io/github/forks/zubair-trabzada/ai-sales-team-claude?style=flat-square&color=blue)](https://github.com/zubair-trabzada/ai-sales-team-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Runs a team of autonomous agents inside Claude Code to research companies, score leads using BANT criteria, map decision makers, and draft personalized email sequences.  https://t.co/CFeqGD8s6z https://t.co/H8fYkBGrFQ https://github.com/zubair-trabzada/ai-sales-team-claude
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ zubair-trabzada/ai-sales-team-claude：zubair-trabzada/ai-sales-team-claude help
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 64/100 |
 | categoryMatchCount | 300/100 |
 | stars | 65/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
