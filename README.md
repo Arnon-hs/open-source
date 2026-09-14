@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35660** |
+| **Projects** | **35661** |
 | **Categories** | **197** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13362 | [Browse →](./misc/) |
+| 📦 **Misc** | 13363 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4092 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2604 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2219 | [Browse →](./orchestration/) |
@@ -103,6 +103,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Mermaid** | 1 | [Browse →](./mermaid/) |
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
 | 🏷️ **Neurobiology** | 1 | [Browse →](./neurobiology/) |
 | 🏷️ **Remote-coding** | 1 | [Browse →](./remote-coding/) |
@@ -207,7 +208,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Peertopeer** | 1 | [Browse →](./peertopeer/) |
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Google-tasks** | 1 | [Browse →](./google-tasks/) |
-| 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |

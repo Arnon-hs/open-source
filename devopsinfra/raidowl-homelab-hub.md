@@ -1,6 +1,6 @@
 # RaidOwl/homelab-hub
 
-[![Stars](https://img.shields.io/github/stars/RaidOwl/homelab-hub?style=flat-square&color=yellow)](https://github.com/RaidOwl/homelab-hub/stargazers) [![Forks](https://img.shields.io/github/forks/RaidOwl/homelab-hub?style=flat-square&color=blue)](https://github.com/RaidOwl/homelab-hub/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RaidOwl/homelab-hub?style=flat-square&color=yellow)](https://github.com/RaidOwl/homelab-hub/stargazers) [![Forks](https://img.shields.io/github/forks/RaidOwl/homelab-hub?style=flat-square&color=blue)](https://github.com/RaidOwl/homelab-hub/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Tracks hardware, virtual machines, applications, storage, and networks to manage home lab infrastructure. Renders interactive network maps to visualize relationships between components. Exports complete inventory data as JSON files. Deploys easily using Docker Compose.  https://t.co/OWrncvxj1f https://github.com/RaidOwl/homelab-hub
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 690 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ RaidOwl/homelab-hub：RaidOwl/homelab-hub helps make deployment and operations m
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 60/100 |
+| outlook | 64/100 |
 | adoption | 55/100 |
 | categoryMatchCount | 100/100 |
 | stars | 60/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
