@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [DobermanCore/Doberman-Core](./dobermancore-doberman-core.md) | ⭐ 198 | Python | 74/100 |
+| 1 | [ktirupati/policyaware](./ktirupati-policyaware.md) | ⭐ 5 | Python | 61/100 |
 
 ---
 

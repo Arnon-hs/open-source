@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35764** |
-| **Categories** | **207** |
+| **Projects** | **35767** |
+| **Categories** | **210** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 13417 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4097 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4098 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2607 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2224 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1537 | [Browse →](./devtools/) |
@@ -95,7 +95,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
-| 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Headless-cms** | 2 | [Browse →](./headless-cms/) |
@@ -109,6 +108,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Semantic-search** | 2 | [Browse →](./semantic-search/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Nestjs** | 1 | [Browse →](./nestjs/) |
+| 🏷️ **Ai-safety** | 1 | [Browse →](./ai-safety/) |
+| 🏷️ **Css** | 1 | [Browse →](./css/) |
 | 🏷️ **Api-testing** | 1 | [Browse →](./api-testing/) |
 | 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
 | 🏷️ **Env-spec** | 1 | [Browse →](./env-spec/) |
@@ -174,6 +176,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Feishu** | 1 | [Browse →](./feishu/) |
 | 🏷️ **Vpn** | 1 | [Browse →](./vpn/) |
+| 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Deepseek** | 1 | [Browse →](./deepseek/) |
 | 🏷️ **Ai-code-review** | 1 | [Browse →](./ai-code-review/) |
 | 🏷️ **Backtesting** | 1 | [Browse →](./backtesting/) |
