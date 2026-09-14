@@ -1,6 +1,6 @@
 # erekola/markdown-parity-check
 
-[![Stars](https://img.shields.io/github/stars/erekola/markdown-parity-check?style=flat-square&color=yellow)](https://github.com/erekola/markdown-parity-check/stargazers) [![Forks](https://img.shields.io/github/forks/erekola/markdown-parity-check?style=flat-square&color=blue)](https://github.com/erekola/markdown-parity-check/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erekola/markdown-parity-check?style=flat-square&color=yellow)](https://github.com/erekola/markdown-parity-check/stargazers) [![Forks](https://img.shields.io/github/forks/erekola/markdown-parity-check?style=flat-square&color=blue)](https://github.com/erekola/markdown-parity-check/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Compare HTML and Markdown page content from the CLI. Report changed text, numbers, links and blocks with source locations and JSON output.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ erekola/markdown-parity-check：erekola/markdown-parity-check may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
