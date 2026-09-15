@@ -1,4 +1,4 @@
-# 🏷️ Harness
+# 🏷️ Candlestick
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [truefoundry/trueforge-core](./truefoundry-trueforge-core.md) | ⭐ — | — | 24/100 |
+| 1 | [cm45t3r/candlestick](./cm45t3r-candlestick.md) | ⭐ 516 | JavaScript | 60/100 |
 
 ---
 

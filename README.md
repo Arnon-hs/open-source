@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35807** |
+| **Projects** | **35813** |
 | **Categories** | **217** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13437 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4099 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13440 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4100 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2608 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2226 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2227 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1538 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1284 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1285 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 855 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
@@ -53,13 +53,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 152 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 80 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
+| 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
@@ -76,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Agent-self-editing** | 2 | [Browse →](./agent-self-editing/) |
 | 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
@@ -105,9 +106,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
 | 🏷️ **Agent-security** | 2 | [Browse →](./agent-security/) |
-| 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Candlestick** | 1 | [Browse →](./candlestick/) |
 | 🏷️ **Tebex** | 1 | [Browse →](./tebex/) |
 | 🏷️ **Archiver** | 1 | [Browse →](./archiver/) |
 | 🏷️ **Cloud** | 1 | [Browse →](./cloud/) |
@@ -137,7 +138,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Agent-based-development** | 1 | [Browse →](./agent-based-development/) |
 | 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
-| 🏷️ **Benchmark** | 1 | [Browse →](./benchmark/) |
 | 🏷️ **Selfhosting** | 1 | [Browse →](./selfhosting/) |
 | 🏷️ **Ticketing** | 1 | [Browse →](./ticketing/) |
 | 🏷️ **Local-rag** | 1 | [Browse →](./local-rag/) |
@@ -211,7 +211,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apple-music** | 1 | [Browse →](./apple-music/) |
 | 🏷️ **Kanban** | 1 | [Browse →](./kanban/) |
 | 🏷️ **Embedded** | 1 | [Browse →](./embedded/) |
-| 🏷️ **Ai-contributions** | 1 | [Browse →](./ai-contributions/) |
+| 🏷️ **Harness** | 1 | [Browse →](./harness/) |
 | 🏷️ **Dex** | 1 | [Browse →](./dex/) |
 | 🏷️ **Personal-website** | 1 | [Browse →](./personal-website/) |
 | 🏷️ **Serverless** | 1 | [Browse →](./serverless/) |
