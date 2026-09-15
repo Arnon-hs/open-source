@@ -1,6 +1,6 @@
 # renanfranca/codex-skills
 
-[![Stars](https://img.shields.io/github/stars/renanfranca/codex-skills?style=flat-square&color=yellow)](https://github.com/renanfranca/codex-skills/stargazers) [![Forks](https://img.shields.io/github/forks/renanfranca/codex-skills?style=flat-square&color=blue)](https://github.com/renanfranca/codex-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/renanfranca/codex-skills?style=flat-square&color=yellow)](https://github.com/renanfranca/codex-skills/stargazers) [![Forks](https://img.shields.io/github/forks/renanfranca/codex-skills?style=flat-square&color=blue)](https://github.com/renanfranca/codex-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > I list my codex skills
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-12 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ renanfranca/codex-skills：renanfranca/codex-skills may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 52/100 |
+| production | 52/100 |
+| outlook | 45/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 400/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
