@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35820** |
+| **Projects** | **35823** |
 | **Categories** | **218** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 13441 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4100 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2608 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2609 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2227 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1538 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1285 | [Browse →](./automation/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 424 | [Browse →](./templates/) |
 | 🔐 **Security** | 383 | [Browse →](./security/) |
 | 🏷️ **Communication** | 381 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 359 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 360 | [Browse →](./video-editing/) |
 | 📊 **Data** | 324 | [Browse →](./data/) |
 | 💳 **Payments** | 316 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
@@ -77,6 +77,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Agent-self-editing** | 2 | [Browse →](./agent-self-editing/) |
@@ -109,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-security** | 2 | [Browse →](./agent-security/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent-scan** | 1 | [Browse →](./agent-scan/) |
 | 🏷️ **Self-host** | 1 | [Browse →](./self-host/) |
 | 🏷️ **Candlestick** | 1 | [Browse →](./candlestick/) |
 | 🏷️ **Tebex** | 1 | [Browse →](./tebex/) |
@@ -210,8 +212,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **C** | 1 | [Browse →](./c/) |
 | 🏷️ **Openclaw** | 1 | [Browse →](./openclaw/) |
 | 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
-| 🏷️ **Apple-music** | 1 | [Browse →](./apple-music/) |
-| 🏷️ **Embedded** | 1 | [Browse →](./embedded/) |
 | 🏷️ **Harness** | 1 | [Browse →](./harness/) |
 | 🏷️ **Dex** | 1 | [Browse →](./dex/) |
 | 🏷️ **Personal-website** | 1 | [Browse →](./personal-website/) |
