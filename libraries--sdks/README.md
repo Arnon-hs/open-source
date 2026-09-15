@@ -2,7 +2,7 @@
 
 > 
 
-**240 projects** in this category.
+**241 projects** in this category.
 
 ## Projects
 
@@ -238,16 +238,17 @@
 | 228 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ — | — | 45/100 |
 | 229 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ — | — | 45/100 |
 | 230 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
-| 231 | [anthropic-ai/sdk](./anthropic-ai-sdk.md) | ⭐ — | — | 44/100 |
-| 232 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2k | Rust | 44/100 |
-| 233 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 154 | Rust | 43/100 |
-| 234 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 235 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ — | — | 41/100 |
-| 236 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
-| 237 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
-| 238 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 127 | Rust | 39/100 |
-| 239 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
-| 240 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
+| 231 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ — | — | 44/100 |
+| 232 | [anthropic-ai/sdk](./anthropic-ai-sdk.md) | ⭐ — | — | 44/100 |
+| 233 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2k | Rust | 44/100 |
+| 234 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 154 | Rust | 43/100 |
+| 235 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
+| 236 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ — | — | 41/100 |
+| 237 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
+| 238 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
+| 239 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 127 | Rust | 39/100 |
+| 240 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
+| 241 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
 
 ---
 

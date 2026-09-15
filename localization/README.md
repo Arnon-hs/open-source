@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pyaephyomaungdev/json-link](./pyaephyomaungdev-json-link.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [pyaephyomaungdev/json-link](./pyaephyomaungdev-json-link.md) | ⭐ — | TypeScript | 43/100 |
 
 ---
 

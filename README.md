@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35866** |
+| **Projects** | **35875** |
 | **Categories** | **221** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,22 +23,22 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13464 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4104 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13465 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4105 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2612 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2227 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2228 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1538 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1287 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 855 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 619 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 620 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 608 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 574 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 563 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 557 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 478 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 469 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 425 | [Browse →](./templates/) |
 | 🔐 **Security** | 384 | [Browse →](./security/) |
 | 🏷️ **Communication** | 381 | [Browse →](./communication/) |
@@ -48,15 +48,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 300 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 269 | [Browse →](./observability/) |
-| 🏷️ **Libraries--sdks** | 240 | [Browse →](./libraries--sdks/) |
+| 🏷️ **Libraries--sdks** | 241 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 190 | [Browse →](./trading/) |
 | ✨ **Design** | 152 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 80 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 35 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 10 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
