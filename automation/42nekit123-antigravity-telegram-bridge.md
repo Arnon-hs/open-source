@@ -1,6 +1,6 @@
 # 42Nekit123/antigravity-telegram-bridge
 
-[![Stars](https://img.shields.io/github/stars/42Nekit123/antigravity-telegram-bridge?style=flat-square&color=yellow)](https://github.com/42Nekit123/antigravity-telegram-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/42Nekit123/antigravity-telegram-bridge?style=flat-square&color=blue)](https://github.com/42Nekit123/antigravity-telegram-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/42Nekit123/antigravity-telegram-bridge?style=flat-square&color=yellow)](https://github.com/42Nekit123/antigravity-telegram-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/42Nekit123/antigravity-telegram-bridge?style=flat-square&color=blue)](https://github.com/42Nekit123/antigravity-telegram-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Remote Telegram bridge & controller for Google Antigravity IDE (direct CDP, zero mouse emulation, multi-language)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-12 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ automation · telegram · electron · devtools · python
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
