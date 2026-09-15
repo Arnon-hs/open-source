@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35799** |
-| **Categories** | **214** |
+| **Projects** | **35800** |
+| **Categories** | **215** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -107,6 +107,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Archiver** | 1 | [Browse →](./archiver/) |
 | 🏷️ **Cloud** | 1 | [Browse →](./cloud/) |
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |
