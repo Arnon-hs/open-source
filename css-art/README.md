@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [maneesh-kumar-thakur/devto-frontend-challenge-food-edition](./maneesh-kumar-thakur-devto-frontend-challenge-food-edition.md) | ⭐ — | CSS | 45/100 |
+| 1 | [maneesh-kumar-thakur/devto-frontend-challenge-food-edition](./maneesh-kumar-thakur-devto-frontend-challenge-food-edition.md) | ⭐ — | CSS | 42/100 |
 
 ---
 
