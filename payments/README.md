@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**316 projects** in this category.
+**318 projects** in this category.
 
 ## Projects
 
@@ -115,8 +115,8 @@
 | 105 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.2k | PHP | 62/100 |
 | 106 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 62/100 |
 | 107 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 62/100 |
-| 108 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
-| 109 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
+| 108 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
+| 109 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
 | 110 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 111 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 52 | TypeScript | 61/100 |
 | 112 | [JSQLParser/JSqlParser](./jsqlparser-jsqlparser.md) | ⭐ 6k | Java | 61/100 |
@@ -307,23 +307,25 @@
 | 297 | [rikocr8orh8/x402-bazaar-survey](./rikocr8orh8-x402-bazaar-survey.md) | ⭐ — | — | 42/100 |
 | 298 | [DanielIoni-creator/MyZubsterAPP](./danielioni-creator-myzubsterapp.md) | ⭐ — | — | 42/100 |
 | 299 | [wkoverfield/quilt](./wkoverfield-quilt.md) | ⭐ — | — | 42/100 |
-| 300 | [stoix-dev/sefaz-webservices-postman](./stoix-dev-sefaz-webservices-postman.md) | ⭐ — | — | 41/100 |
-| 301 | [allixsenos/asu](./allixsenos-asu.md) | ⭐ — | — | 41/100 |
-| 302 | [devmster/x402-trinity-gaming](./devmster-x402-trinity-gaming.md) | ⭐ — | — | 41/100 |
-| 303 | [joey-io/gauge](./joey-io-gauge.md) | ⭐ — | — | 41/100 |
-| 304 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 41/100 |
-| 305 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 40/100 |
-| 306 | [felixpg13-glitch/spendshield](./felixpg13-glitch-spendshield.md) | ⭐ — | — | 38/100 |
-| 307 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ — | — | 38/100 |
-| 308 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ — | — | 38/100 |
-| 309 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ — | — | 38/100 |
-| 310 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |
-| 311 | [rtsdque/sentinel](./rtsdque-sentinel.md) | ⭐ — | — | 38/100 |
-| 312 | [hkc5/cursor-bridge](./hkc5-cursor-bridge.md) | ⭐ — | — | 38/100 |
-| 313 | [joverman/xrplink](./joverman-xrplink.md) | ⭐ — | — | 38/100 |
-| 314 | [paycan-app/paycan](./paycan-app-paycan.md) | ⭐ — | — | 38/100 |
-| 315 | [inferock/inferock-bench](./inferock-inferock-bench.md) | ⭐ — | — | 38/100 |
-| 316 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ — | — | 36/100 |
+| 300 | [ccycv/openusage](./ccycv-openusage.md) | ⭐ — | — | 41/100 |
+| 301 | [stoix-dev/sefaz-webservices-postman](./stoix-dev-sefaz-webservices-postman.md) | ⭐ — | — | 41/100 |
+| 302 | [allixsenos/asu](./allixsenos-asu.md) | ⭐ — | — | 41/100 |
+| 303 | [devmster/x402-trinity-gaming](./devmster-x402-trinity-gaming.md) | ⭐ — | — | 41/100 |
+| 304 | [joey-io/gauge](./joey-io-gauge.md) | ⭐ — | — | 41/100 |
+| 305 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 41/100 |
+| 306 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 40/100 |
+| 307 | [ujjavala/docgrity-vscode](./ujjavala-docgrity-vscode.md) | ⭐ — | TypeScript | 39/100 |
+| 308 | [felixpg13-glitch/spendshield](./felixpg13-glitch-spendshield.md) | ⭐ — | — | 38/100 |
+| 309 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ — | — | 38/100 |
+| 310 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ — | — | 38/100 |
+| 311 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ — | — | 38/100 |
+| 312 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |
+| 313 | [rtsdque/sentinel](./rtsdque-sentinel.md) | ⭐ — | — | 38/100 |
+| 314 | [hkc5/cursor-bridge](./hkc5-cursor-bridge.md) | ⭐ — | — | 38/100 |
+| 315 | [joverman/xrplink](./joverman-xrplink.md) | ⭐ — | — | 38/100 |
+| 316 | [paycan-app/paycan](./paycan-app-paycan.md) | ⭐ — | — | 38/100 |
+| 317 | [inferock/inferock-bench](./inferock-inferock-bench.md) | ⭐ — | — | 38/100 |
+| 318 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ — | — | 36/100 |
 
 ---
 
