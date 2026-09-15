@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35789** |
+| **Projects** | **35793** |
 | **Categories** | **213** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13429 | [Browse →](./misc/) |
+| 📦 **Misc** | 13430 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4099 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2608 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2225 | [Browse →](./orchestration/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 469 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 424 | [Browse →](./templates/) |
 | 🔐 **Security** | 383 | [Browse →](./security/) |
-| 🏷️ **Communication** | 380 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 381 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 359 | [Browse →](./video-editing/) |
 | 📊 **Data** | 324 | [Browse →](./data/) |
 | 💳 **Payments** | 316 | [Browse →](./payments/) |
@@ -56,11 +56,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 32 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai-agents** | 10 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
-| 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
