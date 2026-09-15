@@ -1,6 +1,6 @@
 # aliyun/aliyun-oss-python-sdk
 
-[![Stars](https://img.shields.io/github/stars/aliyun/aliyun-oss-python-sdk?style=flat-square&color=yellow)](https://github.com/aliyun/aliyun-oss-python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/aliyun-oss-python-sdk?style=flat-square&color=blue)](https://github.com/aliyun/aliyun-oss-python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliyun/aliyun-oss-python-sdk?style=flat-square&color=yellow)](https://github.com/aliyun/aliyun-oss-python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/aliyun-oss-python-sdk?style=flat-square&color=blue)](https://github.com/aliyun/aliyun-oss-python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Aliyun OSS SDK for Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 996 |
 | 🍴 **Forks** | 356 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ aliyun/aliyun-oss-python-sdk：aliyun/aliyun-oss-python-sdk may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 64/100 |
 | categoryMatchCount | 600/100 |
 | stars | 64/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

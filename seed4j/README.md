@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [seed4j/seed4j-cli](./seed4j-seed4j-cli.md) | ⭐ 3 | Java | 62/100 |
+| 1 | [seed4j/seed4j-cli](./seed4j-seed4j-cli.md) | ⭐ 3 | Java | 58/100 |
 
 ---
 

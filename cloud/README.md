@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 61/100 |
+| 1 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 58/100 |
 
 ---
 

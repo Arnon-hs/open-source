@@ -1,6 +1,6 @@
 # seed4j/seed4j-cli
 
-[![Stars](https://img.shields.io/github/stars/seed4j/seed4j-cli?style=flat-square&color=yellow)](https://github.com/seed4j/seed4j-cli/stargazers) [![Forks](https://img.shields.io/github/forks/seed4j/seed4j-cli?style=flat-square&color=blue)](https://github.com/seed4j/seed4j-cli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seed4j/seed4j-cli?style=flat-square&color=yellow)](https://github.com/seed4j/seed4j-cli/stargazers) [![Forks](https://img.shields.io/github/forks/seed4j/seed4j-cli?style=flat-square&color=blue)](https://github.com/seed4j/seed4j-cli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Seed4J CLI >_ is a command-line interface tool that helps you apply and manage Seed4J modules. It provides a modular approach to application generation, allowing you to select specific modules and features for your project.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ seed4j/seed4j-cli：seed4j/seed4j-cli may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 600/100 |
 | stars | 13/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
