@@ -1,6 +1,6 @@
 # Mrshahidali420/SiteHelm
 
-[![Stars](https://img.shields.io/github/stars/Mrshahidali420/SiteHelm?style=flat-square&color=yellow)](https://github.com/Mrshahidali420/SiteHelm/stargazers) [![Forks](https://img.shields.io/github/forks/Mrshahidali420/SiteHelm?style=flat-square&color=blue)](https://github.com/Mrshahidali420/SiteHelm/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mrshahidali420/SiteHelm?style=flat-square&color=yellow)](https://github.com/Mrshahidali420/SiteHelm/stargazers) [![Forks](https://img.shields.io/github/forks/Mrshahidali420/SiteHelm?style=flat-square&color=blue)](https://github.com/Mrshahidali420/SiteHelm/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A WordPress MCP server for AI agents that has to be trusted with a client's live site: 112 capability-checked operations, every write previewed, snapshotted, verified by reading the site back, and reversible. Elementor, ACF, Meta Box, Yoast and Rank Math included.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Mrshahidali420/SiteHelm：Mrshahidali420/SiteHelm may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 600/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
