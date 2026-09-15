@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [therealcpain/honest-chart-demo](./therealcpain-honest-chart-demo.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [therealcpain/honest-chart-demo](./therealcpain-honest-chart-demo.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

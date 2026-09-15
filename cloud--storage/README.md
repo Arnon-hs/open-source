@@ -470,8 +470,8 @@
 | 460 | [xingpingcn/enhanced-FaaS-in-China](./xingpingcn-enhanced-faas-in-china.md) | ⭐ 3k | Python | 52/100 |
 | 461 | [Azure/Azure-Sentinel](./azure-azure-sentinel.md) | ⭐ 5.8k | Python | 52/100 |
 | 462 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 434 | Go | 52/100 |
-| 463 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 83 | TypeScript | 51/100 |
-| 464 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 463 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 464 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 83 | TypeScript | 51/100 |
 | 465 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 31 | Python | 51/100 |
 | 466 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 467 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 310 | PowerShell | 51/100 |
@@ -512,8 +512,8 @@
 | 502 | [ministryofjustice/modernisation-platform](./ministryofjustice-modernisation-platform.md) | ⭐ 722 | HCL | 46/100 |
 | 503 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
 | 504 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 505 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
-| 506 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 505 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 506 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
 | 507 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ — | — | 45/100 |
 | 508 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ — | — | 45/100 |
 | 509 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |

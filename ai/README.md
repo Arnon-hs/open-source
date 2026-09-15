@@ -30,7 +30,7 @@
 | 20 | [Om-Talaviya/claude-trade-skills](./om-talaviya-claude-trade-skills.md) | ⭐ — | — | 40/100 |
 | 21 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
 | 22 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
-| 23 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 36/100 |
+| 23 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 33/100 |
 | 24 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
 | 25 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
 | 26 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
