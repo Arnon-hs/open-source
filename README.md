@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35813** |
-| **Categories** | **217** |
+| **Projects** | **35820** |
+| **Categories** | **218** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13440 | [Browse →](./misc/) |
+| 📦 **Misc** | 13441 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4100 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2608 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2227 | [Browse →](./orchestration/) |
@@ -49,7 +49,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Productivity** | 300 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 269 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 240 | [Browse →](./libraries--sdks/) |
-| 📈 **Trading** | 189 | [Browse →](./trading/) |
+| 📈 **Trading** | 190 | [Browse →](./trading/) |
 | ✨ **Design** | 152 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 80 | [Browse →](./vertical-video/) |
@@ -60,6 +60,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
+| 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
@@ -108,6 +109,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-security** | 2 | [Browse →](./agent-security/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Self-host** | 1 | [Browse →](./self-host/) |
 | 🏷️ **Candlestick** | 1 | [Browse →](./candlestick/) |
 | 🏷️ **Tebex** | 1 | [Browse →](./tebex/) |
 | 🏷️ **Archiver** | 1 | [Browse →](./archiver/) |
@@ -209,7 +211,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openclaw** | 1 | [Browse →](./openclaw/) |
 | 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
 | 🏷️ **Apple-music** | 1 | [Browse →](./apple-music/) |
-| 🏷️ **Kanban** | 1 | [Browse →](./kanban/) |
 | 🏷️ **Embedded** | 1 | [Browse →](./embedded/) |
 | 🏷️ **Harness** | 1 | [Browse →](./harness/) |
 | 🏷️ **Dex** | 1 | [Browse →](./dex/) |

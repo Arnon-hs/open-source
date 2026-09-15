@@ -2,13 +2,17 @@
 
 > 
 
-**1 projects** in this category.
+**5 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [idrisharis12/ani-sync](./idrisharis12-ani-sync.md) | ⭐ — | Python | 56/100 |
+| 1 | [nvim-telescope/telescope.nvim](./nvim-telescope-telescope.nvim.md) | ⭐ 19.8k | Lua | 65/100 |
+| 2 | [folke/lazy.nvim](./folke-lazy.nvim.md) | ⭐ 21.6k | Lua | 65/100 |
+| 3 | [saghen/blink.cmp](./saghen-blink.cmp.md) | ⭐ 6.6k | Lua | 61/100 |
+| 4 | [Tuim-editor/Tuim](./tuim-editor-tuim.md) | ⭐ 4 | Zig | 39/100 |
+| 5 | [williamboman/mason.nvim](./williamboman-mason.nvim.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -1,4 +1,4 @@
-# 🏷️ Reverse-engineering
+# 🏷️ Self-host
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Cynostial/malibu](./cynostial-malibu.md) | ⭐ — | Swift | 39/100 |
+| 1 | [vikashsparxit/the-talent-app](./vikashsparxit-the-talent-app.md) | ⭐ 6 | TypeScript | 55/100 |
 
 ---
 
