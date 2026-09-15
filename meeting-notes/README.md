@@ -1,4 +1,4 @@
-# 🏷️ Proactive-ai
+# 🏷️ Meeting-notes
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Bubblegunn/proactive-gate](./bubblegunn-proactive-gate.md) | ⭐ — | TypeScript | 61/100 |
+| 1 | [guillaumekln/whisper](./guillaumekln-whisper.md) | ⭐ — | — | 24/100 |
 
 ---
 

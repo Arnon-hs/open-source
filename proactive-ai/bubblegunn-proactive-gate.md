@@ -1,6 +1,6 @@
 # Bubblegunn/proactive-gate
 
-[![Stars](https://img.shields.io/github/stars/Bubblegunn/proactive-gate?style=flat-square&color=yellow)](https://github.com/Bubblegunn/proactive-gate/stargazers) [![Forks](https://img.shields.io/github/forks/Bubblegunn/proactive-gate?style=flat-square&color=blue)](https://github.com/Bubblegunn/proactive-gate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bubblegunn/proactive-gate?style=flat-square&color=yellow)](https://github.com/Bubblegunn/proactive-gate/stargazers) [![Forks](https://img.shields.io/github/forks/Bubblegunn/proactive-gate?style=flat-square&color=blue)](https://github.com/Bubblegunn/proactive-gate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Decide whether a proactive AI agent may reach a user right now, and log why not. Ordered checks as code or JSON, presets for platform and legal limits, adapters for agent frameworks, a browser playground, and a Python sibling held to the same fixtures.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-12 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Bubblegunn/proactive-gate：Bubblegunn/proactive-gate may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 4/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
