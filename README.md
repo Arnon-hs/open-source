@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35801** |
-| **Categories** | **215** |
+| **Projects** | **35805** |
+| **Categories** | **217** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13434 | [Browse →](./misc/) |
+| 📦 **Misc** | 13435 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4099 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2608 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2225 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2226 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1538 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1284 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
@@ -61,10 +61,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
-| 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
+| 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Cicd** | 3 | [Browse →](./cicd/) |
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
@@ -76,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Agent-self-editing** | 2 | [Browse →](./agent-self-editing/) |
 | 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
 | 🏷️ **Data-leakage** | 2 | [Browse →](./data-leakage/) |
@@ -107,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Harness** | 2 | [Browse →](./harness/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Tebex** | 1 | [Browse →](./tebex/) |
 | 🏷️ **Archiver** | 1 | [Browse →](./archiver/) |
 | 🏷️ **Cloud** | 1 | [Browse →](./cloud/) |
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
