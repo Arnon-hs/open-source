@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [scaffoldx/scaffoldx-cli](./scaffoldx-scaffoldx-cli.md) | ⭐ — | — | 32/100 |
+| 1 | [anthropics/anthropic-sdk-python](./anthropics-anthropic-sdk-python.md) | ⭐ 3.9k | Python | 64/100 |
 
 ---
 
