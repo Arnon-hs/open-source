@@ -311,8 +311,8 @@
 | 301 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ — | — | 42/100 |
 | 302 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ — | — | 42/100 |
 | 303 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ — | — | 42/100 |
-| 304 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ — | — | 42/100 |
-| 305 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ — | — | 42/100 |
+| 304 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ — | — | 42/100 |
+| 305 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ — | — | 42/100 |
 | 306 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ — | — | 42/100 |
 | 307 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ — | — | 42/100 |
 | 308 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ — | — | 42/100 |
