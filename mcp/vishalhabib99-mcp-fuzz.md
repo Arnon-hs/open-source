@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · tool audit · static analysis · fuzz testing · runtime validation · open-source
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ vishalhabib99/mcp-fuzz: vishalhabib99/mcp-fuzz helps connect AI assistants to re
 
 ### Русский
 
-vishalhabib99/mcp-fuzz: open-source проект в категориях MCP, tool audit, static analysis, fuzz testing, runtime validation, open-source. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+vishalhabib99/mcp-fuzz: open-source проект в категориях MCP, AI/ML, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ vishalhabib99/mcp-fuzz：vishalhabib99/mcp-fuzz helps connect AI assistants to r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 45/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 65/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 600/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
