@@ -777,8 +777,8 @@
 | 767 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 62/100 |
 | 768 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 769 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 770 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 771 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 770 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 771 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 772 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 773 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 774 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -1133,8 +1133,8 @@
 | 1123 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 49/100 |
 | 1124 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 329 | — | 49/100 |
 | 1125 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 49/100 |
-| 1126 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
-| 1127 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1126 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1127 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
 | 1128 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 3.6k | Shell | 49/100 |
 | 1129 | [pmdroid/tesla-vehicle-command](./pmdroid-tesla-vehicle-command.md) | ⭐ 20 | C | 49/100 |
 | 1130 | [muzhi-888/ai-side-hustle-checker](./muzhi-888-ai-side-hustle-checker.md) | ⭐ — | — | 48/100 |
@@ -1273,8 +1273,8 @@
 | 1263 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 38/100 |
 | 1264 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1265 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1266 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
-| 1267 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1266 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1267 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
 | 1268 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 38/100 |
 | 1269 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 38/100 |
 | 1270 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 38/100 |
