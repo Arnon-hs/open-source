@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nmslib/hnswlib](./nmslib-hnswlib.md) | ⭐ 5.3k | C++ | 60/100 |
+| 1 | [nmslib/hnswlib](./nmslib-hnswlib.md) | ⭐ 5.3k | C++ | 57/100 |
 
 ---
 

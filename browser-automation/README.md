@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Wvdstoep/ghost-browser](./wvdstoep-ghost-browser.md) | ⭐ 1 | JavaScript | 64/100 |
+| 1 | [Wvdstoep/ghost-browser](./wvdstoep-ghost-browser.md) | ⭐ 1 | JavaScript | 61/100 |
 
 ---
 
