@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wookat/agentgate](./wookat-agentgate.md) | ⭐ — | TypeScript | 66/100 |
+| 1 | [wookat/agentgate](./wookat-agentgate.md) | ⭐ — | TypeScript | 63/100 |
 | 2 | [alpha018/skills](./alpha018-skills.md) | ⭐ — | — | 24/100 |
 
 ---
