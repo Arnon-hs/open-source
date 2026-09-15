@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [moonrunnerkc/tracemantle](./moonrunnerkc-tracemantle.md) | ⭐ 24 | Python | 69/100 |
-| 2 | [bigrivi/nova](./bigrivi-nova.md) | ⭐ — | Python | 69/100 |
-| 3 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 1.9k | Go | 67/100 |
+| 2 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 1.9k | Go | 67/100 |
+| 3 | [bigrivi/nova](./bigrivi-nova.md) | ⭐ — | Python | 66/100 |
 | 4 | [huggingface/text-generation-inference](./huggingface-text-generation-inference.md) | ⭐ 10.9k | Python | 63/100 |
 | 5 | [yanairon/taskpods](./yanairon-taskpods.md) | ⭐ 5 | Python | 63/100 |
 | 6 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 62/100 |
