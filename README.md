@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35894** |
+| **Projects** | **35899** |
 | **Categories** | **220** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13480 | [Browse →](./misc/) |
+| 📦 **Misc** | 13483 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4107 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2613 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2228 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 855 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 620 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 621 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 608 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 574 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 563 | [Browse →](./mobile/) |
@@ -77,6 +77,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Plant-names** | 2 | [Browse →](./plant-names/) |
@@ -152,7 +153,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-rag** | 1 | [Browse →](./local-rag/) |
 | 🏷️ **Multi-language** | 1 | [Browse →](./multi-language/) |
 | 🏷️ **Proactive-ai** | 1 | [Browse →](./proactive-ai/) |
-| 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Economic-data** | 1 | [Browse →](./economic-data/) |
 | 🏷️ **Document-automation** | 1 | [Browse →](./document-automation/) |
 | 🏷️ **Cro** | 1 | [Browse →](./cro/) |
