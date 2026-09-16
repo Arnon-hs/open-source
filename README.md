@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35973** |
+| **Projects** | **35978** |
 | **Categories** | **221** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13528 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4110 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13530 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4111 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2617 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2232 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Self-hosted** | 3 | [Browse →](./self-hosted/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Benchmark** | 3 | [Browse →](./benchmark/) |
@@ -77,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ml** | 3 | [Browse →](./ml/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
@@ -91,7 +93,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 2 | [Browse →](./ai-agent/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
-| 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Excel** | 2 | [Browse →](./excel/) |
 | 🏷️ **Macos** | 2 | [Browse →](./macos/) |
 | 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
@@ -136,7 +137,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Flutter** | 1 | [Browse →](./flutter/) |
 | 🏷️ **Nestjs** | 1 | [Browse →](./nestjs/) |
 | 🏷️ **Css** | 1 | [Browse →](./css/) |
-| 🏷️ **Api-testing** | 1 | [Browse →](./api-testing/) |
 | 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
 | 🏷️ **Env-spec** | 1 | [Browse →](./env-spec/) |
 | 🏷️ **Agentsmd** | 1 | [Browse →](./agentsmd/) |

@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [budment/budment](./budment-budment.md) | ⭐ 2 | Go | 55/100 |
+| 1 | [redfireforge/redfireforge-public](./redfireforge-redfireforge-public.md) | ⭐ 3 | TypeScript | 72/100 |
+| 2 | [budment/budment](./budment-budment.md) | ⭐ 2 | Go | 55/100 |
 
 ---
 
