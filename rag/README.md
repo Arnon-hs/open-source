@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dockndevai/ossian](./dockndevai-ossian.md) | ⭐ 2 | Java | 54/100 |
+| 1 | [dockndevai/ossian](./dockndevai-ossian.md) | ⭐ 2 | Java | 51/100 |
 
 ---
 
