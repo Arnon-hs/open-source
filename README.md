@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35916** |
+| **Projects** | **35921** |
 | **Categories** | **220** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13492 | [Browse →](./misc/) |
+| 📦 **Misc** | 13495 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4107 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2615 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2230 | [Browse →](./orchestration/) |
@@ -49,7 +49,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Productivity** | 300 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 269 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 241 | [Browse →](./libraries--sdks/) |
-| 📈 **Trading** | 190 | [Browse →](./trading/) |
+| 📈 **Trading** | 191 | [Browse →](./trading/) |
 | ✨ **Design** | 152 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 80 | [Browse →](./vertical-video/) |
@@ -65,6 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Benchmark** | 3 | [Browse →](./benchmark/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
@@ -78,7 +79,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
-| 🏷️ **Ai-safety** | 2 | [Browse →](./ai-safety/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
