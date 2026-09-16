@@ -1,6 +1,6 @@
 # artidoro/qlora
 
-[![Stars](https://img.shields.io/github/stars/artidoro/qlora?style=flat-square&color=yellow)](https://github.com/artidoro/qlora/stargazers) [![Forks](https://img.shields.io/github/forks/artidoro/qlora?style=flat-square&color=blue)](https://github.com/artidoro/qlora/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artidoro/qlora?style=flat-square&color=yellow)](https://github.com/artidoro/qlora/stargazers) [![Forks](https://img.shields.io/github/forks/artidoro/qlora?style=flat-square&color=blue)](https://github.com/artidoro/qlora/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > QLoRA: Efficient Finetuning of Quantized LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 874 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-13 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ artidoro/qlora：artidoro/qlora may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 83/100 |
 | categoryMatchCount | 900/100 |
 | stars | 86/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

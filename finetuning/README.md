@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [artidoro/qlora](./artidoro-qlora.md) | ⭐ 11k | Jupyter Notebook | 57/100 |
+| 1 | [artidoro/qlora](./artidoro-qlora.md) | ⭐ 11k | Jupyter Notebook | 54/100 |
 
 ---
 
