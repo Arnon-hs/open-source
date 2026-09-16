@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36012** |
-| **Categories** | **224** |
+| **Projects** | **36017** |
+| **Categories** | **227** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13544 | [Browse →](./misc/) |
+| 📦 **Misc** | 13546 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4113 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2618 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2232 | [Browse →](./orchestration/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 482 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
-| 🔐 **Security** | 386 | [Browse →](./security/) |
+| 🔐 **Security** | 387 | [Browse →](./security/) |
 | 🏷️ **Communication** | 385 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 363 | [Browse →](./video-editing/) |
 | 📊 **Data** | 326 | [Browse →](./data/) |
@@ -60,10 +60,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
-| 🏷️ **Open-source** | 5 | [Browse →](./open-source/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Migration** | 4 | [Browse →](./migration/) |
+| 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
@@ -113,6 +113,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Benchmaxing** | 1 | [Browse →](./benchmaxing/) |
+| 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
+| 🏷️ **Bash** | 1 | [Browse →](./bash/) |
 | 🏷️ **Enterprise** | 1 | [Browse →](./enterprise/) |
 | 🏷️ **Clientside** | 1 | [Browse →](./clientside/) |
 | 🏷️ **Linux** | 1 | [Browse →](./linux/) |

@@ -63,18 +63,18 @@ CircuitProApp/CircuitPro：CircuitProApp/CircuitPro may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 30/100 |
-| production | 62/100 |
-| outlook | 66/100 |
-| adoption | 51/100 |
-| categoryMatchCount | 100/100 |
-| stars | 58/100 |
 | forks | 34/100 |
-| recency | 80/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
+| adoption | 51/100 |
+| production | 62/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
