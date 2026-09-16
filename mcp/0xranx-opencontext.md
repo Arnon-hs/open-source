@@ -65,18 +65,18 @@ MCP · Knowledge/RAG · AI/ML · Productivity · DevTools
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 68/100 |
-| outlook | 79/100 |
-| adoption | 56/100 |
-| categoryMatchCount | 500/100 |
-| stars | 61/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 79/100 |
+| quality | 71/100 |
+| recency | 80/100 |
+| adoption | 56/100 |
+| production | 68/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
