@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35999** |
+| **Projects** | **36009** |
 | **Categories** | **224** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13538 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4111 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2617 | [Browse →](./mcp/) |
+| 📦 **Misc** | 13541 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4113 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2618 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2232 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1290 | [Browse →](./automation/) |
@@ -63,9 +63,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-source** | 5 | [Browse →](./open-source/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
+| 🏷️ **Migration** | 4 | [Browse →](./migration/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Local-llm** | 3 | [Browse →](./local-llm/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **Self-hosted** | 3 | [Browse →](./self-hosted/) |
@@ -107,7 +109,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Headless-cms** | 2 | [Browse →](./headless-cms/) |
-| 🏷️ **Net** | 2 | [Browse →](./net/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
@@ -209,8 +210,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Kubernetes** | 1 | [Browse →](./kubernetes/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
-| 🏷️ **Multi-tenant** | 1 | [Browse →](./multi-tenant/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
+| 🏷️ **Net** | 1 | [Browse →](./net/) |
 | 🏷️ **Offline-first** | 1 | [Browse →](./offline-first/) |
 | 🏷️ **Performance** | 1 | [Browse →](./performance/) |
 | 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |
@@ -236,7 +237,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-data** | 1 | [Browse →](./open-data/) |
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Local-ai** | 1 | [Browse →](./local-ai/) |
-| 🏷️ **Local-llm** | 1 | [Browse →](./local-llm/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
