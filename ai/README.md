@@ -23,10 +23,10 @@
 | 13 | [voyagi/plainletter](./voyagi-plainletter.md) | ⭐ — | Python | 50/100 |
 | 14 | [kenashe/ai-werewolf](./kenashe-ai-werewolf.md) | ⭐ 1 | — | 50/100 |
 | 15 | [FORIFOR/oathra](./forifor-oathra.md) | ⭐ — | TypeScript | 48/100 |
-| 16 | [KiitaInternet/kevlar](./kiitainternet-kevlar.md) | ⭐ 3 | HTML | 45/100 |
-| 17 | [jastfan/github-trending](./jastfan-github-trending.md) | ⭐ 2 | HTML | 44/100 |
-| 18 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
-| 19 | [lizhuojunx86/tg-attest](./lizhuojunx86-tg-attest.md) | ⭐ — | Python | 42/100 |
+| 16 | [jastfan/github-trending](./jastfan-github-trending.md) | ⭐ 2 | HTML | 44/100 |
+| 17 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
+| 18 | [lizhuojunx86/tg-attest](./lizhuojunx86-tg-attest.md) | ⭐ — | Python | 42/100 |
+| 19 | [KiitaInternet/kevlar](./kiitainternet-kevlar.md) | ⭐ 3 | HTML | 42/100 |
 | 20 | [Om-Talaviya/claude-trade-skills](./om-talaviya-claude-trade-skills.md) | ⭐ — | — | 40/100 |
 | 21 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
 | 22 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |

@@ -1,6 +1,6 @@
 # KiitaInternet/kevlar
 
-[![Stars](https://img.shields.io/github/stars/KiitaInternet/kevlar?style=flat-square&color=yellow)](https://github.com/KiitaInternet/kevlar/stargazers) [![Forks](https://img.shields.io/github/forks/KiitaInternet/kevlar?style=flat-square&color=blue)](https://github.com/KiitaInternet/kevlar/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KiitaInternet/kevlar?style=flat-square&color=yellow)](https://github.com/KiitaInternet/kevlar/stargazers) [![Forks](https://img.shields.io/github/forks/KiitaInternet/kevlar?style=flat-square&color=blue)](https://github.com/KiitaInternet/kevlar/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Reliability primitives for AI agents that have to survive real use — dedupe, budget guards, timeouts, audit trails, and a self-supervising watchdog. Extracted from a production voice AI assistant.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-09-13 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ KiitaInternet/kevlar：KiitaInternet/kevlar may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 700/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
