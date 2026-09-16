@@ -1,6 +1,6 @@
 # TabbyML/tabby
 
-[![Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&color=yellow)](https://github.com/TabbyML/tabby/stargazers) [![Forks](https://img.shields.io/github/forks/TabbyML/tabby?style=flat-square&color=blue)](https://github.com/TabbyML/tabby/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&color=yellow)](https://github.com/TabbyML/tabby/stargazers) [![Forks](https://img.shields.io/github/forks/TabbyML/tabby?style=flat-square&color=blue)](https://github.com/TabbyML/tabby/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI coding assistant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33.9k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-09-13 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ free-tools · local-llm · code-completion · devops · privacy
 
 ### English
 
-TabbyML/tabby: TabbyML/tabby may be useful when its README and activity match a concrete workflow.. Use it for free-tools, local-llm, code-completion, devops, privacy. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TabbyML/tabby: TabbyML/tabby may be useful when its README and activity match a concrete workflow.. Use it for free-tools, local-llm, code-completion, devops, privacy. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-TabbyML/tabby: open-source проект в категориях free-tools, local-llm, code-completion, devops, privacy. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+TabbyML/tabby: open-source проект в категориях free-tools, local-llm, code-completion, devops, privacy. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-TabbyML/tabby：TabbyML/tabby may be useful when its README and activity match a concrete workflow.。适合用于free-tools、local-llm、code-completion、devops、privacy。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TabbyML/tabby：TabbyML/tabby may be useful when its README and activity match a concrete workflow.。适合用于free-tools、local-llm、code-completion、devops、privacy。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ TabbyML/tabby：TabbyML/tabby may be useful when its README and activity match a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ TabbyML/tabby：TabbyML/tabby may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 90/100 |
+| production | 69/100 |
+| outlook | 83/100 |
 | adoption | 92/100 |
 | categoryMatchCount | 500/100 |
 | stars | 96/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

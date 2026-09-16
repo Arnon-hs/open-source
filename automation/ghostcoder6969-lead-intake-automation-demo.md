@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-automation · pricing · workflow · CRM · Zapier · Make · n8n · lead-intake
+Automation · AI/ML · Communication
 
 ## 📝 Summary
 
 ### English
 
-GhostCoder6969/lead-intake-automation-demo: GhostCoder6969/lead-intake-automation-demo may be useful when its README and activity match a concrete workflow.. Use it for automation, pricing, workflow, CRM, Zapier, Make, n8n, lead-intake. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+GhostCoder6969/lead-intake-automation-demo: GhostCoder6969/lead-intake-automation-demo helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-GhostCoder6969/lead-intake-automation-demo: open-source проект в категориях automation, pricing, workflow, CRM, Zapier, Make, n8n, lead-intake. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+GhostCoder6969/lead-intake-automation-demo: open-source проект в категориях Automation, AI/ML, Communication. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-GhostCoder6969/lead-intake-automation-demo：GhostCoder6969/lead-intake-automation-demo may be useful when its README and activity match a concrete workflow.。适合用于automation、pricing、workflow、CRM、Zapier、Make、n8n、lead-intake。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+GhostCoder6969/lead-intake-automation-demo：GhostCoder6969/lead-intake-automation-demo helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** GhostCoder6969/lead-intake-automation-demo may be useful when its README and activity match a concrete workflow.
+**Value:** GhostCoder6969/lead-intake-automation-demo helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -61,18 +63,18 @@ GhostCoder6969/lead-intake-automation-demo：GhostCoder6969/lead-intake-automati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 63/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 800/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
