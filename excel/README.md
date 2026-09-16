@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sunnydachs/pivot-diag](./sunnydachs-pivot-diag.md) | ⭐ 1 | Python | 43/100 |
-| 2 | [kent-tokyo/elixcee](./kent-tokyo-elixcee.md) | ⭐ 1 | Rust | 41/100 |
+| 1 | [kent-tokyo/elixcee](./kent-tokyo-elixcee.md) | ⭐ 1 | Rust | 41/100 |
+| 2 | [sunnydachs/pivot-diag](./sunnydachs-pivot-diag.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 
