@@ -65,18 +65,18 @@ victordibia/designing-multiagent-systems：victordibia/designing-multiagent-syst
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 71/100 |
-| adoption | 61/100 |
-| categoryMatchCount | 200/100 |
-| stars | 62/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| stars | 62/100 |
 | topics | 63/100 |
+| outlook | 71/100 |
+| quality | 67/100 |
+| recency | 80/100 |
+| adoption | 61/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

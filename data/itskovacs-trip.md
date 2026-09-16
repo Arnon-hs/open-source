@@ -65,18 +65,18 @@ itskovacs/trip：itskovacs/trip helps convert raw data into searchable, analyzab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 67/100 |
-| outlook | 70/100 |
-| adoption | 65/100 |
-| categoryMatchCount | 100/100 |
-| stars | 70/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
+| adoption | 65/100 |
+| production | 67/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

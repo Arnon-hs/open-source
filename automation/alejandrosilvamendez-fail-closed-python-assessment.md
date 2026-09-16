@@ -21,29 +21,31 @@ _no topics_
 
 ## 🎯 Categories
 
-automation · dry-run · approval · nonce · audit · concurrency
+Automation
 
 ## 📝 Summary
 
 ### English
 
-AlejandroSilvaMendez/fail-closed-python-assessment: AlejandroSilvaMendez/fail-closed-python-assessment may be useful when its README and activity match a concrete workflow.. Use it for automation, dry-run, approval, nonce, audit, concurrency. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AlejandroSilvaMendez/fail-closed-python-assessment: AlejandroSilvaMendez/fail-closed-python-assessment helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-AlejandroSilvaMendez/fail-closed-python-assessment: open-source проект в категориях automation, dry-run, approval, nonce, audit, concurrency. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AlejandroSilvaMendez/fail-closed-python-assessment: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-AlejandroSilvaMendez/fail-closed-python-assessment：AlejandroSilvaMendez/fail-closed-python-assessment may be useful when its README and activity match a concrete workflow.。适合用于automation、dry-run、approval、nonce、audit、concurrency。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AlejandroSilvaMendez/fail-closed-python-assessment：AlejandroSilvaMendez/fail-closed-python-assessment helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** AlejandroSilvaMendez/fail-closed-python-assessment may be useful when its README and activity match a concrete workflow.
+**Value:** AlejandroSilvaMendez/fail-closed-python-assessment helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -60,18 +62,18 @@ AlejandroSilvaMendez/fail-closed-python-assessment：AlejandroSilvaMendez/fail-c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 31/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 47/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 600/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 47/100 |
+| quality | 31/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

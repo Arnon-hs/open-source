@@ -64,18 +64,18 @@ Cocoon-AI/architecture-diagram-generator：Cocoon-AI/architecture-diagram-genera
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 78/100 |
-| categoryMatchCount | 200/100 |
-| stars | 82/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| stars | 82/100 |
 | topics | 0/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 80/100 |
+| adoption | 78/100 |
+| production | 61/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
