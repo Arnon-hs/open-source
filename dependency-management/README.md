@@ -1,4 +1,4 @@
-# 🏷️ Offline-first
+# 🏷️ Dependency-management
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 24/100 |
+| 1 | [GenAmed/busfactor](./genamed-busfactor.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
