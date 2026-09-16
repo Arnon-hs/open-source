@@ -2,7 +2,7 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|
 | 1 | [GMKamrussama/PowerLockGuard](./gmkamrussama-powerlockguard.md) | ⭐ — | C# | 54/100 |
 | 2 | [obrenoalvim/win-mute](./obrenoalvim-win-mute.md) | ⭐ — | PowerShell | 53/100 |
+| 3 | [jaksdhflkjahsdfkjahsdfkjh/SherpaManager](./jaksdhflkjahsdfkjahsdfkjh-sherpamanager.md) | ⭐ — | C# | 33/100 |
 
 ---
 

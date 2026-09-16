@@ -1,4 +1,4 @@
-# 🏷️ Agent
+# 🏷️ Free-llm
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [LeonardLeroy/i-dont-believe-you](./leonardleroy-i-dont-believe-you.md) | ⭐ 1 | TypeScript | 57/100 |
+| 1 | [casareanderson/model-radar](./casareanderson-model-radar.md) | ⭐ — | Python | 47/100 |
 
 ---
 

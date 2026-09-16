@@ -2,7 +2,7 @@
 
 > 
 
-**35 projects** in this category.
+**34 projects** in this category.
 
 ## Projects
 
@@ -27,22 +27,21 @@
 | 17 | [KiitaInternet/kevlar](./kiitainternet-kevlar.md) | ⭐ 3 | HTML | 45/100 |
 | 18 | [jastfan/github-trending](./jastfan-github-trending.md) | ⭐ 2 | HTML | 44/100 |
 | 19 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
-| 20 | [carthworks/ai-agent-skills](./carthworks-ai-agent-skills.md) | ⭐ 1 | JavaScript | 43/100 |
-| 21 | [Om-Talaviya/claude-trade-skills](./om-talaviya-claude-trade-skills.md) | ⭐ — | — | 40/100 |
-| 22 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
-| 23 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
-| 24 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 33/100 |
-| 25 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 26 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
-| 27 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 28 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 29 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 30 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 31 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 32 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 33 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 34 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 35 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 20 | [Om-Talaviya/claude-trade-skills](./om-talaviya-claude-trade-skills.md) | ⭐ — | — | 40/100 |
+| 21 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
+| 22 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
+| 23 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 33/100 |
+| 24 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 25 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
+| 26 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 27 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 28 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 29 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 30 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 31 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 32 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 33 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 34 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

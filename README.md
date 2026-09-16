@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35946** |
-| **Categories** | **219** |
+| **Projects** | **35952** |
+| **Categories** | **221** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -26,8 +26,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 13513 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4109 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2617 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2231 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1538 | [Browse →](./devtools/) |
+| 🧩 **Orchestration** | 2232 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1287 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 898 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 855 | [Browse →](./frontend/) |
@@ -40,10 +40,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 479 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 426 | [Browse →](./templates/) |
-| 🔐 **Security** | 386 | [Browse →](./security/) |
+| 🔐 **Security** | 385 | [Browse →](./security/) |
 | 🏷️ **Communication** | 383 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 362 | [Browse →](./video-editing/) |
-| 📊 **Data** | 325 | [Browse →](./data/) |
+| 📊 **Data** | 326 | [Browse →](./data/) |
 | 💳 **Payments** | 318 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 300 | [Browse →](./productivity/) |
@@ -53,18 +53,20 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 152 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 80 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 35 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
+| 🏷️ **Open-source** | 5 | [Browse →](./open-source/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Benchmark** | 3 | [Browse →](./benchmark/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
@@ -72,7 +74,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cicd** | 3 | [Browse →](./cicd/) |
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
-| 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Ml** | 3 | [Browse →](./ml/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
@@ -99,7 +100,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
-| 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
@@ -114,6 +114,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent** | 1 | [Browse →](./agent/) |
+| 🏷️ **Free-llm** | 1 | [Browse →](./free-llm/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
 | 🏷️ **Containerization** | 1 | [Browse →](./containerization/) |
 | 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |
