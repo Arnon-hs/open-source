@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35967** |
+| **Projects** | **35972** |
 | **Categories** | **221** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13525 | [Browse →](./misc/) |
+| 📦 **Misc** | 13528 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4110 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2617 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2232 | [Browse →](./orchestration/) |
@@ -37,10 +37,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 574 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 563 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 559 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 479 | [Browse →](./database/) |
+| 🏷️ **Database** | 480 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
-| 🔐 **Security** | 385 | [Browse →](./security/) |
+| 🔐 **Security** | 386 | [Browse →](./security/) |
 | 🏷️ **Communication** | 383 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 363 | [Browse →](./video-editing/) |
 | 📊 **Data** | 326 | [Browse →](./data/) |
@@ -111,6 +111,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agentic-development** | 1 | [Browse →](./agentic-development/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
 | 🏷️ **Agent** | 1 | [Browse →](./agent/) |
 | 🏷️ **Free-llm** | 1 | [Browse →](./free-llm/) |
@@ -208,7 +209,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Multi-tenant** | 1 | [Browse →](./multi-tenant/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
-| 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |
 | 🏷️ **Offline-first** | 1 | [Browse →](./offline-first/) |
 | 🏷️ **Performance** | 1 | [Browse →](./performance/) |
 | 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |

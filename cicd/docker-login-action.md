@@ -1,6 +1,6 @@
 # docker/login-action
 
-[![Stars](https://img.shields.io/github/stars/docker/login-action?style=flat-square&color=yellow)](https://github.com/docker/login-action/stargazers) [![Forks](https://img.shields.io/github/forks/docker/login-action?style=flat-square&color=blue)](https://github.com/docker/login-action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docker/login-action?style=flat-square&color=yellow)](https://github.com/docker/login-action/stargazers) [![Forks](https://img.shields.io/github/forks/docker/login-action?style=flat-square&color=blue)](https://github.com/docker/login-action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action to login against a Docker registry
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 307 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-09-13 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ CI/CD · GitHub Actions · Docker · Node.js · Automation
 
 ### English
 
-docker/login-action: docker/login-action may be useful when its README and activity match a concrete workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+docker/login-action: docker/login-action may be useful when its README and activity match a concrete workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-docker/login-action: open-source проект в категориях CI/CD, GitHub Actions, Docker, Node.js, Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+docker/login-action: open-source проект в категориях CI/CD, GitHub Actions, Docker, Node.js, Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-docker/login-action：docker/login-action may be useful when its README and activity match a concrete workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+docker/login-action：docker/login-action may be useful when its README and activity match a concrete workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ docker/login-action：docker/login-action may be useful when its README and acti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ docker/login-action：docker/login-action may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 77/100 |
+| production | 71/100 |
+| outlook | 70/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 500/100 |
 | stars | 68/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
