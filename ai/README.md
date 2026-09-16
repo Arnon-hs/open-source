@@ -16,8 +16,8 @@
 | 6 | [huggingface/text-generation-inference](./huggingface-text-generation-inference.md) | ⭐ 10.9k | Python | 63/100 |
 | 7 | [yanairon/taskpods](./yanairon-taskpods.md) | ⭐ 5 | Python | 63/100 |
 | 8 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 62/100 |
-| 9 | [goun7/veridict](./goun7-veridict.md) | ⭐ 1 | Python | 60/100 |
-| 10 | [golproductions/check](./golproductions-check.md) | ⭐ — | — | 60/100 |
+| 9 | [golproductions/check](./golproductions-check.md) | ⭐ — | — | 60/100 |
+| 10 | [goun7/veridict](./goun7-veridict.md) | ⭐ 1 | Python | 57/100 |
 | 11 | [Nir-Bhay/antigravity-usage-intelligence](./nir-bhay-antigravity-usage-intelligence.md) | ⭐ 2 | HTML | 55/100 |
 | 12 | [joinwell52-AI/joinwell52](./joinwell52-ai-joinwell52.md) | ⭐ 6 | JavaScript | 54/100 |
 | 13 | [voyagi/plainletter](./voyagi-plainletter.md) | ⭐ — | Python | 50/100 |
