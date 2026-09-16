@@ -1,6 +1,6 @@
 # RightNow-AI/picolm
 
-[![Stars](https://img.shields.io/github/stars/RightNow-AI/picolm?style=flat-square&color=yellow)](https://github.com/RightNow-AI/picolm/stargazers) [![Forks](https://img.shields.io/github/forks/RightNow-AI/picolm?style=flat-square&color=blue)](https://github.com/RightNow-AI/picolm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RightNow-AI/picolm?style=flat-square&color=yellow)](https://github.com/RightNow-AI/picolm/stargazers) [![Forks](https://img.shields.io/github/forks/RightNow-AI/picolm?style=flat-square&color=blue)](https://github.com/RightNow-AI/picolm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Runs a 1-billion parameter LLM on a $10 board with zero dependencies  https://t.co/bY1F8kBkGX https://t.co/EqGASHsq5D https://github.com/RightNow-AI/picolm
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-13 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ RightNow-AI/picolm：RightNow-AI/picolm helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 77/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 67/100 |
 | categoryMatchCount | 100/100 |
 | stars | 70/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36022** |
-| **Categories** | **227** |
+| **Projects** | **36026** |
+| **Categories** | **228** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13551 | [Browse →](./misc/) |
+| 📦 **Misc** | 13552 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4113 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2618 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2232 | [Browse →](./orchestration/) |
@@ -42,10 +42,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
 | 🔐 **Security** | 387 | [Browse →](./security/) |
 | 🏷️ **Communication** | 385 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 363 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 364 | [Browse →](./video-editing/) |
 | 📊 **Data** | 326 | [Browse →](./data/) |
 | 💳 **Payments** | 318 | [Browse →](./payments/) |
-| 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
+| 🏷️ **Games--graphics** | 316 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 301 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 270 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 241 | [Browse →](./libraries--sdks/) |
@@ -113,6 +113,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |
 | 🏷️ **Benchmaxing** | 1 | [Browse →](./benchmaxing/) |
 | 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
 | 🏷️ **Bash** | 1 | [Browse →](./bash/) |
