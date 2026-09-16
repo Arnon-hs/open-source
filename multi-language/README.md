@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [O-O1112/Block_lang](./o-o1112-block-lang.md) | ⭐ 9 | C# | 70/100 |
+| 1 | [O-O1112/Block_lang](./o-o1112-block-lang.md) | ⭐ 9 | C# | 67/100 |
 
 ---
 

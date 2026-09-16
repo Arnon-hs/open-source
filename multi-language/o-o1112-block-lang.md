@@ -1,6 +1,6 @@
 # O-O1112/Block_lang
 
-[![Stars](https://img.shields.io/github/stars/O-O1112/Block_lang?style=flat-square&color=yellow)](https://github.com/O-O1112/Block_lang/stargazers) [![Forks](https://img.shields.io/github/forks/O-O1112/Block_lang?style=flat-square&color=blue)](https://github.com/O-O1112/Block_lang/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/O-O1112/Block_lang?style=flat-square&color=yellow)](https://github.com/O-O1112/Block_lang/stargazers) [![Forks](https://img.shields.io/github/forks/O-O1112/Block_lang?style=flat-square&color=blue)](https://github.com/O-O1112/Block_lang/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first polyglot programming language and execution engine for Python, JavaScript, Lua, PHP, SQL, and more—compose multi-language workflows in one readable .blk file with shared state, native runtimes, and a Windows CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-09-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ O-O1112/Block_lang：O-O1112/Block_lang may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 77/100 |
+| production | 61/100 |
+| outlook | 70/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 500/100 |
 | stars | 21/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

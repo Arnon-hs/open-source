@@ -1,0 +1,82 @@
+# rameswaran-mohan/project-systemu
+
+[![Stars](https://img.shields.io/github/stars/rameswaran-mohan/project-systemu?style=flat-square&color=yellow)](https://github.com/rameswaran-mohan/project-systemu/stargazers) [![Forks](https://img.shields.io/github/forks/rameswaran-mohan/project-systemu?style=flat-square&color=blue)](https://github.com/rameswaran-mohan/project-systemu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+
+> An open-source AI agent that builds the tools it's missing, mid-task — under your governance. Pull capabilities at runtime instead of pre-wiring them. Local-first, MIT.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2 |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Python |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-09-08 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`agent-framework` `agentic-ai` `ai-agents` `ai-governance` `ai-safety` `automation` `autonomous-agents` `llm` `llm-agents` `local-first` `mcp` `personal-assistant`
+
+## 🎯 Categories
+
+Orchestration · MCP · Automation · AI/ML
+
+## 📝 Summary
+
+### English
+
+rameswaran-mohan/project-systemu: rameswaran-mohan/project-systemu helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+rameswaran-mohan/project-systemu: open-source проект в категориях Orchestration, MCP, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+rameswaran-mohan/project-systemu：rameswaran-mohan/project-systemu helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** rameswaran-mohan/project-systemu helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2 GitHub stars
+- updated 2026-09-08
+- primary language: Python
+- 15 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 10/100 |
+| topics | 100/100 |
+| outlook | 67/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 62/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
+| sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
+
+---
+
+<sub>🔭 Discovered 2026-09-08 · [View on GitHub](https://github.com/rameswaran-mohan/project-systemu) · [← Back to Orchestration](./README.md)</sub>
