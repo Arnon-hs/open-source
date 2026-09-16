@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35921** |
-| **Categories** | **220** |
+| **Projects** | **35926** |
+| **Categories** | **219** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13495 | [Browse →](./misc/) |
+| 📦 **Misc** | 13498 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4107 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2615 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2616 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2230 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1538 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1287 | [Browse →](./automation/) |
@@ -41,9 +41,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 426 | [Browse →](./templates/) |
 | 🔐 **Security** | 386 | [Browse →](./security/) |
-| 🏷️ **Communication** | 382 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 383 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 362 | [Browse →](./video-editing/) |
-| 📊 **Data** | 324 | [Browse →](./data/) |
+| 📊 **Data** | 325 | [Browse →](./data/) |
 | 💳 **Payments** | 318 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 315 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 300 | [Browse →](./productivity/) |
@@ -114,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |
 | 🏷️ **Ai-music-generation** | 1 | [Browse →](./ai-music-generation/) |
 | 🏷️ **Meeting-notes** | 1 | [Browse →](./meeting-notes/) |
 | 🏷️ **Plugin** | 1 | [Browse →](./plugin/) |
@@ -211,8 +212,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
 | 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Agent-commerce** | 1 | [Browse →](./agent-commerce/) |
-| 🏷️ **Cursor** | 1 | [Browse →](./cursor/) |
-| 🏷️ **Chatgpt** | 1 | [Browse →](./chatgpt/) |
 | 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
 | 🏷️ **Harness** | 1 | [Browse →](./harness/) |
 | 🏷️ **Dex** | 1 | [Browse →](./dex/) |
