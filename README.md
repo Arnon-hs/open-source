@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35912** |
-| **Categories** | **219** |
+| **Projects** | **35914** |
+| **Categories** | **220** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ai-safety** | 2 | [Browse →](./ai-safety/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
@@ -113,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-music-generation** | 1 | [Browse →](./ai-music-generation/) |
 | 🏷️ **Meeting-notes** | 1 | [Browse →](./meeting-notes/) |
 | 🏷️ **Plugin** | 1 | [Browse →](./plugin/) |
 | 🏷️ **Cli** | 1 | [Browse →](./cli/) |
@@ -129,7 +131,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Remote-work** | 1 | [Browse →](./remote-work/) |
 | 🏷️ **Flutter** | 1 | [Browse →](./flutter/) |
 | 🏷️ **Nestjs** | 1 | [Browse →](./nestjs/) |
-| 🏷️ **Ai-safety** | 1 | [Browse →](./ai-safety/) |
 | 🏷️ **Css** | 1 | [Browse →](./css/) |
 | 🏷️ **Api-testing** | 1 | [Browse →](./api-testing/) |
 | 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
