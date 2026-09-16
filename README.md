@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36045** |
+| **Projects** | **36046** |
 | **Categories** | **228** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 608 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 574 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 563 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 559 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 560 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 482 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
@@ -113,6 +113,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Symfony** | 1 | [Browse →](./symfony/) |
 | 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |
 | 🏷️ **Benchmaxing** | 1 | [Browse →](./benchmaxing/) |
 | 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
@@ -212,7 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Operating-systems** | 1 | [Browse →](./operating-systems/) |
 | 🏷️ **Disaster-recovery** | 1 | [Browse →](./disaster-recovery/) |
 | 🏷️ **React** | 1 | [Browse →](./react/) |
-| 🏷️ **Kubernetes** | 1 | [Browse →](./kubernetes/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Net** | 1 | [Browse →](./net/) |

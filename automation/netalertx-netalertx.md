@@ -65,18 +65,18 @@ netalertx/NetAlertX：netalertx/NetAlertX helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 69/100 |
-| outlook | 79/100 |
-| adoption | 77/100 |
-| categoryMatchCount | 400/100 |
-| stars | 82/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
+| adoption | 77/100 |
+| production | 69/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
