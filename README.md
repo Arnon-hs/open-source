@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35928** |
-| **Categories** | **219** |
+| **Projects** | **35933** |
+| **Categories** | **218** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13499 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4107 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2616 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2230 | [Browse →](./orchestration/) |
+| 📦 **Misc** | 13502 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4108 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2617 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2231 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1538 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1287 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
@@ -79,6 +79,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
@@ -110,10 +111,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Headless-cms** | 2 | [Browse →](./headless-cms/) |
 | 🏷️ **Webhooks** | 2 | [Browse →](./webhooks/) |
 | 🏷️ **Local-deployment** | 2 | [Browse →](./local-deployment/) |
-| 🏷️ **Rewriting** | 2 | [Browse →](./rewriting/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Containerization** | 1 | [Browse →](./containerization/) |
 | 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |
 | 🏷️ **Ai-music-generation** | 1 | [Browse →](./ai-music-generation/) |
 | 🏷️ **Meeting-notes** | 1 | [Browse →](./meeting-notes/) |
@@ -194,7 +195,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Booking** | 1 | [Browse →](./booking/) |
 | 🏷️ **Feishu** | 1 | [Browse →](./feishu/) |
 | 🏷️ **Vpn** | 1 | [Browse →](./vpn/) |
-| 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Deepseek** | 1 | [Browse →](./deepseek/) |
 | 🏷️ **Ai-code-review** | 1 | [Browse →](./ai-code-review/) |
 | 🏷️ **Backtesting** | 1 | [Browse →](./backtesting/) |
@@ -210,8 +210,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Performance** | 1 | [Browse →](./performance/) |
 | 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
-| 🏷️ **Go** | 1 | [Browse →](./go/) |
-| 🏷️ **Agent-commerce** | 1 | [Browse →](./agent-commerce/) |
+| 🏷️ **Rewriting** | 1 | [Browse →](./rewriting/) |
 | 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
 | 🏷️ **Harness** | 1 | [Browse →](./harness/) |
 | 🏷️ **Dex** | 1 | [Browse →](./dex/) |
