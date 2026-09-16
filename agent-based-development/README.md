@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vikashruhilgit/loomwright](./vikashruhilgit-loomwright.md) | ⭐ 5 | Shell | 39/100 |
+| 1 | [vikashruhilgit/loomwright](./vikashruhilgit-loomwright.md) | ⭐ 5 | Shell | 36/100 |
 
 ---
 
