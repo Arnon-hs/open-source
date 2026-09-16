@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **35995** |
+| **Projects** | **35999** |
 | **Categories** | **224** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13537 | [Browse →](./misc/) |
+| 📦 **Misc** | 13538 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4111 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2617 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2232 | [Browse →](./orchestration/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
 | 🔐 **Security** | 386 | [Browse →](./security/) |
-| 🏷️ **Communication** | 384 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 385 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 363 | [Browse →](./video-editing/) |
 | 📊 **Data** | 326 | [Browse →](./data/) |
 | 💳 **Payments** | 318 | [Browse →](./payments/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 153 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 81 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 35 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **Self-hosted** | 3 | [Browse →](./self-hosted/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
@@ -78,7 +79,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Ml** | 3 | [Browse →](./ml/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
-| 🏷️ **Background-removal** | 2 | [Browse →](./background-removal/) |
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
