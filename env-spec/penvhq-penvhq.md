@@ -1,6 +1,6 @@
 # penvhq/penvhq
 
-[![Stars](https://img.shields.io/github/stars/penvhq/penvhq?style=flat-square&color=yellow)](https://github.com/penvhq/penvhq/stargazers) [![Forks](https://img.shields.io/github/forks/penvhq/penvhq?style=flat-square&color=blue)](https://github.com/penvhq/penvhq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/penvhq/penvhq?style=flat-square&color=yellow)](https://github.com/penvhq/penvhq/stargazers) [![Forks](https://img.shields.io/github/forks/penvhq/penvhq?style=flat-square&color=blue)](https://github.com/penvhq/penvhq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The penv cli, a schema-first secrets tooling for humans and coding agents. One static binary: validates .env before your process starts, generates typed access, and guards agent harnesses.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ penvhq/penvhq：penvhq/penvhq may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 63/100 |
+| outlook | 66/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 600/100 |
 | stars | 19/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

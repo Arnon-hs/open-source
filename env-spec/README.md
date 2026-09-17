@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [penvhq/penvhq](./penvhq-penvhq.md) | ⭐ 7 | Rust | 70/100 |
+| 1 | [penvhq/penvhq](./penvhq-penvhq.md) | ⭐ 7 | Rust | 67/100 |
 
 ---
 
