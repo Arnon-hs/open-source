@@ -1,6 +1,6 @@
 # ExTV/Podroid
 
-[![Stars](https://img.shields.io/github/stars/ExTV/Podroid?style=flat-square&color=yellow)](https://github.com/ExTV/Podroid/stargazers) [![Forks](https://img.shields.io/github/forks/ExTV/Podroid?style=flat-square&color=blue)](https://github.com/ExTV/Podroid/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ExTV/Podroid?style=flat-square&color=yellow)](https://github.com/ExTV/Podroid/stargazers) [![Forks](https://img.shields.io/github/forks/ExTV/Podroid?style=flat-square&color=blue)](https://github.com/ExTV/Podroid/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Podroid runs a real Linux desktop and container environments on Android phones without requiring root access.  https://t.co/8ay0JVxPcJ https://t.co/TwTCiDe59p https://github.com/ExTV/Podroid
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ExTV/Podroid：ExTV/Podroid may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 100/100 |
 | stars | 71/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

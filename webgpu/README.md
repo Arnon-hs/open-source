@@ -1,4 +1,4 @@
-# 🏷️ Desktop
+# 🏷️ Webgpu
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nodejs/sea](./nodejs-sea.md) | ⭐ — | — | 24/100 |
+| 1 | [webllm/webllm](./webllm-webllm.md) | ⭐ — | — | 24/100 |
 
 ---
 

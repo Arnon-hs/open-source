@@ -65,18 +65,18 @@ cartesiancs/map3d：cartesiancs/map3d helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 65/100 |
-| outlook | 67/100 |
-| adoption | 69/100 |
-| categoryMatchCount | 100/100 |
-| stars | 71/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| stars | 71/100 |
 | topics | 63/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
+| adoption | 69/100 |
+| production | 65/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

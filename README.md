@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36088** |
+| **Projects** | **36090** |
 | **Categories** | **230** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -26,11 +26,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 13585 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4115 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2619 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2233 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2234 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1292 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 899 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 857 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 900 | [Browse →](./backend/) |
+| 🎨 **Frontend** | 858 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 627 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 609 | [Browse →](./networking/) |
@@ -109,11 +109,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rust** | 2 | [Browse →](./rust/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
-| 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Webgpu** | 1 | [Browse →](./webgpu/) |
 | 🏷️ **Chatbot** | 1 | [Browse →](./chatbot/) |
 | 🏷️ **Coldfusion** | 1 | [Browse →](./coldfusion/) |
 | 🏷️ **Opentelemetry** | 1 | [Browse →](./opentelemetry/) |
@@ -216,7 +216,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Feishu** | 1 | [Browse →](./feishu/) |
 | 🏷️ **Vpn** | 1 | [Browse →](./vpn/) |
 | 🏷️ **Deepseek** | 1 | [Browse →](./deepseek/) |
-| 🏷️ **Ai-code-review** | 1 | [Browse →](./ai-code-review/) |
+| 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Net** | 1 | [Browse →](./net/) |
