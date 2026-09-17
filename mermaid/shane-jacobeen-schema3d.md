@@ -1,6 +1,6 @@
 # shane-jacobeen/schema3d
 
-[![Stars](https://img.shields.io/github/stars/shane-jacobeen/schema3d?style=flat-square&color=yellow)](https://github.com/shane-jacobeen/schema3d/stargazers) [![Forks](https://img.shields.io/github/forks/shane-jacobeen/schema3d?style=flat-square&color=blue)](https://github.com/shane-jacobeen/schema3d/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shane-jacobeen/schema3d?style=flat-square&color=yellow)](https://github.com/shane-jacobeen/schema3d/stargazers) [![Forks](https://img.shields.io/github/forks/shane-jacobeen/schema3d?style=flat-square&color=blue)](https://github.com/shane-jacobeen/schema3d/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Browser-only 3D visualizer for SQL / T-SQL / Mermaid / DrawDB schemas — explore relationships and share via URL (no live DB).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ shane-jacobeen/schema3d：shane-jacobeen/schema3d may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 20/100 |
 | categoryMatchCount | 500/100 |
 | stars | 23/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

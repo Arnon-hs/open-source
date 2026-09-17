@@ -65,18 +65,18 @@ suzuran0y/CCTV-Smartphone-AI-Monitoring：suzuran0y/CCTV-Smartphone-AI-Monitorin
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 65/100 |
-| outlook | 74/100 |
-| adoption | 57/100 |
-| categoryMatchCount | 300/100 |
-| stars | 61/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
+| adoption | 57/100 |
+| production | 65/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
