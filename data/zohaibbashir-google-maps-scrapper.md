@@ -65,18 +65,18 @@ zohaibbashir/Google-Maps-Scrapper：zohaibbashir/Google-Maps-Scrapper helps conv
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 78/100 |
-| production | 71/100 |
-| outlook | 73/100 |
-| adoption | 65/100 |
-| categoryMatchCount | 100/100 |
-| stars | 66/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
+| adoption | 65/100 |
+| production | 71/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
