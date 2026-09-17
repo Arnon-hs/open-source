@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36068** |
-| **Categories** | **229** |
+| **Projects** | **36070** |
+| **Categories** | **228** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -33,10 +33,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 857 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 624 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 608 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 609 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 575 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 564 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 560 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 561 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 482 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
@@ -57,7 +57,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
-| 🏷️ **Llm** | 7 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 8 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
@@ -111,6 +111,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Least-privilege** | 1 | [Browse →](./least-privilege/) |
 | 🏷️ **Sidecar** | 1 | [Browse →](./sidecar/) |
 | 🏷️ **Visual-workflow** | 1 | [Browse →](./visual-workflow/) |
 | 🏷️ **Linter** | 1 | [Browse →](./linter/) |
@@ -212,8 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Deepseek** | 1 | [Browse →](./deepseek/) |
 | 🏷️ **Ai-code-review** | 1 | [Browse →](./ai-code-review/) |
 | 🏷️ **Backtesting** | 1 | [Browse →](./backtesting/) |
-| 🏷️ **Operating-systems** | 1 | [Browse →](./operating-systems/) |
-| 🏷️ **Disaster-recovery** | 1 | [Browse →](./disaster-recovery/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Net** | 1 | [Browse →](./net/) |
