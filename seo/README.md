@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [qq136692547-cmyk/geo-score](./qq136692547-cmyk-geo-score.md) | ⭐ 1 | JavaScript | 44/100 |
+| 1 | [qq136692547-cmyk/geo-score](./qq136692547-cmyk-geo-score.md) | ⭐ 1 | JavaScript | 41/100 |
 
 ---
 
