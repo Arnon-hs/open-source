@@ -65,18 +65,18 @@ SnailSploit/Claude-Red：SnailSploit/Claude-Red helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 67/100 |
-| outlook | 72/100 |
-| adoption | 72/100 |
-| categoryMatchCount | 200/100 |
-| stars | 74/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| stars | 74/100 |
 | topics | 75/100 |
+| outlook | 72/100 |
+| quality | 74/100 |
+| recency | 80/100 |
+| adoption | 72/100 |
+| production | 67/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

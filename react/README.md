@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [F0Rextasy/bigbullui](./f0rextasy-bigbullui.md) | ⭐ — | TypeScript | 52/100 |
+| 1 | [soycheppi/foodflow-demo](./soycheppi-foodflow-demo.md) | ⭐ 2 | TypeScript | 52/100 |
 
 ---
 

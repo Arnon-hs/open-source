@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36121** |
-| **Categories** | **230** |
+| **Projects** | **36129** |
+| **Categories** | **231** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,19 +23,19 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13604 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4118 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13609 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4119 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2621 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2234 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1298 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1299 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 901 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 858 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 859 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 627 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 611 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 576 | [Browse →](./knowledgerag/) |
-| 📱 **Mobile** | 564 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 565 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 561 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 484 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 471 | [Browse →](./devopsinfra/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 81 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 32 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
@@ -86,7 +86,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
-| 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Plant-names** | 2 | [Browse →](./plant-names/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
@@ -109,6 +108,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Hot-reload** | 1 | [Browse →](./hot-reload/) |
+| 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Docker** | 1 | [Browse →](./docker/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Seo** | 1 | [Browse →](./seo/) |
@@ -144,6 +145,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Cli** | 1 | [Browse →](./cli/) |
 | 🏷️ **Agent-protocols** | 1 | [Browse →](./agent-protocols/) |
+| 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Agent-scan** | 1 | [Browse →](./agent-scan/) |
 | 🏷️ **Self-host** | 1 | [Browse →](./self-host/) |
 | 🏷️ **Candlestick** | 1 | [Browse →](./candlestick/) |
@@ -214,7 +216,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Financial-data** | 1 | [Browse →](./financial-data/) |
 | 🏷️ **Secrets** | 1 | [Browse →](./secrets/) |
 | 🏷️ **Css-art** | 1 | [Browse →](./css-art/) |
-| 🏷️ **Booking** | 1 | [Browse →](./booking/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
