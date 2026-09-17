@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36058** |
-| **Categories** | **228** |
+| **Projects** | **36061** |
+| **Categories** | **227** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13572 | [Browse →](./misc/) |
+| 📦 **Misc** | 13573 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4114 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2619 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2233 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 899 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 857 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 622 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 624 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 608 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 575 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 564 | [Browse →](./mobile/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
 | 🔐 **Security** | 387 | [Browse →](./security/) |
 | 🏷️ **Communication** | 386 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 365 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 366 | [Browse →](./video-editing/) |
 | 📊 **Data** | 326 | [Browse →](./data/) |
 | 💳 **Payments** | 318 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 316 | [Browse →](./games--graphics/) |
@@ -59,8 +59,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Migration** | 6 | [Browse →](./migration/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
-| 🏷️ **Migration** | 5 | [Browse →](./migration/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
@@ -108,7 +108,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
-| 🏷️ **Headless-cms** | 2 | [Browse →](./headless-cms/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
