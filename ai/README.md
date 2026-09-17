@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [CatCatUncle/openworkbuddy](./catcatuncle-openworkbuddy.md) | ⭐ 92 | JavaScript | 72/100 |
 | 2 | [chunxiaoxx/nautilus-compass](./chunxiaoxx-nautilus-compass.md) | ⭐ 131 | Python | 71/100 |
-| 3 | [akshaypatel-ai/ai-automations](./akshaypatel-ai-ai-automations.md) | ⭐ — | Shell | 66/100 |
-| 4 | [moonrunnerkc/tracemantle](./moonrunnerkc-tracemantle.md) | ⭐ 24 | Python | 66/100 |
-| 5 | [bigrivi/nova](./bigrivi-nova.md) | ⭐ — | Python | 66/100 |
+| 3 | [moonrunnerkc/tracemantle](./moonrunnerkc-tracemantle.md) | ⭐ 24 | Python | 66/100 |
+| 4 | [bigrivi/nova](./bigrivi-nova.md) | ⭐ — | Python | 66/100 |
+| 5 | [akshaypatel-ai/ai-automations](./akshaypatel-ai-ai-automations.md) | ⭐ — | Shell | 63/100 |
 | 6 | [huggingface/text-generation-inference](./huggingface-text-generation-inference.md) | ⭐ 10.9k | Python | 63/100 |
 | 7 | [yanairon/taskpods](./yanairon-taskpods.md) | ⭐ 5 | Python | 63/100 |
 | 8 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 62/100 |

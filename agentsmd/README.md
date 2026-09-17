@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [janzong/agent-charters](./janzong-agent-charters.md) | ⭐ 1 | Python | 51/100 |
+| 1 | [janzong/agent-charters](./janzong-agent-charters.md) | ⭐ 1 | Python | 48/100 |
 
 ---
 

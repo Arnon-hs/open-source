@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36106** |
-| **Categories** | **229** |
+| **Projects** | **36113** |
+| **Categories** | **230** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13593 | [Browse →](./misc/) |
+| 📦 **Misc** | 13599 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4118 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2620 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2234 | [Browse →](./orchestration/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 627 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 610 | [Browse →](./networking/) |
-| 🏷️ **Knowledgerag** | 575 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 576 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 564 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 561 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 484 | [Browse →](./database/) |
@@ -86,7 +86,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
-| 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Plant-names** | 2 | [Browse →](./plant-names/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
@@ -110,6 +109,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Docker** | 1 | [Browse →](./docker/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Seo** | 1 | [Browse →](./seo/) |
 | 🏷️ **Github-actions** | 1 | [Browse →](./github-actions/) |
@@ -141,6 +141,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-music-generation** | 1 | [Browse →](./ai-music-generation/) |
 | 🏷️ **Meeting-notes** | 1 | [Browse →](./meeting-notes/) |
 | 🏷️ **Plugin** | 1 | [Browse →](./plugin/) |
+| 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Cli** | 1 | [Browse →](./cli/) |
 | 🏷️ **Agent-protocols** | 1 | [Browse →](./agent-protocols/) |
 | 🏷️ **Agent-scan** | 1 | [Browse →](./agent-scan/) |

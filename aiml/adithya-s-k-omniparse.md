@@ -65,18 +65,18 @@ adithya-s-k/omniparse：adithya-s-k/omniparse helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 71/100 |
-| outlook | 76/100 |
-| adoption | 79/100 |
-| categoryMatchCount | 300/100 |
-| stars | 83/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 76/100 |
+| quality | 81/100 |
+| recency | 80/100 |
+| adoption | 79/100 |
+| production | 71/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
