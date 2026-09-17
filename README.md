@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36050** |
+| **Projects** | **36052** |
 | **Categories** | **228** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -30,7 +30,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1291 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 898 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 856 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 857 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 622 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 608 | [Browse →](./networking/) |
@@ -50,7 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 270 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 241 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 191 | [Browse →](./trading/) |
-| ✨ **Design** | 153 | [Browse →](./design/) |
+| ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 81 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 34 | [Browse →](./ai/) |
@@ -113,6 +113,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Job-hunting** | 1 | [Browse →](./job-hunting/) |
 | 🏷️ **Symfony** | 1 | [Browse →](./symfony/) |
 | 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |
 | 🏷️ **Benchmaxing** | 1 | [Browse →](./benchmaxing/) |
@@ -212,7 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Backtesting** | 1 | [Browse →](./backtesting/) |
 | 🏷️ **Operating-systems** | 1 | [Browse →](./operating-systems/) |
 | 🏷️ **Disaster-recovery** | 1 | [Browse →](./disaster-recovery/) |
-| 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Net** | 1 | [Browse →](./net/) |

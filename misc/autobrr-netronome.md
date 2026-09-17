@@ -63,18 +63,18 @@ autobrr/netronome：autobrr/netronome may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 68/100 |
-| outlook | 75/100 |
-| adoption | 60/100 |
-| categoryMatchCount | 0/100 |
-| stars | 65/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 80/100 |
+| adoption | 60/100 |
+| production | 68/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

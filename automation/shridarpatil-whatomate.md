@@ -65,18 +65,18 @@ shridarpatil/whatomate：shridarpatil/whatomate helps remove repetitive manual o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 69/100 |
-| outlook | 77/100 |
-| adoption | 67/100 |
-| categoryMatchCount | 300/100 |
-| stars | 68/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
+| adoption | 67/100 |
+| production | 69/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

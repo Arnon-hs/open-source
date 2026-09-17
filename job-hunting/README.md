@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [UGilfoyle/career-ops](./ugilfoyle-career-ops.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [shubhamkumbhalkar/lever-auto-apply](./shubhamkumbhalkar-lever-auto-apply.md) | ⭐ 4 | Python | 49/100 |
 
 ---
 
