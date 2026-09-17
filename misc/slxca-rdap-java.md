@@ -1,0 +1,78 @@
+# slxca/rdap-java
+
+[![Stars](https://img.shields.io/github/stars/slxca/rdap-java?style=flat-square&color=yellow)](https://github.com/slxca/rdap-java/stargazers) [![Forks](https://img.shields.io/github/forks/slxca/rdap-java?style=flat-square&color=blue)](https://github.com/slxca/rdap-java/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+
+> Discovered from Hacker News (github-mentions)
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-17 |
+| 🔍 **Source** | hackernews |
+
+## 🏷️ Topics
+
+`hn` `github-mentions`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Rdap-Java is a lightweight (~5 KB) Java 11 RDAP client that quickly checks domain availability. Adoption involves adding the dependency and calling the API, but you should verify the repository’s activity and support. It’s suitable for prototypes and internal workflows, though production use requires confirming stability and maintenance.
+
+### Русский
+
+Rdap-Java — компактный клиент RDAP на Java 11 (~5 КБ), позволяющий быстро проверить доступность домена. Для внедрения достаточно добавить зависимость в проект и вызвать API, но стоит проверить актуальность репозитория и наличие поддержки. Подходит для прототипов и внутренних процессов, но перед продакшном рекомендуется убедиться в стабильности и обновлениях.
+
+### 中文
+
+Rdap-Java 是一个约 5 KB 的 Java 11 RDAP 客户端，可快速检查域名可用性。使用时只需添加依赖并调用 API，但需先确认仓库的活跃度和支持情况。它适用于原型和内部流程，但在正式生产前应核实其稳定性和维护情况。
+
+## 🧭 Practical evaluation
+
+**Value:** Rdap-Java – A ~5KB Java 11 RDAP client to check domain availability may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-09-17
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 57/100 |
+| quality | 41/100 |
+| recency | 100/100 |
+| adoption | 0/100 |
+| production | 60/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
+
+---
+
+<sub>🔭 Discovered 2026-09-17 · [View on GitHub](https://github.com/slxca/rdap-java) · [← Back to Misc](./README.md)</sub>
