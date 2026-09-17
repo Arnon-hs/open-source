@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Shaarkymoo/cosmic-workspaces-epoch](./shaarkymoo-cosmic-workspaces-epoch.md) | ⭐ — | — | 36/100 |
+| 1 | [Shaarkymoo/cosmic-workspaces-epoch](./shaarkymoo-cosmic-workspaces-epoch.md) | ⭐ — | — | 33/100 |
 
 ---
 
