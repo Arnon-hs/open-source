@@ -65,18 +65,18 @@ AWeirdDev/flights：AWeirdDev/flights helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 72/100 |
-| outlook | 73/100 |
-| adoption | 67/100 |
-| categoryMatchCount | 100/100 |
-| stars | 70/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 76/100 |
+| recency | 80/100 |
+| adoption | 67/100 |
+| production | 72/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

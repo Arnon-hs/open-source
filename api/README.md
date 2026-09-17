@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wilnowilx/aetheriusxapi](./wilnowilx-aetheriusxapi.md) | ⭐ — | Python | 66/100 |
+| 1 | [mohitdebian/relay](./mohitdebian-relay.md) | ⭐ — | TypeScript | 49/100 |
 
 ---
 

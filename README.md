@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36097** |
-| **Categories** | **231** |
+| **Projects** | **36103** |
+| **Categories** | **229** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,21 +23,21 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13589 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4117 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2619 | [Browse →](./mcp/) |
+| 📦 **Misc** | 13590 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4118 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2620 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2234 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1294 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1298 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 901 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 858 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 627 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 609 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 610 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 575 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 564 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 561 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 483 | [Browse →](./database/) |
+| 🏷️ **Database** | 484 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
 | 🔐 **Security** | 388 | [Browse →](./security/) |
@@ -106,11 +106,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
 | 🏷️ **Rust** | 2 | [Browse →](./rust/) |
-| 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Seo** | 1 | [Browse →](./seo/) |
 | 🏷️ **Github-actions** | 1 | [Browse →](./github-actions/) |
 | 🏷️ **Webgpu** | 1 | [Browse →](./webgpu/) |
@@ -214,8 +214,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Secrets** | 1 | [Browse →](./secrets/) |
 | 🏷️ **Css-art** | 1 | [Browse →](./css-art/) |
 | 🏷️ **Booking** | 1 | [Browse →](./booking/) |
-| 🏷️ **Feishu** | 1 | [Browse →](./feishu/) |
-| 🏷️ **Vpn** | 1 | [Browse →](./vpn/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
