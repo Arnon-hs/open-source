@@ -65,18 +65,18 @@ nolangz/pixel2motion：nolangz/pixel2motion helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 69/100 |
-| outlook | 73/100 |
-| adoption | 67/100 |
-| categoryMatchCount | 200/100 |
-| stars | 71/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 76/100 |
+| recency | 80/100 |
+| adoption | 67/100 |
+| production | 69/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

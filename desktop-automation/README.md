@@ -1,4 +1,4 @@
-# 🏷️ Debugging
+# 🏷️ Desktop-automation
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [antonioprosperi2-svg/BeeLadybug-universal](./antonioprosperi2-svg-beeladybug-universal.md) | ⭐ — | JavaScript | 54/100 |
+| 1 | [yourrepo/cua-driver](./yourrepo-cua-driver.md) | ⭐ — | — | 24/100 |
 
 ---
 

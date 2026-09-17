@@ -65,18 +65,18 @@ Nicolepcx/transformers-the-definitive-guide：Nicolepcx/transformers-the-definit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 63/100 |
-| outlook | 70/100 |
-| adoption | 54/100 |
-| categoryMatchCount | 100/100 |
-| stars | 56/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
+| adoption | 54/100 |
+| production | 63/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
