@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SurefireStudios/tldr](./surefirestudios-tldr.md) | ⭐ 5 | Python | 69/100 |
+| 1 | [SurefireStudios/tldr](./surefirestudios-tldr.md) | ⭐ 5 | Python | 66/100 |
 | 2 | [llm-mock/llm-mock](./llm-mock-llm-mock.md) | ⭐ — | — | 40/100 |
 | 3 | [zangxin75/token-efficiency](./zangxin75-token-efficiency.md) | ⭐ — | Python | 38/100 |
 | 4 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36135** |
-| **Categories** | **231** |
+| **Projects** | **36139** |
+| **Categories** | **228** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13615 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4119 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2621 | [Browse →](./mcp/) |
+| 📦 **Misc** | 13618 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4120 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2622 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2234 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1299 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 901 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 859 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 860 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 627 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 611 | [Browse →](./networking/) |
@@ -63,13 +63,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
+| 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Local-llm** | 3 | [Browse →](./local-llm/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
-| 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
@@ -213,9 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sql** | 1 | [Browse →](./sql/) |
 | 🏷️ **Website-analysis** | 1 | [Browse →](./website-analysis/) |
 | 🏷️ **Session-replay** | 1 | [Browse →](./session-replay/) |
-| 🏷️ **Financial-data** | 1 | [Browse →](./financial-data/) |
-| 🏷️ **Secrets** | 1 | [Browse →](./secrets/) |
-| 🏷️ **Css-art** | 1 | [Browse →](./css-art/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |

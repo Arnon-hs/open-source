@@ -1,6 +1,6 @@
 # SurefireStudios/tldr
 
-[![Stars](https://img.shields.io/github/stars/SurefireStudios/tldr?style=flat-square&color=yellow)](https://github.com/SurefireStudios/tldr/stargazers) [![Forks](https://img.shields.io/github/forks/SurefireStudios/tldr?style=flat-square&color=blue)](https://github.com/SurefireStudios/tldr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SurefireStudios/tldr?style=flat-square&color=yellow)](https://github.com/SurefireStudios/tldr/stargazers) [![Forks](https://img.shields.io/github/forks/SurefireStudios/tldr?style=flat-square&color=blue)](https://github.com/SurefireStudios/tldr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Too long; didn't read — for AI coding agents. A skill that makes Claude Code, Cursor, Codex, Gemini CLI and 16 more lead with a 3-line TL;DR and fold the detail instead of burying the answer. Measured on Sonnet and Opus, every run published — including the ones that failed. Demote, don't delete.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ SurefireStudios/tldr：SurefireStudios/tldr may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 63/100 |
+| outlook | 66/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 600/100 |
 | stars | 17/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

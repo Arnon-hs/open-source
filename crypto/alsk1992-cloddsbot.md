@@ -65,18 +65,18 @@ alsk1992/CloddsBot：alsk1992/CloddsBot helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 67/100 |
-| outlook | 73/100 |
-| adoption | 65/100 |
-| categoryMatchCount | 500/100 |
-| stars | 67/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
+| adoption | 65/100 |
+| production | 67/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

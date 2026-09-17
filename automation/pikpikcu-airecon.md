@@ -65,18 +65,18 @@ pikpikcu/airecon：pikpikcu/airecon helps remove repetitive manual operations fr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 73/100 |
-| integration | 78/100 |
-| production | 71/100 |
-| outlook | 80/100 |
-| adoption | 61/100 |
-| categoryMatchCount | 400/100 |
-| stars | 64/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 80/100 |
+| quality | 73/100 |
+| recency | 80/100 |
+| adoption | 61/100 |
+| production | 71/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

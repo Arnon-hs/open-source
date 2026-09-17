@@ -65,18 +65,18 @@ sharpdeveye/maestro：sharpdeveye/maestro helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 65/100 |
-| outlook | 76/100 |
-| adoption | 53/100 |
-| categoryMatchCount | 400/100 |
-| stars | 56/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
+| adoption | 53/100 |
+| production | 65/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
