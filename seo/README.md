@@ -1,4 +1,4 @@
-# 🏷️ Claude
+# 🏷️ Seo
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [FairdraftStudio/call-notes-to-actions-skill](./fairdraftstudio-call-notes-to-actions-skill.md) | ⭐ — | — | 44/100 |
+| 1 | [qq136692547-cmyk/geo-score](./qq136692547-cmyk-geo-score.md) | ⭐ 1 | JavaScript | 44/100 |
 
 ---
 

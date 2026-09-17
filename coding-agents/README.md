@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [firu-daniel/autonomous-sdlc-harness](./firu-daniel-autonomous-sdlc-harness.md) | ⭐ 1 | TypeScript | 61/100 |
-| 2 | [your-repo/agent-board](./your-repo-agent-board.md) | ⭐ — | — | 28/100 |
+| 1 | [your-repo/agent-board](./your-repo-agent-board.md) | ⭐ — | — | 28/100 |
 
 ---
 

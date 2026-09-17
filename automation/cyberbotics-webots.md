@@ -65,18 +65,18 @@ cyberbotics/webots：cyberbotics/webots helps remove repetitive manual operation
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 81/100 |
-| integration | 30/100 |
-| production | 67/100 |
-| outlook | 73/100 |
-| adoption | 79/100 |
-| categoryMatchCount | 300/100 |
-| stars | 78/100 |
 | forks | 83/100 |
-| recency | 80/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
+| adoption | 79/100 |
+| production | 67/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

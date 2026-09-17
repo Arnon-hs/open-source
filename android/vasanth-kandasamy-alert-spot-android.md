@@ -1,6 +1,6 @@
 # vasanth-kandasamy/alert-spot-android
 
-[![Stars](https://img.shields.io/github/stars/vasanth-kandasamy/alert-spot-android?style=flat-square&color=yellow)](https://github.com/vasanth-kandasamy/alert-spot-android/stargazers) [![Forks](https://img.shields.io/github/forks/vasanth-kandasamy/alert-spot-android?style=flat-square&color=blue)](https://github.com/vasanth-kandasamy/alert-spot-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vasanth-kandasamy/alert-spot-android?style=flat-square&color=yellow)](https://github.com/vasanth-kandasamy/alert-spot-android/stargazers) [![Forks](https://img.shields.io/github/forks/vasanth-kandasamy/alert-spot-android?style=flat-square&color=blue)](https://github.com/vasanth-kandasamy/alert-spot-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Android app that triggers alarms when you reach a GPS location
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ vasanth-kandasamy/alert-spot-android：vasanth-kandasamy/alert-spot-android may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 62/100 |
+| production | 55/100 |
+| outlook | 55/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 600/100 |
 | stars | 19/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

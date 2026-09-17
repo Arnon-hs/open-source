@@ -65,18 +65,18 @@ ultracontext/ultracontext：ultracontext/ultracontext helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 72/100 |
-| adoption | 48/100 |
-| categoryMatchCount | 200/100 |
-| stars | 52/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
+| adoption | 48/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
