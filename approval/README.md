@@ -1,4 +1,4 @@
-# 🏷️ Rust
+# 🏷️ Approval
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [abhayzangir1/sqlite-vec](./abhayzangir1-sqlite-vec.md) | ⭐ — | — | 24/100 |
+| 1 | [binwiederhier/ntfy](./binwiederhier-ntfy.md) | ⭐ 34.3k | Go | 75/100 |
 
 ---
 

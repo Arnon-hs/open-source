@@ -1,4 +1,4 @@
-# 🏷️ Rust
+# 🏷️ Eu-ai-act
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [abhayzangir1/sqlite-vec](./abhayzangir1-sqlite-vec.md) | ⭐ — | — | 24/100 |
+| 1 | [verax-ai/verax](./verax-ai-verax.md) | ⭐ — | TypeScript | 58/100 |
 
 ---
 

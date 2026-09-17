@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36178** |
-| **Categories** | **227** |
+| **Projects** | **36183** |
+| **Categories** | **230** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13644 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4122 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13646 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4123 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2623 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2235 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1541 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1300 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1301 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 901 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 860 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
@@ -60,10 +60,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 8 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
-| 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
+| 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
@@ -102,11 +102,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
-| 🏷️ **Rust** | 2 | [Browse →](./rust/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Approval** | 1 | [Browse →](./approval/) |
+| 🏷️ **Eu-ai-act** | 1 | [Browse →](./eu-ai-act/) |
+| 🏷️ **Opencode** | 1 | [Browse →](./opencode/) |
 | 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
 | 🏷️ **Desktop-automation** | 1 | [Browse →](./desktop-automation/) |
 | 🏷️ **Hot-reload** | 1 | [Browse →](./hot-reload/) |
@@ -222,6 +224,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
 | 🏷️ **Rewriting** | 1 | [Browse →](./rewriting/) |
 | 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
+| 🏷️ **Rust** | 1 | [Browse →](./rust/) |
 | 🏷️ **Harness** | 1 | [Browse →](./harness/) |
 | 🏷️ **Dex** | 1 | [Browse →](./dex/) |
 | 🏷️ **Personal-website** | 1 | [Browse →](./personal-website/) |

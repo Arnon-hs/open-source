@@ -1,4 +1,4 @@
-# 🏷️ Rust
+# 🏷️ Opencode
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [abhayzangir1/sqlite-vec](./abhayzangir1-sqlite-vec.md) | ⭐ — | — | 24/100 |
+| 1 | [Ghilteras/opencode-agent-memory](./ghilteras-opencode-agent-memory.md) | ⭐ 2 | TypeScript | 61/100 |
 
 ---
 
