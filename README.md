@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36084** |
-| **Categories** | **229** |
+| **Projects** | **36087** |
+| **Categories** | **230** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 899 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 857 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 626 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 627 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 609 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 575 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 564 | [Browse →](./mobile/) |
@@ -67,6 +67,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Local-llm** | 3 | [Browse →](./local-llm/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
@@ -79,7 +80,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
-| 🏷️ **N8n** | 2 | [Browse →](./n8n/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Local-ai** | 2 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
@@ -114,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Chatbot** | 1 | [Browse →](./chatbot/) |
 | 🏷️ **Coldfusion** | 1 | [Browse →](./coldfusion/) |
 | 🏷️ **Opentelemetry** | 1 | [Browse →](./opentelemetry/) |
 | 🏷️ **Least-privilege** | 1 | [Browse →](./least-privilege/) |
