@@ -63,18 +63,18 @@ teamclouday/AndroidMic：teamclouday/AndroidMic may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 63/100 |
-| outlook | 68/100 |
-| adoption | 63/100 |
-| categoryMatchCount | 100/100 |
-| stars | 68/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| stars | 68/100 |
 | topics | 88/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
+| adoption | 63/100 |
+| production | 63/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

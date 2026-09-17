@@ -64,18 +64,18 @@ voidauth/voidauth：voidauth/voidauth may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 62/100 |
-| production | 69/100 |
-| outlook | 73/100 |
-| adoption | 66/100 |
-| categoryMatchCount | 300/100 |
-| stars | 72/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
+| adoption | 66/100 |
+| production | 69/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
