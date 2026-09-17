@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36053** |
+| **Projects** | **36054** |
 | **Categories** | **228** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -28,8 +28,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcp** | 2619 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2233 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1539 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1291 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 898 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 1292 | [Browse →](./automation/) |
+| ⚙️ **Backend** | 899 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 857 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 622 | [Browse →](./documents/) |
@@ -70,7 +70,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 3 | [Browse →](./local-llm/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
-| 🏷️ **Self-hosted** | 3 | [Browse →](./self-hosted/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Benchmark** | 3 | [Browse →](./benchmark/) |
@@ -81,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Ml** | 3 | [Browse →](./ml/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |

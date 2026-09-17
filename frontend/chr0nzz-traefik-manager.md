@@ -65,18 +65,18 @@ chr0nzz/traefik-manager：chr0nzz/traefik-manager helps ship user-facing interfa
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 68/100 |
-| outlook | 72/100 |
-| adoption | 60/100 |
-| categoryMatchCount | 300/100 |
-| stars | 67/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
+| adoption | 60/100 |
+| production | 68/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
