@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36168** |
+| **Projects** | **36170** |
 | **Categories** | **227** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13637 | [Browse →](./misc/) |
+| 📦 **Misc** | 13639 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4122 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2623 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2235 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1540 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1541 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1299 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 901 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 860 | [Browse →](./frontend/) |
@@ -60,9 +60,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 8 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
-| 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
+| 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |

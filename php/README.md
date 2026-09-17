@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [phphone/phphone](./phphone-phphone.md) | ⭐ 3 | Objective-C | 38/100 |
+| 1 | [phphone/phphone](./phphone-phphone.md) | ⭐ 3 | Objective-C | 35/100 |
 
 ---
 

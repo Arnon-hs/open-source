@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Automation · Backend · api · automation · capcut · jianying · video-editing · video-production
+Video Editing · Automation · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ GuanYixuan/pyCapCut: GuanYixuan/pyCapCut helps turn media editing, captions, ren
 
 ### Русский
 
-GuanYixuan/pyCapCut: open-source проект в категориях Video Editing, Automation, Backend, api, automation, capcut, jianying, video-editing, video-production. Практическое применение: automate editing and rendering; generate subtitles or dubbing. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+GuanYixuan/pyCapCut: open-source проект в категориях Video Editing, Automation, Backend. Практическое применение: automate editing and rendering; generate subtitles or dubbing. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ GuanYixuan/pyCapCut：GuanYixuan/pyCapCut helps turn media editing, captions, re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 75/100 |
-| adoption | 57/100 |
-| categoryMatchCount | 900/100 |
-| stars | 60/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| stars | 60/100 |
 | topics | 63/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
+| adoption | 57/100 |
+| production | 66/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

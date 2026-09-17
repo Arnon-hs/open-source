@@ -65,18 +65,18 @@ The-Swarm-Corporation/AutoHedge：The-Swarm-Corporation/AutoHedge helps prototyp
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 71/100 |
-| outlook | 73/100 |
-| adoption | 78/100 |
-| categoryMatchCount | 300/100 |
-| stars | 80/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
+| adoption | 78/100 |
+| production | 71/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
