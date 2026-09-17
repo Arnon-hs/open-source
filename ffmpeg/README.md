@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MaybeSomeone-arc18/mov2mp4](./maybesomeone-arc18-mov2mp4.md) | ⭐ 1 | Python | 43/100 |
+| 1 | [MaybeSomeone-arc18/mov2mp4](./maybesomeone-arc18-mov2mp4.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 
