@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [actions/setup-python](./actions-setup-python.md) | ⭐ 2.2k | TypeScript | 66/100 |
+| 1 | [actions/setup-python](./actions-setup-python.md) | ⭐ 2.2k | TypeScript | 63/100 |
 | 2 | [korovin-aa97/agent-self-edit-gate](./korovin-aa97-agent-self-edit-gate.md) | ⭐ 6 | Python | 56/100 |
 
 ---

@@ -1,6 +1,6 @@
 # actions/setup-python
 
-[![Stars](https://img.shields.io/github/stars/actions/setup-python?style=flat-square&color=yellow)](https://github.com/actions/setup-python/stargazers) [![Forks](https://img.shields.io/github/forks/actions/setup-python?style=flat-square&color=blue)](https://github.com/actions/setup-python/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/actions/setup-python?style=flat-square&color=yellow)](https://github.com/actions/setup-python/stargazers) [![Forks](https://img.shields.io/github/forks/actions/setup-python?style=flat-square&color=blue)](https://github.com/actions/setup-python/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Set up your GitHub Actions workflow with a specific version of Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 736 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ actions/setup-python：actions/setup-python may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 65/100 |
+| outlook | 64/100 |
 | adoption | 71/100 |
 | categoryMatchCount | 500/100 |
 | stars | 71/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
