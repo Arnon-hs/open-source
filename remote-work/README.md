@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [earnnova-dev/gigwatch](./earnnova-dev-gigwatch.md) | ⭐ — | Python | 55/100 |
+| 1 | [earnnova-dev/gigwatch](./earnnova-dev-gigwatch.md) | ⭐ — | Python | 52/100 |
 
 ---
 
