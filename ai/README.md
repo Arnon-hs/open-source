@@ -19,9 +19,9 @@
 | 9 | [goun7/veridict](./goun7-veridict.md) | ⭐ 1 | Python | 57/100 |
 | 10 | [Nir-Bhay/antigravity-usage-intelligence](./nir-bhay-antigravity-usage-intelligence.md) | ⭐ 2 | HTML | 55/100 |
 | 11 | [joinwell52-AI/joinwell52](./joinwell52-ai-joinwell52.md) | ⭐ 6 | JavaScript | 54/100 |
-| 12 | [voyagi/plainletter](./voyagi-plainletter.md) | ⭐ — | Python | 50/100 |
-| 13 | [kenashe/ai-werewolf](./kenashe-ai-werewolf.md) | ⭐ 1 | — | 50/100 |
-| 14 | [FORIFOR/oathra](./forifor-oathra.md) | ⭐ — | TypeScript | 48/100 |
+| 12 | [kenashe/ai-werewolf](./kenashe-ai-werewolf.md) | ⭐ 1 | — | 50/100 |
+| 13 | [FORIFOR/oathra](./forifor-oathra.md) | ⭐ — | TypeScript | 48/100 |
+| 14 | [voyagi/plainletter](./voyagi-plainletter.md) | ⭐ — | Python | 47/100 |
 | 15 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
 | 16 | [lizhuojunx86/tg-attest](./lizhuojunx86-tg-attest.md) | ⭐ — | Python | 42/100 |
 | 17 | [KiitaInternet/kevlar](./kiitainternet-kevlar.md) | ⭐ 3 | HTML | 42/100 |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bytechefhq/bytechef-embedded-sample-app](./bytechefhq-bytechef-embedded-sample-app.md) | ⭐ 1 | TypeScript | 41/100 |
+| 1 | [bytechefhq/bytechef-embedded-sample-app](./bytechefhq-bytechef-embedded-sample-app.md) | ⭐ 1 | TypeScript | 37/100 |
 | 2 | [atlasdb/atlas](./atlasdb-atlas.md) | ⭐ — | — | 24/100 |
 
 ---
