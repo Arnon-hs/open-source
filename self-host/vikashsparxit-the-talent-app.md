@@ -1,6 +1,6 @@
 # vikashsparxit/the-talent-app
 
-[![Stars](https://img.shields.io/github/stars/vikashsparxit/the-talent-app?style=flat-square&color=yellow)](https://github.com/vikashsparxit/the-talent-app/stargazers) [![Forks](https://img.shields.io/github/forks/vikashsparxit/the-talent-app?style=flat-square&color=blue)](https://github.com/vikashsparxit/the-talent-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vikashsparxit/the-talent-app?style=flat-square&color=yellow)](https://github.com/vikashsparxit/the-talent-app/stargazers) [![Forks](https://img.shields.io/github/forks/vikashsparxit/the-talent-app?style=flat-square&color=blue)](https://github.com/vikashsparxit/the-talent-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Talent App — open-source ATS for small teams and agencies. Jobs, pipeline, candidates, interviews, and applicant portal. Self-host with Supabase, React, and TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ vikashsparxit/the-talent-app：vikashsparxit/the-talent-app may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 59/100 |
+| outlook | 61/100 |
 | adoption | 18/100 |
 | categoryMatchCount | 700/100 |
 | stars | 18/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

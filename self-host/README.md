@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vikashsparxit/the-talent-app](./vikashsparxit-the-talent-app.md) | ⭐ 6 | TypeScript | 55/100 |
+| 1 | [vikashsparxit/the-talent-app](./vikashsparxit-the-talent-app.md) | ⭐ 6 | TypeScript | 52/100 |
 
 ---
 
