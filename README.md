@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36074** |
+| **Projects** | **36078** |
 | **Categories** | **227** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13581 | [Browse →](./misc/) |
+| 📦 **Misc** | 13582 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4115 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2619 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2233 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 575 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 564 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 561 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 482 | [Browse →](./database/) |
+| 🏷️ **Database** | 483 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
 | 🔐 **Security** | 388 | [Browse →](./security/) |
@@ -79,6 +79,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **N8n** | 2 | [Browse →](./n8n/) |
+| 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Local-ai** | 2 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
@@ -198,7 +200,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Igaming** | 1 | [Browse →](./igaming/) |
 | 🏷️ **Ai-governance** | 1 | [Browse →](./ai-governance/) |
 | 🏷️ **Bug-repro** | 1 | [Browse →](./bug-repro/) |
-| 🏷️ **Git** | 1 | [Browse →](./git/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Legal-tech** | 1 | [Browse →](./legal-tech/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
@@ -243,7 +244,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
-| 🏷️ **N8n** | 1 | [Browse →](./n8n/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **React-native** | 1 | [Browse →](./react-native/) |

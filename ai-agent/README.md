@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [imarpanpatra/claimback](./imarpanpatra-claimback.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [imarpanpatra/claimback](./imarpanpatra-claimback.md) | ⭐ — | JavaScript | 33/100 |
 | 2 | [x402org/x402-js](./x402org-x402-js.md) | ⭐ — | — | 24/100 |
 
 ---
