@@ -1,6 +1,6 @@
 # meta-models/muse-code-sdk
 
-[![Stars](https://img.shields.io/github/stars/meta-models/muse-code-sdk?style=flat-square&color=yellow)](https://github.com/meta-models/muse-code-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/meta-models/muse-code-sdk?style=flat-square&color=blue)](https://github.com/meta-models/muse-code-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meta-models/muse-code-sdk?style=flat-square&color=yellow)](https://github.com/meta-models/muse-code-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/meta-models/muse-code-sdk?style=flat-square&color=blue)](https://github.com/meta-models/muse-code-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SDK and documentation for how to programmatically control Muse Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ meta-models/muse-code-sdk：meta-models/muse-code-sdk may be useful when its REA
 - updated 2026-09-14
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 60/100 |
+| production | 57/100 |
+| outlook | 53/100 |
 | adoption | 26/100 |
 | categoryMatchCount | 700/100 |
 | stars | 31/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
