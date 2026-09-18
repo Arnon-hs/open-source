@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [LinklyAI/best-skills](./linklyai-best-skills.md) | ⭐ 522 | — | 59/100 |
+| 1 | [LinklyAI/best-skills](./linklyai-best-skills.md) | ⭐ 522 | — | 56/100 |
 
 ---
 

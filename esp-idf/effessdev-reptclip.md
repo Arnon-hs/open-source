@@ -1,6 +1,6 @@
 # effessdev/reptclip
 
-[![Stars](https://img.shields.io/github/stars/effessdev/reptclip?style=flat-square&color=yellow)](https://github.com/effessdev/reptclip/stargazers) [![Forks](https://img.shields.io/github/forks/effessdev/reptclip?style=flat-square&color=blue)](https://github.com/effessdev/reptclip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/effessdev/reptclip?style=flat-square&color=yellow)](https://github.com/effessdev/reptclip/stargazers) [![Forks](https://img.shields.io/github/forks/effessdev/reptclip?style=flat-square&color=blue)](https://github.com/effessdev/reptclip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, cross-platform CLI that turns a git repository into clean Markdown context for an LLM chat — and copies it straight to your clipboard.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-04 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ ESP-IDF · CMake · AI-assisted coding · include paths · REQUIRES
 
 ### English
 
-effessdev/reptclip: effessdev/reptclip may be useful when its README and activity match a concrete workflow.. Use it for ESP-IDF, CMake, AI-assisted coding, include paths, REQUIRES. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+effessdev/reptclip: effessdev/reptclip may be useful when its README and activity match a concrete workflow.. Use it for ESP-IDF, CMake, AI-assisted coding, include paths, REQUIRES. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-effessdev/reptclip: open-source проект в категориях ESP-IDF, CMake, AI-assisted coding, include paths, REQUIRES. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+effessdev/reptclip: open-source проект в категориях ESP-IDF, CMake, AI-assisted coding, include paths, REQUIRES. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-effessdev/reptclip：effessdev/reptclip may be useful when its README and activity match a concrete workflow.。适合用于ESP-IDF、CMake、AI-assisted coding、include paths、REQUIRES。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+effessdev/reptclip：effessdev/reptclip may be useful when its README and activity match a concrete workflow.。适合用于ESP-IDF、CMake、AI-assisted coding、include paths、REQUIRES。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ effessdev/reptclip：effessdev/reptclip may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ effessdev/reptclip：effessdev/reptclip may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 33/100 |
+| quality | 28/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 48/100 |
+| production | 47/100 |
+| outlook | 41/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

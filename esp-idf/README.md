@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [effessdev/reptclip](./effessdev-reptclip.md) | ⭐ 1 | Python | 47/100 |
+| 1 | [effessdev/reptclip](./effessdev-reptclip.md) | ⭐ 1 | Python | 44/100 |
 
 ---
 

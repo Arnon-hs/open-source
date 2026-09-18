@@ -1,6 +1,6 @@
 # LinklyAI/best-skills
 
-[![Stars](https://img.shields.io/github/stars/LinklyAI/best-skills?style=flat-square&color=yellow)](https://github.com/LinklyAI/best-skills/stargazers) [![Forks](https://img.shields.io/github/forks/LinklyAI/best-skills?style=flat-square&color=blue)](https://github.com/LinklyAI/best-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LinklyAI/best-skills?style=flat-square&color=yellow)](https://github.com/LinklyAI/best-skills/stargazers) [![Forks](https://img.shields.io/github/forks/LinklyAI/best-skills?style=flat-square&color=blue)](https://github.com/LinklyAI/best-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Daily-updated Top 100 Agent Skills rankings — installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Tencent SkillHub, GitHub, X and 10+ communities.   Open data (CSV).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ LinklyAI/best-skills：LinklyAI/best-skills may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 62/100 |
+| outlook | 69/100 |
 | adoption | 50/100 |
 | categoryMatchCount | 400/100 |
 | stars | 58/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
