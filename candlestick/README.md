@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cm45t3r/candlestick](./cm45t3r-candlestick.md) | ⭐ 516 | JavaScript | 60/100 |
+| 1 | [cm45t3r/candlestick](./cm45t3r-candlestick.md) | ⭐ 516 | JavaScript | 57/100 |
 
 ---
 

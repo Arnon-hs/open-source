@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BackBond/agent-scan](./backbond-agent-scan.md) | ⭐ — | JavaScript | 66/100 |
+| 1 | [BackBond/agent-scan](./backbond-agent-scan.md) | ⭐ — | JavaScript | 63/100 |
 
 ---
 
