@@ -62,18 +62,18 @@ kinghacker0/WhatsApp-OSINT：kinghacker0/WhatsApp-OSINT may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 62/100 |
-| adoption | 62/100 |
-| categoryMatchCount | 0/100 |
-| stars | 63/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| stars | 63/100 |
 | topics | 0/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
+| adoption | 62/100 |
+| production | 63/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

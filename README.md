@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36295** |
-| **Categories** | **235** |
+| **Projects** | **36297** |
+| **Categories** | **236** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -49,7 +49,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Productivity** | 303 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 273 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 241 | [Browse →](./libraries--sdks/) |
-| 📈 **Trading** | 192 | [Browse →](./trading/) |
+| 📈 **Trading** | 193 | [Browse →](./trading/) |
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 82 | [Browse →](./vertical-video/) |
@@ -108,6 +108,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Sanity** | 1 | [Browse →](./sanity/) |
+| 🏷️ **Remote-development** | 1 | [Browse →](./remote-development/) |
 | 🏷️ **Searxng** | 1 | [Browse →](./searxng/) |
 | 🏷️ **Data-validation** | 1 | [Browse →](./data-validation/) |
 | 🏷️ **Coding** | 1 | [Browse →](./coding/) |
@@ -212,7 +214,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Esp-idf** | 1 | [Browse →](./esp-idf/) |
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
-| 🏷️ **Algorithmic-trading** | 1 | [Browse →](./algorithmic-trading/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
 | 🏷️ **Igaming** | 1 | [Browse →](./igaming/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
