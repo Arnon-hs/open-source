@@ -64,18 +64,18 @@ RaidOwl/homelab-hub：RaidOwl/homelab-hub helps make deployment and operations m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 55/100 |
-| categoryMatchCount | 100/100 |
-| stars | 60/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| stars | 60/100 |
 | topics | 0/100 |
+| outlook | 64/100 |
+| quality | 55/100 |
+| recency | 80/100 |
+| adoption | 55/100 |
+| production | 60/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

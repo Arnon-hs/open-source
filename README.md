@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36195** |
-| **Categories** | **230** |
+| **Projects** | **36197** |
+| **Categories** | **231** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13654 | [Browse →](./misc/) |
+| 📦 **Misc** | 13655 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4124 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2624 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2236 | [Browse →](./orchestration/) |
@@ -106,6 +106,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Robotics** | 1 | [Browse →](./robotics/) |
 | 🏷️ **Hooks** | 1 | [Browse →](./hooks/) |
 | 🏷️ **Tracking-plan** | 1 | [Browse →](./tracking-plan/) |
 | 🏷️ **Approval** | 1 | [Browse →](./approval/) |

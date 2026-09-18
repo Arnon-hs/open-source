@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [liesliy/rda](./liesliy-rda.md) | ⭐ 1 | Python | 40/100 |
+| 1 | [xArm-Developer/xArm-Python-SDK](./xarm-developer-xarm-python-sdk.md) | ⭐ 324 | Python | 63/100 |
 
 ---
 
