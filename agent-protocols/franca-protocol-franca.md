@@ -1,6 +1,6 @@
 # franca-protocol/franca
 
-[![Stars](https://img.shields.io/github/stars/franca-protocol/franca?style=flat-square&color=yellow)](https://github.com/franca-protocol/franca/stargazers) [![Forks](https://img.shields.io/github/forks/franca-protocol/franca?style=flat-square&color=blue)](https://github.com/franca-protocol/franca/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/franca-protocol/franca?style=flat-square&color=yellow)](https://github.com/franca-protocol/franca/stargazers) [![Forks](https://img.shields.io/github/forks/franca-protocol/franca?style=flat-square&color=blue)](https://github.com/franca-protocol/franca/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted agent endpoints for Java — serve OpenAI Responses & Anthropic Messages over any inference backend, with hosted tools (local / MCP / cloud) and a server-side thinking slot. A library, not a product.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ franca-protocol/franca：franca-protocol/franca may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 73/100 |
+| production | 57/100 |
+| outlook | 66/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [franca-protocol/franca](./franca-protocol-franca.md) | ⭐ 1 | Java | 64/100 |
+| 1 | [franca-protocol/franca](./franca-protocol-franca.md) | ⭐ 1 | Java | 61/100 |
 
 ---
 
