@@ -1,6 +1,6 @@
 # nvim-telescope/telescope.nvim
 
-[![Stars](https://img.shields.io/github/stars/nvim-telescope/telescope.nvim?style=flat-square&color=yellow)](https://github.com/nvim-telescope/telescope.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/nvim-telescope/telescope.nvim?style=flat-square&color=blue)](https://github.com/nvim-telescope/telescope.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nvim-telescope/telescope.nvim?style=flat-square&color=yellow)](https://github.com/nvim-telescope/telescope.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/nvim-telescope/telescope.nvim?style=flat-square&color=blue)](https://github.com/nvim-telescope/telescope.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Find, Filter, Preview, Pick. All lua, all the time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19.8k |
 | 🍴 **Forks** | 966 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ nvim-telescope/telescope.nvim：nvim-telescope/telescope.nvim may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 87/100 |
 | categoryMatchCount | 800/100 |
 | stars | 91/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
