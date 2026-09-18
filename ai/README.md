@@ -18,7 +18,7 @@
 | 8 | [golproductions/check](./golproductions-check.md) | ⭐ — | — | 60/100 |
 | 9 | [goun7/veridict](./goun7-veridict.md) | ⭐ 1 | Python | 57/100 |
 | 10 | [Nir-Bhay/antigravity-usage-intelligence](./nir-bhay-antigravity-usage-intelligence.md) | ⭐ 2 | HTML | 55/100 |
-| 11 | [joinwell52-AI/joinwell52](./joinwell52-ai-joinwell52.md) | ⭐ 6 | JavaScript | 54/100 |
+| 11 | [joinwell52-AI/joinwell52](./joinwell52-ai-joinwell52.md) | ⭐ 6 | JavaScript | 51/100 |
 | 12 | [FORIFOR/oathra](./forifor-oathra.md) | ⭐ — | TypeScript | 48/100 |
 | 13 | [voyagi/plainletter](./voyagi-plainletter.md) | ⭐ — | Python | 47/100 |
 | 14 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |

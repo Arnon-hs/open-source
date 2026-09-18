@@ -1,6 +1,6 @@
 # joinwell52-AI/joinwell52
 
-[![Stars](https://img.shields.io/github/stars/joinwell52-AI/joinwell52?style=flat-square&color=yellow)](https://github.com/joinwell52-AI/joinwell52/stargazers) [![Forks](https://img.shields.io/github/forks/joinwell52-AI/joinwell52?style=flat-square&color=blue)](https://github.com/joinwell52-AI/joinwell52/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joinwell52-AI/joinwell52?style=flat-square&color=yellow)](https://github.com/joinwell52-AI/joinwell52/stargazers) [![Forks](https://img.shields.io/github/forks/joinwell52-AI/joinwell52?style=flat-square&color=blue)](https://github.com/joinwell52-AI/joinwell52/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > TMPA — Textual Multi-Agent Process Architecture for durable AI-agent governance, responsibility, conformance, and auditable digital work. Research, specification, and evidence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ joinwell52-AI/joinwell52：joinwell52-AI/joinwell52 may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 18/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
