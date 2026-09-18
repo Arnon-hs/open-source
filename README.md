@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36225** |
-| **Categories** | **238** |
+| **Projects** | **36228** |
+| **Categories** | **236** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13666 | [Browse →](./misc/) |
+| 📦 **Misc** | 13668 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4125 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2624 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2237 | [Browse →](./orchestration/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 561 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 484 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 470 | [Browse →](./devopsinfra/) |
-| 🏷️ **Templates** | 427 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 429 | [Browse →](./templates/) |
 | 🔐 **Security** | 391 | [Browse →](./security/) |
 | 🏷️ **Communication** | 386 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 370 | [Browse →](./video-editing/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
@@ -175,7 +176,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
 | 🏷️ **Env-spec** | 1 | [Browse →](./env-spec/) |
 | 🏷️ **Agentsmd** | 1 | [Browse →](./agentsmd/) |
-| 🏷️ **Claude** | 1 | [Browse →](./claude/) |
 | 🏷️ **Eu-cra** | 1 | [Browse →](./eu-cra/) |
 | 🏷️ **Ffmpeg** | 1 | [Browse →](./ffmpeg/) |
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
@@ -217,8 +217,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted-analytics** | 1 | [Browse →](./self-hosted-analytics/) |
 | 🏷️ **Remote-support** | 1 | [Browse →](./remote-support/) |
 | 🏷️ **Igaming** | 1 | [Browse →](./igaming/) |
-| 🏷️ **Ai-governance** | 1 | [Browse →](./ai-governance/) |
-| 🏷️ **Bug-repro** | 1 | [Browse →](./bug-repro/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yesbert/WeavePort](./yesbert-weaveport.md) | ⭐ 1 | C# | 67/100 |
+| 1 | [yesbert/WeavePort](./yesbert-weaveport.md) | ⭐ 1 | C# | 63/100 |
 
 ---
 

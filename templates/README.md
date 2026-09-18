@@ -2,7 +2,7 @@
 
 > 
 
-**427 projects** in this category.
+**429 projects** in this category.
 
 ## Projects
 
@@ -364,77 +364,79 @@
 | 354 | [jdrouet/catapulte](./jdrouet-catapulte.md) | ⭐ 151 | Rust | 58/100 |
 | 355 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 58/100 |
 | 356 | [Roshankrsoni/Roshankrsoni.github.io](./roshankrsoni-roshankrsoni.github.io.md) | ⭐ 111 | TypeScript | 58/100 |
-| 357 | [workos/next-b2b-starter-kit](./workos-next-b2b-starter-kit.md) | ⭐ 94 | TypeScript | 57/100 |
-| 358 | [FlareStarter/flarestarter](./flarestarter-flarestarter.md) | ⭐ 53 | TypeScript | 57/100 |
-| 359 | [thymikee/jest-preset-angular](./thymikee-jest-preset-angular.md) | ⭐ 917 | TypeScript | 57/100 |
-| 360 | [antfu/eslint-config](./antfu-eslint-config.md) | ⭐ 6.2k | JavaScript | 57/100 |
-| 361 | [kkoomen/vim-doge](./kkoomen-vim-doge.md) | ⭐ 1.1k | Rust | 56/100 |
-| 362 | [askdkc/breezejp](./askdkc-breezejp.md) | ⭐ 592 | PHP | 56/100 |
-| 363 | [prathamdmehta/backend-dash](./prathamdmehta-backend-dash.md) | ⭐ — | — | 56/100 |
-| 364 | [matteobaccan/owner](./matteobaccan-owner.md) | ⭐ 938 | Java | 56/100 |
-| 365 | [pureconfig/pureconfig](./pureconfig-pureconfig.md) | ⭐ 1.5k | Scala | 56/100 |
-| 366 | [kovrichard/catalyst](./kovrichard-catalyst.md) | ⭐ 470 | TypeScript | 56/100 |
-| 367 | [geofffranks/spruce](./geofffranks-spruce.md) | ⭐ 451 | Go | 56/100 |
-| 368 | [getreu/tp-note](./getreu-tp-note.md) | ⭐ 143 | Rust | 56/100 |
-| 369 | [LivingFramework/LivingFramework.github.io](./livingframework-livingframework.github.io.md) | ⭐ 38 | HTML | 56/100 |
-| 370 | [CuteLeaf/Firefly](./cuteleaf-firefly.md) | ⭐ 937 | Astro | 56/100 |
-| 371 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 5 | JavaScript | 55/100 |
-| 372 | [Shopify/shopify-app-template-php](./shopify-shopify-app-template-php.md) | ⭐ 335 | PHP | 55/100 |
-| 373 | [gofiber/boilerplate](./gofiber-boilerplate.md) | ⭐ 503 | Go | 55/100 |
-| 374 | [pytorch/helion](./pytorch-helion.md) | ⭐ 860 | Python | 55/100 |
-| 375 | [marcantondahmen/automad](./marcantondahmen-automad.md) | ⭐ 893 | TypeScript | 55/100 |
-| 376 | [Azure/bicep](./azure-bicep.md) | ⭐ 3.6k | Bicep | 55/100 |
-| 377 | [xvdvlinux-coder/Oriented-Direct](./xvdvlinux-coder-oriented-direct.md) | ⭐ 2 | JavaScript | 54/100 |
-| 378 | [mickymultani/deepseek-harness-enterprise-suite](./mickymultani-deepseek-harness-enterprise-suite.md) | ⭐ — | JavaScript | 54/100 |
-| 379 | [theovilardo/PixelPlayer](./theovilardo-pixelplayer.md) | ⭐ 4.3k | Kotlin | 54/100 |
-| 380 | [ustctug/ustcthesis](./ustctug-ustcthesis.md) | ⭐ 2.1k | TeX | 54/100 |
-| 381 | [mantinedev/next-pages-template](./mantinedev-next-pages-template.md) | ⭐ 510 | TypeScript | 54/100 |
-| 382 | [sjtug/SJTUBeamer](./sjtug-sjtubeamer.md) | ⭐ 753 | TeX | 54/100 |
-| 383 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 168 | TypeScript | 54/100 |
-| 384 | [olicesx/kixparadigm](./olicesx-kixparadigm.md) | ⭐ 22 | JavaScript | 53/100 |
-| 385 | [petervdpas/Formidable2](./petervdpas-formidable2.md) | ⭐ — | — | 53/100 |
-| 386 | [preset-io/agor](./preset-io-agor.md) | ⭐ 1.2k | TypeScript | 53/100 |
-| 387 | [sunng87/handlebars-rust](./sunng87-handlebars-rust.md) | ⭐ 1.5k | Rust | 53/100 |
-| 388 | [0x727/FingerprintHub](./0x727-fingerprinthub.md) | ⭐ 1.4k | Rust | 53/100 |
-| 389 | [arabcoders/ytptube](./arabcoders-ytptube.md) | ⭐ 909 | Python | 53/100 |
-| 390 | [ndpvt-web/latex-document-skill](./ndpvt-web-latex-document-skill.md) | ⭐ 328 | TeX | 52/100 |
-| 391 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 258 | Rust | 51/100 |
-| 392 | [missdeer/coredns_custom_build](./missdeer-coredns-custom-build.md) | ⭐ 333 | Go Template | 51/100 |
-| 393 | [jonringer/nix-template](./jonringer-nix-template.md) | ⭐ 224 | Rust | 51/100 |
-| 394 | [TheBevyFlock/bevy_new_2d](./thebevyflock-bevy-new-2d.md) | ⭐ 458 | Rust | 50/100 |
-| 395 | [jamescherti/minimal-emacs.d](./jamescherti-minimal-emacs.d.md) | ⭐ 783 | Emacs Lisp | 50/100 |
-| 396 | [DevUnltd/js-library-boilerplate-basic](./devunltd-js-library-boilerplate-basic.md) | ⭐ 410 | HTML | 49/100 |
-| 397 | [johnstaveley/SecurityEssentials](./johnstaveley-securityessentials.md) | ⭐ — | — | 48/100 |
-| 398 | [nguyenchiemminhvu/castle](./nguyenchiemminhvu-castle.md) | ⭐ — | — | 48/100 |
-| 399 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 48/100 |
-| 400 | [Thurbeen/fleet](./thurbeen-fleet.md) | ⭐ — | Python | 47/100 |
-| 401 | [arconia-io/arconia](./arconia-io-arconia.md) | ⭐ 142 | Java | 47/100 |
-| 402 | [anish000kumar/redux-box](./anish000kumar-redux-box.md) | ⭐ 703 | TypeScript | 46/100 |
-| 403 | [OactoDev/claude-code-field-kit](./oactodev-claude-code-field-kit.md) | ⭐ — | — | 45/100 |
-| 404 | [emal-avala/data-room](./emal-avala-data-room.md) | ⭐ — | — | 45/100 |
-| 405 | [axyz/binaural](./axyz-binaural.md) | ⭐ — | — | 45/100 |
-| 406 | [shadcn-ui/chatbot-template](./shadcn-ui-chatbot-template.md) | ⭐ — | — | 45/100 |
-| 407 | [weidsfsdwgf/ai-prototype-demo](./weidsfsdwgf-ai-prototype-demo.md) | ⭐ — | — | 45/100 |
-| 408 | [beint-no/thim](./beint-no-thim.md) | ⭐ — | — | 45/100 |
-| 409 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ — | — | 45/100 |
-| 410 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ — | — | 45/100 |
-| 411 | [artob/readmer](./artob-readmer.md) | ⭐ — | — | 45/100 |
-| 412 | [human0-ai/template](./human0-ai-template.md) | ⭐ — | — | 45/100 |
-| 413 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ — | — | 45/100 |
-| 414 | [leomos/pigiaminja](./leomos-pigiaminja.md) | ⭐ — | — | 45/100 |
-| 415 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 45/100 |
-| 416 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 45/100 |
-| 417 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
-| 418 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
-| 419 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
-| 420 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
-| 421 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
-| 422 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
-| 423 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
-| 424 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
-| 425 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
-| 426 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
-| 427 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
+| 357 | [joyrswd/AIDDSkeleton](./joyrswd-aiddskeleton.md) | ⭐ — | — | 57/100 |
+| 358 | [workos/next-b2b-starter-kit](./workos-next-b2b-starter-kit.md) | ⭐ 94 | TypeScript | 57/100 |
+| 359 | [FlareStarter/flarestarter](./flarestarter-flarestarter.md) | ⭐ 53 | TypeScript | 57/100 |
+| 360 | [thymikee/jest-preset-angular](./thymikee-jest-preset-angular.md) | ⭐ 917 | TypeScript | 57/100 |
+| 361 | [antfu/eslint-config](./antfu-eslint-config.md) | ⭐ 6.2k | JavaScript | 57/100 |
+| 362 | [kkoomen/vim-doge](./kkoomen-vim-doge.md) | ⭐ 1.1k | Rust | 56/100 |
+| 363 | [askdkc/breezejp](./askdkc-breezejp.md) | ⭐ 592 | PHP | 56/100 |
+| 364 | [prathamdmehta/backend-dash](./prathamdmehta-backend-dash.md) | ⭐ — | — | 56/100 |
+| 365 | [matteobaccan/owner](./matteobaccan-owner.md) | ⭐ 938 | Java | 56/100 |
+| 366 | [pureconfig/pureconfig](./pureconfig-pureconfig.md) | ⭐ 1.5k | Scala | 56/100 |
+| 367 | [kovrichard/catalyst](./kovrichard-catalyst.md) | ⭐ 470 | TypeScript | 56/100 |
+| 368 | [geofffranks/spruce](./geofffranks-spruce.md) | ⭐ 451 | Go | 56/100 |
+| 369 | [getreu/tp-note](./getreu-tp-note.md) | ⭐ 143 | Rust | 56/100 |
+| 370 | [LivingFramework/LivingFramework.github.io](./livingframework-livingframework.github.io.md) | ⭐ 38 | HTML | 56/100 |
+| 371 | [CuteLeaf/Firefly](./cuteleaf-firefly.md) | ⭐ 937 | Astro | 56/100 |
+| 372 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 5 | JavaScript | 55/100 |
+| 373 | [Shopify/shopify-app-template-php](./shopify-shopify-app-template-php.md) | ⭐ 335 | PHP | 55/100 |
+| 374 | [gofiber/boilerplate](./gofiber-boilerplate.md) | ⭐ 503 | Go | 55/100 |
+| 375 | [pytorch/helion](./pytorch-helion.md) | ⭐ 860 | Python | 55/100 |
+| 376 | [marcantondahmen/automad](./marcantondahmen-automad.md) | ⭐ 893 | TypeScript | 55/100 |
+| 377 | [Azure/bicep](./azure-bicep.md) | ⭐ 3.6k | Bicep | 55/100 |
+| 378 | [xvdvlinux-coder/Oriented-Direct](./xvdvlinux-coder-oriented-direct.md) | ⭐ 2 | JavaScript | 54/100 |
+| 379 | [mickymultani/deepseek-harness-enterprise-suite](./mickymultani-deepseek-harness-enterprise-suite.md) | ⭐ — | JavaScript | 54/100 |
+| 380 | [theovilardo/PixelPlayer](./theovilardo-pixelplayer.md) | ⭐ 4.3k | Kotlin | 54/100 |
+| 381 | [ustctug/ustcthesis](./ustctug-ustcthesis.md) | ⭐ 2.1k | TeX | 54/100 |
+| 382 | [mantinedev/next-pages-template](./mantinedev-next-pages-template.md) | ⭐ 510 | TypeScript | 54/100 |
+| 383 | [sjtug/SJTUBeamer](./sjtug-sjtubeamer.md) | ⭐ 753 | TeX | 54/100 |
+| 384 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 168 | TypeScript | 54/100 |
+| 385 | [olicesx/kixparadigm](./olicesx-kixparadigm.md) | ⭐ 22 | JavaScript | 53/100 |
+| 386 | [petervdpas/Formidable2](./petervdpas-formidable2.md) | ⭐ — | — | 53/100 |
+| 387 | [preset-io/agor](./preset-io-agor.md) | ⭐ 1.2k | TypeScript | 53/100 |
+| 388 | [sunng87/handlebars-rust](./sunng87-handlebars-rust.md) | ⭐ 1.5k | Rust | 53/100 |
+| 389 | [0x727/FingerprintHub](./0x727-fingerprinthub.md) | ⭐ 1.4k | Rust | 53/100 |
+| 390 | [arabcoders/ytptube](./arabcoders-ytptube.md) | ⭐ 909 | Python | 53/100 |
+| 391 | [ndpvt-web/latex-document-skill](./ndpvt-web-latex-document-skill.md) | ⭐ 328 | TeX | 52/100 |
+| 392 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 258 | Rust | 51/100 |
+| 393 | [missdeer/coredns_custom_build](./missdeer-coredns-custom-build.md) | ⭐ 333 | Go Template | 51/100 |
+| 394 | [jonringer/nix-template](./jonringer-nix-template.md) | ⭐ 224 | Rust | 51/100 |
+| 395 | [TheBevyFlock/bevy_new_2d](./thebevyflock-bevy-new-2d.md) | ⭐ 458 | Rust | 50/100 |
+| 396 | [jamescherti/minimal-emacs.d](./jamescherti-minimal-emacs.d.md) | ⭐ 783 | Emacs Lisp | 50/100 |
+| 397 | [DevUnltd/js-library-boilerplate-basic](./devunltd-js-library-boilerplate-basic.md) | ⭐ 410 | HTML | 49/100 |
+| 398 | [johnstaveley/SecurityEssentials](./johnstaveley-securityessentials.md) | ⭐ — | — | 48/100 |
+| 399 | [nguyenchiemminhvu/castle](./nguyenchiemminhvu-castle.md) | ⭐ — | — | 48/100 |
+| 400 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 48/100 |
+| 401 | [Thurbeen/fleet](./thurbeen-fleet.md) | ⭐ — | Python | 47/100 |
+| 402 | [arconia-io/arconia](./arconia-io-arconia.md) | ⭐ 142 | Java | 47/100 |
+| 403 | [williamgritti/oss-bug-repro-lite](./williamgritti-oss-bug-repro-lite.md) | ⭐ — | — | 46/100 |
+| 404 | [anish000kumar/redux-box](./anish000kumar-redux-box.md) | ⭐ 703 | TypeScript | 46/100 |
+| 405 | [OactoDev/claude-code-field-kit](./oactodev-claude-code-field-kit.md) | ⭐ — | — | 45/100 |
+| 406 | [emal-avala/data-room](./emal-avala-data-room.md) | ⭐ — | — | 45/100 |
+| 407 | [axyz/binaural](./axyz-binaural.md) | ⭐ — | — | 45/100 |
+| 408 | [shadcn-ui/chatbot-template](./shadcn-ui-chatbot-template.md) | ⭐ — | — | 45/100 |
+| 409 | [weidsfsdwgf/ai-prototype-demo](./weidsfsdwgf-ai-prototype-demo.md) | ⭐ — | — | 45/100 |
+| 410 | [beint-no/thim](./beint-no-thim.md) | ⭐ — | — | 45/100 |
+| 411 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ — | — | 45/100 |
+| 412 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ — | — | 45/100 |
+| 413 | [artob/readmer](./artob-readmer.md) | ⭐ — | — | 45/100 |
+| 414 | [human0-ai/template](./human0-ai-template.md) | ⭐ — | — | 45/100 |
+| 415 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ — | — | 45/100 |
+| 416 | [leomos/pigiaminja](./leomos-pigiaminja.md) | ⭐ — | — | 45/100 |
+| 417 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 45/100 |
+| 418 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 45/100 |
+| 419 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
+| 420 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
+| 421 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
+| 422 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
+| 423 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
+| 424 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
+| 425 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
+| 426 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
+| 427 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
+| 428 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
+| 429 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
 
 ---
 
