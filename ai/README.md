@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CatCatUncle/openworkbuddy](./catcatuncle-openworkbuddy.md) | ⭐ 92 | JavaScript | 72/100 |
-| 2 | [getsops/sops](./getsops-sops.md) | ⭐ 23.1k | Go | 71/100 |
-| 3 | [fxerkan/concealer](./fxerkan-concealer.md) | ⭐ 14 | Python | 71/100 |
-| 4 | [chunxiaoxx/nautilus-compass](./chunxiaoxx-nautilus-compass.md) | ⭐ 131 | Python | 71/100 |
+| 1 | [getsops/sops](./getsops-sops.md) | ⭐ 23.1k | Go | 71/100 |
+| 2 | [fxerkan/concealer](./fxerkan-concealer.md) | ⭐ 14 | Python | 71/100 |
+| 3 | [chunxiaoxx/nautilus-compass](./chunxiaoxx-nautilus-compass.md) | ⭐ 131 | Python | 71/100 |
+| 4 | [CatCatUncle/openworkbuddy](./catcatuncle-openworkbuddy.md) | ⭐ 92 | JavaScript | 69/100 |
 | 5 | [moonrunnerkc/tracemantle](./moonrunnerkc-tracemantle.md) | ⭐ 24 | Python | 66/100 |
 | 6 | [bigrivi/nova](./bigrivi-nova.md) | ⭐ — | Python | 66/100 |
 | 7 | [akshaypatel-ai/ai-automations](./akshaypatel-ai-ai-automations.md) | ⭐ — | Shell | 63/100 |

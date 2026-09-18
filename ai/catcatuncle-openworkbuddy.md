@@ -1,6 +1,6 @@
 # CatCatUncle/openworkbuddy
 
-[![Stars](https://img.shields.io/github/stars/CatCatUncle/openworkbuddy?style=flat-square&color=yellow)](https://github.com/CatCatUncle/openworkbuddy/stargazers) [![Forks](https://img.shields.io/github/forks/CatCatUncle/openworkbuddy?style=flat-square&color=blue)](https://github.com/CatCatUncle/openworkbuddy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CatCatUncle/openworkbuddy?style=flat-square&color=yellow)](https://github.com/CatCatUncle/openworkbuddy/stargazers) [![Forks](https://img.shields.io/github/forks/CatCatUncle/openworkbuddy?style=flat-square&color=blue)](https://github.com/CatCatUncle/openworkbuddy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI work agent: turn requests into real files, bring your own LLM, Claude Code or Codex, self-host office automation, and build AI short dramas on an executable canvas.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ CatCatUncle/openworkbuddy：CatCatUncle/openworkbuddy may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 82/100 |
+| production | 63/100 |
+| outlook | 75/100 |
 | adoption | 40/100 |
 | categoryMatchCount | 700/100 |
 | stars | 42/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

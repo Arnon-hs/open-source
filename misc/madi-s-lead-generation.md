@@ -1,6 +1,6 @@
 # Madi-S/Lead-Generation
 
-[![Stars](https://img.shields.io/github/stars/Madi-S/Lead-Generation?style=flat-square&color=yellow)](https://github.com/Madi-S/Lead-Generation/stargazers) [![Forks](https://img.shields.io/github/forks/Madi-S/Lead-Generation?style=flat-square&color=blue)](https://github.com/Madi-S/Lead-Generation/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Madi-S/Lead-Generation?style=flat-square&color=yellow)](https://github.com/Madi-S/Lead-Generation/stargazers) [![Forks](https://img.shields.io/github/forks/Madi-S/Lead-Generation?style=flat-square&color=blue)](https://github.com/Madi-S/Lead-Generation/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Extracts businesses, websites, and emails from Google Maps and Yelp, exporting data to CSV files.  https://t.co/N5qAJdANMf https://t.co/geGemg0o4A https://github.com/Madi-S/Lead-Generation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Madi-S/Lead-Generation：Madi-S/Lead-Generation may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 73/100 |
+| production | 67/100 |
+| outlook | 66/100 |
 | adoption | 51/100 |
 | categoryMatchCount | 0/100 |
 | stars | 53/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
