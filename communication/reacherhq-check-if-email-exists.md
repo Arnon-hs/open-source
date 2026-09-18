@@ -64,18 +64,18 @@ reacherhq/check-if-email-exists：reacherhq/check-if-email-exists may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 69/100 |
-| outlook | 82/100 |
-| adoption | 81/100 |
-| categoryMatchCount | 200/100 |
-| stars | 85/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| stars | 85/100 |
 | topics | 88/100 |
+| outlook | 82/100 |
+| quality | 80/100 |
+| recency | 80/100 |
+| adoption | 81/100 |
+| production | 69/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # gnekt/My-Brain-Is-Full-Crew
 
-[![Stars](https://img.shields.io/github/stars/gnekt/My-Brain-Is-Full-Crew?style=flat-square&color=yellow)](https://github.com/gnekt/My-Brain-Is-Full-Crew/stargazers) [![Forks](https://img.shields.io/github/forks/gnekt/My-Brain-Is-Full-Crew?style=flat-square&color=blue)](https://github.com/gnekt/My-Brain-Is-Full-Crew/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gnekt/My-Brain-Is-Full-Crew?style=flat-square&color=yellow)](https://github.com/gnekt/My-Brain-Is-Full-Crew/stargazers) [![Forks](https://img.shields.io/github/forks/gnekt/My-Brain-Is-Full-Crew?style=flat-square&color=blue)](https://github.com/gnekt/My-Brain-Is-Full-Crew/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Manages your Obsidian vault with a crew of 8+ AI agents and 14 skills that organize, search, and triage email.  https://t.co/zDSwo2JOpG https://t.co/4wlQw4GmC1 https://github.com/gnekt/My-Brain-Is-Full-Crew
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 350 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ gnekt/My-Brain-Is-Full-Crew：gnekt/My-Brain-Is-Full-Crew may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 72/100 |
 | categoryMatchCount | 100/100 |
 | stars | 75/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
