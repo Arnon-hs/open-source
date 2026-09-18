@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rore/agent-workflow](./rore-agent-workflow.md) | ⭐ 1 | Python | 64/100 |
+| 1 | [rore/agent-workflow](./rore-agent-workflow.md) | ⭐ 1 | Python | 61/100 |
 
 ---
 
