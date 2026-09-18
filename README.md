@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36284** |
-| **Categories** | **233** |
+| **Projects** | **36289** |
+| **Categories** | **234** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13702 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4131 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13705 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4132 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2625 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2239 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1541 | [Browse →](./devtools/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 82 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 35 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Opencode** | 2 | [Browse →](./opencode/) |
 | 🏷️ **Version-control** | 2 | [Browse →](./version-control/) |
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
@@ -108,6 +109,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Data-validation** | 1 | [Browse →](./data-validation/) |
 | 🏷️ **Coding** | 1 | [Browse →](./coding/) |
 | 🏷️ **Ai-agent-testing** | 1 | [Browse →](./ai-agent-testing/) |
 | 🏷️ **Email** | 1 | [Browse →](./email/) |
@@ -123,7 +125,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Tracking-plan** | 1 | [Browse →](./tracking-plan/) |
 | 🏷️ **Approval** | 1 | [Browse →](./approval/) |
 | 🏷️ **Eu-ai-act** | 1 | [Browse →](./eu-ai-act/) |
-| 🏷️ **Opencode** | 1 | [Browse →](./opencode/) |
 | 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
 | 🏷️ **Desktop-automation** | 1 | [Browse →](./desktop-automation/) |
 | 🏷️ **Hot-reload** | 1 | [Browse →](./hot-reload/) |
