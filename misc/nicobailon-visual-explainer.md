@@ -62,18 +62,18 @@ nicobailon/visual-explainer：nicobailon/visual-explainer may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 62/100 |
-| outlook | 64/100 |
-| adoption | 81/100 |
-| categoryMatchCount | 0/100 |
-| stars | 85/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| stars | 85/100 |
 | topics | 0/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 80/100 |
+| adoption | 81/100 |
+| production | 62/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
