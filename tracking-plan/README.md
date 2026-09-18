@@ -1,4 +1,4 @@
-# 🏷️ Hooks
+# 🏷️ Tracking-plan
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Aider-AI/aider](./aider-ai-aider.md) | ⭐ 49k | Python | 77/100 |
+| 1 | [sunnydachs/plan-drift](./sunnydachs-plan-drift.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 

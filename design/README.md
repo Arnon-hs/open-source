@@ -78,11 +78,11 @@
 | 68 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 759 | JavaScript | 55/100 |
 | 69 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 701 | Shell | 55/100 |
 | 70 | [AxonIQ/AxonFramework](./axoniq-axonframework.md) | ⭐ 3.6k | Java | 55/100 |
-| 71 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 330 | Python | 54/100 |
-| 72 | [coinbase/cds](./coinbase-cds.md) | ⭐ 488 | TypeScript | 54/100 |
-| 73 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 114 | TypeScript | 54/100 |
-| 74 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 797 | TypeScript | 54/100 |
-| 75 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 1.8k | TypeScript | 54/100 |
+| 71 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 1.8k | TypeScript | 54/100 |
+| 72 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 330 | Python | 54/100 |
+| 73 | [coinbase/cds](./coinbase-cds.md) | ⭐ 488 | TypeScript | 54/100 |
+| 74 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 114 | TypeScript | 54/100 |
+| 75 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 797 | TypeScript | 54/100 |
 | 76 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 627 | C | 53/100 |
 | 77 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 390 | HTML | 53/100 |
 | 78 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 355 | MDX | 53/100 |

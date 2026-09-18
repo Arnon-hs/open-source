@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · GitHub · Claude · token-budget · ranking · API · performance
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pyarchana/gopher: pyarchana/gopher helps connect AI assistants to real tools and
 
 ### Русский
 
-pyarchana/gopher: open-source проект в категориях MCP, GitHub, Claude, token-budget, ranking, API, performance. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pyarchana/gopher: open-source проект в категориях MCP, AI/ML, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ pyarchana/gopher：pyarchana/gopher helps connect AI assistants to real tools an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 40/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 56/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 700/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 40/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

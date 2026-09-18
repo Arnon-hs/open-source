@@ -62,18 +62,18 @@ amaancoderx/npxskillui：amaancoderx/npxskillui may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 60/100 |
-| adoption | 66/100 |
-| categoryMatchCount | 100/100 |
-| stars | 69/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| stars | 69/100 |
 | topics | 0/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
+| adoption | 66/100 |
+| production | 61/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

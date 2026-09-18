@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36191** |
+| **Projects** | **36195** |
 | **Categories** | **230** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13653 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4123 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2623 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2235 | [Browse →](./orchestration/) |
+| 📦 **Misc** | 13654 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4124 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2624 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2236 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1541 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1301 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 901 | [Browse →](./backend/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 484 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 471 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 427 | [Browse →](./templates/) |
-| 🔐 **Security** | 390 | [Browse →](./security/) |
+| 🔐 **Security** | 391 | [Browse →](./security/) |
 | 🏷️ **Communication** | 386 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 370 | [Browse →](./video-editing/) |
 | 📊 **Data** | 326 | [Browse →](./data/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 81 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 32 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 31 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Local-ai** | 2 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
@@ -101,11 +102,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
-| 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Hooks** | 1 | [Browse →](./hooks/) |
+| 🏷️ **Tracking-plan** | 1 | [Browse →](./tracking-plan/) |
 | 🏷️ **Approval** | 1 | [Browse →](./approval/) |
 | 🏷️ **Eu-ai-act** | 1 | [Browse →](./eu-ai-act/) |
 | 🏷️ **Opencode** | 1 | [Browse →](./opencode/) |
@@ -139,7 +141,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 1 | [Browse →](./agent/) |
 | 🏷️ **Free-llm** | 1 | [Browse →](./free-llm/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
-| 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Containerization** | 1 | [Browse →](./containerization/) |
 | 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |
 | 🏷️ **Ai-music-generation** | 1 | [Browse →](./ai-music-generation/) |
@@ -211,8 +212,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-governance** | 1 | [Browse →](./ai-governance/) |
 | 🏷️ **Bug-repro** | 1 | [Browse →](./bug-repro/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
-| 🏷️ **Browser** | 1 | [Browse →](./browser/) |
-| 🏷️ **Legal-tech** | 1 | [Browse →](./legal-tech/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
@@ -245,6 +244,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
+| 🏷️ **Documentation** | 1 | [Browse →](./documentation/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
 | 🏷️ **Coding-agents** | 1 | [Browse →](./coding-agents/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
