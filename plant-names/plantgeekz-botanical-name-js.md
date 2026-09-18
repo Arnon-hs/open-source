@@ -1,6 +1,6 @@
 # plantgeekz/botanical-name-js
 
-[![Stars](https://img.shields.io/github/stars/plantgeekz/botanical-name-js?style=flat-square&color=yellow)](https://github.com/plantgeekz/botanical-name-js/stargazers) [![Forks](https://img.shields.io/github/forks/plantgeekz/botanical-name-js?style=flat-square&color=blue)](https://github.com/plantgeekz/botanical-name-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plantgeekz/botanical-name-js?style=flat-square&color=yellow)](https://github.com/plantgeekz/botanical-name-js/stargazers) [![Forks](https://img.shields.io/github/forks/plantgeekz/botanical-name-js?style=flat-square&color=blue)](https://github.com/plantgeekz/botanical-name-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Parse, normalize and format botanical plant names in JavaScript/TypeScript: hybrids, ranks, authors, cultivars and correct ICN/ICNCP italics. Zero dependencies, runs in Node and the browser. By PlantGeekz.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ plantgeekz/botanical-name-js：plantgeekz/botanical-name-js may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

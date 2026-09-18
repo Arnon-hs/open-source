@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [plantgeekz/botanical-name-js](./plantgeekz-botanical-name-js.md) | ⭐ — | TypeScript | 47/100 |
+| 1 | [plantgeekz/botanical-name-js](./plantgeekz-botanical-name-js.md) | ⭐ — | TypeScript | 44/100 |
 | 2 | [plantgeekz/botanical-name-php](./plantgeekz-botanical-name-php.md) | ⭐ — | PHP | 41/100 |
 
 ---
