@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sealkit-org/pdfseal](./sealkit-org-pdfseal.md) | ⭐ 1 | Vue | 44/100 |
+| 1 | [sealkit-org/pdfseal](./sealkit-org-pdfseal.md) | ⭐ 1 | Vue | 41/100 |
 
 ---
 
