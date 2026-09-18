@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36197** |
-| **Categories** | **231** |
+| **Projects** | **36204** |
+| **Categories** | **235** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13655 | [Browse →](./misc/) |
+| 📦 **Misc** | 13656 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4124 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2624 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2236 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 901 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 860 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 627 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 628 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 611 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 576 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 566 | [Browse →](./mobile/) |
@@ -63,12 +63,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
+| 🏷️ **Local-llm** | 4 | [Browse →](./local-llm/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Autonomous-agent** | 4 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
-| 🏷️ **Local-llm** | 3 | [Browse →](./local-llm/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
@@ -106,6 +106,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Dns** | 1 | [Browse →](./dns/) |
+| 🏷️ **Codingagents** | 1 | [Browse →](./codingagents/) |
+| 🏷️ **Project-management** | 1 | [Browse →](./project-management/) |
+| 🏷️ **Nextjs** | 1 | [Browse →](./nextjs/) |
 | 🏷️ **Robotics** | 1 | [Browse →](./robotics/) |
 | 🏷️ **Hooks** | 1 | [Browse →](./hooks/) |
 | 🏷️ **Tracking-plan** | 1 | [Browse →](./tracking-plan/) |

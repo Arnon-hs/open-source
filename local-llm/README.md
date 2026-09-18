@@ -2,7 +2,7 @@
 
 > 
 
-**3 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
@@ -10,7 +10,8 @@
 |---|---|---|---|---|
 | 1 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 44/100 |
 | 2 | [google/ai-demos](./google-ai-demos.md) | ⭐ — | — | 27/100 |
-| 3 | [vittoriozz/litellm](./vittoriozz-litellm.md) | ⭐ — | — | 24/100 |
+| 3 | [peakaistack/lm](./peakaistack-lm.md) | ⭐ — | — | 24/100 |
+| 4 | [vittoriozz/litellm](./vittoriozz-litellm.md) | ⭐ — | — | 24/100 |
 
 ---
 

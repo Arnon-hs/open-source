@@ -1,4 +1,4 @@
-# 🏷️ Nextjs
+# 🏷️ Project-management
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wide-trace/open-higgsfield](./wide-trace-open-higgsfield.md) | ⭐ 2.4k | TypeScript | 58/100 |
+| 1 | [Wujerry/RepoAtlas](./wujerry-repoatlas.md) | ⭐ 1 | Rust | 40/100 |
 
 ---
 

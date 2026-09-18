@@ -1,4 +1,4 @@
-# 🏷️ Nextjs
+# 🏷️ Codingagents
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wide-trace/open-higgsfield](./wide-trace-open-higgsfield.md) | ⭐ 2.4k | TypeScript | 58/100 |
+| 1 | [Brasth/Rig](./brasth-rig.md) | ⭐ 2 | Python | 70/100 |
 
 ---
 

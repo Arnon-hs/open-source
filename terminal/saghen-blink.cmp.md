@@ -1,6 +1,6 @@
 # saghen/blink.cmp
 
-[![Stars](https://img.shields.io/github/stars/saghen/blink.cmp?style=flat-square&color=yellow)](https://github.com/saghen/blink.cmp/stargazers) [![Forks](https://img.shields.io/github/forks/saghen/blink.cmp?style=flat-square&color=blue)](https://github.com/saghen/blink.cmp/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saghen/blink.cmp?style=flat-square&color=yellow)](https://github.com/saghen/blink.cmp/stargazers) [![Forks](https://img.shields.io/github/forks/saghen/blink.cmp?style=flat-square&color=blue)](https://github.com/saghen/blink.cmp/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Performant, batteries-included completion plugin for Neovim
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ saghen/blink.cmp：saghen/blink.cmp may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 800/100 |
 | stars | 81/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 

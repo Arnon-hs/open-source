@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [0x00-0x00/blocky](./0x00-0x00-blocky.md) | ⭐ — | — | 24/100 |
+| 1 | [example/zoneguard](./example-zoneguard.md) | ⭐ — | — | 24/100 |
 
 ---
 
