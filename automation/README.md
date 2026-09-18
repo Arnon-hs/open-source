@@ -556,8 +556,8 @@
 | 546 | [gradle/gradle](./gradle-gradle.md) | ⭐ 18.5k | Groovy | 66/100 |
 | 547 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
 | 548 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 65/100 |
-| 549 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
-| 550 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 549 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 550 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
 | 551 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 552 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 553 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -1208,8 +1208,8 @@
 | 1198 | [AlejandroSilvaMendez/fail-closed-python-assessment](./alejandrosilvamendez-fail-closed-python-assessment.md) | ⭐ — | Python | 43/100 |
 | 1199 | [truongsontung/pr-monitor](./truongsontung-pr-monitor.md) | ⭐ — | Python | 43/100 |
 | 1200 | [aws/n8n-nodes-agentcore](./aws-n8n-nodes-agentcore.md) | ⭐ 15 | TypeScript | 43/100 |
-| 1201 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
-| 1202 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
+| 1201 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
+| 1202 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
 | 1203 | [etkecc/baibot](./etkecc-baibot.md) | ⭐ 222 | Rust | 43/100 |
 | 1204 | [hamsavartn/raptor](./hamsavartn-raptor.md) | ⭐ — | Go | 42/100 |
 | 1205 | [AttemorySystem/spire-agent](./attemorysystem-spire-agent.md) | ⭐ — | — | 42/100 |
@@ -1280,8 +1280,8 @@
 | 1270 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ — | — | 38/100 |
 | 1271 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ — | — | 38/100 |
 | 1272 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
-| 1273 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
-| 1274 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1273 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1274 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
 | 1275 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 38/100 |
 | 1276 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 38/100 |
 | 1277 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 38/100 |
@@ -1305,8 +1305,8 @@
 | 1295 | [XENOCOREGIGER31/local-model](./xenocoregiger31-local-model.md) | ⭐ — | — | 33/100 |
 | 1296 | [stepanogil/autonomous-hr-chatbot](./stepanogil-autonomous-hr-chatbot.md) | ⭐ — | — | 32/100 |
 | 1297 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
-| 1298 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1299 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1298 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1299 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 | 1300 | [openai/agents](./openai-agents.md) | ⭐ — | — | 28/100 |
 | 1301 | [indutny/tldts](./indutny-tldts.md) | ⭐ — | — | 24/100 |
 | 1302 | [Raknaos/lightpanda](./raknaos-lightpanda.md) | ⭐ — | — | 24/100 |
