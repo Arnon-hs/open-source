@@ -1,6 +1,6 @@
 # xArm-Developer/xArm-Python-SDK
 
-[![Stars](https://img.shields.io/github/stars/xArm-Developer/xArm-Python-SDK?style=flat-square&color=yellow)](https://github.com/xArm-Developer/xArm-Python-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/xArm-Developer/xArm-Python-SDK?style=flat-square&color=blue)](https://github.com/xArm-Developer/xArm-Python-SDK/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xArm-Developer/xArm-Python-SDK?style=flat-square&color=yellow)](https://github.com/xArm-Developer/xArm-Python-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/xArm-Developer/xArm-Python-SDK?style=flat-square&color=blue)](https://github.com/xArm-Developer/xArm-Python-SDK/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK for UFACTORY robots, 850, xArm5/6/7, and Lite6.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ xArm-Developer/xArm-Python-SDK：xArm-Developer/xArm-Python-SDK may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 54/100 |
 | categoryMatchCount | 700/100 |
 | stars | 53/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 
