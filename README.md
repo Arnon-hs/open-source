@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36232** |
-| **Categories** | **236** |
+| **Projects** | **36239** |
+| **Categories** | **232** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,18 +23,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13671 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4126 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13675 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4129 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2624 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2237 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2238 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1541 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1301 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 901 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 860 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 766 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 767 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 628 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 612 | [Browse →](./networking/) |
-| 🏷️ **Knowledgerag** | 577 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 578 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 566 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 561 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 484 | [Browse →](./database/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 81 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 35 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
@@ -103,11 +104,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
-| 🏷️ **Agent-first** | 2 | [Browse →](./agent-first/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Email** | 1 | [Browse →](./email/) |
 | 🏷️ **Logging** | 1 | [Browse →](./logging/) |
 | 🏷️ **Filesystem** | 1 | [Browse →](./filesystem/) |
 | 🏷️ **Web-push** | 1 | [Browse →](./web-push/) |
@@ -159,7 +160,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Cli** | 1 | [Browse →](./cli/) |
 | 🏷️ **Agent-protocols** | 1 | [Browse →](./agent-protocols/) |
-| 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Agent-scan** | 1 | [Browse →](./agent-scan/) |
 | 🏷️ **Self-host** | 1 | [Browse →](./self-host/) |
 | 🏷️ **Candlestick** | 1 | [Browse →](./candlestick/) |
@@ -212,10 +212,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
 | 🏷️ **Ifttt** | 1 | [Browse →](./ifttt/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
-| 🏷️ **Vector-search** | 1 | [Browse →](./vector-search/) |
-| 🏷️ **Reactive-agents** | 1 | [Browse →](./reactive-agents/) |
-| 🏷️ **Self-hosted-analytics** | 1 | [Browse →](./self-hosted-analytics/) |
-| 🏷️ **Remote-support** | 1 | [Browse →](./remote-support/) |
 | 🏷️ **Igaming** | 1 | [Browse →](./igaming/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
