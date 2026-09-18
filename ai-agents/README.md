@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [AncientiCe/palace-rs](./ancientice-palace-rs.md) | ⭐ 5 | Rust | 56/100 |
-| 2 | [Brodin2001/Agentguard](./brodin2001-agentguard.md) | ⭐ — | Python | 50/100 |
+| 2 | [Brodin2001/Agentguard](./brodin2001-agentguard.md) | ⭐ — | Python | 47/100 |
 | 3 | [eminsk/agentjit](./eminsk-agentjit.md) | ⭐ — | Python | 43/100 |
 | 4 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
 | 5 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 38/100 |
