@@ -65,18 +65,18 @@ makalin/KeyForge3D：makalin/KeyForge3D helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 65/100 |
-| outlook | 67/100 |
-| adoption | 55/100 |
-| categoryMatchCount | 200/100 |
-| stars | 59/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
+| adoption | 55/100 |
+| production | 65/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
