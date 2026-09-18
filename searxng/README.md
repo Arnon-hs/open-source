@@ -1,4 +1,4 @@
-# 🏷️ Windows
+# 🏷️ Searxng
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jaksdhflkjahsdfkjahsdfkjh/SherpaManager](./jaksdhflkjahsdfkjahsdfkjh-sherpamanager.md) | ⭐ — | C# | 33/100 |
+| 1 | [Ghilteras/searxng-gateway](./ghilteras-searxng-gateway.md) | ⭐ 7 | Go | 66/100 |
 
 ---
 
