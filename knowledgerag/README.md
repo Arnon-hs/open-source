@@ -2,7 +2,7 @@
 
 > 
 
-**576 projects** in this category.
+**577 projects** in this category.
 
 ## Projects
 
@@ -304,8 +304,8 @@
 | 294 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 61/100 |
 | 295 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 61/100 |
 | 296 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 61/100 |
-| 297 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 61/100 |
-| 298 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 61/100 |
+| 297 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 61/100 |
+| 298 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 61/100 |
 | 299 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 61/100 |
 | 300 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 61/100 |
 | 301 | [lux-db/lux](./lux-db-lux.md) | ⭐ 270 | Rust | 61/100 |
@@ -422,8 +422,8 @@
 | 412 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5k | Java | 56/100 |
 | 413 | [sysid/bkmr](./sysid-bkmr.md) | ⭐ 251 | Rust | 56/100 |
 | 414 | [jeffreylanters/react-unity-webgl](./jeffreylanters-react-unity-webgl.md) | ⭐ 1.9k | TypeScript | 56/100 |
-| 415 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
-| 416 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
+| 415 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
+| 416 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
 | 417 | [aws-samples/generative-ai-use-cases](./aws-samples-generative-ai-use-cases.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 418 | [tetherto/qvac](./tetherto-qvac.md) | ⭐ 163 | JavaScript | 56/100 |
 | 419 | [neo4j/neo4j-graphrag-python](./neo4j-neo4j-graphrag-python.md) | ⭐ 1.2k | Python | 56/100 |
@@ -525,8 +525,8 @@
 | 515 | [Ajay6601/embedcache](./ajay6601-embedcache.md) | ⭐ — | — | 45/100 |
 | 516 | [intel/ScalableVectorSearch](./intel-scalablevectorsearch.md) | ⭐ 223 | C++ | 44/100 |
 | 517 | [GiulioDER/RE-call](./giulioder-re-call.md) | ⭐ — | — | 43/100 |
-| 518 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
-| 519 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 518 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 519 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
 | 520 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
 | 521 | [oak-invest/kiso](./oak-invest-kiso.md) | ⭐ — | — | 42/100 |
 | 522 | [seanhelvey/rag-in-context](./seanhelvey-rag-in-context.md) | ⭐ — | — | 42/100 |
@@ -555,35 +555,36 @@
 | 545 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 42/100 |
 | 546 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 42/100 |
 | 547 | [frank890417/taiwan-md](./frank890417-taiwan-md.md) | ⭐ 974 | HTML | 42/100 |
-| 548 | [arnsri33/embedflow](./arnsri33-embedflow.md) | ⭐ — | — | 41/100 |
-| 549 | [ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution](./chantalmp-exploiting-food-embeddings-for-ingredient-substitution.md) | ⭐ — | — | 41/100 |
-| 550 | [rostamlabs/rembed](./rostamlabs-rembed.md) | ⭐ — | — | 41/100 |
-| 551 | [datasocietyco/bge-base-en-v1.5-course-recommender-v5](./datasocietyco-bge-base-en-v1.5-course-recommender-v5.md) | ⭐ 1 | sentence-transformers | 39/100 |
-| 552 | [romboai/rose-1h-nmr](./romboai-rose-1h-nmr.md) | ⭐ — | — | 38/100 |
-| 553 | [cuemap-dev/cuemap](./cuemap-dev-cuemap.md) | ⭐ — | — | 38/100 |
-| 554 | [impel-intelligence/Minna](./impel-intelligence-minna.md) | ⭐ — | — | 38/100 |
-| 555 | [pollockchris083-arch/counterentry](./pollockchris083-arch-counterentry.md) | ⭐ — | — | 38/100 |
-| 556 | [punnerud/Local_Knowledge_Graph](./punnerud-local-knowledge-graph.md) | ⭐ — | — | 38/100 |
-| 557 | [asanabrial/leteo](./asanabrial-leteo.md) | ⭐ — | — | 38/100 |
-| 558 | [cloudkj/lance-bundle](./cloudkj-lance-bundle.md) | ⭐ — | — | 38/100 |
-| 559 | [mo-root/open-kb](./mo-root-open-kb.md) | ⭐ — | — | 38/100 |
-| 560 | [sverp/gram](./sverp-gram.md) | ⭐ — | — | 38/100 |
-| 561 | [skorotkiewicz/zero-mem](./skorotkiewicz-zero-mem.md) | ⭐ — | — | 38/100 |
-| 562 | [netrixone/llmem](./netrixone-llmem.md) | ⭐ — | — | 38/100 |
-| 563 | [yikerman/semantic-search](./yikerman-semantic-search.md) | ⭐ — | — | 38/100 |
-| 564 | [Kaj2T/SmartGif](./kaj2t-smartgif.md) | ⭐ — | — | 38/100 |
-| 565 | [el10savio/hnTrends](./el10savio-hntrends.md) | ⭐ — | — | 38/100 |
-| 566 | [Faizan711/multimodal-search](./faizan711-multimodal-search.md) | ⭐ — | — | 38/100 |
-| 567 | [Hebbian-Robotics/siglip-onnx-server](./hebbian-robotics-siglip-onnx-server.md) | ⭐ — | — | 38/100 |
-| 568 | [RajX-dev/N3MO](./rajx-dev-n3mo.md) | ⭐ — | — | 38/100 |
-| 569 | [linuxrebel/DocuBrowser](./linuxrebel-docubrowser.md) | ⭐ — | — | 38/100 |
-| 570 | [adelinamart/robrain](./adelinamart-robrain.md) | ⭐ — | — | 38/100 |
-| 571 | [williamliu-ai/fidx](./williamliu-ai-fidx.md) | ⭐ — | — | 38/100 |
-| 572 | [Gabriele06-local/LocalMind](./gabriele06-local-localmind.md) | ⭐ — | — | 38/100 |
-| 573 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 38/100 |
-| 574 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 38/100 |
-| 575 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 38/100 |
-| 576 | [dbyter/sphere-embed](./dbyter-sphere-embed.md) | ⭐ — | — | 28/100 |
+| 548 | [basedpolymer/fouine](./basedpolymer-fouine.md) | ⭐ — | — | 41/100 |
+| 549 | [arnsri33/embedflow](./arnsri33-embedflow.md) | ⭐ — | — | 41/100 |
+| 550 | [ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution](./chantalmp-exploiting-food-embeddings-for-ingredient-substitution.md) | ⭐ — | — | 41/100 |
+| 551 | [rostamlabs/rembed](./rostamlabs-rembed.md) | ⭐ — | — | 41/100 |
+| 552 | [datasocietyco/bge-base-en-v1.5-course-recommender-v5](./datasocietyco-bge-base-en-v1.5-course-recommender-v5.md) | ⭐ 1 | sentence-transformers | 39/100 |
+| 553 | [romboai/rose-1h-nmr](./romboai-rose-1h-nmr.md) | ⭐ — | — | 38/100 |
+| 554 | [cuemap-dev/cuemap](./cuemap-dev-cuemap.md) | ⭐ — | — | 38/100 |
+| 555 | [impel-intelligence/Minna](./impel-intelligence-minna.md) | ⭐ — | — | 38/100 |
+| 556 | [pollockchris083-arch/counterentry](./pollockchris083-arch-counterentry.md) | ⭐ — | — | 38/100 |
+| 557 | [punnerud/Local_Knowledge_Graph](./punnerud-local-knowledge-graph.md) | ⭐ — | — | 38/100 |
+| 558 | [asanabrial/leteo](./asanabrial-leteo.md) | ⭐ — | — | 38/100 |
+| 559 | [cloudkj/lance-bundle](./cloudkj-lance-bundle.md) | ⭐ — | — | 38/100 |
+| 560 | [mo-root/open-kb](./mo-root-open-kb.md) | ⭐ — | — | 38/100 |
+| 561 | [sverp/gram](./sverp-gram.md) | ⭐ — | — | 38/100 |
+| 562 | [skorotkiewicz/zero-mem](./skorotkiewicz-zero-mem.md) | ⭐ — | — | 38/100 |
+| 563 | [netrixone/llmem](./netrixone-llmem.md) | ⭐ — | — | 38/100 |
+| 564 | [yikerman/semantic-search](./yikerman-semantic-search.md) | ⭐ — | — | 38/100 |
+| 565 | [Kaj2T/SmartGif](./kaj2t-smartgif.md) | ⭐ — | — | 38/100 |
+| 566 | [el10savio/hnTrends](./el10savio-hntrends.md) | ⭐ — | — | 38/100 |
+| 567 | [Faizan711/multimodal-search](./faizan711-multimodal-search.md) | ⭐ — | — | 38/100 |
+| 568 | [Hebbian-Robotics/siglip-onnx-server](./hebbian-robotics-siglip-onnx-server.md) | ⭐ — | — | 38/100 |
+| 569 | [RajX-dev/N3MO](./rajx-dev-n3mo.md) | ⭐ — | — | 38/100 |
+| 570 | [linuxrebel/DocuBrowser](./linuxrebel-docubrowser.md) | ⭐ — | — | 38/100 |
+| 571 | [adelinamart/robrain](./adelinamart-robrain.md) | ⭐ — | — | 38/100 |
+| 572 | [williamliu-ai/fidx](./williamliu-ai-fidx.md) | ⭐ — | — | 38/100 |
+| 573 | [Gabriele06-local/LocalMind](./gabriele06-local-localmind.md) | ⭐ — | — | 38/100 |
+| 574 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 38/100 |
+| 575 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 38/100 |
+| 576 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 38/100 |
+| 577 | [dbyter/sphere-embed](./dbyter-sphere-embed.md) | ⭐ — | — | 28/100 |
 
 ---
 

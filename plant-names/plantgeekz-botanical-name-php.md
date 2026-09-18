@@ -1,6 +1,6 @@
 # plantgeekz/botanical-name-php
 
-[![Stars](https://img.shields.io/github/stars/plantgeekz/botanical-name-php?style=flat-square&color=yellow)](https://github.com/plantgeekz/botanical-name-php/stargazers) [![Forks](https://img.shields.io/github/forks/plantgeekz/botanical-name-php?style=flat-square&color=blue)](https://github.com/plantgeekz/botanical-name-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plantgeekz/botanical-name-php?style=flat-square&color=yellow)](https://github.com/plantgeekz/botanical-name-php/stargazers) [![Forks](https://img.shields.io/github/forks/plantgeekz/botanical-name-php?style=flat-square&color=blue)](https://github.com/plantgeekz/botanical-name-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Parse, normalize and format botanical plant names in PHP: hybrids, ranks, authors, cultivars and correct ICN/ICNCP italics. Zero dependencies. By PlantGeekz.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ plantgeekz/botanical-name-php：plantgeekz/botanical-name-php may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
