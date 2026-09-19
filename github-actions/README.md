@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Turya-Kalburgi/api-drift-sentinel](./turya-kalburgi-api-drift-sentinel.md) | ⭐ — | TypeScript | 49/100 |
+| 1 | [Turya-Kalburgi/api-drift-sentinel](./turya-kalburgi-api-drift-sentinel.md) | ⭐ — | TypeScript | 46/100 |
 
 ---
 
