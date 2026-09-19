@@ -1,6 +1,6 @@
 # shubhamkumbhalkar/lever-auto-apply
 
-[![Stars](https://img.shields.io/github/stars/shubhamkumbhalkar/lever-auto-apply?style=flat-square&color=yellow)](https://github.com/shubhamkumbhalkar/lever-auto-apply/stargazers) [![Forks](https://img.shields.io/github/forks/shubhamkumbhalkar/lever-auto-apply?style=flat-square&color=blue)](https://github.com/shubhamkumbhalkar/lever-auto-apply/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shubhamkumbhalkar/lever-auto-apply?style=flat-square&color=yellow)](https://github.com/shubhamkumbhalkar/lever-auto-apply/stargazers) [![Forks](https://img.shields.io/github/forks/shubhamkumbhalkar/lever-auto-apply?style=flat-square&color=blue)](https://github.com/shubhamkumbhalkar/lever-auto-apply/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-apply to Lever job boards with Claude ATS scoring and hybrid CAPTCHA workflow
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ shubhamkumbhalkar/lever-auto-apply：shubhamkumbhalkar/lever-auto-apply may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 600/100 |
 | stars | 15/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
