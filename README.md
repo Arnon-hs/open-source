@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36324** |
-| **Categories** | **237** |
+| **Projects** | **36327** |
+| **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 83 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Resume** | 2 | [Browse →](./resume/) |
 | 🏷️ **Opencode** | 2 | [Browse →](./opencode/) |
@@ -109,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Engineering-metrics** | 1 | [Browse →](./engineering-metrics/) |
 | 🏷️ **Openapi** | 1 | [Browse →](./openapi/) |
 | 🏷️ **Preflight** | 1 | [Browse →](./preflight/) |
 | 🏷️ **Microgreens** | 1 | [Browse →](./microgreens/) |
@@ -158,7 +160,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Linux** | 1 | [Browse →](./linux/) |
 | 🏷️ **Agentic-development** | 1 | [Browse →](./agentic-development/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
-| 🏷️ **Agent** | 1 | [Browse →](./agent/) |
 | 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Free-llm** | 1 | [Browse →](./free-llm/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
