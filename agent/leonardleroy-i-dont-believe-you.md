@@ -1,6 +1,6 @@
 # LeonardLeroy/i-dont-believe-you
 
-[![Stars](https://img.shields.io/github/stars/LeonardLeroy/i-dont-believe-you?style=flat-square&color=yellow)](https://github.com/LeonardLeroy/i-dont-believe-you/stargazers) [![Forks](https://img.shields.io/github/forks/LeonardLeroy/i-dont-believe-you?style=flat-square&color=blue)](https://github.com/LeonardLeroy/i-dont-believe-you/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LeonardLeroy/i-dont-believe-you?style=flat-square&color=yellow)](https://github.com/LeonardLeroy/i-dont-believe-you/stargazers) [![Forks](https://img.shields.io/github/forks/LeonardLeroy/i-dont-believe-you?style=flat-square&color=blue)](https://github.com/LeonardLeroy/i-dont-believe-you/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A skill to stop your coding agent from telling you it works when the diff says otherwise.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ LeonardLeroy/i-dont-believe-you：LeonardLeroy/i-dont-believe-you may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
