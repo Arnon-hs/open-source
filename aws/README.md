@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [elizabethfuentes12/agent-semantic-cache-sample-for-aws](./elizabethfuentes12-agent-semantic-cache-sample-for-aws.md) | ⭐ 1 | Python | 52/100 |
+| 1 | [elizabethfuentes12/agent-semantic-cache-sample-for-aws](./elizabethfuentes12-agent-semantic-cache-sample-for-aws.md) | ⭐ 1 | Python | 49/100 |
 | 2 | [aws/bedrock-agentcore](./aws-bedrock-agentcore.md) | ⭐ — | — | 28/100 |
 | 3 | [jhkchan/owasp-ast10-agent-skills](./jhkchan-owasp-ast10-agent-skills.md) | ⭐ — | — | 28/100 |
 | 4 | [clemson/crewAI](./clemson-crewai.md) | ⭐ — | — | 24/100 |

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36309** |
+| **Projects** | **36312** |
 | **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13716 | [Browse →](./misc/) |
+| 📦 **Misc** | 13719 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4134 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2625 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2239 | [Browse →](./orchestration/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 193 | [Browse →](./trading/) |
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 82 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 83 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 34 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
@@ -103,12 +103,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Excel** | 2 | [Browse →](./excel/) |
 | 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
-| 🏷️ **Offline-translation** | 2 | [Browse →](./offline-translation/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Preflight** | 1 | [Browse →](./preflight/) |
 | 🏷️ **Microgreens** | 1 | [Browse →](./microgreens/) |
 | 🏷️ **Sanity** | 1 | [Browse →](./sanity/) |
 | 🏷️ **Remote-development** | 1 | [Browse →](./remote-development/) |
