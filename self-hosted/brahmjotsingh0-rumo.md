@@ -1,6 +1,6 @@
 # BrahmjotSingh0/rumo
 
-[![Stars](https://img.shields.io/github/stars/BrahmjotSingh0/rumo?style=flat-square&color=yellow)](https://github.com/BrahmjotSingh0/rumo/stargazers) [![Forks](https://img.shields.io/github/forks/BrahmjotSingh0/rumo?style=flat-square&color=blue)](https://github.com/BrahmjotSingh0/rumo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BrahmjotSingh0/rumo?style=flat-square&color=yellow)](https://github.com/BrahmjotSingh0/rumo/stargazers) [![Forks](https://img.shields.io/github/forks/BrahmjotSingh0/rumo?style=flat-square&color=blue)](https://github.com/BrahmjotSingh0/rumo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, guest-based video meeting app (WebRTC + Socket.IO + React + Postgres)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ self-hosted · video-conferencing · WebRTC · Docker · Node.js · Open-source
 
 ### English
 
-BrahmjotSingh0/rumo: BrahmjotSingh0/rumo may be useful when its README and activity match a concrete workflow.. Use it for self-hosted, video-conferencing, WebRTC, Docker, Node.js, Open-source. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BrahmjotSingh0/rumo: BrahmjotSingh0/rumo may be useful when its README and activity match a concrete workflow.. Use it for self-hosted, video-conferencing, WebRTC, Docker, Node.js, Open-source. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-BrahmjotSingh0/rumo: open-source проект в категориях self-hosted, video-conferencing, WebRTC, Docker, Node.js, Open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+BrahmjotSingh0/rumo: open-source проект в категориях self-hosted, video-conferencing, WebRTC, Docker, Node.js, Open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-BrahmjotSingh0/rumo：BrahmjotSingh0/rumo may be useful when its README and activity match a concrete workflow.。适合用于self-hosted、video-conferencing、WebRTC、Docker、Node.js、Open-source。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BrahmjotSingh0/rumo：BrahmjotSingh0/rumo may be useful when its README and activity match a concrete workflow.。适合用于self-hosted、video-conferencing、WebRTC、Docker、Node.js、Open-source。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ BrahmjotSingh0/rumo：BrahmjotSingh0/rumo may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ BrahmjotSingh0/rumo：BrahmjotSingh0/rumo may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

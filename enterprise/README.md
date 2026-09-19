@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ShipFast-Syndicate/enterprise](./shipfast-syndicate-enterprise.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [ShipFast-Syndicate/enterprise](./shipfast-syndicate-enterprise.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 
