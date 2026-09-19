@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36329** |
-| **Categories** | **238** |
+| **Projects** | **36331** |
+| **Categories** | **239** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13726 | [Browse →](./misc/) |
+| 📦 **Misc** | 13727 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4136 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2626 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2239 | [Browse →](./orchestration/) |
@@ -109,6 +109,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Roslyn** | 1 | [Browse →](./roslyn/) |
 | 🏷️ **Engineering-metrics** | 1 | [Browse →](./engineering-metrics/) |
 | 🏷️ **Openapi** | 1 | [Browse →](./openapi/) |
 | 🏷️ **Preflight** | 1 | [Browse →](./preflight/) |

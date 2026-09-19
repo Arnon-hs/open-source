@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gocolly/colly](./gocolly-colly.md) | ⭐ 25.5k | Go | 80/100 |
+| 1 | [gocolly/colly](./gocolly-colly.md) | ⭐ 25.5k | Go | 76/100 |
 | 2 | [Michael-Obele/tomoshibi](./michael-obele-tomoshibi.md) | ⭐ 4 | Go | 75/100 |
 | 3 | [chromedp/chromedp](./chromedp-chromedp.md) | ⭐ 13.3k | Go | 67/100 |
 | 4 | [reduxjs/redux-devtools](./reduxjs-redux-devtools.md) | ⭐ 14.4k | TypeScript | 66/100 |
