@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vivantel/kms](./vivantel-kms.md) | ⭐ 3 | Shell | 55/100 |
-| 2 | [vivantel/virage](./vivantel-virage.md) | ⭐ 2 | TypeScript | 45/100 |
+| 1 | [zaydmulani09/jevgrep](./zaydmulani09-jevgrep.md) | ⭐ — | Python | 42/100 |
 
 ---
 

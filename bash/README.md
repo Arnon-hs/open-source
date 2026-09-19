@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ruraam/debup](./ruraam-debup.md) | ⭐ 2 | Shell | 61/100 |
+| 1 | [Ruraam/debup](./ruraam-debup.md) | ⭐ 2 | Shell | 58/100 |
 
 ---
 

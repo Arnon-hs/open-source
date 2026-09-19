@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36353** |
+| **Projects** | **36357** |
 | **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13739 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4136 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2629 | [Browse →](./mcp/) |
+| 📦 **Misc** | 13742 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4137 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2630 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2240 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1541 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1303 | [Browse →](./automation/) |
@@ -53,11 +53,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 83 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 32 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Llm** | 9 | [Browse →](./llm/) |
-| 🏷️ **Ai-agents** | 8 | [Browse →](./ai-agents/) |
+| 🏷️ **Llm** | 10 | [Browse →](./llm/) |
+| 🏷️ **Ai-agents** | 7 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
@@ -112,6 +112,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Semantic-search** | 1 | [Browse →](./semantic-search/) |
+| 🏷️ **Codex** | 1 | [Browse →](./codex/) |
 | 🏷️ **Ssh** | 1 | [Browse →](./ssh/) |
 | 🏷️ **Roslyn** | 1 | [Browse →](./roslyn/) |
 | 🏷️ **Engineering-metrics** | 1 | [Browse →](./engineering-metrics/) |
@@ -211,8 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Document-automation** | 1 | [Browse →](./document-automation/) |
 | 🏷️ **Cro** | 1 | [Browse →](./cro/) |
 | 🏷️ **Seed4j** | 1 | [Browse →](./seed4j/) |
-| 🏷️ **Localization** | 1 | [Browse →](./localization/) |
-| 🏷️ **Data-integrity** | 1 | [Browse →](./data-integrity/) |
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
