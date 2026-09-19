@@ -1,6 +1,6 @@
 # redfireforge/redfireforge-public
 
-[![Stars](https://img.shields.io/github/stars/redfireforge/redfireforge-public?style=flat-square&color=yellow)](https://github.com/redfireforge/redfireforge-public/stargazers) [![Forks](https://img.shields.io/github/forks/redfireforge/redfireforge-public?style=flat-square&color=blue)](https://github.com/redfireforge/redfireforge-public/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redfireforge/redfireforge-public?style=flat-square&color=yellow)](https://github.com/redfireforge/redfireforge-public/stargazers) [![Forks](https://img.shields.io/github/forks/redfireforge/redfireforge-public?style=flat-square&color=blue)](https://github.com/redfireforge/redfireforge-public/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Visual API testing & load-testing workbench for HTTP, GraphQL, gRPC, WebSocket, SSE, and Kafka — with a workflow designer, API mock server, and CI-ready CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ redfireforge/redfireforge-public：redfireforge/redfireforge-public may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 63/100 |
+| outlook | 68/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

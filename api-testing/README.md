@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [redfireforge/redfireforge-public](./redfireforge-redfireforge-public.md) | ⭐ 3 | TypeScript | 72/100 |
+| 1 | [redfireforge/redfireforge-public](./redfireforge-redfireforge-public.md) | ⭐ 3 | TypeScript | 69/100 |
 | 2 | [budment/budment](./budment-budment.md) | ⭐ 2 | Go | 52/100 |
 
 ---
