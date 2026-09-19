@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36373** |
-| **Categories** | **238** |
+| **Projects** | **36376** |
+| **Categories** | **237** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 13748 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4140 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2630 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2632 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2240 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1542 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1304 | [Browse →](./automation/) |
@@ -47,7 +47,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 💳 **Payments** | 318 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 316 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 303 | [Browse →](./productivity/) |
-| 🏷️ **Observability** | 273 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 274 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 242 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 193 | [Browse →](./trading/) |
 | ✨ **Design** | 154 | [Browse →](./design/) |
@@ -81,6 +81,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Svg** | 2 | [Browse →](./svg/) |
 | 🏷️ **Agents** | 2 | [Browse →](./agents/) |
 | 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
@@ -212,7 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-rag** | 1 | [Browse →](./local-rag/) |
 | 🏷️ **Multi-language** | 1 | [Browse →](./multi-language/) |
 | 🏷️ **Proactive-ai** | 1 | [Browse →](./proactive-ai/) |
-| 🏷️ **Economic-data** | 1 | [Browse →](./economic-data/) |
 | 🏷️ **Skill-evolution** | 1 | [Browse →](./skill-evolution/) |
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
@@ -253,7 +253,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
-| 🏷️ **Documentation** | 1 | [Browse →](./documentation/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
 | 🏷️ **Coding-agents** | 1 | [Browse →](./coding-agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
