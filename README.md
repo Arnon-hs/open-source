@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36345** |
-| **Categories** | **237** |
+| **Projects** | **36353** |
+| **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13736 | [Browse →](./misc/) |
+| 📦 **Misc** | 13739 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4136 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2629 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2240 | [Browse →](./orchestration/) |
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
+| 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Local-llm** | 4 | [Browse →](./local-llm/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
@@ -79,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Sanity** | 2 | [Browse →](./sanity/) |
 | 🏷️ **Openapi** | 2 | [Browse →](./openapi/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
@@ -115,7 +117,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Engineering-metrics** | 1 | [Browse →](./engineering-metrics/) |
 | 🏷️ **Preflight** | 1 | [Browse →](./preflight/) |
 | 🏷️ **Microgreens** | 1 | [Browse →](./microgreens/) |
-| 🏷️ **Sanity** | 1 | [Browse →](./sanity/) |
 | 🏷️ **Remote-development** | 1 | [Browse →](./remote-development/) |
 | 🏷️ **Searxng** | 1 | [Browse →](./searxng/) |
 | 🏷️ **Data-validation** | 1 | [Browse →](./data-validation/) |

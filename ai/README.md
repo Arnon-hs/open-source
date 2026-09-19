@@ -23,9 +23,9 @@
 | 13 | [voyagi/plainletter](./voyagi-plainletter.md) | ⭐ — | Python | 47/100 |
 | 14 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
 | 15 | [iwadjp/timewitness](./iwadjp-timewitness.md) | ⭐ — | JavaScript | 42/100 |
-| 16 | [lizhuojunx86/tg-attest](./lizhuojunx86-tg-attest.md) | ⭐ — | Python | 42/100 |
-| 17 | [KiitaInternet/kevlar](./kiitainternet-kevlar.md) | ⭐ 3 | HTML | 42/100 |
-| 18 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
+| 16 | [KiitaInternet/kevlar](./kiitainternet-kevlar.md) | ⭐ 3 | HTML | 42/100 |
+| 17 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
+| 18 | [lizhuojunx86/tg-attest](./lizhuojunx86-tg-attest.md) | ⭐ — | Python | 39/100 |
 | 19 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
 | 20 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 33/100 |
 | 21 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
