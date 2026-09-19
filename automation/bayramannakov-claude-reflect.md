@@ -1,6 +1,6 @@
 # BayramAnnakov/claude-reflect
 
-[![Stars](https://img.shields.io/github/stars/BayramAnnakov/claude-reflect?style=flat-square&color=yellow)](https://github.com/BayramAnnakov/claude-reflect/stargazers) [![Forks](https://img.shields.io/github/forks/BayramAnnakov/claude-reflect?style=flat-square&color=blue)](https://github.com/BayramAnnakov/claude-reflect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BayramAnnakov/claude-reflect?style=flat-square&color=yellow)](https://github.com/BayramAnnakov/claude-reflect/stargazers) [![Forks](https://img.shields.io/github/forks/BayramAnnakov/claude-reflect?style=flat-square&color=blue)](https://github.com/BayramAnnakov/claude-reflect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Discovers workflow patterns and captures corrections to build permanent memory for Claude Code.  https://t.co/cjSvFofv18 https://t.co/kdjrlLCJOt https://github.com/BayramAnnakov/claude-reflect
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ BayramAnnakov/claude-reflect：BayramAnnakov/claude-reflect helps remove repetit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 76/100 |
+| production | 64/100 |
+| outlook | 69/100 |
 | adoption | 63/100 |
 | categoryMatchCount | 300/100 |
 | stars | 67/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

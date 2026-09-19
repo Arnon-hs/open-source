@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36327** |
+| **Projects** | **36329** |
 | **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13725 | [Browse →](./misc/) |
+| 📦 **Misc** | 13726 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4136 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2625 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2626 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2239 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1541 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1303 | [Browse →](./automation/) |
@@ -67,6 +67,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
+| 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
@@ -99,12 +100,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-self-editing** | 2 | [Browse →](./agent-self-editing/) |
 | 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
 | 🏷️ **Data-leakage** | 2 | [Browse →](./data-leakage/) |
-| 🏷️ **Ai-agent** | 2 | [Browse →](./ai-agent/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
 | 🏷️ **Excel** | 2 | [Browse →](./excel/) |
 | 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
-| 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
@@ -220,6 +219,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Igaming** | 1 | [Browse →](./igaming/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
+| 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
