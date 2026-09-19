@@ -1,6 +1,6 @@
 # JaidedAI/EasyOCR
 
-[![Stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=flat-square&color=yellow)](https://github.com/JaidedAI/EasyOCR/stargazers) [![Forks](https://img.shields.io/github/forks/JaidedAI/EasyOCR?style=flat-square&color=blue)](https://github.com/JaidedAI/EasyOCR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=flat-square&color=yellow)](https://github.com/JaidedAI/EasyOCR/stargazers) [![Forks](https://img.shields.io/github/forks/JaidedAI/EasyOCR?style=flat-square&color=blue)](https://github.com/JaidedAI/EasyOCR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Knowledge/RAG · AI/ML · Data
 
 ### English
 
-JaidedAI/EasyOCR: JaidedAI/EasyOCR helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+JaidedAI/EasyOCR: JaidedAI/EasyOCR helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-JaidedAI/EasyOCR: open-source проект в категориях Knowledge/RAG, AI/ML, Data. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+JaidedAI/EasyOCR: open-source проект в категориях Knowledge/RAG, AI/ML, Data. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-JaidedAI/EasyOCR：JaidedAI/EasyOCR helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+JaidedAI/EasyOCR：JaidedAI/EasyOCR helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ JaidedAI/EasyOCR：JaidedAI/EasyOCR helps make internal knowledge searchable and
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,15 +66,15 @@ JaidedAI/EasyOCR：JaidedAI/EasyOCR helps make internal knowledge searchable and
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 71/100 |
+| outlook | 77/100 |
 | adoption | 93/100 |
 | categoryMatchCount | 300/100 |
 | stars | 95/100 |
 | forks | 89/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
