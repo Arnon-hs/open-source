@@ -1,6 +1,6 @@
 # imgly/background-removal-js
 
-[![Stars](https://img.shields.io/github/stars/imgly/background-removal-js?style=flat-square&color=yellow)](https://github.com/imgly/background-removal-js/stargazers) [![Forks](https://img.shields.io/github/forks/imgly/background-removal-js?style=flat-square&color=blue)](https://github.com/imgly/background-removal-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imgly/background-removal-js?style=flat-square&color=yellow)](https://github.com/imgly/background-removal-js/stargazers) [![Forks](https://img.shields.io/github/forks/imgly/background-removal-js?style=flat-square&color=blue)](https://github.com/imgly/background-removal-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 470 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ imgly/background-removal-js：imgly/background-removal-js may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 68/100 |
+| outlook | 72/100 |
 | adoption | 78/100 |
 | categoryMatchCount | 500/100 |
 | stars | 82/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
