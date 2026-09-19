@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36300** |
-| **Categories** | **236** |
+| **Projects** | **36306** |
+| **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13713 | [Browse →](./misc/) |
+| 📦 **Misc** | 13715 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4134 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2625 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2239 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 860 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 628 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 629 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 613 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 579 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 567 | [Browse →](./mobile/) |
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Resume** | 2 | [Browse →](./resume/) |
 | 🏷️ **Opencode** | 2 | [Browse →](./opencode/) |
 | 🏷️ **Version-control** | 2 | [Browse →](./version-control/) |
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
@@ -108,6 +109,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Microgreens** | 1 | [Browse →](./microgreens/) |
 | 🏷️ **Sanity** | 1 | [Browse →](./sanity/) |
 | 🏷️ **Remote-development** | 1 | [Browse →](./remote-development/) |
 | 🏷️ **Searxng** | 1 | [Browse →](./searxng/) |
