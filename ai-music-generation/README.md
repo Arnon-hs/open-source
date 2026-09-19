@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [samuelgrupolimex-prog/suno-style-recipes](./samuelgrupolimex-prog-suno-style-recipes.md) | ⭐ — | — | 44/100 |
+| 1 | [samuelgrupolimex-prog/suno-style-recipes](./samuelgrupolimex-prog-suno-style-recipes.md) | ⭐ — | — | 41/100 |
 
 ---
 
