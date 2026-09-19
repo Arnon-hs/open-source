@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Brasth/Rig](./brasth-rig.md) | ⭐ 2 | Python | 70/100 |
+| 1 | [Brasth/Rig](./brasth-rig.md) | ⭐ 2 | Python | 66/100 |
 
 ---
 

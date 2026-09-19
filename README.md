@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36359** |
+| **Projects** | **36365** |
 | **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,17 +23,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13743 | [Browse →](./misc/) |
+| 📦 **Misc** | 13746 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4138 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2630 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2240 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1541 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1542 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1303 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 631 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 614 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 615 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 579 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 568 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 562 | [Browse →](./cloud--storage/) |
@@ -66,8 +66,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Local-llm** | 4 | [Browse →](./local-llm/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
-| 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
+| 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
@@ -75,12 +75,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Benchmark** | 3 | [Browse →](./benchmark/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
+| 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Cicd** | 3 | [Browse →](./cicd/) |
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
-| 🏷️ **Sanity** | 2 | [Browse →](./sanity/) |
+| 🏷️ **Agents** | 2 | [Browse →](./agents/) |
+| 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
 | 🏷️ **Openapi** | 2 | [Browse →](./openapi/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
@@ -106,7 +108,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
 | 🏷️ **Excel** | 2 | [Browse →](./excel/) |
-| 🏷️ **Skill-evolution** | 2 | [Browse →](./skill-evolution/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
@@ -212,7 +213,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Economic-data** | 1 | [Browse →](./economic-data/) |
 | 🏷️ **Document-automation** | 1 | [Browse →](./document-automation/) |
 | 🏷️ **Cro** | 1 | [Browse →](./cro/) |
-| 🏷️ **Seed4j** | 1 | [Browse →](./seed4j/) |
+| 🏷️ **Skill-evolution** | 1 | [Browse →](./skill-evolution/) |
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
@@ -255,7 +256,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documentation** | 1 | [Browse →](./documentation/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
 | 🏷️ **Coding-agents** | 1 | [Browse →](./coding-agents/) |
-| 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **React-native** | 1 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 1 | [Browse →](./cost-estimation/) |

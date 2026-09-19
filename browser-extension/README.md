@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [parksben/opensider](./parksben-opensider.md) | ⭐ 8 | TypeScript | 70/100 |
+| 1 | [parksben/opensider](./parksben-opensider.md) | ⭐ 8 | TypeScript | 67/100 |
 
 ---
 

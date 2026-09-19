@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [renanfranca/codex-skills](./renanfranca-codex-skills.md) | ⭐ 2 | Python | 41/100 |
-| 2 | [renanfranca/skill-eval](./renanfranca-skill-eval.md) | ⭐ 1 | TypeScript | 34/100 |
+| 1 | [renanfranca/skill-eval](./renanfranca-skill-eval.md) | ⭐ 1 | TypeScript | 34/100 |
 
 ---
 

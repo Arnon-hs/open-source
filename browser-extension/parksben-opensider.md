@@ -1,6 +1,6 @@
 # parksben/opensider
 
-[![Stars](https://img.shields.io/github/stars/parksben/opensider?style=flat-square&color=yellow)](https://github.com/parksben/opensider/stargazers) [![Forks](https://img.shields.io/github/forks/parksben/opensider?style=flat-square&color=blue)](https://github.com/parksben/opensider/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/parksben/opensider?style=flat-square&color=yellow)](https://github.com/parksben/opensider/stargazers) [![Forks](https://img.shields.io/github/forks/parksben/opensider?style=flat-square&color=blue)](https://github.com/parksben/opensider/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSider is a browser extension that drives local Agents (Claude Code CLI, Copilot CLI, OpenCode CLI, Cursor CLI, and other local Agent tools) from within your browser for web information gathering, web automation, and more. 一个浏览器扩展程序，支持在浏览器中驱动本地 AI Agent 进行网页信息采集、网页自动化操作等工作。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ parksben/opensider：parksben/opensider may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 76/100 |
+| production | 61/100 |
+| outlook | 69/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 600/100 |
 | stars | 20/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
