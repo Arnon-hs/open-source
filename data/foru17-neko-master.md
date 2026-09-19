@@ -1,6 +1,6 @@
 # foru17/neko-master
 
-[![Stars](https://img.shields.io/github/stars/foru17/neko-master?style=flat-square&color=yellow)](https://github.com/foru17/neko-master/stargazers) [![Forks](https://img.shields.io/github/forks/foru17/neko-master?style=flat-square&color=blue)](https://github.com/foru17/neko-master/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foru17/neko-master?style=flat-square&color=yellow)](https://github.com/foru17/neko-master/stargazers) [![Forks](https://img.shields.io/github/forks/foru17/neko-master?style=flat-square&color=blue)](https://github.com/foru17/neko-master/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Monitors local gateway network traffic in real time with a dashboard built for auditing and multi-gateway support.  https://t.co/TedX8o2G09 https://t.co/PWBjcf1AZz https://github.com/foru17/neko-master
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ foru17/neko-master：foru17/neko-master helps convert raw data into searchable, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 82/100 |
+| production | 67/100 |
+| outlook | 75/100 |
 | adoption | 72/100 |
 | categoryMatchCount | 100/100 |
 | stars | 77/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
