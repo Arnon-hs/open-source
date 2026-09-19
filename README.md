@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36368** |
+| **Projects** | **36372** |
 | **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -24,15 +24,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 13747 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4139 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4140 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2630 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2240 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1542 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1303 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1304 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 631 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 632 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 615 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 579 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 568 | [Browse →](./mobile/) |
@@ -81,6 +81,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Svg** | 2 | [Browse →](./svg/) |
 | 🏷️ **Agents** | 2 | [Browse →](./agents/) |
 | 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
 | 🏷️ **Openapi** | 2 | [Browse →](./openapi/) |
@@ -113,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Supply-chain-security** | 1 | [Browse →](./supply-chain-security/) |
 | 🏷️ **Semantic-search** | 1 | [Browse →](./semantic-search/) |
 | 🏷️ **Codex** | 1 | [Browse →](./codex/) |
 | 🏷️ **Ssh** | 1 | [Browse →](./ssh/) |
@@ -211,8 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Multi-language** | 1 | [Browse →](./multi-language/) |
 | 🏷️ **Proactive-ai** | 1 | [Browse →](./proactive-ai/) |
 | 🏷️ **Economic-data** | 1 | [Browse →](./economic-data/) |
-| 🏷️ **Document-automation** | 1 | [Browse →](./document-automation/) |
-| 🏷️ **Cro** | 1 | [Browse →](./cro/) |
 | 🏷️ **Skill-evolution** | 1 | [Browse →](./skill-evolution/) |
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
