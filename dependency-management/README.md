@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GenAmed/busfactor](./genamed-busfactor.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [GenAmed/busfactor](./genamed-busfactor.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 
