@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Word editing · Composite tools · Token efficiency · LLM
+MCP · Automation · AI/ML · Documents
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ilia-sokolov/OfficeAgent.NET: ilia-sokolov/OfficeAgent.NET helps connect AI assi
 
 ### Русский
 
-ilia-sokolov/OfficeAgent.NET: open-source проект в категориях MCP, Word editing, Composite tools, Token efficiency, LLM. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ilia-sokolov/OfficeAgent.NET: open-source проект в категориях MCP, Automation, AI/ML, Documents. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ ilia-sokolov/OfficeAgent.NET：ilia-sokolov/OfficeAgent.NET helps connect AI ass
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 70/100 |
-| adoption | 28/100 |
-| categoryMatchCount | 500/100 |
-| stars | 29/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| stars | 29/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 58/100 |
+| recency | 80/100 |
+| adoption | 28/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
