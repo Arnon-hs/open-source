@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [suhui-organization/pod](./suhui-organization-pod.md) | ⭐ 1 | TypeScript | 68/100 |
+| 1 | [suhui-organization/pod](./suhui-organization-pod.md) | ⭐ 1 | TypeScript | 64/100 |
 
 ---
 
