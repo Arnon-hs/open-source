@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36480** |
+| **Projects** | **36486** |
 | **Categories** | **250** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 13799 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4145 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2636 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2637 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1545 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1307 | [Browse →](./automation/) |
@@ -62,10 +62,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
+| 🏷️ **Benchmark** | 5 | [Browse →](./benchmark/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
+| 🏷️ **Docker** | 3 | [Browse →](./docker/) |
 | 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
@@ -101,7 +103,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 2 | [Browse →](./local-ai/) |
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
-| 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Plant-names** | 2 | [Browse →](./plant-names/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
@@ -162,7 +163,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Desktop-automation** | 1 | [Browse →](./desktop-automation/) |
 | 🏷️ **Hot-reload** | 1 | [Browse →](./hot-reload/) |
 | 🏷️ **React** | 1 | [Browse →](./react/) |
-| 🏷️ **Docker** | 1 | [Browse →](./docker/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Seo** | 1 | [Browse →](./seo/) |
 | 🏷️ **Webgpu** | 1 | [Browse →](./webgpu/) |
