@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36415** |
+| **Projects** | **36418** |
 | **Categories** | **237** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13769 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4143 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13772 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4144 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2632 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2243 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1543 | [Browse →](./devtools/) |
@@ -74,7 +74,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
-| 🏷️ **Benchmark** | 3 | [Browse →](./benchmark/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Cicd** | 3 | [Browse →](./cicd/) |
@@ -100,6 +99,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
+| 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Plant-names** | 2 | [Browse →](./plant-names/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
@@ -114,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
 | 🏷️ **Remote-jobs** | 1 | [Browse →](./remote-jobs/) |
 | 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
 | 🏷️ **Prompt-engineering** | 1 | [Browse →](./prompt-engineering/) |
@@ -212,7 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |
 | 🏷️ **Agent-based-development** | 1 | [Browse →](./agent-based-development/) |
 | 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
-| 🏷️ **Selfhosting** | 1 | [Browse →](./selfhosting/) |
 | 🏷️ **Skill-evolution** | 1 | [Browse →](./skill-evolution/) |
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
