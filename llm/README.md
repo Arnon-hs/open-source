@@ -2,7 +2,7 @@
 
 > 
 
-**10 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
@@ -12,12 +12,11 @@
 | 2 | [wraith1337/model-truth-desk](./wraith1337-model-truth-desk.md) | ⭐ — | TypeScript | 50/100 |
 | 3 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 39/100 |
 | 4 | [mafeis/dsh-enterprise](./mafeis-dsh-enterprise.md) | ⭐ — | JavaScript | 39/100 |
-| 5 | [zangxin75/token-efficiency](./zangxin75-token-efficiency.md) | ⭐ — | Python | 38/100 |
-| 6 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |
-| 7 | [llmposter/llmposter](./llmposter-llmposter.md) | ⭐ — | — | 24/100 |
-| 8 | [simoneb/aiolimiter](./simoneb-aiolimiter.md) | ⭐ — | — | 24/100 |
-| 9 | [fjjjuv/prompt-optimizer](./fjjjuv-prompt-optimizer.md) | ⭐ — | — | 24/100 |
-| 10 | [yourrepo/llmeter](./yourrepo-llmeter.md) | ⭐ — | — | 24/100 |
+| 5 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |
+| 6 | [llmposter/llmposter](./llmposter-llmposter.md) | ⭐ — | — | 24/100 |
+| 7 | [simoneb/aiolimiter](./simoneb-aiolimiter.md) | ⭐ — | — | 24/100 |
+| 8 | [fjjjuv/prompt-optimizer](./fjjjuv-prompt-optimizer.md) | ⭐ — | — | 24/100 |
+| 9 | [yourrepo/llmeter](./yourrepo-llmeter.md) | ⭐ — | — | 24/100 |
 
 ---
 

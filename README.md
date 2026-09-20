@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36408** |
-| **Categories** | **236** |
+| **Projects** | **36411** |
+| **Categories** | **237** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13764 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4142 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13766 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4143 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2632 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2242 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2243 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1543 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1306 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
@@ -53,10 +53,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 84 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 32 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Llm** | 10 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 9 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 7 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
@@ -114,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Remote-jobs** | 1 | [Browse →](./remote-jobs/) |
 | 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
 | 🏷️ **Prompt-engineering** | 1 | [Browse →](./prompt-engineering/) |
 | 🏷️ **Perl** | 1 | [Browse →](./perl/) |
