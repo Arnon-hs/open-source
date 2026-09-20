@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [peterdoornbosch/kwik](./peterdoornbosch-kwik.md) | ⭐ — | — | 24/100 |
+| 1 | [darshanrathod04/shree-ai-os](./darshanrathod04-shree-ai-os.md) | ⭐ 1 | Java | 61/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36418** |
-| **Categories** | **237** |
+| **Projects** | **36419** |
+| **Categories** | **238** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -114,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
 | 🏷️ **Remote-jobs** | 1 | [Browse →](./remote-jobs/) |
 | 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
