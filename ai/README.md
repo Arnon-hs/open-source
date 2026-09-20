@@ -15,8 +15,8 @@
 | 5 | [CatCatUncle/openworkbuddy](./catcatuncle-openworkbuddy.md) | ⭐ 92 | JavaScript | 69/100 |
 | 6 | [chunxiaoxx/nautilus-compass](./chunxiaoxx-nautilus-compass.md) | ⭐ 131 | Python | 68/100 |
 | 7 | [akshaypatel-ai/ai-automations](./akshaypatel-ai-ai-automations.md) | ⭐ — | Shell | 63/100 |
-| 8 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 62/100 |
-| 9 | [Axidesk/Axio-Coder](./axidesk-axio-coder.md) | ⭐ — | Python | 59/100 |
+| 8 | [Axidesk/Axio-Coder](./axidesk-axio-coder.md) | ⭐ — | Python | 59/100 |
+| 9 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 59/100 |
 | 10 | [goun7/veridict](./goun7-veridict.md) | ⭐ 1 | Python | 57/100 |
 | 11 | [joinwell52-AI/joinwell52](./joinwell52-ai-joinwell52.md) | ⭐ 6 | JavaScript | 51/100 |
 | 12 | [voyagi/plainletter](./voyagi-plainletter.md) | ⭐ — | Python | 47/100 |

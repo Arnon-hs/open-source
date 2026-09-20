@@ -1,6 +1,6 @@
 # adfd3ewdf3/FinderBack
 
-[![Stars](https://img.shields.io/github/stars/adfd3ewdf3/FinderBack?style=flat-square&color=yellow)](https://github.com/adfd3ewdf3/FinderBack/stargazers) [![Forks](https://img.shields.io/github/forks/adfd3ewdf3/FinderBack?style=flat-square&color=blue)](https://github.com/adfd3ewdf3/FinderBack/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adfd3ewdf3/FinderBack?style=flat-square&color=yellow)](https://github.com/adfd3ewdf3/FinderBack/stargazers) [![Forks](https://img.shields.io/github/forks/adfd3ewdf3/FinderBack?style=flat-square&color=blue)](https://github.com/adfd3ewdf3/FinderBack/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Add Back and Forward controls to Finder's right-click menu on macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ adfd3ewdf3/FinderBack：adfd3ewdf3/FinderBack may be useful when its README and 
 - primary language: Swift
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
