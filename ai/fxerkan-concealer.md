@@ -1,6 +1,6 @@
 # fxerkan/concealer
 
-[![Stars](https://img.shields.io/github/stars/fxerkan/concealer?style=flat-square&color=yellow)](https://github.com/fxerkan/concealer/stargazers) [![Forks](https://img.shields.io/github/forks/fxerkan/concealer?style=flat-square&color=blue)](https://github.com/fxerkan/concealer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fxerkan/concealer?style=flat-square&color=yellow)](https://github.com/fxerkan/concealer/stargazers) [![Forks](https://img.shields.io/github/forks/fxerkan/concealer?style=flat-square&color=blue)](https://github.com/fxerkan/concealer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐 The local-only secret manager for the AI-coding era with MCP, CLI, Web UI, TUI and Extension. No cloud, No telemetry, No account.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ fxerkan/concealer：fxerkan/concealer may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 75/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 18/100 |
 | categoryMatchCount | 700/100 |
 | stars | 25/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

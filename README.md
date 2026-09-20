@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36435** |
+| **Projects** | **36437** |
 | **Categories** | **242** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -33,11 +33,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 634 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 615 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 616 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 579 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 569 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 563 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 485 | [Browse →](./database/) |
+| 🏷️ **Database** | 486 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 476 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 430 | [Browse →](./templates/) |
 | 🔐 **Security** | 391 | [Browse →](./security/) |
