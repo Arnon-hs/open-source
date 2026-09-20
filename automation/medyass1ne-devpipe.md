@@ -1,6 +1,6 @@
 # medyass1ne/devpipe
 
-[![Stars](https://img.shields.io/github/stars/medyass1ne/devpipe?style=flat-square&color=yellow)](https://github.com/medyass1ne/devpipe/stargazers) [![Forks](https://img.shields.io/github/forks/medyass1ne/devpipe?style=flat-square&color=blue)](https://github.com/medyass1ne/devpipe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/medyass1ne/devpipe?style=flat-square&color=yellow)](https://github.com/medyass1ne/devpipe/stargazers) [![Forks](https://img.shields.io/github/forks/medyass1ne/devpipe?style=flat-square&color=blue)](https://github.com/medyass1ne/devpipe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Write once, publish everywhere. Devpipe automates the formatting and syndication of open-source release notes and changelogs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ medyass1ne/devpipe：medyass1ne/devpipe may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 72/100 |
+| production | 57/100 |
+| outlook | 65/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
