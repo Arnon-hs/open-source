@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36486** |
+| **Projects** | **36491** |
 | **Categories** | **250** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13799 | [Browse →](./misc/) |
+| 📦 **Misc** | 13803 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4145 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2637 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 617 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 580 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 569 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 563 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 564 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 486 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 476 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 430 | [Browse →](./templates/) |
