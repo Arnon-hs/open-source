@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36460** |
-| **Categories** | **245** |
+| **Projects** | **36469** |
+| **Categories** | **247** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,18 +23,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13789 | [Browse →](./misc/) |
+| 📦 **Misc** | 13792 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4144 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2636 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1544 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1545 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1307 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 634 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 617 | [Browse →](./networking/) |
-| 🏷️ **Knowledgerag** | 579 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 580 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 569 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 563 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 486 | [Browse →](./database/) |
@@ -59,13 +59,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
-| 🏷️ **Local-llm** | 4 | [Browse →](./local-llm/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Spring-boot** | 2 | [Browse →](./spring-boot/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Java** | 2 | [Browse →](./java/) |
@@ -95,7 +96,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Version-control** | 2 | [Browse →](./version-control/) |
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
-| 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Local-ai** | 2 | [Browse →](./local-ai/) |
@@ -117,6 +117,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agentmemory** | 1 | [Browse →](./agentmemory/) |
 | 🏷️ **Ui** | 1 | [Browse →](./ui/) |
 | 🏷️ **Cabin-rules** | 1 | [Browse →](./cabin-rules/) |
 | 🏷️ **Email-triage** | 1 | [Browse →](./email-triage/) |
@@ -145,6 +146,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Logging** | 1 | [Browse →](./logging/) |
 | 🏷️ **Filesystem** | 1 | [Browse →](./filesystem/) |
 | 🏷️ **Web-push** | 1 | [Browse →](./web-push/) |
+| 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Dns** | 1 | [Browse →](./dns/) |
 | 🏷️ **Codingagents** | 1 | [Browse →](./codingagents/) |
 | 🏷️ **Project-management** | 1 | [Browse →](./project-management/) |
