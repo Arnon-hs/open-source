@@ -514,8 +514,8 @@
 | 504 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
 | 505 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ — | — | 45/100 |
 | 506 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 507 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 508 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 507 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 508 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 509 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ — | — | 45/100 |
 | 510 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ — | — | 45/100 |
 | 511 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |
