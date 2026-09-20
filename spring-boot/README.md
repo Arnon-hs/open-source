@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ThembaTman0/synthforge](./thembatman0-synthforge.md) | ⭐ — | Java | 41/100 |
+| 1 | [IroshPerera/spring-boot-idempotency-starter](./iroshperera-spring-boot-idempotency-starter.md) | ⭐ — | Java | 49/100 |
 
 ---
 

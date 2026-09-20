@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36420** |
-| **Categories** | **238** |
+| **Projects** | **36424** |
+| **Categories** | **239** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13773 | [Browse →](./misc/) |
+| 📦 **Misc** | 13774 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4144 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2632 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2243 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 633 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 634 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 615 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 579 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 569 | [Browse →](./mobile/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Java** | 2 | [Browse →](./java/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Svg** | 2 | [Browse →](./svg/) |
 | 🏷️ **Agents** | 2 | [Browse →](./agents/) |
@@ -114,7 +115,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
-| 🏷️ **Java** | 1 | [Browse →](./java/) |
+| 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
+| 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
 | 🏷️ **Remote-jobs** | 1 | [Browse →](./remote-jobs/) |
 | 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
@@ -213,7 +215,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |
 | 🏷️ **Agent-based-development** | 1 | [Browse →](./agent-based-development/) |
-| 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
 | 🏷️ **Skill-evolution** | 1 | [Browse →](./skill-evolution/) |
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |

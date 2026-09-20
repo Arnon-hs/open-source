@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sayanmohsin/nice-code](./sayanmohsin-nice-code.md) | ⭐ — | Rust | 36/100 |
+| 1 | [ofershap/pr-rulebook](./ofershap-pr-rulebook.md) | ⭐ — | TypeScript | 63/100 |
 
 ---
 
