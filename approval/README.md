@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [binwiederhier/ntfy](./binwiederhier-ntfy.md) | ⭐ 34.3k | Go | 75/100 |
+| 1 | [binwiederhier/ntfy](./binwiederhier-ntfy.md) | ⭐ 34.3k | Go | 72/100 |
 
 ---
 

@@ -2,14 +2,15 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aws/strands-agents-sdk](./aws-strands-agents-sdk.md) | ⭐ — | — | 36/100 |
-| 2 | [mongodb/mcp](./mongodb-mcp.md) | ⭐ — | — | 35/100 |
+| 1 | [borisbob91/owllayer](./borisbob91-owllayer.md) | ⭐ 9 | TypeScript | 73/100 |
+| 2 | [aws/strands-agents-sdk](./aws-strands-agents-sdk.md) | ⭐ — | — | 36/100 |
+| 3 | [mongodb/mcp](./mongodb-mcp.md) | ⭐ — | — | 35/100 |
 
 ---
 

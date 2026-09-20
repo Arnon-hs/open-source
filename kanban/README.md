@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [paerison/universal-sudoku-kanban-matrix](./paerison-universal-sudoku-kanban-matrix.md) | ⭐ 1 | — | 37/100 |
+| 1 | [jimblom/Hexfield-Deck](./jimblom-hexfield-deck.md) | ⭐ 45 | TypeScript | 56/100 |
 
 ---
 

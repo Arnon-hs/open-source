@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36512** |
-| **Categories** | **252** |
+| **Projects** | **36515** |
+| **Categories** | **253** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13813 | [Browse →](./misc/) |
+| 📦 **Misc** | 13814 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4147 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2637 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
@@ -67,6 +67,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
+| 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
 | 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 3 | [Browse →](./privacy/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
@@ -117,7 +118,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
-| 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Kanban** | 1 | [Browse →](./kanban/) |
 | 🏷️ **Verification** | 1 | [Browse →](./verification/) |
 | 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Magento** | 1 | [Browse →](./magento/) |

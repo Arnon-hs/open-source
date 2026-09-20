@@ -701,8 +701,8 @@
 | 691 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.3k | Go | 63/100 |
 | 692 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 63/100 |
 | 693 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 63/100 |
-| 694 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
-| 695 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
+| 694 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
+| 695 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
 | 696 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 63/100 |
 | 697 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 63/100 |
 | 698 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 379 | Nushell | 63/100 |
@@ -780,8 +780,8 @@
 | 770 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 62/100 |
 | 771 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 772 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 773 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 774 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 773 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 774 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 775 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 776 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 777 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -1146,8 +1146,8 @@
 | 1136 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 49/100 |
 | 1137 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 329 | — | 49/100 |
 | 1138 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 49/100 |
-| 1139 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
-| 1140 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
+| 1139 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
+| 1140 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
 | 1141 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 3.6k | Shell | 49/100 |
 | 1142 | [kobaltgit/tg-rich-converter](./kobaltgit-tg-rich-converter.md) | ⭐ — | — | 48/100 |
 | 1143 | [guidsen/hermes-grok-bot-skin](./guidsen-hermes-grok-bot-skin.md) | ⭐ — | — | 48/100 |
@@ -1286,8 +1286,8 @@
 | 1276 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ — | — | 38/100 |
 | 1277 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ — | — | 38/100 |
 | 1278 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
-| 1279 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
-| 1280 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1279 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1280 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
 | 1281 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 38/100 |
 | 1282 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 38/100 |
 | 1283 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 38/100 |

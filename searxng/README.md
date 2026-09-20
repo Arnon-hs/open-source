@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ghilteras/searxng-gateway](./ghilteras-searxng-gateway.md) | ⭐ 7 | Go | 66/100 |
+| 1 | [Ghilteras/searxng-gateway](./ghilteras-searxng-gateway.md) | ⭐ 7 | Go | 63/100 |
 
 ---
 
