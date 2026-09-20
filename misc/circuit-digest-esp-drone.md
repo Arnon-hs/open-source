@@ -1,6 +1,6 @@
 # Circuit-Digest/ESP-Drone
 
-[![Stars](https://img.shields.io/github/stars/Circuit-Digest/ESP-Drone?style=flat-square&color=yellow)](https://github.com/Circuit-Digest/ESP-Drone/stargazers) [![Forks](https://img.shields.io/github/forks/Circuit-Digest/ESP-Drone?style=flat-square&color=blue)](https://github.com/Circuit-Digest/ESP-Drone/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Circuit-Digest/ESP-Drone?style=flat-square&color=yellow)](https://github.com/Circuit-Digest/ESP-Drone/stargazers) [![Forks](https://img.shields.io/github/forks/Circuit-Digest/ESP-Drone?style=flat-square&color=blue)](https://github.com/Circuit-Digest/ESP-Drone/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Builds a DIY WiFi-controlled drone featuring height and position hold  https://t.co/zw9l6eHvNa https://t.co/8DsQtzcGl4 https://github.com/Circuit-Digest/ESP-Drone
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 387 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Circuit-Digest/ESP-Drone：Circuit-Digest/ESP-Drone may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 60/100 |
+| outlook | 61/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 0/100 |
 | stars | 72/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
