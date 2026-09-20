@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36424** |
-| **Categories** | **239** |
+| **Projects** | **36429** |
+| **Categories** | **241** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13774 | [Browse →](./misc/) |
+| 📦 **Misc** | 13776 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4144 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2632 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2243 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1543 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1306 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
@@ -115,6 +115,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Browser-based-ai** | 1 | [Browse →](./browser-based-ai/) |
+| 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
