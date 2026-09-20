@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [onurkat/reclazz](./onurkat-reclazz.md) | ⭐ 2 | Java | 58/100 |
+| 1 | [onurkat/reclazz](./onurkat-reclazz.md) | ⭐ 2 | Java | 55/100 |
 
 ---
 

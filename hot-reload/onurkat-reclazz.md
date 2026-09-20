@@ -1,6 +1,6 @@
 # onurkat/reclazz
 
-[![Stars](https://img.shields.io/github/stars/onurkat/reclazz?style=flat-square&color=yellow)](https://github.com/onurkat/reclazz/stargazers) [![Forks](https://img.shields.io/github/forks/onurkat/reclazz?style=flat-square&color=blue)](https://github.com/onurkat/reclazz/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onurkat/reclazz?style=flat-square&color=yellow)](https://github.com/onurkat/reclazz/stargazers) [![Forks](https://img.shields.io/github/forks/onurkat/reclazz?style=flat-square&color=blue)](https://github.com/onurkat/reclazz/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source hot-reload for SAP Commerce (Hybris) and Spring. Edit a class or an items.xml and the running server picks it up, no restart. A free alternative to JRebel, Apache 2.0, any JDK 17+.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ onurkat/reclazz：onurkat/reclazz may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
