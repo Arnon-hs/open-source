@@ -65,18 +65,18 @@ Mathieu2301/TradingView-API：Mathieu2301/TradingView-API helps prototype or ins
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 69/100 |
-| outlook | 76/100 |
-| adoption | 76/100 |
-| categoryMatchCount | 300/100 |
-| stars | 77/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
+| adoption | 76/100 |
+| production | 69/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

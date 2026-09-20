@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JacobPalomo/any-hunter](./jacobpalomo-any-hunter.md) | ⭐ — | TypeScript | 44/100 |
+| 1 | [aymaneallaoui/errval](./aymaneallaoui-errval.md) | ⭐ 1 | TypeScript | 46/100 |
 
 ---
 

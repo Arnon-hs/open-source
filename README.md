@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36398** |
-| **Categories** | **237** |
+| **Projects** | **36401** |
+| **Categories** | **236** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13760 | [Browse →](./misc/) |
+| 📦 **Misc** | 13761 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4142 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2632 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2241 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2242 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1543 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1305 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1306 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 193 | [Browse →](./trading/) |
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 83 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 84 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 33 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
@@ -114,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
 | 🏷️ **Prompt-engineering** | 1 | [Browse →](./prompt-engineering/) |
 | 🏷️ **Perl** | 1 | [Browse →](./perl/) |
 | 🏷️ **Supply-chain-security** | 1 | [Browse →](./supply-chain-security/) |
@@ -211,8 +212,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-based-development** | 1 | [Browse →](./agent-based-development/) |
 | 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
 | 🏷️ **Selfhosting** | 1 | [Browse →](./selfhosting/) |
-| 🏷️ **Ticketing** | 1 | [Browse →](./ticketing/) |
-| 🏷️ **Local-rag** | 1 | [Browse →](./local-rag/) |
 | 🏷️ **Skill-evolution** | 1 | [Browse →](./skill-evolution/) |
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
