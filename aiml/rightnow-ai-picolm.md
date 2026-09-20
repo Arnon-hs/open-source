@@ -65,18 +65,18 @@ RightNow-AI/picolm：RightNow-AI/picolm helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 65/100 |
-| outlook | 70/100 |
-| adoption | 67/100 |
-| categoryMatchCount | 100/100 |
-| stars | 70/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
+| adoption | 67/100 |
+| production | 65/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

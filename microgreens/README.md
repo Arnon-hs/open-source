@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [alexjvv52-ops/groundtruth-app](./alexjvv52-ops-groundtruth-app.md) | ⭐ 1 | Rust | 49/100 |
+| 1 | [alexjvv52-ops/groundtruth-app](./alexjvv52-ops-groundtruth-app.md) | ⭐ 1 | Rust | 46/100 |
 
 ---
 

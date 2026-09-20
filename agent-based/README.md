@@ -1,4 +1,4 @@
-# 🏷️ Self-hosted
+# 🏷️ Agent-based
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BrahmjotSingh0/rumo](./brahmjotsingh0-rumo.md) | ⭐ 2 | JavaScript | 42/100 |
+| 1 | [islomkhon/CerebrumKit](./islomkhon-cerebrumkit.md) | ⭐ — | Vue | 74/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36474** |
-| **Categories** | **249** |
+| **Projects** | **36480** |
+| **Categories** | **250** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13795 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4144 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13799 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4145 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2636 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1545 | [Browse →](./devtools/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
+| 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
@@ -97,9 +98,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
-| 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Local-ai** | 2 | [Browse →](./local-ai/) |
-| 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
@@ -117,6 +116,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent-based** | 1 | [Browse →](./agent-based/) |
 | 🏷️ **Video-encoding** | 1 | [Browse →](./video-encoding/) |
 | 🏷️ **Openstreetmap** | 1 | [Browse →](./openstreetmap/) |
 | 🏷️ **Agentmemory** | 1 | [Browse →](./agentmemory/) |
@@ -182,6 +182,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Enterprise** | 1 | [Browse →](./enterprise/) |
 | 🏷️ **Clientside** | 1 | [Browse →](./clientside/) |
 | 🏷️ **Linux** | 1 | [Browse →](./linux/) |
+| 🏷️ **Self-hosted** | 1 | [Browse →](./self-hosted/) |
 | 🏷️ **Agentic-development** | 1 | [Browse →](./agentic-development/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
 | 🏷️ **Windows** | 1 | [Browse →](./windows/) |
