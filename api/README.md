@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mohitdebian/relay](./mohitdebian-relay.md) | ⭐ — | TypeScript | 49/100 |
+| 1 | [mohitdebian/relay](./mohitdebian-relay.md) | ⭐ — | TypeScript | 46/100 |
 
 ---
 
