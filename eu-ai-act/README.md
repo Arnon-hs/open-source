@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [verax-ai/verax](./verax-ai-verax.md) | ⭐ — | TypeScript | 58/100 |
+| 1 | [verax-ai/verax](./verax-ai-verax.md) | ⭐ — | TypeScript | 55/100 |
 
 ---
 

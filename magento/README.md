@@ -1,4 +1,4 @@
-# 🏷️ Go
+# 🏷️ Magento
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mkbeh/pacecache](./mkbeh-pacecache.md) | ⭐ — | Go | 46/100 |
+| 1 | [netz98/n98-magerun2](./netz98-n98-magerun2.md) | ⭐ 925 | PHP | 74/100 |
 
 ---
 

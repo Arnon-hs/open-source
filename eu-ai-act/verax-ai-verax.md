@@ -1,6 +1,6 @@
 # verax-ai/verax
 
-[![Stars](https://img.shields.io/github/stars/verax-ai/verax?style=flat-square&color=yellow)](https://github.com/verax-ai/verax/stargazers) [![Forks](https://img.shields.io/github/forks/verax-ai/verax?style=flat-square&color=blue)](https://github.com/verax-ai/verax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verax-ai/verax?style=flat-square&color=yellow)](https://github.com/verax-ai/verax/stargazers) [![Forks](https://img.shields.io/github/forks/verax-ai/verax?style=flat-square&color=blue)](https://github.com/verax-ai/verax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Verax: the accountable agent body. Gate, decision record, receipt, reconciliation. Apache-2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ verax-ai/verax：verax-ai/verax may be useful when its README and activity match
 - primary language: TypeScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 57/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
