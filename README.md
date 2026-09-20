@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36434** |
+| **Projects** | **36435** |
 | **Categories** | **242** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13778 | [Browse →](./misc/) |
+| 📦 **Misc** | 13779 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4144 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2632 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1543 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1306 | [Browse →](./automation/) |
+| 🔧 **DevTools** | 1544 | [Browse →](./devtools/) |
+| 🏷️ **Automation** | 1307 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
@@ -66,7 +66,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Local-llm** | 4 | [Browse →](./local-llm/) |
-| 🏷️ **Local-first** | 4 | [Browse →](./local-first/) |
 | 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
@@ -80,6 +79,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 3 | [Browse →](./free-tools/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Spring-boot** | 2 | [Browse →](./spring-boot/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Java** | 2 | [Browse →](./java/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
@@ -110,7 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Data-leakage** | 2 | [Browse →](./data-leakage/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
-| 🏷️ **Excel** | 2 | [Browse →](./excel/) |
+| 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
@@ -119,7 +119,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Email-triage** | 1 | [Browse →](./email-triage/) |
 | 🏷️ **Browser-based-ai** | 1 | [Browse →](./browser-based-ai/) |
 | 🏷️ **Browser** | 1 | [Browse →](./browser/) |
-| 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
 | 🏷️ **Remote-jobs** | 1 | [Browse →](./remote-jobs/) |
@@ -259,6 +258,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
+| 🏷️ **Excel** | 1 | [Browse →](./excel/) |
 | 🏷️ **Coding-agents** | 1 | [Browse →](./coding-agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **React-native** | 1 | [Browse →](./react-native/) |
