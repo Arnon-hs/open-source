@@ -1,6 +1,6 @@
 # AkshatSoni26/closed-loop-slm-agent
 
-[![Stars](https://img.shields.io/github/stars/AkshatSoni26/closed-loop-slm-agent?style=flat-square&color=yellow)](https://github.com/AkshatSoni26/closed-loop-slm-agent/stargazers) [![Forks](https://img.shields.io/github/forks/AkshatSoni26/closed-loop-slm-agent?style=flat-square&color=blue)](https://github.com/AkshatSoni26/closed-loop-slm-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AkshatSoni26/closed-loop-slm-agent?style=flat-square&color=yellow)](https://github.com/AkshatSoni26/closed-loop-slm-agent/stargazers) [![Forks](https://img.shields.io/github/forks/AkshatSoni26/closed-loop-slm-agent?style=flat-square&color=blue)](https://github.com/AkshatSoni26/closed-loop-slm-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade drafting agent running on local SLMs (Llama 3.2 3B) with deterministic verification, tri-state guardrails, and QWK-calibrated evaluation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ local-ai · closed-loop · verifier · human-in-loop · invoice-drafting · LLM-
 
 ### English
 
-AkshatSoni26/closed-loop-slm-agent: AkshatSoni26/closed-loop-slm-agent may be useful when its README and activity match a concrete workflow.. Use it for local-ai, closed-loop, verifier, human-in-loop, invoice-drafting, LLM-hallucination. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AkshatSoni26/closed-loop-slm-agent: AkshatSoni26/closed-loop-slm-agent may be useful when its README and activity match a concrete workflow.. Use it for local-ai, closed-loop, verifier, human-in-loop, invoice-drafting, LLM-hallucination. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-AkshatSoni26/closed-loop-slm-agent: open-source проект в категориях local-ai, closed-loop, verifier, human-in-loop, invoice-drafting, LLM-hallucination. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AkshatSoni26/closed-loop-slm-agent: open-source проект в категориях local-ai, closed-loop, verifier, human-in-loop, invoice-drafting, LLM-hallucination. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-AkshatSoni26/closed-loop-slm-agent：AkshatSoni26/closed-loop-slm-agent may be useful when its README and activity match a concrete workflow.。适合用于local-ai、closed-loop、verifier、human-in-loop、invoice-drafting、LLM-hallucination。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AkshatSoni26/closed-loop-slm-agent：AkshatSoni26/closed-loop-slm-agent may be useful when its README and activity match a concrete workflow.。适合用于local-ai、closed-loop、verifier、human-in-loop、invoice-drafting、LLM-hallucination。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ AkshatSoni26/closed-loop-slm-agent：AkshatSoni26/closed-loop-slm-agent may be u
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -55,22 +55,22 @@ AkshatSoni26/closed-loop-slm-agent：AkshatSoni26/closed-loop-slm-agent may be u
 - primary language: Python
 - 8 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 57/100 |
+| production | 50/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

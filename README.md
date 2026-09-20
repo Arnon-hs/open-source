@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36469** |
-| **Categories** | **247** |
+| **Projects** | **36472** |
+| **Categories** | **249** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13792 | [Browse →](./misc/) |
+| 📦 **Misc** | 13793 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4144 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2636 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
@@ -117,6 +117,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Video-encoding** | 1 | [Browse →](./video-encoding/) |
+| 🏷️ **Openstreetmap** | 1 | [Browse →](./openstreetmap/) |
 | 🏷️ **Agentmemory** | 1 | [Browse →](./agentmemory/) |
 | 🏷️ **Ui** | 1 | [Browse →](./ui/) |
 | 🏷️ **Cabin-rules** | 1 | [Browse →](./cabin-rules/) |
