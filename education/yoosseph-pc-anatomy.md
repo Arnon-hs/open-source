@@ -1,6 +1,6 @@
 # Yoosseph/pc-anatomy
 
-[![Stars](https://img.shields.io/github/stars/Yoosseph/pc-anatomy?style=flat-square&color=yellow)](https://github.com/Yoosseph/pc-anatomy/stargazers) [![Forks](https://img.shields.io/github/forks/Yoosseph/pc-anatomy?style=flat-square&color=blue)](https://github.com/Yoosseph/pc-anatomy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yoosseph/pc-anatomy?style=flat-square&color=yellow)](https://github.com/Yoosseph/pc-anatomy/stargazers) [![Forks](https://img.shields.io/github/forks/Yoosseph/pc-anatomy?style=flat-square&color=blue)](https://github.com/Yoosseph/pc-anatomy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive 3D explorer of a desktop computer, from an assembled ATX tower down to a GPU streaming multiprocessor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ Yoosseph/pc-anatomy：Yoosseph/pc-anatomy may be useful when its README and acti
 - updated 2026-09-17
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 58/100 |
+| production | 56/100 |
+| outlook | 51/100 |
 | adoption | 31/100 |
 | categoryMatchCount | 400/100 |
 | stars | 35/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

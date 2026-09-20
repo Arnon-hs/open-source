@@ -34,7 +34,7 @@
 | 24 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 375 | Zig | 53/100 |
 | 25 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.1k | Vim Script | 50/100 |
 | 26 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 233 | Rust | 49/100 |
-| 27 | [Yoosseph/pc-anatomy](./yoosseph-pc-anatomy.md) | ⭐ 41 | TypeScript | 49/100 |
+| 27 | [Yoosseph/pc-anatomy](./yoosseph-pc-anatomy.md) | ⭐ 41 | TypeScript | 46/100 |
 | 28 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 366 | Rust | 45/100 |
 | 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 321 | Mojo | 44/100 |
 | 30 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 156 | Rust | 44/100 |
