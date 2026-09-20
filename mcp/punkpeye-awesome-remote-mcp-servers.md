@@ -1,6 +1,6 @@
 # punkpeye/awesome-remote-mcp-servers
 
-[![Stars](https://img.shields.io/github/stars/punkpeye/awesome-remote-mcp-servers?style=flat-square&color=yellow)](https://github.com/punkpeye/awesome-remote-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/punkpeye/awesome-remote-mcp-servers?style=flat-square&color=blue)](https://github.com/punkpeye/awesome-remote-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/punkpeye/awesome-remote-mcp-servers?style=flat-square&color=yellow)](https://github.com/punkpeye/awesome-remote-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/punkpeye/awesome-remote-mcp-servers?style=flat-square&color=blue)](https://github.com/punkpeye/awesome-remote-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of remote MCP servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 255 |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ punkpeye/awesome-remote-mcp-servers：punkpeye/awesome-remote-mcp-servers helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 55/100 |
 | categoryMatchCount | 700/100 |
 | stars | 51/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 70/100 |
 
