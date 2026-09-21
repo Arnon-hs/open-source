@@ -209,8 +209,8 @@
 | 199 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 343 | Java | 53/100 |
 | 200 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 537 | Nix | 53/100 |
 | 201 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 431 | TypeScript | 53/100 |
-| 202 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 53/100 |
-| 203 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 53/100 |
+| 202 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 53/100 |
+| 203 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 53/100 |
 | 204 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 205 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 556 | C | 53/100 |
 | 206 | [tkhq/qos](./tkhq-qos.md) | ⭐ 114 | Rust | 53/100 |
@@ -382,8 +382,8 @@
 | 372 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ — | — | 38/100 |
 | 373 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ — | — | 38/100 |
 | 374 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ — | — | 38/100 |
-| 375 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
-| 376 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
+| 375 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
+| 376 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
 | 377 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ — | — | 38/100 |
 | 378 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 38/100 |
 | 379 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 38/100 |
