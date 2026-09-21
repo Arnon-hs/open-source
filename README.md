@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36564** |
-| **Categories** | **255** |
+| **Projects** | **36576** |
+| **Categories** | **256** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,21 +23,21 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13838 | [Browse →](./misc/) |
+| 📦 **Misc** | 13845 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4152 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2639 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2244 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2245 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1545 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1311 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 862 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 769 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 634 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 617 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 580 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 569 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 564 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 486 | [Browse →](./database/) |
+| 🏷️ **Database** | 487 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 478 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 431 | [Browse →](./templates/) |
 | 🔐 **Security** | 391 | [Browse →](./security/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 154 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 131 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 84 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
@@ -62,11 +62,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
-| 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Benchmark** | 5 | [Browse →](./benchmark/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
+| 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
+| 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
+| 🏷️ **Ember** | 3 | [Browse →](./ember/) |
 | 🏷️ **Ai-integration** | 3 | [Browse →](./ai-integration/) |
 | 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 3 | [Browse →](./privacy/) |
@@ -79,7 +81,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
-| 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
@@ -119,6 +120,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Travel** | 1 | [Browse →](./travel/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
 | 🏷️ **Db-admin** | 1 | [Browse →](./db-admin/) |
 | 🏷️ **Mermaid** | 1 | [Browse →](./mermaid/) |
@@ -225,7 +227,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Env-spec** | 1 | [Browse →](./env-spec/) |
 | 🏷️ **Agentsmd** | 1 | [Browse →](./agentsmd/) |
 | 🏷️ **Eu-cra** | 1 | [Browse →](./eu-cra/) |
-| 🏷️ **Ffmpeg** | 1 | [Browse →](./ffmpeg/) |
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
 | 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |

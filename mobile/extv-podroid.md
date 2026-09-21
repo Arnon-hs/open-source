@@ -63,18 +63,18 @@ ExTV/Podroid：ExTV/Podroid may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 63/100 |
-| outlook | 69/100 |
-| adoption | 66/100 |
-| categoryMatchCount | 100/100 |
-| stars | 71/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| stars | 71/100 |
 | topics | 63/100 |
+| outlook | 69/100 |
+| quality | 70/100 |
+| recency | 80/100 |
+| adoption | 66/100 |
+| production | 63/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

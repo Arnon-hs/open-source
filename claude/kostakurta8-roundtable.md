@@ -1,6 +1,6 @@
 # Kostakurta8/roundtable
 
-[![Stars](https://img.shields.io/github/stars/Kostakurta8/roundtable?style=flat-square&color=yellow)](https://github.com/Kostakurta8/roundtable/stargazers) [![Forks](https://img.shields.io/github/forks/Kostakurta8/roundtable?style=flat-square&color=blue)](https://github.com/Kostakurta8/roundtable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kostakurta8/roundtable?style=flat-square&color=yellow)](https://github.com/Kostakurta8/roundtable/stargazers) [![Forks](https://img.shields.io/github/forks/Kostakurta8/roundtable?style=flat-square&color=blue)](https://github.com/Kostakurta8/roundtable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Watch your Claude Code agents work as a pixel-art office. Replay any second of a session exactly, see what every agent cost. Read-only, 100% local, never calls an API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Kostakurta8/roundtable：Kostakurta8/roundtable may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 22/100 |
 | categoryMatchCount | 700/100 |
 | stars | 28/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # shuangying0001-beep/awesome-workbuddy-skills
 
-[![Stars](https://img.shields.io/github/stars/shuangying0001-beep/awesome-workbuddy-skills?style=flat-square&color=yellow)](https://github.com/shuangying0001-beep/awesome-workbuddy-skills/stargazers) [![Forks](https://img.shields.io/github/forks/shuangying0001-beep/awesome-workbuddy-skills?style=flat-square&color=blue)](https://github.com/shuangying0001-beep/awesome-workbuddy-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shuangying0001-beep/awesome-workbuddy-skills?style=flat-square&color=yellow)](https://github.com/shuangying0001-beep/awesome-workbuddy-skills/stargazers) [![Forks](https://img.shields.io/github/forks/shuangying0001-beep/awesome-workbuddy-skills?style=flat-square&color=blue)](https://github.com/shuangying0001-beep/awesome-workbuddy-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 精选 22 个可直接用的 AI Agent 技能：自动化/RPA、数据接入、浏览器采集、小程序全栈、Canvas 内容工厂、微信生态等
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ rpa · mouse-automation · bezier-curves · anti-detection · humanization · re
 
 ### English
 
-shuangying0001-beep/awesome-workbuddy-skills: shuangying0001-beep/awesome-workbuddy-skills may be useful when its README and activity match a concrete workflow.. Use it for rpa, mouse-automation, bezier-curves, anti-detection, humanization, reusable-skill. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+shuangying0001-beep/awesome-workbuddy-skills: shuangying0001-beep/awesome-workbuddy-skills may be useful when its README and activity match a concrete workflow.. Use it for rpa, mouse-automation, bezier-curves, anti-detection, humanization, reusable-skill. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-shuangying0001-beep/awesome-workbuddy-skills: open-source проект в категориях rpa, mouse-automation, bezier-curves, anti-detection, humanization, reusable-skill. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+shuangying0001-beep/awesome-workbuddy-skills: open-source проект в категориях rpa, mouse-automation, bezier-curves, anti-detection, humanization, reusable-skill. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-shuangying0001-beep/awesome-workbuddy-skills：shuangying0001-beep/awesome-workbuddy-skills may be useful when its README and activity match a concrete workflow.。适合用于rpa、mouse-automation、bezier-curves、anti-detection、humanization、reusable-skill。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+shuangying0001-beep/awesome-workbuddy-skills：shuangying0001-beep/awesome-workbuddy-skills may be useful when its README and activity match a concrete workflow.。适合用于rpa、mouse-automation、bezier-curves、anti-detection、humanization、reusable-skill。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ shuangying0001-beep/awesome-workbuddy-skills：shuangying0001-beep/awesome-workb
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,22 +56,22 @@ shuangying0001-beep/awesome-workbuddy-skills：shuangying0001-beep/awesome-workb
 - updated 2026-09-07
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 600/100 |
 | stars | 20/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
