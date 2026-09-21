@@ -1,4 +1,4 @@
-# 🏷️ Remote-development
+# 🏷️ Splitwise
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [TysonLabs/lazyide](./tysonlabs-lazyide.md) | ⭐ 92 | Rust | 65/100 |
+| 1 | [peanutprotocol/peanutsplit](./peanutprotocol-peanutsplit.md) | ⭐ 35 | TypeScript | 54/100 |
 
 ---
 

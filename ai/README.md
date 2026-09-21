@@ -19,7 +19,7 @@
 | 9 | [Axidesk/Axio-Coder](./axidesk-axio-coder.md) | ⭐ — | Python | 59/100 |
 | 10 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 59/100 |
 | 11 | [kaketiti/magickit](./kaketiti-magickit.md) | ⭐ — | HTML | 56/100 |
-| 12 | [proptest-rs/proptest](./proptest-rs-proptest.md) | ⭐ 2.2k | Rust | 54/100 |
+| 12 | [proptest-rs/proptest](./proptest-rs-proptest.md) | ⭐ 2.2k | Rust | 51/100 |
 | 13 | [joinwell52-AI/joinwell52](./joinwell52-ai-joinwell52.md) | ⭐ 6 | JavaScript | 51/100 |
 | 14 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 44/100 |
 | 15 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
