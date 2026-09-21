@@ -64,18 +64,18 @@ EmenstaNougat/ESP32-BlueJammer：EmenstaNougat/ESP32-BlueJammer helps catch secu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 82/100 |
-| integration | 30/100 |
-| production | 67/100 |
-| outlook | 73/100 |
-| adoption | 80/100 |
-| categoryMatchCount | 100/100 |
-| stars | 83/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 80/100 |
+| adoption | 80/100 |
+| production | 67/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

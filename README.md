@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36632** |
+| **Projects** | **36636** |
 | **Categories** | **258** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13877 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4161 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13879 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4162 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2642 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2247 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1545 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1546 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1311 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 903 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 862 | [Browse →](./frontend/) |
@@ -65,6 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Benchmark** | 5 | [Browse →](./benchmark/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
+| 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
@@ -73,7 +74,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 3 | [Browse →](./privacy/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
-| 🏷️ **Docker** | 3 | [Browse →](./docker/) |
 | 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
@@ -103,7 +103,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Version-control** | 2 | [Browse →](./version-control/) |
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
-| 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Plant-names** | 2 | [Browse →](./plant-names/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
@@ -202,6 +201,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Enterprise** | 1 | [Browse →](./enterprise/) |
 | 🏷️ **Clientside** | 1 | [Browse →](./clientside/) |
 | 🏷️ **Linux** | 1 | [Browse →](./linux/) |
+| 🏷️ **Api-testing** | 1 | [Browse →](./api-testing/) |
 | 🏷️ **Agentic-development** | 1 | [Browse →](./agentic-development/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
 | 🏷️ **Windows** | 1 | [Browse →](./windows/) |
