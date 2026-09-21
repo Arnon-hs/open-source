@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shane-jacobeen/schema3d](./shane-jacobeen-schema3d.md) | ⭐ 11 | TypeScript | 49/100 |
+| 1 | [imxv/Pretty-mermaid-skills](./imxv-pretty-mermaid-skills.md) | ⭐ 1.2k | JavaScript | 74/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # holycowprojects/jazz
 
-[![Stars](https://img.shields.io/github/stars/holycowprojects/jazz?style=flat-square&color=yellow)](https://github.com/holycowprojects/jazz/stargazers) [![Forks](https://img.shields.io/github/forks/holycowprojects/jazz?style=flat-square&color=blue)](https://github.com/holycowprojects/jazz/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holycowprojects/jazz?style=flat-square&color=yellow)](https://github.com/holycowprojects/jazz/stargazers) [![Forks](https://img.shields.io/github/forks/holycowprojects/jazz?style=flat-square&color=blue)](https://github.com/holycowprojects/jazz/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > An Arch Linux desktop built for AI engineering — Hyprland, PyTorch, Ollama, and PyRIT red-teaming, pre-wired and verified on real hardware.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | QML |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ holycowprojects/jazz：holycowprojects/jazz may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

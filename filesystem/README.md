@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [holycowprojects/jazz](./holycowprojects-jazz.md) | ⭐ — | QML | 44/100 |
+| 1 | [holycowprojects/jazz](./holycowprojects-jazz.md) | ⭐ — | QML | 41/100 |
 
 ---
 
