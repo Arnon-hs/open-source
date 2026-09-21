@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36589** |
-| **Categories** | **255** |
+| **Projects** | **36591** |
+| **Categories** | **254** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13853 | [Browse →](./misc/) |
+| 📦 **Misc** | 13855 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4154 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2641 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2247 | [Browse →](./orchestration/) |
@@ -36,9 +36,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 617 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 580 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 569 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 564 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 565 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 487 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 478 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 479 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 431 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 🏷️ **Communication** | 388 | [Browse →](./communication/) |
@@ -84,9 +84,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
-| 🏷️ **Cicd** | 3 | [Browse →](./cicd/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Code-review** | 2 | [Browse →](./code-review/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
@@ -207,7 +207,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Meeting-notes** | 1 | [Browse →](./meeting-notes/) |
 | 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Plugin** | 1 | [Browse →](./plugin/) |
-| 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Cli** | 1 | [Browse →](./cli/) |
 | 🏷️ **Agent-protocols** | 1 | [Browse →](./agent-protocols/) |
 | 🏷️ **Agent-scan** | 1 | [Browse →](./agent-scan/) |
