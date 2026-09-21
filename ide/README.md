@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [WatermelonBros/reado](./watermelonbros-reado.md) | ⭐ 23 | TypeScript | 51/100 |
+| 1 | [WatermelonBros/reado](./watermelonbros-reado.md) | ⭐ 23 | TypeScript | 48/100 |
 
 ---
 

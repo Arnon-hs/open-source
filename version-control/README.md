@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Pathomphong-i/draft](./pathomphong-i-draft.md) | ⭐ — | Rust | 60/100 |
+| 1 | [Pathomphong-i/draft](./pathomphong-i-draft.md) | ⭐ — | Rust | 57/100 |
 | 2 | [martinvonz/jujutsu](./martinvonz-jujutsu.md) | ⭐ — | — | 24/100 |
 
 ---

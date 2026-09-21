@@ -1,6 +1,6 @@
 # Pathomphong-i/draft
 
-[![Stars](https://img.shields.io/github/stars/Pathomphong-i/draft?style=flat-square&color=yellow)](https://github.com/Pathomphong-i/draft/stargazers) [![Forks](https://img.shields.io/github/forks/Pathomphong-i/draft?style=flat-square&color=blue)](https://github.com/Pathomphong-i/draft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pathomphong-i/draft?style=flat-square&color=yellow)](https://github.com/Pathomphong-i/draft/stargazers) [![Forks](https://img.shields.io/github/forks/Pathomphong-i/draft?style=flat-square&color=blue)](https://github.com/Pathomphong-i/draft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The Multiverse Version Control System for Concurrent AI Agent Swarms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Pathomphong-i/draft：Pathomphong-i/draft may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 56/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
