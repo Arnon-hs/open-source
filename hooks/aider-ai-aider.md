@@ -1,6 +1,6 @@
 # Aider-AI/aider
 
-[![Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&color=yellow)](https://github.com/Aider-AI/aider/stargazers) [![Forks](https://img.shields.io/github/forks/Aider-AI/aider?style=flat-square&color=blue)](https://github.com/Aider-AI/aider/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&color=yellow)](https://github.com/Aider-AI/aider/stargazers) [![Forks](https://img.shields.io/github/forks/Aider-AI/aider?style=flat-square&color=blue)](https://github.com/Aider-AI/aider/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > aider is AI pair programming in your terminal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49k |
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ hooks · context delivery · model gating · performance optimization · develop
 
 ### English
 
-Aider-AI/aider: Aider-AI/aider may be useful when its README and activity match a concrete workflow.. Use it for hooks, context delivery, model gating, performance optimization, developer experience. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Aider-AI/aider: Aider-AI/aider may be useful when its README and activity match a concrete workflow.. Use it for hooks, context delivery, model gating, performance optimization, developer experience. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Aider-AI/aider: open-source проект в категориях hooks, context delivery, model gating, performance optimization, developer experience. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Aider-AI/aider: open-source проект в категориях hooks, context delivery, model gating, performance optimization, developer experience. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Aider-AI/aider：Aider-AI/aider may be useful when its README and activity match a concrete workflow.。适合用于hooks、context delivery、model gating、performance optimization、developer experience。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Aider-AI/aider：Aider-AI/aider may be useful when its README and activity match a concrete workflow.。适合用于hooks、context delivery、model gating、performance optimization、developer experience。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Aider-AI/aider：Aider-AI/aider may be useful when its README and activity match
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ Aider-AI/aider：Aider-AI/aider may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 88/100 |
+| production | 74/100 |
+| outlook | 81/100 |
 | adoption | 98/100 |
 | categoryMatchCount | 500/100 |
 | stars | 100/100 |
 | forks | 92/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
