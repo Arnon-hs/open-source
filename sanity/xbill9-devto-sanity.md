@@ -1,6 +1,6 @@
 # xbill9/devto-sanity
 
-[![Stars](https://img.shields.io/github/stars/xbill9/devto-sanity?style=flat-square&color=yellow)](https://github.com/xbill9/devto-sanity/stargazers) [![Forks](https://img.shields.io/github/forks/xbill9/devto-sanity?style=flat-square&color=blue)](https://github.com/xbill9/devto-sanity/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xbill9/devto-sanity?style=flat-square&color=yellow)](https://github.com/xbill9/devto-sanity/stargazers) [![Forks](https://img.shields.io/github/forks/xbill9/devto-sanity?style=flat-square&color=blue)](https://github.com/xbill9/devto-sanity/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Brawndo: it's got what content craves. DEV Sanity Challenge entry — Sanity Studio, Workflows, App SDK, Next.js, and an agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ xbill9/devto-sanity：xbill9/devto-sanity may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
