@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36580** |
-| **Categories** | **256** |
+| **Projects** | **36585** |
+| **Categories** | **255** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13848 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4152 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2639 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2245 | [Browse →](./orchestration/) |
+| 📦 **Misc** | 13849 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4154 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2641 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2247 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1545 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1311 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 487 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 478 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 431 | [Browse →](./templates/) |
-| 🔐 **Security** | 392 | [Browse →](./security/) |
+| 🔐 **Security** | 393 | [Browse →](./security/) |
 | 🏷️ **Communication** | 388 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 377 | [Browse →](./video-editing/) |
 | 📊 **Data** | 327 | [Browse →](./data/) |
@@ -102,7 +102,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Opencode** | 2 | [Browse →](./opencode/) |
 | 🏷️ **Version-control** | 2 | [Browse →](./version-control/) |
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
-| 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Ai-coding-agents** | 2 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Api-testing** | 2 | [Browse →](./api-testing/) |
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
@@ -111,7 +110,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Agent-self-editing** | 2 | [Browse →](./agent-self-editing/) |
 | 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
-| 🏷️ **Data-leakage** | 2 | [Browse →](./data-leakage/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
@@ -120,6 +118,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Firebase** | 1 | [Browse →](./firebase/) |
 | 🏷️ **Travel** | 1 | [Browse →](./travel/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
 | 🏷️ **Db-admin** | 1 | [Browse →](./db-admin/) |
@@ -160,6 +159,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding** | 1 | [Browse →](./coding/) |
 | 🏷️ **Ai-agent-testing** | 1 | [Browse →](./ai-agent-testing/) |
 | 🏷️ **Email** | 1 | [Browse →](./email/) |
+| 🏷️ **Claude** | 1 | [Browse →](./claude/) |
 | 🏷️ **Logging** | 1 | [Browse →](./logging/) |
 | 🏷️ **Filesystem** | 1 | [Browse →](./filesystem/) |
 | 🏷️ **Web-push** | 1 | [Browse →](./web-push/) |
@@ -226,7 +226,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
 | 🏷️ **Env-spec** | 1 | [Browse →](./env-spec/) |
 | 🏷️ **Agentsmd** | 1 | [Browse →](./agentsmd/) |
-| 🏷️ **Eu-cra** | 1 | [Browse →](./eu-cra/) |
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
 | 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |

@@ -1,6 +1,6 @@
 # arxhr007/Aliens_eye
 
-[![Stars](https://img.shields.io/github/stars/arxhr007/Aliens_eye?style=flat-square&color=yellow)](https://github.com/arxhr007/Aliens_eye/stargazers) [![Forks](https://img.shields.io/github/forks/arxhr007/Aliens_eye?style=flat-square&color=blue)](https://github.com/arxhr007/Aliens_eye/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arxhr007/Aliens_eye?style=flat-square&color=yellow)](https://github.com/arxhr007/Aliens_eye/stargazers) [![Forks](https://img.shields.io/github/forks/arxhr007/Aliens_eye?style=flat-square&color=blue)](https://github.com/arxhr007/Aliens_eye/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Scans 840+ platforms for registered usernames using an AI-blended detection system that analyzes structural signals and extracts detailed profile information for each hit.  https://t.co/7SyUj1bwnP https://t.co/OOcRO2xOui https://github.com/arxhr007/Aliens_eye
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 458 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ arxhr007/Aliens_eye：arxhr007/Aliens_eye helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 82/100 |
+| production | 68/100 |
+| outlook | 75/100 |
 | adoption | 74/100 |
 | categoryMatchCount | 100/100 |
 | stars | 77/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

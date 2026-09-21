@@ -1,4 +1,4 @@
-# 🏷️ Claude
+# 🏷️ Firebase
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Kostakurta8/roundtable](./kostakurta8-roundtable.md) | ⭐ 19 | TypeScript | 71/100 |
+| 1 | [Ugesh-Praavin/fireconfig](./ugesh-praavin-fireconfig.md) | ⭐ 2 | JavaScript | 65/100 |
 
 ---
 
