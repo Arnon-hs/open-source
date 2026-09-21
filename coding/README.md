@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [XiXian42/wtagent](./xixian42-wtagent.md) | ⭐ 13 | JavaScript | 78/100 |
+| 1 | [XiXian42/wtagent](./xixian42-wtagent.md) | ⭐ 13 | JavaScript | 74/100 |
 
 ---
 
