@@ -1,6 +1,6 @@
 # MobAI-App/simslim
 
-[![Stars](https://img.shields.io/github/stars/MobAI-App/simslim?style=flat-square&color=yellow)](https://github.com/MobAI-App/simslim/stargazers) [![Forks](https://img.shields.io/github/forks/MobAI-App/simslim?style=flat-square&color=blue)](https://github.com/MobAI-App/simslim/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MobAI-App/simslim?style=flat-square&color=yellow)](https://github.com/MobAI-App/simslim/stargazers) [![Forks](https://img.shields.io/github/forks/MobAI-App/simslim?style=flat-square&color=blue)](https://github.com/MobAI-App/simslim/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Disables unnecessary background daemons to run more iOS simulators on a Mac.  https://t.co/LfopYGNbwx https://t.co/EwnzvoZVfu https://github.com/MobAI-App/simslim
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ MobAI-App/simslim：MobAI-App/simslim may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 63/100 |
 | categoryMatchCount | 100/100 |
 | stars | 70/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
