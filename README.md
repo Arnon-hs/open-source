@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36543** |
-| **Categories** | **255** |
+| **Projects** | **36546** |
+| **Categories** | **254** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -30,7 +30,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔧 **DevTools** | 1545 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1310 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 862 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 768 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 634 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 617 | [Browse →](./networking/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 430 | [Browse →](./templates/) |
 | 🔐 **Security** | 391 | [Browse →](./security/) |
 | 🏷️ **Communication** | 388 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 375 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 377 | [Browse →](./video-editing/) |
 | 📊 **Data** | 327 | [Browse →](./data/) |
 | 💳 **Payments** | 318 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 317 | [Browse →](./games--graphics/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 242 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 194 | [Browse →](./trading/) |
 | ✨ **Design** | 154 | [Browse →](./design/) |
-| 🏷️ **Content-creation** | 130 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 131 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 84 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 34 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -118,6 +118,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Photography** | 1 | [Browse →](./photography/) |
 | 🏷️ **Model-migration** | 1 | [Browse →](./model-migration/) |
 | 🏷️ **Pcap** | 1 | [Browse →](./pcap/) |
 | 🏷️ **Template** | 1 | [Browse →](./template/) |
@@ -225,8 +226,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
 | 🏷️ **Devops** | 1 | [Browse →](./devops/) |
 | 🏷️ **Finetuning** | 1 | [Browse →](./finetuning/) |
-| 🏷️ **Mermaid** | 1 | [Browse →](./mermaid/) |
-| 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
 | 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |
 | 🏷️ **Agent-based-development** | 1 | [Browse →](./agent-based-development/) |
