@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Wvdstoep/ghost-browser](./wvdstoep-ghost-browser.md) | ⭐ 1 | JavaScript | 61/100 |
+| 1 | [singhand-labs/AegisCrawler](./singhand-labs-aegiscrawler.md) | ⭐ 13 | Go | 70/100 |
 
 ---
 
