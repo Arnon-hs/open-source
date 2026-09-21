@@ -288,8 +288,8 @@
 | 278 | [solkin/appteka-android](./solkin-appteka-android.md) | ⭐ 991 | Kotlin | 55/100 |
 | 279 | [tabletseeker/mobian](./tabletseeker-mobian.md) | ⭐ 214 | Shell | 55/100 |
 | 280 | [square/wire](./square-wire.md) | ⭐ 4.4k | Kotlin | 55/100 |
-| 281 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 905 | Kotlin | 55/100 |
-| 282 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 694 | Kotlin | 55/100 |
+| 281 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 694 | Kotlin | 55/100 |
+| 282 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 905 | Kotlin | 55/100 |
 | 283 | [CatimaLoyalty/Android](./catimaloyalty-android.md) | ⭐ 1.6k | Java | 55/100 |
 | 284 | [facebook/redex](./facebook-redex.md) | ⭐ 6.3k | C++ | 55/100 |
 | 285 | [OneBusAway/onebusaway-android](./onebusaway-onebusaway-android.md) | ⭐ 559 | Kotlin | 55/100 |
@@ -564,8 +564,8 @@
 | 554 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 555 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 38/100 |
 | 556 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 557 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 558 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
+| 557 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
+| 558 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
 | 559 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 38/100 |
 | 560 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 38/100 |
 | 561 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 38/100 |

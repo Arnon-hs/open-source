@@ -65,18 +65,18 @@ cbrock84/headcount：cbrock84/headcount helps connect AI assistants to real tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 68/100 |
-| outlook | 73/100 |
-| adoption | 64/100 |
-| categoryMatchCount | 300/100 |
-| stars | 67/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| stars | 67/100 |
 | topics | 75/100 |
+| outlook | 73/100 |
+| quality | 71/100 |
+| recency | 80/100 |
+| adoption | 64/100 |
+| production | 68/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

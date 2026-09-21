@@ -2,7 +2,7 @@
 
 > 
 
-**431 projects** in this category.
+**432 projects** in this category.
 
 ## Projects
 
@@ -438,7 +438,8 @@
 | 428 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
 | 429 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
 | 430 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
-| 431 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
+| 431 | [Kishan324/fitcal-flutter-ui-kit-boilerplate](./kishan324-fitcal-flutter-ui-kit-boilerplate.md) | ⭐ — | Dart | 36/100 |
+| 432 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
 
 ---
 

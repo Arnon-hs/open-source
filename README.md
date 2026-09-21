@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36662** |
-| **Categories** | **260** |
+| **Projects** | **36663** |
+| **Categories** | **259** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 13895 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4162 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4163 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2643 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2248 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1546 | [Browse →](./devtools/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 565 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 488 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 479 | [Browse →](./devopsinfra/) |
-| 🏷️ **Templates** | 431 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 432 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 🏷️ **Communication** | 388 | [Browse →](./communication/) |
 | 🏷️ **Video-editing** | 380 | [Browse →](./video-editing/) |
@@ -116,6 +116,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Trajectory** | 1 | [Browse →](./trajectory/) |
 | 🏷️ **Splitwise** | 1 | [Browse →](./splitwise/) |
 | 🏷️ **Ci** | 1 | [Browse →](./ci/) |
 | 🏷️ **Enterprise-ai** | 1 | [Browse →](./enterprise-ai/) |
@@ -226,8 +227,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |
 | 🏷️ **Postgres** | 1 | [Browse →](./postgres/) |
-| 🏷️ **Remote-work** | 1 | [Browse →](./remote-work/) |
-| 🏷️ **Flutter** | 1 | [Browse →](./flutter/) |
 | 🏷️ **Nestjs** | 1 | [Browse →](./nestjs/) |
 | 🏷️ **Hackathon** | 1 | [Browse →](./hackathon/) |
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
