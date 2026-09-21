@@ -1,6 +1,6 @@
 # k2so-dev/junctio
 
-[![Stars](https://img.shields.io/github/stars/k2so-dev/junctio?style=flat-square&color=yellow)](https://github.com/k2so-dev/junctio/stargazers) [![Forks](https://img.shields.io/github/forks/k2so-dev/junctio?style=flat-square&color=blue)](https://github.com/k2so-dev/junctio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k2so-dev/junctio?style=flat-square&color=yellow)](https://github.com/k2so-dev/junctio/stargazers) [![Forks](https://img.shields.io/github/forks/k2so-dev/junctio?style=flat-square&color=blue)](https://github.com/k2so-dev/junctio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted MCP gateway: one container, one endpoint per client, upstream OAuth that never goes stale. Aggregate stdio, Docker and remote MCP servers behind a single URL for Claude Code, Codex and Cursor. No telemetry.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ k2so-dev/junctio：k2so-dev/junctio helps connect AI assistants to real tools an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 100/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -1,4 +1,4 @@
-# 🏷️ Android
+# 🏷️ Web-accessibility
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
+| 1 | [pandayv/mad-platform-community](./pandayv-mad-platform-community.md) | ⭐ — | Python | 54/100 |
 
 ---
 
