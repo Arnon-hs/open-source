@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Wujerry/RepoAtlas](./wujerry-repoatlas.md) | ⭐ 1 | Rust | 40/100 |
+| 1 | [Wujerry/RepoAtlas](./wujerry-repoatlas.md) | ⭐ 1 | Rust | 37/100 |
 
 ---
 

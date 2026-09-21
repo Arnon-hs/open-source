@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [VladB-evs/Fuse](./vladb-evs-fuse.md) | ⭐ — | TypeScript | 60/100 |
+| 1 | [VladB-evs/Fuse](./vladb-evs-fuse.md) | ⭐ — | TypeScript | 57/100 |
 
 ---
 
