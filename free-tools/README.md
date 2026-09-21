@@ -2,15 +2,14 @@
 
 > 
 
-**3 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [TabbyML/tabby](./tabbyml-tabby.md) | ⭐ 33.9k | Rust | 70/100 |
-| 2 | [scrape-io/dify](./scrape-io-dify.md) | ⭐ — | — | 24/100 |
-| 3 | [abdelaziz/continue](./abdelaziz-continue.md) | ⭐ — | — | 24/100 |
+| 1 | [scrape-io/dify](./scrape-io-dify.md) | ⭐ — | — | 24/100 |
+| 2 | [abdelaziz/continue](./abdelaziz-continue.md) | ⭐ — | — | 24/100 |
 
 ---
 
