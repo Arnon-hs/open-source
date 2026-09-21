@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36647** |
-| **Categories** | **258** |
+| **Projects** | **36651** |
+| **Categories** | **260** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13885 | [Browse →](./misc/) |
+| 📦 **Misc** | 13886 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4162 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2643 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2247 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2248 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1546 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1311 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 903 | [Browse →](./backend/) |
@@ -53,11 +53,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 155 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 132 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 84 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
-| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
+| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Code-review** | 2 | [Browse →](./code-review/) |
@@ -115,6 +116,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Ci** | 1 | [Browse →](./ci/) |
 | 🏷️ **Enterprise-ai** | 1 | [Browse →](./enterprise-ai/) |
 | 🏷️ **Federated-learning** | 1 | [Browse →](./federated-learning/) |
 | 🏷️ **Cost-savings** | 1 | [Browse →](./cost-savings/) |

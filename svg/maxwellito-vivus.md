@@ -1,6 +1,6 @@
 # maxwellito/vivus
 
-[![Stars](https://img.shields.io/github/stars/maxwellito/vivus?style=flat-square&color=yellow)](https://github.com/maxwellito/vivus/stargazers) [![Forks](https://img.shields.io/github/forks/maxwellito/vivus?style=flat-square&color=blue)](https://github.com/maxwellito/vivus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxwellito/vivus?style=flat-square&color=yellow)](https://github.com/maxwellito/vivus/stargazers) [![Forks](https://img.shields.io/github/forks/maxwellito/vivus?style=flat-square&color=blue)](https://github.com/maxwellito/vivus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript library to make drawing animation on SVG
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ maxwellito/vivus：maxwellito/vivus may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 86/100 |
 | categoryMatchCount | 500/100 |
 | stars | 89/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
