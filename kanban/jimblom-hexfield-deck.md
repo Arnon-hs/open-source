@@ -1,6 +1,6 @@
 # jimblom/Hexfield-Deck
 
-[![Stars](https://img.shields.io/github/stars/jimblom/Hexfield-Deck?style=flat-square&color=yellow)](https://github.com/jimblom/Hexfield-Deck/stargazers) [![Forks](https://img.shields.io/github/forks/jimblom/Hexfield-Deck?style=flat-square&color=blue)](https://github.com/jimblom/Hexfield-Deck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jimblom/Hexfield-Deck?style=flat-square&color=yellow)](https://github.com/jimblom/Hexfield-Deck/stargazers) [![Forks](https://img.shields.io/github/forks/jimblom/Hexfield-Deck?style=flat-square&color=blue)](https://github.com/jimblom/Hexfield-Deck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Hexfield Deck is a markdown-powered task board for VS Code and Obsidian. Parse your markdown files into an interactive kanban board. Drag cards across columns, set due dates, apply tags, and manage your workflow without ever leaving your editor. Your notes, your board, your deck.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ jimblom/Hexfield-Deck：jimblom/Hexfield-Deck may be useful when its README and 
 - updated 2026-09-18
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 25/100 |
 | categoryMatchCount | 500/100 |
 | stars | 35/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
