@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36667** |
-| **Categories** | **259** |
+| **Projects** | **36669** |
+| **Categories** | **260** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -85,6 +85,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ssh** | 2 | [Browse →](./ssh/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
@@ -116,6 +117,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Uyap** | 1 | [Browse →](./uyap/) |
 | 🏷️ **Trajectory** | 1 | [Browse →](./trajectory/) |
 | 🏷️ **Splitwise** | 1 | [Browse →](./splitwise/) |
 | 🏷️ **Ci** | 1 | [Browse →](./ci/) |
@@ -157,7 +159,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Supply-chain-security** | 1 | [Browse →](./supply-chain-security/) |
 | 🏷️ **Semantic-search** | 1 | [Browse →](./semantic-search/) |
 | 🏷️ **Codex** | 1 | [Browse →](./codex/) |
-| 🏷️ **Ssh** | 1 | [Browse →](./ssh/) |
 | 🏷️ **Roslyn** | 1 | [Browse →](./roslyn/) |
 | 🏷️ **Engineering-metrics** | 1 | [Browse →](./engineering-metrics/) |
 | 🏷️ **Preflight** | 1 | [Browse →](./preflight/) |

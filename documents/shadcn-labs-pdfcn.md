@@ -1,6 +1,6 @@
 # shadcn-labs/pdfcn
 
-[![Stars](https://img.shields.io/github/stars/shadcn-labs/pdfcn?style=flat-square&color=yellow)](https://github.com/shadcn-labs/pdfcn/stargazers) [![Forks](https://img.shields.io/github/forks/shadcn-labs/pdfcn?style=flat-square&color=blue)](https://github.com/shadcn-labs/pdfcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shadcn-labs/pdfcn?style=flat-square&color=yellow)](https://github.com/shadcn-labs/pdfcn/stargazers) [![Forks](https://img.shields.io/github/forks/shadcn-labs/pdfcn?style=flat-square&color=blue)](https://github.com/shadcn-labs/pdfcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Generates PDFs from React components using the Takumi or Forme rendering engines.  https://t.co/Llc61OvNgM https://t.co/bDFUeEBEqt https://github.com/shadcn-labs/pdfcn
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ shadcn-labs/pdfcn：shadcn-labs/pdfcn may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 64/100 |
 | categoryMatchCount | 200/100 |
 | stars | 69/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
