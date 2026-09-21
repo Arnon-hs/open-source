@@ -1,6 +1,6 @@
 # jnordberg/gif.js
 
-[![Stars](https://img.shields.io/github/stars/jnordberg/gif.js?style=flat-square&color=yellow)](https://github.com/jnordberg/gif.js/stargazers) [![Forks](https://img.shields.io/github/forks/jnordberg/gif.js?style=flat-square&color=blue)](https://github.com/jnordberg/gif.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jnordberg/gif.js?style=flat-square&color=yellow)](https://github.com/jnordberg/gif.js/stargazers) [![Forks](https://img.shields.io/github/forks/jnordberg/gif.js?style=flat-square&color=blue)](https://github.com/jnordberg/gif.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript GIF encoding library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 664 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ jnordberg/gif.js：jnordberg/gif.js may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 500/100 |
 | stars | 79/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

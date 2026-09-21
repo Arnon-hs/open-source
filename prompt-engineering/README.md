@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jnordberg/gif.js](./jnordberg-gif.js.md) | ⭐ 5k | JavaScript | 56/100 |
+| 1 | [jnordberg/gif.js](./jnordberg-gif.js.md) | ⭐ 5k | JavaScript | 53/100 |
 
 ---
 
