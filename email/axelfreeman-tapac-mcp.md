@@ -1,6 +1,6 @@
 # axelfreeman/tapac-mcp
 
-[![Stars](https://img.shields.io/github/stars/axelfreeman/tapac-mcp?style=flat-square&color=yellow)](https://github.com/axelfreeman/tapac-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/axelfreeman/tapac-mcp?style=flat-square&color=blue)](https://github.com/axelfreeman/tapac-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/axelfreeman/tapac-mcp?style=flat-square&color=yellow)](https://github.com/axelfreeman/tapac-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/axelfreeman/tapac-mcp?style=flat-square&color=blue)](https://github.com/axelfreeman/tapac-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that finds and verifies B2B contacts in real time (websites, Discord, Telegram) with SMTP validation — 2-5% bounce. npx -y @tapacapi/mcp
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ axelfreeman/tapac-mcp：axelfreeman/tapac-mcp may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 60/100 |
+| outlook | 66/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

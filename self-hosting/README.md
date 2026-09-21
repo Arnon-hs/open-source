@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Peon-sh/Peon](./peon-sh-peon.md) | ⭐ 89 | TypeScript | 63/100 |
+| 1 | [Peon-sh/Peon](./peon-sh-peon.md) | ⭐ 89 | TypeScript | 60/100 |
 | 2 | [coolifyhq/coolify](./coolifyhq-coolify.md) | ⭐ — | — | 24/100 |
 | 3 | [ggerganov/ggml](./ggerganov-ggml.md) | ⭐ — | — | 24/100 |
 | 4 | [yourusername/layerchart](./yourusername-layerchart.md) | ⭐ — | — | 24/100 |

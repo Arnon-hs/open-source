@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [axelfreeman/tapac-mcp](./axelfreeman-tapac-mcp.md) | ⭐ 3 | JavaScript | 66/100 |
+| 1 | [axelfreeman/tapac-mcp](./axelfreeman-tapac-mcp.md) | ⭐ 3 | JavaScript | 63/100 |
 
 ---
 
