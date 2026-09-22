@@ -1,6 +1,6 @@
 # arman-bd/guppylm
 
-[![Stars](https://img.shields.io/github/stars/arman-bd/guppylm?style=flat-square&color=yellow)](https://github.com/arman-bd/guppylm/stargazers) [![Forks](https://img.shields.io/github/forks/arman-bd/guppylm?style=flat-square&color=blue)](https://github.com/arman-bd/guppylm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arman-bd/guppylm?style=flat-square&color=yellow)](https://github.com/arman-bd/guppylm/stargazers) [![Forks](https://img.shields.io/github/forks/arman-bd/guppylm?style=flat-square&color=blue)](https://github.com/arman-bd/guppylm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Train a 9M parameter language model from scratch in five minutes.  https://t.co/YkZ9z2TqXC https://t.co/4bahnuhxlu https://github.com/arman-bd/guppylm
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-19 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ arman-bd/guppylm：arman-bd/guppylm may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 72/100 |
 | categoryMatchCount | 0/100 |
 | stars | 75/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
