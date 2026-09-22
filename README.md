@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36670** |
-| **Categories** | **260** |
+| **Projects** | **36677** |
+| **Categories** | **263** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13898 | [Browse →](./misc/) |
+| 📦 **Misc** | 13902 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4163 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2643 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2248 | [Browse →](./orchestration/) |
@@ -117,6 +117,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **File-management** | 1 | [Browse →](./file-management/) |
+| 🏷️ **Duplicatefilefinder** | 1 | [Browse →](./duplicatefilefinder/) |
+| 🏷️ **Pre-commit** | 1 | [Browse →](./pre-commit/) |
 | 🏷️ **Uyap** | 1 | [Browse →](./uyap/) |
 | 🏷️ **Trajectory** | 1 | [Browse →](./trajectory/) |
 | 🏷️ **Splitwise** | 1 | [Browse →](./splitwise/) |
