@@ -603,8 +603,8 @@
 | 593 | [scottyzen/woonuxt](./scottyzen-woonuxt.md) | ⭐ 962 | TypeScript | 60/100 |
 | 594 | [ComunidadAylas/PackSquash](./comunidadaylas-packsquash.md) | ⭐ 836 | Rust | 60/100 |
 | 595 | [cabloy/cabloy](./cabloy-cabloy.md) | ⭐ 969 | TypeScript | 60/100 |
-| 596 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 344 | Go | 60/100 |
-| 597 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 931 | Python | 60/100 |
+| 596 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 931 | Python | 60/100 |
+| 597 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 344 | Go | 60/100 |
 | 598 | [PowerDNS/pdns](./powerdns-pdns.md) | ⭐ 4.4k | C++ | 60/100 |
 | 599 | [FreeRADIUS/freeradius-server](./freeradius-freeradius-server.md) | ⭐ 2.5k | C | 60/100 |
 | 600 | [apollographql/apollo-rs](./apollographql-apollo-rs.md) | ⭐ 601 | Rust | 60/100 |
@@ -765,11 +765,11 @@
 | 755 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 1.1k | Swift | 55/100 |
 | 756 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 311 | TypeScript | 55/100 |
 | 757 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 758 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
-| 759 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 758 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 759 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
 | 760 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2k | JavaScript | 55/100 |
-| 761 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
-| 762 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 761 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 762 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
 | 763 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 6.9k | Java | 55/100 |
 | 764 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 4.9k | Rust | 55/100 |
 | 765 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 55/100 |
