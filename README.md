@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36688** |
-| **Categories** | **263** |
+| **Projects** | **36690** |
+| **Categories** | **264** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13909 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4163 | [Browse →](./aiml/) |
+| 📦 **Misc** | 13910 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4164 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2643 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2248 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2249 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1546 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1312 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 903 | [Browse →](./backend/) |
@@ -38,7 +38,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 572 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 567 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 488 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 479 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 480 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 432 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 🏷️ **Communication** | 388 | [Browse →](./communication/) |
@@ -53,19 +53,19 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 155 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 132 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 84 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 32 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 29 | [Browse →](./marketing/) |
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
-| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 8 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
-| 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Benchmark** | 5 | [Browse →](./benchmark/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
+| 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
@@ -117,6 +117,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Anythingllm** | 1 | [Browse →](./anythingllm/) |
 | 🏷️ **File-management** | 1 | [Browse →](./file-management/) |
 | 🏷️ **Duplicatefilefinder** | 1 | [Browse →](./duplicatefilefinder/) |
 | 🏷️ **Pre-commit** | 1 | [Browse →](./pre-commit/) |
