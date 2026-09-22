@@ -1,4 +1,4 @@
-# 🏷️ Dex
+# 🏷️ Payment
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [edycutjong/elephant](./edycutjong-elephant.md) | ⭐ — | HTML | 49/100 |
+| 1 | [PayIntLab/psp-drift-watch](./payintlab-psp-drift-watch.md) | ⭐ — | Python | 39/100 |
 
 ---
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36692** |
+| **Projects** | **36693** |
 | **Categories** | **264** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -48,7 +48,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Games--graphics** | 317 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 304 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 277 | [Browse →](./observability/) |
-| 🏷️ **Libraries--sdks** | 242 | [Browse →](./libraries--sdks/) |
+| 🏷️ **Libraries--sdks** | 243 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
 | ✨ **Design** | 155 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 132 | [Browse →](./content-creation/) |
@@ -117,6 +117,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Payment** | 1 | [Browse →](./payment/) |
 | 🏷️ **Anythingllm** | 1 | [Browse →](./anythingllm/) |
 | 🏷️ **File-management** | 1 | [Browse →](./file-management/) |
 | 🏷️ **Duplicatefilefinder** | 1 | [Browse →](./duplicatefilefinder/) |
@@ -228,7 +229,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Candlestick** | 1 | [Browse →](./candlestick/) |
 | 🏷️ **Tebex** | 1 | [Browse →](./tebex/) |
 | 🏷️ **Archiver** | 1 | [Browse →](./archiver/) |
-| 🏷️ **Cloud** | 1 | [Browse →](./cloud/) |
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |
 | 🏷️ **Postgres** | 1 | [Browse →](./postgres/) |
