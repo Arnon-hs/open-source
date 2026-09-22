@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [xbill9/devto-sanity](./xbill9-devto-sanity.md) | ⭐ — | HTML | 55/100 |
-| 2 | [AndyAnimus/errata-desk](./andyanimus-errata-desk.md) | ⭐ — | JavaScript | 43/100 |
+| 2 | [AndyAnimus/errata-desk](./andyanimus-errata-desk.md) | ⭐ — | JavaScript | 40/100 |
 | 3 | [google-gemini/genai](./google-gemini-genai.md) | ⭐ — | — | 27/100 |
 
 ---
