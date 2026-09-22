@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Nir-Bhay/markups](./nir-bhay-markups.md) | ⭐ 22 | JavaScript | 55/100 |
+| 1 | [krotname/NppMarkdownTableEditor](./krotname-nppmarkdowntableeditor.md) | ⭐ 4 | C++ | 55/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Thegm26/AgentHop](./thegm26-agenthop.md) | ⭐ — | Python | 44/100 |
+| 1 | [Thegm26/AgentHop](./thegm26-agenthop.md) | ⭐ — | Python | 41/100 |
 
 ---
 

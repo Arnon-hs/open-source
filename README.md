@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36766** |
-| **Categories** | **272** |
+| **Projects** | **36772** |
+| **Categories** | **273** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13953 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4168 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2647 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2252 | [Browse →](./orchestration/) |
+| 📦 **Misc** | 13955 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4169 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2648 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2253 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1547 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1313 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 903 | [Browse →](./backend/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 155 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 132 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 85 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 33 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 32 | [Browse →](./ai/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 29 | [Browse →](./marketing/) |
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Nunit** | 2 | [Browse →](./nunit/) |
 | 🏷️ **Voiceassistant** | 2 | [Browse →](./voiceassistant/) |
 | 🏷️ **Ssh** | 2 | [Browse →](./ssh/) |
@@ -117,6 +118,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
 | 🏷️ **Dependency-upgrade** | 1 | [Browse →](./dependency-upgrade/) |
 | 🏷️ **Release-engine** | 1 | [Browse →](./release-engine/) |
 | 🏷️ **Pr** | 1 | [Browse →](./pr/) |
@@ -189,7 +191,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent-testing** | 1 | [Browse →](./ai-agent-testing/) |
 | 🏷️ **Email** | 1 | [Browse →](./email/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
-| 🏷️ **Claude** | 1 | [Browse →](./claude/) |
 | 🏷️ **Logging** | 1 | [Browse →](./logging/) |
 | 🏷️ **Filesystem** | 1 | [Browse →](./filesystem/) |
 | 🏷️ **Web-push** | 1 | [Browse →](./web-push/) |
