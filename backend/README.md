@@ -768,8 +768,8 @@
 | 758 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
 | 759 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
 | 760 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2k | JavaScript | 55/100 |
-| 761 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
-| 762 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 761 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 762 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
 | 763 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 6.9k | Java | 55/100 |
 | 764 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 4.9k | Rust | 55/100 |
 | 765 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 55/100 |
