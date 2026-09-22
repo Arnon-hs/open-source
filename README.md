@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36780** |
-| **Categories** | **273** |
+| **Projects** | **36789** |
+| **Categories** | **274** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13961 | [Browse →](./misc/) |
+| 📦 **Misc** | 13968 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4169 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2648 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2253 | [Browse →](./orchestration/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Nunit** | 2 | [Browse →](./nunit/) |
 | 🏷️ **Voiceassistant** | 2 | [Browse →](./voiceassistant/) |
@@ -118,6 +119,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Scraping** | 1 | [Browse →](./scraping/) |
 | 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
 | 🏷️ **Dependency-upgrade** | 1 | [Browse →](./dependency-upgrade/) |
 | 🏷️ **Release-engine** | 1 | [Browse →](./release-engine/) |
@@ -126,7 +128,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Tdee** | 1 | [Browse →](./tdee/) |
 | 🏷️ **Codebase-visualization** | 1 | [Browse →](./codebase-visualization/) |
 | 🏷️ **Ksef** | 1 | [Browse →](./ksef/) |
-| 🏷️ **Angular** | 1 | [Browse →](./angular/) |
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Autonomous-coding** | 1 | [Browse →](./autonomous-coding/) |
 | 🏷️ **Coinmarketcap** | 1 | [Browse →](./coinmarketcap/) |
