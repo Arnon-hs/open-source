@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36746** |
-| **Categories** | **266** |
+| **Projects** | **36755** |
+| **Categories** | **269** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13944 | [Browse →](./misc/) |
+| 📦 **Misc** | 13949 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4166 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2646 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2251 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2252 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1547 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1312 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1313 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 903 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 864 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 771 | [Browse →](./crypto/) |
@@ -90,7 +90,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Voiceassistant** | 2 | [Browse →](./voiceassistant/) |
 | 🏷️ **Ssh** | 2 | [Browse →](./ssh/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
-| 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Code-review** | 2 | [Browse →](./code-review/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
@@ -117,6 +116,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Pr** | 1 | [Browse →](./pr/) |
+| 🏷️ **Bulk-detection** | 1 | [Browse →](./bulk-detection/) |
+| 🏷️ **Tdee** | 1 | [Browse →](./tdee/) |
+| 🏷️ **Codebase-visualization** | 1 | [Browse →](./codebase-visualization/) |
 | 🏷️ **Ksef** | 1 | [Browse →](./ksef/) |
 | 🏷️ **Angular** | 1 | [Browse →](./angular/) |
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
@@ -141,6 +144,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Fastapi** | 1 | [Browse →](./fastapi/) |
 | 🏷️ **Compiler** | 1 | [Browse →](./compiler/) |
 | 🏷️ **Web-accessibility** | 1 | [Browse →](./web-accessibility/) |
+| 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Firebase** | 1 | [Browse →](./firebase/) |
 | 🏷️ **Travel** | 1 | [Browse →](./travel/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
@@ -229,7 +233,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |
 | 🏷️ **Ai-music-generation** | 1 | [Browse →](./ai-music-generation/) |
 | 🏷️ **Meeting-notes** | 1 | [Browse →](./meeting-notes/) |
-| 🏷️ **Plugin** | 1 | [Browse →](./plugin/) |
 | 🏷️ **Cli** | 1 | [Browse →](./cli/) |
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |

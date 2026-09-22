@@ -1,6 +1,6 @@
 # mourner/suncalc
 
-[![Stars](https://img.shields.io/github/stars/mourner/suncalc?style=flat-square&color=yellow)](https://github.com/mourner/suncalc/stargazers) [![Forks](https://img.shields.io/github/forks/mourner/suncalc?style=flat-square&color=blue)](https://github.com/mourner/suncalc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mourner/suncalc?style=flat-square&color=yellow)](https://github.com/mourner/suncalc/stargazers) [![Forks](https://img.shields.io/github/forks/mourner/suncalc?style=flat-square&color=blue)](https://github.com/mourner/suncalc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A tiny JavaScript library for calculating sun/moon positions and phases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 440 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-19 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ mourner/suncalc：mourner/suncalc may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 600/100 |
 | stars | 75/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

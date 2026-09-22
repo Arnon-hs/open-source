@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mourner/suncalc](./mourner-suncalc.md) | ⭐ 3.5k | JavaScript | 55/100 |
+| 1 | [mourner/suncalc](./mourner-suncalc.md) | ⭐ 3.5k | JavaScript | 52/100 |
 
 ---
 

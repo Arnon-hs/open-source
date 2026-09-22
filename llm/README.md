@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [wraith1337/model-truth-desk](./wraith1337-model-truth-desk.md) | ⭐ — | TypeScript | 47/100 |
 | 2 | [sarang-pratham/jev-computer-use](./sarang-pratham-jev-computer-use.md) | ⭐ — | Python | 42/100 |
-| 3 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 39/100 |
+| 3 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 36/100 |
 | 4 | [mafeis/dsh-enterprise](./mafeis-dsh-enterprise.md) | ⭐ — | JavaScript | 36/100 |
 | 5 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |
 | 6 | [llmposter/llmposter](./llmposter-llmposter.md) | ⭐ — | — | 24/100 |
