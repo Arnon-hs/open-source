@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Codpal-Limited/deckgauge](./codpal-limited-deckgauge.md) | ⭐ 10 | TypeScript | 59/100 |
+| 1 | [Codpal-Limited/deckgauge](./codpal-limited-deckgauge.md) | ⭐ 10 | TypeScript | 56/100 |
 
 ---
 

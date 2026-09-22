@@ -1,6 +1,6 @@
 # Codpal-Limited/deckgauge
 
-[![Stars](https://img.shields.io/github/stars/Codpal-Limited/deckgauge?style=flat-square&color=yellow)](https://github.com/Codpal-Limited/deckgauge/stargazers) [![Forks](https://img.shields.io/github/forks/Codpal-Limited/deckgauge?style=flat-square&color=blue)](https://github.com/Codpal-Limited/deckgauge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Codpal-Limited/deckgauge?style=flat-square&color=yellow)](https://github.com/Codpal-Limited/deckgauge/stargazers) [![Forks](https://img.shields.io/github/forks/Codpal-Limited/deckgauge?style=flat-square&color=blue)](https://github.com/Codpal-Limited/deckgauge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Source-available engineering intelligence — one board over Jira, GitHub, GitLab & Azure DevOps: DORA metrics, roadmaps, and delivery insight. FSL-1.1, converts to Apache-2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-19 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Codpal-Limited/deckgauge：Codpal-Limited/deckgauge may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 71/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 500/100 |
 | stars | 22/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
