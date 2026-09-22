@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36814** |
+| **Projects** | **36818** |
 | **Categories** | **276** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13984 | [Browse →](./misc/) |
+| 📦 **Misc** | 13986 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4169 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2648 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2253 | [Browse →](./orchestration/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 433 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 🏷️ **Communication** | 388 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 382 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 383 | [Browse →](./video-editing/) |
 | 📊 **Data** | 327 | [Browse →](./data/) |
 | 💳 **Payments** | 319 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 317 | [Browse →](./games--graphics/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Typescript** | 2 | [Browse →](./typescript/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
@@ -177,7 +178,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
 | 🏷️ **Remote-jobs** | 1 | [Browse →](./remote-jobs/) |
-| 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
 | 🏷️ **Prompt-engineering** | 1 | [Browse →](./prompt-engineering/) |
 | 🏷️ **Perl** | 1 | [Browse →](./perl/) |
 | 🏷️ **Supply-chain-security** | 1 | [Browse →](./supply-chain-security/) |
