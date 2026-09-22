@@ -2,15 +2,13 @@
 
 > 
 
-**3 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [stefanzweifel/git-auto-commit-action](./stefanzweifel-git-auto-commit-action.md) | ⭐ 2.6k | Shell | 60/100 |
-| 2 | [fscss-ttr/provchart-repo-stats](./fscss-ttr-provchart-repo-stats.md) | ⭐ — | JavaScript | 36/100 |
-| 3 | [grantor/mcp](./grantor-mcp.md) | ⭐ — | — | 32/100 |
+| 1 | [LISK819129/GitComment](./lisk819129-gitcomment.md) | ⭐ 2 | TypeScript | 49/100 |
 
 ---
 

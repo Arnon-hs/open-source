@@ -2,7 +2,7 @@
 
 > 
 
-**432 projects** in this category.
+**433 projects** in this category.
 
 ## Projects
 
@@ -407,39 +407,40 @@
 | 397 | [TheBevyFlock/bevy_new_2d](./thebevyflock-bevy-new-2d.md) | ⭐ 458 | Rust | 50/100 |
 | 398 | [jamescherti/minimal-emacs.d](./jamescherti-minimal-emacs.d.md) | ⭐ 783 | Emacs Lisp | 50/100 |
 | 399 | [DevUnltd/js-library-boilerplate-basic](./devunltd-js-library-boilerplate-basic.md) | ⭐ 410 | HTML | 49/100 |
-| 400 | [johnstaveley/SecurityEssentials](./johnstaveley-securityessentials.md) | ⭐ — | — | 48/100 |
-| 401 | [nguyenchiemminhvu/castle](./nguyenchiemminhvu-castle.md) | ⭐ — | — | 48/100 |
-| 402 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 48/100 |
-| 403 | [Thurbeen/fleet](./thurbeen-fleet.md) | ⭐ — | Python | 47/100 |
-| 404 | [arconia-io/arconia](./arconia-io-arconia.md) | ⭐ 142 | Java | 47/100 |
-| 405 | [williamgritti/oss-bug-repro-lite](./williamgritti-oss-bug-repro-lite.md) | ⭐ — | — | 46/100 |
-| 406 | [anish000kumar/redux-box](./anish000kumar-redux-box.md) | ⭐ 703 | TypeScript | 46/100 |
-| 407 | [OactoDev/claude-code-field-kit](./oactodev-claude-code-field-kit.md) | ⭐ — | — | 45/100 |
-| 408 | [emal-avala/data-room](./emal-avala-data-room.md) | ⭐ — | — | 45/100 |
-| 409 | [axyz/binaural](./axyz-binaural.md) | ⭐ — | — | 45/100 |
-| 410 | [shadcn-ui/chatbot-template](./shadcn-ui-chatbot-template.md) | ⭐ — | — | 45/100 |
-| 411 | [weidsfsdwgf/ai-prototype-demo](./weidsfsdwgf-ai-prototype-demo.md) | ⭐ — | — | 45/100 |
-| 412 | [beint-no/thim](./beint-no-thim.md) | ⭐ — | — | 45/100 |
-| 413 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ — | — | 45/100 |
-| 414 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ — | — | 45/100 |
-| 415 | [artob/readmer](./artob-readmer.md) | ⭐ — | — | 45/100 |
-| 416 | [human0-ai/template](./human0-ai-template.md) | ⭐ — | — | 45/100 |
-| 417 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ — | — | 45/100 |
-| 418 | [leomos/pigiaminja](./leomos-pigiaminja.md) | ⭐ — | — | 45/100 |
-| 419 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 45/100 |
-| 420 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 45/100 |
-| 421 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
-| 422 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
-| 423 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
-| 424 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
-| 425 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
-| 426 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
-| 427 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
-| 428 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
-| 429 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
-| 430 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
-| 431 | [Kishan324/fitcal-flutter-ui-kit-boilerplate](./kishan324-fitcal-flutter-ui-kit-boilerplate.md) | ⭐ — | Dart | 36/100 |
-| 432 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
+| 400 | [astra-intelligence/saas-landing-page-template](./astra-intelligence-saas-landing-page-template.md) | ⭐ — | — | 48/100 |
+| 401 | [johnstaveley/SecurityEssentials](./johnstaveley-securityessentials.md) | ⭐ — | — | 48/100 |
+| 402 | [nguyenchiemminhvu/castle](./nguyenchiemminhvu-castle.md) | ⭐ — | — | 48/100 |
+| 403 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 48/100 |
+| 404 | [Thurbeen/fleet](./thurbeen-fleet.md) | ⭐ — | Python | 47/100 |
+| 405 | [arconia-io/arconia](./arconia-io-arconia.md) | ⭐ 142 | Java | 47/100 |
+| 406 | [williamgritti/oss-bug-repro-lite](./williamgritti-oss-bug-repro-lite.md) | ⭐ — | — | 46/100 |
+| 407 | [anish000kumar/redux-box](./anish000kumar-redux-box.md) | ⭐ 703 | TypeScript | 46/100 |
+| 408 | [OactoDev/claude-code-field-kit](./oactodev-claude-code-field-kit.md) | ⭐ — | — | 45/100 |
+| 409 | [emal-avala/data-room](./emal-avala-data-room.md) | ⭐ — | — | 45/100 |
+| 410 | [axyz/binaural](./axyz-binaural.md) | ⭐ — | — | 45/100 |
+| 411 | [shadcn-ui/chatbot-template](./shadcn-ui-chatbot-template.md) | ⭐ — | — | 45/100 |
+| 412 | [weidsfsdwgf/ai-prototype-demo](./weidsfsdwgf-ai-prototype-demo.md) | ⭐ — | — | 45/100 |
+| 413 | [beint-no/thim](./beint-no-thim.md) | ⭐ — | — | 45/100 |
+| 414 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ — | — | 45/100 |
+| 415 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ — | — | 45/100 |
+| 416 | [artob/readmer](./artob-readmer.md) | ⭐ — | — | 45/100 |
+| 417 | [human0-ai/template](./human0-ai-template.md) | ⭐ — | — | 45/100 |
+| 418 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ — | — | 45/100 |
+| 419 | [leomos/pigiaminja](./leomos-pigiaminja.md) | ⭐ — | — | 45/100 |
+| 420 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 45/100 |
+| 421 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 45/100 |
+| 422 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
+| 423 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
+| 424 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
+| 425 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
+| 426 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
+| 427 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
+| 428 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
+| 429 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
+| 430 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
+| 431 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
+| 432 | [Kishan324/fitcal-flutter-ui-kit-boilerplate](./kishan324-fitcal-flutter-ui-kit-boilerplate.md) | ⭐ — | Dart | 36/100 |
+| 433 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
 
 ---
 
