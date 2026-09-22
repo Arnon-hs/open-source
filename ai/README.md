@@ -9,10 +9,10 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [octokit/rest.js](./octokit-rest.js.md) | ⭐ 663 | TypeScript | 73/100 |
-| 2 | [OJ/gobuster](./oj-gobuster.md) | ⭐ 14.1k | Go | 69/100 |
-| 3 | [getsops/sops](./getsops-sops.md) | ⭐ 23.1k | Go | 68/100 |
-| 4 | [fxerkan/concealer](./fxerkan-concealer.md) | ⭐ 14 | Python | 68/100 |
-| 5 | [chunxiaoxx/nautilus-compass](./chunxiaoxx-nautilus-compass.md) | ⭐ 131 | Python | 68/100 |
+| 2 | [getsops/sops](./getsops-sops.md) | ⭐ 23.1k | Go | 68/100 |
+| 3 | [fxerkan/concealer](./fxerkan-concealer.md) | ⭐ 14 | Python | 68/100 |
+| 4 | [chunxiaoxx/nautilus-compass](./chunxiaoxx-nautilus-compass.md) | ⭐ 131 | Python | 68/100 |
+| 5 | [OJ/gobuster](./oj-gobuster.md) | ⭐ 14.1k | Go | 66/100 |
 | 6 | [akshaypatel-ai/ai-automations](./akshaypatel-ai-ai-automations.md) | ⭐ — | Shell | 63/100 |
 | 7 | [subaru-hello/tenant-invariant](./subaru-hello-tenant-invariant.md) | ⭐ — | Rust | 59/100 |
 | 8 | [Axidesk/Axio-Coder](./axidesk-axio-coder.md) | ⭐ — | Python | 59/100 |

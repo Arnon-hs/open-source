@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36756** |
-| **Categories** | **269** |
+| **Projects** | **36766** |
+| **Categories** | **272** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13950 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4166 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2646 | [Browse →](./mcp/) |
+| 📦 **Misc** | 13953 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4168 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2647 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2252 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1547 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1313 | [Browse →](./automation/) |
@@ -48,7 +48,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Games--graphics** | 317 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 304 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 277 | [Browse →](./observability/) |
-| 🏷️ **Libraries--sdks** | 243 | [Browse →](./libraries--sdks/) |
+| 🏷️ **Libraries--sdks** | 244 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
 | ✨ **Design** | 155 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 132 | [Browse →](./content-creation/) |
@@ -84,9 +84,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Background-removal** | 3 | [Browse →](./background-removal/) |
-| 🏷️ **Claude-code** | 3 | [Browse →](./claude-code/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Nunit** | 2 | [Browse →](./nunit/) |
 | 🏷️ **Voiceassistant** | 2 | [Browse →](./voiceassistant/) |
 | 🏷️ **Ssh** | 2 | [Browse →](./ssh/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
@@ -112,10 +112,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Claude-code** | 2 | [Browse →](./claude-code/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Dependency-upgrade** | 1 | [Browse →](./dependency-upgrade/) |
+| 🏷️ **Release-engine** | 1 | [Browse →](./release-engine/) |
 | 🏷️ **Pr** | 1 | [Browse →](./pr/) |
 | 🏷️ **Bulk-detection** | 1 | [Browse →](./bulk-detection/) |
 | 🏷️ **Tdee** | 1 | [Browse →](./tdee/) |

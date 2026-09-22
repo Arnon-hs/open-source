@@ -1,6 +1,6 @@
 # OJ/gobuster
 
-[![Stars](https://img.shields.io/github/stars/OJ/gobuster?style=flat-square&color=yellow)](https://github.com/OJ/gobuster/stargazers) [![Forks](https://img.shields.io/github/forks/OJ/gobuster?style=flat-square&color=blue)](https://github.com/OJ/gobuster/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OJ/gobuster?style=flat-square&color=yellow)](https://github.com/OJ/gobuster/stargazers) [![Forks](https://img.shields.io/github/forks/OJ/gobuster?style=flat-square&color=blue)](https://github.com/OJ/gobuster/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Directory/File, DNS and VHost busting tool written in Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-09-19 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ OJ/gobuster：OJ/gobuster may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 86/100 |
 | categoryMatchCount | 500/100 |
 | stars | 88/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

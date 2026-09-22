@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zaydmulani09/jevgrep](./zaydmulani09-jevgrep.md) | ⭐ — | Python | 42/100 |
+| 1 | [zaydmulani09/jevgrep](./zaydmulani09-jevgrep.md) | ⭐ — | Python | 39/100 |
 
 ---
 

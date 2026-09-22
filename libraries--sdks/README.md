@@ -2,7 +2,7 @@
 
 > 
 
-**243 projects** in this category.
+**244 projects** in this category.
 
 ## Projects
 
@@ -201,56 +201,57 @@
 | 191 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ — | — | 52/100 |
 | 192 | [yury/cidre](./yury-cidre.md) | ⭐ 201 | Rust | 52/100 |
 | 193 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
-| 194 | [abhinav00anand/viento](./abhinav00anand-viento.md) | ⭐ 1 | Python | 51/100 |
-| 195 | [freedesktop-rs/nmrs](./freedesktop-rs-nmrs.md) | ⭐ 288 | Rust | 51/100 |
-| 196 | [google/rust_icu](./google-rust-icu.md) | ⭐ 139 | Rust | 51/100 |
-| 197 | [cloudflare/boring](./cloudflare-boring.md) | ⭐ 500 | Rust | 51/100 |
-| 198 | [DelSkayn/rquickjs](./delskayn-rquickjs.md) | ⭐ 915 | Rust | 51/100 |
-| 199 | [openstudiocoalition/OpenStudioApplication](./openstudiocoalition-openstudioapplication.md) | ⭐ 168 | C++ | 51/100 |
-| 200 | [dartsim/dart](./dartsim-dart.md) | ⭐ 1.1k | C++ | 51/100 |
-| 201 | [unitreerobotics/unitree_sdk2](./unitreerobotics-unitree-sdk2.md) | ⭐ 1.1k | C++ | 51/100 |
-| 202 | [psychon/x11rb](./psychon-x11rb.md) | ⭐ 426 | Rust | 50/100 |
-| 203 | [tari/llvm-sys.rs](./tari-llvm-sys.rs.md) | ⭐ 227 | Rust | 50/100 |
-| 204 | [ruby-gnome/ruby-gnome](./ruby-gnome-ruby-gnome.md) | ⭐ 404 | Ruby | 50/100 |
-| 205 | [rust-x-bindings/rust-xcb](./rust-x-bindings-rust-xcb.md) | ⭐ 168 | Rust | 50/100 |
-| 206 | [ada-url/rust](./ada-url-rust.md) | ⭐ 115 | Rust | 50/100 |
-| 207 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 587 | Rust | 50/100 |
-| 208 | [nrfconnect/sdk-zephyr](./nrfconnect-sdk-zephyr.md) | ⭐ 399 | C | 50/100 |
-| 209 | [gakonst/nanocodex](./gakonst-nanocodex.md) | ⭐ — | — | 49/100 |
-| 210 | [PerhapxinLab/dotdotduck](./perhapxinlab-dotdotduck.md) | ⭐ — | — | 49/100 |
-| 211 | [Ralith/openxrs](./ralith-openxrs.md) | ⭐ 335 | Rust | 49/100 |
-| 212 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 215 | Rust | 49/100 |
-| 213 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 219 | JavaScript | 49/100 |
-| 214 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ — | — | 48/100 |
-| 215 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
-| 216 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ — | — | 48/100 |
-| 217 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |
-| 218 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ — | — | 48/100 |
-| 219 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ — | — | 48/100 |
-| 220 | [georust/netcdf](./georust-netcdf.md) | ⭐ 102 | Rust | 47/100 |
-| 221 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
-| 222 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 4.6k | Rust | 47/100 |
-| 223 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 120 | Rust | 46/100 |
-| 224 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.5k | Rust | 46/100 |
-| 225 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ — | — | 45/100 |
-| 226 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ — | — | 45/100 |
-| 227 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ — | — | 45/100 |
-| 228 | [Vivek76760/shatachandra-shield-sdk](./vivek76760-shatachandra-shield-sdk.md) | ⭐ — | — | 45/100 |
-| 229 | [bbenchoff/AGaMEMnon](./bbenchoff-agamemnon.md) | ⭐ — | — | 45/100 |
-| 230 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ — | — | 45/100 |
-| 231 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ — | — | 45/100 |
-| 232 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
-| 233 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ — | — | 44/100 |
-| 234 | [anthropic-ai/sdk](./anthropic-ai-sdk.md) | ⭐ — | — | 44/100 |
-| 235 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2k | Rust | 44/100 |
-| 236 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 154 | Rust | 43/100 |
-| 237 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 238 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ — | — | 41/100 |
-| 239 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
-| 240 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
-| 241 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 127 | Rust | 39/100 |
-| 242 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
-| 243 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
+| 194 | [embedder-dev/pytrace](./embedder-dev-pytrace.md) | ⭐ — | — | 51/100 |
+| 195 | [abhinav00anand/viento](./abhinav00anand-viento.md) | ⭐ 1 | Python | 51/100 |
+| 196 | [freedesktop-rs/nmrs](./freedesktop-rs-nmrs.md) | ⭐ 288 | Rust | 51/100 |
+| 197 | [google/rust_icu](./google-rust-icu.md) | ⭐ 139 | Rust | 51/100 |
+| 198 | [cloudflare/boring](./cloudflare-boring.md) | ⭐ 500 | Rust | 51/100 |
+| 199 | [DelSkayn/rquickjs](./delskayn-rquickjs.md) | ⭐ 915 | Rust | 51/100 |
+| 200 | [openstudiocoalition/OpenStudioApplication](./openstudiocoalition-openstudioapplication.md) | ⭐ 168 | C++ | 51/100 |
+| 201 | [dartsim/dart](./dartsim-dart.md) | ⭐ 1.1k | C++ | 51/100 |
+| 202 | [unitreerobotics/unitree_sdk2](./unitreerobotics-unitree-sdk2.md) | ⭐ 1.1k | C++ | 51/100 |
+| 203 | [psychon/x11rb](./psychon-x11rb.md) | ⭐ 426 | Rust | 50/100 |
+| 204 | [tari/llvm-sys.rs](./tari-llvm-sys.rs.md) | ⭐ 227 | Rust | 50/100 |
+| 205 | [ruby-gnome/ruby-gnome](./ruby-gnome-ruby-gnome.md) | ⭐ 404 | Ruby | 50/100 |
+| 206 | [rust-x-bindings/rust-xcb](./rust-x-bindings-rust-xcb.md) | ⭐ 168 | Rust | 50/100 |
+| 207 | [ada-url/rust](./ada-url-rust.md) | ⭐ 115 | Rust | 50/100 |
+| 208 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 587 | Rust | 50/100 |
+| 209 | [nrfconnect/sdk-zephyr](./nrfconnect-sdk-zephyr.md) | ⭐ 399 | C | 50/100 |
+| 210 | [gakonst/nanocodex](./gakonst-nanocodex.md) | ⭐ — | — | 49/100 |
+| 211 | [PerhapxinLab/dotdotduck](./perhapxinlab-dotdotduck.md) | ⭐ — | — | 49/100 |
+| 212 | [Ralith/openxrs](./ralith-openxrs.md) | ⭐ 335 | Rust | 49/100 |
+| 213 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 215 | Rust | 49/100 |
+| 214 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 219 | JavaScript | 49/100 |
+| 215 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ — | — | 48/100 |
+| 216 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
+| 217 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ — | — | 48/100 |
+| 218 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |
+| 219 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ — | — | 48/100 |
+| 220 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ — | — | 48/100 |
+| 221 | [georust/netcdf](./georust-netcdf.md) | ⭐ 102 | Rust | 47/100 |
+| 222 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
+| 223 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 4.6k | Rust | 47/100 |
+| 224 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 120 | Rust | 46/100 |
+| 225 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.5k | Rust | 46/100 |
+| 226 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ — | — | 45/100 |
+| 227 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ — | — | 45/100 |
+| 228 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ — | — | 45/100 |
+| 229 | [Vivek76760/shatachandra-shield-sdk](./vivek76760-shatachandra-shield-sdk.md) | ⭐ — | — | 45/100 |
+| 230 | [bbenchoff/AGaMEMnon](./bbenchoff-agamemnon.md) | ⭐ — | — | 45/100 |
+| 231 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ — | — | 45/100 |
+| 232 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ — | — | 45/100 |
+| 233 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
+| 234 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ — | — | 44/100 |
+| 235 | [anthropic-ai/sdk](./anthropic-ai-sdk.md) | ⭐ — | — | 44/100 |
+| 236 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2k | Rust | 44/100 |
+| 237 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 154 | Rust | 43/100 |
+| 238 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
+| 239 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ — | — | 41/100 |
+| 240 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
+| 241 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
+| 242 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 127 | Rust | 39/100 |
+| 243 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
+| 244 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
 
 ---
 
