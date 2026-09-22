@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36681** |
+| **Projects** | **36683** |
 | **Categories** | **263** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13905 | [Browse →](./misc/) |
+| 📦 **Misc** | 13906 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4163 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2643 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2248 | [Browse →](./orchestration/) |
@@ -62,12 +62,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
+| 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Benchmark** | 5 | [Browse →](./benchmark/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
-| 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Ember** | 3 | [Browse →](./ember/) |
