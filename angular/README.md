@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [inandusolutions/inandu-grid](./inandusolutions-inandu-grid.md) | ⭐ — | TypeScript | 44/100 |
+| 1 | [ng-prism/core](./ng-prism-core.md) | ⭐ — | — | 24/100 |
 
 ---
 
