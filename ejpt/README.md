@@ -1,4 +1,4 @@
-# 🏷️ Supply-chain-security
+# 🏷️ Ejpt
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [anchore/grype](./anchore-grype.md) | ⭐ 12.9k | Go | 71/100 |
+| 1 | [saivishwaa/eJPT-Prep-Guide](./saivishwaa-ejpt-prep-guide.md) | ⭐ 3 | — | 38/100 |
 
 ---
 

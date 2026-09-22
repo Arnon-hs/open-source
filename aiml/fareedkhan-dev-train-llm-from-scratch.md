@@ -1,6 +1,6 @@
 # FareedKhan-dev/train-llm-from-scratch
 
-[![Stars](https://img.shields.io/github/stars/FareedKhan-dev/train-llm-from-scratch?style=flat-square&color=yellow)](https://github.com/FareedKhan-dev/train-llm-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/FareedKhan-dev/train-llm-from-scratch?style=flat-square&color=blue)](https://github.com/FareedKhan-dev/train-llm-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FareedKhan-dev/train-llm-from-scratch?style=flat-square&color=yellow)](https://github.com/FareedKhan-dev/train-llm-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/FareedKhan-dev/train-llm-from-scratch?style=flat-square&color=blue)](https://github.com/FareedKhan-dev/train-llm-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Trains your own large language model from scratch using plain PyTorch.  https://t.co/dPdsrSfSFA https://t.co/JhuufXO34U https://github.com/FareedKhan-dev/train-llm-from-scratch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-19 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ FareedKhan-dev/train-llm-from-scratch：FareedKhan-dev/train-llm-from-scratch he
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 68/100 |
+| outlook | 72/100 |
 | adoption | 83/100 |
 | categoryMatchCount | 100/100 |
 | stars | 85/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
