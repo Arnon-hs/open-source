@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36832** |
-| **Categories** | **277** |
+| **Projects** | **36835** |
+| **Categories** | **278** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 13995 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4169 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4171 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2648 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2253 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1548 | [Browse →](./devtools/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 903 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 864 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 772 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 634 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 635 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 619 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 582 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 573 | [Browse →](./mobile/) |
@@ -68,7 +68,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
-| 🏷️ **Benchmark** | 4 | [Browse →](./benchmark/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **System-one** | 3 | [Browse →](./system-one/) |
@@ -77,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 3 | [Browse →](./privacy/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
+| 🏷️ **Benchmark** | 3 | [Browse →](./benchmark/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
@@ -121,6 +121,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Browser-calling** | 1 | [Browse →](./browser-calling/) |
 | 🏷️ **Job-application** | 1 | [Browse →](./job-application/) |
 | 🏷️ **Google-antigravity** | 1 | [Browse →](./google-antigravity/) |
 | 🏷️ **Ejpt** | 1 | [Browse →](./ejpt/) |

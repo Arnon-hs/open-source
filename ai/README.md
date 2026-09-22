@@ -14,9 +14,9 @@
 | 4 | [OJ/gobuster](./oj-gobuster.md) | ⭐ 14.1k | Go | 66/100 |
 | 5 | [akshaypatel-ai/ai-automations](./akshaypatel-ai-ai-automations.md) | ⭐ — | Shell | 63/100 |
 | 6 | [subaru-hello/tenant-invariant](./subaru-hello-tenant-invariant.md) | ⭐ — | Rust | 59/100 |
-| 7 | [Axidesk/Axio-Coder](./axidesk-axio-coder.md) | ⭐ — | Python | 59/100 |
-| 8 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 59/100 |
-| 9 | [kaketiti/magickit](./kaketiti-magickit.md) | ⭐ — | HTML | 56/100 |
+| 7 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 59/100 |
+| 8 | [kaketiti/magickit](./kaketiti-magickit.md) | ⭐ — | HTML | 56/100 |
+| 9 | [Axidesk/Axio-Coder](./axidesk-axio-coder.md) | ⭐ — | Python | 56/100 |
 | 10 | [proptest-rs/proptest](./proptest-rs-proptest.md) | ⭐ 2.2k | Rust | 51/100 |
 | 11 | [milkc0de/ChibiRigKit](./milkc0de-chibirigkit.md) | ⭐ — | HTML | 47/100 |
 | 12 | [CSd0109/-2prompt-gen](./csd0109--2prompt-gen.md) | ⭐ — | TypeScript | 42/100 |
