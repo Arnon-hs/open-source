@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36736** |
-| **Categories** | **265** |
+| **Projects** | **36743** |
+| **Categories** | **266** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13937 | [Browse →](./misc/) |
+| 📦 **Misc** | 13941 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4166 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2646 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2251 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 582 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 573 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 567 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 488 | [Browse →](./database/) |
+| 🏷️ **Database** | 489 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 480 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 433 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
@@ -68,6 +68,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Benchmark** | 4 | [Browse →](./benchmark/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
+| 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **System-one** | 3 | [Browse →](./system-one/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
@@ -94,7 +95,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Code-review** | 2 | [Browse →](./code-review/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Spring-boot** | 2 | [Browse →](./spring-boot/) |
-| 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Java** | 2 | [Browse →](./java/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Svg** | 2 | [Browse →](./svg/) |
@@ -117,6 +117,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Ksef** | 1 | [Browse →](./ksef/) |
 | 🏷️ **Angular** | 1 | [Browse →](./angular/) |
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Autonomous-coding** | 1 | [Browse →](./autonomous-coding/) |
