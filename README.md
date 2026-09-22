@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36707** |
-| **Categories** | **264** |
+| **Projects** | **36711** |
+| **Categories** | **265** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13919 | [Browse →](./misc/) |
+| 📦 **Misc** | 13922 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4165 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2645 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2249 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1546 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1547 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1312 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 903 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 863 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 864 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 771 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 634 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 617 | [Browse →](./networking/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 432 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 🏷️ **Communication** | 388 | [Browse →](./communication/) |
-| 🏷️ **Video-editing** | 380 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 381 | [Browse →](./video-editing/) |
 | 📊 **Data** | 327 | [Browse →](./data/) |
 | 💳 **Payments** | 319 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 317 | [Browse →](./games--graphics/) |
@@ -63,7 +63,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
-| 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
@@ -109,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Muse-code** | 2 | [Browse →](./muse-code/) |
 | 🏷️ **Plant-names** | 2 | [Browse →](./plant-names/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
+| 🏷️ **Terminal** | 2 | [Browse →](./terminal/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
@@ -118,6 +118,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
+| 🏷️ **Autonomous-coding** | 1 | [Browse →](./autonomous-coding/) |
+| 🏷️ **Coinmarketcap** | 1 | [Browse →](./coinmarketcap/) |
 | 🏷️ **Argparse** | 1 | [Browse →](./argparse/) |
 | 🏷️ **Woocommerce** | 1 | [Browse →](./woocommerce/) |
 | 🏷️ **Payment** | 1 | [Browse →](./payment/) |
@@ -228,7 +230,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cli** | 1 | [Browse →](./cli/) |
 | 🏷️ **Agent-protocols** | 1 | [Browse →](./agent-protocols/) |
 | 🏷️ **Agent-scan** | 1 | [Browse →](./agent-scan/) |
-| 🏷️ **Self-host** | 1 | [Browse →](./self-host/) |
 | 🏷️ **Php** | 1 | [Browse →](./php/) |
 | 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |
 | 🏷️ **Postgres** | 1 | [Browse →](./postgres/) |
