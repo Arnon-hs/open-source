@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36705** |
+| **Projects** | **36707** |
 | **Categories** | **264** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 13918 | [Browse →](./misc/) |
+| 📦 **Misc** | 13919 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4165 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2645 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2249 | [Browse →](./orchestration/) |
@@ -59,10 +59,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 8 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Aws** | 6 | [Browse →](./aws/) |
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 6 | [Browse →](./migration/) |
-| 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
