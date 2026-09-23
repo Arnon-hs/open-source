@@ -1,6 +1,6 @@
 # islomkhon/CerebrumKit
 
-[![Stars](https://img.shields.io/github/stars/islomkhon/CerebrumKit?style=flat-square&color=yellow)](https://github.com/islomkhon/CerebrumKit/stargazers) [![Forks](https://img.shields.io/github/forks/islomkhon/CerebrumKit?style=flat-square&color=blue)](https://github.com/islomkhon/CerebrumKit/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/islomkhon/CerebrumKit?style=flat-square&color=yellow)](https://github.com/islomkhon/CerebrumKit/stargazers) [![Forks](https://img.shields.io/github/forks/islomkhon/CerebrumKit?style=flat-square&color=blue)](https://github.com/islomkhon/CerebrumKit/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted starting point for agentic projects: agents built from skills and tools, a storage library over your own tables, a multi-agent workflow, and a client portal. Skills and tools are database rows, editable with no redeploy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-09-20 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ islomkhon/CerebrumKit：islomkhon/CerebrumKit may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 100/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

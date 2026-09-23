@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [TZ005/renderproof](./tz005-renderproof.md) | ⭐ — | HTML | 41/100 |
+| 1 | [TZ005/renderproof](./tz005-renderproof.md) | ⭐ — | HTML | 37/100 |
 
 ---
 
