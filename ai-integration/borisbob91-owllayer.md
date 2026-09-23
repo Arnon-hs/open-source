@@ -1,6 +1,6 @@
 # borisbob91/owllayer
 
-[![Stars](https://img.shields.io/github/stars/borisbob91/owllayer?style=flat-square&color=yellow)](https://github.com/borisbob91/owllayer/stargazers) [![Forks](https://img.shields.io/github/forks/borisbob91/owllayer?style=flat-square&color=blue)](https://github.com/borisbob91/owllayer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/borisbob91/owllayer?style=flat-square&color=yellow)](https://github.com/borisbob91/owllayer/stargazers) [![Forks](https://img.shields.io/github/forks/borisbob91/owllayer?style=flat-square&color=blue)](https://github.com/borisbob91/owllayer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > OwlLayer AI SDK (Agentic UI AI) - Open-source TypeScript Agentic UI SDK for AI-powered interfaces across React, Vue, Angular, Svelte, Vanilla JS/HTML and PHP, with tools, live context, voice and HITL security. Built for the next generation of WebMCP, NativeMCP and MCP integrations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-09-20 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ borisbob91/owllayer：borisbob91/owllayer may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 900/100 |
 | stars | 21/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

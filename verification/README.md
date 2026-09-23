@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MSKazemi/idkmesh](./mskazemi-idkmesh.md) | ⭐ 1 | Python | 60/100 |
+| 1 | [MSKazemi/idkmesh](./mskazemi-idkmesh.md) | ⭐ 1 | Python | 57/100 |
 
 ---
 

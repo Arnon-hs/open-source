@@ -65,18 +65,18 @@ BayramAnnakov/claude-reflect：BayramAnnakov/claude-reflect helps remove repetit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 69/100 |
-| adoption | 63/100 |
-| categoryMatchCount | 300/100 |
-| stars | 67/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| stars | 67/100 |
 | topics | 63/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
+| adoption | 63/100 |
+| production | 64/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
