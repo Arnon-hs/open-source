@@ -1,6 +1,6 @@
 # aliyevaladddin/AladdinAI
 
-[![Stars](https://img.shields.io/github/stars/aliyevaladddin/AladdinAI?style=flat-square&color=yellow)](https://github.com/aliyevaladddin/AladdinAI/stargazers) [![Forks](https://img.shields.io/github/forks/aliyevaladddin/AladdinAI?style=flat-square&color=blue)](https://github.com/aliyevaladddin/AladdinAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliyevaladddin/AladdinAI?style=flat-square&color=yellow)](https://github.com/aliyevaladddin/AladdinAI/stargazers) [![Forks](https://img.shields.io/github/forks/aliyevaladddin/AladdinAI?style=flat-square&color=blue)](https://github.com/aliyevaladddin/AladdinAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AladdinAI: open-source BYOI (Bring Your Own Infrastructure) AI Agent platform. Connect your own VMs, NVIDIA NIM, OpenAI, Anthropic, Ollama — build and manage AI agents visually.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-20 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ aliyevaladddin/AladdinAI：aliyevaladddin/AladdinAI may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 500/100 |
 | stars | 21/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
