@@ -1,6 +1,6 @@
 # Tecnativa/docker-socket-proxy
 
-[![Stars](https://img.shields.io/github/stars/Tecnativa/docker-socket-proxy?style=flat-square&color=yellow)](https://github.com/Tecnativa/docker-socket-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/Tecnativa/docker-socket-proxy?style=flat-square&color=blue)](https://github.com/Tecnativa/docker-socket-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tecnativa/docker-socket-proxy?style=flat-square&color=yellow)](https://github.com/Tecnativa/docker-socket-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/Tecnativa/docker-socket-proxy?style=flat-square&color=blue)](https://github.com/Tecnativa/docker-socket-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Proxy over your Docker socket to restrict which requests it accepts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-20 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Tecnativa/docker-socket-proxy：Tecnativa/docker-socket-proxy may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 70/100 |
+| production | 66/100 |
+| outlook | 63/100 |
 | adoption | 69/100 |
 | categoryMatchCount | 600/100 |
 | stars | 73/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 
