@@ -1,6 +1,6 @@
 # ChristopherDond/MCP-Generator
 
-[![Stars](https://img.shields.io/github/stars/ChristopherDond/MCP-Generator?style=flat-square&color=yellow)](https://github.com/ChristopherDond/MCP-Generator/stargazers) [![Forks](https://img.shields.io/github/forks/ChristopherDond/MCP-Generator?style=flat-square&color=blue)](https://github.com/ChristopherDond/MCP-Generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChristopherDond/MCP-Generator?style=flat-square&color=yellow)](https://github.com/ChristopherDond/MCP-Generator/stargazers) [![Forks](https://img.shields.io/github/forks/ChristopherDond/MCP-Generator?style=flat-square&color=blue)](https://github.com/ChristopherDond/MCP-Generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Wide MCP generator, easy and fast
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-09-20 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ ChristopherDond/MCP-Generator：ChristopherDond/MCP-Generator may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 94/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 700/100 |
 | stars | 27/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
