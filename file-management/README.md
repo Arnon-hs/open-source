@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mahdyarmonfared/cleandrop](./mahdyarmonfared-cleandrop.md) | ⭐ — | JavaScript | 46/100 |
+| 1 | [mahdyarmonfared/cleandrop](./mahdyarmonfared-cleandrop.md) | ⭐ — | JavaScript | 43/100 |
 
 ---
 

@@ -20,8 +20,8 @@
 | 10 | [milkc0de/ChibiRigKit](./milkc0de-chibirigkit.md) | ⭐ — | HTML | 47/100 |
 | 11 | [CSd0109/-2prompt-gen](./csd0109--2prompt-gen.md) | ⭐ — | TypeScript | 42/100 |
 | 12 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
-| 13 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 40/100 |
-| 14 | [iwadjp/timewitness](./iwadjp-timewitness.md) | ⭐ — | JavaScript | 39/100 |
+| 13 | [iwadjp/timewitness](./iwadjp-timewitness.md) | ⭐ — | JavaScript | 39/100 |
+| 14 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
 | 15 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
 | 16 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 33/100 |
 | 17 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
