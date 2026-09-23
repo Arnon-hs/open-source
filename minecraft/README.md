@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [WalnutIcecream/Nomad](./walnuticecream-nomad.md) | ⭐ 1 | Python | 37/100 |
+| 1 | [WalnutIcecream/Nomad](./walnuticecream-nomad.md) | ⭐ 1 | Python | 34/100 |
 
 ---
 
