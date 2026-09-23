@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**327 projects** in this category.
+**328 projects** in this category.
 
 ## Projects
 
@@ -331,10 +331,11 @@
 | 321 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
 | 322 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
 | 323 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
-| 324 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
-| 325 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
-| 326 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
-| 327 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 324 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ — | — | 41/100 |
+| 325 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
+| 326 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
+| 327 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
+| 328 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
 
 ---
 
