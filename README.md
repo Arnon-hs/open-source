@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **36876** |
+| **Projects** | **36880** |
 | **Categories** | **275** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14026 | [Browse →](./misc/) |
+| 📦 **Misc** | 14029 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4174 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2649 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2255 | [Browse →](./orchestration/) |
@@ -49,7 +49,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Productivity** | 304 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 277 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 245 | [Browse →](./libraries--sdks/) |
-| 📈 **Trading** | 195 | [Browse →](./trading/) |
+| 📈 **Trading** | 196 | [Browse →](./trading/) |
 | ✨ **Design** | 155 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 132 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 86 | [Browse →](./vertical-video/) |
