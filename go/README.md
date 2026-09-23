@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mkbeh/pacecache](./mkbeh-pacecache.md) | ⭐ — | Go | 46/100 |
+| 1 | [mkbeh/pacecache](./mkbeh-pacecache.md) | ⭐ — | Go | 43/100 |
 
 ---
 
