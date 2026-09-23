@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [darshanrathod04/shree-ai-os](./darshanrathod04-shree-ai-os.md) | ⭐ 1 | Java | 61/100 |
+| 1 | [darshanrathod04/shree-ai-os](./darshanrathod04-shree-ai-os.md) | ⭐ 1 | Java | 58/100 |
 | 2 | [IroshPerera/sinhala-transliterator](./iroshperera-sinhala-transliterator.md) | ⭐ — | Java | 26/100 |
 
 ---

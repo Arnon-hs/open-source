@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [akopytov/sysbench](./akopytov-sysbench.md) | ⭐ 6.8k | C | 62/100 |
-| 2 | [axboe/fio](./axboe-fio.md) | ⭐ 6.4k | C | 57/100 |
+| 2 | [axboe/fio](./axboe-fio.md) | ⭐ 6.4k | C | 54/100 |
 | 3 | [p7zip/p7zip](./p7zip-p7zip.md) | ⭐ — | — | 24/100 |
 
 ---
