@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JaviMaligno/benchmaxing-probes](./javimaligno-benchmaxing-probes.md) | ⭐ — | Python | 39/100 |
+| 1 | [JaviMaligno/benchmaxing-probes](./javimaligno-benchmaxing-probes.md) | ⭐ — | Python | 36/100 |
 
 ---
 
