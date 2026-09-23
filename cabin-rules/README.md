@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [python07070/cabinclaim](./python07070-cabinclaim.md) | ⭐ — | TypeScript | 43/100 |
+| 1 | [python07070/cabinclaim](./python07070-cabinclaim.md) | ⭐ — | TypeScript | 40/100 |
 
 ---
 
