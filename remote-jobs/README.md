@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yashharkawat/remote-jobs-eligibility-aggregator](./yashharkawat-remote-jobs-eligibility-aggregator.md) | ⭐ — | JavaScript | 59/100 |
+| 1 | [yashharkawat/remote-jobs-eligibility-aggregator](./yashharkawat-remote-jobs-eligibility-aggregator.md) | ⭐ — | JavaScript | 56/100 |
 
 ---
 

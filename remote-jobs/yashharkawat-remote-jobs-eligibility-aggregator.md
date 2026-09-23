@@ -1,6 +1,6 @@
 # yashharkawat/remote-jobs-eligibility-aggregator
 
-[![Stars](https://img.shields.io/github/stars/yashharkawat/remote-jobs-eligibility-aggregator?style=flat-square&color=yellow)](https://github.com/yashharkawat/remote-jobs-eligibility-aggregator/stargazers) [![Forks](https://img.shields.io/github/forks/yashharkawat/remote-jobs-eligibility-aggregator?style=flat-square&color=blue)](https://github.com/yashharkawat/remote-jobs-eligibility-aggregator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yashharkawat/remote-jobs-eligibility-aggregator?style=flat-square&color=yellow)](https://github.com/yashharkawat/remote-jobs-eligibility-aggregator/stargazers) [![Forks](https://img.shields.io/github/forks/yashharkawat/remote-jobs-eligibility-aggregator?style=flat-square&color=blue)](https://github.com/yashharkawat/remote-jobs-eligibility-aggregator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Remote jobs scraper and API: 8 remote job boards in one run, de-duplicated, with a verdict on every job - can you apply from your country, or is it US/EU-only? Apify Actor, no login or proxies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-20 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ yashharkawat/remote-jobs-eligibility-aggregator：yashharkawat/remote-jobs-eligi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
