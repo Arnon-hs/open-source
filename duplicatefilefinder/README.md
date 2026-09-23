@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mahdyarmonfared/hashdup-cli](./mahdyarmonfared-hashdup-cli.md) | ⭐ — | JavaScript | 46/100 |
+| 1 | [mahdyarmonfared/hashdup-cli](./mahdyarmonfared-hashdup-cli.md) | ⭐ — | JavaScript | 43/100 |
 
 ---
 
