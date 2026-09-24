@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [artsensiva/CurvaDB-en](./artsensiva-curvadb-en.md) | ⭐ — | Python | 39/100 |
+| 1 | [artsensiva/CurvaDB-en](./artsensiva-curvadb-en.md) | ⭐ — | Python | 36/100 |
 
 ---
 
