@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [quintetkit/quartet](./quintetkit-quartet.md) | ⭐ — | Shell | 54/100 |
+| 1 | [quintetkit/quartet](./quintetkit-quartet.md) | ⭐ — | Shell | 51/100 |
 
 ---
 

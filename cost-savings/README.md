@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ethanplusai/astra-flash-orchestrator](./ethanplusai-astra-flash-orchestrator.md) | ⭐ 355 | Python | 70/100 |
+| 1 | [ethanplusai/astra-flash-orchestrator](./ethanplusai-astra-flash-orchestrator.md) | ⭐ 355 | Python | 67/100 |
 
 ---
 
