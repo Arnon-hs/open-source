@@ -1,6 +1,6 @@
 # fjykTec/ModernWMS
 
-[![Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=flat-square&color=yellow)](https://github.com/fjykTec/ModernWMS/stargazers) [![Forks](https://img.shields.io/github/forks/fjykTec/ModernWMS?style=flat-square&color=blue)](https://github.com/fjykTec/ModernWMS/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=flat-square&color=yellow)](https://github.com/fjykTec/ModernWMS/stargazers) [![Forks](https://img.shields.io/github/forks/fjykTec/ModernWMS?style=flat-square&color=blue)](https://github.com/fjykTec/ModernWMS/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Tracks warehouse inventory across Linux and Windows environments using a .NET 7.0 and Vue 3.2.45 application.  https://t.co/O42rMTNko0 https://t.co/DimeX8npIb https://github.com/fjykTec/ModernWMS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 465 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ fjykTec/ModernWMS：fjykTec/ModernWMS helps convert raw data into searchable, an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 63/100 |
+| outlook | 67/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 100/100 |
 | stars | 69/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

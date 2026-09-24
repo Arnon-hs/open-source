@@ -1,6 +1,6 @@
 # singhand-labs/AegisCrawler
 
-[![Stars](https://img.shields.io/github/stars/singhand-labs/AegisCrawler?style=flat-square&color=yellow)](https://github.com/singhand-labs/AegisCrawler/stargazers) [![Forks](https://img.shields.io/github/forks/singhand-labs/AegisCrawler?style=flat-square&color=blue)](https://github.com/singhand-labs/AegisCrawler/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/singhand-labs/AegisCrawler?style=flat-square&color=yellow)](https://github.com/singhand-labs/AegisCrawler/stargazers) [![Forks](https://img.shields.io/github/forks/singhand-labs/AegisCrawler?style=flat-square&color=blue)](https://github.com/singhand-labs/AegisCrawler/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Record once, replay forever — a production-grade browser data-collection platform. A PageResearch Agent extension turns real interactions into humanized DSL rules, a Go server schedules lease-based tasks, and ScriptCat workers execute them in real browsers. Optional LLM rule enhancement with security scan + human diff review.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ singhand-labs/AegisCrawler：singhand-labs/AegisCrawler may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 18/100 |
 | categoryMatchCount | 500/100 |
 | stars | 24/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

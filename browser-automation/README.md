@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [singhand-labs/AegisCrawler](./singhand-labs-aegiscrawler.md) | ⭐ 13 | Go | 70/100 |
+| 1 | [singhand-labs/AegisCrawler](./singhand-labs-aegiscrawler.md) | ⭐ 13 | Go | 67/100 |
 
 ---
 
