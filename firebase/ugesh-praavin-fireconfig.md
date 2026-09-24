@@ -1,6 +1,6 @@
 # Ugesh-Praavin/fireconfig
 
-[![Stars](https://img.shields.io/github/stars/Ugesh-Praavin/fireconfig?style=flat-square&color=yellow)](https://github.com/Ugesh-Praavin/fireconfig/stargazers) [![Forks](https://img.shields.io/github/forks/Ugesh-Praavin/fireconfig?style=flat-square&color=blue)](https://github.com/Ugesh-Praavin/fireconfig/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ugesh-Praavin/fireconfig?style=flat-square&color=yellow)](https://github.com/Ugesh-Praavin/fireconfig/stargazers) [![Forks](https://img.shields.io/github/forks/Ugesh-Praavin/fireconfig?style=flat-square&color=blue)](https://github.com/Ugesh-Praavin/fireconfig/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Automate Firebase configuration for JavaScript & TypeScript projects safely and framework-aware.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Ugesh-Praavin/fireconfig：Ugesh-Praavin/fireconfig may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 900/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ugesh-Praavin/fireconfig](./ugesh-praavin-fireconfig.md) | ⭐ 2 | JavaScript | 65/100 |
+| 1 | [Ugesh-Praavin/fireconfig](./ugesh-praavin-fireconfig.md) | ⭐ 2 | JavaScript | 62/100 |
 
 ---
 
