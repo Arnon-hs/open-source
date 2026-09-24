@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jhnwr/scrapy-jev](./jhnwr-scrapy-jev.md) | ⭐ — | Python | 46/100 |
+| 1 | [jhnwr/scrapy-jev](./jhnwr-scrapy-jev.md) | ⭐ — | Python | 43/100 |
 
 ---
 
