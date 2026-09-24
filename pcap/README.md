@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [seladb/PcapPlusPlus](./seladb-pcapplusplus.md) | ⭐ 3.1k | C++ | 65/100 |
+| 1 | [seladb/PcapPlusPlus](./seladb-pcapplusplus.md) | ⭐ 3.1k | C++ | 62/100 |
 
 ---
 
