@@ -1,6 +1,6 @@
 # AnthonyDavidAdams/zero-employee-company-book
 
-[![Stars](https://img.shields.io/github/stars/AnthonyDavidAdams/zero-employee-company-book?style=flat-square&color=yellow)](https://github.com/AnthonyDavidAdams/zero-employee-company-book/stargazers) [![Forks](https://img.shields.io/github/forks/AnthonyDavidAdams/zero-employee-company-book?style=flat-square&color=blue)](https://github.com/AnthonyDavidAdams/zero-employee-company-book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnthonyDavidAdams/zero-employee-company-book?style=flat-square&color=yellow)](https://github.com/AnthonyDavidAdams/zero-employee-company-book/stargazers) [![Forks](https://img.shields.io/github/forks/AnthonyDavidAdams/zero-employee-company-book?style=flat-square&color=blue)](https://github.com/AnthonyDavidAdams/zero-employee-company-book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Shows founders how to build and run companies using AI agents as their entire workforce with the open-source platform Paperclip.  https://t.co/OfNWFsKApY https://t.co/6mm1Srq5JM https://github.com/AnthonyDavidAdams/zero-employee-company-book
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 592 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ AnthonyDavidAdams/zero-employee-company-book：AnthonyDavidAdams/zero-employee-c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 60/100 |
+| outlook | 64/100 |
 | adoption | 55/100 |
 | categoryMatchCount | 0/100 |
 | stars | 59/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
