@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BartoszOsiej/externum](./bartoszosiej-externum.md) | ⭐ — | Python | 51/100 |
+| 1 | [BartoszOsiej/externum](./bartoszosiej-externum.md) | ⭐ — | Python | 48/100 |
 
 ---
 
