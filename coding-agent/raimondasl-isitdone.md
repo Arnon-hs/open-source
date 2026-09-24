@@ -1,6 +1,6 @@
 # raimondasl/isitdone
 
-[![Stars](https://img.shields.io/github/stars/raimondasl/isitdone?style=flat-square&color=yellow)](https://github.com/raimondasl/isitdone/stargazers) [![Forks](https://img.shields.io/github/forks/raimondasl/isitdone?style=flat-square&color=blue)](https://github.com/raimondasl/isitdone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raimondasl/isitdone?style=flat-square&color=yellow)](https://github.com/raimondasl/isitdone/stargazers) [![Forks](https://img.shields.io/github/forks/raimondasl/isitdone?style=flat-square&color=blue)](https://github.com/raimondasl/isitdone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Don't let your coding agent say "done" until the tests actually pass. Zero-LLM Stop hook, CLI, MCP server and GitHub Action for Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and 7 more agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ raimondasl/isitdone：raimondasl/isitdone may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
