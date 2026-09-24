@@ -1,6 +1,6 @@
 # hardikpandya/stop-slop
 
-[![Stars](https://img.shields.io/github/stars/hardikpandya/stop-slop?style=flat-square&color=yellow)](https://github.com/hardikpandya/stop-slop/stargazers) [![Forks](https://img.shields.io/github/forks/hardikpandya/stop-slop?style=flat-square&color=blue)](https://github.com/hardikpandya/stop-slop/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hardikpandya/stop-slop?style=flat-square&color=yellow)](https://github.com/hardikpandya/stop-slop/stargazers) [![Forks](https://img.shields.io/github/forks/hardikpandya/stop-slop?style=flat-square&color=blue)](https://github.com/hardikpandya/stop-slop/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Removes AI tells from prose by teaching Claude or any LLM to detect and eliminate predictable phrases, structural clichés, and rigid rhythmic patterns.  https://t.co/7nEXW5ie0e https://t.co/HexlyVjeTz https://github.com/hardikpandya/stop-slop
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.4k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ hardikpandya/stop-slop：hardikpandya/stop-slop helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 87/100 |
 | categoryMatchCount | 100/100 |
 | stars | 90/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
