@@ -1,6 +1,6 @@
 # The-AppLab/ultimate-fastapi-langchain-boilerplate
 
-[![Stars](https://img.shields.io/github/stars/The-AppLab/ultimate-fastapi-langchain-boilerplate?style=flat-square&color=yellow)](https://github.com/The-AppLab/ultimate-fastapi-langchain-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/The-AppLab/ultimate-fastapi-langchain-boilerplate?style=flat-square&color=blue)](https://github.com/The-AppLab/ultimate-fastapi-langchain-boilerplate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-AppLab/ultimate-fastapi-langchain-boilerplate?style=flat-square&color=yellow)](https://github.com/The-AppLab/ultimate-fastapi-langchain-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/The-AppLab/ultimate-fastapi-langchain-boilerplate?style=flat-square&color=blue)](https://github.com/The-AppLab/ultimate-fastapi-langchain-boilerplate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, production-ready backend boilerplate framework for B2B AI Automation Agents using FastAPI and LangChain.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ The-AppLab/ultimate-fastapi-langchain-boilerplate：The-AppLab/ultimate-fastapi-
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 53/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
