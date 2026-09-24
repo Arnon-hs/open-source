@@ -1,6 +1,6 @@
 # Obteohub/shopwice-woocommerce-product-import-schema
 
-[![Stars](https://img.shields.io/github/stars/Obteohub/shopwice-woocommerce-product-import-schema?style=flat-square&color=yellow)](https://github.com/Obteohub/shopwice-woocommerce-product-import-schema/stargazers) [![Forks](https://img.shields.io/github/forks/Obteohub/shopwice-woocommerce-product-import-schema?style=flat-square&color=blue)](https://github.com/Obteohub/shopwice-woocommerce-product-import-schema/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Obteohub/shopwice-woocommerce-product-import-schema?style=flat-square&color=yellow)](https://github.com/Obteohub/shopwice-woocommerce-product-import-schema/stargazers) [![Forks](https://img.shields.io/github/forks/Obteohub/shopwice-woocommerce-product-import-schema?style=flat-square&color=blue)](https://github.com/Obteohub/shopwice-woocommerce-product-import-schema/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Open product-data schema for importing simple and variable WooCommerce products using structured folders, JSON, attributes, variations, taxonomy data, descriptions, and images. Built for the Shopwice Import platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Obteohub/shopwice-woocommerce-product-import-schema：Obteohub/shopwice-woocomme
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

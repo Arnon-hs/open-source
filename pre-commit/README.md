@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mahdyarmonfared/secret-scrub](./mahdyarmonfared-secret-scrub.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [mahdyarmonfared/secret-scrub](./mahdyarmonfared-secret-scrub.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

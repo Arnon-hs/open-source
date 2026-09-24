@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [eimza-kep/udf2md](./eimza-kep-udf2md.md) | ⭐ — | HTML | 39/100 |
+| 1 | [eimza-kep/udf2md](./eimza-kep-udf2md.md) | ⭐ — | HTML | 36/100 |
 
 ---
 
