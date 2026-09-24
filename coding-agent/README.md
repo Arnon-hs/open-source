@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [stoopid-computers/funchole](./stoopid-computers-funchole.md) | ⭐ 42 | Java | 70/100 |
+| 1 | [stoopid-computers/funchole](./stoopid-computers-funchole.md) | ⭐ 42 | Java | 67/100 |
 | 2 | [raimondasl/isitdone](./raimondasl-isitdone.md) | ⭐ 1 | TypeScript | 67/100 |
 
 ---
