@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aurelio-nakamura/repocarto](./aurelio-nakamura-repocarto.md) | ⭐ — | TypeScript | 59/100 |
+| 1 | [aurelio-nakamura/repocarto](./aurelio-nakamura-repocarto.md) | ⭐ — | TypeScript | 56/100 |
 
 ---
 
