@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**155 projects** in this category.
+**156 projects** in this category.
 
 ## Projects
 
@@ -133,36 +133,37 @@
 | 123 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ — | — | 42/100 |
 | 124 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ — | — | 42/100 |
 | 125 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
-| 126 | [andrsrxn/icons](./andrsrxn-icons.md) | ⭐ — | — | 41/100 |
-| 127 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ — | — | 41/100 |
-| 128 | [eremes81/game-design-ai-practice-en](./eremes81-game-design-ai-practice-en.md) | ⭐ — | — | 41/100 |
-| 129 | [definitemaybe0/vdr](./definitemaybe0-vdr.md) | ⭐ — | — | 41/100 |
-| 130 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ — | — | 41/100 |
-| 131 | [TySteele1/318a38cb5725c692b2318d7a0246c953](./tysteele1-318a38cb5725c692b2318d7a0246c953.md) | ⭐ — | — | 41/100 |
-| 132 | [PJHkorea/discrete-filament-router](./pjhkorea-discrete-filament-router.md) | ⭐ — | — | 41/100 |
-| 133 | [Cascadia-PLM/Cascadia-App](./cascadia-plm-cascadia-app.md) | ⭐ — | — | 41/100 |
-| 134 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
-| 135 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ — | — | 38/100 |
-| 136 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
-| 137 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ — | — | 38/100 |
-| 138 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ — | — | 38/100 |
-| 139 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ — | — | 38/100 |
-| 140 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 38/100 |
-| 141 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ — | — | 38/100 |
-| 142 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
-| 143 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 38/100 |
-| 144 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 38/100 |
-| 145 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ — | — | 38/100 |
-| 146 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 38/100 |
-| 147 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ — | — | 38/100 |
-| 148 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
-| 149 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
-| 150 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 38/100 |
-| 151 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 38/100 |
-| 152 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ — | — | 38/100 |
-| 153 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 38/100 |
-| 154 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 38/100 |
-| 155 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
+| 126 | [carlosphyll/phyll](./carlosphyll-phyll.md) | ⭐ — | — | 41/100 |
+| 127 | [andrsrxn/icons](./andrsrxn-icons.md) | ⭐ — | — | 41/100 |
+| 128 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ — | — | 41/100 |
+| 129 | [eremes81/game-design-ai-practice-en](./eremes81-game-design-ai-practice-en.md) | ⭐ — | — | 41/100 |
+| 130 | [definitemaybe0/vdr](./definitemaybe0-vdr.md) | ⭐ — | — | 41/100 |
+| 131 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ — | — | 41/100 |
+| 132 | [TySteele1/318a38cb5725c692b2318d7a0246c953](./tysteele1-318a38cb5725c692b2318d7a0246c953.md) | ⭐ — | — | 41/100 |
+| 133 | [PJHkorea/discrete-filament-router](./pjhkorea-discrete-filament-router.md) | ⭐ — | — | 41/100 |
+| 134 | [Cascadia-PLM/Cascadia-App](./cascadia-plm-cascadia-app.md) | ⭐ — | — | 41/100 |
+| 135 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
+| 136 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ — | — | 38/100 |
+| 137 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
+| 138 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ — | — | 38/100 |
+| 139 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ — | — | 38/100 |
+| 140 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ — | — | 38/100 |
+| 141 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 38/100 |
+| 142 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ — | — | 38/100 |
+| 143 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
+| 144 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 38/100 |
+| 145 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 38/100 |
+| 146 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ — | — | 38/100 |
+| 147 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 38/100 |
+| 148 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ — | — | 38/100 |
+| 149 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
+| 150 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
+| 151 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 38/100 |
+| 152 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 38/100 |
+| 153 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ — | — | 38/100 |
+| 154 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 38/100 |
+| 155 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 38/100 |
+| 156 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
 
 ---
 

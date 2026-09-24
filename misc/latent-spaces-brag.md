@@ -1,6 +1,6 @@
 # latent-spaces/brag
 
-[![Stars](https://img.shields.io/github/stars/latent-spaces/brag?style=flat-square&color=yellow)](https://github.com/latent-spaces/brag/stargazers) [![Forks](https://img.shields.io/github/forks/latent-spaces/brag?style=flat-square&color=blue)](https://github.com/latent-spaces/brag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/latent-spaces/brag?style=flat-square&color=yellow)](https://github.com/latent-spaces/brag/stargazers) [![Forks](https://img.shields.io/github/forks/latent-spaces/brag?style=flat-square&color=blue)](https://github.com/latent-spaces/brag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Turns your project into a short, shareable launch video with music, motion, and share copy.  https://t.co/XGhRcHn28u https://t.co/MRH90kN4Sq https://github.com/latent-spaces/brag
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 399 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ latent-spaces/brag：latent-spaces/brag may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 63/100 |
+| outlook | 66/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 0/100 |
 | stars | 81/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
