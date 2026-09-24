@@ -14,8 +14,8 @@
 | 4 | [OJ/gobuster](./oj-gobuster.md) | ⭐ 14.1k | Go | 66/100 |
 | 5 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 59/100 |
 | 6 | [subaru-hello/tenant-invariant](./subaru-hello-tenant-invariant.md) | ⭐ — | Rust | 56/100 |
-| 7 | [kaketiti/magickit](./kaketiti-magickit.md) | ⭐ — | HTML | 56/100 |
-| 8 | [Axidesk/Axio-Coder](./axidesk-axio-coder.md) | ⭐ — | Python | 56/100 |
+| 7 | [Axidesk/Axio-Coder](./axidesk-axio-coder.md) | ⭐ — | Python | 56/100 |
+| 8 | [kaketiti/magickit](./kaketiti-magickit.md) | ⭐ — | HTML | 53/100 |
 | 9 | [proptest-rs/proptest](./proptest-rs-proptest.md) | ⭐ 2.2k | Rust | 51/100 |
 | 10 | [milkc0de/ChibiRigKit](./milkc0de-chibirigkit.md) | ⭐ — | HTML | 47/100 |
 | 11 | [CSd0109/-2prompt-gen](./csd0109--2prompt-gen.md) | ⭐ — | TypeScript | 42/100 |
