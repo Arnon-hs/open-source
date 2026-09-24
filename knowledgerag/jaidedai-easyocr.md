@@ -65,18 +65,18 @@ JaidedAI/EasyOCR：JaidedAI/EasyOCR helps make internal knowledge searchable and
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 88/100 |
-| integration | 46/100 |
-| production | 71/100 |
-| outlook | 77/100 |
-| adoption | 93/100 |
-| categoryMatchCount | 300/100 |
-| stars | 95/100 |
 | forks | 89/100 |
-| recency | 80/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 77/100 |
+| quality | 88/100 |
+| recency | 80/100 |
+| adoption | 93/100 |
+| production | 71/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

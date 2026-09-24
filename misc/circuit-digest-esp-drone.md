@@ -62,18 +62,18 @@ Circuit-Digest/ESP-Drone：Circuit-Digest/ESP-Drone may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 61/100 |
-| adoption | 70/100 |
-| categoryMatchCount | 0/100 |
-| stars | 72/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| stars | 72/100 |
 | topics | 0/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
+| adoption | 70/100 |
+| production | 60/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

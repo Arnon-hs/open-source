@@ -65,18 +65,18 @@ Open-Dev-Society/OpenStock：Open-Dev-Society/OpenStock helps ship user-facing i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 81/100 |
-| integration | 46/100 |
-| production | 69/100 |
-| outlook | 73/100 |
-| adoption | 87/100 |
-| categoryMatchCount | 100/100 |
-| stars | 88/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| stars | 88/100 |
 | topics | 75/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
+| adoption | 87/100 |
+| production | 69/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

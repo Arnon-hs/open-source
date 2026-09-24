@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · directory listing · automation · OAuth · CI · registry · manual review
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ punkpeye/awesome-remote-mcp-servers: punkpeye/awesome-remote-mcp-servers helps c
 
 ### Русский
 
-punkpeye/awesome-remote-mcp-servers: open-source проект в категориях MCP, directory listing, automation, OAuth, CI, registry, manual review. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+punkpeye/awesome-remote-mcp-servers: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ punkpeye/awesome-remote-mcp-servers：punkpeye/awesome-remote-mcp-servers helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 62/100 |
-| adoption | 55/100 |
-| categoryMatchCount | 700/100 |
-| stars | 51/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| stars | 51/100 |
 | topics | 13/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 80/100 |
+| adoption | 55/100 |
+| production | 60/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
