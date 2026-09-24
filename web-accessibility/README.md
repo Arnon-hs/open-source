@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pandayv/mad-platform-community](./pandayv-mad-platform-community.md) | ⭐ — | Python | 54/100 |
+| 1 | [pandayv/mad-platform-community](./pandayv-mad-platform-community.md) | ⭐ — | Python | 51/100 |
 
 ---
 
