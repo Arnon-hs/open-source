@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [imxv/Pretty-mermaid-skills](./imxv-pretty-mermaid-skills.md) | ⭐ 1.2k | JavaScript | 74/100 |
+| 1 | [imxv/Pretty-mermaid-skills](./imxv-pretty-mermaid-skills.md) | ⭐ 1.2k | JavaScript | 71/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # imxv/Pretty-mermaid-skills
 
-[![Stars](https://img.shields.io/github/stars/imxv/Pretty-mermaid-skills?style=flat-square&color=yellow)](https://github.com/imxv/Pretty-mermaid-skills/stargazers) [![Forks](https://img.shields.io/github/forks/imxv/Pretty-mermaid-skills?style=flat-square&color=blue)](https://github.com/imxv/Pretty-mermaid-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imxv/Pretty-mermaid-skills?style=flat-square&color=yellow)](https://github.com/imxv/Pretty-mermaid-skills/stargazers) [![Forks](https://img.shields.io/github/forks/imxv/Pretty-mermaid-skills?style=flat-square&color=blue)](https://github.com/imxv/Pretty-mermaid-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ imxv/Pretty-mermaid-skills：imxv/Pretty-mermaid-skills may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 85/100 |
+| production | 66/100 |
+| outlook | 78/100 |
 | adoption | 60/100 |
 | categoryMatchCount | 400/100 |
 | stars | 66/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

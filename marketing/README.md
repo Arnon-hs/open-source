@@ -2,7 +2,7 @@
 
 > 
 
-**29 projects** in this category.
+**30 projects** in this category.
 
 ## Projects
 
@@ -20,23 +20,24 @@
 | 10 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ — | — | 54/100 |
 | 11 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 358 | JavaScript | 53/100 |
 | 12 | [Yoast/wordpress-seo](./yoast-wordpress-seo.md) | ⭐ 1.9k | JavaScript | 53/100 |
-| 13 | [lix-project/lix](./lix-project-lix.md) | ⭐ 607 | C++ | 50/100 |
-| 14 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 478 | — | 48/100 |
-| 15 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.3k | Adblock Filter List | 48/100 |
-| 16 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 47/100 |
-| 17 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 47/100 |
-| 18 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 45/100 |
-| 19 | [othy19904-eng/conversionguard](./othy19904-eng-conversionguard.md) | ⭐ — | Python | 45/100 |
-| 20 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
-| 21 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 42/100 |
-| 22 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 42/100 |
-| 23 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
-| 24 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ — | — | 38/100 |
-| 25 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
-| 26 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 38/100 |
-| 27 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 38/100 |
-| 28 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 38/100 |
-| 29 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
+| 13 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ — | — | 51/100 |
+| 14 | [lix-project/lix](./lix-project-lix.md) | ⭐ 607 | C++ | 50/100 |
+| 15 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 478 | — | 48/100 |
+| 16 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.3k | Adblock Filter List | 48/100 |
+| 17 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 47/100 |
+| 18 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 47/100 |
+| 19 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 45/100 |
+| 20 | [othy19904-eng/conversionguard](./othy19904-eng-conversionguard.md) | ⭐ — | Python | 45/100 |
+| 21 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
+| 22 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 42/100 |
+| 23 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 42/100 |
+| 24 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
+| 25 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ — | — | 38/100 |
+| 26 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
+| 27 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 38/100 |
+| 28 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 38/100 |
+| 29 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 38/100 |
+| 30 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
 
 ---
 
