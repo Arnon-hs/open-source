@@ -1,6 +1,6 @@
 # awss1i/assay
 
-[![Stars](https://img.shields.io/github/stars/awss1i/assay?style=flat-square&color=yellow)](https://github.com/awss1i/assay/stargazers) [![Forks](https://img.shields.io/github/forks/awss1i/assay?style=flat-square&color=blue)](https://github.com/awss1i/assay/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awss1i/assay?style=flat-square&color=yellow)](https://github.com/awss1i/assay/stargazers) [![Forks](https://img.shields.io/github/forks/awss1i/assay?style=flat-square&color=blue)](https://github.com/awss1i/assay/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Find out whether a generated web page actually works.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ awss1i/assay：awss1i/assay may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
