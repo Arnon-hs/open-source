@@ -1,6 +1,6 @@
 # mostafa-wahied/portracker
 
-[![Stars](https://img.shields.io/github/stars/mostafa-wahied/portracker?style=flat-square&color=yellow)](https://github.com/mostafa-wahied/portracker/stargazers) [![Forks](https://img.shields.io/github/forks/mostafa-wahied/portracker?style=flat-square&color=blue)](https://github.com/mostafa-wahied/portracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mostafa-wahied/portracker?style=flat-square&color=yellow)](https://github.com/mostafa-wahied/portracker/stargazers) [![Forks](https://img.shields.io/github/forks/mostafa-wahied/portracker?style=flat-square&color=blue)](https://github.com/mostafa-wahied/portracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Scans host systems to automatically discover running services and display network ports without manual data entry.  https://t.co/4qZCjZfVV1 https://t.co/rZhp6HECuu https://github.com/mostafa-wahied/portracker
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ mostafa-wahied/portracker：mostafa-wahied/portracker may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 61/100 |
+| outlook | 67/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 0/100 |
 | stars | 72/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 
