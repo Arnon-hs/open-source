@@ -1,6 +1,6 @@
 # milkc0de/ChibiRigKit
 
-[![Stars](https://img.shields.io/github/stars/milkc0de/ChibiRigKit?style=flat-square&color=yellow)](https://github.com/milkc0de/ChibiRigKit/stargazers) [![Forks](https://img.shields.io/github/forks/milkc0de/ChibiRigKit?style=flat-square&color=blue)](https://github.com/milkc0de/ChibiRigKit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milkc0de/ChibiRigKit?style=flat-square&color=yellow)](https://github.com/milkc0de/ChibiRigKit/stargazers) [![Forks](https://img.shields.io/github/forks/milkc0de/ChibiRigKit?style=flat-square&color=blue)](https://github.com/milkc0de/ChibiRigKit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 1枚のキャラクター画像から、まばたき・視線・首振り・揺れのある2Dアニメーションを作成。ブラウザで調整し、WebM動画や完成品ZIPとして保存できます。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-22 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ milkc0de/ChibiRigKit：milkc0de/ChibiRigKit may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
