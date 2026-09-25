@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [untactit/agent-drift](./untactit-agent-drift.md) | ⭐ — | Python | 51/100 |
 | 2 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
-| 3 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 38/100 |
+| 3 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 35/100 |
 | 4 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
 | 5 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
 | 6 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |

@@ -1,6 +1,6 @@
 # kaktooslabs/kaktoos
 
-[![Stars](https://img.shields.io/github/stars/kaktooslabs/kaktoos?style=flat-square&color=yellow)](https://github.com/kaktooslabs/kaktoos/stargazers) [![Forks](https://img.shields.io/github/forks/kaktooslabs/kaktoos?style=flat-square&color=blue)](https://github.com/kaktooslabs/kaktoos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaktooslabs/kaktoos?style=flat-square&color=yellow)](https://github.com/kaktooslabs/kaktoos/stargazers) [![Forks](https://img.shields.io/github/forks/kaktooslabs/kaktoos?style=flat-square&color=blue)](https://github.com/kaktooslabs/kaktoos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI agents · API integration · testing · OpenAPI · verification · CI/CD
 
 ### English
 
-kaktooslabs/kaktoos: kaktooslabs/kaktoos may be useful when its README and activity match a concrete workflow.. Use it for AI agents, API integration, testing, OpenAPI, verification, CI/CD. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kaktooslabs/kaktoos: kaktooslabs/kaktoos may be useful when its README and activity match a concrete workflow.. Use it for AI agents, API integration, testing, OpenAPI, verification, CI/CD. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-kaktooslabs/kaktoos: open-source проект в категориях AI agents, API integration, testing, OpenAPI, verification, CI/CD. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kaktooslabs/kaktoos: open-source проект в категориях AI agents, API integration, testing, OpenAPI, verification, CI/CD. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-kaktooslabs/kaktoos：kaktooslabs/kaktoos may be useful when its README and activity match a concrete workflow.。适合用于AI agents、API integration、testing、OpenAPI、verification、CI/CD。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kaktooslabs/kaktoos：kaktooslabs/kaktoos may be useful when its README and activity match a concrete workflow.。适合用于AI agents、API integration、testing、OpenAPI、verification、CI/CD。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ kaktooslabs/kaktoos：kaktooslabs/kaktoos may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ kaktooslabs/kaktoos：kaktooslabs/kaktoos may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 34/100 |
+| quality | 29/100 |
 | integration | 34/100 |
-| production | 50/100 |
-| outlook | 45/100 |
+| production | 44/100 |
+| outlook | 38/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
