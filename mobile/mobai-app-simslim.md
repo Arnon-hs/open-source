@@ -62,18 +62,18 @@ MobAI-App/simslim：MobAI-App/simslim may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 59/100 |
-| adoption | 63/100 |
-| categoryMatchCount | 100/100 |
-| stars | 70/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| stars | 70/100 |
 | topics | 0/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 80/100 |
+| adoption | 63/100 |
+| production | 61/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

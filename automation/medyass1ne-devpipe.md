@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-automation · release-management · devops · open-source · markdown · api
+Automation · AI/ML · Documents · Frontend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-medyass1ne/devpipe: medyass1ne/devpipe may be useful when its README and activity match a concrete workflow.. Use it for automation, release-management, devops, open-source, markdown, api. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+medyass1ne/devpipe: medyass1ne/devpipe helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-medyass1ne/devpipe: open-source проект в категориях automation, release-management, devops, open-source, markdown, api. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+medyass1ne/devpipe: open-source проект в категориях Automation, AI/ML, Documents, Frontend, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-medyass1ne/devpipe：medyass1ne/devpipe may be useful when its README and activity match a concrete workflow.。适合用于automation、release-management、devops、open-source、markdown、api。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+medyass1ne/devpipe：medyass1ne/devpipe helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** medyass1ne/devpipe may be useful when its README and activity match a concrete workflow.
+**Value:** medyass1ne/devpipe helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -62,18 +64,18 @@ medyass1ne/devpipe：medyass1ne/devpipe may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 65/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 600/100 |
-| stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 10/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
