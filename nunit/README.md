@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [oznetmaster/CrestronHomeDevTools](./oznetmaster-crestronhomedevtools.md) | ⭐ — | C# | 47/100 |
+| 1 | [oznetmaster/CrestronHomeDevTools](./oznetmaster-crestronhomedevtools.md) | ⭐ — | C# | 44/100 |
 | 2 | [oznetmaster/CrestronHomeNUnit](./oznetmaster-crestronhomenunit.md) | ⭐ — | C# | 36/100 |
 
 ---
