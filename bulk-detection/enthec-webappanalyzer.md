@@ -1,6 +1,6 @@
 # enthec/webappanalyzer
 
-[![Stars](https://img.shields.io/github/stars/enthec/webappanalyzer?style=flat-square&color=yellow)](https://github.com/enthec/webappanalyzer/stargazers) [![Forks](https://img.shields.io/github/forks/enthec/webappanalyzer?style=flat-square&color=blue)](https://github.com/enthec/webappanalyzer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enthec/webappanalyzer?style=flat-square&color=yellow)](https://github.com/enthec/webappanalyzer/stargazers) [![Forks](https://img.shields.io/github/forks/enthec/webappanalyzer?style=flat-square&color=blue)](https://github.com/enthec/webappanalyzer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > This project aims to maintain Wappalyzer technologies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 579 |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-09-22 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ enthec/webappanalyzer：enthec/webappanalyzer may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 64/100 |
+| outlook | 72/100 |
 | adoption | 57/100 |
 | categoryMatchCount | 500/100 |
 | stars | 59/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

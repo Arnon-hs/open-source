@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**482 projects** in this category.
+**483 projects** in this category.
 
 ## Projects
 
@@ -214,8 +214,8 @@
 | 204 | [stefanpejcic/OpenPanel](./stefanpejcic-openpanel.md) | ⭐ 687 | TypeScript | 61/100 |
 | 205 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 31.8k | Go | 61/100 |
 | 206 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 690 | Svelte | 60/100 |
-| 207 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
-| 208 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 207 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 208 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
 | 209 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 824 | JavaScript | 60/100 |
 | 210 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 31 | Nix | 60/100 |
 | 211 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 399 | Go | 60/100 |
@@ -291,8 +291,8 @@
 | 281 | [rancher/k3k](./rancher-k3k.md) | ⭐ 877 | Go | 57/100 |
 | 282 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 434 | Dockerfile | 57/100 |
 | 283 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 57/100 |
-| 284 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
-| 285 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
+| 284 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
+| 285 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
 | 286 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 57/100 |
 | 287 | [dtan4/k8stail](./dtan4-k8stail.md) | ⭐ 150 | Go | 56/100 |
 | 288 | [sentry-kubernetes/charts](./sentry-kubernetes-charts.md) | ⭐ 1.4k | Mustache | 56/100 |
@@ -432,64 +432,65 @@
 | 422 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |
 | 423 | [AgentLineHQ/AgentLine](./agentlinehq-agentline.md) | ⭐ — | — | 42/100 |
 | 424 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 42/100 |
-| 425 | [TilakMaddy/hyperindex-openinfra](./tilakmaddy-hyperindex-openinfra.md) | ⭐ — | — | 41/100 |
-| 426 | [breezycourses/presage](./breezycourses-presage.md) | ⭐ — | — | 41/100 |
-| 427 | [GoogleContainerTools/distroless](./googlecontainertools-distroless.md) | ⭐ — | — | 41/100 |
-| 428 | [cyb3ralbert/chapter-zero](./cyb3ralbert-chapter-zero.md) | ⭐ — | — | 41/100 |
-| 429 | [opscart/docker-security-practical-guide](./opscart-docker-security-practical-guide.md) | ⭐ — | — | 41/100 |
-| 430 | [k8s-security-pro/k8s-audit](./k8s-security-pro-k8s-audit.md) | ⭐ — | — | 41/100 |
-| 431 | [TuviDev/infra-lang](./tuvidev-infra-lang.md) | ⭐ — | — | 41/100 |
-| 432 | [katakate/k7d](./katakate-k7d.md) | ⭐ — | — | 41/100 |
-| 433 | [Nodo9/arca-sophia-open-core](./nodo9-arca-sophia-open-core.md) | ⭐ — | — | 41/100 |
-| 434 | [togettoyou/zke](./togettoyou-zke.md) | ⭐ — | — | 41/100 |
-| 435 | [DevFoundry-labs/configledger](./devfoundry-labs-configledger.md) | ⭐ — | — | 41/100 |
-| 436 | [opscart/opscart-k8s-watcher](./opscart-opscart-k8s-watcher.md) | ⭐ — | — | 41/100 |
-| 437 | [GlediLami/kubetective](./gledilami-kubetective.md) | ⭐ — | — | 41/100 |
-| 438 | [deployah-dev/deployah](./deployah-dev-deployah.md) | ⭐ — | — | 41/100 |
-| 439 | [an4kronism/ai-escape-room](./an4kronism-ai-escape-room.md) | ⭐ — | — | 41/100 |
-| 440 | [ai-lab-tech/triton-control](./ai-lab-tech-triton-control.md) | ⭐ — | — | 41/100 |
-| 441 | [AlaBouali/ubel](./alabouali-ubel.md) | ⭐ — | — | 41/100 |
-| 442 | [ricardoborges/Nautilus](./ricardoborges-nautilus.md) | ⭐ — | — | 41/100 |
-| 443 | [Emran-goat/sortie](./emran-goat-sortie.md) | ⭐ — | — | 41/100 |
-| 444 | [neural-maze/production-ocr-course](./neural-maze-production-ocr-course.md) | ⭐ — | — | 41/100 |
-| 445 | [lensapp/openshell-k8s-operator](./lensapp-openshell-k8s-operator.md) | ⭐ — | — | 41/100 |
-| 446 | [SRENIX-AI/agentic-sre](./srenix-ai-agentic-sre.md) | ⭐ — | — | 41/100 |
-| 447 | [maddhruv/rasptele](./maddhruv-rasptele.md) | ⭐ — | — | 41/100 |
-| 448 | [hyturing/compose-pulse](./hyturing-compose-pulse.md) | ⭐ — | — | 41/100 |
-| 449 | [unihosted/unifi-os-server-docker](./unihosted-unifi-os-server-docker.md) | ⭐ — | — | 41/100 |
-| 450 | [upbound/asterkube](./upbound-asterkube.md) | ⭐ — | — | 41/100 |
-| 451 | [Cloud-V-10xE/RISC-V-software](./cloud-v-10xe-risc-v-software.md) | ⭐ — | — | 41/100 |
-| 452 | [hrodrig/groot](./hrodrig-groot.md) | ⭐ — | — | 41/100 |
-| 453 | [stern/stern](./stern-stern.md) | ⭐ — | — | 41/100 |
-| 454 | [documentdb/documentdb-kubernetes-operator](./documentdb-documentdb-kubernetes-operator.md) | ⭐ — | — | 41/100 |
-| 455 | [Tight-Line/ballast](./tight-line-ballast.md) | ⭐ — | — | 41/100 |
-| 456 | [nowakeai/kube-insight](./nowakeai-kube-insight.md) | ⭐ — | — | 41/100 |
-| 457 | [urjitbhatia/fruitbox](./urjitbhatia-fruitbox.md) | ⭐ — | — | 41/100 |
-| 458 | [IceWhaleTech/CasaOS](./icewhaletech-casaos.md) | ⭐ — | — | 41/100 |
-| 459 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ — | — | 41/100 |
-| 460 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 41/100 |
-| 461 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 41/100 |
-| 462 | [kubernetes/community](./kubernetes-community.md) | ⭐ — | — | 40/100 |
-| 463 | [citizen204/ghast](./citizen204-ghast.md) | ⭐ — | — | 39/100 |
-| 464 | [Booyaka101/actions-attic](./booyaka101-actions-attic.md) | ⭐ — | — | 39/100 |
-| 465 | [saharkit/windowsill](./saharkit-windowsill.md) | ⭐ — | — | 39/100 |
-| 466 | [bors-ng/bors-ng](./bors-ng-bors-ng.md) | ⭐ — | — | 39/100 |
-| 467 | [in-toto/in-toto](./in-toto-in-toto.md) | ⭐ — | — | 39/100 |
-| 468 | [polybar/polybar](./polybar-polybar.md) | ⭐ — | — | 39/100 |
-| 469 | [takundanashebmuchena-pixel/quantum-audit](./takundanashebmuchena-pixel-quantum-audit.md) | ⭐ — | — | 39/100 |
-| 470 | [brandonjsellam-Releone/verify-pqc](./brandonjsellam-releone-verify-pqc.md) | ⭐ — | — | 39/100 |
-| 471 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 39/100 |
-| 472 | [otterdeploy/otterdeploy](./otterdeploy-otterdeploy.md) | ⭐ — | — | 38/100 |
-| 473 | [AppsVortex/arness](./appsvortex-arness.md) | ⭐ — | — | 38/100 |
-| 474 | [techpivot/terraform-module-releaser](./techpivot-terraform-module-releaser.md) | ⭐ — | — | 38/100 |
-| 475 | [bonushora/surgical-dev-ops](./bonushora-surgical-dev-ops.md) | ⭐ — | — | 38/100 |
-| 476 | [openai/terraform-provider-openai](./openai-terraform-provider-openai.md) | ⭐ — | — | 38/100 |
-| 477 | [davidecampora/Omnibaas](./davidecampora-omnibaas.md) | ⭐ — | — | 38/100 |
-| 478 | [omarismail/terraform-plan-tui](./omarismail-terraform-plan-tui.md) | ⭐ — | — | 38/100 |
-| 479 | [ilyesarf/straw](./ilyesarf-straw.md) | ⭐ — | — | 38/100 |
-| 480 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 38/100 |
-| 481 | [ArmorerLabs/Armorer](./armorerlabs-armorer.md) | ⭐ — | — | 36/100 |
-| 482 | [jaequery/dockerhoster](./jaequery-dockerhoster.md) | ⭐ — | Shell | 30/100 |
+| 425 | [picubedllc/terraform-provider-appleads](./picubedllc-terraform-provider-appleads.md) | ⭐ — | — | 41/100 |
+| 426 | [TilakMaddy/hyperindex-openinfra](./tilakmaddy-hyperindex-openinfra.md) | ⭐ — | — | 41/100 |
+| 427 | [breezycourses/presage](./breezycourses-presage.md) | ⭐ — | — | 41/100 |
+| 428 | [GoogleContainerTools/distroless](./googlecontainertools-distroless.md) | ⭐ — | — | 41/100 |
+| 429 | [cyb3ralbert/chapter-zero](./cyb3ralbert-chapter-zero.md) | ⭐ — | — | 41/100 |
+| 430 | [opscart/docker-security-practical-guide](./opscart-docker-security-practical-guide.md) | ⭐ — | — | 41/100 |
+| 431 | [k8s-security-pro/k8s-audit](./k8s-security-pro-k8s-audit.md) | ⭐ — | — | 41/100 |
+| 432 | [TuviDev/infra-lang](./tuvidev-infra-lang.md) | ⭐ — | — | 41/100 |
+| 433 | [katakate/k7d](./katakate-k7d.md) | ⭐ — | — | 41/100 |
+| 434 | [Nodo9/arca-sophia-open-core](./nodo9-arca-sophia-open-core.md) | ⭐ — | — | 41/100 |
+| 435 | [togettoyou/zke](./togettoyou-zke.md) | ⭐ — | — | 41/100 |
+| 436 | [DevFoundry-labs/configledger](./devfoundry-labs-configledger.md) | ⭐ — | — | 41/100 |
+| 437 | [opscart/opscart-k8s-watcher](./opscart-opscart-k8s-watcher.md) | ⭐ — | — | 41/100 |
+| 438 | [GlediLami/kubetective](./gledilami-kubetective.md) | ⭐ — | — | 41/100 |
+| 439 | [deployah-dev/deployah](./deployah-dev-deployah.md) | ⭐ — | — | 41/100 |
+| 440 | [an4kronism/ai-escape-room](./an4kronism-ai-escape-room.md) | ⭐ — | — | 41/100 |
+| 441 | [ai-lab-tech/triton-control](./ai-lab-tech-triton-control.md) | ⭐ — | — | 41/100 |
+| 442 | [AlaBouali/ubel](./alabouali-ubel.md) | ⭐ — | — | 41/100 |
+| 443 | [ricardoborges/Nautilus](./ricardoborges-nautilus.md) | ⭐ — | — | 41/100 |
+| 444 | [Emran-goat/sortie](./emran-goat-sortie.md) | ⭐ — | — | 41/100 |
+| 445 | [neural-maze/production-ocr-course](./neural-maze-production-ocr-course.md) | ⭐ — | — | 41/100 |
+| 446 | [lensapp/openshell-k8s-operator](./lensapp-openshell-k8s-operator.md) | ⭐ — | — | 41/100 |
+| 447 | [SRENIX-AI/agentic-sre](./srenix-ai-agentic-sre.md) | ⭐ — | — | 41/100 |
+| 448 | [maddhruv/rasptele](./maddhruv-rasptele.md) | ⭐ — | — | 41/100 |
+| 449 | [hyturing/compose-pulse](./hyturing-compose-pulse.md) | ⭐ — | — | 41/100 |
+| 450 | [unihosted/unifi-os-server-docker](./unihosted-unifi-os-server-docker.md) | ⭐ — | — | 41/100 |
+| 451 | [upbound/asterkube](./upbound-asterkube.md) | ⭐ — | — | 41/100 |
+| 452 | [Cloud-V-10xE/RISC-V-software](./cloud-v-10xe-risc-v-software.md) | ⭐ — | — | 41/100 |
+| 453 | [hrodrig/groot](./hrodrig-groot.md) | ⭐ — | — | 41/100 |
+| 454 | [stern/stern](./stern-stern.md) | ⭐ — | — | 41/100 |
+| 455 | [documentdb/documentdb-kubernetes-operator](./documentdb-documentdb-kubernetes-operator.md) | ⭐ — | — | 41/100 |
+| 456 | [Tight-Line/ballast](./tight-line-ballast.md) | ⭐ — | — | 41/100 |
+| 457 | [nowakeai/kube-insight](./nowakeai-kube-insight.md) | ⭐ — | — | 41/100 |
+| 458 | [urjitbhatia/fruitbox](./urjitbhatia-fruitbox.md) | ⭐ — | — | 41/100 |
+| 459 | [IceWhaleTech/CasaOS](./icewhaletech-casaos.md) | ⭐ — | — | 41/100 |
+| 460 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ — | — | 41/100 |
+| 461 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 41/100 |
+| 462 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 41/100 |
+| 463 | [kubernetes/community](./kubernetes-community.md) | ⭐ — | — | 40/100 |
+| 464 | [citizen204/ghast](./citizen204-ghast.md) | ⭐ — | — | 39/100 |
+| 465 | [Booyaka101/actions-attic](./booyaka101-actions-attic.md) | ⭐ — | — | 39/100 |
+| 466 | [saharkit/windowsill](./saharkit-windowsill.md) | ⭐ — | — | 39/100 |
+| 467 | [bors-ng/bors-ng](./bors-ng-bors-ng.md) | ⭐ — | — | 39/100 |
+| 468 | [in-toto/in-toto](./in-toto-in-toto.md) | ⭐ — | — | 39/100 |
+| 469 | [polybar/polybar](./polybar-polybar.md) | ⭐ — | — | 39/100 |
+| 470 | [takundanashebmuchena-pixel/quantum-audit](./takundanashebmuchena-pixel-quantum-audit.md) | ⭐ — | — | 39/100 |
+| 471 | [brandonjsellam-Releone/verify-pqc](./brandonjsellam-releone-verify-pqc.md) | ⭐ — | — | 39/100 |
+| 472 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 39/100 |
+| 473 | [otterdeploy/otterdeploy](./otterdeploy-otterdeploy.md) | ⭐ — | — | 38/100 |
+| 474 | [AppsVortex/arness](./appsvortex-arness.md) | ⭐ — | — | 38/100 |
+| 475 | [techpivot/terraform-module-releaser](./techpivot-terraform-module-releaser.md) | ⭐ — | — | 38/100 |
+| 476 | [bonushora/surgical-dev-ops](./bonushora-surgical-dev-ops.md) | ⭐ — | — | 38/100 |
+| 477 | [openai/terraform-provider-openai](./openai-terraform-provider-openai.md) | ⭐ — | — | 38/100 |
+| 478 | [davidecampora/Omnibaas](./davidecampora-omnibaas.md) | ⭐ — | — | 38/100 |
+| 479 | [omarismail/terraform-plan-tui](./omarismail-terraform-plan-tui.md) | ⭐ — | — | 38/100 |
+| 480 | [ilyesarf/straw](./ilyesarf-straw.md) | ⭐ — | — | 38/100 |
+| 481 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 38/100 |
+| 482 | [ArmorerLabs/Armorer](./armorerlabs-armorer.md) | ⭐ — | — | 36/100 |
+| 483 | [jaequery/dockerhoster](./jaequery-dockerhoster.md) | ⭐ — | Shell | 30/100 |
 
 ---
 
