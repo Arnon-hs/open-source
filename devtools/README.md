@@ -301,8 +301,8 @@
 | 291 | [krkn-chaos/krkn](./krkn-chaos-krkn.md) | ⭐ 479 | Python | 67/100 |
 | 292 | [jarun/imgp](./jarun-imgp.md) | ⭐ 1.1k | Python | 67/100 |
 | 293 | [wolph/python-progressbar](./wolph-python-progressbar.md) | ⭐ 877 | Python | 67/100 |
-| 294 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
-| 295 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 426 | JavaScript | 67/100 |
+| 294 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 426 | JavaScript | 67/100 |
+| 295 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
 | 296 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 334 | Python | 67/100 |
 | 297 | [orhun/halp](./orhun-halp.md) | ⭐ 760 | Rust | 67/100 |
 | 298 | [rosetta-rs/argparse-rosetta-rs](./rosetta-rs-argparse-rosetta-rs.md) | ⭐ 189 | Python | 67/100 |
@@ -387,8 +387,8 @@
 | 377 | [julesklord/mangofetch](./julesklord-mangofetch.md) | ⭐ 111 | Rust | 66/100 |
 | 378 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 66/100 |
 | 379 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 66/100 |
-| 380 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 66/100 |
-| 381 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 66/100 |
+| 380 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 66/100 |
+| 381 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 66/100 |
 | 382 | [onotelli/justniffer](./onotelli-justniffer.md) | ⭐ 228 | C | 66/100 |
 | 383 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 66/100 |
 | 384 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 66/100 |
@@ -1094,8 +1094,8 @@
 | 1084 | [Zheoni/cooklang-chef](./zheoni-cooklang-chef.md) | ⭐ 135 | Rust | 57/100 |
 | 1085 | [aspiers/git-config](./aspiers-git-config.md) | ⭐ 104 | Shell | 57/100 |
 | 1086 | [oleiade/motus](./oleiade-motus.md) | ⭐ 157 | Rust | 57/100 |
-| 1087 | [elm/compiler](./elm-compiler.md) | ⭐ 7.8k | Haskell | 57/100 |
-| 1088 | [pgenie-io/pgenie](./pgenie-io-pgenie.md) | ⭐ 153 | Haskell | 57/100 |
+| 1087 | [pgenie-io/pgenie](./pgenie-io-pgenie.md) | ⭐ 153 | Haskell | 57/100 |
+| 1088 | [elm/compiler](./elm-compiler.md) | ⭐ 7.8k | Haskell | 57/100 |
 | 1089 | [danpozmanter/gossamer](./danpozmanter-gossamer.md) | ⭐ 117 | Rust | 57/100 |
 | 1090 | [Rust-GCC/gccrs](./rust-gcc-gccrs.md) | ⭐ 2.9k | C++ | 57/100 |
 | 1091 | [woodruffw/toml2json](./woodruffw-toml2json.md) | ⭐ 101 | Rust | 57/100 |
