@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aadifit/tdee-calc](./aadifit-tdee-calc.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [aadifit/tdee-calc](./aadifit-tdee-calc.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 
