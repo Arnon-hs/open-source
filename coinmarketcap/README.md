@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [edycutjong/shelfware](./edycutjong-shelfware.md) | ⭐ — | HTML | 55/100 |
+| 1 | [edycutjong/shelfware](./edycutjong-shelfware.md) | ⭐ — | HTML | 52/100 |
 
 ---
 
