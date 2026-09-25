@@ -1,6 +1,6 @@
 # openinframap/openinframap
 
-[![Stars](https://img.shields.io/github/stars/openinframap/openinframap?style=flat-square&color=yellow)](https://github.com/openinframap/openinframap/stargazers) [![Forks](https://img.shields.io/github/forks/openinframap/openinframap?style=flat-square&color=blue)](https://github.com/openinframap/openinframap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openinframap/openinframap?style=flat-square&color=yellow)](https://github.com/openinframap/openinframap/stargazers) [![Forks](https://img.shields.io/github/forks/openinframap/openinframap?style=flat-square&color=blue)](https://github.com/openinframap/openinframap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Maps the world's infrastructure using data from OpenStreetMap.  https://t.co/WUBBlwzln9 https://t.co/BvRnrY4lMw https://github.com/openinframap/openinframap
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-22 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ openinframap/openinframap：openinframap/openinframap may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 67/100 |
+| outlook | 66/100 |
 | adoption | 57/100 |
 | categoryMatchCount | 0/100 |
 | stars | 59/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
