@@ -1,6 +1,6 @@
 # octokit/rest.js
 
-[![Stars](https://img.shields.io/github/stars/octokit/rest.js?style=flat-square&color=yellow)](https://github.com/octokit/rest.js/stargazers) [![Forks](https://img.shields.io/github/forks/octokit/rest.js?style=flat-square&color=blue)](https://github.com/octokit/rest.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/octokit/rest.js?style=flat-square&color=yellow)](https://github.com/octokit/rest.js/stargazers) [![Forks](https://img.shields.io/github/forks/octokit/rest.js?style=flat-square&color=blue)](https://github.com/octokit/rest.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub REST API client for JavaScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 663 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ octokit/rest.js：octokit/rest.js may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 94/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 56/100 |
 | categoryMatchCount | 500/100 |
 | stars | 60/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

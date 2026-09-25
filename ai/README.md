@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [octokit/rest.js](./octokit-rest.js.md) | ⭐ 663 | TypeScript | 73/100 |
+| 1 | [octokit/rest.js](./octokit-rest.js.md) | ⭐ 663 | TypeScript | 70/100 |
 | 2 | [getsops/sops](./getsops-sops.md) | ⭐ 23.1k | Go | 68/100 |
 | 3 | [fxerkan/concealer](./fxerkan-concealer.md) | ⭐ 14 | Python | 68/100 |
 | 4 | [OJ/gobuster](./oj-gobuster.md) | ⭐ 14.1k | Go | 66/100 |
