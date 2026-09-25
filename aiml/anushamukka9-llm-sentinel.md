@@ -1,6 +1,6 @@
 # anushamukka9/llm-sentinel
 
-[![Stars](https://img.shields.io/github/stars/anushamukka9/llm-sentinel?style=flat-square&color=yellow)](https://github.com/anushamukka9/llm-sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/anushamukka9/llm-sentinel?style=flat-square&color=blue)](https://github.com/anushamukka9/llm-sentinel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anushamukka9/llm-sentinel?style=flat-square&color=yellow)](https://github.com/anushamukka9/llm-sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/anushamukka9/llm-sentinel?style=flat-square&color=blue)](https://github.com/anushamukka9/llm-sentinel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Deterministic guardrails for LLM apps: prompt injection, secrets, PII, toxicity, gibberish and more. No model calls, no network.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-09-22 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ anushamukka9/llm-sentinel：anushamukka9/llm-sentinel helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 62/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

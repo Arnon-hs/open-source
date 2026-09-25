@@ -209,8 +209,8 @@
 | 199 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 343 | Java | 53/100 |
 | 200 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 537 | Nix | 53/100 |
 | 201 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 431 | TypeScript | 53/100 |
-| 202 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 53/100 |
-| 203 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 53/100 |
+| 202 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 53/100 |
+| 203 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 53/100 |
 | 204 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 205 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 556 | C | 53/100 |
 | 206 | [tkhq/qos](./tkhq-qos.md) | ⭐ 114 | Rust | 53/100 |
@@ -368,9 +368,9 @@
 | 358 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 359 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ — | — | 38/100 |
 | 360 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 38/100 |
-| 361 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
-| 362 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
-| 363 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 361 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
+| 362 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 363 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
 | 364 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ — | — | 38/100 |
 | 365 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 366 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |
