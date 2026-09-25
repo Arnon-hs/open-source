@@ -1,6 +1,6 @@
 # YunSinLee/pr-tour
 
-[![Stars](https://img.shields.io/github/stars/YunSinLee/pr-tour?style=flat-square&color=yellow)](https://github.com/YunSinLee/pr-tour/stargazers) [![Forks](https://img.shields.io/github/forks/YunSinLee/pr-tour?style=flat-square&color=blue)](https://github.com/YunSinLee/pr-tour/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YunSinLee/pr-tour?style=flat-square&color=yellow)](https://github.com/YunSinLee/pr-tour/stargazers) [![Forks](https://img.shields.io/github/forks/YunSinLee/pr-tour?style=flat-square&color=blue)](https://github.com/YunSinLee/pr-tour/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A guided tour of your pull request. An agent skill that creates standalone HTML walkthroughs with real diffs and definition previews.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-09-22 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ YunSinLee/pr-tour：YunSinLee/pr-tour may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 600/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

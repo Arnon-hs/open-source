@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [YunSinLee/pr-tour](./yunsinlee-pr-tour.md) | ⭐ 3 | JavaScript | 49/100 |
+| 1 | [YunSinLee/pr-tour](./yunsinlee-pr-tour.md) | ⭐ 3 | JavaScript | 46/100 |
 
 ---
 

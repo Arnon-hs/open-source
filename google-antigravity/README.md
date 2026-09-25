@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yasircs4/antigravity-autopilot](./yasircs4-antigravity-autopilot.md) | ⭐ 1 | Python | 46/100 |
+| 1 | [yasircs4/antigravity-autopilot](./yasircs4-antigravity-autopilot.md) | ⭐ 1 | Python | 43/100 |
 
 ---
 
