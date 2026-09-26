@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jaksdhflkjahsdfkjahsdfkjh/SherpaManager](./jaksdhflkjahsdfkjahsdfkjh-sherpamanager.md) | ⭐ — | C# | 33/100 |
+| 1 | [jaksdhflkjahsdfkjahsdfkjh/SherpaManager](./jaksdhflkjahsdfkjahsdfkjh-sherpamanager.md) | ⭐ — | C# | 30/100 |
 
 ---
 
