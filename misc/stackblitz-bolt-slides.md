@@ -1,6 +1,6 @@
 # stackblitz/bolt-slides
 
-[![Stars](https://img.shields.io/github/stars/stackblitz/bolt-slides?style=flat-square&color=yellow)](https://github.com/stackblitz/bolt-slides/stargazers) [![Forks](https://img.shields.io/github/forks/stackblitz/bolt-slides?style=flat-square&color=blue)](https://github.com/stackblitz/bolt-slides/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackblitz/bolt-slides?style=flat-square&color=yellow)](https://github.com/stackblitz/bolt-slides/stargazers) [![Forks](https://img.shields.io/github/forks/stackblitz/bolt-slides?style=flat-square&color=blue)](https://github.com/stackblitz/bolt-slides/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Builds presentation decks that are working web apps.  https://t.co/RmaroYqHnN https://t.co/pVgtgKXnnb https://github.com/stackblitz/bolt-slides
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 943 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-23 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ stackblitz/bolt-slides：stackblitz/bolt-slides may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 61/100 |
+| outlook | 58/100 |
 | adoption | 60/100 |
 | categoryMatchCount | 0/100 |
 | stars | 63/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
