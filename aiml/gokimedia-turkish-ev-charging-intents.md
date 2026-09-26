@@ -27,37 +27,33 @@ AI/ML · Data
 
 ### English
 
-gokimedia/turkish-ev-charging-intents: gokimedia/turkish-ev-charging-intents helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gokimedia/turkish-ev-charging-intents: . Use it for AI/ML, Data. 
 
 ### Русский
 
-gokimedia/turkish-ev-charging-intents: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gokimedia/turkish-ev-charging-intents: open-source проект в категориях AI/ML, Data. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-gokimedia/turkish-ev-charging-intents：gokimedia/turkish-ev-charging-intents helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gokimedia/turkish-ev-charging-intents：。适合用于AI/ML、Data。
 
 ## 🧭 Practical evaluation
 
-**Value:** gokimedia/turkish-ev-charging-intents helps convert raw data into searchable, analyzable, or automated pipelines.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- organize analytics pipelines
-- process datasets
-- improve reporting workflows
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- updated 2026-08-23
-- primary language: JavaScript
-- 8 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
