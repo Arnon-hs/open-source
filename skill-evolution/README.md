@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [renanfranca/skill-eval](./renanfranca-skill-eval.md) | ⭐ 1 | TypeScript | 34/100 |
+| 1 | [renanfranca/skill-eval](./renanfranca-skill-eval.md) | ⭐ 1 | TypeScript | 31/100 |
 
 ---
 
