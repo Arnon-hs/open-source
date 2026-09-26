@@ -473,8 +473,8 @@
 | 463 | [xingpingcn/enhanced-FaaS-in-China](./xingpingcn-enhanced-faas-in-china.md) | ⭐ 3k | Python | 52/100 |
 | 464 | [Azure/Azure-Sentinel](./azure-azure-sentinel.md) | ⭐ 5.8k | Python | 52/100 |
 | 465 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 434 | Go | 52/100 |
-| 466 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 467 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 83 | TypeScript | 51/100 |
+| 466 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 83 | TypeScript | 51/100 |
+| 467 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 468 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 31 | Python | 51/100 |
 | 469 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 470 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 310 | PowerShell | 51/100 |
