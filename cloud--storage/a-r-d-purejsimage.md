@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 82 |
+| ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
@@ -27,33 +27,37 @@ Cloud & Storage
 
 ### English
 
-a-r-d/PureJsImage: . Use it for Cloud & Storage. 
+a-r-d/PureJsImage: a-r-d/PureJsImage may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-a-r-d/PureJsImage: open-source проект в категориях Cloud & Storage. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+a-r-d/PureJsImage: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-a-r-d/PureJsImage：。适合用于Cloud & Storage。
+a-r-d/PureJsImage：a-r-d/PureJsImage may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** a-r-d/PureJsImage may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 83 GitHub stars
+- 1 forks
+- updated 2026-08-23
+- primary language: TypeScript
+- 20 topics
 
-**Risks:** No metadata risk notes yet.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 

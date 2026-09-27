@@ -1,6 +1,6 @@
 # yakhyo/uniface
 
-[![Stars](https://img.shields.io/github/stars/yakhyo/uniface?style=flat-square&color=yellow)](https://github.com/yakhyo/uniface/stargazers) [![Forks](https://img.shields.io/github/forks/yakhyo/uniface?style=flat-square&color=blue)](https://github.com/yakhyo/uniface/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yakhyo/uniface?style=flat-square&color=yellow)](https://github.com/yakhyo/uniface/stargazers) [![Forks](https://img.shields.io/github/forks/yakhyo/uniface?style=flat-square&color=blue)](https://github.com/yakhyo/uniface/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Automate face detection, recognition, and landmark analysis using the unified Uniface Python library.  https://t.co/3BFAUAEJoz https://t.co/j15330BMFd https://github.com/yakhyo/uniface
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 249 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-24 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ yakhyo/uniface：yakhyo/uniface helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 67/100 |
 | categoryMatchCount | 100/100 |
 | stars | 69/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
