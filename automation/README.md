@@ -705,8 +705,8 @@
 | 695 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.3k | Go | 63/100 |
 | 696 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 63/100 |
 | 697 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 63/100 |
-| 698 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
-| 699 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
+| 698 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
+| 699 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
 | 700 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 63/100 |
 | 701 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 63/100 |
 | 702 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 379 | Nushell | 63/100 |
@@ -1158,8 +1158,8 @@
 | 1148 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 49/100 |
 | 1149 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 329 | — | 49/100 |
 | 1150 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 49/100 |
-| 1151 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
-| 1152 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1151 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1152 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
 | 1153 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 3.6k | Shell | 49/100 |
 | 1154 | [kobaltgit/tg-rich-converter](./kobaltgit-tg-rich-converter.md) | ⭐ — | — | 48/100 |
 | 1155 | [guidsen/hermes-grok-bot-skin](./guidsen-hermes-grok-bot-skin.md) | ⭐ — | — | 48/100 |
@@ -1331,8 +1331,8 @@
 | 1321 | [XENOCOREGIGER31/local-model](./xenocoregiger31-local-model.md) | ⭐ — | — | 33/100 |
 | 1322 | [stepanogil/autonomous-hr-chatbot](./stepanogil-autonomous-hr-chatbot.md) | ⭐ — | — | 32/100 |
 | 1323 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
-| 1324 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1325 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1324 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1325 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 | 1326 | [openai/agents](./openai-agents.md) | ⭐ — | — | 28/100 |
 | 1327 | [indutny/tldts](./indutny-tldts.md) | ⭐ — | — | 24/100 |
 | 1328 | [Raknaos/lightpanda](./raknaos-lightpanda.md) | ⭐ — | — | 24/100 |

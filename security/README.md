@@ -385,8 +385,8 @@
 | 375 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ — | — | 38/100 |
 | 376 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ — | — | 38/100 |
 | 377 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ — | — | 38/100 |
-| 378 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
-| 379 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
+| 378 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
+| 379 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
 | 380 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ — | — | 38/100 |
 | 381 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 38/100 |
 | 382 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 38/100 |
@@ -400,8 +400,8 @@
 | 390 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 38/100 |
 | 391 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 38/100 |
 | 392 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ — | — | 37/100 |
-| 393 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
-| 394 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 393 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 394 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
 | 395 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ — | — | 37/100 |
 | 396 | [shark-auth/shark](./shark-auth-shark.md) | ⭐ — | — | 36/100 |
 
