@@ -1,6 +1,6 @@
 # AnmolSaini16/mapcn
 
-[![Stars](https://img.shields.io/github/stars/AnmolSaini16/mapcn?style=flat-square&color=yellow)](https://github.com/AnmolSaini16/mapcn/stargazers) [![Forks](https://img.shields.io/github/forks/AnmolSaini16/mapcn?style=flat-square&color=blue)](https://github.com/AnmolSaini16/mapcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnmolSaini16/mapcn?style=flat-square&color=yellow)](https://github.com/AnmolSaini16/mapcn/stargazers) [![Forks](https://img.shields.io/github/forks/AnmolSaini16/mapcn?style=flat-square&color=blue)](https://github.com/AnmolSaini16/mapcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-config map components for React built on MapLibre GL, Tailwind, and shadcn/ui.  https://t.co/F6fmpa9XMD https://t.co/ONuSjKbFRq https://github.com/AnmolSaini16/mapcn
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.1k |
 | 🍴 **Forks** | 706 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-25 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ AnmolSaini16/mapcn：AnmolSaini16/mapcn helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 83/100 |
 | categoryMatchCount | 100/100 |
 | stars | 87/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
