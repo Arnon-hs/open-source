@@ -214,8 +214,8 @@
 | 204 | [stefanpejcic/OpenPanel](./stefanpejcic-openpanel.md) | ⭐ 687 | TypeScript | 61/100 |
 | 205 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 31.8k | Go | 61/100 |
 | 206 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 690 | Svelte | 60/100 |
-| 207 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
-| 208 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 207 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 208 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
 | 209 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 824 | JavaScript | 60/100 |
 | 210 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 31 | Nix | 60/100 |
 | 211 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 399 | Go | 60/100 |
