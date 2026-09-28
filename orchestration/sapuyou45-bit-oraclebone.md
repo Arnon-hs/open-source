@@ -27,33 +27,38 @@ Orchestration · MCP · AI/ML · Backend
 
 ### English
 
-sapuyou45-bit/oraclebone: . Use it for Orchestration, MCP, AI/ML, Backend. 
+sapuyou45-bit/oraclebone: sapuyou45-bit/oraclebone helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-sapuyou45-bit/oraclebone: open-source проект в категориях Orchestration, MCP, AI/ML, Backend. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+sapuyou45-bit/oraclebone: open-source проект в категориях Orchestration, MCP, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-sapuyou45-bit/oraclebone：。适合用于Orchestration、MCP、AI/ML、Backend。
+sapuyou45-bit/oraclebone：sapuyou45-bit/oraclebone helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** sapuyou45-bit/oraclebone helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 4 GitHub stars
+- updated 2026-08-23
+- primary language: Python
+- 20 topics
 
-**Risks:** No metadata risk notes yet.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
