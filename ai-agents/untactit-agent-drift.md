@@ -1,6 +1,6 @@
 # untactit/agent-drift
 
-[![Stars](https://img.shields.io/github/stars/untactit/agent-drift?style=flat-square&color=yellow)](https://github.com/untactit/agent-drift/stargazers) [![Forks](https://img.shields.io/github/forks/untactit/agent-drift?style=flat-square&color=blue)](https://github.com/untactit/agent-drift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/untactit/agent-drift?style=flat-square&color=yellow)](https://github.com/untactit/agent-drift/stargazers) [![Forks](https://img.shields.io/github/forks/untactit/agent-drift?style=flat-square&color=blue)](https://github.com/untactit/agent-drift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Find the instruction files your AI agents read, and the copies that no longer agree. One file, no dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI agents · instruction file · rule violations · code gates · token usage ·
 
 ### English
 
-untactit/agent-drift: untactit/agent-drift may be useful when its README and activity match a concrete workflow.. Use it for AI agents, instruction file, rule violations, code gates, token usage, drift detection. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+untactit/agent-drift: untactit/agent-drift may be useful when its README and activity match a concrete workflow.. Use it for AI agents, instruction file, rule violations, code gates, token usage, drift detection. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-untactit/agent-drift: open-source проект в категориях AI agents, instruction file, rule violations, code gates, token usage, drift detection. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+untactit/agent-drift: open-source проект в категориях AI agents, instruction file, rule violations, code gates, token usage, drift detection. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-untactit/agent-drift：untactit/agent-drift may be useful when its README and activity match a concrete workflow.。适合用于AI agents、instruction file、rule violations、code gates、token usage、drift detection。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+untactit/agent-drift：untactit/agent-drift may be useful when its README and activity match a concrete workflow.。适合用于AI agents、instruction file、rule violations、code gates、token usage、drift detection。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ untactit/agent-drift：untactit/agent-drift may be useful when its README and ac
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ untactit/agent-drift：untactit/agent-drift may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

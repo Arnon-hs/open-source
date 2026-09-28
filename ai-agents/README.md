@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [untactit/agent-drift](./untactit-agent-drift.md) | ⭐ — | Python | 51/100 |
+| 1 | [untactit/agent-drift](./untactit-agent-drift.md) | ⭐ — | Python | 48/100 |
 | 2 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
 | 3 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 35/100 |
 | 4 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
