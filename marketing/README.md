@@ -2,7 +2,7 @@
 
 > 
 
-**30 projects** in this category.
+**31 projects** in this category.
 
 ## Projects
 
@@ -31,13 +31,14 @@
 | 21 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 42/100 |
 | 22 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 42/100 |
 | 23 | [othy19904-eng/conversionguard](./othy19904-eng-conversionguard.md) | ⭐ — | Python | 42/100 |
-| 24 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
-| 25 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ — | — | 38/100 |
-| 26 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
-| 27 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 38/100 |
-| 28 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 38/100 |
-| 29 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 38/100 |
-| 30 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
+| 24 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |
+| 25 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
+| 26 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ — | — | 38/100 |
+| 27 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
+| 28 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 38/100 |
+| 29 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 38/100 |
+| 30 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 38/100 |
+| 31 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
 
 ---
 
