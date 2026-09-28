@@ -551,8 +551,8 @@
 | 541 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1k | TypeScript | 61/100 |
 | 542 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 399 | HCL | 61/100 |
 | 543 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 696 | Rust | 61/100 |
-| 544 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
-| 545 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.3k | C++ | 61/100 |
+| 544 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.3k | C++ | 61/100 |
+| 545 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
 | 546 | [simonepri/sympact](./simonepri-sympact.md) | ⭐ 441 | JavaScript | 61/100 |
 | 547 | [chung-leong/zigar](./chung-leong-zigar.md) | ⭐ 415 | Zig | 61/100 |
 | 548 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 3.8k | TypeScript | 61/100 |
@@ -734,8 +734,8 @@
 | 724 | [inducer/relate](./inducer-relate.md) | ⭐ 423 | Python | 56/100 |
 | 725 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
 | 726 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 197 | TypeScript | 56/100 |
-| 727 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
-| 728 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 727 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 728 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
 | 729 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 730 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.6k | JavaScript | 56/100 |
 | 731 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
