@@ -65,18 +65,18 @@ fjykTec/ModernWMS：fjykTec/ModernWMS helps convert raw data into searchable, an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 63/100 |
-| outlook | 67/100 |
-| adoption | 68/100 |
-| categoryMatchCount | 100/100 |
-| stars | 69/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| stars | 69/100 |
 | topics | 63/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
+| adoption | 68/100 |
+| production | 63/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

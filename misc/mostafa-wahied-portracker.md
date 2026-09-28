@@ -63,18 +63,18 @@ mostafa-wahied/portracker：mostafa-wahied/portracker may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 61/100 |
-| outlook | 67/100 |
-| adoption | 66/100 |
-| categoryMatchCount | 0/100 |
-| stars | 72/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| stars | 72/100 |
 | topics | 38/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
+| adoption | 66/100 |
+| production | 61/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

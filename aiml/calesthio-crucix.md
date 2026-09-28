@@ -65,18 +65,18 @@ calesthio/Crucix：calesthio/Crucix helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 64/100 |
-| outlook | 72/100 |
-| adoption | 85/100 |
-| categoryMatchCount | 100/100 |
-| stars | 87/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| stars | 87/100 |
 | topics | 38/100 |
+| outlook | 72/100 |
+| quality | 74/100 |
+| recency | 80/100 |
+| adoption | 85/100 |
+| production | 64/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

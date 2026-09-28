@@ -65,18 +65,18 @@ FareedKhan-dev/train-llm-from-scratch：FareedKhan-dev/train-llm-from-scratch he
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 68/100 |
-| outlook | 72/100 |
-| adoption | 83/100 |
-| categoryMatchCount | 100/100 |
-| stars | 85/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| stars | 85/100 |
 | topics | 75/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
+| adoption | 83/100 |
+| production | 68/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

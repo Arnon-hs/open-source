@@ -63,18 +63,18 @@ hardikpandya/stop-slop：hardikpandya/stop-slop helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 65/100 |
-| outlook | 68/100 |
-| adoption | 87/100 |
-| categoryMatchCount | 100/100 |
-| stars | 90/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| stars | 90/100 |
 | topics | 0/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 80/100 |
+| adoption | 87/100 |
+| production | 65/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
