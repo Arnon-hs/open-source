@@ -705,8 +705,8 @@
 | 695 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.3k | Go | 63/100 |
 | 696 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 63/100 |
 | 697 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 63/100 |
-| 698 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
-| 699 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
+| 698 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
+| 699 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
 | 700 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 63/100 |
 | 701 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 63/100 |
 | 702 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 379 | Nushell | 63/100 |
@@ -1321,8 +1321,8 @@
 | 1311 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 38/100 |
 | 1312 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1313 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1314 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
-| 1315 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1314 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1315 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
 | 1316 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 38/100 |
 | 1317 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 38/100 |
 | 1318 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 38/100 |
