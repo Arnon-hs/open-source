@@ -62,18 +62,18 @@ mikiarlo3/ai-copywriter：mikiarlo3/ai-copywriter may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 58/100 |
-| adoption | 58/100 |
-| categoryMatchCount | 0/100 |
-| stars | 64/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 80/100 |
+| adoption | 58/100 |
+| production | 60/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

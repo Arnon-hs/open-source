@@ -2,7 +2,7 @@
 
 > 
 
-**573 projects** in this category.
+**574 projects** in this category.
 
 ## Projects
 
@@ -520,8 +520,8 @@
 | 510 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ — | — | 45/100 |
 | 511 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ — | — | 45/100 |
 | 512 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 513 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 514 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 513 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 514 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 515 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ — | — | 45/100 |
 | 516 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ — | — | 45/100 |
 | 517 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |
@@ -580,7 +580,8 @@
 | 570 | [cgopalan/s3fileviewer](./cgopalan-s3fileviewer.md) | ⭐ — | — | 38/100 |
 | 571 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ — | — | 38/100 |
 | 572 | [floci-io/floci](./floci-io-floci.md) | ⭐ — | — | 38/100 |
-| 573 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 28/100 |
+| 573 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ — | Shell | 36/100 |
+| 574 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 28/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # akha-security/akca
 
-[![Stars](https://img.shields.io/github/stars/akha-security/akca?style=flat-square&color=yellow)](https://github.com/akha-security/akca/stargazers) [![Forks](https://img.shields.io/github/forks/akha-security/akca?style=flat-square&color=blue)](https://github.com/akha-security/akca/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akha-security/akca?style=flat-square&color=yellow)](https://github.com/akha-security/akca/stargazers) [![Forks](https://img.shields.io/github/forks/akha-security/akca?style=flat-square&color=blue)](https://github.com/akha-security/akca/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 👾 AKCA - Advanced Web Security Scanner  AKCA is an open-source, evidence-oriented Dynamic Application Security Testing (DAST) scanner written in Go. It combines HTTP and browser-assisted crawling, JavaScript analysis, API imports, adaptive active testing, passive inspection, and replayable evidence in one command-line workflow.  https://t.co/R4HruJLn55  By - @caneraktas_ https://github.com/akha-security/akca
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-26 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ akha-security/akca：akha-security/akca helps remove repetitive manual operation
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 38/100 |
 | categoryMatchCount | 300/100 |
 | stars | 39/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
