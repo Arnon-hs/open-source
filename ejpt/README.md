@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [saivishwaa/eJPT-Prep-Guide](./saivishwaa-ejpt-prep-guide.md) | ⭐ 3 | — | 38/100 |
+| 1 | [saivishwaa/eJPT-Prep-Guide](./saivishwaa-ejpt-prep-guide.md) | ⭐ 3 | — | 35/100 |
 
 ---
 
