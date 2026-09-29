@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [anthropics/anthropic-sdk-python](./anthropics-anthropic-sdk-python.md) | ⭐ 3.9k | Python | 61/100 |
+| 1 | [anthropics/anthropic-sdk-python](./anthropics-anthropic-sdk-python.md) | ⭐ 3.9k | Python | 58/100 |
 
 ---
 
