@@ -63,18 +63,18 @@ openinframap/openinframap：openinframap/openinframap may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 67/100 |
-| outlook | 66/100 |
-| adoption | 57/100 |
-| categoryMatchCount | 0/100 |
-| stars | 59/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| stars | 59/100 |
 | topics | 88/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
+| adoption | 57/100 |
+| production | 67/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
