@@ -1,6 +1,6 @@
 # sanity-labs/sanity-plugin-workflows
 
-[![Stars](https://img.shields.io/github/stars/sanity-labs/sanity-plugin-workflows?style=flat-square&color=yellow)](https://github.com/sanity-labs/sanity-plugin-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/sanity-labs/sanity-plugin-workflows?style=flat-square&color=blue)](https://github.com/sanity-labs/sanity-plugin-workflows/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanity-labs/sanity-plugin-workflows?style=flat-square&color=yellow)](https://github.com/sanity-labs/sanity-plugin-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/sanity-labs/sanity-plugin-workflows?style=flat-square&color=blue)](https://github.com/sanity-labs/sanity-plugin-workflows/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ travel · community · consensus · moderation · CMS · serverless
 
 ### English
 
-sanity-labs/sanity-plugin-workflows: sanity-labs/sanity-plugin-workflows may be useful when its README and activity match a concrete workflow.. Use it for travel, community, consensus, moderation, CMS, serverless. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sanity-labs/sanity-plugin-workflows: sanity-labs/sanity-plugin-workflows may be useful when its README and activity match a concrete workflow.. Use it for travel, community, consensus, moderation, CMS, serverless. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-sanity-labs/sanity-plugin-workflows: open-source проект в категориях travel, community, consensus, moderation, CMS, serverless. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+sanity-labs/sanity-plugin-workflows: open-source проект в категориях travel, community, consensus, moderation, CMS, serverless. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-sanity-labs/sanity-plugin-workflows：sanity-labs/sanity-plugin-workflows may be useful when its README and activity match a concrete workflow.。适合用于travel、community、consensus、moderation、CMS、serverless。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sanity-labs/sanity-plugin-workflows：sanity-labs/sanity-plugin-workflows may be useful when its README and activity match a concrete workflow.。适合用于travel、community、consensus、moderation、CMS、serverless。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sanity-labs/sanity-plugin-workflows：sanity-labs/sanity-plugin-workflows may be
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ sanity-labs/sanity-plugin-workflows：sanity-labs/sanity-plugin-workflows may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 34/100 |
+| quality | 29/100 |
 | integration | 50/100 |
-| production | 53/100 |
-| outlook | 48/100 |
+| production | 46/100 |
+| outlook | 41/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sanity-labs/sanity-plugin-workflows](./sanity-labs-sanity-plugin-workflows.md) | ⭐ 2 | TypeScript | 46/100 |
+| 1 | [sanity-labs/sanity-plugin-workflows](./sanity-labs-sanity-plugin-workflows.md) | ⭐ 2 | TypeScript | 43/100 |
 
 ---
 
