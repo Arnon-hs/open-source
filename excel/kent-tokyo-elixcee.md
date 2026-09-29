@@ -1,6 +1,6 @@
 # kent-tokyo/elixcee
 
-[![Stars](https://img.shields.io/github/stars/kent-tokyo/elixcee?style=flat-square&color=yellow)](https://github.com/kent-tokyo/elixcee/stargazers) [![Forks](https://img.shields.io/github/forks/kent-tokyo/elixcee?style=flat-square&color=blue)](https://github.com/kent-tokyo/elixcee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kent-tokyo/elixcee?style=flat-square&color=yellow)](https://github.com/kent-tokyo/elixcee/stargazers) [![Forks](https://img.shields.io/github/forks/kent-tokyo/elixcee?style=flat-square&color=blue)](https://github.com/kent-tokyo/elixcee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Run, test, and diagnose Excel VBA macros without Microsoft Excel. elixcee is a Rust-powered headless VBA runtime for Linux, macOS, and Windows, with static analysis, property-based workbook testing, and root-cause diagnostics for common Excel operation failures.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-08-30 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ kent-tokyo/elixcee：kent-tokyo/elixcee may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 30/100 |
-| production | 46/100 |
-| outlook | 47/100 |
+| production | 40/100 |
+| outlook | 40/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 800/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
