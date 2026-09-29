@@ -2,7 +2,7 @@
 
 > 
 
-**644 projects** in this category.
+**645 projects** in this category.
 
 ## Projects
 
@@ -642,16 +642,17 @@
 | 632 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ — | — | 38/100 |
 | 633 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 634 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 38/100 |
-| 635 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
-| 636 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
+| 635 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
+| 636 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
 | 637 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 638 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |
-| 639 | [williamanjo/json-pdf-designer](./williamanjo-json-pdf-designer.md) | ⭐ — | TypeScript | 36/100 |
-| 640 | [stirlinglabs/stirling-pdf](./stirlinglabs-stirling-pdf.md) | ⭐ — | — | 36/100 |
-| 641 | [aziis98/368b40d6cae01f8d40a6e3d2cccd4c31](./aziis98-368b40d6cae01f8d40a6e3d2cccd4c31.md) | ⭐ — | — | 36/100 |
-| 642 | [zeflq/doc-skills](./zeflq-doc-skills.md) | ⭐ — | — | 34/100 |
-| 643 | [hyperbob/sql2md](./hyperbob-sql2md.md) | ⭐ — | — | 28/100 |
-| 644 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 28/100 |
+| 639 | [eimza-kep/udf2md](./eimza-kep-udf2md.md) | ⭐ — | HTML | 36/100 |
+| 640 | [williamanjo/json-pdf-designer](./williamanjo-json-pdf-designer.md) | ⭐ — | TypeScript | 36/100 |
+| 641 | [stirlinglabs/stirling-pdf](./stirlinglabs-stirling-pdf.md) | ⭐ — | — | 36/100 |
+| 642 | [aziis98/368b40d6cae01f8d40a6e3d2cccd4c31](./aziis98-368b40d6cae01f8d40a6e3d2cccd4c31.md) | ⭐ — | — | 36/100 |
+| 643 | [zeflq/doc-skills](./zeflq-doc-skills.md) | ⭐ — | — | 34/100 |
+| 644 | [hyperbob/sql2md](./hyperbob-sql2md.md) | ⭐ — | — | 28/100 |
+| 645 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 28/100 |
 
 ---
 

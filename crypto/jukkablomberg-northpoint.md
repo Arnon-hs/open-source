@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-crypto · marketing · compliance · automation · skills · MiCA · FCA · GDPR · SEC · MAS · VARA
+Crypto · AI/ML · Marketing
 
 ## 📝 Summary
 
 ### English
 
-jukkablomberg/northpoint: jukkablomberg/northpoint may be useful when its README and activity match a concrete workflow.. Use it for crypto, marketing, compliance, automation, skills, MiCA, FCA, GDPR, SEC, MAS, VARA. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jukkablomberg/northpoint: jukkablomberg/northpoint helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-jukkablomberg/northpoint: open-source проект в категориях crypto, marketing, compliance, automation, skills, MiCA, FCA, GDPR, SEC, MAS, VARA. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+jukkablomberg/northpoint: open-source проект в категориях Crypto, AI/ML, Marketing. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-jukkablomberg/northpoint：jukkablomberg/northpoint may be useful when its README and activity match a concrete workflow.。适合用于crypto、marketing、compliance、automation、skills、MiCA、FCA、GDPR、SEC、MAS、VARA。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jukkablomberg/northpoint：jukkablomberg/northpoint helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** jukkablomberg/northpoint may be useful when its README and activity match a concrete workflow.
+**Value:** jukkablomberg/northpoint helps prototype or inspect blockchain workflows with open implementation details.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -62,18 +64,18 @@ jukkablomberg/northpoint：jukkablomberg/northpoint may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 42/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 1100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 63/100 |
+| outlook | 54/100 |
+| quality | 42/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
