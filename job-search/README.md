@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [UprightCode-hub/SeenDisJob](./uprightcode-hub-seendisjob.md) | ⭐ 2 | JavaScript | 37/100 |
+| 1 | [UprightCode-hub/SeenDisJob](./uprightcode-hub-seendisjob.md) | ⭐ 2 | JavaScript | 34/100 |
 
 ---
 

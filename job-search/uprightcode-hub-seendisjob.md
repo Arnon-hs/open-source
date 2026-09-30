@@ -1,6 +1,6 @@
 # UprightCode-hub/SeenDisJob
 
-[![Stars](https://img.shields.io/github/stars/UprightCode-hub/SeenDisJob?style=flat-square&color=yellow)](https://github.com/UprightCode-hub/SeenDisJob/stargazers) [![Forks](https://img.shields.io/github/forks/UprightCode-hub/SeenDisJob?style=flat-square&color=blue)](https://github.com/UprightCode-hub/SeenDisJob/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UprightCode-hub/SeenDisJob?style=flat-square&color=yellow)](https://github.com/UprightCode-hub/SeenDisJob/stargazers) [![Forks](https://img.shields.io/github/forks/UprightCode-hub/SeenDisJob?style=flat-square&color=blue)](https://github.com/UprightCode-hub/SeenDisJob/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Detect duplicate job postings across tabs and job boards.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ UprightCode-hub/SeenDisJob：UprightCode-hub/SeenDisJob may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 34/100 |
+| quality | 29/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 45/100 |
+| production | 43/100 |
+| outlook | 38/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
