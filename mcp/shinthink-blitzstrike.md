@@ -65,18 +65,18 @@ shinthink/blitzstrike：shinthink/blitzstrike helps connect AI assistants to rea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 75/100 |
-| adoption | 46/100 |
-| categoryMatchCount | 300/100 |
-| stars | 59/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
+| adoption | 46/100 |
+| production | 66/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
