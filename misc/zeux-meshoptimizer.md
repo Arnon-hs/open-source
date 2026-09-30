@@ -1,23 +1,23 @@
 # zeux/meshoptimizer
 
-[![Stars](https://img.shields.io/github/stars/zeux/meshoptimizer?style=flat-square&color=yellow)](https://github.com/zeux/meshoptimizer/stargazers) [![Forks](https://img.shields.io/github/forks/zeux/meshoptimizer?style=flat-square&color=blue)](https://github.com/zeux/meshoptimizer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeux/meshoptimizer?style=flat-square&color=yellow)](https://github.com/zeux/meshoptimizer/releases/tag/v1.3/stargazers) [![Forks](https://img.shields.io/github/forks/zeux/meshoptimizer?style=flat-square&color=blue)](https://github.com/zeux/meshoptimizer/releases/tag/v1.3/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Mesh optimization library that makes meshes smaller and faster to render
+> Discovered from Hacker News (github-mentions)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.6k |
-| 🍴 **Forks** | 630 |
-| 💻 **Language** | C++ |
-| 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-09-30 |
+| 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
 
-_no topics_
+`hn` `github-mentions`
 
 ## 🎯 Categories
 
@@ -25,8 +25,54 @@ Misc
 
 ## 📝 Summary
 
-The zeux/meshoptimizer project is an open-source library designed to optimize meshes for improved rendering performance. It achieves this by reducing mesh size, making it ideal for applications with limited resources or memory constraints. By utilizing mesh optimization techniques, developers can enhance the overall gaming or graphics experience.
+### English
+
+Meshoptimizer Version 1.3 Released: Meshoptimizer Version 1.3 Released may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+Meshoptimizer Version 1.3 Released: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+Meshoptimizer Version 1.3 Released：Meshoptimizer Version 1.3 Released may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** Meshoptimizer Version 1.3 Released may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-09-30
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 54/100 |
+| quality | 41/100 |
+| recency | 100/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/zeux/meshoptimizer) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-09-30 · [View on GitHub](https://github.com/zeux/meshoptimizer/releases/tag/v1.3) · [← Back to Misc](./README.md)</sub>
