@@ -27,37 +27,33 @@ MCP · Knowledge/RAG · Documents
 
 ### English
 
-MasihMoafi/rag-mcp: MasihMoafi/rag-mcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MasihMoafi/rag-mcp: . Use it for MCP, Knowledge/RAG, Documents. 
 
 ### Русский
 
-MasihMoafi/rag-mcp: open-source проект в категориях MCP, Knowledge/RAG. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MasihMoafi/rag-mcp: open-source проект в категориях MCP, Knowledge/RAG, Documents. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-MasihMoafi/rag-mcp：MasihMoafi/rag-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MasihMoafi/rag-mcp：。适合用于MCP、Knowledge/RAG、Documents。
 
 ## 🧭 Practical evaluation
 
-**Value:** MasihMoafi/rag-mcp helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 5 GitHub stars
-- updated 2026-08-23
-- primary language: Jupyter Notebook
+- Not enough metadata yet.
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
