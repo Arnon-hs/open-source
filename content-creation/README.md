@@ -2,7 +2,7 @@
 
 > 
 
-**134 projects** in this category.
+**135 projects** in this category.
 
 ## Projects
 
@@ -135,13 +135,14 @@
 | 125 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 126 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 127 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
-| 128 | [pelazas/p2pmux](./pelazas-p2pmux.md) | ⭐ — | — | 40/100 |
-| 129 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 38/100 |
-| 130 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
-| 131 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
-| 132 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 133 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 134 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 128 | [Lightricks/LTX-Video](./lightricks-ltx-video.md) | ⭐ 2.3k | diffusers | 40/100 |
+| 129 | [pelazas/p2pmux](./pelazas-p2pmux.md) | ⭐ — | — | 40/100 |
+| 130 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 38/100 |
+| 131 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
+| 132 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
+| 133 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
+| 134 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 135 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
 
 ---
 
