@@ -645,8 +645,8 @@
 | 635 | [hidevopsio/hiboot](./hidevopsio-hiboot.md) | ⭐ 179 | Go | 63/100 |
 | 636 | [oneclickvirt/ecs](./oneclickvirt-ecs.md) | ⭐ 2k | Go | 63/100 |
 | 637 | [jkwill87/mnamer](./jkwill87-mnamer.md) | ⭐ 1.1k | Python | 63/100 |
-| 638 | [szaghi/FoBiS](./szaghi-fobis.md) | ⭐ 144 | Python | 63/100 |
-| 639 | [Raphire/Win11Debloat](./raphire-win11debloat.md) | ⭐ 46k | PowerShell | 63/100 |
+| 638 | [Raphire/Win11Debloat](./raphire-win11debloat.md) | ⭐ 46k | PowerShell | 63/100 |
+| 639 | [szaghi/FoBiS](./szaghi-fobis.md) | ⭐ 144 | Python | 63/100 |
 | 640 | [noborus/trdsql](./noborus-trdsql.md) | ⭐ 2.2k | Go | 63/100 |
 | 641 | [beetbox/beets](./beetbox-beets.md) | ⭐ 15.1k | Python | 63/100 |
 | 642 | [leo-arch/clifm](./leo-arch-clifm.md) | ⭐ 1.7k | C | 63/100 |
@@ -1097,8 +1097,8 @@
 | 1087 | [Zheoni/cooklang-chef](./zheoni-cooklang-chef.md) | ⭐ 135 | Rust | 57/100 |
 | 1088 | [aspiers/git-config](./aspiers-git-config.md) | ⭐ 104 | Shell | 57/100 |
 | 1089 | [oleiade/motus](./oleiade-motus.md) | ⭐ 157 | Rust | 57/100 |
-| 1090 | [pgenie-io/pgenie](./pgenie-io-pgenie.md) | ⭐ 153 | Haskell | 57/100 |
-| 1091 | [elm/compiler](./elm-compiler.md) | ⭐ 7.8k | Haskell | 57/100 |
+| 1090 | [elm/compiler](./elm-compiler.md) | ⭐ 7.8k | Haskell | 57/100 |
+| 1091 | [pgenie-io/pgenie](./pgenie-io-pgenie.md) | ⭐ 153 | Haskell | 57/100 |
 | 1092 | [danpozmanter/gossamer](./danpozmanter-gossamer.md) | ⭐ 117 | Rust | 57/100 |
 | 1093 | [Rust-GCC/gccrs](./rust-gcc-gccrs.md) | ⭐ 2.9k | C++ | 57/100 |
 | 1094 | [woodruffw/toml2json](./woodruffw-toml2json.md) | ⭐ 101 | Rust | 57/100 |
@@ -1435,8 +1435,8 @@
 | 1425 | [openchoreo/openchoreo](./openchoreo-openchoreo.md) | ⭐ 848 | Go | 51/100 |
 | 1426 | [serkanyersen/dotstate](./serkanyersen-dotstate.md) | ⭐ 339 | Rust | 51/100 |
 | 1427 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 51/100 |
-| 1428 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 238 | Rust | 51/100 |
-| 1429 | [railwayapp/cli](./railwayapp-cli.md) | ⭐ 540 | Rust | 51/100 |
+| 1428 | [railwayapp/cli](./railwayapp-cli.md) | ⭐ 540 | Rust | 51/100 |
+| 1429 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 238 | Rust | 51/100 |
 | 1430 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 51/100 |
 | 1431 | [KhronosGroup/glslang](./khronosgroup-glslang.md) | ⭐ 3.5k | C++ | 51/100 |
 | 1432 | [google/xls](./google-xls.md) | ⭐ 1.5k | C++ | 51/100 |
@@ -1518,8 +1518,8 @@
 | 1508 | [Bharathcoorg/interenv](./bharathcoorg-interenv.md) | ⭐ 1 | Rust | 46/100 |
 | 1509 | [aristocratos/btop](./aristocratos-btop.md) | ⭐ — | — | 46/100 |
 | 1510 | [geturbackend/urBackend](./geturbackend-urbackend.md) | ⭐ — | — | 46/100 |
-| 1511 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ — | — | 46/100 |
-| 1512 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ — | — | 46/100 |
+| 1511 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ — | — | 46/100 |
+| 1512 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ — | — | 46/100 |
 | 1513 | [sdiehl/typechecker-zoo](./sdiehl-typechecker-zoo.md) | ⭐ 416 | Rust | 46/100 |
 | 1514 | [coolxv/cpp-stub](./coolxv-cpp-stub.md) | ⭐ 326 | C++ | 46/100 |
 | 1515 | [trovu/trovu](./trovu-trovu.md) | ⭐ 70 | TypeScript | 46/100 |
@@ -1544,8 +1544,8 @@
 | 1534 | [mainak55512/flint](./mainak55512-flint.md) | ⭐ — | — | 42/100 |
 | 1535 | [coder/wush](./coder-wush.md) | ⭐ — | — | 42/100 |
 | 1536 | [berggren/tss](./berggren-tss.md) | ⭐ — | — | 42/100 |
-| 1537 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
-| 1538 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1537 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1538 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
 | 1539 | [mozilla/web-ext](./mozilla-web-ext.md) | ⭐ — | — | 42/100 |
 | 1540 | [scascino4/dither](./scascino4-dither.md) | ⭐ — | — | 42/100 |
 | 1541 | [crawshaw/yeah](./crawshaw-yeah.md) | ⭐ — | — | 42/100 |
