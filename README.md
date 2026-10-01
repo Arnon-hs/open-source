@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37643** |
-| **Categories** | **187** |
+| **Projects** | **37649** |
+| **Categories** | **190** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -55,7 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Ai** | 19 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 20 | [Browse →](./ai/) |
 | 🏷️ **Llm** | 8 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 8 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
@@ -63,11 +63,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
+| 🏷️ **Video-generation** | 3 | [Browse →](./video-generation/) |
 | 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Synthetic-data** | 2 | [Browse →](./synthetic-data/) |
 | 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Certification** | 2 | [Browse →](./certification/) |
@@ -80,7 +82,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Docker** | 2 | [Browse →](./docker/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
-| 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
 | 🏷️ **Resume** | 2 | [Browse →](./resume/) |
 | 🏷️ **N8n** | 2 | [Browse →](./n8n/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
@@ -97,12 +98,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Image-editing** | 1 | [Browse →](./image-editing/) |
+| 🏷️ **Developer-os** | 1 | [Browse →](./developer-os/) |
+| 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Postgresql** | 1 | [Browse →](./postgresql/) |
 | 🏷️ **Pseudocode** | 1 | [Browse →](./pseudocode/) |
 | 🏷️ **Static-analysis** | 1 | [Browse →](./static-analysis/) |
 | 🏷️ **Intent-classification** | 1 | [Browse →](./intent-classification/) |
 | 🏷️ **Sql-server** | 1 | [Browse →](./sql-server/) |
-| 🏷️ **Synthetic-data** | 1 | [Browse →](./synthetic-data/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
 | 🏷️ **Electron** | 1 | [Browse →](./electron/) |
 | 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |

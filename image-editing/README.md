@@ -1,4 +1,4 @@
-# 🏷️ Github
+# 🏷️ Image-editing
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mattqdev/stackfingerprint-action](./mattqdev-stackfingerprint-action.md) | ⭐ 2 | — | 40/100 |
+| 1 | [wayperlee/edittextinimage](./wayperlee-edittextinimage.md) | ⭐ — | Python | 46/100 |
 
 ---
 

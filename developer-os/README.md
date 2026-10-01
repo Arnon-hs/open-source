@@ -1,4 +1,4 @@
-# 🏷️ Github
+# 🏷️ Developer-os
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mattqdev/stackfingerprint-action](./mattqdev-stackfingerprint-action.md) | ⭐ 2 | — | 40/100 |
+| 1 | [ronitgupta138/aero-linux](./ronitgupta138-aero-linux.md) | ⭐ 1 | Python | 60/100 |
 
 ---
 

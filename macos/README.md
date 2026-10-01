@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [adfd3ewdf3/FinderBack](./adfd3ewdf3-finderback.md) | ⭐ — | Swift | 47/100 |
+| 1 | [adfd3ewdf3/FinderBack](./adfd3ewdf3-finderback.md) | ⭐ — | Swift | 44/100 |
 
 ---
 
