@@ -305,8 +305,8 @@
 | 295 | [wolph/python-progressbar](./wolph-python-progressbar.md) | ⭐ 877 | Python | 67/100 |
 | 296 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 426 | JavaScript | 67/100 |
 | 297 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
-| 298 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 334 | Python | 67/100 |
-| 299 | [orhun/halp](./orhun-halp.md) | ⭐ 760 | Rust | 67/100 |
+| 298 | [orhun/halp](./orhun-halp.md) | ⭐ 760 | Rust | 67/100 |
+| 299 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 334 | Python | 67/100 |
 | 300 | [rosetta-rs/argparse-rosetta-rs](./rosetta-rs-argparse-rosetta-rs.md) | ⭐ 189 | Python | 67/100 |
 | 301 | [contentful-userland/cf-content-types-generator](./contentful-userland-cf-content-types-generator.md) | ⭐ 142 | TypeScript | 67/100 |
 | 302 | [jenkinsci/build-monitor-plugin](./jenkinsci-build-monitor-plugin.md) | ⭐ 726 | Java | 67/100 |
@@ -460,8 +460,8 @@
 | 450 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 65/100 |
 | 451 | [olavolav/uniplot](./olavolav-uniplot.md) | ⭐ 455 | Python | 65/100 |
 | 452 | [BrianPugh/cyclopts](./brianpugh-cyclopts.md) | ⭐ 1.2k | Python | 65/100 |
-| 453 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 65/100 |
-| 454 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 65/100 |
+| 453 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 65/100 |
+| 454 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 65/100 |
 | 455 | [Canop/broot](./canop-broot.md) | ⭐ 12.7k | Rust | 65/100 |
 | 456 | [kainctl/isd](./kainctl-isd.md) | ⭐ 2.1k | Python | 65/100 |
 | 457 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 65/100 |
@@ -657,8 +657,8 @@
 | 647 | [hetznercloud/cli](./hetznercloud-cli.md) | ⭐ 1.7k | Go | 63/100 |
 | 648 | [GoogleChrome/lighthouse](./googlechrome-lighthouse.md) | ⭐ 30.2k | JavaScript | 63/100 |
 | 649 | [noborus/ov](./noborus-ov.md) | ⭐ 1.9k | Go | 63/100 |
-| 650 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.1k | C# | 63/100 |
-| 651 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
+| 650 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
+| 651 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.1k | C# | 63/100 |
 | 652 | [backstage/backstage](./backstage-backstage.md) | ⭐ 33.3k | TypeScript | 63/100 |
 | 653 | [folke/lazy.nvim](./folke-lazy.nvim.md) | ⭐ 21.6k | Lua | 62/100 |
 | 654 | [fe3dback/go-arch-lint](./fe3dback-go-arch-lint.md) | ⭐ 534 | Go | 62/100 |
@@ -1545,8 +1545,8 @@
 | 1535 | [mainak55512/flint](./mainak55512-flint.md) | ⭐ — | — | 42/100 |
 | 1536 | [coder/wush](./coder-wush.md) | ⭐ — | — | 42/100 |
 | 1537 | [berggren/tss](./berggren-tss.md) | ⭐ — | — | 42/100 |
-| 1538 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
-| 1539 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1538 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1539 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
 | 1540 | [mozilla/web-ext](./mozilla-web-ext.md) | ⭐ — | — | 42/100 |
 | 1541 | [scascino4/dither](./scascino4-dither.md) | ⭐ — | — | 42/100 |
 | 1542 | [crawshaw/yeah](./crawshaw-yeah.md) | ⭐ — | — | 42/100 |
