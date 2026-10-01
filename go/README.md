@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mkbeh/pacecache](./mkbeh-pacecache.md) | ⭐ — | Go | 43/100 |
+| 1 | [Aureliopires186/go-serpapi-examples](./aureliopires186-go-serpapi-examples.md) | ⭐ 1 | — | 47/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sdcb/SimdPaddleOCR](./sdcb-simdpaddleocr.md) | ⭐ 60 | C# | 44/100 |
+| 1 | [Arthur031221/snipmd](./arthur031221-snipmd.md) | ⭐ — | Python | 59/100 |
 
 ---
 
