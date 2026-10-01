@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37696** |
-| **Categories** | **198** |
+| **Projects** | **37705** |
+| **Categories** | **199** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14647 | [Browse →](./misc/) |
+| 📦 **Misc** | 14653 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4229 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2688 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 487 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 439 | [Browse →](./templates/) |
 | 🏷️ **Video-editing** | 420 | [Browse →](./video-editing/) |
-| 🔐 **Security** | 401 | [Browse →](./security/) |
+| 🔐 **Security** | 402 | [Browse →](./security/) |
 | 🏷️ **Communication** | 397 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
 | 💳 **Payments** | 325 | [Browse →](./payments/) |
@@ -70,6 +70,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Ai-qa** | 2 | [Browse →](./ai-qa/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Synthetic-data** | 2 | [Browse →](./synthetic-data/) |
@@ -100,6 +101,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Hermes** | 1 | [Browse →](./hermes/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
 | 🏷️ **Claude** | 1 | [Browse →](./claude/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
@@ -112,7 +114,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Postgresql** | 1 | [Browse →](./postgresql/) |
 | 🏷️ **Pseudocode** | 1 | [Browse →](./pseudocode/) |
-| 🏷️ **Static-analysis** | 1 | [Browse →](./static-analysis/) |
 | 🏷️ **Intent-classification** | 1 | [Browse →](./intent-classification/) |
 | 🏷️ **Sql-server** | 1 | [Browse →](./sql-server/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
