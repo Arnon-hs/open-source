@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37627** |
-| **Categories** | **182** |
+| **Projects** | **37631** |
+| **Categories** | **183** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14615 | [Browse →](./misc/) |
+| 📦 **Misc** | 14616 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4228 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2688 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -68,6 +68,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Hackathon** | 2 | [Browse →](./hackathon/) |
+| 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Certification** | 2 | [Browse →](./certification/) |
 | 🏷️ **Decision-models** | 2 | [Browse →](./decision-models/) |
 | 🏷️ **Flashcards** | 2 | [Browse →](./flashcards/) |
@@ -95,6 +97,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Sql-server** | 1 | [Browse →](./sql-server/) |
 | 🏷️ **Synthetic-data** | 1 | [Browse →](./synthetic-data/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
 | 🏷️ **Electron** | 1 | [Browse →](./electron/) |
@@ -107,7 +110,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Anythingllm** | 1 | [Browse →](./anythingllm/) |
 | 🏷️ **Ssh** | 1 | [Browse →](./ssh/) |
 | 🏷️ **Trajectory** | 1 | [Browse →](./trajectory/) |
-| 🏷️ **Ci** | 1 | [Browse →](./ci/) |
 | 🏷️ **Federated-learning** | 1 | [Browse →](./federated-learning/) |
 | 🏷️ **S7comm** | 1 | [Browse →](./s7comm/) |
 | 🏷️ **Travel** | 1 | [Browse →](./travel/) |
@@ -148,7 +150,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |
 | 🏷️ **Postgres** | 1 | [Browse →](./postgres/) |
 | 🏷️ **Nestjs** | 1 | [Browse →](./nestjs/) |
-| 🏷️ **Hackathon** | 1 | [Browse →](./hackathon/) |
 | 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
 | 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |
