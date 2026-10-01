@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37616** |
-| **Categories** | **179** |
+| **Projects** | **37621** |
+| **Categories** | **180** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 14613 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4227 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4228 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2688 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1557 | [Browse →](./devtools/) |
@@ -57,16 +57,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai** | 19 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 8 | [Browse →](./ai-agents/) |
+| 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
-| 🏷️ **Llm** | 6 | [Browse →](./llm/) |
+| 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
-| 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Certification** | 2 | [Browse →](./certification/) |
 | 🏷️ **Decision-models** | 2 | [Browse →](./decision-models/) |
 | 🏷️ **Flashcards** | 2 | [Browse →](./flashcards/) |
 | 🏷️ **Ai-safety** | 2 | [Browse →](./ai-safety/) |
