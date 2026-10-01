@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "total": 37625,
+  "total": 37627,
   "shards": [
     {
       "path": "data/repos-0001.json",
@@ -152,7 +152,7 @@
     },
     {
       "path": "data/repos-0038.json",
-      "count": 625
+      "count": 627
     }
   ]
 }

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37625** |
-| **Categories** | **181** |
+| **Projects** | **37627** |
+| **Categories** | **182** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
 | 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
+| 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
@@ -74,7 +75,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
-| 🏷️ **Local-ai** | 2 | [Browse →](./local-ai/) |
 | 🏷️ **Docker** | 2 | [Browse →](./docker/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
@@ -95,6 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Synthetic-data** | 1 | [Browse →](./synthetic-data/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
 | 🏷️ **Electron** | 1 | [Browse →](./electron/) |
 | 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
