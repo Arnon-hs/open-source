@@ -313,7 +313,7 @@
 | 303 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
 | 304 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
 | 305 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
-| 306 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 34/100 |
+| 306 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 31/100 |
 
 ---
 
