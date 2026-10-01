@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37771** |
+| **Projects** | **37774** |
 | **Categories** | **219** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14671 | [Browse →](./misc/) |
+| 📦 **Misc** | 14672 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4231 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -56,8 +56,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai** | 22 | [Browse →](./ai/) |
-| 🏷️ **Llm** | 8 | [Browse →](./llm/) |
-| 🏷️ **Ai-agents** | 8 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
+| 🏷️ **Llm** | 9 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 7 | [Browse →](./local-llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
