@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37719** |
-| **Categories** | **200** |
+| **Projects** | **37727** |
+| **Categories** | **206** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14659 | [Browse →](./misc/) |
+| 📦 **Misc** | 14660 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4230 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2689 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -70,6 +70,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Multi-agent** | 2 | [Browse →](./multi-agent/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Ai-qa** | 2 | [Browse →](./ai-qa/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
@@ -101,6 +102,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Decision-logging** | 1 | [Browse →](./decision-logging/) |
+| 🏷️ **Goaltracking** | 1 | [Browse →](./goaltracking/) |
+| 🏷️ **Live-streaming** | 1 | [Browse →](./live-streaming/) |
+| 🏷️ **Alexa** | 1 | [Browse →](./alexa/) |
+| 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
+| 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
 | 🏷️ **Ai-security** | 1 | [Browse →](./ai-security/) |
 | 🏷️ **Hermes** | 1 | [Browse →](./hermes/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
@@ -192,7 +199,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
 | 🏷️ **Rewriting** | 1 | [Browse →](./rewriting/) |
-| 🏷️ **Multi-agent** | 1 | [Browse →](./multi-agent/) |
 | 🏷️ **Rust** | 1 | [Browse →](./rust/) |
 | 🏷️ **Harness** | 1 | [Browse →](./harness/) |
 | 🏷️ **Dex** | 1 | [Browse →](./dex/) |
