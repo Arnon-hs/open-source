@@ -65,18 +65,18 @@ video-db/call.md：video-db/call.md helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 68/100 |
-| outlook | 80/100 |
-| adoption | 62/100 |
-| categoryMatchCount | 500/100 |
-| stars | 65/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 80/100 |
+| quality | 73/100 |
+| recency | 80/100 |
+| adoption | 62/100 |
+| production | 68/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

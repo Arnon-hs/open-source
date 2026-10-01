@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37604** |
-| **Categories** | **176** |
+| **Projects** | **37607** |
+| **Categories** | **177** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14608 | [Browse →](./misc/) |
+| 📦 **Misc** | 14609 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4225 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2688 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -67,6 +67,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Flashcards** | 2 | [Browse →](./flashcards/) |
 | 🏷️ **Ai-safety** | 2 | [Browse →](./ai-safety/) |
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
