@@ -2,7 +2,7 @@
 
 > 
 
-**6 projects** in this category.
+**7 projects** in this category.
 
 ## Projects
 
@@ -12,8 +12,9 @@
 | 2 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
 | 3 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
 | 4 | [google/ai-demos](./google-ai-demos.md) | ⭐ — | — | 27/100 |
-| 5 | [peakaistack/lm](./peakaistack-lm.md) | ⭐ — | — | 24/100 |
-| 6 | [vittoriozz/litellm](./vittoriozz-litellm.md) | ⭐ — | — | 24/100 |
+| 5 | [open-code/open-code](./open-code-open-code.md) | ⭐ — | — | 24/100 |
+| 6 | [peakaistack/lm](./peakaistack-lm.md) | ⭐ — | — | 24/100 |
+| 7 | [vittoriozz/litellm](./vittoriozz-litellm.md) | ⭐ — | — | 24/100 |
 
 ---
 

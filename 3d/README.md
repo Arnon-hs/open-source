@@ -1,4 +1,4 @@
-# 🏷️ Semantic-search
+# 🏷️ 3d
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Yudeeswaran/SemPred](./yudeeswaran-sempred.md) | ⭐ — | Python | 46/100 |
+| 1 | [Ayushgupta1715/sanity-museum](./ayushgupta1715-sanity-museum.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

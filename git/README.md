@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jamesjfoong/conventional-revert-hook](./jamesjfoong-conventional-revert-hook.md) | ⭐ — | Shell | 30/100 |
+| 1 | [bks-lab/open-bridge](./bks-lab-open-bridge.md) | ⭐ 10 | Python | 71/100 |
+| 2 | [jamesjfoong/conventional-revert-hook](./jamesjfoong-conventional-revert-hook.md) | ⭐ — | Shell | 30/100 |
 
 ---
 
