@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37610** |
-| **Categories** | **177** |
+| **Projects** | **37616** |
+| **Categories** | **179** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14611 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4226 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14613 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4227 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2688 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1557 | [Browse →](./devtools/) |
@@ -67,6 +67,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Decision-models** | 2 | [Browse →](./decision-models/) |
 | 🏷️ **Flashcards** | 2 | [Browse →](./flashcards/) |
 | 🏷️ **Ai-safety** | 2 | [Browse →](./ai-safety/) |
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
@@ -93,6 +94,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Electron** | 1 | [Browse →](./electron/) |
 | 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Release-engine** | 1 | [Browse →](./release-engine/) |
 | 🏷️ **Tdee** | 1 | [Browse →](./tdee/) |
