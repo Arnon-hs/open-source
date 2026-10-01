@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jessebldr/clear-claude](./jessebldr-clear-claude.md) | ⭐ — | JavaScript | 51/100 |
+| 1 | [B-Lost/litellm](./b-lost-litellm.md) | ⭐ — | — | 24/100 |
 
 ---
 
