@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [diwenne/openreply](./diwenne-openreply.md) | ⭐ 2k | TypeScript | 58/100 |
+| 1 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 1 | JavaScript | 43/100 |
 
 ---
 

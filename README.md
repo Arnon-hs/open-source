@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37727** |
-| **Categories** | **206** |
+| **Projects** | **37742** |
+| **Categories** | **212** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14660 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4230 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14661 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4231 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2689 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1347 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1348 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 913 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 867 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
@@ -36,11 +36,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 586 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 585 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 576 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 577 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 489 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 439 | [Browse →](./templates/) |
-| 🏷️ **Video-editing** | 420 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 421 | [Browse →](./video-editing/) |
 | 🔐 **Security** | 402 | [Browse →](./security/) |
 | 🏷️ **Communication** | 397 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
@@ -55,14 +55,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Ai** | 20 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 21 | [Browse →](./ai/) |
 | 🏷️ **Llm** | 8 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 8 | [Browse →](./ai-agents/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Local-llm** | 6 | [Browse →](./local-llm/) |
+| 🏷️ **Open-source** | 5 | [Browse →](./open-source/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 5 | [Browse →](./self-hosting/) |
-| 🏷️ **Open-source** | 4 | [Browse →](./open-source/) |
+| 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
 | 🏷️ **Local-first** | 3 | [Browse →](./local-first/) |
 | 🏷️ **Video-generation** | 3 | [Browse →](./video-generation/) |
 | 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
@@ -96,12 +97,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
-| 🏷️ **Claude-code** | 2 | [Browse →](./claude-code/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Deployment** | 1 | [Browse →](./deployment/) |
+| 🏷️ **Readability** | 1 | [Browse →](./readability/) |
+| 🏷️ **Environment-variables** | 1 | [Browse →](./environment-variables/) |
+| 🏷️ **Media-player** | 1 | [Browse →](./media-player/) |
+| 🏷️ **Protein-tracking** | 1 | [Browse →](./protein-tracking/) |
+| 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |
 | 🏷️ **Decision-logging** | 1 | [Browse →](./decision-logging/) |
 | 🏷️ **Goaltracking** | 1 | [Browse →](./goaltracking/) |
 | 🏷️ **Live-streaming** | 1 | [Browse →](./live-streaming/) |
