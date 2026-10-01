@@ -13,10 +13,10 @@
 | 3 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
 | 4 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
 | 5 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
-| 6 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 33/100 |
-| 7 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 8 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
-| 9 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 30/100 |
+| 6 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 7 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
+| 8 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 30/100 |
+| 9 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
 | 10 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
 | 11 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
 | 12 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
