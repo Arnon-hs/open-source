@@ -259,8 +259,8 @@
 | 249 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 711 | TypeScript | 65/100 |
 | 250 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.2k | Go | 65/100 |
 | 251 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 319 | TypeScript | 65/100 |
-| 252 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 8.5k | PHP | 65/100 |
-| 253 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.2k | Rust | 65/100 |
+| 252 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.2k | Rust | 65/100 |
+| 253 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 8.5k | PHP | 65/100 |
 | 254 | [magicuidesign/magicui](./magicuidesign-magicui.md) | ⭐ 20.9k | MDX | 65/100 |
 | 255 | [mealie-recipes/mealie](./mealie-recipes-mealie.md) | ⭐ 12.2k | Python | 65/100 |
 | 256 | [marko-js/marko](./marko-js-marko.md) | ⭐ 14.4k | JavaScript | 65/100 |
