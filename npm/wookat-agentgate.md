@@ -1,6 +1,6 @@
 # wookat/agentgate
 
-[![Stars](https://img.shields.io/github/stars/wookat/agentgate?style=flat-square&color=yellow)](https://github.com/wookat/agentgate/stargazers) [![Forks](https://img.shields.io/github/forks/wookat/agentgate?style=flat-square&color=blue)](https://github.com/wookat/agentgate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wookat/agentgate?style=flat-square&color=yellow)](https://github.com/wookat/agentgate/stargazers) [![Forks](https://img.shields.io/github/forks/wookat/agentgate?style=flat-square&color=blue)](https://github.com/wookat/agentgate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AgentGate — scan, lock, and gate your MCP servers. npm-audit + lockfile + CI drift gate for the MCP era.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-01 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ npm · AI-agent · security · MCP · credential-theft · remote-execution · st
 
 ### English
 
-wookat/agentgate: wookat/agentgate may be useful when its README and activity match a concrete workflow.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wookat/agentgate: wookat/agentgate may be useful when its README and activity match a concrete workflow.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-wookat/agentgate: open-source проект в категориях npm, AI-agent, security, MCP, credential-theft, remote-execution, static-analysis, lockfile, CI. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+wookat/agentgate: open-source проект в категориях npm, AI-agent, security, MCP, credential-theft, remote-execution, static-analysis, lockfile, CI. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-wookat/agentgate：wookat/agentgate may be useful when its README and activity match a concrete workflow.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wookat/agentgate：wookat/agentgate may be useful when its README and activity match a concrete workflow.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ wookat/agentgate：wookat/agentgate may be useful when its README and activity m
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ wookat/agentgate：wookat/agentgate may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 78/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
