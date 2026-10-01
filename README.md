@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37778** |
-| **Categories** | **219** |
+| **Projects** | **37785** |
+| **Categories** | **221** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14675 | [Browse →](./misc/) |
+| 📦 **Misc** | 14680 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4232 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -103,6 +103,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Event-sourcing** | 1 | [Browse →](./event-sourcing/) |
+| 🏷️ **Exam** | 1 | [Browse →](./exam/) |
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
 | 🏷️ **Hacktoberfest** | 1 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Semantic-search** | 1 | [Browse →](./semantic-search/) |

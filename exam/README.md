@@ -1,4 +1,4 @@
-# 🏷️ Wordpress
+# 🏷️ Exam
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [damianhunziker/Wordpress-security-check](./damianhunziker-wordpress-security-check.md) | ⭐ — | Python | 27/100 |
+| 1 | [sanity-io/groq-js](./sanity-io-groq-js.md) | ⭐ 344 | TypeScript | 60/100 |
 
 ---
 
