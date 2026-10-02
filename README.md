@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37953** |
+| **Projects** | **37954** |
 | **Categories** | **254** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Php** | 2 | [Browse →](./php/) |
 | 🏷️ **Local-tts** | 2 | [Browse →](./local-tts/) |
 | 🏷️ **Offline** | 2 | [Browse →](./offline/) |
@@ -166,7 +167,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
 | 🏷️ **Claude** | 1 | [Browse →](./claude/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
-| 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Speech-recognition** | 1 | [Browse →](./speech-recognition/) |
 | 🏷️ **Search** | 1 | [Browse →](./search/) |
 | 🏷️ **Concurrency** | 1 | [Browse →](./concurrency/) |
