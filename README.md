@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37969** |
-| **Categories** | **254** |
+| **Projects** | **37972** |
+| **Categories** | **255** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14762 | [Browse →](./misc/) |
+| 📦 **Misc** | 14763 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2693 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -58,8 +58,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 28 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 10 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 9 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
-| 🏷️ **Local-llm** | 8 | [Browse →](./local-llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
@@ -111,6 +111,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Research** | 1 | [Browse →](./research/) |
 | 🏷️ **Open-source-ai** | 1 | [Browse →](./open-source-ai/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
 | 🏷️ **Google-drive** | 1 | [Browse →](./google-drive/) |
