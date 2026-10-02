@@ -1,4 +1,4 @@
-# 🏷️ Deception
+# 🏷️ Code-intelligence
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tucodigocotidiano/deception-mesh](./tucodigocotidiano-deception-mesh.md) | ⭐ 1 | Shell | 35/100 |
+| 1 | [iliaal/codesage](./iliaal-codesage.md) | ⭐ 20 | Rust | 69/100 |
 
 ---
 

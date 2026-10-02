@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37881** |
-| **Categories** | **241** |
+| **Projects** | **37884** |
+| **Categories** | **242** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -55,14 +55,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Ai** | 25 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 26 | [Browse →](./ai/) |
 | 🏷️ **Llm** | 10 | [Browse →](./llm/) |
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 8 | [Browse →](./local-llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
-| 🏷️ **Hackathon** | 5 | [Browse →](./hackathon/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Code-intelligence** | 1 | [Browse →](./code-intelligence/) |
 | 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
 | 🏷️ **Family** | 1 | [Browse →](./family/) |
 | 🏷️ **App-launcher** | 1 | [Browse →](./app-launcher/) |
