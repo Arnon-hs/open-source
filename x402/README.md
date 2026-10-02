@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [holistis/tokenizen](./holistis-tokenizen.md) | ⭐ — | TypeScript | 43/100 |
+| 1 | [tigerops-win/scout-packs](./tigerops-win-scout-packs.md) | ⭐ — | Python | 54/100 |
 
 ---
 
