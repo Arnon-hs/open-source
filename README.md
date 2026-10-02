@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37797** |
-| **Categories** | **222** |
+| **Projects** | **37799** |
+| **Categories** | **223** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -60,8 +60,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 7 | [Browse →](./local-llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Open-source** | 6 | [Browse →](./open-source/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
-| 🏷️ **Open-source** | 5 | [Browse →](./open-source/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Rive** | 1 | [Browse →](./rive/) |
 | 🏷️ **Irs** | 1 | [Browse →](./irs/) |
 | 🏷️ **Event-sourcing** | 1 | [Browse →](./event-sourcing/) |
 | 🏷️ **Exam** | 1 | [Browse →](./exam/) |
