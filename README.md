@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37851** |
-| **Categories** | **233** |
+| **Projects** | **37860** |
+| **Categories** | **237** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14707 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4235 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14710 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4236 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 913 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 651 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 652 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 586 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 586 | [Browse →](./mobile/) |
@@ -107,6 +107,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Mobile-ai** | 1 | [Browse →](./mobile-ai/) |
+| 🏷️ **Network-monitoring** | 1 | [Browse →](./network-monitoring/) |
+| 🏷️ **Trading-bot** | 1 | [Browse →](./trading-bot/) |
+| 🏷️ **Social-media** | 1 | [Browse →](./social-media/) |
 | 🏷️ **Gpu-rental** | 1 | [Browse →](./gpu-rental/) |
 | 🏷️ **Ai-education** | 1 | [Browse →](./ai-education/) |
 | 🏷️ **Gas** | 1 | [Browse →](./gas/) |
