@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37843** |
-| **Categories** | **231** |
+| **Projects** | **37849** |
+| **Categories** | **233** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14704 | [Browse →](./misc/) |
+| 📦 **Misc** | 14706 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4235 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -56,10 +56,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai** | 23 | [Browse →](./ai/) |
+| 🏷️ **Llm** | 10 | [Browse →](./llm/) |
+| 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
-| 🏷️ **Llm** | 9 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 8 | [Browse →](./local-llm/) |
-| 🏷️ **Open-source** | 8 | [Browse →](./open-source/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
@@ -107,6 +107,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Gpu-rental** | 1 | [Browse →](./gpu-rental/) |
+| 🏷️ **Ai-education** | 1 | [Browse →](./ai-education/) |
 | 🏷️ **Gas** | 1 | [Browse →](./gas/) |
 | 🏷️ **Memory** | 1 | [Browse →](./memory/) |
 | 🏷️ **Desktop-companion** | 1 | [Browse →](./desktop-companion/) |

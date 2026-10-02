@@ -1,4 +1,4 @@
-# 🏷️ Ai-security
+# 🏷️ Ai-education
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [farikonsec/topgent](./farikonsec-topgent.md) | ⭐ 4 | Rust | 53/100 |
+| 1 | [ajay-dhangar/ai-buddies](./ajay-dhangar-ai-buddies.md) | ⭐ 1 | TypeScript | 31/100 |
 
 ---
 

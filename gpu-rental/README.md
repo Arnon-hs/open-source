@@ -1,4 +1,4 @@
-# 🏷️ Ai-security
+# 🏷️ Gpu-rental
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [farikonsec/topgent](./farikonsec-topgent.md) | ⭐ 4 | Rust | 53/100 |
+| 1 | [CompVis/mini-max](./compvis-mini-max.md) | ⭐ — | — | 24/100 |
 
 ---
 
