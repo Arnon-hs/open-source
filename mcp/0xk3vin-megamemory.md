@@ -1,6 +1,6 @@
 # 0xK3vin/MegaMemory
 
-[![Stars](https://img.shields.io/github/stars/0xK3vin/MegaMemory?style=flat-square&color=yellow)](https://github.com/0xK3vin/MegaMemory/stargazers) [![Forks](https://img.shields.io/github/forks/0xK3vin/MegaMemory?style=flat-square&color=blue)](https://github.com/0xK3vin/MegaMemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xK3vin/MegaMemory?style=flat-square&color=yellow)](https://github.com/0xK3vin/MegaMemory/stargazers) [![Forks](https://img.shields.io/github/forks/0xK3vin/MegaMemory?style=flat-square&color=blue)](https://github.com/0xK3vin/MegaMemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Builds a persistent project knowledge graph so coding agents remember concepts, architecture, and decisions across sessions.  https://t.co/u8DnjeLTs2 https://t.co/fRibiVagRi https://github.com/0xK3vin/MegaMemory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-29 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ MCP · Knowledge/RAG · AI/ML · Backend · Database
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 54/100 |
 | categoryMatchCount | 500/100 |
 | stars | 59/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
