@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37901** |
-| **Categories** | **244** |
+| **Projects** | **37909** |
+| **Categories** | **245** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14727 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4236 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14731 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4237 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 586 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 586 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 578 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 579 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 489 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
@@ -56,7 +56,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai** | 27 | [Browse →](./ai/) |
-| 🏷️ **Ai-agents** | 10 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 10 | [Browse →](./llm/) |
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
 | 🏷️ **Local-llm** | 8 | [Browse →](./local-llm/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Medication-adherence** | 1 | [Browse →](./medication-adherence/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Cors** | 1 | [Browse →](./cors/) |
 | 🏷️ **Code-intelligence** | 1 | [Browse →](./code-intelligence/) |

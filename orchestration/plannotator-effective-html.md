@@ -1,6 +1,6 @@
 # plannotator/effective-html
 
-[![Stars](https://img.shields.io/github/stars/plannotator/effective-html?style=flat-square&color=yellow)](https://github.com/plannotator/effective-html/stargazers) [![Forks](https://img.shields.io/github/forks/plannotator/effective-html?style=flat-square&color=blue)](https://github.com/plannotator/effective-html/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plannotator/effective-html?style=flat-square&color=yellow)](https://github.com/plannotator/effective-html/stargazers) [![Forks](https://img.shields.io/github/forks/plannotator/effective-html?style=flat-square&color=blue)](https://github.com/plannotator/effective-html/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Create self-contained HTML artifacts including wireframes, interactive prototypes, and system diagrams using focused agent skills from the Effective HTML repository.  https://t.co/waxQ1fDkBN https://t.co/ub51QtdQAs https://github.com/plannotator/effective-html
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-29 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ plannotator/effective-html：plannotator/effective-html helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 81/100 |
+| production | 65/100 |
+| outlook | 74/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 200/100 |
 | stars | 75/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
