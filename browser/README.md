@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ffmpegwasm/ffmpeg.wasm](./ffmpegwasm-ffmpeg.wasm.md) | ⭐ 17.8k | C | 62/100 |
+| 1 | [guangzhoueven/fps](./guangzhoueven-fps.md) | ⭐ 4 | JavaScript | 47/100 |
 
 ---
 
