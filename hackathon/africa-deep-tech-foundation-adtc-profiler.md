@@ -1,6 +1,6 @@
 # Africa-Deep-Tech-Foundation/adtc-profiler
 
-[![Stars](https://img.shields.io/github/stars/Africa-Deep-Tech-Foundation/adtc-profiler?style=flat-square&color=yellow)](https://github.com/Africa-Deep-Tech-Foundation/adtc-profiler/stargazers) [![Forks](https://img.shields.io/github/forks/Africa-Deep-Tech-Foundation/adtc-profiler?style=flat-square&color=blue)](https://github.com/Africa-Deep-Tech-Foundation/adtc-profiler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Africa-Deep-Tech-Foundation/adtc-profiler?style=flat-square&color=yellow)](https://github.com/Africa-Deep-Tech-Foundation/adtc-profiler/stargazers) [![Forks](https://img.shields.io/github/forks/Africa-Deep-Tech-Foundation/adtc-profiler?style=flat-square&color=blue)](https://github.com/Africa-Deep-Tech-Foundation/adtc-profiler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-09-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Africa-Deep-Tech-Foundation/adtc-profiler：Africa-Deep-Tech-Foundation/adtc-pro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 34/100 |
-| production | 48/100 |
-| outlook | 44/100 |
+| production | 41/100 |
+| outlook | 37/100 |
 | adoption | 32/100 |
 | categoryMatchCount | 600/100 |
 | stars | 29/100 |
 | forks | 39/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
