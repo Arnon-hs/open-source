@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aurelio-nakamura/cmdxray](./aurelio-nakamura-cmdxray.md) | ⭐ 2 | TypeScript | 61/100 |
-| 2 | [alexccastilho/gclaude-indexer](./alexccastilho-gclaude-indexer.md) | ⭐ 1 | Python | 60/100 |
+| 1 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
+| 2 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
 
 ---
 

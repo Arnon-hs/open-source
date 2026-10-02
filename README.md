@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37813** |
-| **Categories** | **224** |
+| **Projects** | **37821** |
+| **Categories** | **226** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14695 | [Browse →](./misc/) |
+| 📦 **Misc** | 14697 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4235 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -58,9 +58,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 23 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 9 | [Browse →](./llm/) |
+| 🏷️ **Open-source** | 8 | [Browse →](./open-source/) |
 | 🏷️ **Local-llm** | 7 | [Browse →](./local-llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Open-source** | 6 | [Browse →](./open-source/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
@@ -75,6 +75,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Offline** | 2 | [Browse →](./offline/) |
+| 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Sanity** | 2 | [Browse →](./sanity/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Multi-agent** | 2 | [Browse →](./multi-agent/) |
@@ -104,6 +106,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Smart-home** | 1 | [Browse →](./smart-home/) |
 | 🏷️ **X402** | 1 | [Browse →](./x402/) |
 | 🏷️ **Rive** | 1 | [Browse →](./rive/) |
 | 🏷️ **Irs** | 1 | [Browse →](./irs/) |
@@ -146,7 +149,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sql-server** | 1 | [Browse →](./sql-server/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
 | 🏷️ **Electron** | 1 | [Browse →](./electron/) |
-| 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
 | 🏷️ **Release-engine** | 1 | [Browse →](./release-engine/) |
 | 🏷️ **Tdee** | 1 | [Browse →](./tdee/) |
 | 🏷️ **Autonomous-coding** | 1 | [Browse →](./autonomous-coding/) |
