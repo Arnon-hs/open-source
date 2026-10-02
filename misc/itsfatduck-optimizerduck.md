@@ -1,6 +1,6 @@
 # itsfatduck/optimizerDuck
 
-[![Stars](https://img.shields.io/github/stars/itsfatduck/optimizerDuck?style=flat-square&color=yellow)](https://github.com/itsfatduck/optimizerDuck/stargazers) [![Forks](https://img.shields.io/github/forks/itsfatduck/optimizerDuck?style=flat-square&color=blue)](https://github.com/itsfatduck/optimizerDuck/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itsfatduck/optimizerDuck?style=flat-square&color=yellow)](https://github.com/itsfatduck/optimizerDuck/stargazers) [![Forks](https://img.shields.io/github/forks/itsfatduck/optimizerDuck?style=flat-square&color=blue)](https://github.com/itsfatduck/optimizerDuck/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Optimizes Windows systems by allowing users to disable background apps, prioritize active processes, and tune multimedia scheduling  https://t.co/b4TWlWae03 https://t.co/AZuWwHDel8 https://github.com/itsfatduck/optimizerDuck
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 410 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-29 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ itsfatduck/optimizerDuck：itsfatduck/optimizerDuck may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 79/100 |
 | categoryMatchCount | 0/100 |
 | stars | 85/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
