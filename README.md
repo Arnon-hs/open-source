@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37919** |
-| **Categories** | **247** |
+| **Projects** | **37926** |
+| **Categories** | **249** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14736 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4237 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
+| 📦 **Misc** | 14738 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4238 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2691 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1353 | [Browse →](./automation/) |
@@ -48,7 +48,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Games--graphics** | 319 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 307 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 289 | [Browse →](./observability/) |
-| 🏷️ **Libraries--sdks** | 250 | [Browse →](./libraries--sdks/) |
+| 🏷️ **Libraries--sdks** | 251 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
 | ✨ **Design** | 160 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 135 | [Browse →](./content-creation/) |
@@ -108,6 +108,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Openweights** | 1 | [Browse →](./openweights/) |
+| 🏷️ **Kotlin** | 1 | [Browse →](./kotlin/) |
 | 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
 | 🏷️ **Medication-adherence** | 1 | [Browse →](./medication-adherence/) |
