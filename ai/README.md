@@ -2,7 +2,7 @@
 
 > 
 
-**26 projects** in this category.
+**27 projects** in this category.
 
 ## Projects
 
@@ -26,14 +26,15 @@
 | 16 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
 | 17 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
 | 18 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 19 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 20 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 21 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 22 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 23 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 24 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 25 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 26 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 19 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
+| 20 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 21 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 22 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 23 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 24 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 25 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 26 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 27 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

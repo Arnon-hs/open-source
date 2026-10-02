@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37885** |
-| **Categories** | **242** |
+| **Projects** | **37893** |
+| **Categories** | **243** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14717 | [Browse →](./misc/) |
+| 📦 **Misc** | 14721 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4236 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -55,10 +55,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Ai** | 26 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 27 | [Browse →](./ai/) |
+| 🏷️ **Ai-agents** | 10 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 10 | [Browse →](./llm/) |
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
-| 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 8 | [Browse →](./local-llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
@@ -67,6 +67,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
+| 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
@@ -98,7 +99,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Resume** | 2 | [Browse →](./resume/) |
-| 🏷️ **N8n** | 2 | [Browse →](./n8n/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Terminal** | 2 | [Browse →](./terminal/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Cors** | 1 | [Browse →](./cors/) |
 | 🏷️ **Code-intelligence** | 1 | [Browse →](./code-intelligence/) |
 | 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
 | 🏷️ **Family** | 1 | [Browse →](./family/) |
