@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37873** |
-| **Categories** | **240** |
+| **Projects** | **37878** |
+| **Categories** | **241** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14712 | [Browse →](./misc/) |
+| 📦 **Misc** | 14714 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4236 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -55,16 +55,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Ai** | 24 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 25 | [Browse →](./ai/) |
 | 🏷️ **Llm** | 10 | [Browse →](./llm/) |
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 9 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 8 | [Browse →](./local-llm/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
+| 🏷️ **Hackathon** | 5 | [Browse →](./hackathon/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
-| 🏷️ **Hackathon** | 4 | [Browse →](./hackathon/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
 | 🏷️ **Family** | 1 | [Browse →](./family/) |
 | 🏷️ **App-launcher** | 1 | [Browse →](./app-launcher/) |
 | 🏷️ **Mobile-ai** | 1 | [Browse →](./mobile-ai/) |
