@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37958** |
+| **Projects** | **37966** |
 | **Categories** | **254** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14757 | [Browse →](./misc/) |
+| 📦 **Misc** | 14760 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2693 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -34,8 +34,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 652 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
+| 📱 **Mobile** | 587 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 586 | [Browse →](./knowledgerag/) |
-| 📱 **Mobile** | 586 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 579 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 489 | [Browse →](./devopsinfra/) |
@@ -46,9 +46,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 330 | [Browse →](./data/) |
 | 💳 **Payments** | 326 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 320 | [Browse →](./games--graphics/) |
-| 🏷️ **Productivity** | 307 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 308 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 289 | [Browse →](./observability/) |
-| 🏷️ **Libraries--sdks** | 251 | [Browse →](./libraries--sdks/) |
+| 🏷️ **Libraries--sdks** | 252 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
 | ✨ **Design** | 161 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 135 | [Browse →](./content-creation/) |
@@ -68,6 +68,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
+| 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
 | 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
@@ -270,7 +271,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
 | 🏷️ **Excel** | 1 | [Browse →](./excel/) |
-| 🏷️ **Coding-agents** | 1 | [Browse →](./coding-agents/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **React-native** | 1 | [Browse →](./react-native/) |

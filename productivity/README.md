@@ -2,7 +2,7 @@
 
 > 
 
-**307 projects** in this category.
+**308 projects** in this category.
 
 ## Projects
 
@@ -293,28 +293,29 @@
 | 283 | [y-times-y/y](./y-times-y-y.md) | ⭐ — | — | 42/100 |
 | 284 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 768 | Rust | 42/100 |
 | 285 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
-| 286 | [NathanAB/statusline-anywhere](./nathanab-statusline-anywhere.md) | ⭐ — | — | 41/100 |
-| 287 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ — | — | 41/100 |
-| 288 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ — | — | 41/100 |
-| 289 | [aescle/productivity-protocols](./aescle-productivity-protocols.md) | ⭐ — | — | 41/100 |
-| 290 | [mgueregath/condui](./mgueregath-condui.md) | ⭐ — | — | 41/100 |
-| 291 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
-| 292 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
-| 293 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 294 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
-| 295 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
-| 296 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
-| 297 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
-| 298 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
-| 299 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
-| 300 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
-| 301 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ — | — | 38/100 |
-| 302 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
-| 303 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
-| 304 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
-| 305 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
-| 306 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
-| 307 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 31/100 |
+| 286 | [logrelu/swaybles](./logrelu-swaybles.md) | ⭐ — | — | 41/100 |
+| 287 | [NathanAB/statusline-anywhere](./nathanab-statusline-anywhere.md) | ⭐ — | — | 41/100 |
+| 288 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ — | — | 41/100 |
+| 289 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ — | — | 41/100 |
+| 290 | [aescle/productivity-protocols](./aescle-productivity-protocols.md) | ⭐ — | — | 41/100 |
+| 291 | [mgueregath/condui](./mgueregath-condui.md) | ⭐ — | — | 41/100 |
+| 292 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
+| 293 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
+| 294 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
+| 295 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 296 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
+| 297 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
+| 298 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
+| 299 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
+| 300 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
+| 301 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
+| 302 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ — | — | 38/100 |
+| 303 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
+| 304 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
+| 305 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
+| 306 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
+| 307 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
+| 308 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 31/100 |
 
 ---
 
