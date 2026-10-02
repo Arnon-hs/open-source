@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37786** |
-| **Categories** | **221** |
+| **Projects** | **37797** |
+| **Categories** | **222** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14681 | [Browse →](./misc/) |
+| 📦 **Misc** | 14686 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4232 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 586 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 585 | [Browse →](./mobile/) |
-| 🏷️ **Cloud--storage** | 577 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 578 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 489 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
@@ -63,8 +63,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Open-source** | 5 | [Browse →](./open-source/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
-| 🏷️ **Docker** | 3 | [Browse →](./docker/) |
+| 🏷️ **Agent-orchestration** | 3 | [Browse →](./agent-orchestration/) |
+| 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Local-first** | 3 | [Browse →](./local-first/) |
 | 🏷️ **Video-generation** | 3 | [Browse →](./video-generation/) |
@@ -73,6 +75,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Sanity** | 2 | [Browse →](./sanity/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Multi-agent** | 2 | [Browse →](./multi-agent/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
@@ -94,8 +97,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Terminal** | 2 | [Browse →](./terminal/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
-| 🏷️ **Ai-agent** | 2 | [Browse →](./ai-agent/) |
-| 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Edge-computing** | 2 | [Browse →](./edge-computing/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
@@ -103,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Irs** | 1 | [Browse →](./irs/) |
 | 🏷️ **Event-sourcing** | 1 | [Browse →](./event-sourcing/) |
 | 🏷️ **Exam** | 1 | [Browse →](./exam/) |
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
@@ -163,7 +165,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Browser-based-ai** | 1 | [Browse →](./browser-based-ai/) |
 | 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
 | 🏷️ **Perl** | 1 | [Browse →](./perl/) |
-| 🏷️ **Sanity** | 1 | [Browse →](./sanity/) |
 | 🏷️ **Codex** | 1 | [Browse →](./codex/) |
 | 🏷️ **Openapi** | 1 | [Browse →](./openapi/) |
 | 🏷️ **Agent** | 1 | [Browse →](./agent/) |

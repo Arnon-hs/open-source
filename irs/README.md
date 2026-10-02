@@ -1,4 +1,4 @@
-# 🏷️ Github
+# 🏷️ Irs
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mattqdev/stackfingerprint-action](./mattqdev-stackfingerprint-action.md) | ⭐ 2 | — | 37/100 |
+| 1 | [maindtim/pf-grants](./maindtim-pf-grants.md) | ⭐ — | Python | 58/100 |
 
 ---
 
