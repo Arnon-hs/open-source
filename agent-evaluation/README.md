@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chasedndt/agent-review-studio](./chasedndt-agent-review-studio.md) | ⭐ — | JavaScript | 43/100 |
+| 1 | [HazEOskA/verifiable-agent-systems-benchmark](./hazeoska-verifiable-agent-systems-benchmark.md) | ⭐ — | Python | 35/100 |
 
 ---
 
