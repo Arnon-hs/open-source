@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37833** |
-| **Categories** | **229** |
+| **Projects** | **37843** |
+| **Categories** | **231** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14702 | [Browse →](./misc/) |
+| 📦 **Misc** | 14704 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4235 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2690 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2282 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1350 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1352 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 913 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 867 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 651 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
@@ -63,12 +63,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Hackathon** | 4 | [Browse →](./hackathon/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
+| 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **Agent-orchestration** | 3 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
-| 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Local-first** | 3 | [Browse →](./local-first/) |
 | 🏷️ **Video-generation** | 3 | [Browse →](./video-generation/) |
 | 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
@@ -106,6 +107,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Gas** | 1 | [Browse →](./gas/) |
+| 🏷️ **Memory** | 1 | [Browse →](./memory/) |
 | 🏷️ **Desktop-companion** | 1 | [Browse →](./desktop-companion/) |
 | 🏷️ **Digital-wellness** | 1 | [Browse →](./digital-wellness/) |
 | 🏷️ **Atlassian** | 1 | [Browse →](./atlassian/) |
@@ -180,7 +183,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Version-control** | 1 | [Browse →](./version-control/) |
 | 🏷️ **Dns** | 1 | [Browse →](./dns/) |
 | 🏷️ **Desktop-automation** | 1 | [Browse →](./desktop-automation/) |
-| 🏷️ **Macos** | 1 | [Browse →](./macos/) |
 | 🏷️ **Webgpu** | 1 | [Browse →](./webgpu/) |
 | 🏷️ **Chatbot** | 1 | [Browse →](./chatbot/) |
 | 🏷️ **Sidecar** | 1 | [Browse →](./sidecar/) |
