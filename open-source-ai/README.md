@@ -1,4 +1,4 @@
-# 🏷️ Browser-automation
+# 🏷️ Open-source-ai
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shagarithvik/WebSessionForge](./shagarithvik-websessionforge.md) | ⭐ — | C# | 37/100 |
+| 1 | [tk1981215/StudyBuddy-AI](./tk1981215-studybuddy-ai.md) | ⭐ — | JavaScript | 46/100 |
 
 ---
 

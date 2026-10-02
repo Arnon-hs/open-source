@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37937** |
-| **Categories** | **250** |
+| **Projects** | **37944** |
+| **Categories** | **254** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14745 | [Browse →](./misc/) |
+| 📦 **Misc** | 14746 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4238 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2692 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2693 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1353 | [Browse →](./automation/) |
@@ -45,7 +45,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Communication** | 397 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
 | 💳 **Payments** | 326 | [Browse →](./payments/) |
-| 🏷️ **Games--graphics** | 319 | [Browse →](./games--graphics/) |
+| 🏷️ **Games--graphics** | 320 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 307 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 289 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 251 | [Browse →](./libraries--sdks/) |
@@ -109,6 +109,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Open-source-ai** | 1 | [Browse →](./open-source-ai/) |
+| 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
+| 🏷️ **Google-drive** | 1 | [Browse →](./google-drive/) |
+| 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Privacy** | 1 | [Browse →](./privacy/) |
 | 🏷️ **Openweights** | 1 | [Browse →](./openweights/) |
 | 🏷️ **Kotlin** | 1 | [Browse →](./kotlin/) |
