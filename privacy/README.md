@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aliyevaladddin/AladdinAI](./aliyevaladddin-aladdinai.md) | ⭐ 9 | Python | 68/100 |
+| 1 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 39/100 |
 
 ---
 
