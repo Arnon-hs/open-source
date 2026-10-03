@@ -600,8 +600,8 @@
 | 590 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ — | — | 38/100 |
 | 591 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ — | — | 38/100 |
 | 592 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ — | — | 38/100 |
-| 593 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
-| 594 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ — | — | 38/100 |
+| 593 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ — | — | 38/100 |
+| 594 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
 | 595 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ — | — | 38/100 |
 | 596 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ — | — | 38/100 |
 | 597 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ — | — | 38/100 |
@@ -615,8 +615,8 @@
 | 605 | [newptcai/repy](./newptcai-repy.md) | ⭐ — | — | 38/100 |
 | 606 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 607 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ — | — | 38/100 |
-| 608 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 609 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
+| 608 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
+| 609 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
 | 610 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ — | — | 38/100 |
 | 611 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ — | — | 38/100 |
 | 612 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ — | — | 38/100 |
