@@ -1,6 +1,6 @@
 # securitycipher/daily-bugbounty-writeups
 
-[![Stars](https://img.shields.io/github/stars/securitycipher/daily-bugbounty-writeups?style=flat-square&color=yellow)](https://github.com/securitycipher/daily-bugbounty-writeups/stargazers) [![Forks](https://img.shields.io/github/forks/securitycipher/daily-bugbounty-writeups?style=flat-square&color=blue)](https://github.com/securitycipher/daily-bugbounty-writeups/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/securitycipher/daily-bugbounty-writeups?style=flat-square&color=yellow)](https://github.com/securitycipher/daily-bugbounty-writeups/stargazers) [![Forks](https://img.shields.io/github/forks/securitycipher/daily-bugbounty-writeups?style=flat-square&color=blue)](https://github.com/securitycipher/daily-bugbounty-writeups/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Want to level up your bug bounty methodology?  Read daily real-world writeups for free: 👇 https://t.co/T3b6MniUTE  UI - https://t.co/E2qPLUFXnN  #BugBounty #Hacking https://github.com/securitycipher/daily-bugbounty-writeups https://securitycipher.com/bounty-writeups/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-09-30 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ securitycipher/daily-bugbounty-writeups：securitycipher/daily-bugbounty-writeup
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 60/100 |
+| outlook | 63/100 |
 | adoption | 38/100 |
 | categoryMatchCount | 200/100 |
 | stars | 44/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
