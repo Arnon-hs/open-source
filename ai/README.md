@@ -22,10 +22,10 @@
 | 12 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
 | 13 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
 | 14 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
-| 15 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 30/100 |
-| 16 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
-| 17 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
-| 18 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
+| 15 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
+| 16 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
+| 17 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
+| 18 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
 | 19 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
 | 20 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
 | 21 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
