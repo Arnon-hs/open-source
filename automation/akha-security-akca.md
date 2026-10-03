@@ -65,18 +65,18 @@ akha-security/akca：akha-security/akca helps remove repetitive manual operation
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 65/100 |
-| adoption | 38/100 |
-| categoryMatchCount | 300/100 |
-| stars | 39/100 |
 | forks | 33/100 |
-| recency | 80/100 |
+| stars | 39/100 |
 | topics | 63/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 80/100 |
+| adoption | 38/100 |
+| production | 63/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

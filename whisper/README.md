@@ -1,4 +1,4 @@
-# 🏷️ Typescript
+# 🏷️ Whisper
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ankhitlab/columna](./ankhitlab-columna.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [manish7017/Whisper-FFmpeg-Transcriber-](./manish7017-whisper-ffmpeg-transcriber-.md) | ⭐ — | Python | 49/100 |
 
 ---
 

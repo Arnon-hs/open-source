@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38071** |
-| **Categories** | **276** |
+| **Projects** | **38074** |
+| **Categories** | **278** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14792 | [Browse →](./misc/) |
+| 📦 **Misc** | 14793 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2695 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -123,6 +123,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Whisper** | 1 | [Browse →](./whisper/) |
+| 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
 | 🏷️ **Nextjs** | 1 | [Browse →](./nextjs/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
 | 🏷️ **Ios** | 1 | [Browse →](./ios/) |
