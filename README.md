@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37993** |
-| **Categories** | **258** |
+| **Projects** | **37996** |
+| **Categories** | **260** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -82,6 +82,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Raspberrypi** | 2 | [Browse →](./raspberrypi/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Php** | 2 | [Browse →](./php/) |
 | 🏷️ **Local-tts** | 2 | [Browse →](./local-tts/) |
@@ -112,6 +113,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Okf** | 1 | [Browse →](./okf/) |
 | 🏷️ **Http-caching** | 1 | [Browse →](./http-caching/) |
 | 🏷️ **Budgeting** | 1 | [Browse →](./budgeting/) |
 | 🏷️ **Research** | 1 | [Browse →](./research/) |
