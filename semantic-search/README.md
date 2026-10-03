@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Yudeeswaran/SemPred](./yudeeswaran-sempred.md) | ⭐ — | Python | 46/100 |
+| 1 | [Yudeeswaran/SemPred](./yudeeswaran-sempred.md) | ⭐ — | Python | 43/100 |
 
 ---
 

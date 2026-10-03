@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Quasie1/esp32-errata-lens](./quasie1-esp32-errata-lens.md) | ⭐ — | TypeScript | 54/100 |
+| 1 | [Quasie1/esp32-errata-lens](./quasie1-esp32-errata-lens.md) | ⭐ — | TypeScript | 51/100 |
 
 ---
 

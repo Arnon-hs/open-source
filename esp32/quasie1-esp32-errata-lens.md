@@ -1,6 +1,6 @@
 # Quasie1/esp32-errata-lens
 
-[![Stars](https://img.shields.io/github/stars/Quasie1/esp32-errata-lens?style=flat-square&color=yellow)](https://github.com/Quasie1/esp32-errata-lens/stargazers) [![Forks](https://img.shields.io/github/forks/Quasie1/esp32-errata-lens?style=flat-square&color=blue)](https://github.com/Quasie1/esp32-errata-lens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quasie1/esp32-errata-lens?style=flat-square&color=yellow)](https://github.com/Quasie1/esp32-errata-lens/stargazers) [![Forks](https://img.shields.io/github/forks/Quasie1/esp32-errata-lens?style=flat-square&color=blue)](https://github.com/Quasie1/esp32-errata-lens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ESP32 agent that checks the errata against the datasheet for your exact silicon revision. Sanity Context (Knowledge Base + GROQ MCP) + Claude. DEV x Sanity Challenge entry.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-09-30 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Quasie1/esp32-errata-lens：Quasie1/esp32-errata-lens may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

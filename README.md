@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38088** |
-| **Categories** | **278** |
+| **Projects** | **38097** |
+| **Categories** | **279** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14802 | [Browse →](./misc/) |
+| 📦 **Misc** | 14806 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -34,8 +34,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 654 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
+| 📱 **Mobile** | 589 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 588 | [Browse →](./knowledgerag/) |
-| 📱 **Mobile** | 588 | [Browse →](./mobile/) |
 | 🏷️ **Cloud--storage** | 580 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 489 | [Browse →](./devopsinfra/) |
@@ -53,11 +53,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 161 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 35 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🏷️ **Llm** | 11 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
-| 🏷️ **Llm** | 10 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 9 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
 | 🏷️ **Hackathon** | 7 | [Browse →](./hackathon/) |
@@ -87,6 +87,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Voice-conversion** | 2 | [Browse →](./voice-conversion/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Open-source-ai** | 2 | [Browse →](./open-source-ai/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
