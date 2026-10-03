@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38028** |
-| **Categories** | **266** |
+| **Projects** | **38032** |
+| **Categories** | **267** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -53,8 +53,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 161 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
+| 🏷️ **Ai** | 32 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 31 | [Browse →](./ai/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 10 | [Browse →](./llm/) |
@@ -70,6 +70,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
+| 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Vue** | 3 | [Browse →](./vue/) |
 | 🏷️ **Raspberry-pi** | 3 | [Browse →](./raspberry-pi/) |
@@ -84,6 +85,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
@@ -93,7 +95,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-tts** | 2 | [Browse →](./local-tts/) |
 | 🏷️ **Offline** | 2 | [Browse →](./offline/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
-| 🏷️ **Sanity** | 2 | [Browse →](./sanity/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Ai-qa** | 2 | [Browse →](./ai-qa/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
