@@ -1,4 +1,4 @@
-# 🏷️ Pseudocode
+# 🏷️ Ai-assisted-development
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aagastyaverma6-sys/XPP](./aagastyaverma6-sys-xpp.md) | ⭐ 1 | C++ | 47/100 |
+| 1 | [Daniele-Cangi/xcp-xbox](./daniele-cangi-xcp-xbox.md) | ⭐ 3 | C++ | 62/100 |
 
 ---
 
