@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38051** |
-| **Categories** | **272** |
+| **Projects** | **38062** |
+| **Categories** | **273** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14787 | [Browse →](./misc/) |
+| 📦 **Misc** | 14789 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2694 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2695 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1353 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 653 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 654 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
 | 📱 **Mobile** | 588 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 587 | [Browse →](./knowledgerag/) |
@@ -40,9 +40,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 489 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
-| 🏷️ **Video-editing** | 424 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 425 | [Browse →](./video-editing/) |
 | 🔐 **Security** | 404 | [Browse →](./security/) |
-| 🏷️ **Communication** | 398 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 399 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
 | 💳 **Payments** | 326 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 321 | [Browse →](./games--graphics/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 161 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 32 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 34 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
@@ -64,6 +64,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
+| 🏷️ **Local-first** | 5 | [Browse →](./local-first/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Local-ai** | 4 | [Browse →](./local-ai/) |
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
@@ -82,7 +83,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **Agent-orchestration** | 3 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
-| 🏷️ **Local-first** | 3 | [Browse →](./local-first/) |
 | 🏷️ **Video-generation** | 3 | [Browse →](./video-generation/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
@@ -122,6 +122,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Deterministic-grading** | 1 | [Browse →](./deterministic-grading/) |
 | 🏷️ **Fscss** | 1 | [Browse →](./fscss/) |
 | 🏷️ **Lead-enrichment** | 1 | [Browse →](./lead-enrichment/) |
 | 🏷️ **Ai-assisted-development** | 1 | [Browse →](./ai-assisted-development/) |

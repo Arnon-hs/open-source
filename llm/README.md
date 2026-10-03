@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [raeven-co/sether](./raeven-co-sether.md) | ⭐ 3 | TypeScript | 41/100 |
 | 2 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 36/100 |
-| 3 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 36/100 |
+| 3 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 33/100 |
 | 4 | [luin/ioredis](./luin-ioredis.md) | ⭐ — | — | 24/100 |
 | 5 | [magnitude-engine/magnitude](./magnitude-engine-magnitude.md) | ⭐ — | — | 24/100 |
 | 6 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |
