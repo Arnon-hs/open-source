@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38076** |
+| **Projects** | **38082** |
 | **Categories** | **278** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14794 | [Browse →](./misc/) |
+| 📦 **Misc** | 14796 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 489 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
-| 🏷️ **Video-editing** | 425 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 426 | [Browse →](./video-editing/) |
 | 🔐 **Security** | 404 | [Browse →](./security/) |
 | 🏷️ **Communication** | 399 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
@@ -64,14 +64,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
+| 🏷️ **Local-ai** | 5 | [Browse →](./local-ai/) |
+| 🏷️ **Claude-code** | 5 | [Browse →](./claude-code/) |
 | 🏷️ **Local-first** | 5 | [Browse →](./local-first/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
-| 🏷️ **Local-ai** | 4 | [Browse →](./local-ai/) |
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
-| 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
 | 🏷️ **Bash** | 3 | [Browse →](./bash/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
@@ -87,6 +87,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Open-source-ai** | 2 | [Browse →](./open-source-ai/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
 | 🏷️ **Edge-ai** | 2 | [Browse →](./edge-ai/) |
@@ -125,7 +126,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
 | 🏷️ **Whisper** | 1 | [Browse →](./whisper/) |
 | 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
-| 🏷️ **Nextjs** | 1 | [Browse →](./nextjs/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
 | 🏷️ **Ios** | 1 | [Browse →](./ios/) |
 | 🏷️ **Deterministic-grading** | 1 | [Browse →](./deterministic-grading/) |
