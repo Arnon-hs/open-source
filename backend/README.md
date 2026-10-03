@@ -459,8 +459,8 @@
 | 449 | [elastic/apm-server](./elastic-apm-server.md) | ⭐ 1.3k | Go | 63/100 |
 | 450 | [MicroPyramid/opensource-job-portal](./micropyramid-opensource-job-portal.md) | ⭐ 480 | HTML | 63/100 |
 | 451 | [joreilly/BikeShare](./joreilly-bikeshare.md) | ⭐ 826 | Jupyter Notebook | 63/100 |
-| 452 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
-| 453 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 452 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 453 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
 | 454 | [Karben233/bili-hardcore](./karben233-bili-hardcore.md) | ⭐ 2.2k | Rust | 63/100 |
 | 455 | [markitosgv/JWTRefreshTokenBundle](./markitosgv-jwtrefreshtokenbundle.md) | ⭐ 710 | PHP | 63/100 |
 | 456 | [ansible/vscode-ansible](./ansible-vscode-ansible.md) | ⭐ 480 | TypeScript | 63/100 |
@@ -738,8 +738,8 @@
 | 728 | [inducer/relate](./inducer-relate.md) | ⭐ 423 | Python | 56/100 |
 | 729 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
 | 730 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 197 | TypeScript | 56/100 |
-| 731 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
-| 732 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
+| 731 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
+| 732 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
 | 733 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 734 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.6k | JavaScript | 56/100 |
 | 735 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
@@ -773,8 +773,8 @@
 | 763 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 1.1k | Swift | 55/100 |
 | 764 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 311 | TypeScript | 55/100 |
 | 765 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 766 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
-| 767 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
+| 766 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
+| 767 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
 | 768 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2k | JavaScript | 55/100 |
 | 769 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
 | 770 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |

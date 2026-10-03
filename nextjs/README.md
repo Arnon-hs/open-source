@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wide-trace/open-higgsfield](./wide-trace-open-higgsfield.md) | ⭐ 2.4k | TypeScript | 55/100 |
+| 1 | [sanity-io/client](./sanity-io-client.md) | ⭐ 114 | TypeScript | 62/100 |
 
 ---
 

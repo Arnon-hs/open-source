@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38068** |
-| **Categories** | **275** |
+| **Projects** | **38071** |
+| **Categories** | **276** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14791 | [Browse →](./misc/) |
+| 📦 **Misc** | 14792 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2695 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Local-first** | 5 | [Browse →](./local-first/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Local-ai** | 4 | [Browse →](./local-ai/) |
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
@@ -73,7 +74,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
 | 🏷️ **Bash** | 3 | [Browse →](./bash/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
-| 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Vue** | 3 | [Browse →](./vue/) |
 | 🏷️ **Raspberry-pi** | 3 | [Browse →](./raspberry-pi/) |
@@ -123,6 +123,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Nextjs** | 1 | [Browse →](./nextjs/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
 | 🏷️ **Ios** | 1 | [Browse →](./ios/) |
 | 🏷️ **Deterministic-grading** | 1 | [Browse →](./deterministic-grading/) |
