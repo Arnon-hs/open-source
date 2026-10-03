@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38105** |
-| **Categories** | **281** |
+| **Projects** | **38111** |
+| **Categories** | **282** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14808 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14809 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4242 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
@@ -60,9 +60,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 9 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
+| 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🏷️ **Hackathon** | 7 | [Browse →](./hackathon/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Local-ai** | 5 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 5 | [Browse →](./claude-code/) |
@@ -127,6 +127,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Terminal-multiplexer** | 1 | [Browse →](./terminal-multiplexer/) |
 | 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |
 | 🏷️ **Seo** | 1 | [Browse →](./seo/) |
 | 🏷️ **Whisper** | 1 | [Browse →](./whisper/) |
