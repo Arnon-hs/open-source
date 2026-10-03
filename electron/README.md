@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ — | TypeScript | 51/100 |
+| 1 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ — | TypeScript | 48/100 |
 
 ---
 
