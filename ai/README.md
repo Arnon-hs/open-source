@@ -16,8 +16,8 @@
 | 6 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 59/100 |
 | 7 | [alapha888/agent-skills-en](./alapha888-agent-skills-en.md) | ⭐ — | — | 43/100 |
 | 8 | [hahahahahahahahah6/plan-shard](./hahahahahahahahah6-plan-shard.md) | ⭐ — | Python | 42/100 |
-| 9 | [asakaxgit/askif](./asakaxgit-askif.md) | ⭐ — | TypeScript | 42/100 |
-| 10 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
+| 9 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
+| 10 | [asakaxgit/askif](./asakaxgit-askif.md) | ⭐ — | TypeScript | 39/100 |
 | 11 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
 | 12 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
 | 13 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
