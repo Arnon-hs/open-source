@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38098** |
-| **Categories** | **279** |
+| **Projects** | **38105** |
+| **Categories** | **281** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14806 | [Browse →](./misc/) |
+| 📦 **Misc** | 14808 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1353 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1354 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
@@ -72,6 +72,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
+| 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **Bash** | 3 | [Browse →](./bash/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
@@ -126,6 +127,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |
+| 🏷️ **Seo** | 1 | [Browse →](./seo/) |
 | 🏷️ **Whisper** | 1 | [Browse →](./whisper/) |
 | 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
@@ -250,7 +253,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |
 | 🏷️ **Postgres** | 1 | [Browse →](./postgres/) |
 | 🏷️ **Nestjs** | 1 | [Browse →](./nestjs/) |
-| 🏷️ **Bug-bounty** | 1 | [Browse →](./bug-bounty/) |
 | 🏷️ **Ai-image-generation** | 1 | [Browse →](./ai-image-generation/) |
 | 🏷️ **Secrets-management** | 1 | [Browse →](./secrets-management/) |
 | 🏷️ **Agent-based-development** | 1 | [Browse →](./agent-based-development/) |

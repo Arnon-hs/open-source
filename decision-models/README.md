@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Abhinavexists/lev](./abhinavexists-lev.md) | ⭐ 43 | Python | 50/100 |
+| 1 | [Abhinavexists/lev](./abhinavexists-lev.md) | ⭐ 43 | Python | 47/100 |
 | 2 | [LocalLLaMA/typed-decisions](./localllama-typed-decisions.md) | ⭐ — | — | 24/100 |
 
 ---

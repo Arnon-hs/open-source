@@ -1,6 +1,6 @@
 # Abhinavexists/lev
 
-[![Stars](https://img.shields.io/github/stars/Abhinavexists/lev?style=flat-square&color=yellow)](https://github.com/Abhinavexists/lev/stargazers) [![Forks](https://img.shields.io/github/forks/Abhinavexists/lev?style=flat-square&color=blue)](https://github.com/Abhinavexists/lev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Abhinavexists/lev?style=flat-square&color=yellow)](https://github.com/Abhinavexists/lev/stargazers) [![Forks](https://img.shields.io/github/forks/Abhinavexists/lev?style=flat-square&color=blue)](https://github.com/Abhinavexists/lev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > An open System One decision model
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-09-30 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Abhinavexists/lev：Abhinavexists/lev may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 61/100 |
+| production | 57/100 |
+| outlook | 54/100 |
 | adoption | 29/100 |
 | categoryMatchCount | 600/100 |
 | stars | 35/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 
