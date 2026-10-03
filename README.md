@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38034** |
-| **Categories** | **267** |
+| **Projects** | **38043** |
+| **Categories** | **269** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14782 | [Browse →](./misc/) |
+| 📦 **Misc** | 14786 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2694 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -62,14 +62,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
 | 🏷️ **Hackathon** | 7 | [Browse →](./hackathon/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
-| 🏷️ **Git** | 5 | [Browse →](./git/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Local-ai** | 4 | [Browse →](./local-ai/) |
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Claude-code** | 4 | [Browse →](./claude-code/) |
+| 🏷️ **Php** | 3 | [Browse →](./php/) |
 | 🏷️ **Sanity** | 3 | [Browse →](./sanity/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Vue** | 3 | [Browse →](./vue/) |
@@ -85,13 +86,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ai-security** | 2 | [Browse →](./ai-security/) |
 | 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
 | 🏷️ **Raspberrypi** | 2 | [Browse →](./raspberrypi/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
-| 🏷️ **Php** | 2 | [Browse →](./php/) |
 | 🏷️ **Local-tts** | 2 | [Browse →](./local-tts/) |
 | 🏷️ **Offline** | 2 | [Browse →](./offline/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
@@ -118,6 +119,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Fscss** | 1 | [Browse →](./fscss/) |
+| 🏷️ **Lead-enrichment** | 1 | [Browse →](./lead-enrichment/) |
 | 🏷️ **Ai-assisted-development** | 1 | [Browse →](./ai-assisted-development/) |
 | 🏷️ **Vscode** | 1 | [Browse →](./vscode/) |
 | 🏷️ **Pandas** | 1 | [Browse →](./pandas/) |
@@ -177,7 +180,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Alexa** | 1 | [Browse →](./alexa/) |
 | 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
-| 🏷️ **Ai-security** | 1 | [Browse →](./ai-security/) |
 | 🏷️ **Hermes** | 1 | [Browse →](./hermes/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
 | 🏷️ **Claude** | 1 | [Browse →](./claude/) |
