@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **37977** |
+| **Projects** | **37978** |
 | **Categories** | **256** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -64,6 +64,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
@@ -79,7 +80,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 3 | [Browse →](./local-ai/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
-| 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Php** | 2 | [Browse →](./php/) |
