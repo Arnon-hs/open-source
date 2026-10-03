@@ -1,6 +1,6 @@
 # kerrickstaley/genanki
 
-[![Stars](https://img.shields.io/github/stars/kerrickstaley/genanki?style=flat-square&color=yellow)](https://github.com/kerrickstaley/genanki/stargazers) [![Forks](https://img.shields.io/github/forks/kerrickstaley/genanki?style=flat-square&color=blue)](https://github.com/kerrickstaley/genanki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kerrickstaley/genanki?style=flat-square&color=yellow)](https://github.com/kerrickstaley/genanki/stargazers) [![Forks](https://img.shields.io/github/forks/kerrickstaley/genanki?style=flat-square&color=blue)](https://github.com/kerrickstaley/genanki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Python 3 library for generating Anki decks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-30 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ kerrickstaley/genanki：kerrickstaley/genanki may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 69/100 |
 | categoryMatchCount | 900/100 |
 | stars | 73/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 
