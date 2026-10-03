@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [stopcinning/FileFlow](./stopcinning-fileflow.md) | ⭐ — | Python | 54/100 |
+| 1 | [stopcinning/FileFlow](./stopcinning-fileflow.md) | ⭐ — | Python | 51/100 |
 
 ---
 
