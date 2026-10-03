@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [maindtim/pf-grants](./maindtim-pf-grants.md) | ⭐ — | Python | 58/100 |
+| 1 | [maindtim/pf-grants](./maindtim-pf-grants.md) | ⭐ — | Python | 55/100 |
 
 ---
 
