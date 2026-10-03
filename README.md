@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38064** |
-| **Categories** | **273** |
+| **Projects** | **38068** |
+| **Categories** | **275** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14790 | [Browse →](./misc/) |
+| 📦 **Misc** | 14791 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4239 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2695 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -87,6 +87,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Open-source-ai** | 2 | [Browse →](./open-source-ai/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
 | 🏷️ **Edge-ai** | 2 | [Browse →](./edge-ai/) |
 | 🏷️ **Ai-security** | 2 | [Browse →](./ai-security/) |
@@ -122,6 +123,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
+| 🏷️ **Ios** | 1 | [Browse →](./ios/) |
 | 🏷️ **Deterministic-grading** | 1 | [Browse →](./deterministic-grading/) |
 | 🏷️ **Fscss** | 1 | [Browse →](./fscss/) |
 | 🏷️ **Lead-enrichment** | 1 | [Browse →](./lead-enrichment/) |
@@ -133,7 +136,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Http-caching** | 1 | [Browse →](./http-caching/) |
 | 🏷️ **Budgeting** | 1 | [Browse →](./budgeting/) |
 | 🏷️ **Research** | 1 | [Browse →](./research/) |
-| 🏷️ **Open-source-ai** | 1 | [Browse →](./open-source-ai/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
 | 🏷️ **Google-drive** | 1 | [Browse →](./google-drive/) |
 | 🏷️ **Java** | 1 | [Browse →](./java/) |
