@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38125** |
-| **Categories** | **284** |
+| **Projects** | **38126** |
+| **Categories** | **285** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -127,6 +127,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Judging** | 1 | [Browse →](./judging/) |
 | 🏷️ **Web-development** | 1 | [Browse →](./web-development/) |
 | 🏷️ **Whatsapp** | 1 | [Browse →](./whatsapp/) |
 | 🏷️ **Terminal-multiplexer** | 1 | [Browse →](./terminal-multiplexer/) |
