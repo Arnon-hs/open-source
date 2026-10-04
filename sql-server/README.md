@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [caiderek/LogCarver](./caiderek-logcarver.md) | ⭐ — | C# | 48/100 |
+| 1 | [caiderek/LogCarver](./caiderek-logcarver.md) | ⭐ — | C# | 45/100 |
 
 ---
 
