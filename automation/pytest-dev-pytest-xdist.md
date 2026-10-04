@@ -1,6 +1,6 @@
 # pytest-dev/pytest-xdist
 
-[![Stars](https://img.shields.io/github/stars/pytest-dev/pytest-xdist?style=flat-square&color=yellow)](https://github.com/pytest-dev/pytest-xdist/stargazers) [![Forks](https://img.shields.io/github/forks/pytest-dev/pytest-xdist?style=flat-square&color=blue)](https://github.com/pytest-dev/pytest-xdist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pytest-dev/pytest-xdist?style=flat-square&color=yellow)](https://github.com/pytest-dev/pytest-xdist/stargazers) [![Forks](https://img.shields.io/github/forks/pytest-dev/pytest-xdist?style=flat-square&color=blue)](https://github.com/pytest-dev/pytest-xdist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > pytest plugin for distributed testing and loop-on-failures testing modes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ pytest-dev/pytest-xdist：pytest-dev/pytest-xdist may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 71/100 |
+| production | 66/100 |
+| outlook | 64/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 800/100 |
 | stars | 70/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 
