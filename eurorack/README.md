@@ -1,4 +1,4 @@
-# 🏷️ Kanban
+# 🏷️ Eurorack
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Siekwie/KanbanEasy](./siekwie-kanbaneasy.md) | ⭐ — | Lua | 63/100 |
+| 1 | [Kavinhbn/Eurostack](./kavinhbn-eurostack.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

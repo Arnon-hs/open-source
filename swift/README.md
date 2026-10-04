@@ -1,4 +1,4 @@
-# 🏷️ Kanban
+# 🏷️ Swift
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Siekwie/KanbanEasy](./siekwie-kanbaneasy.md) | ⭐ — | Lua | 63/100 |
+| 1 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 41/100 |
 
 ---
 

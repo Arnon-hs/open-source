@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38134** |
-| **Categories** | **288** |
+| **Projects** | **38140** |
+| **Categories** | **291** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14813 | [Browse →](./misc/) |
+| 📦 **Misc** | 14814 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4243 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 161 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 35 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 36 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 11 | [Browse →](./llm/) |
@@ -89,6 +89,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Voice-conversion** | 2 | [Browse →](./voice-conversion/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
@@ -127,6 +128,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Eurorack** | 1 | [Browse →](./eurorack/) |
+| 🏷️ **Swift** | 1 | [Browse →](./swift/) |
+| 🏷️ **Kanban** | 1 | [Browse →](./kanban/) |
 | 🏷️ **Phonics** | 1 | [Browse →](./phonics/) |
 | 🏷️ **Reverse-engineering** | 1 | [Browse →](./reverse-engineering/) |
 | 🏷️ **Gpu** | 1 | [Browse →](./gpu/) |
@@ -211,7 +215,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Image-editing** | 1 | [Browse →](./image-editing/) |
 | 🏷️ **Developer-os** | 1 | [Browse →](./developer-os/) |
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
-| 🏷️ **Postgresql** | 1 | [Browse →](./postgresql/) |
 | 🏷️ **Pseudocode** | 1 | [Browse →](./pseudocode/) |
 | 🏷️ **Intent-classification** | 1 | [Browse →](./intent-classification/) |
 | 🏷️ **Sql-server** | 1 | [Browse →](./sql-server/) |
