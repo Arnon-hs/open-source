@@ -1,4 +1,4 @@
-# 🏷️ Reverse-engineering
+# 🏷️ Phonics
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 51/100 |
+| 1 | [ryahai/readable-for-her](./ryahai-readable-for-her.md) | ⭐ — | JavaScript | 39/100 |
 
 ---
 
