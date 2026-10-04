@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38142** |
+| **Projects** | **38147** |
 | **Categories** | **291** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14816 | [Browse →](./misc/) |
+| 📦 **Misc** | 14817 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4243 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 490 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
-| 🏷️ **Video-editing** | 427 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 428 | [Browse →](./video-editing/) |
 | 🔐 **Security** | 404 | [Browse →](./security/) |
 | 🏷️ **Communication** | 399 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
@@ -68,6 +68,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 5 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 5 | [Browse →](./claude-code/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
@@ -248,7 +249,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Version-control** | 1 | [Browse →](./version-control/) |
 | 🏷️ **Dns** | 1 | [Browse →](./dns/) |
 | 🏷️ **Desktop-automation** | 1 | [Browse →](./desktop-automation/) |
-| 🏷️ **Webgpu** | 1 | [Browse →](./webgpu/) |
 | 🏷️ **Chatbot** | 1 | [Browse →](./chatbot/) |
 | 🏷️ **Sidecar** | 1 | [Browse →](./sidecar/) |
 | 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |

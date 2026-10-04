@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hahahahahahahahah6/fitlog-mcp](./hahahahahahahahah6-fitlog-mcp.md) | ⭐ — | Python | 54/100 |
+| 1 | [hahahahahahahahah6/fitlog-mcp](./hahahahahahahahah6-fitlog-mcp.md) | ⭐ — | Python | 51/100 |
 
 ---
 

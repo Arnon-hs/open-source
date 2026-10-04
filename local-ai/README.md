@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Faisal-Fayaz/sidekick](./faisal-fayaz-sidekick.md) | ⭐ 5 | Python | 50/100 |
+| 1 | [Faisal-Fayaz/sidekick](./faisal-fayaz-sidekick.md) | ⭐ 5 | Python | 47/100 |
 | 2 | [aryamore05/Somewhere](./aryamore05-somewhere.md) | ⭐ — | Python | 45/100 |
 | 3 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 45/100 |
 | 4 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 39/100 |
