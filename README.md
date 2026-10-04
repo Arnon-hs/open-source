@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38149** |
-| **Categories** | **291** |
+| **Projects** | **38154** |
+| **Categories** | **293** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14818 | [Browse →](./misc/) |
+| 📦 **Misc** | 14820 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4243 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -63,10 +63,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
 | 🏷️ **Hackathon** | 7 | [Browse →](./hackathon/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Claude-code** | 6 | [Browse →](./claude-code/) |
 | 🏷️ **Local-first** | 6 | [Browse →](./local-first/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Local-ai** | 5 | [Browse →](./local-ai/) |
-| 🏷️ **Claude-code** | 5 | [Browse →](./claude-code/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
@@ -129,6 +129,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Chore-management** | 1 | [Browse →](./chore-management/) |
+| 🏷️ **Cloud** | 1 | [Browse →](./cloud/) |
 | 🏷️ **Eurorack** | 1 | [Browse →](./eurorack/) |
 | 🏷️ **Swift** | 1 | [Browse →](./swift/) |
 | 🏷️ **Kanban** | 1 | [Browse →](./kanban/) |

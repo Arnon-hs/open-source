@@ -1,4 +1,4 @@
-# 🏷️ Cloud
+# 🏷️ Chore-management
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [meganemura/polylinedb](./meganemura-polylinedb.md) | ⭐ — | TypeScript | 66/100 |
+| 1 | [aniruddhaadak80/griha](./aniruddhaadak80-griha.md) | ⭐ — | TypeScript | 59/100 |
 
 ---
 
