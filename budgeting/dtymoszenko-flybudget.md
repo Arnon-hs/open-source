@@ -1,6 +1,6 @@
 # dtymoszenko/FlyBudget
 
-[![Stars](https://img.shields.io/github/stars/dtymoszenko/FlyBudget?style=flat-square&color=yellow)](https://github.com/dtymoszenko/FlyBudget/stargazers) [![Forks](https://img.shields.io/github/forks/dtymoszenko/FlyBudget?style=flat-square&color=blue)](https://github.com/dtymoszenko/FlyBudget/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtymoszenko/FlyBudget?style=flat-square&color=yellow)](https://github.com/dtymoszenko/FlyBudget/stargazers) [![Forks](https://img.shields.io/github/forks/dtymoszenko/FlyBudget?style=flat-square&color=blue)](https://github.com/dtymoszenko/FlyBudget/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > An Open Source Budgeting App
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ dtymoszenko/FlyBudget：dtymoszenko/FlyBudget may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 400/100 |
 | stars | 19/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

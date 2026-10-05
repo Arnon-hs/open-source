@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dtymoszenko/FlyBudget](./dtymoszenko-flybudget.md) | ⭐ 7 | TypeScript | 50/100 |
+| 1 | [dtymoszenko/FlyBudget](./dtymoszenko-flybudget.md) | ⭐ 7 | TypeScript | 47/100 |
 
 ---
 

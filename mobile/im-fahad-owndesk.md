@@ -1,6 +1,6 @@
 # im-fahad/OwnDesk
 
-[![Stars](https://img.shields.io/github/stars/im-fahad/OwnDesk?style=flat-square&color=yellow)](https://github.com/im-fahad/OwnDesk/stargazers) [![Forks](https://img.shields.io/github/forks/im-fahad/OwnDesk?style=flat-square&color=blue)](https://github.com/im-fahad/OwnDesk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/im-fahad/OwnDesk?style=flat-square&color=yellow)](https://github.com/im-fahad/OwnDesk/stargazers) [![Forks](https://img.shields.io/github/forks/im-fahad/OwnDesk?style=flat-square&color=blue)](https://github.com/im-fahad/OwnDesk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Private remote control for your own Macs, from another Mac, Android or iPhone. No account, no cloud, no open ports; end-to-end signed WebRTC, plus an SSH terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ im-fahad/OwnDesk：im-fahad/OwnDesk may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

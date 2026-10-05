@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38460** |
-| **Categories** | **344** |
+| **Projects** | **38467** |
+| **Categories** | **345** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14933 | [Browse →](./misc/) |
+| 📦 **Misc** | 14937 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2703 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2286 | [Browse →](./orchestration/) |
@@ -69,6 +69,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Offline** | 6 | [Browse →](./offline/) |
 | 🏷️ **Ci** | 6 | [Browse →](./ci/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
@@ -78,7 +79,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **N8n** | 4 | [Browse →](./n8n/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
-| 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Ai-code-review** | 3 | [Browse →](./ai-code-review/) |
@@ -154,6 +154,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Nostalgia** | 1 | [Browse →](./nostalgia/) |
 | 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
 | 🏷️ **Pay-per-call** | 1 | [Browse →](./pay-per-call/) |
 | 🏷️ **Process-management** | 1 | [Browse →](./process-management/) |
