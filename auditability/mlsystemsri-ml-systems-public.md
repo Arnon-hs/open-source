@@ -1,6 +1,6 @@
 # MLSystemsRI/ml-systems-public
 
-[![Stars](https://img.shields.io/github/stars/MLSystemsRI/ml-systems-public?style=flat-square&color=yellow)](https://github.com/MLSystemsRI/ml-systems-public/stargazers) [![Forks](https://img.shields.io/github/forks/MLSystemsRI/ml-systems-public?style=flat-square&color=blue)](https://github.com/MLSystemsRI/ml-systems-public/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MLSystemsRI/ml-systems-public?style=flat-square&color=yellow)](https://github.com/MLSystemsRI/ml-systems-public/stargazers) [![Forks](https://img.shields.io/github/forks/MLSystemsRI/ml-systems-public?style=flat-square&color=blue)](https://github.com/MLSystemsRI/ml-systems-public/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Public reference for the ML Systems platform — Rhode Island circular construction. The deconstruction-to-construction equity loop, the Master Ledger, the Collective Ontology, Ontological Compression, and the Seven Minds. iOS + Android app UI + concept docs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ MLSystemsRI/ml-systems-public：MLSystemsRI/ml-systems-public may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 50/100 |
-| outlook | 50/100 |
+| production | 43/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

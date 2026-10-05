@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38477** |
-| **Categories** | **346** |
+| **Projects** | **38480** |
+| **Categories** | **347** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14941 | [Browse →](./misc/) |
+| 📦 **Misc** | 14942 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2703 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2286 | [Browse →](./orchestration/) |
@@ -66,11 +66,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
+| 🏷️ **Offline** | 7 | [Browse →](./offline/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
-| 🏷️ **Offline** | 6 | [Browse →](./offline/) |
 | 🏷️ **Ci** | 6 | [Browse →](./ci/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
@@ -154,6 +154,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Health-ai** | 1 | [Browse →](./health-ai/) |
 | 🏷️ **Curling** | 1 | [Browse →](./curling/) |
 | 🏷️ **Nostalgia** | 1 | [Browse →](./nostalgia/) |
 | 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
