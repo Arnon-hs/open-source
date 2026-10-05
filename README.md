@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38470** |
-| **Categories** | **345** |
+| **Projects** | **38476** |
+| **Categories** | **346** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14939 | [Browse →](./misc/) |
+| 📦 **Misc** | 14940 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2703 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2286 | [Browse →](./orchestration/) |
@@ -50,15 +50,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 290 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
-| ✨ **Design** | 164 | [Browse →](./design/) |
+| ✨ **Design** | 165 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 94 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 50 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 52 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
+| 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Llm** | 13 | [Browse →](./llm/) |
-| 🏷️ **Local-llm** | 12 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
 | 🏷️ **Open-source** | 11 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 10 | [Browse →](./privacy/) |
@@ -154,6 +154,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Curling** | 1 | [Browse →](./curling/) |
 | 🏷️ **Nostalgia** | 1 | [Browse →](./nostalgia/) |
 | 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
 | 🏷️ **Pay-per-call** | 1 | [Browse →](./pay-per-call/) |

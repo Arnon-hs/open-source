@@ -1,0 +1,78 @@
+# Zhuoli/out-the-door
+
+[![Stars](https://img.shields.io/github/stars/Zhuoli/out-the-door?style=flat-square&color=yellow)](https://github.com/Zhuoli/out-the-door/stargazers) [![Forks](https://img.shields.io/github/forks/Zhuoli/out-the-door?style=flat-square&color=blue)](https://github.com/Zhuoli/out-the-door/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+
+> Find the hour to go outside, then close the tab. Gemma reads your plan on your own device; code picks the window from an open forecast. DEV Hacktoberfest 2026 Week 1: Touch Grass.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-10-05 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI · LLM · weather · productivity · outdoor · local · open-source
+
+## 📝 Summary
+
+### English
+
+Zhuoli/out-the-door: Zhuoli/out-the-door may be useful when its README and activity match a concrete workflow.. Use it for AI, LLM, weather, productivity, outdoor, local, open-source. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+Zhuoli/out-the-door: open-source проект в категориях AI, LLM, weather, productivity, outdoor, local, open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+Zhuoli/out-the-door：Zhuoli/out-the-door may be useful when its README and activity match a concrete workflow.。适合用于AI、LLM、weather、productivity、outdoor、local、open-source。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** Zhuoli/out-the-door may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-10-05
+- primary language: JavaScript
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 36/100 |
+| integration | 46/100 |
+| production | 57/100 |
+| outlook | 50/100 |
+| adoption | 0/100 |
+| categoryMatchCount | 700/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 100/100 |
+| topics | 0/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-05 · [View on GitHub](https://github.com/Zhuoli/out-the-door) · [← Back to Ai](./README.md)</sub>
