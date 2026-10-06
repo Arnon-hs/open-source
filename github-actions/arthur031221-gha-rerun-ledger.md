@@ -1,6 +1,6 @@
 # Arthur031221/gha-rerun-ledger
 
-[![Stars](https://img.shields.io/github/stars/Arthur031221/gha-rerun-ledger?style=flat-square&color=yellow)](https://github.com/Arthur031221/gha-rerun-ledger/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/gha-rerun-ledger?style=flat-square&color=blue)](https://github.com/Arthur031221/gha-rerun-ledger/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthur031221/gha-rerun-ledger?style=flat-square&color=yellow)](https://github.com/Arthur031221/gha-rerun-ledger/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/gha-rerun-ledger?style=flat-square&color=blue)](https://github.com/Arthur031221/gha-rerun-ledger/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Inspect GitHub Actions rerun attempts and replay saved metadata offline.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Arthur031221/gha-rerun-ledger：Arthur031221/gha-rerun-ledger may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 72/100 |
+| production | 59/100 |
+| outlook | 65/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # muhammadumar89/codeninja-research
 
-[![Stars](https://img.shields.io/github/stars/muhammadumar89/codeninja-research?style=flat-square&color=yellow)](https://github.com/muhammadumar89/codeninja-research/stargazers) [![Forks](https://img.shields.io/github/forks/muhammadumar89/codeninja-research?style=flat-square&color=blue)](https://github.com/muhammadumar89/codeninja-research/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muhammadumar89/codeninja-research?style=flat-square&color=yellow)](https://github.com/muhammadumar89/codeninja-research/stargazers) [![Forks](https://img.shields.io/github/forks/muhammadumar89/codeninja-research?style=flat-square&color=blue)](https://github.com/muhammadumar89/codeninja-research/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Open reference architectures for sovereign AI in physical operations. First paper: predictive health, safety and environment (HSE) intelligence for oil and gas in Pakistan.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ muhammadumar89/codeninja-research：muhammadumar89/codeninja-research may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

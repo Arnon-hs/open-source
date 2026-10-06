@@ -65,18 +65,18 @@ MCP · Knowledge/RAG · AI/ML · Backend · Database
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 67/100 |
-| outlook | 73/100 |
-| adoption | 54/100 |
-| categoryMatchCount | 500/100 |
-| stars | 59/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 80/100 |
+| adoption | 54/100 |
+| production | 67/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

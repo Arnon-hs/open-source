@@ -23,10 +23,10 @@
 | 13 | [Golovenkov79/ely-agent-input-preflight](./golovenkov79-ely-agent-input-preflight.md) | ⭐ — | Python | 49/100 |
 | 14 | [sopkits/knowledge-freshness-audit](./sopkits-knowledge-freshness-audit.md) | ⭐ — | — | 47/100 |
 | 15 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 44/100 |
-| 16 | [muhammadumar89/codeninja-research](./muhammadumar89-codeninja-research.md) | ⭐ — | HTML | 44/100 |
-| 17 | [Zhuoli/out-the-door](./zhuoli-out-the-door.md) | ⭐ — | JavaScript | 42/100 |
-| 18 | [shraddhakolate30-maker/CalmSpace](./shraddhakolate30-maker-calmspace.md) | ⭐ — | Python | 42/100 |
-| 19 | [nexus-digital-in/sanity-ai-agent](./nexus-digital-in-sanity-ai-agent.md) | ⭐ — | JavaScript | 41/100 |
+| 16 | [Zhuoli/out-the-door](./zhuoli-out-the-door.md) | ⭐ — | JavaScript | 42/100 |
+| 17 | [shraddhakolate30-maker/CalmSpace](./shraddhakolate30-maker-calmspace.md) | ⭐ — | Python | 42/100 |
+| 18 | [nexus-digital-in/sanity-ai-agent](./nexus-digital-in-sanity-ai-agent.md) | ⭐ — | JavaScript | 41/100 |
+| 19 | [muhammadumar89/codeninja-research](./muhammadumar89-codeninja-research.md) | ⭐ — | HTML | 41/100 |
 | 20 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
 | 21 | [alapha888/agent-skills-en](./alapha888-agent-skills-en.md) | ⭐ — | — | 40/100 |
 | 22 | [abubakar-ahmed-dev/wazeh-terms](./abubakar-ahmed-dev-wazeh-terms.md) | ⭐ — | TypeScript | 39/100 |

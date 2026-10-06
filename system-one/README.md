@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [NandhaKishorM/laya](./nandhakishorm-laya.md) | ⭐ 12.3k | Python | 56/100 |
+| 1 | [NandhaKishorM/laya](./nandhakishorm-laya.md) | ⭐ 12.3k | Python | 52/100 |
 | 2 | [sbintuitions/modernbert-ja-310m](./sbintuitions-modernbert-ja-310m.md) | ⭐ — | — | 24/100 |
 
 ---

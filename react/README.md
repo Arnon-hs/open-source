@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [soycheppi/foodflow-demo](./soycheppi-foodflow-demo.md) | ⭐ 2 | TypeScript | 49/100 |
+| 1 | [NIPE-Solutions/react-data-inspector](./nipe-solutions-react-data-inspector.md) | ⭐ — | TypeScript | 48/100 |
 
 ---
 
