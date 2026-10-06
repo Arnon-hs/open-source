@@ -1,6 +1,6 @@
 # quanticstudios/pitwall
 
-[![Stars](https://img.shields.io/github/stars/quanticstudios/pitwall?style=flat-square&color=yellow)](https://github.com/quanticstudios/pitwall/stargazers) [![Forks](https://img.shields.io/github/forks/quanticstudios/pitwall?style=flat-square&color=blue)](https://github.com/quanticstudios/pitwall/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quanticstudios/pitwall?style=flat-square&color=yellow)](https://github.com/quanticstudios/pitwall/stargazers) [![Forks](https://img.shields.io/github/forks/quanticstudios/pitwall?style=flat-square&color=blue)](https://github.com/quanticstudios/pitwall/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A native terminal multiplexer for coding agents, with live status and persistent sessions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ quanticstudios/pitwall：quanticstudios/pitwall may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 55/100 |
+| production | 52/100 |
+| outlook | 48/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 900/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
