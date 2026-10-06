@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AubaidFarrukh/smart-retry](./aubaidfarrukh-smart-retry.md) | ⭐ 2 | TypeScript | 46/100 |
+| 1 | [encode/httpx](./encode-httpx.md) | ⭐ 15.5k | Python | 72/100 |
 
 ---
 
