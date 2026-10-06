@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [facebook/facebook-python-business-sdk](./facebook-facebook-python-business-sdk.md) | ⭐ 1.6k | Python | 73/100 |
+| 1 | [facebook/facebook-python-business-sdk](./facebook-facebook-python-business-sdk.md) | ⭐ 1.6k | Python | 70/100 |
 
 ---
 

@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Plachtaa/seed-vc](./plachtaa-seed-vc.md) | ⭐ 3.9k | Python | 57/100 |
-| 2 | [maccotaro/voice-canvas](./maccotaro-voice-canvas.md) | ⭐ — | Python | 55/100 |
+| 2 | [maccotaro/voice-canvas](./maccotaro-voice-canvas.md) | ⭐ — | Python | 52/100 |
 
 ---
 
