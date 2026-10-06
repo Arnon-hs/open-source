@@ -1,6 +1,6 @@
 # Pitambarmahato/hardnumbers-experiments
 
-[![Stars](https://img.shields.io/github/stars/Pitambarmahato/hardnumbers-experiments?style=flat-square&color=yellow)](https://github.com/Pitambarmahato/hardnumbers-experiments/stargazers) [![Forks](https://img.shields.io/github/forks/Pitambarmahato/hardnumbers-experiments?style=flat-square&color=blue)](https://github.com/Pitambarmahato/hardnumbers-experiments/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pitambarmahato/hardnumbers-experiments?style=flat-square&color=yellow)](https://github.com/Pitambarmahato/hardnumbers-experiments/stargazers) [![Forks](https://img.shields.io/github/forks/Pitambarmahato/hardnumbers-experiments?style=flat-square&color=blue)](https://github.com/Pitambarmahato/hardnumbers-experiments/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 31/100 |
 | 🗓️ **Last push** | 2026-09-06 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Pitambarmahato/hardnumbers-experiments：Pitambarmahato/hardnumbers-experiments 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 28/100 |
+| quality | 23/100 |
 | integration | 34/100 |
-| production | 43/100 |
-| outlook | 38/100 |
+| production | 37/100 |
+| outlook | 31/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
