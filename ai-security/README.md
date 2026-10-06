@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [farikonsec/topgent](./farikonsec-topgent.md) | ⭐ 4 | Rust | 53/100 |
-| 2 | [secfoo-com/secfoo](./secfoo-com-secfoo.md) | ⭐ 3 | Python | 45/100 |
+| 2 | [secfoo-com/secfoo](./secfoo-com-secfoo.md) | ⭐ 3 | Python | 42/100 |
 
 ---
 
