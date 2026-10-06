@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mittalhimanshu76-vicky/coldengine-os](./mittalhimanshu76-vicky-coldengine-os.md) | ⭐ — | Python | 54/100 |
+| 1 | [mittalhimanshu76-vicky/coldengine-os](./mittalhimanshu76-vicky-coldengine-os.md) | ⭐ — | Python | 51/100 |
 
 ---
 

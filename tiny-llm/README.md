@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pspdev/pspdev](./pspdev-pspdev.md) | ⭐ 305 | Shell | 44/100 |
+| 1 | [pspdev/pspdev](./pspdev-pspdev.md) | ⭐ 305 | Shell | 41/100 |
 
 ---
 

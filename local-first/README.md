@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [Harsh63870/Devlog](./harsh63870-devlog.md) | ⭐ 1 | TypeScript | 53/100 |
 | 2 | [Can-Ozan/DevToolbox](./can-ozan-devtoolbox.md) | ⭐ — | TypeScript | 48/100 |
-| 3 | [sakethbalijepalli/NannaDesk](./sakethbalijepalli-nannadesk.md) | ⭐ — | Python | 42/100 |
-| 4 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 39/100 |
-| 5 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 39/100 |
+| 3 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 39/100 |
+| 4 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 39/100 |
+| 5 | [sakethbalijepalli/NannaDesk](./sakethbalijepalli-nannadesk.md) | ⭐ — | Python | 39/100 |
 | 6 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 36/100 |
 | 7 | [ashab683/studybudy-ai](./ashab683-studybudy-ai.md) | ⭐ — | JavaScript | 36/100 |
 | 8 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 34/100 |
