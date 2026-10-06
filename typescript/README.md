@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ankhitlab/columna](./ankhitlab-columna.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [ankhitlab/columna](./ankhitlab-columna.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

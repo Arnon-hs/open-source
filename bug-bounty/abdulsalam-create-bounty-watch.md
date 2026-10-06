@@ -1,6 +1,6 @@
 # abdulsalam-create/bounty-watch
 
-[![Stars](https://img.shields.io/github/stars/abdulsalam-create/bounty-watch?style=flat-square&color=yellow)](https://github.com/abdulsalam-create/bounty-watch/stargazers) [![Forks](https://img.shields.io/github/forks/abdulsalam-create/bounty-watch?style=flat-square&color=blue)](https://github.com/abdulsalam-create/bounty-watch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abdulsalam-create/bounty-watch?style=flat-square&color=yellow)](https://github.com/abdulsalam-create/bounty-watch/stargazers) [![Forks](https://img.shields.io/github/forks/abdulsalam-create/bounty-watch?style=flat-square&color=blue)](https://github.com/abdulsalam-create/bounty-watch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Daily monitor for new bug bounty programs and scope/infra changes on HackerOne, Bugcrowd, YesWeHack and Intigriti
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ abdulsalam-create/bounty-watch：abdulsalam-create/bounty-watch may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 55/100 |
+| production | 52/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

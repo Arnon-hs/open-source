@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38593** |
-| **Categories** | **361** |
+| **Projects** | **38599** |
+| **Categories** | **362** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14992 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4251 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14995 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4253 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2707 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
@@ -159,6 +159,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-verification** | 1 | [Browse →](./ai-verification/) |
 | 🏷️ **Air-quality** | 1 | [Browse →](./air-quality/) |
 | 🏷️ **First-contribution** | 1 | [Browse →](./first-contribution/) |
 | 🏷️ **Vs-code** | 1 | [Browse →](./vs-code/) |
