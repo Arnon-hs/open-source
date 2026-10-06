@@ -17,7 +17,7 @@
 | 7 | [Jramone3/REMI_Enterprise_Suite](./jramone3-remi-enterprise-suite.md) | ⭐ — | Python | 57/100 |
 | 8 | [beausterling/drip-ai-water-usage](./beausterling-drip-ai-water-usage.md) | ⭐ 1 | Python | 56/100 |
 | 9 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 54/100 |
-| 10 | [zhx842htt/devspend](./zhx842htt-devspend.md) | ⭐ — | JavaScript | 54/100 |
+| 10 | [zhx842htt/devspend](./zhx842htt-devspend.md) | ⭐ — | JavaScript | 51/100 |
 | 11 | [helgard-orlm/sanity-ai-hardware-advisor](./helgard-orlm-sanity-ai-hardware-advisor.md) | ⭐ — | Python | 51/100 |
 | 12 | [chourasiavinit9-dev/framework-magnifier](./chourasiavinit9-dev-framework-magnifier.md) | ⭐ — | Python | 50/100 |
 | 13 | [Golovenkov79/ely-agent-input-preflight](./golovenkov79-ely-agent-input-preflight.md) | ⭐ — | Python | 49/100 |

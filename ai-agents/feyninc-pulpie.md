@@ -1,6 +1,6 @@
 # feyninc/pulpie
 
-[![Stars](https://img.shields.io/github/stars/feyninc/pulpie?style=flat-square&color=yellow)](https://github.com/feyninc/pulpie/stargazers) [![Forks](https://img.shields.io/github/forks/feyninc/pulpie?style=flat-square&color=blue)](https://github.com/feyninc/pulpie/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feyninc/pulpie?style=flat-square&color=yellow)](https://github.com/feyninc/pulpie/stargazers) [![Forks](https://img.shields.io/github/forks/feyninc/pulpie?style=flat-square&color=blue)](https://github.com/feyninc/pulpie/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Pareto-optimal models for cleaning the web — fast, encoder-based main-content extraction from HTML.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ feyninc/pulpie：feyninc/pulpie may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 75/100 |
+| production | 62/100 |
+| outlook | 68/100 |
 | adoption | 34/100 |
 | categoryMatchCount | 600/100 |
 | stars | 41/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

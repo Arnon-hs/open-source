@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38506** |
+| **Projects** | **38511** |
 | **Categories** | **351** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14954 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14956 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4249 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2704 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2286 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1365 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1366 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
@@ -60,8 +60,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 12 | [Browse →](./open-source/) |
+| 🏷️ **Privacy** | 11 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
-| 🏷️ **Privacy** | 10 | [Browse →](./privacy/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
