@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mingmprod-arch/backlink-radar](./mingmprod-arch-backlink-radar.md) | ⭐ — | PHP | 43/100 |
+| 1 | [mingmprod-arch/backlink-radar](./mingmprod-arch-backlink-radar.md) | ⭐ — | PHP | 40/100 |
 
 ---
 

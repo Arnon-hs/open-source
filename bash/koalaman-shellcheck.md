@@ -1,6 +1,6 @@
 # koalaman/shellcheck
 
-[![Stars](https://img.shields.io/github/stars/koalaman/shellcheck?style=flat-square&color=yellow)](https://github.com/koalaman/shellcheck/stargazers) [![Forks](https://img.shields.io/github/forks/koalaman/shellcheck?style=flat-square&color=blue)](https://github.com/koalaman/shellcheck/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/koalaman/shellcheck?style=flat-square&color=yellow)](https://github.com/koalaman/shellcheck/stargazers) [![Forks](https://img.shields.io/github/forks/koalaman/shellcheck?style=flat-square&color=blue)](https://github.com/koalaman/shellcheck/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > ShellCheck, a static analysis tool for shell scripts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40.1k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ koalaman/shellcheck：koalaman/shellcheck may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 84/100 |
+| production | 68/100 |
+| outlook | 77/100 |
 | adoption | 94/100 |
 | categoryMatchCount | 700/100 |
 | stars | 98/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
