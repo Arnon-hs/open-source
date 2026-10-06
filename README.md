@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38480** |
-| **Categories** | **347** |
+| **Projects** | **38484** |
+| **Categories** | **348** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -50,15 +50,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 290 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
-| ✨ **Design** | 165 | [Browse →](./design/) |
+| ✨ **Design** | 166 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 94 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 52 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🏷️ **Llm** | 14 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
-| 🏷️ **Llm** | 13 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
 | 🏷️ **Open-source** | 11 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 10 | [Browse →](./privacy/) |
@@ -101,6 +101,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Playwright** | 2 | [Browse →](./playwright/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Android** | 2 | [Browse →](./android/) |
 | 🏷️ **Speech-recognition** | 2 | [Browse →](./speech-recognition/) |
@@ -154,10 +155,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Portfolio** | 1 | [Browse →](./portfolio/) |
 | 🏷️ **Health-ai** | 1 | [Browse →](./health-ai/) |
 | 🏷️ **Curling** | 1 | [Browse →](./curling/) |
 | 🏷️ **Nostalgia** | 1 | [Browse →](./nostalgia/) |
-| 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
 | 🏷️ **Pay-per-call** | 1 | [Browse →](./pay-per-call/) |
 | 🏷️ **Process-management** | 1 | [Browse →](./process-management/) |
 | 🏷️ **Mock-interviewer** | 1 | [Browse →](./mock-interviewer/) |
