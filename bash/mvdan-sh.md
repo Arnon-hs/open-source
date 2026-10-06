@@ -1,6 +1,6 @@
 # mvdan/sh
 
-[![Stars](https://img.shields.io/github/stars/mvdan/sh?style=flat-square&color=yellow)](https://github.com/mvdan/sh/stargazers) [![Forks](https://img.shields.io/github/forks/mvdan/sh?style=flat-square&color=blue)](https://github.com/mvdan/sh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mvdan/sh?style=flat-square&color=yellow)](https://github.com/mvdan/sh/stargazers) [![Forks](https://img.shields.io/github/forks/mvdan/sh?style=flat-square&color=blue)](https://github.com/mvdan/sh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 455 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ bash · macos · devops · testing · backup · ci · automation
 
 ### English
 
-mvdan/sh: mvdan/sh may be useful when its README and activity match a concrete workflow.. Use it for bash, macos, devops, testing, backup, ci, automation. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mvdan/sh: mvdan/sh may be useful when its README and activity match a concrete workflow.. Use it for bash, macos, devops, testing, backup, ci, automation. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-mvdan/sh: open-source проект в категориях bash, macos, devops, testing, backup, ci, automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+mvdan/sh: open-source проект в категориях bash, macos, devops, testing, backup, ci, automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-mvdan/sh：mvdan/sh may be useful when its README and activity match a concrete workflow.。适合用于bash、macos、devops、testing、backup、ci、automation。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mvdan/sh：mvdan/sh may be useful when its README and activity match a concrete workflow.。适合用于bash、macos、devops、testing、backup、ci、automation。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mvdan/sh：mvdan/sh may be useful when its README and activity match a concrete 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ mvdan/sh：mvdan/sh may be useful when its README and activity match a concrete 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 79/100 |
 | categoryMatchCount | 700/100 |
 | stars | 84/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

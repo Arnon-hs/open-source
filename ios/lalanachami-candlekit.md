@@ -1,6 +1,6 @@
 # LalanaChami/CandleKit
 
-[![Stars](https://img.shields.io/github/stars/LalanaChami/CandleKit?style=flat-square&color=yellow)](https://github.com/LalanaChami/CandleKit/stargazers) [![Forks](https://img.shields.io/github/forks/LalanaChami/CandleKit?style=flat-square&color=blue)](https://github.com/LalanaChami/CandleKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LalanaChami/CandleKit?style=flat-square&color=yellow)](https://github.com/LalanaChami/CandleKit/stargazers) [![Forks](https://img.shields.io/github/forks/LalanaChami/CandleKit?style=flat-square&color=blue)](https://github.com/LalanaChami/CandleKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive candlestick charts for SwiftUI, built to feel like a native iOS control (momentum scrolling, pinch zoom around your fingers, a long-press crosshair, live updates and infinite history) with Apple platform conventions: system colors that adapt to dark mode, haptic feedback, Dynamic Type, and VoiceOver Audio Graphs. 📈
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ LalanaChami/CandleKit：LalanaChami/CandleKit may be useful when its README and 
 - primary language: Swift
 - 4 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 52/100 |
+| outlook | 50/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
