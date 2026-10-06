@@ -16,8 +16,8 @@
 | 6 | [Jramone3/REMI_Enterprise_Suite](./jramone3-remi-enterprise-suite.md) | ⭐ — | Python | 57/100 |
 | 7 | [beausterling/drip-ai-water-usage](./beausterling-drip-ai-water-usage.md) | ⭐ 1 | Python | 56/100 |
 | 8 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
-| 9 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 54/100 |
-| 10 | [Pryxor/pryxor](./pryxor-pryxor.md) | ⭐ 1 | Python | 52/100 |
+| 9 | [Pryxor/pryxor](./pryxor-pryxor.md) | ⭐ 1 | Python | 52/100 |
+| 10 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 51/100 |
 | 11 | [zhx842htt/devspend](./zhx842htt-devspend.md) | ⭐ — | JavaScript | 51/100 |
 | 12 | [helgard-orlm/sanity-ai-hardware-advisor](./helgard-orlm-sanity-ai-hardware-advisor.md) | ⭐ — | Python | 51/100 |
 | 13 | [chourasiavinit9-dev/framework-magnifier](./chourasiavinit9-dev-framework-magnifier.md) | ⭐ — | Python | 50/100 |
