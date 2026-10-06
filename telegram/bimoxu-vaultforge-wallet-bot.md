@@ -1,6 +1,6 @@
 # Bimoxu/vaultforge-wallet-bot
 
-[![Stars](https://img.shields.io/github/stars/Bimoxu/vaultforge-wallet-bot?style=flat-square&color=yellow)](https://github.com/Bimoxu/vaultforge-wallet-bot/stargazers) [![Forks](https://img.shields.io/github/forks/Bimoxu/vaultforge-wallet-bot?style=flat-square&color=blue)](https://github.com/Bimoxu/vaultforge-wallet-bot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bimoxu/vaultforge-wallet-bot?style=flat-square&color=yellow)](https://github.com/Bimoxu/vaultforge-wallet-bot/stargazers) [![Forks](https://img.shields.io/github/forks/Bimoxu/vaultforge-wallet-bot?style=flat-square&color=blue)](https://github.com/Bimoxu/vaultforge-wallet-bot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Wallet generator inside Telegram. Creates addresses, private keys, and mnemonics. Blockchain integration coming soon.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Bimoxu/vaultforge-wallet-bot：Bimoxu/vaultforge-wallet-bot may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

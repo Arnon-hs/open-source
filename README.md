@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38568** |
+| **Projects** | **38574** |
 | **Categories** | **360** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14979 | [Browse →](./misc/) |
+| 📦 **Misc** | 14981 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4250 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2706 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2288 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1367 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 594 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 588 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 580 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 506 | [Browse →](./database/) |
+| 🏷️ **Database** | 507 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 492 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
 | 🏷️ **Video-editing** | 440 | [Browse →](./video-editing/) |
@@ -50,9 +50,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 290 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
-| ✨ **Design** | 167 | [Browse →](./design/) |
+| ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 94 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 95 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 54 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
