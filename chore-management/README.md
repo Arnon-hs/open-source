@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aniruddhaadak80/griha](./aniruddhaadak80-griha.md) | ⭐ — | TypeScript | 59/100 |
+| 1 | [aniruddhaadak80/griha](./aniruddhaadak80-griha.md) | ⭐ — | TypeScript | 56/100 |
 
 ---
 
