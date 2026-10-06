@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Daniele-Cangi/xcp-xbox](./daniele-cangi-xcp-xbox.md) | ⭐ 3 | C++ | 62/100 |
+| 1 | [Daniele-Cangi/xcp-xbox](./daniele-cangi-xcp-xbox.md) | ⭐ 3 | C++ | 59/100 |
 
 ---
 

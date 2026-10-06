@@ -1,6 +1,6 @@
 # Daniele-Cangi/xcp-xbox
 
-[![Stars](https://img.shields.io/github/stars/Daniele-Cangi/xcp-xbox?style=flat-square&color=yellow)](https://github.com/Daniele-Cangi/xcp-xbox/stargazers) [![Forks](https://img.shields.io/github/forks/Daniele-Cangi/xcp-xbox?style=flat-square&color=blue)](https://github.com/Daniele-Cangi/xcp-xbox/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Daniele-Cangi/xcp-xbox?style=flat-square&color=yellow)](https://github.com/Daniele-Cangi/xcp-xbox/stargazers) [![Forks](https://img.shields.io/github/forks/Daniele-Cangi/xcp-xbox?style=flat-square&color=blue)](https://github.com/Daniele-Cangi/xcp-xbox/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Programmable, verifiable execution on Xbox Series X Developer Mode, with agent-native workflows, XVM, CPU/GPU runtimes and evidence-bound execution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Daniele-Cangi/xcp-xbox：Daniele-Cangi/xcp-xbox may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
