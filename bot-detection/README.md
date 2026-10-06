@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [0xStoic-bit/Synapse_Shield](./0xstoic-bit-synapse-shield.md) | ⭐ 1 | Python | 43/100 |
+| 1 | [0xStoic-bit/Synapse_Shield](./0xstoic-bit-synapse-shield.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 

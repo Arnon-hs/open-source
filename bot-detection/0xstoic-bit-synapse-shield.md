@@ -1,6 +1,6 @@
 # 0xStoic-bit/Synapse_Shield
 
-[![Stars](https://img.shields.io/github/stars/0xStoic-bit/Synapse_Shield?style=flat-square&color=yellow)](https://github.com/0xStoic-bit/Synapse_Shield/stargazers) [![Forks](https://img.shields.io/github/forks/0xStoic-bit/Synapse_Shield?style=flat-square&color=blue)](https://github.com/0xStoic-bit/Synapse_Shield/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xStoic-bit/Synapse_Shield?style=flat-square&color=yellow)](https://github.com/0xStoic-bit/Synapse_Shield/stargazers) [![Forks](https://img.shields.io/github/forks/0xStoic-bit/Synapse_Shield?style=flat-square&color=blue)](https://github.com/0xStoic-bit/Synapse_Shield/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Next-gen open-source behavioral biometrics & bot mitigation engine. Sub-millisecond (<0.5ms) Turnstile alternative powered by human kinematics (Jerk da/dt), Poisson anomaly detection, and zero-PII telemetry.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ bot-detection · denial-of-service · performance · Python · Rust · IP-spoofi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 52/100 |
+| production | 52/100 |
+| outlook | 45/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

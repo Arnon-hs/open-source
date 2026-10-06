@@ -1,6 +1,6 @@
 # MykytaStel/repopilot
 
-[![Stars](https://img.shields.io/github/stars/MykytaStel/repopilot?style=flat-square&color=yellow)](https://github.com/MykytaStel/repopilot/stargazers) [![Forks](https://img.shields.io/github/forks/MykytaStel/repopilot?style=flat-square&color=blue)](https://github.com/MykytaStel/repopilot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MykytaStel/repopilot?style=flat-square&color=yellow)](https://github.com/MykytaStel/repopilot/stargazers) [![Forks](https://img.shields.io/github/forks/MykytaStel/repopilot?style=flat-square&color=blue)](https://github.com/MykytaStel/repopilot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Local, deterministic review of Git changes: weakened tests and CI gates, security boundaries, blast radius. CLI, GitHub Action, MCP server, and coding-agent plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ MykytaStel/repopilot：MykytaStel/repopilot may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 23/100 |
 | categoryMatchCount | 500/100 |
 | stars | 29/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
