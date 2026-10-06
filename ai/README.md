@@ -2,7 +2,7 @@
 
 > 
 
-**56 projects** in this category.
+**57 projects** in this category.
 
 ## Projects
 
@@ -42,28 +42,29 @@
 | 32 | [hahahahahahahahah6/plan-shard](./hahahahahahahahah6-plan-shard.md) | ⭐ — | Python | 39/100 |
 | 33 | [asakaxgit/askif](./asakaxgit-askif.md) | ⭐ — | TypeScript | 39/100 |
 | 34 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
-| 35 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 36/100 |
-| 36 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 36/100 |
-| 37 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
-| 38 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 39 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
-| 40 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
-| 41 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
-| 42 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
-| 43 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
-| 44 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 45 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
-| 46 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
-| 47 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
-| 48 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
-| 49 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 50 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 51 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 52 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 53 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 54 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 55 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 56 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 35 | [danielKrydynski/ouroboros](./danielkrydynski-ouroboros.md) | ⭐ — | Python | 36/100 |
+| 36 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 36/100 |
+| 37 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 36/100 |
+| 38 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
+| 39 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 40 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
+| 41 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
+| 42 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
+| 43 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
+| 44 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
+| 45 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 46 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
+| 47 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
+| 48 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
+| 49 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
+| 50 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 51 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 52 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 53 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 54 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 55 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 56 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 57 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

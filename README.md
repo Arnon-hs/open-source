@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38609** |
+| **Projects** | **38613** |
 | **Categories** | **364** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14999 | [Browse →](./misc/) |
+| 📦 **Misc** | 15001 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4253 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2707 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 95 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 56 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 57 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
@@ -82,6 +82,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
+| 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Ai-code-review** | 3 | [Browse →](./ai-code-review/) |
@@ -119,7 +120,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **X402** | 2 | [Browse →](./x402/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
-| 🏷️ **Offline-first** | 2 | [Browse →](./offline-first/) |
 | 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
 | 🏷️ **Hacktoberfest** | 2 | [Browse →](./hacktoberfest/) |

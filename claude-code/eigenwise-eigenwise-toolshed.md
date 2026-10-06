@@ -1,6 +1,6 @@
 # Eigenwise/eigenwise-toolshed
 
-[![Stars](https://img.shields.io/github/stars/Eigenwise/eigenwise-toolshed?style=flat-square&color=yellow)](https://github.com/Eigenwise/eigenwise-toolshed/stargazers) [![Forks](https://img.shields.io/github/forks/Eigenwise/eigenwise-toolshed?style=flat-square&color=blue)](https://github.com/Eigenwise/eigenwise-toolshed/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Eigenwise/eigenwise-toolshed?style=flat-square&color=yellow)](https://github.com/Eigenwise/eigenwise-toolshed/stargazers) [![Forks](https://img.shields.io/github/forks/Eigenwise/eigenwise-toolshed?style=flat-square&color=blue)](https://github.com/Eigenwise/eigenwise-toolshed/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Six Claude Code plugins for the work that keeps coming back: repo maps, conditional rules, ticketed parallel work, extra subscription models, local usage metrics, and guided setup.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Eigenwise/eigenwise-toolshed：Eigenwise/eigenwise-toolshed may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 48/100 |
 | categoryMatchCount | 400/100 |
 | stars | 52/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
