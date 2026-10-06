@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38586** |
-| **Categories** | **360** |
+| **Projects** | **38593** |
+| **Categories** | **361** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14989 | [Browse →](./misc/) |
+| 📦 **Misc** | 14992 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4251 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2707 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 655 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 656 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 627 | [Browse →](./networking/) |
 | 📱 **Mobile** | 594 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 588 | [Browse →](./knowledgerag/) |
@@ -102,6 +102,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Dns** | 2 | [Browse →](./dns/) |
+| 🏷️ **Environment-variables** | 2 | [Browse →](./environment-variables/) |
 | 🏷️ **Quiz** | 2 | [Browse →](./quiz/) |
 | 🏷️ **Notion** | 2 | [Browse →](./notion/) |
 | 🏷️ **Playwright** | 2 | [Browse →](./playwright/) |
@@ -157,6 +159,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Air-quality** | 1 | [Browse →](./air-quality/) |
 | 🏷️ **First-contribution** | 1 | [Browse →](./first-contribution/) |
 | 🏷️ **Vs-code** | 1 | [Browse →](./vs-code/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
@@ -277,7 +280,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **File-organisation** | 1 | [Browse →](./file-organisation/) |
 | 🏷️ **Deployment** | 1 | [Browse →](./deployment/) |
 | 🏷️ **Readability** | 1 | [Browse →](./readability/) |
-| 🏷️ **Environment-variables** | 1 | [Browse →](./environment-variables/) |
 | 🏷️ **Media-player** | 1 | [Browse →](./media-player/) |
 | 🏷️ **Protein-tracking** | 1 | [Browse →](./protein-tracking/) |
 | 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |
@@ -324,7 +326,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Opencode** | 1 | [Browse →](./opencode/) |
 | 🏷️ **Data-validation** | 1 | [Browse →](./data-validation/) |
 | 🏷️ **Version-control** | 1 | [Browse →](./version-control/) |
-| 🏷️ **Dns** | 1 | [Browse →](./dns/) |
 | 🏷️ **Desktop-automation** | 1 | [Browse →](./desktop-automation/) |
 | 🏷️ **Chatbot** | 1 | [Browse →](./chatbot/) |
 | 🏷️ **Sidecar** | 1 | [Browse →](./sidecar/) |

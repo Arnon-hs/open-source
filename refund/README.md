@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jigonyoo/replay-twice](./jigonyoo-replay-twice.md) | ⭐ — | Python | 60/100 |
+| 1 | [jigonyoo/replay-twice](./jigonyoo-replay-twice.md) | ⭐ — | Python | 57/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # DevAnimecx/jiro
 
-[![Stars](https://img.shields.io/github/stars/DevAnimecx/jiro?style=flat-square&color=yellow)](https://github.com/DevAnimecx/jiro/stargazers) [![Forks](https://img.shields.io/github/forks/DevAnimecx/jiro?style=flat-square&color=blue)](https://github.com/DevAnimecx/jiro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DevAnimecx/jiro?style=flat-square&color=yellow)](https://github.com/DevAnimecx/jiro/stargazers) [![Forks](https://img.shields.io/github/forks/DevAnimecx/jiro?style=flat-square&color=blue)](https://github.com/DevAnimecx/jiro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Jiro Search: Open-source, self-hosted search API with 9 engines, 12 social scrapers, MCP server, hybrid search & AI synthesis. Free SerpAPI alternative. MIT licensed. pip install jirosearch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ DevAnimecx/jiro：DevAnimecx/jiro may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 600/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

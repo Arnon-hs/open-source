@@ -1,6 +1,6 @@
 # jigonyoo/replay-twice
 
-[![Stars](https://img.shields.io/github/stars/jigonyoo/replay-twice?style=flat-square&color=yellow)](https://github.com/jigonyoo/replay-twice/stargazers) [![Forks](https://img.shields.io/github/forks/jigonyoo/replay-twice?style=flat-square&color=blue)](https://github.com/jigonyoo/replay-twice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jigonyoo/replay-twice?style=flat-square&color=yellow)](https://github.com/jigonyoo/replay-twice/stargazers) [![Forks](https://img.shields.io/github/forks/jigonyoo/replay-twice?style=flat-square&color=blue)](https://github.com/jigonyoo/replay-twice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Pytest plugin that redelivers webhook events and agent tool calls and checks the side effect happened exactly once.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ jigonyoo/replay-twice：jigonyoo/replay-twice may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 62/100 |
+| production | 58/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
