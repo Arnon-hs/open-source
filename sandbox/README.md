@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Shanu-Kumawat/truestrike](./shanu-kumawat-truestrike.md) | ⭐ — | TypeScript | 43/100 |
-| 2 | [lucian-io/isolated-vm](./lucian-io-isolated-vm.md) | ⭐ — | — | 24/100 |
+| 1 | [plimsollmark/plimsoll](./plimsollmark-plimsoll.md) | ⭐ 1 | Go | 60/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38529** |
-| **Categories** | **355** |
+| **Projects** | **38532** |
+| **Categories** | **357** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -50,7 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 290 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
-| ✨ **Design** | 166 | [Browse →](./design/) |
+| ✨ **Design** | 167 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 94 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 52 | [Browse →](./ai/) |
@@ -156,6 +156,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
+| 🏷️ **Sandbox** | 1 | [Browse →](./sandbox/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |
 | 🏷️ **Static-site-preview** | 1 | [Browse →](./static-site-preview/) |
 | 🏷️ **React** | 1 | [Browse →](./react/) |

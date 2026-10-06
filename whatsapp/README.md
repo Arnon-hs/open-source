@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wasphere/wasphere](./wasphere-wasphere.md) | ⭐ 53 | TypeScript | 77/100 |
+| 1 | [wasphere/wasphere](./wasphere-wasphere.md) | ⭐ 53 | TypeScript | 74/100 |
 
 ---
 
