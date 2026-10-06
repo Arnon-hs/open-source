@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aniruddhaadak80/crucible](./aniruddhaadak80-crucible.md) | ⭐ — | TypeScript | 55/100 |
+| 1 | [aniruddhaadak80/crucible](./aniruddhaadak80-crucible.md) | ⭐ — | TypeScript | 52/100 |
 
 ---
 
