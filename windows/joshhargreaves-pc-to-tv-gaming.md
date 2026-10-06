@@ -1,6 +1,6 @@
 # JoshHargreaves/pc-to-tv-gaming
 
-[![Stars](https://img.shields.io/github/stars/JoshHargreaves/pc-to-tv-gaming?style=flat-square&color=yellow)](https://github.com/JoshHargreaves/pc-to-tv-gaming/stargazers) [![Forks](https://img.shields.io/github/forks/JoshHargreaves/pc-to-tv-gaming?style=flat-square&color=blue)](https://github.com/JoshHargreaves/pc-to-tv-gaming/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JoshHargreaves/pc-to-tv-gaming?style=flat-square&color=yellow)](https://github.com/JoshHargreaves/pc-to-tv-gaming/stargazers) [![Forks](https://img.shields.io/github/forks/JoshHargreaves/pc-to-tv-gaming?style=flat-square&color=blue)](https://github.com/JoshHargreaves/pc-to-tv-gaming/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Switch a Windows PC from monitor to TV and launch Xbox mode or Steam Big Picture.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ JoshHargreaves/pc-to-tv-gaming：JoshHargreaves/pc-to-tv-gaming may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 800/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

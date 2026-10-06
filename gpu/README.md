@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vast-ai/vast-cli](./vast-ai-vast-cli.md) | ⭐ 223 | Python | 76/100 |
+| 1 | [vast-ai/vast-cli](./vast-ai-vast-cli.md) | ⭐ 223 | Python | 73/100 |
 
 ---
 
