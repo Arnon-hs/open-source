@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Figsh/fscss-props](./figsh-fscss-props.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [Figsh/fscss-props](./figsh-fscss-props.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
