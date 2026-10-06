@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pytorch/audio](./pytorch-audio.md) | ⭐ 3k | Python | 63/100 |
+| 1 | [pytorch/audio](./pytorch-audio.md) | ⭐ 3k | Python | 60/100 |
 
 ---
 

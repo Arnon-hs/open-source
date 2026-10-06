@@ -11,8 +11,8 @@
 | 1 | [antoniahp/gemma-garage](./antoniahp-gemma-garage.md) | ⭐ — | Python | 49/100 |
 | 2 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 42/100 |
 | 3 | [amandewatnitrr/plain-words](./amandewatnitrr-plain-words.md) | ⭐ — | Python | 42/100 |
-| 4 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 41/100 |
-| 5 | [HyunsikParker/outingfold](./hyunsikparker-outingfold.md) | ⭐ — | JavaScript | 39/100 |
+| 4 | [HyunsikParker/outingfold](./hyunsikparker-outingfold.md) | ⭐ — | JavaScript | 39/100 |
+| 5 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 6 | [apurva0510/argus](./apurva0510-argus.md) | ⭐ 1 | Python | 37/100 |
 | 7 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 36/100 |
 | 8 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
