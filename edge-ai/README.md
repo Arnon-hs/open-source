@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Labreo/KTCL-CommuteShield](./labreo-ktcl-commuteshield.md) | ⭐ — | Python | 39/100 |
+| 1 | [Labreo/KTCL-CommuteShield](./labreo-ktcl-commuteshield.md) | ⭐ — | Python | 36/100 |
 | 2 | [PrincetonUniversity/TabPFN](./princetonuniversity-tabpfn.md) | ⭐ — | — | 24/100 |
 
 ---
