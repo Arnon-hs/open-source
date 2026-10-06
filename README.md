@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38634** |
-| **Categories** | **368** |
+| **Projects** | **38637** |
+| **Categories** | **369** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15012 | [Browse →](./misc/) |
+| 📦 **Misc** | 15014 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4253 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2707 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
@@ -160,6 +160,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Remote-control** | 1 | [Browse →](./remote-control/) |
 | 🏷️ **Speechanalysis** | 1 | [Browse →](./speechanalysis/) |
 | 🏷️ **Ai-assisted-coding** | 1 | [Browse →](./ai-assisted-coding/) |
 | 🏷️ **Openweight-model** | 1 | [Browse →](./openweight-model/) |
