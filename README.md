@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38491** |
-| **Categories** | **349** |
+| **Projects** | **38494** |
+| **Categories** | **350** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14948 | [Browse →](./misc/) |
+| 📦 **Misc** | 14949 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2703 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2704 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2286 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1365 | [Browse →](./automation/) |
@@ -155,6 +155,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Refund** | 1 | [Browse →](./refund/) |
 | 🏷️ **Osmf** | 1 | [Browse →](./osmf/) |
 | 🏷️ **Portfolio** | 1 | [Browse →](./portfolio/) |
 | 🏷️ **Health-ai** | 1 | [Browse →](./health-ai/) |

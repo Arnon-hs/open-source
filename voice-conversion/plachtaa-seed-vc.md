@@ -1,6 +1,6 @@
 # Plachtaa/seed-vc
 
-[![Stars](https://img.shields.io/github/stars/Plachtaa/seed-vc?style=flat-square&color=yellow)](https://github.com/Plachtaa/seed-vc/stargazers) [![Forks](https://img.shields.io/github/forks/Plachtaa/seed-vc?style=flat-square&color=blue)](https://github.com/Plachtaa/seed-vc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Plachtaa/seed-vc?style=flat-square&color=yellow)](https://github.com/Plachtaa/seed-vc/stargazers) [![Forks](https://img.shields.io/github/forks/Plachtaa/seed-vc?style=flat-square&color=blue)](https://github.com/Plachtaa/seed-vc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > zero-shot voice conversion & singing voice conversion, with real-time support
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 555 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Plachtaa/seed-vc：Plachtaa/seed-vc may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 74/100 |
 | categoryMatchCount | 600/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 

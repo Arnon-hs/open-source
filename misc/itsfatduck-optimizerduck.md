@@ -63,18 +63,18 @@ itsfatduck/optimizerDuck：itsfatduck/optimizerDuck may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 81/100 |
-| integration | 30/100 |
-| production | 67/100 |
-| outlook | 73/100 |
-| adoption | 79/100 |
-| categoryMatchCount | 0/100 |
-| stars | 85/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
+| adoption | 79/100 |
+| production | 67/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
