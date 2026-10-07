@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [lianmatsuo/remcycle](./lianmatsuo-remcycle.md) | ⭐ 1 | Python | 72/100 |
 | 2 | [BarganConstantin/ccdeck](./barganconstantin-ccdeck.md) | ⭐ 10 | TypeScript | 67/100 |
-| 3 | [syntaxixr/goalpost](./syntaxixr-goalpost.md) | ⭐ 1 | JavaScript | 60/100 |
+| 3 | [syntaxixr/goalpost](./syntaxixr-goalpost.md) | ⭐ 1 | JavaScript | 57/100 |
 | 4 | [Eigenwise/eigenwise-toolshed](./eigenwise-eigenwise-toolshed.md) | ⭐ 275 | TypeScript | 57/100 |
 | 5 | [sheikhfahad67/taskify](./sheikhfahad67-taskify.md) | ⭐ — | — | 39/100 |
 | 6 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Devansh270/Night-Owl](./devansh270-night-owl.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [Devansh270/Night-Owl](./devansh270-night-owl.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

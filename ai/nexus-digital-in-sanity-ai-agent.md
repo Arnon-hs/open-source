@@ -1,6 +1,6 @@
 # nexus-digital-in/sanity-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/nexus-digital-in/sanity-ai-agent?style=flat-square&color=yellow)](https://github.com/nexus-digital-in/sanity-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/nexus-digital-in/sanity-ai-agent?style=flat-square&color=blue)](https://github.com/nexus-digital-in/sanity-ai-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nexus-digital-in/sanity-ai-agent?style=flat-square&color=yellow)](https://github.com/nexus-digital-in/sanity-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/nexus-digital-in/sanity-ai-agent?style=flat-square&color=blue)](https://github.com/nexus-digital-in/sanity-ai-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI · Knowledge Agent · Sanity · Structured Content · Web Interface
 
 ### English
 
-nexus-digital-in/sanity-ai-agent: nexus-digital-in/sanity-ai-agent may be useful when its README and activity match a concrete workflow.. Use it for AI, Knowledge Agent, Sanity, Structured Content, Web Interface. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nexus-digital-in/sanity-ai-agent: nexus-digital-in/sanity-ai-agent may be useful when its README and activity match a concrete workflow.. Use it for AI, Knowledge Agent, Sanity, Structured Content, Web Interface. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-nexus-digital-in/sanity-ai-agent: open-source проект в категориях AI, Knowledge Agent, Sanity, Structured Content, Web Interface. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+nexus-digital-in/sanity-ai-agent: open-source проект в категориях AI, Knowledge Agent, Sanity, Structured Content, Web Interface. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-nexus-digital-in/sanity-ai-agent：nexus-digital-in/sanity-ai-agent may be useful when its README and activity match a concrete workflow.。适合用于AI、Knowledge Agent、Sanity、Structured Content、Web Interface。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nexus-digital-in/sanity-ai-agent：nexus-digital-in/sanity-ai-agent may be useful when its README and activity match a concrete workflow.。适合用于AI、Knowledge Agent、Sanity、Structured Content、Web Interface。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ nexus-digital-in/sanity-ai-agent：nexus-digital-in/sanity-ai-agent may be usefu
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ nexus-digital-in/sanity-ai-agent：nexus-digital-in/sanity-ai-agent may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 18/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
