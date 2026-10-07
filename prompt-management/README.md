@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sourabhshegane/prompt-shelf](./sourabhshegane-prompt-shelf.md) | ⭐ — | TypeScript | 63/100 |
+| 1 | [sourabhshegane/prompt-shelf](./sourabhshegane-prompt-shelf.md) | ⭐ — | TypeScript | 60/100 |
 
 ---
 

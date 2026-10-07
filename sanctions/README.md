@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [On13uka/sanctions-screener-api](./on13uka-sanctions-screener-api.md) | ⭐ — | Python | 45/100 |
+| 1 | [Nikoble1926/sanctions-check-before-pay](./nikoble1926-sanctions-check-before-pay.md) | ⭐ — | JavaScript | 51/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38741** |
-| **Categories** | **384** |
+| **Projects** | **38753** |
+| **Categories** | **386** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,13 +23,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15059 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4256 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15064 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4257 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2709 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1367 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 914 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 915 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 870 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 657 | [Browse →](./documents/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 197 | [Browse →](./trading/) |
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 95 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 96 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 64 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
@@ -83,6 +83,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
+| 🏷️ **Rust** | 3 | [Browse →](./rust/) |
+| 🏷️ **Edge-ai** | 3 | [Browse →](./edge-ai/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Postgresql** | 3 | [Browse →](./postgresql/) |
 | 🏷️ **Self-hosted** | 3 | [Browse →](./self-hosted/) |
@@ -111,7 +113,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 2 | [Browse →](./kubernetes/) |
 | 🏷️ **Family** | 2 | [Browse →](./family/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
-| 🏷️ **Rust** | 2 | [Browse →](./rust/) |
 | 🏷️ **Tls** | 2 | [Browse →](./tls/) |
 | 🏷️ **Nats** | 2 | [Browse →](./nats/) |
 | 🏷️ **Quantum-computing** | 2 | [Browse →](./quantum-computing/) |
@@ -141,7 +142,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Open-source-ai** | 2 | [Browse →](./open-source-ai/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
-| 🏷️ **Edge-ai** | 2 | [Browse →](./edge-ai/) |
 | 🏷️ **Ai-security** | 2 | [Browse →](./ai-security/) |
 | 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
@@ -168,6 +168,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
+| 🏷️ **Microsoft-entra-id** | 1 | [Browse →](./microsoft-entra-id/) |
 | 🏷️ **Hotel** | 1 | [Browse →](./hotel/) |
 | 🏷️ **Compiler** | 1 | [Browse →](./compiler/) |
 | 🏷️ **Oidc** | 1 | [Browse →](./oidc/) |
