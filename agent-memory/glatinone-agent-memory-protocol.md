@@ -1,6 +1,6 @@
 # glatinone/agent-memory-protocol
 
-[![Stars](https://img.shields.io/github/stars/glatinone/agent-memory-protocol?style=flat-square&color=yellow)](https://github.com/glatinone/agent-memory-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/glatinone/agent-memory-protocol?style=flat-square&color=blue)](https://github.com/glatinone/agent-memory-protocol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glatinone/agent-memory-protocol?style=flat-square&color=yellow)](https://github.com/glatinone/agent-memory-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/glatinone/agent-memory-protocol?style=flat-square&color=blue)](https://github.com/glatinone/agent-memory-protocol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Shared memory for AI agents: agents forget between sessions, AMP is the open protocol (with a reference server and client SDKs) that lets them remember and share what they know. Like MCP, but for memory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ glatinone/agent-memory-protocol：glatinone/agent-memory-protocol may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 100/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

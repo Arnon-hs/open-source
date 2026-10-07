@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sundanaeem-systems/AI-agent](./sundanaeem-systems-ai-agent.md) | ⭐ — | TypeScript | 44/100 |
+| 1 | [sundanaeem-systems/AI-agent](./sundanaeem-systems-ai-agent.md) | ⭐ — | TypeScript | 41/100 |
 
 ---
 
