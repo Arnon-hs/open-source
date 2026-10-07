@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [neromtoobad/aliquot](./neromtoobad-aliquot.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [neromtoobad/aliquot](./neromtoobad-aliquot.md) | ⭐ — | TypeScript | 43/100 |
 
 ---
 

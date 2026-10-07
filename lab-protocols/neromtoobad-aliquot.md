@@ -1,6 +1,6 @@
 # neromtoobad/aliquot
 
-[![Stars](https://img.shields.io/github/stars/neromtoobad/aliquot?style=flat-square&color=yellow)](https://github.com/neromtoobad/aliquot/stargazers) [![Forks](https://img.shields.io/github/forks/neromtoobad/aliquot?style=flat-square&color=blue)](https://github.com/neromtoobad/aliquot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neromtoobad/aliquot?style=flat-square&color=yellow)](https://github.com/neromtoobad/aliquot/stargazers) [![Forks](https://img.shields.io/github/forks/neromtoobad/aliquot?style=flat-square&color=blue)](https://github.com/neromtoobad/aliquot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Bench-side lab protocol agent on Sanity Context: Knowledge Base + GROQ ledger, sourced claims, computed PCR programs. DEV × Sanity Challenge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ neromtoobad/aliquot：neromtoobad/aliquot may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
