@@ -2,7 +2,7 @@
 
 > 
 
-**13 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -21,6 +21,7 @@
 | 11 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 36/100 |
 | 12 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 36/100 |
 | 13 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |
+| 14 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
 
 ---
 

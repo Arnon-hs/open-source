@@ -2,7 +2,7 @@
 
 > 
 
-**58 projects** in this category.
+**62 projects** in this category.
 
 ## Projects
 
@@ -26,46 +26,50 @@
 | 16 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 44/100 |
 | 17 | [sopkits/knowledge-freshness-audit](./sopkits-knowledge-freshness-audit.md) | ⭐ — | — | 44/100 |
 | 18 | [mohamed-osama-aboelkheir/ai-sast-triage-demo](./mohamed-osama-aboelkheir-ai-sast-triage-demo.md) | ⭐ — | JavaScript | 43/100 |
-| 19 | [Zhuoli/out-the-door](./zhuoli-out-the-door.md) | ⭐ — | JavaScript | 42/100 |
-| 20 | [nibvok/agent-receipts](./nibvok-agent-receipts.md) | ⭐ — | JavaScript | 41/100 |
-| 21 | [nexus-digital-in/sanity-ai-agent](./nexus-digital-in-sanity-ai-agent.md) | ⭐ — | JavaScript | 41/100 |
-| 22 | [muhammadumar89/codeninja-research](./muhammadumar89-codeninja-research.md) | ⭐ — | HTML | 41/100 |
-| 23 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
-| 24 | [alapha888/agent-skills-en](./alapha888-agent-skills-en.md) | ⭐ — | — | 40/100 |
-| 25 | [abubakar-ahmed-dev/wazeh-terms](./abubakar-ahmed-dev-wazeh-terms.md) | ⭐ — | TypeScript | 39/100 |
-| 26 | [Bientechsavvy/electric-showcase](./bientechsavvy-electric-showcase.md) | ⭐ — | HTML | 39/100 |
-| 27 | [Shashank0701-byte/vivabuddy](./shashank0701-byte-vivabuddy.md) | ⭐ — | TypeScript | 39/100 |
-| 28 | [ritikahirwar8168-dev/campus-chatbot](./ritikahirwar8168-dev-campus-chatbot.md) | ⭐ — | Python | 39/100 |
-| 29 | [shraddhakolate30-maker/CalmSpace](./shraddhakolate30-maker-calmspace.md) | ⭐ — | Python | 39/100 |
-| 30 | [bhgo0114050-cpu/my-first-ai-app](./bhgo0114050-cpu-my-first-ai-app.md) | ⭐ — | HTML | 39/100 |
-| 31 | [SwagD15/PlayNext](./swagd15-playnext.md) | ⭐ — | JavaScript | 39/100 |
-| 32 | [hahahahahahahahah6/plan-shard](./hahahahahahahahah6-plan-shard.md) | ⭐ — | Python | 39/100 |
-| 33 | [asakaxgit/askif](./asakaxgit-askif.md) | ⭐ — | TypeScript | 39/100 |
-| 34 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
-| 35 | [danielKrydynski/ouroboros](./danielkrydynski-ouroboros.md) | ⭐ — | Python | 36/100 |
-| 36 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 36/100 |
-| 37 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 36/100 |
-| 38 | [Zura1555/whatbin](./zura1555-whatbin.md) | ⭐ — | JavaScript | 36/100 |
-| 39 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
-| 40 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 41 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
-| 42 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
-| 43 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
-| 44 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
-| 45 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
-| 46 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 47 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
-| 48 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
-| 49 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
-| 50 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
-| 51 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 52 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 53 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 54 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 55 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 56 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 57 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 58 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 19 | [Naitik-xd/Week-1-Dev-Challenge](./naitik-xd-week-1-dev-challenge.md) | ⭐ — | TypeScript | 42/100 |
+| 20 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
+| 21 | [Zhuoli/out-the-door](./zhuoli-out-the-door.md) | ⭐ — | JavaScript | 42/100 |
+| 22 | [nibvok/agent-receipts](./nibvok-agent-receipts.md) | ⭐ — | JavaScript | 41/100 |
+| 23 | [nexus-digital-in/sanity-ai-agent](./nexus-digital-in-sanity-ai-agent.md) | ⭐ — | JavaScript | 41/100 |
+| 24 | [muhammadumar89/codeninja-research](./muhammadumar89-codeninja-research.md) | ⭐ — | HTML | 41/100 |
+| 25 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
+| 26 | [alapha888/agent-skills-en](./alapha888-agent-skills-en.md) | ⭐ — | — | 40/100 |
+| 27 | [abubakar-ahmed-dev/wazeh-terms](./abubakar-ahmed-dev-wazeh-terms.md) | ⭐ — | TypeScript | 39/100 |
+| 28 | [Bientechsavvy/electric-showcase](./bientechsavvy-electric-showcase.md) | ⭐ — | HTML | 39/100 |
+| 29 | [Shashank0701-byte/vivabuddy](./shashank0701-byte-vivabuddy.md) | ⭐ — | TypeScript | 39/100 |
+| 30 | [ritikahirwar8168-dev/campus-chatbot](./ritikahirwar8168-dev-campus-chatbot.md) | ⭐ — | Python | 39/100 |
+| 31 | [shraddhakolate30-maker/CalmSpace](./shraddhakolate30-maker-calmspace.md) | ⭐ — | Python | 39/100 |
+| 32 | [bhgo0114050-cpu/my-first-ai-app](./bhgo0114050-cpu-my-first-ai-app.md) | ⭐ — | HTML | 39/100 |
+| 33 | [SwagD15/PlayNext](./swagd15-playnext.md) | ⭐ — | JavaScript | 39/100 |
+| 34 | [hahahahahahahahah6/plan-shard](./hahahahahahahahah6-plan-shard.md) | ⭐ — | Python | 39/100 |
+| 35 | [asakaxgit/askif](./asakaxgit-askif.md) | ⭐ — | TypeScript | 39/100 |
+| 36 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
+| 37 | [danielKrydynski/ouroboros](./danielkrydynski-ouroboros.md) | ⭐ — | Python | 36/100 |
+| 38 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 36/100 |
+| 39 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 36/100 |
+| 40 | [Zura1555/whatbin](./zura1555-whatbin.md) | ⭐ — | JavaScript | 36/100 |
+| 41 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
+| 42 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 43 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
+| 44 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
+| 45 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
+| 46 | [google/generative-ai-js](./google-generative-ai-js.md) | ⭐ — | — | 27/100 |
+| 47 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
+| 48 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
+| 49 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 50 | [novafabric/novafabric](./novafabric-novafabric.md) | ⭐ — | — | 24/100 |
+| 51 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
+| 52 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
+| 53 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
+| 54 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
+| 55 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 56 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 57 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 58 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 59 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 60 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 61 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 62 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

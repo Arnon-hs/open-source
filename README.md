@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38706** |
+| **Projects** | **38713** |
 | **Categories** | **381** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15048 | [Browse →](./misc/) |
+| 📦 **Misc** | 15049 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4255 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2708 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1367 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 869 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 870 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 657 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 627 | [Browse →](./networking/) |
@@ -53,12 +53,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 95 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 58 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 62 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Privacy** | 14 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
-| 🏷️ **Privacy** | 13 | [Browse →](./privacy/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 12 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
