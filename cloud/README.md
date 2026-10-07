@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [meganemura/polylinedb](./meganemura-polylinedb.md) | ⭐ — | TypeScript | 66/100 |
+| 1 | [meganemura/polylinedb](./meganemura-polylinedb.md) | ⭐ — | TypeScript | 63/100 |
 
 ---
 
