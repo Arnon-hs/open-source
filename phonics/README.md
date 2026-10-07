@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ryahai/readable-for-her](./ryahai-readable-for-her.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [ryahai/readable-for-her](./ryahai-readable-for-her.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

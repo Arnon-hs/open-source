@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Asadshah7950/schemadrift](./asadshah7950-schemadrift.md) | ⭐ 2 | Python | 61/100 |
-| 2 | [ArturoCutipaFlores/db-backup-strategies](./arturocutipaflores-db-backup-strategies.md) | ⭐ — | HTML | 36/100 |
+| 2 | [ArturoCutipaFlores/db-backup-strategies](./arturocutipaflores-db-backup-strategies.md) | ⭐ — | HTML | 33/100 |
 
 ---
 
