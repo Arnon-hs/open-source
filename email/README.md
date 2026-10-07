@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [axelfreeman/tapac-mcp](./axelfreeman-tapac-mcp.md) | ⭐ 3 | JavaScript | 63/100 |
+| 1 | [nodemailer/nodemailer](./nodemailer-nodemailer.md) | ⭐ 17.7k | TypeScript | 64/100 |
 
 ---
 

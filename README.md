@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38794** |
-| **Categories** | **390** |
+| **Projects** | **38797** |
+| **Categories** | **391** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -30,7 +30,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔧 **DevTools** | 1559 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1367 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 915 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 871 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 657 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 627 | [Browse →](./networking/) |
@@ -62,8 +62,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 12 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
+| 🏷️ **Offline** | 10 | [Browse →](./offline/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
-| 🏷️ **Offline** | 9 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
@@ -169,6 +169,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Email** | 1 | [Browse →](./email/) |
 | 🏷️ **Music** | 1 | [Browse →](./music/) |
 | 🏷️ **Prospect-research** | 1 | [Browse →](./prospect-research/) |
 | 🌐 **Open Source** | 1 | [Browse →](./opensource/) |

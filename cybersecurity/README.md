@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Poojamallavarapu/Aria_Pipeline_Architecture](./poojamallavarapu-aria-pipeline-architecture.md) | ⭐ 1 | Python | 41/100 |
+| 1 | [Poojamallavarapu/Aria_Pipeline_Architecture](./poojamallavarapu-aria-pipeline-architecture.md) | ⭐ 1 | Python | 37/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Sanflow10/adversary-gate
 
-[![Stars](https://img.shields.io/github/stars/Sanflow10/adversary-gate?style=flat-square&color=yellow)](https://github.com/Sanflow10/adversary-gate/stargazers) [![Forks](https://img.shields.io/github/forks/Sanflow10/adversary-gate?style=flat-square&color=blue)](https://github.com/Sanflow10/adversary-gate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sanflow10/adversary-gate?style=flat-square&color=yellow)](https://github.com/Sanflow10/adversary-gate/stargazers) [![Forks](https://img.shields.io/github/forks/Sanflow10/adversary-gate?style=flat-square&color=blue)](https://github.com/Sanflow10/adversary-gate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Executed-evidence verification gate for AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Sanflow10/adversary-gate：Sanflow10/adversary-gate may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 59/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
