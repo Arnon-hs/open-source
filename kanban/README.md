@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Siekwie/KanbanEasy](./siekwie-kanbaneasy.md) | ⭐ — | Lua | 63/100 |
+| 1 | [Siekwie/KanbanEasy](./siekwie-kanbaneasy.md) | ⭐ — | Lua | 60/100 |
 
 ---
 
