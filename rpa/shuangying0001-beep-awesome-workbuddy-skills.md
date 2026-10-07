@@ -1,6 +1,6 @@
 # shuangying0001-beep/awesome-workbuddy-skills
 
-[![Stars](https://img.shields.io/github/stars/shuangying0001-beep/awesome-workbuddy-skills?style=flat-square&color=yellow)](https://github.com/shuangying0001-beep/awesome-workbuddy-skills/stargazers) [![Forks](https://img.shields.io/github/forks/shuangying0001-beep/awesome-workbuddy-skills?style=flat-square&color=blue)](https://github.com/shuangying0001-beep/awesome-workbuddy-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shuangying0001-beep/awesome-workbuddy-skills?style=flat-square&color=yellow)](https://github.com/shuangying0001-beep/awesome-workbuddy-skills/stargazers) [![Forks](https://img.shields.io/github/forks/shuangying0001-beep/awesome-workbuddy-skills?style=flat-square&color=blue)](https://github.com/shuangying0001-beep/awesome-workbuddy-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 精选 22 个可直接用的 AI Agent 技能：自动化/RPA、数据接入、浏览器采集、小程序全栈、Canvas 内容工厂、微信生态等
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ shuangying0001-beep/awesome-workbuddy-skills：shuangying0001-beep/awesome-workb
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 54/100 |
+| production | 42/100 |
+| outlook | 47/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 600/100 |
 | stars | 20/100 |
 | forks | 8/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
