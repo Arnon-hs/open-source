@@ -1,6 +1,6 @@
 # antoniahp/gemma-garage
 
-[![Stars](https://img.shields.io/github/stars/antoniahp/gemma-garage?style=flat-square&color=yellow)](https://github.com/antoniahp/gemma-garage/stargazers) [![Forks](https://img.shields.io/github/forks/antoniahp/gemma-garage?style=flat-square&color=blue)](https://github.com/antoniahp/gemma-garage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antoniahp/gemma-garage?style=flat-square&color=yellow)](https://github.com/antoniahp/gemma-garage/stargazers) [![Forks](https://img.shields.io/github/forks/antoniahp/gemma-garage?style=flat-square&color=blue)](https://github.com/antoniahp/gemma-garage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first appointment book for a car workshop. A local Gemma model (via Ollama) reads free-text notes, orders parts the business day before, sends yearly reminders on Telegram and makes invoices. Django + Postgres.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ antoniahp/gemma-garage：antoniahp/gemma-garage may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 54/100 |
+| production | 53/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

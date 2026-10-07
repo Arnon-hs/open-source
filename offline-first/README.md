@@ -2,7 +2,7 @@
 
 > 
 
-**3 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
@@ -10,7 +10,8 @@
 |---|---|---|---|---|
 | 1 | [Shreyansh00987/The-Almirah](./shreyansh00987-the-almirah.md) | ⭐ — | TypeScript | 56/100 |
 | 2 | [karanray06/trailhead](./karanray06-trailhead.md) | ⭐ — | TypeScript | 39/100 |
-| 3 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 24/100 |
+| 3 | [Yash990-bit/WildPulse](./yash990-bit-wildpulse.md) | ⭐ — | JavaScript | 36/100 |
+| 4 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 24/100 |
 
 ---
 
