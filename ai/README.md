@@ -45,11 +45,11 @@
 | 35 | [nexus-digital-in/sanity-ai-agent](./nexus-digital-in-sanity-ai-agent.md) | ⭐ — | JavaScript | 37/100 |
 | 36 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
 | 37 | [danielKrydynski/ouroboros](./danielkrydynski-ouroboros.md) | ⭐ — | Python | 36/100 |
-| 38 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 36/100 |
-| 39 | [bhgo0114050-cpu/my-first-ai-app](./bhgo0114050-cpu-my-first-ai-app.md) | ⭐ — | HTML | 36/100 |
-| 40 | [Zura1555/whatbin](./zura1555-whatbin.md) | ⭐ — | JavaScript | 36/100 |
-| 41 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
-| 42 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 33/100 |
+| 38 | [bhgo0114050-cpu/my-first-ai-app](./bhgo0114050-cpu-my-first-ai-app.md) | ⭐ — | HTML | 36/100 |
+| 39 | [Zura1555/whatbin](./zura1555-whatbin.md) | ⭐ — | JavaScript | 36/100 |
+| 40 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
+| 41 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 33/100 |
+| 42 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 33/100 |
 | 43 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
 | 44 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
 | 45 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |

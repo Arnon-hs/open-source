@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [NikhilRaman12/MigrationLens](./nikhilraman12-migrationlens.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [NikhilRaman12/MigrationLens](./nikhilraman12-migrationlens.md) | ⭐ — | TypeScript | 39/100 |
 | 2 | [asciimoo/searxng](./asciimoo-searxng.md) | ⭐ — | — | 24/100 |
 
 ---

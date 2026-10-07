@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38761** |
-| **Categories** | **386** |
+| **Projects** | **38769** |
+| **Categories** | **388** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15067 | [Browse →](./misc/) |
+| 📦 **Misc** | 15070 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4257 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2709 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
@@ -37,14 +37,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 601 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 589 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 582 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 511 | [Browse →](./database/) |
+| 🏷️ **Database** | 512 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 493 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 443 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
 | 🔐 **Security** | 406 | [Browse →](./security/) |
 | 🏷️ **Communication** | 402 | [Browse →](./communication/) |
+| 💳 **Payments** | 330 | [Browse →](./payments/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
-| 💳 **Payments** | 329 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 323 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 311 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 290 | [Browse →](./observability/) |
@@ -77,6 +77,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Raspberry-pi** | 4 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Android** | 4 | [Browse →](./android/) |
 | 🏷️ **Php** | 4 | [Browse →](./php/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
@@ -101,7 +102,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Bash** | 3 | [Browse →](./bash/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Vue** | 3 | [Browse →](./vue/) |
-| 🏷️ **Raspberry-pi** | 3 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **Agent-orchestration** | 3 | [Browse →](./agent-orchestration/) |
@@ -168,6 +168,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Prospect-research** | 1 | [Browse →](./prospect-research/) |
+| 🌐 **Open Source** | 1 | [Browse →](./opensource/) |
 | 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
 | 🏷️ **Microsoft-entra-id** | 1 | [Browse →](./microsoft-entra-id/) |
 | 🏷️ **Hotel** | 1 | [Browse →](./hotel/) |

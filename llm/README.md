@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dexio-wiki/dexio](./dexio-wiki-dexio.md) | ⭐ 2 | Python | 71/100 |
+| 1 | [dexio-wiki/dexio](./dexio-wiki-dexio.md) | ⭐ 2 | Python | 68/100 |
 | 2 | [Qweezyy/AltairAgent](./qweezyy-altairagent.md) | ⭐ — | Python | 66/100 |
 | 3 | [grantjenks/python-diskcache](./grantjenks-python-diskcache.md) | ⭐ 2.9k | Python | 61/100 |
 | 4 | [toprakahmetaydogmus/TZeroAlgorithm](./toprakahmetaydogmus-tzeroalgorithm.md) | ⭐ 4 | Python | 52/100 |

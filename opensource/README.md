@@ -2,14 +2,13 @@
 
 > Notable open-source infrastructure
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nicolaususnicola-lgtm/myzubster-mvp](./nicolaususnicola-lgtm-myzubster-mvp.md) | ⭐ — | Python | 42/100 |
-| 2 | [MyZubster-Ecosystem/MyZubster-Visual](./myzubster-ecosystem-myzubster-visual.md) | ⭐ — | — | 36/100 |
+| 1 | [leluong141996-dev/Agent-Brain-Hub](./leluong141996-dev-agent-brain-hub.md) | ⭐ 2 | JavaScript | 71/100 |
 
 ---
 
