@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38645** |
-| **Categories** | **372** |
+| **Projects** | **38647** |
+| **Categories** | **373** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15018 | [Browse →](./misc/) |
+| 📦 **Misc** | 15019 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4253 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2707 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
@@ -161,6 +161,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Aurora** | 1 | [Browse →](./aurora/) |
 | 🏷️ **Casaos** | 1 | [Browse →](./casaos/) |
 | 🏷️ **Harmonyos** | 1 | [Browse →](./harmonyos/) |
 | 🏷️ **Weather** | 1 | [Browse →](./weather/) |
