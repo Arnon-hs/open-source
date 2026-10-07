@@ -65,18 +65,18 @@ SmythOS/smythos-studio：SmythOS/smythos-studio helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 68/100 |
-| integration | 78/100 |
-| production | 69/100 |
-| outlook | 78/100 |
-| adoption | 50/100 |
-| categoryMatchCount | 400/100 |
-| stars | 53/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
+| adoption | 50/100 |
+| production | 69/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

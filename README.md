@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38721** |
-| **Categories** | **381** |
+| **Projects** | **38731** |
+| **Categories** | **382** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15051 | [Browse →](./misc/) |
+| 📦 **Misc** | 15055 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4255 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2708 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2709 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1367 | [Browse →](./automation/) |
@@ -35,10 +35,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 657 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 627 | [Browse →](./networking/) |
 | 📱 **Mobile** | 599 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 588 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 589 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 581 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 511 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 492 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 493 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 443 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
 | 🔐 **Security** | 406 | [Browse →](./security/) |
@@ -106,6 +106,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Java** | 2 | [Browse →](./java/) |
+| 🏷️ **Kubernetes** | 2 | [Browse →](./kubernetes/) |
 | 🏷️ **Family** | 2 | [Browse →](./family/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Rust** | 2 | [Browse →](./rust/) |
@@ -269,7 +271,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Research** | 1 | [Browse →](./research/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
 | 🏷️ **Google-drive** | 1 | [Browse →](./google-drive/) |
-| 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Openweights** | 1 | [Browse →](./openweights/) |
 | 🏷️ **Kotlin** | 1 | [Browse →](./kotlin/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
