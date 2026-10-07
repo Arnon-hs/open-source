@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [safayet404/leakfix](./safayet404-leakfix.md) | ⭐ — | TypeScript | 62/100 |
+| 1 | [safayet404/leakfix](./safayet404-leakfix.md) | ⭐ — | TypeScript | 59/100 |
 
 ---
 

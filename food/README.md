@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vineetjk/AllergySafe](./vineetjk-allergysafe.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [vineetjk/AllergySafe](./vineetjk-allergysafe.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 
