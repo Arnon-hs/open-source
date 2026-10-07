@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ArqamWaheed/actually](./arqamwaheed-actually.md) | ⭐ — | Python | 42/100 |
+| 1 | [ArqamWaheed/actually](./arqamwaheed-actually.md) | ⭐ — | Python | 39/100 |
 
 ---
 
