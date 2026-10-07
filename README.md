@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38753** |
+| **Projects** | **38761** |
 | **Categories** | **386** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,20 +23,20 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15064 | [Browse →](./misc/) |
+| 📦 **Misc** | 15067 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4257 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2709 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1367 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 915 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 870 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 871 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 657 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 627 | [Browse →](./networking/) |
-| 📱 **Mobile** | 600 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 601 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 589 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 581 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 582 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 511 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 493 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 443 | [Browse →](./video-editing/) |
@@ -44,7 +44,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔐 **Security** | 406 | [Browse →](./security/) |
 | 🏷️ **Communication** | 402 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
-| 💳 **Payments** | 328 | [Browse →](./payments/) |
+| 💳 **Payments** | 329 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 323 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 311 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 290 | [Browse →](./observability/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 197 | [Browse →](./trading/) |
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 96 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 97 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 64 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |

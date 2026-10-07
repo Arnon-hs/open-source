@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**870 projects** in this category.
+**871 projects** in this category.
 
 ## Projects
 
@@ -859,25 +859,26 @@
 | 849 | [thuangf45/LuciaCore.Assets](./thuangf45-luciacore.assets.md) | ⭐ — | — | 42/100 |
 | 850 | [dhutaryan/ngx-signal-query](./dhutaryan-ngx-signal-query.md) | ⭐ — | — | 42/100 |
 | 851 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ — | — | 42/100 |
-| 852 | [shader-effects-inc/shaders](./shader-effects-inc-shaders.md) | ⭐ — | — | 41/100 |
-| 853 | [hyper-serve/video-uploader](./hyper-serve-video-uploader.md) | ⭐ — | — | 41/100 |
-| 854 | [TiltedLunar123/clearline](./tiltedlunar123-clearline.md) | ⭐ 2 | JavaScript | 41/100 |
-| 855 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ — | — | 41/100 |
-| 856 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 64 | Java | 40/100 |
-| 857 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ — | — | 39/100 |
-| 858 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ — | — | 39/100 |
-| 859 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ — | — | 39/100 |
+| 852 | [BernardoGiordano/srl](./bernardogiordano-srl.md) | ⭐ — | — | 41/100 |
+| 853 | [shader-effects-inc/shaders](./shader-effects-inc-shaders.md) | ⭐ — | — | 41/100 |
+| 854 | [hyper-serve/video-uploader](./hyper-serve-video-uploader.md) | ⭐ — | — | 41/100 |
+| 855 | [TiltedLunar123/clearline](./tiltedlunar123-clearline.md) | ⭐ 2 | JavaScript | 41/100 |
+| 856 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ — | — | 41/100 |
+| 857 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 64 | Java | 40/100 |
+| 858 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ — | — | 39/100 |
+| 859 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ — | — | 39/100 |
 | 860 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ — | — | 39/100 |
-| 861 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
-| 862 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ — | — | 39/100 |
-| 863 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
-| 864 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 39/100 |
-| 865 | [nobuo-miura/github-ui-translator](./nobuo-miura-github-ui-translator.md) | ⭐ — | — | 39/100 |
-| 866 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
-| 867 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 1 | HTML | 37/100 |
-| 868 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ — | — | 37/100 |
-| 869 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
-| 870 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 30/100 |
+| 861 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ — | — | 39/100 |
+| 862 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
+| 863 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ — | — | 39/100 |
+| 864 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
+| 865 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 39/100 |
+| 866 | [nobuo-miura/github-ui-translator](./nobuo-miura-github-ui-translator.md) | ⭐ — | — | 39/100 |
+| 867 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
+| 868 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 1 | HTML | 37/100 |
+| 869 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ — | — | 37/100 |
+| 870 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
+| 871 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 30/100 |
 
 ---
 

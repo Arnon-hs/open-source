@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**328 projects** in this category.
+**329 projects** in this category.
 
 ## Projects
 
@@ -314,28 +314,29 @@
 | 304 | [rikocr8orh8/x402-bazaar-survey](./rikocr8orh8-x402-bazaar-survey.md) | ⭐ — | — | 42/100 |
 | 305 | [DanielIoni-creator/MyZubsterAPP](./danielioni-creator-myzubsterapp.md) | ⭐ — | — | 42/100 |
 | 306 | [wkoverfield/quilt](./wkoverfield-quilt.md) | ⭐ — | — | 42/100 |
-| 307 | [loriscomba97/stripe-catalogue-migration](./loriscomba97-stripe-catalogue-migration.md) | ⭐ — | — | 41/100 |
-| 308 | [ccycv/openusage](./ccycv-openusage.md) | ⭐ — | — | 41/100 |
-| 309 | [stoix-dev/sefaz-webservices-postman](./stoix-dev-sefaz-webservices-postman.md) | ⭐ — | — | 41/100 |
-| 310 | [allixsenos/asu](./allixsenos-asu.md) | ⭐ — | — | 41/100 |
-| 311 | [devmster/x402-trinity-gaming](./devmster-x402-trinity-gaming.md) | ⭐ — | — | 41/100 |
-| 312 | [joey-io/gauge](./joey-io-gauge.md) | ⭐ — | — | 41/100 |
-| 313 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 41/100 |
-| 314 | [Msalways/Translatron](./msalways-translatron.md) | ⭐ — | — | 40/100 |
-| 315 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 40/100 |
-| 316 | [ujjavala/docgrity-vscode](./ujjavala-docgrity-vscode.md) | ⭐ — | TypeScript | 39/100 |
-| 317 | [felixpg13-glitch/spendshield](./felixpg13-glitch-spendshield.md) | ⭐ — | — | 38/100 |
-| 318 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ — | — | 38/100 |
-| 319 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ — | — | 38/100 |
-| 320 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ — | — | 38/100 |
-| 321 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |
-| 322 | [rtsdque/sentinel](./rtsdque-sentinel.md) | ⭐ — | — | 38/100 |
-| 323 | [hkc5/cursor-bridge](./hkc5-cursor-bridge.md) | ⭐ — | — | 38/100 |
-| 324 | [joverman/xrplink](./joverman-xrplink.md) | ⭐ — | — | 38/100 |
-| 325 | [paycan-app/paycan](./paycan-app-paycan.md) | ⭐ — | — | 38/100 |
-| 326 | [inferock/inferock-bench](./inferock-inferock-bench.md) | ⭐ — | — | 38/100 |
-| 327 | [edyiaeonian/eu-einvoice-bridge](./edyiaeonian-eu-einvoice-bridge.md) | ⭐ — | XSLT | 36/100 |
-| 328 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ — | — | 36/100 |
+| 307 | [Liatir/liatir-app](./liatir-liatir-app.md) | ⭐ — | — | 41/100 |
+| 308 | [loriscomba97/stripe-catalogue-migration](./loriscomba97-stripe-catalogue-migration.md) | ⭐ — | — | 41/100 |
+| 309 | [ccycv/openusage](./ccycv-openusage.md) | ⭐ — | — | 41/100 |
+| 310 | [stoix-dev/sefaz-webservices-postman](./stoix-dev-sefaz-webservices-postman.md) | ⭐ — | — | 41/100 |
+| 311 | [allixsenos/asu](./allixsenos-asu.md) | ⭐ — | — | 41/100 |
+| 312 | [devmster/x402-trinity-gaming](./devmster-x402-trinity-gaming.md) | ⭐ — | — | 41/100 |
+| 313 | [joey-io/gauge](./joey-io-gauge.md) | ⭐ — | — | 41/100 |
+| 314 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 41/100 |
+| 315 | [Msalways/Translatron](./msalways-translatron.md) | ⭐ — | — | 40/100 |
+| 316 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 40/100 |
+| 317 | [ujjavala/docgrity-vscode](./ujjavala-docgrity-vscode.md) | ⭐ — | TypeScript | 39/100 |
+| 318 | [felixpg13-glitch/spendshield](./felixpg13-glitch-spendshield.md) | ⭐ — | — | 38/100 |
+| 319 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ — | — | 38/100 |
+| 320 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ — | — | 38/100 |
+| 321 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ — | — | 38/100 |
+| 322 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |
+| 323 | [rtsdque/sentinel](./rtsdque-sentinel.md) | ⭐ — | — | 38/100 |
+| 324 | [hkc5/cursor-bridge](./hkc5-cursor-bridge.md) | ⭐ — | — | 38/100 |
+| 325 | [joverman/xrplink](./joverman-xrplink.md) | ⭐ — | — | 38/100 |
+| 326 | [paycan-app/paycan](./paycan-app-paycan.md) | ⭐ — | — | 38/100 |
+| 327 | [inferock/inferock-bench](./inferock-inferock-bench.md) | ⭐ — | — | 38/100 |
+| 328 | [edyiaeonian/eu-einvoice-bridge](./edyiaeonian-eu-einvoice-bridge.md) | ⭐ — | XSLT | 36/100 |
+| 329 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ — | — | 36/100 |
 
 ---
 
