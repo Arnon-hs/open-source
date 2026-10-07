@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [joshuaswarren/say-house](./joshuaswarren-say-house.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [joshuaswarren/say-house](./joshuaswarren-say-house.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

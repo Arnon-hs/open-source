@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aniruddhaadak80/orbitgene](./aniruddhaadak80-orbitgene.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [aniruddhaadak80/orbitgene](./aniruddhaadak80-orbitgene.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 
