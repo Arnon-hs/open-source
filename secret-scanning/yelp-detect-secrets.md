@@ -1,6 +1,6 @@
 # Yelp/detect-secrets
 
-[![Stars](https://img.shields.io/github/stars/Yelp/detect-secrets?style=flat-square&color=yellow)](https://github.com/Yelp/detect-secrets/stargazers) [![Forks](https://img.shields.io/github/forks/Yelp/detect-secrets?style=flat-square&color=blue)](https://github.com/Yelp/detect-secrets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yelp/detect-secrets?style=flat-square&color=yellow)](https://github.com/Yelp/detect-secrets/stargazers) [![Forks](https://img.shields.io/github/forks/Yelp/detect-secrets?style=flat-square&color=blue)](https://github.com/Yelp/detect-secrets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An enterprise friendly way of detecting and preventing secrets in code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 573 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Yelp/detect-secrets：Yelp/detect-secrets may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 600/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # Ankith-m1006/unclaimed
 
-[![Stars](https://img.shields.io/github/stars/Ankith-m1006/unclaimed?style=flat-square&color=yellow)](https://github.com/Ankith-m1006/unclaimed/stargazers) [![Forks](https://img.shields.io/github/forks/Ankith-m1006/unclaimed?style=flat-square&color=blue)](https://github.com/Ankith-m1006/unclaimed/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ankith-m1006/unclaimed?style=flat-square&color=yellow)](https://github.com/Ankith-m1006/unclaimed/stargazers) [![Forks](https://img.shields.io/github/forks/Ankith-m1006/unclaimed?style=flat-square&color=blue)](https://github.com/Ankith-m1006/unclaimed/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Find open-source issues nobody has taken yet. Gemma reads every issue thread for you.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Ankith-m1006/unclaimed：Ankith-m1006/unclaimed may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 57/100 |
+| production | 54/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
