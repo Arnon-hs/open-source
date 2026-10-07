@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Tolex081/vitarecall](./tolex081-vitarecall.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [Tolex081/vitarecall](./tolex081-vitarecall.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
