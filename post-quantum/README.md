@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aniruddhaadak80/pqc-triage](./aniruddhaadak80-pqc-triage.md) | ⭐ — | TypeScript | 59/100 |
+| 1 | [aniruddhaadak80/pqc-triage](./aniruddhaadak80-pqc-triage.md) | ⭐ — | TypeScript | 56/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Adii0906/hacktoberfest-starter
 
-[![Stars](https://img.shields.io/github/stars/Adii0906/hacktoberfest-starter?style=flat-square&color=yellow)](https://github.com/Adii0906/hacktoberfest-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Adii0906/hacktoberfest-starter?style=flat-square&color=blue)](https://github.com/Adii0906/hacktoberfest-starter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adii0906/hacktoberfest-starter?style=flat-square&color=yellow)](https://github.com/Adii0906/hacktoberfest-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Adii0906/hacktoberfest-starter?style=flat-square&color=blue)](https://github.com/Adii0906/hacktoberfest-starter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Adii0906/hacktoberfest-starter：Adii0906/hacktoberfest-starter may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 50/100 |
-| production | 58/100 |
-| outlook | 51/100 |
+| production | 52/100 |
+| outlook | 44/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
