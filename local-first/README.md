@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Harsh63870/Devlog](./harsh63870-devlog.md) | ⭐ 1 | TypeScript | 53/100 |
+| 1 | [Harsh63870/Devlog](./harsh63870-devlog.md) | ⭐ 1 | TypeScript | 50/100 |
 | 2 | [Can-Ozan/DevToolbox](./can-ozan-devtoolbox.md) | ⭐ — | TypeScript | 48/100 |
 | 3 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 39/100 |
 | 4 | [sakethbalijepalli/NannaDesk](./sakethbalijepalli-nannadesk.md) | ⭐ — | Python | 39/100 |
