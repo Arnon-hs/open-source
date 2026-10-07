@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vivantel/terraform-provider-paddle](./vivantel-terraform-provider-paddle.md) | ⭐ — | Go | 47/100 |
+| 1 | [reachdiff/reachdiff](./reachdiff-reachdiff.md) | ⭐ — | Python | 42/100 |
 
 ---
 
