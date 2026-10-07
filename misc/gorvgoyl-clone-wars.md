@@ -62,18 +62,18 @@ GorvGoyl/Clone-Wars：GorvGoyl/Clone-Wars may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 88/100 |
-| integration | 46/100 |
-| production | 72/100 |
-| outlook | 77/100 |
-| adoption | 95/100 |
-| categoryMatchCount | 0/100 |
-| stars | 97/100 |
 | forks | 88/100 |
-| recency | 80/100 |
+| stars | 97/100 |
 | topics | 100/100 |
+| outlook | 77/100 |
+| quality | 88/100 |
+| recency | 80/100 |
+| adoption | 95/100 |
+| production | 72/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

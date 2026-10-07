@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38654** |
-| **Categories** | **375** |
+| **Projects** | **38659** |
+| **Categories** | **378** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -65,9 +65,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
 | 🏷️ **Offline** | 9 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
+| 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
-| 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Tls** | 2 | [Browse →](./tls/) |
 | 🏷️ **Nats** | 2 | [Browse →](./nats/) |
 | 🏷️ **Quantum-computing** | 2 | [Browse →](./quantum-computing/) |
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
@@ -162,6 +163,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Video-processing** | 1 | [Browse →](./video-processing/) |
+| 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Demo** | 1 | [Browse →](./demo/) |
 | 🏷️ **Aurora** | 1 | [Browse →](./aurora/) |
 | 🏷️ **Casaos** | 1 | [Browse →](./casaos/) |
