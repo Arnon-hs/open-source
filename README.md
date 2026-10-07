@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38687** |
-| **Categories** | **379** |
+| **Projects** | **38693** |
+| **Categories** | **380** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15037 | [Browse →](./misc/) |
+| 📦 **Misc** | 15039 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4255 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2707 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2708 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1367 | [Browse →](./automation/) |
@@ -53,13 +53,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 95 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 57 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 58 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
+| 🏷️ **Privacy** | 13 | [Browse →](./privacy/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
-| 🏷️ **Privacy** | 12 | [Browse →](./privacy/) |
 | 🏷️ **Open-source** | 12 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
@@ -166,6 +166,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Mysql** | 1 | [Browse →](./mysql/) |
 | 🏷️ **Post-quantum** | 1 | [Browse →](./post-quantum/) |
 | 🏷️ **Video-processing** | 1 | [Browse →](./video-processing/) |
 | 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [torana-edge/torana-plugins](./torana-edge-torana-plugins.md) | ⭐ — | Go | 66/100 |
+| 1 | [torana-edge/torana-plugins](./torana-edge-torana-plugins.md) | ⭐ — | Go | 63/100 |
 | 2 | [Faisal-Fayaz/sidekick](./faisal-fayaz-sidekick.md) | ⭐ 5 | Python | 47/100 |
 | 3 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 44/100 |
 | 4 | [Drishya-code/Find-My-Thingy](./drishya-code-find-my-thingy.md) | ⭐ 1 | Python | 43/100 |
