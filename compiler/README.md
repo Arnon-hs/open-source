@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BartoszOsiej/externum](./bartoszosiej-externum.md) | ⭐ — | Python | 48/100 |
+| 1 | [repo-tech/tarvos](./repo-tech-tarvos.md) | ⭐ 1 | Rust | 47/100 |
 
 ---
 

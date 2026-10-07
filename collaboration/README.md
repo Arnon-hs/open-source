@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [joshuageoschool2020-cmyk/sightline-crdt](./joshuageoschool2020-cmyk-sightline-crdt.md) | ⭐ — | HTML | 39/100 |
+| 1 | [joshuageoschool2020-cmyk/sightline-crdt](./joshuageoschool2020-cmyk-sightline-crdt.md) | ⭐ — | HTML | 36/100 |
 
 ---
 

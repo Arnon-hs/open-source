@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38734** |
-| **Categories** | **382** |
+| **Projects** | **38741** |
+| **Categories** | **384** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15056 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4255 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15059 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4256 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2709 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
@@ -83,6 +83,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
+| 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Postgresql** | 3 | [Browse →](./postgresql/) |
 | 🏷️ **Self-hosted** | 3 | [Browse →](./self-hosted/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
@@ -154,7 +155,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Certification** | 2 | [Browse →](./certification/) |
 | 🏷️ **Decision-models** | 2 | [Browse →](./decision-models/) |
 | 🏷️ **Flashcards** | 2 | [Browse →](./flashcards/) |
-| 🏷️ **Ai-safety** | 2 | [Browse →](./ai-safety/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
@@ -168,6 +168,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Hotel** | 1 | [Browse →](./hotel/) |
+| 🏷️ **Compiler** | 1 | [Browse →](./compiler/) |
 | 🏷️ **Oidc** | 1 | [Browse →](./oidc/) |
 | 🏷️ **Mysql** | 1 | [Browse →](./mysql/) |
 | 🏷️ **Post-quantum** | 1 | [Browse →](./post-quantum/) |
