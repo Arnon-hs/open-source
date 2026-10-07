@@ -2,7 +2,7 @@
 
 > 
 
-**3 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
@@ -10,7 +10,8 @@
 |---|---|---|---|---|
 | 1 | [android-actions/setup-android](./android-actions-setup-android.md) | ⭐ 304 | TypeScript | 63/100 |
 | 2 | [Fluxionics/InteeBuild](./fluxionics-inteebuild.md) | ⭐ — | JavaScript | 47/100 |
-| 3 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
+| 3 | [CR4CODE/Termux-Assistant-AI](./cr4code-termux-assistant-ai.md) | ⭐ 1 | Java | 44/100 |
+| 4 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
 
 ---
 

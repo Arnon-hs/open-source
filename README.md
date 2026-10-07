@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38676** |
-| **Categories** | **378** |
+| **Projects** | **38683** |
+| **Categories** | **379** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15030 | [Browse →](./misc/) |
+| 📦 **Misc** | 15034 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4255 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2707 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
@@ -77,6 +77,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Android** | 4 | [Browse →](./android/) |
 | 🏷️ **Php** | 4 | [Browse →](./php/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
@@ -84,7 +85,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
-| 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Ai-code-review** | 3 | [Browse →](./ai-code-review/) |
 | 🏷️ **Angular** | 3 | [Browse →](./angular/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Family** | 2 | [Browse →](./family/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Rust** | 2 | [Browse →](./rust/) |
 | 🏷️ **Tls** | 2 | [Browse →](./tls/) |
@@ -165,6 +166,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Post-quantum** | 1 | [Browse →](./post-quantum/) |
 | 🏷️ **Video-processing** | 1 | [Browse →](./video-processing/) |
 | 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Demo** | 1 | [Browse →](./demo/) |
@@ -274,7 +276,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cors** | 1 | [Browse →](./cors/) |
 | 🏷️ **Code-intelligence** | 1 | [Browse →](./code-intelligence/) |
 | 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
-| 🏷️ **Family** | 1 | [Browse →](./family/) |
 | 🏷️ **App-launcher** | 1 | [Browse →](./app-launcher/) |
 | 🏷️ **Mobile-ai** | 1 | [Browse →](./mobile-ai/) |
 | 🏷️ **Network-monitoring** | 1 | [Browse →](./network-monitoring/) |
