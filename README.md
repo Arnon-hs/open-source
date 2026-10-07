@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38699** |
-| **Categories** | **380** |
+| **Projects** | **38703** |
+| **Categories** | **381** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15045 | [Browse →](./misc/) |
+| 📦 **Misc** | 15046 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4255 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2708 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 598 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 588 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 581 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 509 | [Browse →](./database/) |
+| 🏷️ **Database** | 510 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 492 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 442 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
@@ -83,6 +83,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
+| 🏷️ **Self-hosted** | 3 | [Browse →](./self-hosted/) |
 | 🏷️ **Offline-first** | 3 | [Browse →](./offline-first/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Ai-code-review** | 3 | [Browse →](./ai-code-review/) |
@@ -125,7 +126,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Gdpr** | 2 | [Browse →](./gdpr/) |
 | 🏷️ **X402** | 2 | [Browse →](./x402/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
-| 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
 | 🏷️ **Hacktoberfest** | 2 | [Browse →](./hacktoberfest/) |
@@ -166,6 +166,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Oidc** | 1 | [Browse →](./oidc/) |
 | 🏷️ **Mysql** | 1 | [Browse →](./mysql/) |
 | 🏷️ **Post-quantum** | 1 | [Browse →](./post-quantum/) |
 | 🏷️ **Video-processing** | 1 | [Browse →](./video-processing/) |

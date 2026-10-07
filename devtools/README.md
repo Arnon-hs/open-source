@@ -241,8 +241,8 @@
 | 231 | [bgreenwell/lstr](./bgreenwell-lstr.md) | ⭐ 1.5k | Rust | 68/100 |
 | 232 | [hatoo/oha](./hatoo-oha.md) | ⭐ 10.4k | Rust | 68/100 |
 | 233 | [stepchowfun/toast](./stepchowfun-toast.md) | ⭐ 1.6k | Rust | 68/100 |
-| 234 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 68/100 |
-| 235 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 306 | Go | 68/100 |
+| 234 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 306 | Go | 68/100 |
+| 235 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 68/100 |
 | 236 | [chenquan/diskusage](./chenquan-diskusage.md) | ⭐ 309 | Go | 68/100 |
 | 237 | [charmbracelet/ultraviolet](./charmbracelet-ultraviolet.md) | ⭐ 358 | Go | 68/100 |
 | 238 | [Albert-Weasker/niubi_guard](./albert-weasker-niubi-guard.md) | ⭐ 1.2k | TypeScript | 68/100 |
@@ -379,8 +379,8 @@
 | 369 | [INRIA/spoon](./inria-spoon.md) | ⭐ 1.9k | Java | 66/100 |
 | 370 | [praetorian-inc/titus](./praetorian-inc-titus.md) | ⭐ 600 | Go | 66/100 |
 | 371 | [jcouture/nv](./jcouture-nv.md) | ⭐ 76 | Go | 66/100 |
-| 372 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 66/100 |
-| 373 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 66/100 |
+| 372 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 66/100 |
+| 373 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 66/100 |
 | 374 | [fastify/fastify-cli](./fastify-fastify-cli.md) | ⭐ 730 | JavaScript | 66/100 |
 | 375 | [justcallmekoko/ESP32Marauder](./justcallmekoko-esp32marauder.md) | ⭐ 11.2k | C++ | 66/100 |
 | 376 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 388 | Go | 66/100 |
@@ -645,8 +645,8 @@
 | 635 | [hidevopsio/hiboot](./hidevopsio-hiboot.md) | ⭐ 179 | Go | 63/100 |
 | 636 | [oneclickvirt/ecs](./oneclickvirt-ecs.md) | ⭐ 2k | Go | 63/100 |
 | 637 | [jkwill87/mnamer](./jkwill87-mnamer.md) | ⭐ 1.1k | Python | 63/100 |
-| 638 | [Raphire/Win11Debloat](./raphire-win11debloat.md) | ⭐ 46k | PowerShell | 63/100 |
-| 639 | [szaghi/FoBiS](./szaghi-fobis.md) | ⭐ 144 | Python | 63/100 |
+| 638 | [szaghi/FoBiS](./szaghi-fobis.md) | ⭐ 144 | Python | 63/100 |
+| 639 | [Raphire/Win11Debloat](./raphire-win11debloat.md) | ⭐ 46k | PowerShell | 63/100 |
 | 640 | [noborus/trdsql](./noborus-trdsql.md) | ⭐ 2.2k | Go | 63/100 |
 | 641 | [beetbox/beets](./beetbox-beets.md) | ⭐ 15.1k | Python | 63/100 |
 | 642 | [leo-arch/clifm](./leo-arch-clifm.md) | ⭐ 1.7k | C | 63/100 |
@@ -1545,8 +1545,8 @@
 | 1535 | [mainak55512/flint](./mainak55512-flint.md) | ⭐ — | — | 42/100 |
 | 1536 | [coder/wush](./coder-wush.md) | ⭐ — | — | 42/100 |
 | 1537 | [berggren/tss](./berggren-tss.md) | ⭐ — | — | 42/100 |
-| 1538 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
-| 1539 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1538 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1539 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
 | 1540 | [mozilla/web-ext](./mozilla-web-ext.md) | ⭐ — | — | 42/100 |
 | 1541 | [scascino4/dither](./scascino4-dither.md) | ⭐ — | — | 42/100 |
 | 1542 | [crawshaw/yeah](./crawshaw-yeah.md) | ⭐ — | — | 42/100 |
