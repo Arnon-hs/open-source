@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38650** |
-| **Categories** | **373** |
+| **Projects** | **38653** |
+| **Categories** | **375** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Nats** | 2 | [Browse →](./nats/) |
 | 🏷️ **Quantum-computing** | 2 | [Browse →](./quantum-computing/) |
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
 | 🏷️ **Dns** | 2 | [Browse →](./dns/) |
@@ -161,6 +162,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Demo** | 1 | [Browse →](./demo/) |
 | 🏷️ **Aurora** | 1 | [Browse →](./aurora/) |
 | 🏷️ **Casaos** | 1 | [Browse →](./casaos/) |
 | 🏷️ **Harmonyos** | 1 | [Browse →](./harmonyos/) |

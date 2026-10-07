@@ -21,9 +21,9 @@
 | 11 | [zhx842htt/devspend](./zhx842htt-devspend.md) | ⭐ — | JavaScript | 51/100 |
 | 12 | [helgard-orlm/sanity-ai-hardware-advisor](./helgard-orlm-sanity-ai-hardware-advisor.md) | ⭐ — | Python | 51/100 |
 | 13 | [chourasiavinit9-dev/framework-magnifier](./chourasiavinit9-dev-framework-magnifier.md) | ⭐ — | Python | 50/100 |
-| 14 | [sopkits/knowledge-freshness-audit](./sopkits-knowledge-freshness-audit.md) | ⭐ — | — | 47/100 |
-| 15 | [Golovenkov79/ely-agent-input-preflight](./golovenkov79-ely-agent-input-preflight.md) | ⭐ — | Python | 46/100 |
-| 16 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 44/100 |
+| 14 | [Golovenkov79/ely-agent-input-preflight](./golovenkov79-ely-agent-input-preflight.md) | ⭐ — | Python | 46/100 |
+| 15 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 44/100 |
+| 16 | [sopkits/knowledge-freshness-audit](./sopkits-knowledge-freshness-audit.md) | ⭐ — | — | 44/100 |
 | 17 | [mohamed-osama-aboelkheir/ai-sast-triage-demo](./mohamed-osama-aboelkheir-ai-sast-triage-demo.md) | ⭐ — | JavaScript | 43/100 |
 | 18 | [Zhuoli/out-the-door](./zhuoli-out-the-door.md) | ⭐ — | JavaScript | 42/100 |
 | 19 | [nibvok/agent-receipts](./nibvok-agent-receipts.md) | ⭐ — | JavaScript | 41/100 |
