@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [jesseduffield/lazydocker](./jesseduffield-lazydocker.md) | ⭐ 53k | Go | 64/100 |
-| 2 | [KrishnaGaur12/HFDEV1](./krishnagaur12-hfdev1.md) | ⭐ — | JavaScript | 36/100 |
+| 2 | [KrishnaGaur12/HFDEV1](./krishnagaur12-hfdev1.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 
