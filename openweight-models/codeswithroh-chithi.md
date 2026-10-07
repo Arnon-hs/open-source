@@ -1,6 +1,6 @@
 # codeswithroh/chithi
 
-[![Stars](https://img.shields.io/github/stars/codeswithroh/chithi?style=flat-square&color=yellow)](https://github.com/codeswithroh/chithi/stargazers) [![Forks](https://img.shields.io/github/forks/codeswithroh/chithi?style=flat-square&color=blue)](https://github.com/codeswithroh/chithi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codeswithroh/chithi?style=flat-square&color=yellow)](https://github.com/codeswithroh/chithi/stargazers) [![Forks](https://img.shields.io/github/forks/codeswithroh/chithi?style=flat-square&color=blue)](https://github.com/codeswithroh/chithi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Point your phone at any bill, letter or WhatsApp forward. Hear it in your language. Know if it's a scam. Open-weight Gemma, 22 Indian languages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ codeswithroh/chithi：codeswithroh/chithi may be useful when its README and acti
 - primary language: JavaScript
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 53/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

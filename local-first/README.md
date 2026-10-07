@@ -12,10 +12,10 @@
 | 2 | [Can-Ozan/DevToolbox](./can-ozan-devtoolbox.md) | ⭐ — | TypeScript | 48/100 |
 | 3 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 39/100 |
 | 4 | [sakethbalijepalli/NannaDesk](./sakethbalijepalli-nannadesk.md) | ⭐ — | Python | 39/100 |
-| 5 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 36/100 |
-| 6 | [ashab683/studybudy-ai](./ashab683-studybudy-ai.md) | ⭐ — | JavaScript | 36/100 |
-| 7 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 36/100 |
-| 8 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 34/100 |
+| 5 | [ashab683/studybudy-ai](./ashab683-studybudy-ai.md) | ⭐ — | JavaScript | 36/100 |
+| 6 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 36/100 |
+| 7 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 34/100 |
+| 8 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 33/100 |
 | 9 | [TabPFN/TabPFN](./tabpfn-tabpfn.md) | ⭐ — | — | 24/100 |
 | 10 | [ggerganov/whisper.cpp](./ggerganov-whisper.cpp.md) | ⭐ — | — | 24/100 |
 | 11 | [onnx/Kokoro](./onnx-kokoro.md) | ⭐ — | — | 24/100 |

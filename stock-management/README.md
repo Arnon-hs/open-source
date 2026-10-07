@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [syedjawad11/stock-diary](./syedjawad11-stock-diary.md) | ⭐ — | Python | 42/100 |
+| 1 | [syedjawad11/stock-diary](./syedjawad11-stock-diary.md) | ⭐ — | Python | 39/100 |
 
 ---
 

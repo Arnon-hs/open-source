@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [codeswithroh/chithi](./codeswithroh-chithi.md) | ⭐ — | JavaScript | 43/100 |
+| 1 | [codeswithroh/chithi](./codeswithroh-chithi.md) | ⭐ — | JavaScript | 39/100 |
 
 ---
 
