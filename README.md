@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38820** |
+| **Projects** | **38824** |
 | **Categories** | **395** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15093 | [Browse →](./misc/) |
+| 📦 **Misc** | 15094 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4260 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2710 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1559 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1367 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1368 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 915 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
@@ -57,9 +57,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Offline** | 14 | [Browse →](./offline/) |
 | 🏷️ **Privacy** | 14 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
-| 🏷️ **Offline** | 13 | [Browse →](./offline/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 12 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
@@ -110,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Pdf-redaction** | 2 | [Browse →](./pdf-redaction/) |
 | 🏷️ **Java** | 2 | [Browse →](./java/) |
 | 🏷️ **Kubernetes** | 2 | [Browse →](./kubernetes/) |
@@ -176,7 +177,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Email** | 1 | [Browse →](./email/) |
 | 🏷️ **Music** | 1 | [Browse →](./music/) |
 | 🏷️ **Prospect-research** | 1 | [Browse →](./prospect-research/) |
-| 🌐 **Open Source** | 1 | [Browse →](./opensource/) |
 | 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
 | 🏷️ **Microsoft-entra-id** | 1 | [Browse →](./microsoft-entra-id/) |
 | 🏷️ **Hotel** | 1 | [Browse →](./hotel/) |
