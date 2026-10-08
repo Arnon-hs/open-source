@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38894** |
+| **Projects** | **38900** |
 | **Categories** | **394** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15132 | [Browse →](./misc/) |
+| 📦 **Misc** | 15135 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4267 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2713 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2714 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1371 | [Browse →](./automation/) |
@@ -47,7 +47,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 330 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 324 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 312 | [Browse →](./productivity/) |
-| 🏷️ **Observability** | 291 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 292 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 197 | [Browse →](./trading/) |
 | ✨ **Design** | 168 | [Browse →](./design/) |
@@ -58,9 +58,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 17 | [Browse →](./offline/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Open-source** | 14 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 14 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
-| 🏷️ **Open-source** | 13 | [Browse →](./open-source/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |

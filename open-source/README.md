@@ -2,7 +2,7 @@
 
 > 
 
-**13 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -17,10 +17,11 @@
 | 7 | [szj2ys/bible-phrase-count](./szj2ys-bible-phrase-count.md) | ⭐ — | JavaScript | 36/100 |
 | 8 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 33/100 |
 | 9 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 33/100 |
-| 10 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
-| 11 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
-| 12 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
-| 13 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
+| 10 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
+| 11 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
+| 12 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
+| 13 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
+| 14 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
 
 ---
 
