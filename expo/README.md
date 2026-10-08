@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AttayR/expo-preflight](./attayr-expo-preflight.md) | ⭐ — | TypeScript | 53/100 |
+| 1 | [AttayR/expo-preflight](./attayr-expo-preflight.md) | ⭐ — | TypeScript | 50/100 |
 
 ---
 
