@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38912** |
-| **Categories** | **396** |
+| **Projects** | **38919** |
+| **Categories** | **395** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,22 +23,22 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15142 | [Browse →](./misc/) |
+| 📦 **Misc** | 15144 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4269 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2714 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1371 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1372 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 916 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 659 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 660 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 628 | [Browse →](./networking/) |
 | 📱 **Mobile** | 602 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 590 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 583 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 512 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 493 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 494 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 446 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
 | 🔐 **Security** | 407 | [Browse →](./security/) |
@@ -56,16 +56,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 73 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Offline** | 18 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 19 | [Browse →](./offline/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Privacy** | 15 | [Browse →](./privacy/) |
+| 🏷️ **Ai-agents** | 15 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 14 | [Browse →](./open-source/) |
-| 🏷️ **Privacy** | 14 | [Browse →](./privacy/) |
-| 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
-| 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
+| 🏷️ **Local-first** | 10 | [Browse →](./local-first/) |
+| 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
-| 🏷️ **Local-ai** | 8 | [Browse →](./local-ai/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🏷️ **Hackathon** | 7 | [Browse →](./hackathon/) |
@@ -76,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
+| 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Offline-first** | 4 | [Browse →](./offline-first/) |
@@ -93,7 +94,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 3 | [Browse →](./edge-computing/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
-| 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 3 | [Browse →](./edge-ai/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
@@ -152,7 +152,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Raspberrypi** | 2 | [Browse →](./raspberrypi/) |
 | 🏷️ **Local-tts** | 2 | [Browse →](./local-tts/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
-| 🏷️ **Ai-qa** | 2 | [Browse →](./ai-qa/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |

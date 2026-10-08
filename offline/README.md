@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -20,12 +20,13 @@
 | 10 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 39/100 |
 | 11 | [atDnK/edugemma-ai](./atdnk-edugemma-ai.md) | ⭐ — | — | 39/100 |
 | 12 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
-| 13 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 36/100 |
-| 14 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
-| 15 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
-| 16 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
-| 17 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
-| 18 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
+| 13 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 36/100 |
+| 14 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 36/100 |
+| 15 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
+| 16 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
+| 17 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
+| 18 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
+| 19 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
 
 ---
 
