@@ -2,7 +2,7 @@
 
 > 
 
-**68 projects** in this category.
+**69 projects** in this category.
 
 ## Projects
 
@@ -53,29 +53,30 @@
 | 43 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
 | 44 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 33/100 |
 | 45 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 33/100 |
-| 46 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 47 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
-| 48 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
-| 49 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
-| 50 | [google/generative-ai-js](./google-generative-ai-js.md) | ⭐ — | — | 27/100 |
-| 51 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
-| 52 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
-| 53 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 54 | [priobio/TabPFN](./priobio-tabpfn.md) | ⭐ — | — | 24/100 |
-| 55 | [Rohitisavailable/trailside](./rohitisavailable-trailside.md) | ⭐ — | — | 24/100 |
-| 56 | [novafabric/novafabric](./novafabric-novafabric.md) | ⭐ — | — | 24/100 |
-| 57 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
-| 58 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
-| 59 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
-| 60 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
-| 61 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 62 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 63 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 64 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 65 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 66 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 67 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 68 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 46 | [FreeLLMAPI/FreeLLMAPI](./freellmapi-freellmapi.md) | ⭐ — | — | 32/100 |
+| 47 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 48 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
+| 49 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
+| 50 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
+| 51 | [google/generative-ai-js](./google-generative-ai-js.md) | ⭐ — | — | 27/100 |
+| 52 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
+| 53 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
+| 54 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 55 | [priobio/TabPFN](./priobio-tabpfn.md) | ⭐ — | — | 24/100 |
+| 56 | [Rohitisavailable/trailside](./rohitisavailable-trailside.md) | ⭐ — | — | 24/100 |
+| 57 | [novafabric/novafabric](./novafabric-novafabric.md) | ⭐ — | — | 24/100 |
+| 58 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
+| 59 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
+| 60 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
+| 61 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
+| 62 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 63 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 64 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 65 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 66 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 67 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 68 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 69 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

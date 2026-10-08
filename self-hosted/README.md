@@ -2,15 +2,16 @@
 
 > 
 
-**3 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [glincker/levelrail](./glincker-levelrail.md) | ⭐ 5 | Go | 55/100 |
-| 2 | [kmihalj/Simbioza](./kmihalj-simbioza.md) | ⭐ 1 | PHP | 49/100 |
-| 3 | [eric-wieser/pysubs2](./eric-wieser-pysubs2.md) | ⭐ — | — | 24/100 |
+| 1 | [edrisranjbar/lifeos](./edrisranjbar-lifeos.md) | ⭐ 5 | JavaScript | 62/100 |
+| 2 | [glincker/levelrail](./glincker-levelrail.md) | ⭐ 5 | Go | 55/100 |
+| 3 | [kmihalj/Simbioza](./kmihalj-simbioza.md) | ⭐ 1 | PHP | 49/100 |
+| 4 | [eric-wieser/pysubs2](./eric-wieser-pysubs2.md) | ⭐ — | — | 24/100 |
 
 ---
 

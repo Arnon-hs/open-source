@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Harish-here/maddog](./harish-here-maddog.md) | ⭐ 1 | Python | 55/100 |
+| 1 | [Harish-here/maddog](./harish-here-maddog.md) | ⭐ 1 | Python | 52/100 |
 | 2 | [B-Lost/litellm](./b-lost-litellm.md) | ⭐ — | — | 24/100 |
 
 ---
