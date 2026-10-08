@@ -2,7 +2,7 @@
 
 > 
 
-**7 projects** in this category.
+**6 projects** in this category.
 
 ## Projects
 
@@ -14,7 +14,6 @@
 | 4 | [Africa-Deep-Tech-Foundation/adtc-profiler](./africa-deep-tech-foundation-adtc-profiler.md) | ⭐ 22 | Python | 38/100 |
 | 5 | [Avi36005/DogFood-2026](./avi36005-dogfood-2026.md) | ⭐ — | TypeScript | 36/100 |
 | 6 | [rajpriyanid-creator/dogfood](./rajpriyanid-creator-dogfood.md) | ⭐ — | Python | 36/100 |
-| 7 | [rishikeshdas887/judgeforge-dogfood-2026](./rishikeshdas887-judgeforge-dogfood-2026.md) | ⭐ — | Java | 36/100 |
 
 ---
 

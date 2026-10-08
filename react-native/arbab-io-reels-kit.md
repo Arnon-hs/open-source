@@ -1,6 +1,6 @@
 # arbab-io/reels-kit
 
-[![Stars](https://img.shields.io/github/stars/arbab-io/reels-kit?style=flat-square&color=yellow)](https://github.com/arbab-io/reels-kit/stargazers) [![Forks](https://img.shields.io/github/forks/arbab-io/reels-kit?style=flat-square&color=blue)](https://github.com/arbab-io/reels-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arbab-io/reels-kit?style=flat-square&color=yellow)](https://github.com/arbab-io/reels-kit/stargazers) [![Forks](https://img.shields.io/github/forks/arbab-io/reels-kit?style=flat-square&color=blue)](https://github.com/arbab-io/reels-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Headless, FlashList-powered vertical video feed (Instagram Reels-style) for React Native
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ arbab-io/reels-kit：arbab-io/reels-kit may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 55/100 |
+| production | 52/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

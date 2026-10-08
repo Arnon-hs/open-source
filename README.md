@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38958** |
-| **Categories** | **398** |
+| **Projects** | **38964** |
+| **Categories** | **396** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,23 +23,23 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15164 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4272 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2716 | [Browse →](./mcp/) |
+| 📦 **Misc** | 15167 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4273 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2717 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2293 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1372 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1373 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 916 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 660 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 628 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 629 | [Browse →](./networking/) |
 | 📱 **Mobile** | 603 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 590 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 583 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 512 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 496 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 446 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 447 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
 | 🔐 **Security** | 408 | [Browse →](./security/) |
 | 🏷️ **Communication** | 402 | [Browse →](./communication/) |
@@ -68,14 +68,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
-| 🏷️ **Hackathon** | 7 | [Browse →](./hackathon/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
+| 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **N8n** | 5 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
+| 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Npm** | 4 | [Browse →](./npm/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
@@ -91,7 +92,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
-| 🏷️ **Edge-computing** | 3 | [Browse →](./edge-computing/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Edge-ai** | 3 | [Browse →](./edge-ai/) |
@@ -166,6 +166,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
 | 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |
 | 🏷️ **Open-weight-ai** | 1 | [Browse →](./open-weight-ai/) |
 | 🏷️ **Stripe** | 1 | [Browse →](./stripe/) |
@@ -327,9 +328,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
 | 🏷️ **Semantic-search** | 1 | [Browse →](./semantic-search/) |
 | 🏷️ **3d** | 1 | [Browse →](./3d/) |
-| 🏷️ **Cyclone** | 1 | [Browse →](./cyclone/) |
-| 🏷️ **Esp32** | 1 | [Browse →](./esp32/) |
-| 🏷️ **File-organisation** | 1 | [Browse →](./file-organisation/) |
 | 🏷️ **Deployment** | 1 | [Browse →](./deployment/) |
 | 🏷️ **Readability** | 1 | [Browse →](./readability/) |
 | 🏷️ **Media-player** | 1 | [Browse →](./media-player/) |
