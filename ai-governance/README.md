@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [joyrswd/AIDDSkeleton](./joyrswd-aiddskeleton.md) | ⭐ — | — | 57/100 |
+| 1 | [yourrepo/pull](./yourrepo-pull.md) | ⭐ — | — | 24/100 |
 
 ---
 

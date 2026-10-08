@@ -12,8 +12,8 @@
 | 2 | [csr1010/wappy-kit](./csr1010-wappy-kit.md) | ⭐ 2 | TypeScript | 68/100 |
 | 3 | [roydonsequeira/CORTEX-Private-Intelligence-Framework](./roydonsequeira-cortex-private-intelligence-framework.md) | ⭐ 4 | Python | 66/100 |
 | 4 | [NTDevLops/UNIVERSAL-AGENTS.md](./ntdevlops-universal-agents.md.md) | ⭐ 1 | — | 64/100 |
-| 5 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 64/100 |
-| 6 | [akyourowngames/A.N.K.I.T.A](./akyourowngames-a.n.k.i.t.a.md) | ⭐ 3 | JavaScript | 62/100 |
+| 5 | [akyourowngames/A.N.K.I.T.A](./akyourowngames-a.n.k.i.t.a.md) | ⭐ 3 | JavaScript | 62/100 |
+| 6 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
 | 7 | [UB-Mannheim/tesseract](./ub-mannheim-tesseract.md) | ⭐ 4.6k | C++ | 60/100 |
 | 8 | [dictionary-beep/Model-AI-free-low-cost](./dictionary-beep-model-ai-free-low-cost.md) | ⭐ 1 | — | 57/100 |
 | 9 | [Jramone3/REMI_Enterprise_Suite](./jramone3-remi-enterprise-suite.md) | ⭐ — | Python | 57/100 |

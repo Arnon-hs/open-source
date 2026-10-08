@@ -1,6 +1,6 @@
 # Misar-AI/misarblog-mcp
 
-[![Stars](https://img.shields.io/github/stars/Misar-AI/misarblog-mcp?style=flat-square&color=yellow)](https://github.com/Misar-AI/misarblog-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Misar-AI/misarblog-mcp?style=flat-square&color=blue)](https://github.com/Misar-AI/misarblog-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Misar-AI/misarblog-mcp?style=flat-square&color=yellow)](https://github.com/Misar-AI/misarblog-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Misar-AI/misarblog-mcp?style=flat-square&color=blue)](https://github.com/Misar-AI/misarblog-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Misar.Blog MCP server — 23 tools for publishing articles, series, comments, reactions, newsletters, AI writing & analytics. Works with Claude, Cursor, VS Code, Windsurf & any MCP client.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI · blogging · CMS · SEO · analytics
 
 ### English
 
-Misar-AI/misarblog-mcp: Misar-AI/misarblog-mcp may be useful when its README and activity match a concrete workflow.. Use it for AI, blogging, CMS, SEO, analytics. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Misar-AI/misarblog-mcp: Misar-AI/misarblog-mcp may be useful when its README and activity match a concrete workflow.. Use it for AI, blogging, CMS, SEO, analytics. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Misar-AI/misarblog-mcp: open-source проект в категориях AI, blogging, CMS, SEO, analytics. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Misar-AI/misarblog-mcp: open-source проект в категориях AI, blogging, CMS, SEO, analytics. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Misar-AI/misarblog-mcp：Misar-AI/misarblog-mcp may be useful when its README and activity match a concrete workflow.。适合用于AI、blogging、CMS、SEO、analytics。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Misar-AI/misarblog-mcp：Misar-AI/misarblog-mcp may be useful when its README and activity match a concrete workflow.。适合用于AI、blogging、CMS、SEO、analytics。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Misar-AI/misarblog-mcp：Misar-AI/misarblog-mcp may be useful when its README an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ Misar-AI/misarblog-mcp：Misar-AI/misarblog-mcp may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 78/100 |
-| production | 55/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

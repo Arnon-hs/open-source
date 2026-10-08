@@ -1,6 +1,6 @@
 # RandyNorthrup/muse-spark-code
 
-[![Stars](https://img.shields.io/github/stars/RandyNorthrup/muse-spark-code?style=flat-square&color=yellow)](https://github.com/RandyNorthrup/muse-spark-code/stargazers) [![Forks](https://img.shields.io/github/forks/RandyNorthrup/muse-spark-code?style=flat-square&color=blue)](https://github.com/RandyNorthrup/muse-spark-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RandyNorthrup/muse-spark-code?style=flat-square&color=yellow)](https://github.com/RandyNorthrup/muse-spark-code/stargazers) [![Forks](https://img.shields.io/github/forks/RandyNorthrup/muse-spark-code?style=flat-square&color=blue)](https://github.com/RandyNorthrup/muse-spark-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial: Meta's Muse Spark as a coding agent in your editor: VS Code, Cursor, Windsurf, VSCodium, Zed, JetBrains IDEs, Neovim, Emacs and more. Muse Code CLI or Model API: edits with diffs and review, permission modes, checkpoints, subagents, MCP, voice, 15 languages. Marketplace, Open VSX, npm.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ RandyNorthrup/muse-spark-code：RandyNorthrup/muse-spark-code may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 94/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 66/100 |
+| outlook | 69/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 700/100 |
 | stars | 20/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
