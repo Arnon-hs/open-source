@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Papyrine/Excelsior](./papyrine-excelsior.md) | ⭐ 77 | C# | 46/100 |
+| 1 | [Papyrine/Excelsior](./papyrine-excelsior.md) | ⭐ 77 | C# | 43/100 |
 
 ---
 

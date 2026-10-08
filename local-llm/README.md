@@ -9,11 +9,11 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [antoniahp/gemma-garage](./antoniahp-gemma-garage.md) | ⭐ — | Python | 46/100 |
-| 2 | [HyunsikParker/outingfold](./hyunsikparker-outingfold.md) | ⭐ — | JavaScript | 39/100 |
-| 3 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 39/100 |
-| 4 | [amandewatnitrr/plain-words](./amandewatnitrr-plain-words.md) | ⭐ — | Python | 39/100 |
-| 5 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
-| 6 | [apurva0510/argus](./apurva0510-argus.md) | ⭐ 1 | Python | 37/100 |
+| 2 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 39/100 |
+| 3 | [amandewatnitrr/plain-words](./amandewatnitrr-plain-words.md) | ⭐ — | Python | 39/100 |
+| 4 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
+| 5 | [apurva0510/argus](./apurva0510-argus.md) | ⭐ 1 | Python | 37/100 |
+| 6 | [HyunsikParker/outingfold](./hyunsikparker-outingfold.md) | ⭐ — | JavaScript | 36/100 |
 | 7 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 36/100 |
 | 8 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
 | 9 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |

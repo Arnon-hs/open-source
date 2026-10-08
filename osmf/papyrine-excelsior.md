@@ -1,6 +1,6 @@
 # Papyrine/Excelsior
 
-[![Stars](https://img.shields.io/github/stars/Papyrine/Excelsior?style=flat-square&color=yellow)](https://github.com/Papyrine/Excelsior/stargazers) [![Forks](https://img.shields.io/github/forks/Papyrine/Excelsior?style=flat-square&color=blue)](https://github.com/Papyrine/Excelsior/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Papyrine/Excelsior?style=flat-square&color=yellow)](https://github.com/Papyrine/Excelsior/stargazers) [![Forks](https://img.shields.io/github/forks/Papyrine/Excelsior?style=flat-square&color=blue)](https://github.com/Papyrine/Excelsior/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Excelsior is a Excel spreadsheet generation library with a distinctive data-driven approach.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Papyrine/Excelsior：Papyrine/Excelsior may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 33/100 |
 | categoryMatchCount | 500/100 |
 | stars | 40/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

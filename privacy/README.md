@@ -2,7 +2,7 @@
 
 > 
 
-**15 projects** in this category.
+**16 projects** in this category.
 
 ## Projects
 
@@ -16,13 +16,14 @@
 | 6 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 45/100 |
 | 7 | [Yaser-123/PagePilot](./yaser-123-pagepilot.md) | ⭐ — | TypeScript | 44/100 |
 | 8 | [Bangkah/CRM-Automation-System](./bangkah-crm-automation-system.md) | ⭐ 1 | Go | 44/100 |
-| 9 | [sohamsakhare76-ai/findit-ai](./sohamsakhare76-ai-findit-ai.md) | ⭐ — | Python | 39/100 |
-| 10 | [chanduchowdary-27/privacy-offer-check](./chanduchowdary-27-privacy-offer-check.md) | ⭐ — | TypeScript | 39/100 |
-| 11 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |
-| 12 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 33/100 |
-| 13 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 33/100 |
-| 14 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 33/100 |
-| 15 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
+| 9 | [abhijeetnardele24-hash/groundsignal](./abhijeetnardele24-hash-groundsignal.md) | ⭐ — | TypeScript | 42/100 |
+| 10 | [sohamsakhare76-ai/findit-ai](./sohamsakhare76-ai-findit-ai.md) | ⭐ — | Python | 39/100 |
+| 11 | [chanduchowdary-27/privacy-offer-check](./chanduchowdary-27-privacy-offer-check.md) | ⭐ — | TypeScript | 39/100 |
+| 12 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |
+| 13 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 33/100 |
+| 14 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 33/100 |
+| 15 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 33/100 |
+| 16 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
 
 ---
 

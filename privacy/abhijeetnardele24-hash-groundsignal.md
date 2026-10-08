@@ -1,0 +1,78 @@
+# abhijeetnardele24-hash/groundsignal
+
+[![Stars](https://img.shields.io/github/stars/abhijeetnardele24-hash/groundsignal?style=flat-square&color=yellow)](https://github.com/abhijeetnardele24-hash/groundsignal/stargazers) [![Forks](https://img.shields.io/github/forks/abhijeetnardele24-hash/groundsignal?style=flat-square&color=blue)](https://github.com/abhijeetnardele24-hash/groundsignal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+
+> A local-first pocket field instrument for uncertainty-aware surface reports.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-10-07 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+privacy · few-shot · mobile · surface-classification · PWA · TabPFN · Render · Hacktoberfest
+
+## 📝 Summary
+
+### English
+
+abhijeetnardele24-hash/groundsignal: abhijeetnardele24-hash/groundsignal may be useful when its README and activity match a concrete workflow.. Use it for privacy, few-shot, mobile, surface-classification, PWA, TabPFN, Render, Hacktoberfest. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+abhijeetnardele24-hash/groundsignal: open-source проект в категориях privacy, few-shot, mobile, surface-classification, PWA, TabPFN, Render, Hacktoberfest. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+abhijeetnardele24-hash/groundsignal：abhijeetnardele24-hash/groundsignal may be useful when its README and activity match a concrete workflow.。适合用于privacy、few-shot、mobile、surface-classification、PWA、TabPFN、Render、Hacktoberfest。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** abhijeetnardele24-hash/groundsignal may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-10-07
+- primary language: TypeScript
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 36/100 |
+| integration | 46/100 |
+| production | 57/100 |
+| outlook | 50/100 |
+| adoption | 0/100 |
+| categoryMatchCount | 800/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 100/100 |
+| topics | 0/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-08 · [View on GitHub](https://github.com/abhijeetnardele24-hash/groundsignal) · [← Back to Privacy](./README.md)</sub>

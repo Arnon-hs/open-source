@@ -14,7 +14,7 @@
 | 4 | [sffjunkie/astral](./sffjunkie-astral.md) | ⭐ 290 | Python | 55/100 |
 | 5 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 46/100 |
 | 6 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 45/100 |
-| 7 | [gabutersproject/touch-grass-sports-ai](./gabutersproject-touch-grass-sports-ai.md) | ⭐ — | Python | 44/100 |
+| 7 | [gabutersproject/touch-grass-sports-ai](./gabutersproject-touch-grass-sports-ai.md) | ⭐ — | Python | 41/100 |
 | 8 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 39/100 |
 | 9 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 39/100 |
 | 10 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 39/100 |
