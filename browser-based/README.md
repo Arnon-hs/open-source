@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Swastik-2416/BINGO-game](./swastik-2416-bingo-game.md) | ⭐ — | HTML | 39/100 |
+| 1 | [Swastik-2416/BINGO-game](./swastik-2416-bingo-game.md) | ⭐ — | HTML | 36/100 |
 
 ---
 
