@@ -1,6 +1,6 @@
 # Mascottz/Codex-Naturalis
 
-[![Stars](https://img.shields.io/github/stars/Mascottz/Codex-Naturalis?style=flat-square&color=yellow)](https://github.com/Mascottz/Codex-Naturalis/stargazers) [![Forks](https://img.shields.io/github/forks/Mascottz/Codex-Naturalis?style=flat-square&color=blue)](https://github.com/Mascottz/Codex-Naturalis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mascottz/Codex-Naturalis?style=flat-square&color=yellow)](https://github.com/Mascottz/Codex-Naturalis/stargazers) [![Forks](https://img.shields.io/github/forks/Mascottz/Codex-Naturalis?style=flat-square&color=blue)](https://github.com/Mascottz/Codex-Naturalis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > the advanced mathematics of everything that makes up the earth, galaxies, nature and the world; every formula keeps its originator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Mascottz/Codex-Naturalis：Mascottz/Codex-Naturalis may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

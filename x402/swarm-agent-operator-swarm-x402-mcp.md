@@ -1,6 +1,6 @@
 # swarm-agent-operator/swarm-x402-mcp
 
-[![Stars](https://img.shields.io/github/stars/swarm-agent-operator/swarm-x402-mcp?style=flat-square&color=yellow)](https://github.com/swarm-agent-operator/swarm-x402-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/swarm-agent-operator/swarm-x402-mcp?style=flat-square&color=blue)](https://github.com/swarm-agent-operator/swarm-x402-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swarm-agent-operator/swarm-x402-mcp?style=flat-square&color=yellow)](https://github.com/swarm-agent-operator/swarm-x402-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/swarm-agent-operator/swarm-x402-mcp?style=flat-square&color=blue)](https://github.com/swarm-agent-operator/swarm-x402-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for SWARM's x402 services: pay per call in USDC on Base, no account or API key.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ swarm-agent-operator/swarm-x402-mcp：swarm-agent-operator/swarm-x402-mcp may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 58/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
