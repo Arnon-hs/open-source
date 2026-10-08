@@ -1,6 +1,6 @@
 # scikit-build/scikit-build-core
 
-[![Stars](https://img.shields.io/github/stars/scikit-build/scikit-build-core?style=flat-square&color=yellow)](https://github.com/scikit-build/scikit-build-core/stargazers) [![Forks](https://img.shields.io/github/forks/scikit-build/scikit-build-core?style=flat-square&color=blue)](https://github.com/scikit-build/scikit-build-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scikit-build/scikit-build-core?style=flat-square&color=yellow)](https://github.com/scikit-build/scikit-build-core/stargazers) [![Forks](https://img.shields.io/github/forks/scikit-build/scikit-build-core?style=flat-square&color=blue)](https://github.com/scikit-build/scikit-build-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A next generation Python CMake adaptor and Python API for plugins
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 516 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ scikit-build/scikit-build-core：scikit-build/scikit-build-core may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 72/100 |
-| outlook | 70/100 |
+| production | 66/100 |
+| outlook | 63/100 |
 | adoption | 56/100 |
 | categoryMatchCount | 600/100 |
 | stars | 58/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 
