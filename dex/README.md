@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [edycutjong/elephant](./edycutjong-elephant.md) | ⭐ — | HTML | 49/100 |
+| 1 | [edycutjong/elephant](./edycutjong-elephant.md) | ⭐ — | HTML | 45/100 |
 
 ---
 

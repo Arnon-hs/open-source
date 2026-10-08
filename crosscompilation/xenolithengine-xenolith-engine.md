@@ -1,6 +1,6 @@
 # XenolithEngine/xenolith-engine
 
-[![Stars](https://img.shields.io/github/stars/XenolithEngine/xenolith-engine?style=flat-square&color=yellow)](https://github.com/XenolithEngine/xenolith-engine/stargazers) [![Forks](https://img.shields.io/github/forks/XenolithEngine/xenolith-engine?style=flat-square&color=blue)](https://github.com/XenolithEngine/xenolith-engine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XenolithEngine/xenolith-engine?style=flat-square&color=yellow)](https://github.com/XenolithEngine/xenolith-engine/stargazers) [![Forks](https://img.shields.io/github/forks/XenolithEngine/xenolith-engine?style=flat-square&color=blue)](https://github.com/XenolithEngine/xenolith-engine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Build C/C++ apps for Linux, Windows, Android & macOS without platform SDKs — Vulkan engine, umbrella libc, libc++ everywhere, and a self-contained toolchains.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ XenolithEngine/xenolith-engine：XenolithEngine/xenolith-engine may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 75/100 |
+| production | 60/100 |
+| outlook | 68/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 900/100 |
 | stars | 26/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

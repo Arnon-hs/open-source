@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38839** |
+| **Projects** | **38841** |
 | **Categories** | **397** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 493 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 446 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
-| 🔐 **Security** | 406 | [Browse →](./security/) |
+| 🔐 **Security** | 407 | [Browse →](./security/) |
 | 🏷️ **Communication** | 402 | [Browse →](./communication/) |
 | 💳 **Payments** | 330 | [Browse →](./payments/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
 | 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 3 | [Browse →](./edge-ai/) |
@@ -126,7 +127,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Quiz** | 2 | [Browse →](./quiz/) |
 | 🏷️ **Notion** | 2 | [Browse →](./notion/) |
 | 🏷️ **Playwright** | 2 | [Browse →](./playwright/) |
-| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Speech-recognition** | 2 | [Browse →](./speech-recognition/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
 | 🏷️ **Rag** | 2 | [Browse →](./rag/) |

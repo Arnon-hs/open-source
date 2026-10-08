@@ -64,18 +64,18 @@ securitycipher/daily-bugbounty-writeups：securitycipher/daily-bugbounty-writeup
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 63/100 |
-| adoption | 38/100 |
-| categoryMatchCount | 200/100 |
-| stars | 44/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 80/100 |
+| adoption | 38/100 |
+| production | 60/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
