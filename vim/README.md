@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [replit/codemirror-vim](./replit-codemirror-vim.md) | ⭐ 473 | JavaScript | 50/100 |
+| 1 | [replit/codemirror-vim](./replit-codemirror-vim.md) | ⭐ 473 | JavaScript | 47/100 |
 
 ---
 

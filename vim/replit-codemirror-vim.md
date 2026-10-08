@@ -1,6 +1,6 @@
 # replit/codemirror-vim
 
-[![Stars](https://img.shields.io/github/stars/replit/codemirror-vim?style=flat-square&color=yellow)](https://github.com/replit/codemirror-vim/stargazers) [![Forks](https://img.shields.io/github/forks/replit/codemirror-vim?style=flat-square&color=blue)](https://github.com/replit/codemirror-vim/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/replit/codemirror-vim?style=flat-square&color=yellow)](https://github.com/replit/codemirror-vim/stargazers) [![Forks](https://img.shields.io/github/forks/replit/codemirror-vim?style=flat-square&color=blue)](https://github.com/replit/codemirror-vim/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Vim keybindings for CM6
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-09-24 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ replit/codemirror-vim：replit/codemirror-vim may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 53/100 |
+| outlook | 55/100 |
 | adoption | 53/100 |
 | categoryMatchCount | 700/100 |
 | stars | 57/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
