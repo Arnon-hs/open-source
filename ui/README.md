@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [behavio1/behavio-context](./behavio1-behavio-context.md) | ⭐ — | Swift | 40/100 |
+| 1 | [microsoft/vscode-copilot](./microsoft-vscode-copilot.md) | ⭐ — | — | 24/100 |
 
 ---
 
