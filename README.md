@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38984** |
-| **Categories** | **397** |
+| **Projects** | **38985** |
+| **Categories** | **396** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -29,7 +29,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🧩 **Orchestration** | 2294 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1373 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 916 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 917 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 660 | [Browse →](./documents/) |
@@ -72,13 +72,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
+| 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **N8n** | 5 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Npm** | 4 | [Browse →](./npm/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
-| 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Offline-first** | 4 | [Browse →](./offline-first/) |
 | 🏷️ **Raspberry-pi** | 4 | [Browse →](./raspberry-pi/) |
@@ -326,7 +326,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rive** | 1 | [Browse →](./rive/) |
 | 🏷️ **Irs** | 1 | [Browse →](./irs/) |
 | 🏷️ **Event-sourcing** | 1 | [Browse →](./event-sourcing/) |
-| 🏷️ **Exam** | 1 | [Browse →](./exam/) |
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
 | 🏷️ **3d** | 1 | [Browse →](./3d/) |
 | 🏷️ **Deployment** | 1 | [Browse →](./deployment/) |

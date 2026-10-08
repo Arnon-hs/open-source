@@ -1,6 +1,6 @@
 # Claven07/dsh-plugin-agent-insights
 
-[![Stars](https://img.shields.io/github/stars/Claven07/dsh-plugin-agent-insights?style=flat-square&color=yellow)](https://github.com/Claven07/dsh-plugin-agent-insights/stargazers) [![Forks](https://img.shields.io/github/forks/Claven07/dsh-plugin-agent-insights?style=flat-square&color=blue)](https://github.com/Claven07/dsh-plugin-agent-insights/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Claven07/dsh-plugin-agent-insights?style=flat-square&color=yellow)](https://github.com/Claven07/dsh-plugin-agent-insights/stargazers) [![Forks](https://img.shields.io/github/forks/Claven07/dsh-plugin-agent-insights?style=flat-square&color=blue)](https://github.com/Claven07/dsh-plugin-agent-insights/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Claven07/dsh-plugin-agent-insights：Claven07/dsh-plugin-agent-insights may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 26/100 |
+| quality | 21/100 |
 | integration | 50/100 |
-| production | 45/100 |
-| outlook | 40/100 |
+| production | 38/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
