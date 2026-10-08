@@ -435,8 +435,8 @@
 | 425 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
 | 426 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ — | — | 42/100 |
 | 427 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 428 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
-| 429 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 428 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 429 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
 | 430 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 431 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 432 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |
