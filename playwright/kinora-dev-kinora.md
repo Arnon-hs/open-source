@@ -1,6 +1,6 @@
 # Kinora-dev/kinora
 
-[![Stars](https://img.shields.io/github/stars/Kinora-dev/kinora?style=flat-square&color=yellow)](https://github.com/Kinora-dev/kinora/stargazers) [![Forks](https://img.shields.io/github/forks/Kinora-dev/kinora?style=flat-square&color=blue)](https://github.com/Kinora-dev/kinora/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kinora-dev/kinora?style=flat-square&color=yellow)](https://github.com/Kinora-dev/kinora/stargazers) [![Forks](https://img.shields.io/github/forks/Kinora-dev/kinora?style=flat-square&color=blue)](https://github.com/Kinora-dev/kinora/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A dashboard for your Playwright reports, across projects and over time
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Kinora-dev/kinora：Kinora-dev/kinora may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 77/100 |
+| production | 61/100 |
+| outlook | 70/100 |
 | adoption | 29/100 |
 | categoryMatchCount | 700/100 |
 | stars | 33/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
