@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38900** |
-| **Categories** | **394** |
+| **Projects** | **38908** |
+| **Categories** | **396** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15135 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4267 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15139 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4268 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2714 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
@@ -53,10 +53,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 100 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 72 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 73 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Offline** | 17 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 18 | [Browse →](./offline/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Open-source** | 14 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 14 | [Browse →](./privacy/) |
@@ -79,7 +79,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Offline-first** | 4 | [Browse →](./offline-first/) |
-| 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Raspberry-pi** | 4 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Android** | 4 | [Browse →](./android/) |
 | 🏷️ **Php** | 4 | [Browse →](./php/) |
@@ -93,6 +92,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Edge-computing** | 3 | [Browse →](./edge-computing/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
+| 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 3 | [Browse →](./edge-ai/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
@@ -165,6 +165,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
+| 🏷️ **Nas** | 1 | [Browse →](./nas/) |
 | 🏷️ **Ui** | 1 | [Browse →](./ui/) |
 | 🏷️ **Architecture** | 1 | [Browse →](./architecture/) |
 | 🏷️ **Console-development** | 1 | [Browse →](./console-development/) |

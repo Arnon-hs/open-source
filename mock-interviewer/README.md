@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yashksaini-coder/grill](./yashksaini-coder-grill.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [yashksaini-coder/grill](./yashksaini-coder-grill.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

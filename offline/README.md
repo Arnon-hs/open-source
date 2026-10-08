@@ -2,7 +2,7 @@
 
 > 
 
-**17 projects** in this category.
+**18 projects** in this category.
 
 ## Projects
 
@@ -22,9 +22,10 @@
 | 12 | [atDnK/edugemma-ai](./atdnk-edugemma-ai.md) | ⭐ — | — | 39/100 |
 | 13 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 36/100 |
 | 14 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
-| 15 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
-| 16 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
-| 17 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
+| 15 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
+| 16 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
+| 17 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
+| 18 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
 
 ---
 
