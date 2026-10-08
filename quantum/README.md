@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vishalhabib99/circuit-claim-check](./vishalhabib99-circuit-claim-check.md) | ⭐ — | Python | 50/100 |
+| 1 | [vishalhabib99/circuit-claim-check](./vishalhabib99-circuit-claim-check.md) | ⭐ — | Python | 47/100 |
 
 ---
 

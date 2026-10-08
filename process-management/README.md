@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hamzahamidi/agentdust](./hamzahamidi-agentdust.md) | ⭐ — | Rust | 63/100 |
+| 1 | [hamzahamidi/agentdust](./hamzahamidi-agentdust.md) | ⭐ — | Rust | 60/100 |
 
 ---
 
