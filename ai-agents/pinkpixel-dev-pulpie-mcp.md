@@ -1,6 +1,6 @@
 # pinkpixel-dev/pulpie-mcp
 
-[![Stars](https://img.shields.io/github/stars/pinkpixel-dev/pulpie-mcp?style=flat-square&color=yellow)](https://github.com/pinkpixel-dev/pulpie-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/pinkpixel-dev/pulpie-mcp?style=flat-square&color=blue)](https://github.com/pinkpixel-dev/pulpie-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pinkpixel-dev/pulpie-mcp?style=flat-square&color=yellow)](https://github.com/pinkpixel-dev/pulpie-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/pinkpixel-dev/pulpie-mcp?style=flat-square&color=blue)](https://github.com/pinkpixel-dev/pulpie-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that turns web pages into clean Markdown, keeping tables, code blocks, and images intact. Agents can fetch pages, save docs to your project or a global library, and crawl whole doc sites.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ pinkpixel-dev/pulpie-mcp：pinkpixel-dev/pulpie-mcp may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 61/100 |
+| outlook | 64/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

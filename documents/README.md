@@ -606,8 +606,8 @@
 | 596 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ — | — | 38/100 |
 | 597 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ — | — | 38/100 |
 | 598 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ — | — | 38/100 |
-| 599 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
-| 600 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ — | — | 38/100 |
+| 599 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ — | — | 38/100 |
+| 600 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
 | 601 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ — | — | 38/100 |
 | 602 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ — | — | 38/100 |
 | 603 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ — | — | 38/100 |
@@ -655,8 +655,8 @@
 | 645 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ — | — | 38/100 |
 | 646 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 647 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 38/100 |
-| 648 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
-| 649 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 648 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 649 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
 | 650 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 651 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |
 | 652 | [eimza-kep/udf2md](./eimza-kep-udf2md.md) | ⭐ — | HTML | 36/100 |

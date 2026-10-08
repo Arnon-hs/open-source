@@ -1,6 +1,6 @@
 # amannn/next-intl
 
-[![Stars](https://img.shields.io/github/stars/amannn/next-intl?style=flat-square&color=yellow)](https://github.com/amannn/next-intl/stargazers) [![Forks](https://img.shields.io/github/forks/amannn/next-intl?style=flat-square&color=blue)](https://github.com/amannn/next-intl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amannn/next-intl?style=flat-square&color=yellow)](https://github.com/amannn/next-intl/stargazers) [![Forks](https://img.shields.io/github/forks/amannn/next-intl?style=flat-square&color=blue)](https://github.com/amannn/next-intl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 Internationalization (i18n) for Next.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 392 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ amannn/next-intl：amannn/next-intl may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 74/100 |
 | categoryMatchCount | 900/100 |
 | stars | 77/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

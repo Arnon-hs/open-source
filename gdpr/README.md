@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [amannn/next-intl](./amannn-next-intl.md) | ⭐ 4.4k | TypeScript | 61/100 |
+| 1 | [amannn/next-intl](./amannn-next-intl.md) | ⭐ 4.4k | TypeScript | 58/100 |
 | 2 | [ovrion/open-next](./ovrion-open-next.md) | ⭐ — | — | 24/100 |
 
 ---

@@ -2,14 +2,15 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [redpanda-data/redpanda-connect](./redpanda-data-redpanda-connect.md) | ⭐ — | — | 24/100 |
-| 2 | [lf-edge/rekuiper](./lf-edge-rekuiper.md) | ⭐ — | — | 24/100 |
+| 1 | [karpathy/tinyllm](./karpathy-tinyllm.md) | ⭐ — | — | 24/100 |
+| 2 | [redpanda-data/redpanda-connect](./redpanda-data-redpanda-connect.md) | ⭐ — | — | 24/100 |
+| 3 | [lf-edge/rekuiper](./lf-edge-rekuiper.md) | ⭐ — | — | 24/100 |
 
 ---
 

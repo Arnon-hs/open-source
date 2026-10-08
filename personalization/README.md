@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [NS007-dev/closet-cue](./ns007-dev-closet-cue.md) | ⭐ — | TypeScript | 45/100 |
+| 1 | [NS007-dev/closet-cue](./ns007-dev-closet-cue.md) | ⭐ — | TypeScript | 41/100 |
 
 ---
 

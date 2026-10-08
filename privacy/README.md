@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [ultralytics/yolov5](./ultralytics-yolov5.md) | ⭐ 58.1k | Python | 70/100 |
-| 2 | [tensorflow/tfjs-models](./tensorflow-tfjs-models.md) | ⭐ 14.8k | TypeScript | 62/100 |
+| 2 | [tensorflow/tfjs-models](./tensorflow-tfjs-models.md) | ⭐ 14.8k | TypeScript | 59/100 |
 | 3 | [MikeKovarik/exifr](./mikekovarik-exifr.md) | ⭐ 1.2k | JavaScript | 58/100 |
 | 4 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 50/100 |
 | 5 | [econovibe/MyHardwareInfo](./econovibe-myhardwareinfo.md) | ⭐ — | Rust | 48/100 |

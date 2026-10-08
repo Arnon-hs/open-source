@@ -1,6 +1,6 @@
 # SheetJS/sheetjs
 
-[![Stars](https://img.shields.io/github/stars/SheetJS/sheetjs?style=flat-square&color=yellow)](https://github.com/SheetJS/sheetjs/stargazers) [![Forks](https://img.shields.io/github/forks/SheetJS/sheetjs?style=flat-square&color=blue)](https://github.com/SheetJS/sheetjs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SheetJS/sheetjs?style=flat-square&color=yellow)](https://github.com/SheetJS/sheetjs/stargazers) [![Forks](https://img.shields.io/github/forks/SheetJS/sheetjs?style=flat-square&color=blue)](https://github.com/SheetJS/sheetjs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.4k |
 | 🍴 **Forks** | 7.9k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ automation · playwright · form-submission · nodejs
 
 ### English
 
-SheetJS/sheetjs: SheetJS/sheetjs may be useful when its README and activity match a concrete workflow.. Use it for automation, playwright, form-submission, nodejs. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SheetJS/sheetjs: SheetJS/sheetjs may be useful when its README and activity match a concrete workflow.. Use it for automation, playwright, form-submission, nodejs. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-SheetJS/sheetjs: open-source проект в категориях automation, playwright, form-submission, nodejs. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+SheetJS/sheetjs: open-source проект в категориях automation, playwright, form-submission, nodejs. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-SheetJS/sheetjs：SheetJS/sheetjs may be useful when its README and activity match a concrete workflow.。适合用于automation、playwright、form-submission、nodejs。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SheetJS/sheetjs：SheetJS/sheetjs may be useful when its README and activity match a concrete workflow.。适合用于automation、playwright、form-submission、nodejs。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SheetJS/sheetjs：SheetJS/sheetjs may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ SheetJS/sheetjs：SheetJS/sheetjs may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 88/100 |
+| production | 70/100 |
+| outlook | 81/100 |
 | adoption | 97/100 |
 | categoryMatchCount | 400/100 |
 | stars | 97/100 |
 | forks | 97/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

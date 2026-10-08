@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [DevAnimecx/jiro](./devanimecx-jiro.md) | ⭐ 3 | Python | 68/100 |
-| 2 | [pinkpixel-dev/pulpie-mcp](./pinkpixel-dev-pulpie-mcp.md) | ⭐ 1 | Python | 68/100 |
+| 2 | [pinkpixel-dev/pulpie-mcp](./pinkpixel-dev-pulpie-mcp.md) | ⭐ 1 | Python | 64/100 |
 | 3 | [brekkylab/ailoy](./brekkylab-ailoy.md) | ⭐ 150 | Rust | 61/100 |
 | 4 | [feyninc/pulpie](./feyninc-pulpie.md) | ⭐ 81 | HTML | 60/100 |
 | 5 | [Jancera/skills](./jancera-skills.md) | ⭐ — | — | 40/100 |
