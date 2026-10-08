@@ -2,7 +2,7 @@
 
 > 
 
-**16 projects** in this category.
+**17 projects** in this category.
 
 ## Projects
 
@@ -16,14 +16,15 @@
 | 6 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 45/100 |
 | 7 | [gabutersproject/touch-grass-sports-ai](./gabutersproject-touch-grass-sports-ai.md) | ⭐ — | Python | 44/100 |
 | 8 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 41/100 |
-| 9 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 39/100 |
-| 10 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 39/100 |
-| 11 | [atDnK/edugemma-ai](./atdnk-edugemma-ai.md) | ⭐ — | — | 39/100 |
-| 12 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 36/100 |
-| 13 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
-| 14 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
-| 15 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
-| 16 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
+| 9 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 39/100 |
+| 10 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 39/100 |
+| 11 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 39/100 |
+| 12 | [atDnK/edugemma-ai](./atdnk-edugemma-ai.md) | ⭐ — | — | 39/100 |
+| 13 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 36/100 |
+| 14 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
+| 15 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
+| 16 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
+| 17 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
 
 ---
 
