@@ -62,18 +62,18 @@ averygan/reclip：averygan/reclip may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 71/100 |
-| adoption | 84/100 |
-| categoryMatchCount | 0/100 |
-| stars | 86/100 |
 | forks | 80/100 |
-| recency | 80/100 |
+| stars | 86/100 |
 | topics | 0/100 |
+| outlook | 71/100 |
+| quality | 68/100 |
+| recency | 80/100 |
+| adoption | 84/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
