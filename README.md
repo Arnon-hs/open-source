@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38841** |
-| **Categories** | **397** |
+| **Projects** | **38845** |
+| **Categories** | **398** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15102 | [Browse →](./misc/) |
+| 📦 **Misc** | 15104 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4261 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2711 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1559 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1368 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1369 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 915 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
@@ -57,15 +57,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
-| 🏷️ **Offline** | 14 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 15 | [Browse →](./offline/) |
 | 🏷️ **Privacy** | 14 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 12 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
-| 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
+| 🏷️ **Local-ai** | 8 | [Browse →](./local-ai/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
@@ -76,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **N8n** | 5 | [Browse →](./n8n/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
+| 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Offline-first** | 4 | [Browse →](./offline-first/) |
 | 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Raspberry-pi** | 4 | [Browse →](./raspberry-pi/) |
@@ -87,7 +88,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
-| 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
 | 🏷️ **Rust** | 3 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 3 | [Browse →](./edge-ai/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
@@ -155,7 +155,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Ai-qa** | 2 | [Browse →](./ai-qa/) |
-| 🏷️ **Synthetic-data** | 2 | [Browse →](./synthetic-data/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
@@ -168,6 +167,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Reactive-ui** | 1 | [Browse →](./reactive-ui/) |
 | 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |
 | 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
 | 🏷️ **Remote-desktop** | 1 | [Browse →](./remote-desktop/) |
@@ -333,6 +333,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Image-editing** | 1 | [Browse →](./image-editing/) |
 | 🏷️ **Developer-os** | 1 | [Browse →](./developer-os/) |
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
+| 🏷️ **Synthetic-data** | 1 | [Browse →](./synthetic-data/) |
 | 🏷️ **Pseudocode** | 1 | [Browse →](./pseudocode/) |
 | 🏷️ **Intent-classification** | 1 | [Browse →](./intent-classification/) |
 | 🏷️ **Sql-server** | 1 | [Browse →](./sql-server/) |

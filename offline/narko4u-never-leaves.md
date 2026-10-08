@@ -1,0 +1,79 @@
+# narko4u/never-leaves
+
+[![Stars](https://img.shields.io/github/stars/narko4u/never-leaves?style=flat-square&color=yellow)](https://github.com/narko4u/never-leaves/stargazers) [![Forks](https://img.shields.io/github/forks/narko4u/never-leaves?style=flat-square&color=blue)](https://github.com/narko4u/never-leaves/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+
+> Draft real documents offline from your own notes, on a local open-weight model, with a no-network guarantee the kernel enforces.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Python |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-10-08 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`documents` `gguf` `llm` `local-first` `offline` `privacy`
+
+## 🎯 Categories
+
+offline · AI · quote drafting · field workers · privacy · local model
+
+## 📝 Summary
+
+### English
+
+narko4u/never-leaves: narko4u/never-leaves may be useful when its README and activity match a concrete workflow.. Use it for offline, AI, quote drafting, field workers, privacy, local model. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+narko4u/never-leaves: open-source проект в категориях offline, AI, quote drafting, field workers, privacy, local model. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+narko4u/never-leaves：narko4u/never-leaves may be useful when its README and activity match a concrete workflow.。适合用于offline、AI、quote drafting、field workers、privacy、local model。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** narko4u/never-leaves may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-10-08
+- primary language: Python
+- 6 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 47/100 |
+| integration | 46/100 |
+| production | 61/100 |
+| outlook | 58/100 |
+| adoption | 0/100 |
+| categoryMatchCount | 600/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 100/100 |
+| topics | 75/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-08 · [View on GitHub](https://github.com/narko4u/never-leaves) · [← Back to Offline](./README.md)</sub>
