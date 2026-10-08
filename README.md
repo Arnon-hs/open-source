@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38833** |
-| **Categories** | **395** |
+| **Projects** | **38837** |
+| **Categories** | **396** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15100 | [Browse →](./misc/) |
+| 📦 **Misc** | 15102 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4261 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2710 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
@@ -46,14 +46,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 💳 **Payments** | 330 | [Browse →](./payments/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 324 | [Browse →](./games--graphics/) |
-| 🏷️ **Productivity** | 311 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 312 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 290 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 197 | [Browse →](./trading/) |
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 98 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 67 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 68 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
@@ -157,7 +157,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-qa** | 2 | [Browse →](./ai-qa/) |
 | 🏷️ **Synthetic-data** | 2 | [Browse →](./synthetic-data/) |
 | 🏷️ **Certification** | 2 | [Browse →](./certification/) |
-| 🏷️ **Decision-models** | 2 | [Browse →](./decision-models/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
@@ -170,6 +169,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
+| 🏷️ **Remote-desktop** | 1 | [Browse →](./remote-desktop/) |
 | 🏷️ **Autofill** | 1 | [Browse →](./autofill/) |
 | 🏷️ **Figma** | 1 | [Browse →](./figma/) |
 | 🏷️ **Terraform** | 1 | [Browse →](./terraform/) |
@@ -336,7 +337,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Intent-classification** | 1 | [Browse →](./intent-classification/) |
 | 🏷️ **Sql-server** | 1 | [Browse →](./sql-server/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
-| 🏷️ **Electron** | 1 | [Browse →](./electron/) |
+| 🏷️ **Decision-models** | 1 | [Browse →](./decision-models/) |
 | 🏷️ **Release-engine** | 1 | [Browse →](./release-engine/) |
 | 🏷️ **Tdee** | 1 | [Browse →](./tdee/) |
 | 🏷️ **Autonomous-coding** | 1 | [Browse →](./autonomous-coding/) |

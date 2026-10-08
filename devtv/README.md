@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shouvik12/devtv](./shouvik12-devtv.md) | ⭐ 25 | HTML | 68/100 |
+| 1 | [shouvik12/devtv](./shouvik12-devtv.md) | ⭐ 25 | HTML | 65/100 |
 
 ---
 

@@ -328,8 +328,8 @@
 | 318 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ — | — | 42/100 |
 | 319 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ — | — | 42/100 |
 | 320 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ — | — | 42/100 |
-| 321 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
-| 322 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 42/100 |
+| 321 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 42/100 |
+| 322 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
 | 323 | [arm/metis](./arm-metis.md) | ⭐ — | — | 42/100 |
 | 324 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 325 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ — | — | 42/100 |
@@ -378,8 +378,8 @@
 | 368 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 369 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ — | — | 38/100 |
 | 370 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 38/100 |
-| 371 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
-| 372 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 371 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 372 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
 | 373 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
 | 374 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ — | — | 38/100 |
 | 375 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
