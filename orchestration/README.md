@@ -2,7 +2,7 @@
 
 > Agent orchestration frameworks (LangGraph, CrewAI, AutoGen, DSPy), long-term memory (Mem0, Letta, Zep), skills & tool-use plugins
 
-**2292 projects** in this category.
+**2293 projects** in this category.
 
 ## Projects
 
@@ -458,8 +458,8 @@
 | 448 | [askimo-ai/askimo](./askimo-ai-askimo.md) | ⭐ 107 | Kotlin | 74/100 |
 | 449 | [illegalstudio/lazyagent](./illegalstudio-lazyagent.md) | ⭐ 151 | Go | 74/100 |
 | 450 | [JIGGAI/ClawRecipes](./jiggai-clawrecipes.md) | ⭐ 99 | TypeScript | 74/100 |
-| 451 | [strands-agents/mcp-server](./strands-agents-mcp-server.md) | ⭐ 280 | Python | 74/100 |
-| 452 | [strands-agents/agent-builder](./strands-agents-agent-builder.md) | ⭐ 409 | Python | 74/100 |
+| 451 | [strands-agents/agent-builder](./strands-agents-agent-builder.md) | ⭐ 409 | Python | 74/100 |
+| 452 | [strands-agents/mcp-server](./strands-agents-mcp-server.md) | ⭐ 280 | Python | 74/100 |
 | 453 | [temporalio/sdk-rust](./temporalio-sdk-rust.md) | ⭐ 458 | Rust | 74/100 |
 | 454 | [yomorun/yomo](./yomorun-yomo.md) | ⭐ 1.9k | Rust | 74/100 |
 | 455 | [kimtth/awesome-azure-openai-llm](./kimtth-awesome-azure-openai-llm.md) | ⭐ 399 | Python | 74/100 |
@@ -495,8 +495,8 @@
 | 485 | [rolecraft-sh/rolecraft](./rolecraft-sh-rolecraft.md) | ⭐ 75 | JavaScript | 73/100 |
 | 486 | [leapmux/leapmux](./leapmux-leapmux.md) | ⭐ 61 | TypeScript | 73/100 |
 | 487 | [towardsai/ai-tutor-app](./towardsai-ai-tutor-app.md) | ⭐ 17 | Python | 73/100 |
-| 488 | [Anurag-Basuri/AI-Based-Exam-Evaluation-System](./anurag-basuri-ai-based-exam-evaluation-system.md) | ⭐ 13 | JavaScript | 73/100 |
-| 489 | [mohd-faizy/Agentic_AI_using_LangGraph](./mohd-faizy-agentic-ai-using-langgraph.md) | ⭐ 47 | Jupyter Notebook | 73/100 |
+| 488 | [mohd-faizy/Agentic_AI_using_LangGraph](./mohd-faizy-agentic-ai-using-langgraph.md) | ⭐ 47 | Jupyter Notebook | 73/100 |
+| 489 | [Anurag-Basuri/AI-Based-Exam-Evaluation-System](./anurag-basuri-ai-based-exam-evaluation-system.md) | ⭐ 13 | JavaScript | 73/100 |
 | 490 | [DennisDRX/Faraday-Web-Researcher-Agent](./dennisdrx-faraday-web-researcher-agent.md) | ⭐ 13 | Python | 73/100 |
 | 491 | [microsoft/markitdown](./microsoft-markitdown.md) | ⭐ 167.2k | Python | 73/100 |
 | 492 | [JetXu-LLM/llama-github](./jetxu-llm-llama-github.md) | ⭐ 291 | Python | 73/100 |
@@ -631,8 +631,8 @@
 | 621 | [islomkhon/CerebrumKit](./islomkhon-cerebrumkit.md) | ⭐ — | Vue | 71/100 |
 | 622 | [soit-ai/soit](./soit-ai-soit.md) | ⭐ 1 | Python | 71/100 |
 | 623 | [ziatdinovmax/SciLink](./ziatdinovmax-scilink.md) | ⭐ 94 | Python | 71/100 |
-| 624 | [martian56/redcell](./martian56-redcell.md) | ⭐ 18 | Python | 71/100 |
-| 625 | [Aryan-Pardeshi/DeepResearch_AI](./aryan-pardeshi-deepresearch-ai.md) | ⭐ 32 | Python | 71/100 |
+| 624 | [Aryan-Pardeshi/DeepResearch_AI](./aryan-pardeshi-deepresearch-ai.md) | ⭐ 32 | Python | 71/100 |
+| 625 | [martian56/redcell](./martian56-redcell.md) | ⭐ 18 | Python | 71/100 |
 | 626 | [scszcoder/eCan.ai](./scszcoder-ecan.ai.md) | ⭐ 16 | Python | 71/100 |
 | 627 | [cosyncing/cosyncing](./cosyncing-cosyncing.md) | ⭐ 13 | TypeScript | 71/100 |
 | 628 | [MoizIbnYousaf/marketing-cli](./moizibnyousaf-marketing-cli.md) | ⭐ 30 | TypeScript | 71/100 |
@@ -650,8 +650,8 @@
 | 640 | [vasilyu1983/AI-Agents-public](./vasilyu1983-ai-agents-public.md) | ⭐ 73 | Python | 71/100 |
 | 641 | [Gald3r-Labs/gald3r](./gald3r-labs-gald3r.md) | ⭐ 23 | — | 71/100 |
 | 642 | [HoussemDellai/ai-course](./houssemdellai-ai-course.md) | ⭐ 40 | Jupyter Notebook | 71/100 |
-| 643 | [Undertone0809/promptulate](./undertone0809-promptulate.md) | ⭐ 512 | Python | 71/100 |
-| 644 | [sina2266/Gozar](./sina2266-gozar.md) | ⭐ 89 | Python | 71/100 |
+| 643 | [sina2266/Gozar](./sina2266-gozar.md) | ⭐ 89 | Python | 71/100 |
+| 644 | [Undertone0809/promptulate](./undertone0809-promptulate.md) | ⭐ 512 | Python | 71/100 |
 | 645 | [IngARodriguez/openapis](./ingarodriguez-openapis.md) | ⭐ 25 | — | 71/100 |
 | 646 | [tridz-dev/huf](./tridz-dev-huf.md) | ⭐ 101 | TypeScript | 71/100 |
 | 647 | [inite-ai/inite-brain-service](./inite-ai-inite-brain-service.md) | ⭐ 31 | TypeScript | 71/100 |
@@ -2281,25 +2281,26 @@
 | 2271 | [jodan-alberts/sokit](./jodan-alberts-sokit.md) | ⭐ — | — | 41/100 |
 | 2272 | [unempyd/odin](./unempyd-odin.md) | ⭐ — | — | 41/100 |
 | 2273 | [kubeswift-io/kubeswift](./kubeswift-io-kubeswift.md) | ⭐ — | — | 41/100 |
-| 2274 | [shubhamkumbhalkar/skills](./shubhamkumbhalkar-skills.md) | ⭐ — | — | 40/100 |
-| 2275 | [CaviraOSS/PageLM](./caviraoss-pagelm.md) | ⭐ — | — | 38/100 |
-| 2276 | [mahadansar/sol-luna-orchestrator](./mahadansar-sol-luna-orchestrator.md) | ⭐ — | — | 38/100 |
-| 2277 | [m18h/kanea](./m18h-kanea.md) | ⭐ — | — | 38/100 |
-| 2278 | [MaximiH-86/GridPulse_Production_Server](./maximih-86-gridpulse-production-server.md) | ⭐ — | — | 38/100 |
-| 2279 | [ZiadAbdelkarim/beat-synced-edit](./ziadabdelkarim-beat-synced-edit.md) | ⭐ — | — | 38/100 |
-| 2280 | [wycliffRotich-dev/aethergrid](./wycliffrotich-dev-aethergrid.md) | ⭐ — | — | 38/100 |
-| 2281 | [scalar-labs/scalardb-saga](./scalar-labs-scalardb-saga.md) | ⭐ — | — | 38/100 |
-| 2282 | [carlosge492/app-generation-microservice](./carlosge492-app-generation-microservice.md) | ⭐ — | — | 38/100 |
-| 2283 | [jdyar/discrete-assembly-sim](./jdyar-discrete-assembly-sim.md) | ⭐ — | — | 38/100 |
-| 2284 | [ss-forge/public-shares](./ss-forge-public-shares.md) | ⭐ — | — | 38/100 |
-| 2285 | [immu4989/dspy-security-bench](./immu4989-dspy-security-bench.md) | ⭐ — | — | 38/100 |
-| 2286 | [JacopoPan/aerial-autonomy-stack](./jacopopan-aerial-autonomy-stack.md) | ⭐ — | — | 38/100 |
-| 2287 | [theramkm/dspyer](./theramkm-dspyer.md) | ⭐ — | — | 38/100 |
-| 2288 | [CarpseDeam/Aura-IDE](./carpsedeam-aura-ide.md) | ⭐ — | — | 38/100 |
-| 2289 | [vystartasv/skill-forge](./vystartasv-skill-forge.md) | ⭐ — | — | 37/100 |
-| 2290 | [crewAI/crewAI](./crewai-crewai.md) | ⭐ — | — | 36/100 |
-| 2291 | [microsoft/autogen](./microsoft-autogen.md) | ⭐ — | — | 32/100 |
-| 2292 | [theoddden/Mandala](./theoddden-mandala.md) | ⭐ — | — | 28/100 |
+| 2274 | [alapha888/agent-skills-en](./alapha888-agent-skills-en.md) | ⭐ — | — | 40/100 |
+| 2275 | [shubhamkumbhalkar/skills](./shubhamkumbhalkar-skills.md) | ⭐ — | — | 40/100 |
+| 2276 | [CaviraOSS/PageLM](./caviraoss-pagelm.md) | ⭐ — | — | 38/100 |
+| 2277 | [mahadansar/sol-luna-orchestrator](./mahadansar-sol-luna-orchestrator.md) | ⭐ — | — | 38/100 |
+| 2278 | [m18h/kanea](./m18h-kanea.md) | ⭐ — | — | 38/100 |
+| 2279 | [MaximiH-86/GridPulse_Production_Server](./maximih-86-gridpulse-production-server.md) | ⭐ — | — | 38/100 |
+| 2280 | [ZiadAbdelkarim/beat-synced-edit](./ziadabdelkarim-beat-synced-edit.md) | ⭐ — | — | 38/100 |
+| 2281 | [wycliffRotich-dev/aethergrid](./wycliffrotich-dev-aethergrid.md) | ⭐ — | — | 38/100 |
+| 2282 | [scalar-labs/scalardb-saga](./scalar-labs-scalardb-saga.md) | ⭐ — | — | 38/100 |
+| 2283 | [carlosge492/app-generation-microservice](./carlosge492-app-generation-microservice.md) | ⭐ — | — | 38/100 |
+| 2284 | [jdyar/discrete-assembly-sim](./jdyar-discrete-assembly-sim.md) | ⭐ — | — | 38/100 |
+| 2285 | [ss-forge/public-shares](./ss-forge-public-shares.md) | ⭐ — | — | 38/100 |
+| 2286 | [immu4989/dspy-security-bench](./immu4989-dspy-security-bench.md) | ⭐ — | — | 38/100 |
+| 2287 | [JacopoPan/aerial-autonomy-stack](./jacopopan-aerial-autonomy-stack.md) | ⭐ — | — | 38/100 |
+| 2288 | [theramkm/dspyer](./theramkm-dspyer.md) | ⭐ — | — | 38/100 |
+| 2289 | [CarpseDeam/Aura-IDE](./carpsedeam-aura-ide.md) | ⭐ — | — | 38/100 |
+| 2290 | [vystartasv/skill-forge](./vystartasv-skill-forge.md) | ⭐ — | — | 37/100 |
+| 2291 | [crewAI/crewAI](./crewai-crewai.md) | ⭐ — | — | 36/100 |
+| 2292 | [microsoft/autogen](./microsoft-autogen.md) | ⭐ — | — | 32/100 |
+| 2293 | [theoddden/Mandala](./theoddden-mandala.md) | ⭐ — | — | 28/100 |
 
 ---
 
