@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [osmanahmadxai/agent-derby](./osmanahmadxai-agent-derby.md) | ⭐ — | TypeScript | 63/100 |
+| 1 | [osmanahmadxai/agent-derby](./osmanahmadxai-agent-derby.md) | ⭐ — | TypeScript | 60/100 |
 
 ---
 

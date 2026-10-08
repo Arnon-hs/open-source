@@ -17,8 +17,8 @@
 | 7 | [Bangkah/CRM-Automation-System](./bangkah-crm-automation-system.md) | ⭐ 1 | Go | 44/100 |
 | 8 | [sohamsakhare76-ai/findit-ai](./sohamsakhare76-ai-findit-ai.md) | ⭐ — | Python | 42/100 |
 | 9 | [chanduchowdary-27/privacy-offer-check](./chanduchowdary-27-privacy-offer-check.md) | ⭐ — | TypeScript | 39/100 |
-| 10 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 36/100 |
-| 11 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |
+| 10 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |
+| 11 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 33/100 |
 | 12 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 33/100 |
 | 13 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 33/100 |
 | 14 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
