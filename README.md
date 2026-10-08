@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38925** |
+| **Projects** | **38928** |
 | **Categories** | **395** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15149 | [Browse →](./misc/) |
+| 📦 **Misc** | 15150 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4270 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2714 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2290 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1372 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 916 | [Browse →](./backend/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 197 | [Browse →](./trading/) |
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 137 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 100 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 101 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 73 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
@@ -164,6 +164,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Local-security** | 1 | [Browse →](./local-security/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Nas** | 1 | [Browse →](./nas/) |
 | 🏷️ **Ui** | 1 | [Browse →](./ui/) |
@@ -332,7 +333,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Live-streaming** | 1 | [Browse →](./live-streaming/) |
 | 🏷️ **Alexa** | 1 | [Browse →](./alexa/) |
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
-| 🏷️ **Hermes** | 1 | [Browse →](./hermes/) |
 | 🏷️ **Static-analysis** | 1 | [Browse →](./static-analysis/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |

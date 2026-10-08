@@ -65,18 +65,18 @@ cc1a2b/PenHunter：cc1a2b/PenHunter helps catch security and privacy issues earl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 53/100 |
-| adoption | 29/100 |
-| categoryMatchCount | 100/100 |
-| stars | 32/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 48/100 |
+| recency | 40/100 |
+| adoption | 29/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

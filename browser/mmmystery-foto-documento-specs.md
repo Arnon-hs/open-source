@@ -1,6 +1,6 @@
 # MMMystery/foto-documento-specs
 
-[![Stars](https://img.shields.io/github/stars/MMMystery/foto-documento-specs?style=flat-square&color=yellow)](https://github.com/MMMystery/foto-documento-specs/stargazers) [![Forks](https://img.shields.io/github/forks/MMMystery/foto-documento-specs?style=flat-square&color=blue)](https://github.com/MMMystery/foto-documento-specs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MMMystery/foto-documento-specs?style=flat-square&color=yellow)](https://github.com/MMMystery/foto-documento-specs/stargazers) [![Forks](https://img.shields.io/github/forks/MMMystery/foto-documento-specs?style=flat-square&color=blue)](https://github.com/MMMystery/foto-documento-specs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Medidas oficiais de foto 3x4, passaporte 5x7, visto EUA/Canadá/Schengen em JSON + recorte no navegador (MediaPipe). Usado em fotoapta.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ MMMystery/foto-documento-specs：MMMystery/foto-documento-specs may be useful wh
 - primary language: JavaScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
