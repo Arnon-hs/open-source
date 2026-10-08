@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tarunkkumarsahu/tarun-portfolio](./tarunkkumarsahu-tarun-portfolio.md) | ⭐ — | HTML | 39/100 |
+| 1 | [tarunkkumarsahu/tarun-portfolio](./tarunkkumarsahu-tarun-portfolio.md) | ⭐ — | HTML | 36/100 |
 
 ---
 
