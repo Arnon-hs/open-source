@@ -1,6 +1,6 @@
 # SertaCanbey/IDSignal
 
-[![Stars](https://img.shields.io/github/stars/SertaCanbey/IDSignal?style=flat-square&color=yellow)](https://github.com/SertaCanbey/IDSignal/stargazers) [![Forks](https://img.shields.io/github/forks/SertaCanbey/IDSignal?style=flat-square&color=blue)](https://github.com/SertaCanbey/IDSignal/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SertaCanbey/IDSignal?style=flat-square&color=yellow)](https://github.com/SertaCanbey/IDSignal/stargazers) [![Forks](https://img.shields.io/github/forks/SertaCanbey/IDSignal?style=flat-square&color=blue)](https://github.com/SertaCanbey/IDSignal/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Microsoft Entra Security Analyzer. Local, privacy-first, and fast. Detect password spray campaigns and weak MFA configurations with zero cloud dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Microsoft Entra ID · Azure AD · Password Spray · MFA · Open Source · Local 
 
 ### English
 
-SertaCanbey/IDSignal: SertaCanbey/IDSignal may be useful when its README and activity match a concrete workflow.. Use it for Microsoft Entra ID, Azure AD, Password Spray, MFA, Open Source, Local Security, Docker. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SertaCanbey/IDSignal: SertaCanbey/IDSignal may be useful when its README and activity match a concrete workflow.. Use it for Microsoft Entra ID, Azure AD, Password Spray, MFA, Open Source, Local Security, Docker. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-SertaCanbey/IDSignal: open-source проект в категориях Microsoft Entra ID, Azure AD, Password Spray, MFA, Open Source, Local Security, Docker. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SertaCanbey/IDSignal: open-source проект в категориях Microsoft Entra ID, Azure AD, Password Spray, MFA, Open Source, Local Security, Docker. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-SertaCanbey/IDSignal：SertaCanbey/IDSignal may be useful when its README and activity match a concrete workflow.。适合用于Microsoft Entra ID、Azure AD、Password Spray、MFA、Open Source、Local Security、Docker。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SertaCanbey/IDSignal：SertaCanbey/IDSignal may be useful when its README and activity match a concrete workflow.。适合用于Microsoft Entra ID、Azure AD、Password Spray、MFA、Open Source、Local Security、Docker。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SertaCanbey/IDSignal：SertaCanbey/IDSignal may be useful when its README and ac
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ SertaCanbey/IDSignal：SertaCanbey/IDSignal may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 52/100 |
+| production | 49/100 |
+| outlook | 45/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

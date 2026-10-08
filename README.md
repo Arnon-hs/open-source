@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38827** |
+| **Projects** | **38830** |
 | **Categories** | **395** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15095 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4260 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15097 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4261 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2710 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2289 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1559 | [Browse →](./devtools/) |
@@ -110,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Node** | 2 | [Browse →](./node/) |
 | 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Pdf-redaction** | 2 | [Browse →](./pdf-redaction/) |
 | 🏷️ **Java** | 2 | [Browse →](./java/) |
@@ -157,7 +158,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Synthetic-data** | 2 | [Browse →](./synthetic-data/) |
 | 🏷️ **Certification** | 2 | [Browse →](./certification/) |
 | 🏷️ **Decision-models** | 2 | [Browse →](./decision-models/) |
-| 🏷️ **Flashcards** | 2 | [Browse →](./flashcards/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |

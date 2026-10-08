@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 40/100 |
+| 1 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 
 ---
 
