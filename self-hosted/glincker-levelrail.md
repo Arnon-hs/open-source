@@ -1,6 +1,6 @@
 # glincker/levelrail
 
-[![Stars](https://img.shields.io/github/stars/glincker/levelrail?style=flat-square&color=yellow)](https://github.com/glincker/levelrail/stargazers) [![Forks](https://img.shields.io/github/forks/glincker/levelrail?style=flat-square&color=blue)](https://github.com/glincker/levelrail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glincker/levelrail?style=flat-square&color=yellow)](https://github.com/glincker/levelrail/stargazers) [![Forks](https://img.shields.io/github/forks/glincker/levelrail?style=flat-square&color=blue)](https://github.com/glincker/levelrail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted deployment platform: push to git, get a running app with TLS, logs, metrics, and rollback.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ glincker/levelrail：glincker/levelrail may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 67/100 |
+| production | 61/100 |
+| outlook | 60/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 800/100 |
 | stars | 17/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
