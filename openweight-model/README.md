@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JonathanSolvesProblems/nature-bingo](./jonathansolvesproblems-nature-bingo.md) | ⭐ — | Python | 50/100 |
+| 1 | [JonathanSolvesProblems/nature-bingo](./jonathansolvesproblems-nature-bingo.md) | ⭐ — | Python | 47/100 |
 
 ---
 

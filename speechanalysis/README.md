@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JayPokale/podium](./jaypokale-podium.md) | ⭐ — | Python | 47/100 |
+| 1 | [JayPokale/podium](./jaypokale-podium.md) | ⭐ — | Python | 44/100 |
 
 ---
 

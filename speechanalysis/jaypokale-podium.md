@@ -1,6 +1,6 @@
 # JayPokale/podium
 
-[![Stars](https://img.shields.io/github/stars/JayPokale/podium?style=flat-square&color=yellow)](https://github.com/JayPokale/podium/stargazers) [![Forks](https://img.shields.io/github/forks/JayPokale/podium?style=flat-square&color=blue)](https://github.com/JayPokale/podium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JayPokale/podium?style=flat-square&color=yellow)](https://github.com/JayPokale/podium/stargazers) [![Forks](https://img.shields.io/github/forks/JayPokale/podium?style=flat-square&color=blue)](https://github.com/JayPokale/podium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Contrastive speech delivery analytics: find exactly where a delivery drifts from a great speech, and why. Multimodal AI Hackathon 2026, Track C.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ JayPokale/podium：JayPokale/podium may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
