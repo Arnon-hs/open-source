@@ -1,6 +1,6 @@
 # lianmatsuo/remcycle
 
-[![Stars](https://img.shields.io/github/stars/lianmatsuo/remcycle?style=flat-square&color=yellow)](https://github.com/lianmatsuo/remcycle/stargazers) [![Forks](https://img.shields.io/github/forks/lianmatsuo/remcycle?style=flat-square&color=blue)](https://github.com/lianmatsuo/remcycle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lianmatsuo/remcycle?style=flat-square&color=yellow)](https://github.com/lianmatsuo/remcycle/stargazers) [![Forks](https://img.shields.io/github/forks/lianmatsuo/remcycle?style=flat-square&color=blue)](https://github.com/lianmatsuo/remcycle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Garbage collection for Claude Code's memory. A mod that rereads your sessions every day, keeps what you decided, and questions the notes that have gone stale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ lianmatsuo/remcycle：lianmatsuo/remcycle may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 100/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 65/100 |
+| outlook | 64/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 400/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
