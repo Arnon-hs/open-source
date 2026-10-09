@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39032** |
-| **Categories** | **394** |
+| **Projects** | **39038** |
+| **Categories** | **395** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15206 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4278 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15208 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4280 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2718 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2300 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1562 | [Browse →](./devtools/) |
@@ -58,7 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 20 | [Browse →](./offline/) |
 | 🏷️ **Privacy** | 16 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 15 | [Browse →](./llm/) |
 | 🏷️ **Open-source** | 14 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
@@ -89,6 +89,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
@@ -167,6 +168,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
 | 🏷️ **Data-quality** | 1 | [Browse →](./data-quality/) |
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
@@ -320,7 +322,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Trading-bot** | 1 | [Browse →](./trading-bot/) |
 | 🏷️ **Social-media** | 1 | [Browse →](./social-media/) |
 | 🏷️ **Gpu-rental** | 1 | [Browse →](./gpu-rental/) |
-| 🏷️ **Ai-education** | 1 | [Browse →](./ai-education/) |
 | 🏷️ **Atlassian** | 1 | [Browse →](./atlassian/) |
 | 🏷️ **Smart-home** | 1 | [Browse →](./smart-home/) |
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
