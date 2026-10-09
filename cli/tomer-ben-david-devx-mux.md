@@ -1,6 +1,6 @@
 # tomer-ben-david/devx-mux
 
-[![Stars](https://img.shields.io/github/stars/tomer-ben-david/devx-mux?style=flat-square&color=yellow)](https://github.com/tomer-ben-david/devx-mux/stargazers) [![Forks](https://img.shields.io/github/forks/tomer-ben-david/devx-mux?style=flat-square&color=blue)](https://github.com/tomer-ben-david/devx-mux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tomer-ben-david/devx-mux?style=flat-square&color=yellow)](https://github.com/tomer-ben-david/devx-mux/stargazers) [![Forks](https://img.shields.io/github/forks/tomer-ben-david/devx-mux?style=flat-square&color=blue)](https://github.com/tomer-ben-david/devx-mux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Your engineering crew for AI-written code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-25 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ CLI · Desktop · AI · Workflow · ChatGPT · devx-mux
 
 ### English
 
-tomer-ben-david/devx-mux: tomer-ben-david/devx-mux may be useful when its README and activity match a concrete workflow.. Use it for CLI, Desktop, AI, Workflow, ChatGPT, devx-mux. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tomer-ben-david/devx-mux: tomer-ben-david/devx-mux may be useful when its README and activity match a concrete workflow.. Use it for CLI, Desktop, AI, Workflow, ChatGPT, devx-mux. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-tomer-ben-david/devx-mux: open-source проект в категориях CLI, Desktop, AI, Workflow, ChatGPT, devx-mux. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+tomer-ben-david/devx-mux: open-source проект в категориях CLI, Desktop, AI, Workflow, ChatGPT, devx-mux. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-tomer-ben-david/devx-mux：tomer-ben-david/devx-mux may be useful when its README and activity match a concrete workflow.。适合用于CLI、Desktop、AI、Workflow、ChatGPT、devx-mux。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tomer-ben-david/devx-mux：tomer-ben-david/devx-mux may be useful when its README and activity match a concrete workflow.。适合用于CLI、Desktop、AI、Workflow、ChatGPT、devx-mux。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ tomer-ben-david/devx-mux：tomer-ben-david/devx-mux may be useful when its READM
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ tomer-ben-david/devx-mux：tomer-ben-david/devx-mux may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 47/100 |
+| outlook | 45/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
