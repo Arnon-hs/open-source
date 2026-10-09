@@ -1,6 +1,6 @@
 # Linchevatel/hyperion-browser
 
-[![Stars](https://img.shields.io/github/stars/Linchevatel/hyperion-browser?style=flat-square&color=yellow)](https://github.com/Linchevatel/hyperion-browser/stargazers) [![Forks](https://img.shields.io/github/forks/Linchevatel/hyperion-browser?style=flat-square&color=blue)](https://github.com/Linchevatel/hyperion-browser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Linchevatel/hyperion-browser?style=flat-square&color=yellow)](https://github.com/Linchevatel/hyperion-browser/stargazers) [![Forks](https://img.shields.io/github/forks/Linchevatel/hyperion-browser?style=flat-square&color=blue)](https://github.com/Linchevatel/hyperion-browser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Hyperion Anti-Detect Multibrowser with C++ Kernel-Level Fingerprint Modification
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Linchevatel/hyperion-browser：Linchevatel/hyperion-browser may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 53/100 |
+| production | 50/100 |
+| outlook | 46/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 600/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

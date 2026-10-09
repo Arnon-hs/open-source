@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Linchevatel/hyperion-browser](./linchevatel-hyperion-browser.md) | ⭐ 4 | JavaScript | 41/100 |
+| 1 | [Linchevatel/hyperion-browser](./linchevatel-hyperion-browser.md) | ⭐ 4 | JavaScript | 38/100 |
 
 ---
 
