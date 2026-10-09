@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [encode/httpx](./encode-httpx.md) | ⭐ 15.5k | Python | 72/100 |
+| 1 | [encode/httpx](./encode-httpx.md) | ⭐ 15.5k | Python | 69/100 |
 
 ---
 
