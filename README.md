@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38994** |
-| **Categories** | **396** |
+| **Projects** | **38998** |
+| **Categories** | **394** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15184 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4275 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2717 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2294 | [Browse →](./orchestration/) |
+| 📦 **Misc** | 15187 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4276 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2718 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2295 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1373 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 917 | [Browse →](./backend/) |
@@ -106,10 +106,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Bash** | 3 | [Browse →](./bash/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Vue** | 3 | [Browse →](./vue/) |
-| 🏷️ **Agent-orchestration** | 3 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Jax** | 2 | [Browse →](./jax/) |
 | 🏷️ **Mobile-ai** | 2 | [Browse →](./mobile-ai/) |
 | 🏷️ **Career-change** | 2 | [Browse →](./career-change/) |
@@ -164,6 +164,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Resume** | 2 | [Browse →](./resume/) |
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
+| 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
@@ -324,8 +325,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Digital-wellness** | 1 | [Browse →](./digital-wellness/) |
 | 🏷️ **Atlassian** | 1 | [Browse →](./atlassian/) |
 | 🏷️ **Smart-home** | 1 | [Browse →](./smart-home/) |
-| 🏷️ **Rive** | 1 | [Browse →](./rive/) |
-| 🏷️ **Irs** | 1 | [Browse →](./irs/) |
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
 | 🏷️ **3d** | 1 | [Browse →](./3d/) |
 | 🏷️ **Deployment** | 1 | [Browse →](./deployment/) |
@@ -384,7 +383,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Igaming** | 1 | [Browse →](./igaming/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
-| 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Ai-coding** | 1 | [Browse →](./ai-coding/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
