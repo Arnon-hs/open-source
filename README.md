@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38998** |
-| **Categories** | **394** |
+| **Projects** | **39004** |
+| **Categories** | **395** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15187 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4276 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15190 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4277 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2718 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2295 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1373 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1374 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 917 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
@@ -53,13 +53,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 138 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 101 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 72 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 73 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 20 | [Browse →](./offline/) |
 | 🏷️ **Privacy** | 16 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
-| 🏷️ **Open-source** | 15 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 14 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 12 | [Browse →](./local-first/) |
@@ -169,6 +169,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Tender** | 1 | [Browse →](./tender/) |
 | 🏷️ **Offline-ai** | 1 | [Browse →](./offline-ai/) |
 | 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
 | 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |
