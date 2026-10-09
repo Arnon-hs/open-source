@@ -1,6 +1,6 @@
 # econovibe/MyHardwareInfo
 
-[![Stars](https://img.shields.io/github/stars/econovibe/MyHardwareInfo?style=flat-square&color=yellow)](https://github.com/econovibe/MyHardwareInfo/stargazers) [![Forks](https://img.shields.io/github/forks/econovibe/MyHardwareInfo?style=flat-square&color=blue)](https://github.com/econovibe/MyHardwareInfo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/econovibe/MyHardwareInfo?style=flat-square&color=yellow)](https://github.com/econovibe/MyHardwareInfo/stargazers) [![Forks](https://img.shields.io/github/forks/econovibe/MyHardwareInfo?style=flat-square&color=blue)](https://github.com/econovibe/MyHardwareInfo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Offline, privacy-first hardware inspector for Windows, Linux, and macOS, built with Rust and egui/eframe. CPU, GPU, RAM, motherboard, storage, network and OS information. No telemetry.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ econovibe/MyHardwareInfo：econovibe/MyHardwareInfo may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
