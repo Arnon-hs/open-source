@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ashwarsadh/relaymote](./ashwarsadh-relaymote.md) | ⭐ — | JavaScript | 63/100 |
+| 1 | [ashwarsadh/relaymote](./ashwarsadh-relaymote.md) | ⭐ — | JavaScript | 60/100 |
 
 ---
 
