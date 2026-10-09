@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [j-a-y-e-s-h/mangabar](./j-a-y-e-s-h-mangabar.md) | ⭐ 2 | TypeScript | 49/100 |
+| 1 | [j-a-y-e-s-h/mangabar](./j-a-y-e-s-h-mangabar.md) | ⭐ 2 | TypeScript | 46/100 |
 
 ---
 

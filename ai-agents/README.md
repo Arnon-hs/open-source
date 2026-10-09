@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Bees-bot/bees-desktop](./bees-bot-bees-desktop.md) | ⭐ 13 | JavaScript | 68/100 |
-| 2 | [DevAnimecx/jiro](./devanimecx-jiro.md) | ⭐ 3 | Python | 68/100 |
-| 3 | [pinkpixel-dev/pulpie-mcp](./pinkpixel-dev-pulpie-mcp.md) | ⭐ 1 | Python | 64/100 |
-| 4 | [brekkylab/ailoy](./brekkylab-ailoy.md) | ⭐ 150 | Rust | 61/100 |
+| 1 | [CIRVIX/agent-control](./cirvix-agent-control.md) | ⭐ 1 | JavaScript | 71/100 |
+| 2 | [Bees-bot/bees-desktop](./bees-bot-bees-desktop.md) | ⭐ 13 | JavaScript | 68/100 |
+| 3 | [DevAnimecx/jiro](./devanimecx-jiro.md) | ⭐ 3 | Python | 68/100 |
+| 4 | [pinkpixel-dev/pulpie-mcp](./pinkpixel-dev-pulpie-mcp.md) | ⭐ 1 | Python | 64/100 |
 | 5 | [feyninc/pulpie](./feyninc-pulpie.md) | ⭐ 81 | HTML | 60/100 |
 | 6 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
 | 7 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 36/100 |

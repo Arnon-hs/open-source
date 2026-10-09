@@ -1,6 +1,6 @@
 # crossplane-contrib/provider-aws
 
-[![Stars](https://img.shields.io/github/stars/crossplane-contrib/provider-aws?style=flat-square&color=yellow)](https://github.com/crossplane-contrib/provider-aws/stargazers) [![Forks](https://img.shields.io/github/forks/crossplane-contrib/provider-aws?style=flat-square&color=blue)](https://github.com/crossplane-contrib/provider-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crossplane-contrib/provider-aws?style=flat-square&color=yellow)](https://github.com/crossplane-contrib/provider-aws/stargazers) [![Forks](https://img.shields.io/github/forks/crossplane-contrib/provider-aws?style=flat-square&color=blue)](https://github.com/crossplane-contrib/provider-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Crossplane AWS Provider
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 495 |
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ crossplane-contrib/provider-aws：crossplane-contrib/provider-aws may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 60/100 |
+| outlook | 58/100 |
 | adoption | 60/100 |
 | categoryMatchCount | 800/100 |
 | stars | 57/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

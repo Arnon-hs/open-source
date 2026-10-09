@@ -18,10 +18,10 @@
 | 8 | [dictionary-beep/Model-AI-free-low-cost](./dictionary-beep-model-ai-free-low-cost.md) | ⭐ 1 | — | 57/100 |
 | 9 | [beausterling/drip-ai-water-usage](./beausterling-drip-ai-water-usage.md) | ⭐ 1 | Python | 56/100 |
 | 10 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
-| 11 | [Pryxor/pryxor](./pryxor-pryxor.md) | ⭐ 1 | Python | 52/100 |
-| 12 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 51/100 |
-| 13 | [zhx842htt/devspend](./zhx842htt-devspend.md) | ⭐ — | JavaScript | 51/100 |
-| 14 | [helgard-orlm/sanity-ai-hardware-advisor](./helgard-orlm-sanity-ai-hardware-advisor.md) | ⭐ — | Python | 51/100 |
+| 11 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 51/100 |
+| 12 | [zhx842htt/devspend](./zhx842htt-devspend.md) | ⭐ — | JavaScript | 51/100 |
+| 13 | [helgard-orlm/sanity-ai-hardware-advisor](./helgard-orlm-sanity-ai-hardware-advisor.md) | ⭐ — | Python | 51/100 |
+| 14 | [Pryxor/pryxor](./pryxor-pryxor.md) | ⭐ 1 | Python | 48/100 |
 | 15 | [chourasiavinit9-dev/framework-magnifier](./chourasiavinit9-dev-framework-magnifier.md) | ⭐ — | Python | 47/100 |
 | 16 | [Golovenkov79/ely-agent-input-preflight](./golovenkov79-ely-agent-input-preflight.md) | ⭐ — | Python | 46/100 |
 | 17 | [sopkits/knowledge-freshness-audit](./sopkits-knowledge-freshness-audit.md) | ⭐ — | — | 44/100 |

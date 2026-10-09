@@ -2,17 +2,16 @@
 
 > 
 
-**5 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [rajj28/verdict](./rajj28-verdict.md) | ⭐ — | Python | 39/100 |
-| 2 | [AryanSaxenaa/raptors](./aryansaxenaa-raptors.md) | ⭐ — | Python | 39/100 |
-| 3 | [Africa-Deep-Tech-Foundation/adtc-profiler](./africa-deep-tech-foundation-adtc-profiler.md) | ⭐ 22 | Python | 38/100 |
-| 4 | [Avi36005/DogFood-2026](./avi36005-dogfood-2026.md) | ⭐ — | TypeScript | 36/100 |
-| 5 | [rajpriyanid-creator/dogfood](./rajpriyanid-creator-dogfood.md) | ⭐ — | Python | 36/100 |
+| 2 | [Africa-Deep-Tech-Foundation/adtc-profiler](./africa-deep-tech-foundation-adtc-profiler.md) | ⭐ 22 | Python | 38/100 |
+| 3 | [Avi36005/DogFood-2026](./avi36005-dogfood-2026.md) | ⭐ — | TypeScript | 36/100 |
+| 4 | [rajpriyanid-creator/dogfood](./rajpriyanid-creator-dogfood.md) | ⭐ — | Python | 36/100 |
 
 ---
 
