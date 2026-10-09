@@ -1,6 +1,6 @@
 # radityajay/notionctl
 
-[![Stars](https://img.shields.io/github/stars/radityajay/notionctl?style=flat-square&color=yellow)](https://github.com/radityajay/notionctl/stargazers) [![Forks](https://img.shields.io/github/forks/radityajay/notionctl?style=flat-square&color=blue)](https://github.com/radityajay/notionctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radityajay/notionctl?style=flat-square&color=yellow)](https://github.com/radityajay/notionctl/stargazers) [![Forks](https://img.shields.io/github/forks/radityajay/notionctl?style=flat-square&color=blue)](https://github.com/radityajay/notionctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative Notion database management. Define databases in YAML, sync to Notion with one command.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ radityajay/notionctl：radityajay/notionctl may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 8/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
