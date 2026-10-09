@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [IshlokDwivedi-coder/AQI_System](./ishlokdwivedi-coder-aqi-system.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [IshlokDwivedi-coder/AQI_System](./ishlokdwivedi-coder-aqi-system.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 
