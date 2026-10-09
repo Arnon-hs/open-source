@@ -1,6 +1,6 @@
 # DhanushNehru/trialnote
 
-[![Stars](https://img.shields.io/github/stars/DhanushNehru/trialnote?style=flat-square&color=yellow)](https://github.com/DhanushNehru/trialnote/stargazers) [![Forks](https://img.shields.io/github/forks/DhanushNehru/trialnote?style=flat-square&color=blue)](https://github.com/DhanushNehru/trialnote/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DhanushNehru/trialnote?style=flat-square&color=yellow)](https://github.com/DhanushNehru/trialnote/stargazers) [![Forks](https://img.shields.io/github/forks/DhanushNehru/trialnote?style=flat-square&color=blue)](https://github.com/DhanushNehru/trialnote/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Offline photo guesser for birds and plants using an open-weight CLIP model. Local CLI, no API key.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ DhanushNehru/trialnote：DhanushNehru/trialnote may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 67/100 |
+| production | 61/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

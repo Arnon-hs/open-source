@@ -1,6 +1,6 @@
 # mahdyaralipor/parsidate
 
-[![Stars](https://img.shields.io/github/stars/mahdyaralipor/parsidate?style=flat-square&color=yellow)](https://github.com/mahdyaralipor/parsidate/stargazers) [![Forks](https://img.shields.io/github/forks/mahdyaralipor/parsidate?style=flat-square&color=blue)](https://github.com/mahdyaralipor/parsidate/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahdyaralipor/parsidate?style=flat-square&color=yellow)](https://github.com/mahdyaralipor/parsidate/stargazers) [![Forks](https://img.shields.io/github/forks/mahdyaralipor/parsidate?style=flat-square&color=blue)](https://github.com/mahdyaralipor/parsidate/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, zero-dependency PHP library for Jalali (Shamsi) date and time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ mahdyaralipor/parsidate：mahdyaralipor/parsidate may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 800/100 |
 | stars | 21/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

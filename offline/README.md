@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [SYSTRAN/faster-whisper](./systran-faster-whisper.md) | ⭐ 25.7k | Python | 68/100 |
 | 2 | [birdnet-team/BirdNET-Analyzer](./birdnet-team-birdnet-analyzer.md) | ⭐ 1.7k | Python | 65/100 |
-| 3 | [DhanushNehru/trialnote](./dhanushnehru-trialnote.md) | ⭐ — | Python | 62/100 |
+| 3 | [DhanushNehru/trialnote](./dhanushnehru-trialnote.md) | ⭐ — | Python | 59/100 |
 | 4 | [sffjunkie/astral](./sffjunkie-astral.md) | ⭐ 290 | Python | 55/100 |
 | 5 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 46/100 |
 | 6 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 45/100 |
