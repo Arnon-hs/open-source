@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · soak test · load testing · k6 · docker · ci · performance
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ atul121001/mcpload: atul121001/mcpload helps connect AI assistants to real tools
 
 ### Русский
 
-atul121001/mcpload: open-source проект в категориях MCP, soak test, load testing, k6, docker, ci, performance. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+atul121001/mcpload: open-source проект в категориях MCP, AI/ML, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ atul121001/mcpload：atul121001/mcpload helps connect AI assistants to real tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 60/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 700/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ABBAS1947/cricino](./abbas1947-cricino.md) | ⭐ 1 | Python | 51/100 |
+| 1 | [ABBAS1947/cricino](./abbas1947-cricino.md) | ⭐ 1 | Python | 47/100 |
 
 ---
 

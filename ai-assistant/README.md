@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [praveen-pravi6B/MailMate](./praveen-pravi6b-mailmate.md) | ⭐ — | Python | 49/100 |
+| 1 | [praveen-pravi6B/MailMate](./praveen-pravi6b-mailmate.md) | ⭐ — | Python | 46/100 |
 
 ---
 

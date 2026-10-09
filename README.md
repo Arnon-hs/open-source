@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39120** |
+| **Projects** | **39124** |
 | **Categories** | **395** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15254 | [Browse →](./misc/) |
+| 📦 **Misc** | 15257 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4287 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2719 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2302 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2303 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1563 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1372 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 920 | [Browse →](./backend/) |
@@ -115,6 +115,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Browser-automation** | 2 | [Browse →](./browser-automation/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
@@ -125,7 +126,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-security** | 2 | [Browse →](./ai-security/) |
 | 🏷️ **Node** | 2 | [Browse →](./node/) |
 | 🏷️ **Pdf-redaction** | 2 | [Browse →](./pdf-redaction/) |
-| 🏷️ **Java** | 2 | [Browse →](./java/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Family** | 2 | [Browse →](./family/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
@@ -169,6 +169,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Hotel-distribution** | 1 | [Browse →](./hotel-distribution/) |
 | 🏷️ **Rate-limiting** | 1 | [Browse →](./rate-limiting/) |
 | 🏷️ **Air-gapped** | 1 | [Browse →](./air-gapped/) |
 | 🏷️ **Mindfulness** | 1 | [Browse →](./mindfulness/) |
@@ -214,6 +215,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Microsoft-entra-id** | 1 | [Browse →](./microsoft-entra-id/) |
 | 🏷️ **Hotel** | 1 | [Browse →](./hotel/) |
 | 🏷️ **Compiler** | 1 | [Browse →](./compiler/) |
+| 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Oidc** | 1 | [Browse →](./oidc/) |
 | 🏷️ **Mysql** | 1 | [Browse →](./mysql/) |
 | 🏷️ **Post-quantum** | 1 | [Browse →](./post-quantum/) |
@@ -317,8 +319,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Budgeting** | 1 | [Browse →](./budgeting/) |
 | 🏷️ **Research** | 1 | [Browse →](./research/) |
 | 🏷️ **Go** | 1 | [Browse →](./go/) |
-| 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
-| 🏷️ **Google-drive** | 1 | [Browse →](./google-drive/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
