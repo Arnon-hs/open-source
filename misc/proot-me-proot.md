@@ -63,18 +63,18 @@ proot-me/proot：proot-me/proot may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 78/100 |
-| integration | 30/100 |
-| production | 66/100 |
-| outlook | 71/100 |
-| adoption | 71/100 |
-| categoryMatchCount | 0/100 |
-| stars | 73/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
+| adoption | 71/100 |
+| production | 66/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
