@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [angelraph/touch-grass-not-glass](./angelraph-touch-grass-not-glass.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [angelraph/touch-grass-not-glass](./angelraph-touch-grass-not-glass.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
