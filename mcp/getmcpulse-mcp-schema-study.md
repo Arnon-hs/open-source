@@ -1,6 +1,6 @@
 # getmcpulse/mcp-schema-study
 
-[![Stars](https://img.shields.io/github/stars/getmcpulse/mcp-schema-study?style=flat-square&color=yellow)](https://github.com/getmcpulse/mcp-schema-study/stargazers) [![Forks](https://img.shields.io/github/forks/getmcpulse/mcp-schema-study?style=flat-square&color=blue)](https://github.com/getmcpulse/mcp-schema-study/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getmcpulse/mcp-schema-study?style=flat-square&color=yellow)](https://github.com/getmcpulse/mcp-schema-study/stargazers) [![Forks](https://img.shields.io/github/forks/getmcpulse/mcp-schema-study?style=flat-square&color=blue)](https://github.com/getmcpulse/mcp-schema-study/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-09-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ getmcpulse/mcp-schema-study：getmcpulse/mcp-schema-study helps connect AI assis
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 26/100 |
+| quality | 21/100 |
 | integration | 50/100 |
-| production | 45/100 |
-| outlook | 40/100 |
+| production | 38/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
