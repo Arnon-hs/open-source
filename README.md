@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39094** |
-| **Categories** | **393** |
+| **Projects** | **39100** |
+| **Categories** | **394** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15238 | [Browse →](./misc/) |
+| 📦 **Misc** | 15242 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4284 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2719 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2302 | [Browse →](./orchestration/) |
@@ -89,6 +89,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 4 | [Browse →](./hackathon/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Browser** | 3 | [Browse →](./browser/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
@@ -137,7 +138,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Notion** | 2 | [Browse →](./notion/) |
 | 🏷️ **Playwright** | 2 | [Browse →](./playwright/) |
 | 🏷️ **Speech-recognition** | 2 | [Browse →](./speech-recognition/) |
-| 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Obsidian** | 2 | [Browse →](./obsidian/) |
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **Gdpr** | 2 | [Browse →](./gdpr/) |
@@ -169,6 +169,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Xpost** | 1 | [Browse →](./xpost/) |
 | 🏷️ **Data-extraction** | 1 | [Browse →](./data-extraction/) |
 | 🏷️ **Erc-8004** | 1 | [Browse →](./erc-8004/) |
 | 🏷️ **Ai-generated-sites** | 1 | [Browse →](./ai-generated-sites/) |

@@ -1,6 +1,6 @@
 # mohamed-osama-aboelkheir/ai-sast-triage-demo
 
-[![Stars](https://img.shields.io/github/stars/mohamed-osama-aboelkheir/ai-sast-triage-demo?style=flat-square&color=yellow)](https://github.com/mohamed-osama-aboelkheir/ai-sast-triage-demo/stargazers) [![Forks](https://img.shields.io/github/forks/mohamed-osama-aboelkheir/ai-sast-triage-demo?style=flat-square&color=blue)](https://github.com/mohamed-osama-aboelkheir/ai-sast-triage-demo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohamed-osama-aboelkheir/ai-sast-triage-demo?style=flat-square&color=yellow)](https://github.com/mohamed-osama-aboelkheir/ai-sast-triage-demo/stargazers) [![Forks](https://img.shields.io/github/forks/mohamed-osama-aboelkheir/ai-sast-triage-demo?style=flat-square&color=blue)](https://github.com/mohamed-osama-aboelkheir/ai-sast-triage-demo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Deliberately vulnerable Express + Postgres app with Semgrep findings, for practising AI-assisted SAST triage that builds understanding. Demo from 'Use AI to Get Smarter, Not Lazier' (AppSec Untangled).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-06 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ mohamed-osama-aboelkheir/ai-sast-triage-demo：mohamed-osama-aboelkheir/ai-sast-
 - primary language: JavaScript
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 53/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

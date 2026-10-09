@@ -25,17 +25,17 @@
 | 15 | [chourasiavinit9-dev/framework-magnifier](./chourasiavinit9-dev-framework-magnifier.md) | ⭐ — | Python | 47/100 |
 | 16 | [Golovenkov79/ely-agent-input-preflight](./golovenkov79-ely-agent-input-preflight.md) | ⭐ — | Python | 46/100 |
 | 17 | [sopkits/knowledge-freshness-audit](./sopkits-knowledge-freshness-audit.md) | ⭐ — | — | 44/100 |
-| 18 | [mohamed-osama-aboelkheir/ai-sast-triage-demo](./mohamed-osama-aboelkheir-ai-sast-triage-demo.md) | ⭐ — | JavaScript | 43/100 |
-| 19 | [abhimanyubhtt-hue/touch-grass-ai](./abhimanyubhtt-hue-touch-grass-ai.md) | ⭐ — | Python | 42/100 |
-| 20 | [PRAVIN-KUMAR-295/touchgrass-ai](./pravin-kumar-295-touchgrass-ai.md) | ⭐ — | Python | 42/100 |
-| 21 | [Naitik-xd/Week-1-Dev-Challenge](./naitik-xd-week-1-dev-challenge.md) | ⭐ — | TypeScript | 42/100 |
-| 22 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
-| 23 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 41/100 |
-| 24 | [muhammadumar89/codeninja-research](./muhammadumar89-codeninja-research.md) | ⭐ — | HTML | 41/100 |
-| 25 | [vj450-cpu/hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club](./vj450-cpu-hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | Python | 40/100 |
-| 26 | [whatsyourname909/hacktoberfest_-hack-day-coimbatore-x-init-club-and-idea-club](./whatsyourname909-hacktoberfest--hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | Python | 40/100 |
-| 27 | [utkarshydv27/TouchGrassAI](./utkarshydv27-touchgrassai.md) | ⭐ — | Python | 39/100 |
-| 28 | [5ak3t/ej](./5ak3t-ej.md) | ⭐ — | Python | 39/100 |
+| 18 | [abhimanyubhtt-hue/touch-grass-ai](./abhimanyubhtt-hue-touch-grass-ai.md) | ⭐ — | Python | 42/100 |
+| 19 | [PRAVIN-KUMAR-295/touchgrass-ai](./pravin-kumar-295-touchgrass-ai.md) | ⭐ — | Python | 42/100 |
+| 20 | [Naitik-xd/Week-1-Dev-Challenge](./naitik-xd-week-1-dev-challenge.md) | ⭐ — | TypeScript | 42/100 |
+| 21 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
+| 22 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 41/100 |
+| 23 | [muhammadumar89/codeninja-research](./muhammadumar89-codeninja-research.md) | ⭐ — | HTML | 41/100 |
+| 24 | [vj450-cpu/hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club](./vj450-cpu-hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | Python | 40/100 |
+| 25 | [whatsyourname909/hacktoberfest_-hack-day-coimbatore-x-init-club-and-idea-club](./whatsyourname909-hacktoberfest--hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | Python | 40/100 |
+| 26 | [utkarshydv27/TouchGrassAI](./utkarshydv27-touchgrassai.md) | ⭐ — | Python | 39/100 |
+| 27 | [5ak3t/ej](./5ak3t-ej.md) | ⭐ — | Python | 39/100 |
+| 28 | [mohamed-osama-aboelkheir/ai-sast-triage-demo](./mohamed-osama-aboelkheir-ai-sast-triage-demo.md) | ⭐ — | JavaScript | 39/100 |
 | 29 | [Zhuoli/out-the-door](./zhuoli-out-the-door.md) | ⭐ — | JavaScript | 39/100 |
 | 30 | [shraddhakolate30-maker/CalmSpace](./shraddhakolate30-maker-calmspace.md) | ⭐ — | Python | 39/100 |
 | 31 | [SwagD15/PlayNext](./swagd15-playnext.md) | ⭐ — | JavaScript | 39/100 |
