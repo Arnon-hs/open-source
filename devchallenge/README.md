@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Fiza-Naaz339/trail-notebook](./fiza-naaz339-trail-notebook.md) | ⭐ — | Python | 39/100 |
+| 1 | [Fiza-Naaz339/trail-notebook](./fiza-naaz339-trail-notebook.md) | ⭐ — | Python | 36/100 |
 | 2 | [karolzak/birdnet](./karolzak-birdnet.md) | ⭐ — | — | 24/100 |
 
 ---
