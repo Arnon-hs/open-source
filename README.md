@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39048** |
-| **Categories** | **394** |
+| **Projects** | **39054** |
+| **Categories** | **396** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15214 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4280 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15215 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4281 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2718 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2300 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1562 | [Browse →](./devtools/) |
@@ -59,8 +59,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 20 | [Browse →](./offline/) |
 | 🏷️ **Privacy** | 16 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 15 | [Browse →](./llm/) |
+| 🏷️ **Open-source** | 14 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
-| 🏷️ **Open-source** | 13 | [Browse →](./open-source/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 12 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
@@ -89,6 +89,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Browser** | 3 | [Browse →](./browser/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
@@ -115,7 +116,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Jax** | 2 | [Browse →](./jax/) |
-| 🏷️ **Mobile-ai** | 2 | [Browse →](./mobile-ai/) |
 | 🏷️ **Career-change** | 2 | [Browse →](./career-change/) |
 | 🏷️ **React** | 2 | [Browse →](./react/) |
 | 🏷️ **Ai-security** | 2 | [Browse →](./ai-security/) |
@@ -168,6 +168,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-generated-sites** | 1 | [Browse →](./ai-generated-sites/) |
+| 🏷️ **Activemq** | 1 | [Browse →](./activemq/) |
 | 🏷️ **Web** | 1 | [Browse →](./web/) |
 | 🏷️ **Regexp** | 1 | [Browse →](./regexp/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
@@ -175,7 +177,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Tender** | 1 | [Browse →](./tender/) |
-| 🏷️ **Offline-ai** | 1 | [Browse →](./offline-ai/) |
+| 🏷️ **Mobile-ai** | 1 | [Browse →](./mobile-ai/) |
 | 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
 | 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |
 | 🏷️ **Open-weight-ai** | 1 | [Browse →](./open-weight-ai/) |
