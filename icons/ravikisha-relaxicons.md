@@ -1,6 +1,6 @@
 # ravikisha/relaxicons
 
-[![Stars](https://img.shields.io/github/stars/ravikisha/relaxicons?style=flat-square&color=yellow)](https://github.com/ravikisha/relaxicons/stargazers) [![Forks](https://img.shields.io/github/forks/ravikisha/relaxicons?style=flat-square&color=blue)](https://github.com/ravikisha/relaxicons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ravikisha/relaxicons?style=flat-square&color=yellow)](https://github.com/ravikisha/relaxicons/stargazers) [![Forks](https://img.shields.io/github/forks/ravikisha/relaxicons?style=flat-square&color=blue)](https://github.com/ravikisha/relaxicons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > Fetch any Iconify icon and generate ready-to-use components for React, Vue, Angular, and Laravel.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ ravikisha/relaxicons：ravikisha/relaxicons may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 30/100 |
-| production | 42/100 |
-| outlook | 41/100 |
+| production | 35/100 |
+| outlook | 34/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

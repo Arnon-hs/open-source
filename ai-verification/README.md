@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mlfoundations/open_clip](./mlfoundations-open-clip.md) | ⭐ 14.2k | Python | 74/100 |
+| 1 | [mlfoundations/open_clip](./mlfoundations-open-clip.md) | ⭐ 14.2k | Python | 71/100 |
 
 ---
 
