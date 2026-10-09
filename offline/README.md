@@ -2,7 +2,7 @@
 
 > 
 
-**21 projects** in this category.
+**22 projects** in this category.
 
 ## Projects
 
@@ -25,10 +25,11 @@
 | 15 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 36/100 |
 | 16 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 33/100 |
 | 17 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
-| 18 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
-| 19 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
-| 20 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
-| 21 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
+| 18 | [Tanishq_964/trail-kit](./tanishq-964-trail-kit.md) | ⭐ — | — | 24/100 |
+| 19 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
+| 20 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
+| 21 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
+| 22 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
 
 ---
 

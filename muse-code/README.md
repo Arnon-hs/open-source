@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [HarjjotSinghh/helicon](./harjjotsinghh-helicon.md) | ⭐ 1 | TypeScript | 57/100 |
-| 2 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 27 | TypeScript | 52/100 |
+| 1 | [Meta/muse](./meta-muse.md) | ⭐ — | — | 24/100 |
 
 ---
 

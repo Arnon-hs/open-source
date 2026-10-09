@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [ultralytics/yolov5](./ultralytics-yolov5.md) | ⭐ 58.1k | Python | 67/100 |
 | 2 | [tensorflow/tfjs-models](./tensorflow-tfjs-models.md) | ⭐ 14.8k | TypeScript | 59/100 |
-| 3 | [MikeKovarik/exifr](./mikekovarik-exifr.md) | ⭐ 1.2k | JavaScript | 58/100 |
+| 3 | [MikeKovarik/exifr](./mikekovarik-exifr.md) | ⭐ 1.2k | JavaScript | 55/100 |
 | 4 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 47/100 |
 | 5 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 45/100 |
 | 6 | [econovibe/MyHardwareInfo](./econovibe-myhardwareinfo.md) | ⭐ — | Rust | 45/100 |

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39141** |
-| **Categories** | **394** |
+| **Projects** | **39153** |
+| **Categories** | **395** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15266 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4289 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15272 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4290 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2719 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2303 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1563 | [Browse →](./devtools/) |
@@ -53,11 +53,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 171 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 101 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 70 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 71 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Offline** | 21 | [Browse →](./offline/) |
-| 🏷️ **Ai-agents** | 16 | [Browse →](./ai-agents/) |
+| 🏷️ **Offline** | 22 | [Browse →](./offline/) |
+| 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 16 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 15 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
@@ -77,13 +77,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Git** | 5 | [Browse →](./git/) |
+| 🏷️ **Windows** | 4 | [Browse →](./windows/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Offline-first** | 4 | [Browse →](./offline-first/) |
 | 🏷️ **Raspberry-pi** | 4 | [Browse →](./raspberry-pi/) |
-| 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Hackathon** | 4 | [Browse →](./hackathon/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
@@ -105,7 +105,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-code-review** | 3 | [Browse →](./ai-code-review/) |
 | 🏷️ **Angular** | 3 | [Browse →](./angular/) |
 | 🏷️ **Docker** | 3 | [Browse →](./docker/) |
-| 🏷️ **Windows** | 3 | [Browse →](./windows/) |
+| 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
@@ -171,6 +171,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Muse-code** | 1 | [Browse →](./muse-code/) |
 | 🏷️ **Hotel-distribution** | 1 | [Browse →](./hotel-distribution/) |
 | 🏷️ **Rate-limiting** | 1 | [Browse →](./rate-limiting/) |
 | 🏷️ **Air-gapped** | 1 | [Browse →](./air-gapped/) |
