@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39014** |
-| **Categories** | **396** |
+| **Projects** | **39017** |
+| **Categories** | **397** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -26,7 +26,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 15194 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4278 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2718 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2296 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2297 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1561 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1374 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 918 | [Browse →](./backend/) |
@@ -72,6 +72,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
+| 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **N8n** | 5 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
@@ -87,7 +88,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
-| 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
@@ -169,6 +169,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Tender** | 1 | [Browse →](./tender/) |
 | 🏷️ **Offline-ai** | 1 | [Browse →](./offline-ai/) |

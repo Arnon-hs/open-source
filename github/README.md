@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mattqdev/stackfingerprint-action](./mattqdev-stackfingerprint-action.md) | ⭐ 2 | — | 37/100 |
+| 1 | [Arthur031221/Beholden](./arthur031221-beholden.md) | ⭐ — | JavaScript | 47/100 |
 
 ---
 

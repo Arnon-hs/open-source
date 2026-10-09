@@ -11,7 +11,7 @@
 | 1 | [dexio-wiki/dexio](./dexio-wiki-dexio.md) | ⭐ 2 | Python | 68/100 |
 | 2 | [Qweezyy/AltairAgent](./qweezyy-altairagent.md) | ⭐ — | Python | 66/100 |
 | 3 | [grantjenks/python-diskcache](./grantjenks-python-diskcache.md) | ⭐ 2.9k | Python | 61/100 |
-| 4 | [toprakahmetaydogmus/TZeroAlgorithm](./toprakahmetaydogmus-tzeroalgorithm.md) | ⭐ 4 | Python | 52/100 |
+| 4 | [toprakahmetaydogmus/TZeroAlgorithm](./toprakahmetaydogmus-tzeroalgorithm.md) | ⭐ 4 | Python | 49/100 |
 | 5 | [alphanumericentity/pdfairlock](./alphanumericentity-pdfairlock.md) | ⭐ — | TypeScript | 48/100 |
 | 6 | [raeven-co/sether](./raeven-co-sether.md) | ⭐ 3 | TypeScript | 38/100 |
 | 7 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 33/100 |
