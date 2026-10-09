@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39130** |
-| **Categories** | **395** |
+| **Projects** | **39138** |
+| **Categories** | **394** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15263 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4287 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15264 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4289 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2719 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2303 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1563 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1372 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1373 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 920 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 776 | [Browse →](./crypto/) |
@@ -56,12 +56,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 70 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Offline** | 20 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 21 | [Browse →](./offline/) |
+| 🏷️ **Ai-agents** | 16 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 16 | [Browse →](./privacy/) |
-| 🏷️ **Ai-agents** | 15 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 15 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 14 | [Browse →](./open-source/) |
-| 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 12 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
@@ -115,6 +115,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Agent** | 2 | [Browse →](./agent/) |
+| 🏷️ **Openweight-models** | 2 | [Browse →](./openweight-models/) |
 | 🏷️ **3d** | 2 | [Browse →](./3d/) |
 | 🏷️ **Browser-automation** | 2 | [Browse →](./browser-automation/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
@@ -276,7 +278,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Generator** | 1 | [Browse →](./generator/) |
 | 🏷️ **Hacktoberfest** | 1 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Stock-management** | 1 | [Browse →](./stock-management/) |
-| 🏷️ **Openweight-models** | 1 | [Browse →](./openweight-models/) |
 | 🏷️ **Prompt-management** | 1 | [Browse →](./prompt-management/) |
 | 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |
 | 🏷️ **Ai-debugging** | 1 | [Browse →](./ai-debugging/) |
@@ -319,7 +320,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Http-caching** | 1 | [Browse →](./http-caching/) |
 | 🏷️ **Budgeting** | 1 | [Browse →](./budgeting/) |
 | 🏷️ **Research** | 1 | [Browse →](./research/) |
-| 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
@@ -359,7 +359,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
 | 🏷️ **Perl** | 1 | [Browse →](./perl/) |
 | 🏷️ **Codex** | 1 | [Browse →](./codex/) |
-| 🏷️ **Agent** | 1 | [Browse →](./agent/) |
 | 🏷️ **Opencode** | 1 | [Browse →](./opencode/) |
 | 🏷️ **Data-validation** | 1 | [Browse →](./data-validation/) |
 | 🏷️ **Version-control** | 1 | [Browse →](./version-control/) |
