@@ -62,18 +62,18 @@ facebookincubator/Zurp：facebookincubator/Zurp may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 37/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 15/100 |
-| categoryMatchCount | 0/100 |
-| stars | 18/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 18/100 |
 | topics | 0/100 |
+| outlook | 54/100 |
+| quality | 37/100 |
+| recency | 80/100 |
+| adoption | 15/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
