@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39179** |
-| **Categories** | **396** |
+| **Projects** | **39181** |
+| **Categories** | **397** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -29,7 +29,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🧩 **Orchestration** | 2303 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1563 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1376 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 920 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 921 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 776 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 663 | [Browse →](./documents/) |
@@ -173,6 +173,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Karaoke** | 1 | [Browse →](./karaoke/) |
+| 🏷️ **Iso-286** | 1 | [Browse →](./iso-286/) |
 | 🏷️ **Rails** | 1 | [Browse →](./rails/) |
 | 🏷️ **Tableau** | 1 | [Browse →](./tableau/) |
 | 🏷️ **Sales** | 1 | [Browse →](./sales/) |
@@ -321,7 +323,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Pandas** | 1 | [Browse →](./pandas/) |
 | 🏷️ **Speech-bci** | 1 | [Browse →](./speech-bci/) |
 | 🏷️ **Okf** | 1 | [Browse →](./okf/) |
-| 🏷️ **Http-caching** | 1 | [Browse →](./http-caching/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
