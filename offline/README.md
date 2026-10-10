@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [SYSTRAN/faster-whisper](./systran-faster-whisper.md) | ⭐ 25.7k | Python | 68/100 |
-| 2 | [birdnet-team/BirdNET-Analyzer](./birdnet-team-birdnet-analyzer.md) | ⭐ 1.7k | Python | 65/100 |
+| 2 | [birdnet-team/BirdNET-Analyzer](./birdnet-team-birdnet-analyzer.md) | ⭐ 1.7k | Python | 62/100 |
 | 3 | [onnx/models](./onnx-models.md) | ⭐ 9.8k | Jupyter Notebook | 61/100 |
 | 4 | [DhanushNehru/trialnote](./dhanushnehru-trialnote.md) | ⭐ — | Python | 59/100 |
 | 5 | [sffjunkie/astral](./sffjunkie-astral.md) | ⭐ 290 | Python | 55/100 |

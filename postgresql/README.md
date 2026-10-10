@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [milekv/pg-migration-guard](./milekv-pg-migration-guard.md) | ⭐ — | TypeScript | 58/100 |
+| 1 | [milekv/pg-migration-guard](./milekv-pg-migration-guard.md) | ⭐ — | TypeScript | 55/100 |
 | 2 | [ArturoCutipaFlores/db-backup-strategies](./arturocutipaflores-db-backup-strategies.md) | ⭐ — | HTML | 33/100 |
 
 ---
