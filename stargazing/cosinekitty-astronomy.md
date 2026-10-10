@@ -1,6 +1,6 @@
 # cosinekitty/astronomy
 
-[![Stars](https://img.shields.io/github/stars/cosinekitty/astronomy?style=flat-square&color=yellow)](https://github.com/cosinekitty/astronomy/stargazers) [![Forks](https://img.shields.io/github/forks/cosinekitty/astronomy?style=flat-square&color=blue)](https://github.com/cosinekitty/astronomy/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosinekitty/astronomy?style=flat-square&color=yellow)](https://github.com/cosinekitty/astronomy/stargazers) [![Forks](https://img.shields.io/github/forks/cosinekitty/astronomy?style=flat-square&color=blue)](https://github.com/cosinekitty/astronomy/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other events. Provides vector and angular coordinate transforms among equatorial, ecliptic, horizontal, and galactic orientations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ cosinekitty/astronomy：cosinekitty/astronomy may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 61/100 |
+| outlook | 62/100 |
 | adoption | 61/100 |
 | categoryMatchCount | 500/100 |
 | stars | 64/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [reachdiff/reachdiff](./reachdiff-reachdiff.md) | ⭐ — | Python | 42/100 |
+| 1 | [reachdiff/reachdiff](./reachdiff-reachdiff.md) | ⭐ — | Python | 39/100 |
 
 ---
 
