@@ -25,13 +25,13 @@
 | 15 | [sopkits/knowledge-freshness-audit](./sopkits-knowledge-freshness-audit.md) | ⭐ — | — | 44/100 |
 | 16 | [abhimanyubhtt-hue/touch-grass-ai](./abhimanyubhtt-hue-touch-grass-ai.md) | ⭐ — | Python | 42/100 |
 | 17 | [PRAVIN-KUMAR-295/touchgrass-ai](./pravin-kumar-295-touchgrass-ai.md) | ⭐ — | Python | 42/100 |
-| 18 | [Naitik-xd/Week-1-Dev-Challenge](./naitik-xd-week-1-dev-challenge.md) | ⭐ — | TypeScript | 42/100 |
-| 19 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
-| 20 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 41/100 |
-| 21 | [vj450-cpu/hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club](./vj450-cpu-hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | Python | 40/100 |
-| 22 | [whatsyourname909/hacktoberfest_-hack-day-coimbatore-x-init-club-and-idea-club](./whatsyourname909-hacktoberfest--hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | Python | 40/100 |
-| 23 | [utkarshydv27/TouchGrassAI](./utkarshydv27-touchgrassai.md) | ⭐ — | Python | 39/100 |
-| 24 | [5ak3t/ej](./5ak3t-ej.md) | ⭐ — | Python | 39/100 |
+| 18 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
+| 19 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 41/100 |
+| 20 | [vj450-cpu/hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club](./vj450-cpu-hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | Python | 40/100 |
+| 21 | [whatsyourname909/hacktoberfest_-hack-day-coimbatore-x-init-club-and-idea-club](./whatsyourname909-hacktoberfest--hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | Python | 40/100 |
+| 22 | [utkarshydv27/TouchGrassAI](./utkarshydv27-touchgrassai.md) | ⭐ — | Python | 39/100 |
+| 23 | [5ak3t/ej](./5ak3t-ej.md) | ⭐ — | Python | 39/100 |
+| 24 | [Naitik-xd/Week-1-Dev-Challenge](./naitik-xd-week-1-dev-challenge.md) | ⭐ — | TypeScript | 39/100 |
 | 25 | [mohamed-osama-aboelkheir/ai-sast-triage-demo](./mohamed-osama-aboelkheir-ai-sast-triage-demo.md) | ⭐ — | JavaScript | 39/100 |
 | 26 | [Zhuoli/out-the-door](./zhuoli-out-the-door.md) | ⭐ — | JavaScript | 39/100 |
 | 27 | [shraddhakolate30-maker/CalmSpace](./shraddhakolate30-maker-calmspace.md) | ⭐ — | Python | 39/100 |
