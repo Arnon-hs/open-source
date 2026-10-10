@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hawksxo/git-to-feed](./hawksxo-git-to-feed.md) | ⭐ — | Go | 44/100 |
+| 1 | [gonnafaraway/godrain](./gonnafaraway-godrain.md) | ⭐ — | Go | 54/100 |
 
 ---
 

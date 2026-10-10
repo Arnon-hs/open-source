@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39336** |
-| **Categories** | **409** |
+| **Projects** | **39339** |
+| **Categories** | **410** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -69,6 +69,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **Offline-ai** | 6 | [Browse →](./offline-ai/) |
 | 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
@@ -86,7 +87,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
-| 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
@@ -173,6 +173,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Auth** | 1 | [Browse →](./auth/) |
 | 🏷️ **Chatwoot** | 1 | [Browse →](./chatwoot/) |
 | 🏷️ **Hash-chain** | 1 | [Browse →](./hash-chain/) |
