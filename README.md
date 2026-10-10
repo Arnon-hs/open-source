@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39166** |
-| **Categories** | **394** |
+| **Projects** | **39174** |
+| **Categories** | **396** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15280 | [Browse →](./misc/) |
+| 📦 **Misc** | 15283 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4291 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2719 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2303 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1563 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1374 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1376 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 920 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 776 | [Browse →](./crypto/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 101 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 71 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 72 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 23 | [Browse →](./offline/) |
@@ -63,7 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 15 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 12 | [Browse →](./local-first/) |
-| 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
+| 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
@@ -84,7 +84,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Offline-first** | 4 | [Browse →](./offline-first/) |
-| 🏷️ **Raspberry-pi** | 4 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Hackathon** | 4 | [Browse →](./hackathon/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
@@ -130,6 +129,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-security** | 2 | [Browse →](./ai-security/) |
 | 🏷️ **Node** | 2 | [Browse →](./node/) |
 | 🏷️ **Pdf-redaction** | 2 | [Browse →](./pdf-redaction/) |
+| 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Family** | 2 | [Browse →](./family/) |
 | 🏷️ **Claude** | 2 | [Browse →](./claude/) |
@@ -171,6 +171,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Rails** | 1 | [Browse →](./rails/) |
+| 🏷️ **Tableau** | 1 | [Browse →](./tableau/) |
 | 🏷️ **Sales** | 1 | [Browse →](./sales/) |
 | 🏷️ **Muse-code** | 1 | [Browse →](./muse-code/) |
 | 🏷️ **Hotel-distribution** | 1 | [Browse →](./hotel-distribution/) |

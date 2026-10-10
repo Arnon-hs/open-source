@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [globalize/globalize](./globalize-globalize.md) | ⭐ 2.2k | Ruby | 52/100 |
+| 1 | [yourorg/hstore-translate](./yourorg-hstore-translate.md) | ⭐ — | — | 24/100 |
 
 ---
 
