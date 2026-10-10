@@ -1,6 +1,6 @@
 # nodemailer/nodemailer
 
-[![Stars](https://img.shields.io/github/stars/nodemailer/nodemailer?style=flat-square&color=yellow)](https://github.com/nodemailer/nodemailer/stargazers) [![Forks](https://img.shields.io/github/forks/nodemailer/nodemailer?style=flat-square&color=blue)](https://github.com/nodemailer/nodemailer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nodemailer/nodemailer?style=flat-square&color=yellow)](https://github.com/nodemailer/nodemailer/stargazers) [![Forks](https://img.shields.io/github/forks/nodemailer/nodemailer?style=flat-square&color=blue)](https://github.com/nodemailer/nodemailer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ✉️ Send e-mails with Node.JS – easy as cake!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ nodemailer/nodemailer：nodemailer/nodemailer may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 87/100 |
 | categoryMatchCount | 600/100 |
 | stars | 90/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

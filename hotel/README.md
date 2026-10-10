@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sensepraxis/fangmanle-ai-native-pms](./sensepraxis-fangmanle-ai-native-pms.md) | ⭐ 1 | Vue | 57/100 |
+| 1 | [sensepraxis/fangmanle-ai-native-pms](./sensepraxis-fangmanle-ai-native-pms.md) | ⭐ 1 | Vue | 54/100 |
 
 ---
 
