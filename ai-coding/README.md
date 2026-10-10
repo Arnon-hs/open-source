@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [anggadb/loop-engine](./anggadb-loop-engine.md) | ⭐ — | Rust | 30/100 |
+| 1 | [anggadb/loop-engine](./anggadb-loop-engine.md) | ⭐ — | Rust | 27/100 |
 
 ---
 

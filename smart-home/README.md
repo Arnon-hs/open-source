@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [adiprem73/AwaasAI](./adiprem73-awaasai.md) | ⭐ — | Python | 31/100 |
+| 1 | [adiprem73/AwaasAI](./adiprem73-awaasai.md) | ⭐ — | Python | 28/100 |
 
 ---
 
