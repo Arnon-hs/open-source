@@ -16,17 +16,17 @@
 | 6 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 58/100 |
 | 7 | [sffjunkie/astral](./sffjunkie-astral.md) | ⭐ 290 | Python | 55/100 |
 | 8 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 46/100 |
-| 9 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 45/100 |
+| 9 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 42/100 |
 | 10 | [gabutersproject/touch-grass-sports-ai](./gabutersproject-touch-grass-sports-ai.md) | ⭐ — | Python | 41/100 |
 | 11 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 39/100 |
 | 12 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 39/100 |
 | 13 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 39/100 |
 | 14 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 39/100 |
-| 15 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 39/100 |
-| 16 | [atDnK/edugemma-ai](./atdnk-edugemma-ai.md) | ⭐ — | — | 39/100 |
-| 17 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
-| 18 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 36/100 |
-| 19 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 36/100 |
+| 15 | [atDnK/edugemma-ai](./atdnk-edugemma-ai.md) | ⭐ — | — | 39/100 |
+| 16 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
+| 17 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 36/100 |
+| 18 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 36/100 |
+| 19 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 36/100 |
 | 20 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 33/100 |
 | 21 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
 | 22 | [stanfordmlgroup/TabPFN](./stanfordmlgroup-tabpfn.md) | ⭐ — | — | 24/100 |

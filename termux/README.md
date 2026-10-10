@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [djunekz/termux-app-store](./djunekz-termux-app-store.md) | ⭐ 112 | Python | 68/100 |
+| 1 | [djunekz/termux-app-store](./djunekz-termux-app-store.md) | ⭐ 112 | Python | 65/100 |
 
 ---
 
