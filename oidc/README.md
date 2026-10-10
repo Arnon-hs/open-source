@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [issuerd/issuerd](./issuerd-issuerd.md) | ⭐ 15 | Rust | 56/100 |
+| 1 | [issuerd/issuerd](./issuerd-issuerd.md) | ⭐ 15 | Rust | 53/100 |
 
 ---
 
