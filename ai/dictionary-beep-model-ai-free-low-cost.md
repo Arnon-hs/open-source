@@ -1,6 +1,6 @@
 # dictionary-beep/Model-AI-free-low-cost
 
-[![Stars](https://img.shields.io/github/stars/dictionary-beep/Model-AI-free-low-cost?style=flat-square&color=yellow)](https://github.com/dictionary-beep/Model-AI-free-low-cost/stargazers) [![Forks](https://img.shields.io/github/forks/dictionary-beep/Model-AI-free-low-cost?style=flat-square&color=blue)](https://github.com/dictionary-beep/Model-AI-free-low-cost/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dictionary-beep/Model-AI-free-low-cost?style=flat-square&color=yellow)](https://github.com/dictionary-beep/Model-AI-free-low-cost/stargazers) [![Forks](https://img.shields.io/github/forks/dictionary-beep/Model-AI-free-low-cost?style=flat-square&color=blue)](https://github.com/dictionary-beep/Model-AI-free-low-cost/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list and gateway resources for free and low-cost AI models, APIs, and tools for developers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ dictionary-beep/Model-AI-free-low-cost：dictionary-beep/Model-AI-free-low-cost 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

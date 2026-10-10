@@ -9,15 +9,15 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [TechNomadCode/AI-Product-Development-Toolkit](./technomadcode-ai-product-development-toolkit.md) | ⭐ 1k | — | 71/100 |
-| 2 | [GavinGeizer/swarmforge-oss](./gavingeizer-swarmforge-oss.md) | ⭐ — | TypeScript | 66/100 |
-| 3 | [NTDevLops/UNIVERSAL-AGENTS.md](./ntdevlops-universal-agents.md.md) | ⭐ 1 | — | 64/100 |
-| 4 | [invarislabs/invaris-agentsec](./invarislabs-invaris-agentsec.md) | ⭐ 2 | Python | 62/100 |
-| 5 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
-| 6 | [UB-Mannheim/tesseract](./ub-mannheim-tesseract.md) | ⭐ 4.6k | C++ | 57/100 |
-| 7 | [dictionary-beep/Model-AI-free-low-cost](./dictionary-beep-model-ai-free-low-cost.md) | ⭐ 1 | — | 57/100 |
+| 2 | [openai/CLIP](./openai-clip.md) | ⭐ 34.4k | Jupyter Notebook | 69/100 |
+| 3 | [GavinGeizer/swarmforge-oss](./gavingeizer-swarmforge-oss.md) | ⭐ — | TypeScript | 66/100 |
+| 4 | [NTDevLops/UNIVERSAL-AGENTS.md](./ntdevlops-universal-agents.md.md) | ⭐ 1 | — | 64/100 |
+| 5 | [invarislabs/invaris-agentsec](./invarislabs-invaris-agentsec.md) | ⭐ 2 | Python | 62/100 |
+| 6 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
+| 7 | [UB-Mannheim/tesseract](./ub-mannheim-tesseract.md) | ⭐ 4.6k | C++ | 57/100 |
 | 8 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
-| 9 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 51/100 |
-| 10 | [zhx842htt/devspend](./zhx842htt-devspend.md) | ⭐ — | JavaScript | 51/100 |
+| 9 | [dictionary-beep/Model-AI-free-low-cost](./dictionary-beep-model-ai-free-low-cost.md) | ⭐ 1 | — | 54/100 |
+| 10 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 51/100 |
 | 11 | [Pryxor/pryxor](./pryxor-pryxor.md) | ⭐ 1 | Python | 48/100 |
 | 12 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 47/100 |
 | 13 | [chourasiavinit9-dev/framework-magnifier](./chourasiavinit9-dev-framework-magnifier.md) | ⭐ — | Python | 47/100 |
