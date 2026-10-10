@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39198** |
-| **Categories** | **399** |
+| **Projects** | **39201** |
+| **Categories** | **400** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15290 | [Browse →](./misc/) |
+| 📦 **Misc** | 15292 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4295 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2721 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2304 | [Browse →](./orchestration/) |
@@ -173,6 +173,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Home-network** | 1 | [Browse →](./home-network/) |
 | 🏷️ **Capture** | 1 | [Browse →](./capture/) |
 | 🏷️ **Repo-stars** | 1 | [Browse →](./repo-stars/) |
 | 🏷️ **Garden** | 1 | [Browse →](./garden/) |
