@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39163** |
+| **Projects** | **39166** |
 | **Categories** | **394** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15277 | [Browse →](./misc/) |
+| 📦 **Misc** | 15280 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4291 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2719 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2303 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1563 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1373 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1374 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 920 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 776 | [Browse →](./crypto/) |
@@ -71,11 +71,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
-| 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Android** | 5 | [Browse →](./android/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
+| 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Git** | 5 | [Browse →](./git/) |
 | 🏷️ **Rag** | 4 | [Browse →](./rag/) |
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |

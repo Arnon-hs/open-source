@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CopilotKit/openmuse](./copilotkit-openmuse.md) | ⭐ 4.1k | TypeScript | 66/100 |
+| 1 | [CopilotKit/openmuse](./copilotkit-openmuse.md) | ⭐ 4.1k | TypeScript | 63/100 |
 
 ---
 
