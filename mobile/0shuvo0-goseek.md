@@ -1,6 +1,6 @@
 # 0shuvo0/goseek
 
-[![Stars](https://img.shields.io/github/stars/0shuvo0/goseek?style=flat-square&color=yellow)](https://github.com/0shuvo0/goseek/stargazers) [![Forks](https://img.shields.io/github/forks/0shuvo0/goseek?style=flat-square&color=blue)](https://github.com/0shuvo0/goseek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0shuvo0/goseek?style=flat-square&color=yellow)](https://github.com/0shuvo0/goseek/stargazers) [![Forks](https://img.shields.io/github/forks/0shuvo0/goseek?style=flat-square&color=blue)](https://github.com/0shuvo0/goseek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > GoSeek is a mobile-first outdoor scavenger hunt game. Each round gives you a riddle clue, and you must find the matching object in the real world by taking a photo with your camera or uploading an image.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ mobile · outdoor · puzzle · AI · vision · riddle
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 50/100 |
+| production | 53/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
