@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CIRVIX/agent-control](./cirvix-agent-control.md) | ⭐ 1 | JavaScript | 71/100 |
+| 1 | [CIRVIX/agent-control](./cirvix-agent-control.md) | ⭐ 1 | JavaScript | 68/100 |
 | 2 | [Bees-bot/bees-desktop](./bees-bot-bees-desktop.md) | ⭐ 13 | JavaScript | 68/100 |
 | 3 | [DevAnimecx/jiro](./devanimecx-jiro.md) | ⭐ 3 | Python | 68/100 |
 | 4 | [pinkpixel-dev/pulpie-mcp](./pinkpixel-dev-pulpie-mcp.md) | ⭐ 1 | Python | 64/100 |

@@ -1,6 +1,6 @@
 # CIRVIX/agent-control
 
-[![Stars](https://img.shields.io/github/stars/CIRVIX/agent-control?style=flat-square&color=yellow)](https://github.com/CIRVIX/agent-control/stargazers) [![Forks](https://img.shields.io/github/forks/CIRVIX/agent-control?style=flat-square&color=blue)](https://github.com/CIRVIX/agent-control/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CIRVIX/agent-control?style=flat-square&color=yellow)](https://github.com/CIRVIX/agent-control/stargazers) [![Forks](https://img.shields.io/github/forks/CIRVIX/agent-control?style=flat-square&color=blue)](https://github.com/CIRVIX/agent-control/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime authorization infrastructure for AI agents. Every tool call, API action, and credential request is evaluated against identity, policy, and context before execution — and recorded in a hash-chained audit trail. Apache 2.0, zero runtime deps, Node + Python.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ CIRVIX/agent-control：CIRVIX/agent-control may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

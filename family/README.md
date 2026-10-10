@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CoderRahul01/memoria](./coderrahul01-memoria.md) | ⭐ — | JavaScript | 43/100 |
+| 1 | [CoderRahul01/memoria](./coderrahul01-memoria.md) | ⭐ — | JavaScript | 40/100 |
 | 2 | [Donchaminade/story-lineage](./donchaminade-story-lineage.md) | ⭐ — | — | 24/100 |
 
 ---
