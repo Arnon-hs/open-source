@@ -1,6 +1,6 @@
 # harbor-framework/terminal-bench
 
-[![Stars](https://img.shields.io/github/stars/harbor-framework/terminal-bench?style=flat-square&color=yellow)](https://github.com/harbor-framework/terminal-bench/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/terminal-bench?style=flat-square&color=blue)](https://github.com/harbor-framework/terminal-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harbor-framework/terminal-bench?style=flat-square&color=yellow)](https://github.com/harbor-framework/terminal-bench/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/terminal-bench?style=flat-square&color=blue)](https://github.com/harbor-framework/terminal-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Measuring and evolving with the frontier of agent work
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 558 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ harbor-framework/terminal-bench：harbor-framework/terminal-bench may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 64/100 |
 | categoryMatchCount | 500/100 |
 | stars | 62/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
