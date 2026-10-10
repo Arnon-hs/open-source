@@ -1,6 +1,6 @@
 # LostBeard/SpawnDev.ILGPU
 
-[![Stars](https://img.shields.io/github/stars/LostBeard/SpawnDev.ILGPU?style=flat-square&color=yellow)](https://github.com/LostBeard/SpawnDev.ILGPU/stargazers) [![Forks](https://img.shields.io/github/forks/LostBeard/SpawnDev.ILGPU?style=flat-square&color=blue)](https://github.com/LostBeard/SpawnDev.ILGPU/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LostBeard/SpawnDev.ILGPU?style=flat-square&color=yellow)](https://github.com/LostBeard/SpawnDev.ILGPU/stargazers) [![Forks](https://img.shields.io/github/forks/LostBeard/SpawnDev.ILGPU?style=flat-square&color=blue)](https://github.com/LostBeard/SpawnDev.ILGPU/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ LostBeard/SpawnDev.ILGPU：LostBeard/SpawnDev.ILGPU may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 68/100 |
+| production | 59/100 |
+| outlook | 61/100 |
 | adoption | 29/100 |
 | categoryMatchCount | 100/100 |
 | stars | 33/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

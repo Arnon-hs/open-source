@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [psmux/DeskVNC](./psmux-deskvnc.md) | ⭐ 70 | Rust | 71/100 |
+| 1 | [psmux/DeskVNC](./psmux-deskvnc.md) | ⭐ 70 | Rust | 68/100 |
 
 ---
 
