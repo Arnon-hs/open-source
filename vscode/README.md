@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [williamslay/vscode-text-marker-plus](./williamslay-vscode-text-marker-plus.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [williamslay/vscode-text-marker-plus](./williamslay-vscode-text-marker-plus.md) | ⭐ — | TypeScript | 33/100 |
 
 ---
 

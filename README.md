@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39208** |
-| **Categories** | **399** |
+| **Projects** | **39213** |
+| **Categories** | **400** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -26,7 +26,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 15297 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4295 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2721 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2304 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2305 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1564 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1376 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 921 | [Browse →](./backend/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 776 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 663 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 630 | [Browse →](./networking/) |
-| 📱 **Mobile** | 608 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 609 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 591 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 587 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 513 | [Browse →](./database/) |
@@ -53,15 +53,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 70 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 69 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 23 | [Browse →](./offline/) |
+| 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
-| 🏷️ **Privacy** | 17 | [Browse →](./privacy/) |
 | 🏷️ **Open-source** | 15 | [Browse →](./open-source/) |
 | 🏷️ **Llm** | 15 | [Browse →](./llm/) |
-| 🏷️ **Local-first** | 13 | [Browse →](./local-first/) |
+| 🏷️ **Local-first** | 14 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
@@ -173,6 +173,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Hermes-agent** | 1 | [Browse →](./hermes-agent/) |
 | 🏷️ **Home-network** | 1 | [Browse →](./home-network/) |
 | 🏷️ **Capture** | 1 | [Browse →](./capture/) |
 | 🏷️ **Repo-stars** | 1 | [Browse →](./repo-stars/) |
