@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [onkar-cybersec/AegisExec](./onkar-cybersec-aegisexec.md) | ⭐ — | — | 43/100 |
-| 2 | [secfoo-com/secfoo](./secfoo-com-secfoo.md) | ⭐ 3 | Python | 42/100 |
 
 ---
 
