@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39174** |
+| **Projects** | **39177** |
 | **Categories** | **396** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 198 | [Browse →](./trading/) |
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 101 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 102 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 72 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
@@ -115,6 +115,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Data-quality** | 2 | [Browse →](./data-quality/) |
+| 🏷️ **Air-quality** | 2 | [Browse →](./air-quality/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Openweight-models** | 2 | [Browse →](./openweight-models/) |
 | 🏷️ **3d** | 2 | [Browse →](./3d/) |
@@ -186,7 +188,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Activemq** | 1 | [Browse →](./activemq/) |
 | 🏷️ **Regexp** | 1 | [Browse →](./regexp/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
-| 🏷️ **Data-quality** | 1 | [Browse →](./data-quality/) |
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Tender** | 1 | [Browse →](./tender/) |
@@ -239,7 +240,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assistant** | 1 | [Browse →](./ai-assistant/) |
 | 🏷️ **Retry** | 1 | [Browse →](./retry/) |
 | 🏷️ **Ai-verification** | 1 | [Browse →](./ai-verification/) |
-| 🏷️ **Air-quality** | 1 | [Browse →](./air-quality/) |
 | 🏷️ **First-contribution** | 1 | [Browse →](./first-contribution/) |
 | 🏷️ **Vs-code** | 1 | [Browse →](./vs-code/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |

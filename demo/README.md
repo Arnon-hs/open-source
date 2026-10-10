@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aichance/business-ai-recipes](./aichance-business-ai-recipes.md) | ⭐ — | Python | 58/100 |
+| 1 | [aichance/business-ai-recipes](./aichance-business-ai-recipes.md) | ⭐ — | Python | 55/100 |
 
 ---
 

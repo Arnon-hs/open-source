@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [adiranjan25/dataguard-ai](./adiranjan25-dataguard-ai.md) | ⭐ 1 | Python | 56/100 |
+| 1 | [Shahedr/data-quality-detective](./shahedr-data-quality-detective.md) | ⭐ — | Python | 59/100 |
+| 2 | [adiranjan25/dataguard-ai](./adiranjan25-dataguard-ai.md) | ⭐ 1 | Python | 56/100 |
 
 ---
 
