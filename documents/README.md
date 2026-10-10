@@ -627,10 +627,10 @@
 | 617 | [newptcai/repy](./newptcai-repy.md) | ⭐ — | — | 38/100 |
 | 618 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 619 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ — | — | 38/100 |
-| 620 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
-| 621 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 622 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ — | — | 38/100 |
-| 623 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ — | — | 38/100 |
+| 620 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 621 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
+| 622 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ — | — | 38/100 |
+| 623 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ — | — | 38/100 |
 | 624 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ — | — | 38/100 |
 | 625 | [grinev/boardown](./grinev-boardown.md) | ⭐ — | — | 38/100 |
 | 626 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ — | — | 38/100 |
@@ -661,8 +661,8 @@
 | 651 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ — | — | 38/100 |
 | 652 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 653 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 38/100 |
-| 654 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
-| 655 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 654 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 655 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
 | 656 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 657 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |
 | 658 | [eimza-kep/udf2md](./eimza-kep-udf2md.md) | ⭐ — | HTML | 36/100 |

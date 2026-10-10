@@ -1,6 +1,6 @@
 # repo-tech/tarvos
 
-[![Stars](https://img.shields.io/github/stars/repo-tech/tarvos?style=flat-square&color=yellow)](https://github.com/repo-tech/tarvos/stargazers) [![Forks](https://img.shields.io/github/forks/repo-tech/tarvos?style=flat-square&color=blue)](https://github.com/repo-tech/tarvos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/repo-tech/tarvos?style=flat-square&color=yellow)](https://github.com/repo-tech/tarvos/stargazers) [![Forks](https://img.shields.io/github/forks/repo-tech/tarvos?style=flat-square&color=blue)](https://github.com/repo-tech/tarvos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source Python → Rust compiler that turns a statically analyzable subset of Python into standalone native executables.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ repo-tech/tarvos：repo-tech/tarvos may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

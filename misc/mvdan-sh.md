@@ -1,6 +1,6 @@
 # mvdan/sh
 
-[![Stars](https://img.shields.io/github/stars/mvdan/sh?style=flat-square&color=yellow)](https://github.com/mvdan/sh/stargazers) [![Forks](https://img.shields.io/github/forks/mvdan/sh?style=flat-square&color=blue)](https://github.com/mvdan/sh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mvdan/sh?style=flat-square&color=yellow)](https://github.com/mvdan/sh/stargazers) [![Forks](https://img.shields.io/github/forks/mvdan/sh?style=flat-square&color=blue)](https://github.com/mvdan/sh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.7k |
-| 🍴 **Forks** | 397 |
+| ⭐ **Stars** | 9.1k |
+| 🍴 **Forks** | 455 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-10-03 |
+| 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
 
-_no topics_
+`bash` `beautify` `formatter` `go` `interpreter` `mksh` `parser` `posix` `shell` `shfmt` `zsh`
 
 ## 🎯 Categories
 
@@ -25,8 +25,57 @@ Misc
 
 ## 📝 Summary
 
-The mvdan/sh project is an open-source shell parser and interpreter that supports both bash and zsh, allowing users to write and execute shell scripts in a more structured and maintainable way. It includes shfmt, a shell code formatter that helps keep scripts clean and readable. This project enables developers to write portable shell code with improved syntax checking and formatting.
+### English
+
+mvdan/sh: mvdan/sh may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+mvdan/sh: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+mvdan/sh：mvdan/sh may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** mvdan/sh may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 9102 GitHub stars
+- 455 forks
+- updated 2026-10-03
+- primary language: Go
+- 11 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 66/100 |
+| stars | 84/100 |
+| topics | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
+| adoption | 79/100 |
+| production | 69/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/mvdan/sh) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-10-03 · [View on GitHub](https://github.com/mvdan/sh) · [← Back to Misc](./README.md)</sub>

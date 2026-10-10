@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39239** |
-| **Categories** | **404** |
+| **Projects** | **39252** |
+| **Categories** | **405** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,17 +23,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15302 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4299 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15307 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4300 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2721 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2305 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1565 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1567 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1376 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 923 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 924 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 875 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 776 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 664 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 631 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 632 | [Browse →](./networking/) |
 | 📱 **Mobile** | 610 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 591 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 587 | [Browse →](./cloud--storage/) |
@@ -53,10 +53,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 70 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 71 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Offline** | 23 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 26 | [Browse →](./offline/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 15 | [Browse →](./open-source/) |
@@ -108,7 +108,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
-| 🏷️ **Bash** | 3 | [Browse →](./bash/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
@@ -173,6 +172,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Recommendation** | 1 | [Browse →](./recommendation/) |
+| 🏷️ **Dataset-provenance** | 1 | [Browse →](./dataset-provenance/) |
 | 🏷️ **Hardware-diagnostics** | 1 | [Browse →](./hardware-diagnostics/) |
 | 🏷️ **Ai-workflow** | 1 | [Browse →](./ai-workflow/) |
 | 🏷️ **Homelab** | 1 | [Browse →](./homelab/) |
