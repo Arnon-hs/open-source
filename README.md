@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39201** |
-| **Categories** | **400** |
+| **Projects** | **39205** |
+| **Categories** | **399** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,18 +23,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15292 | [Browse →](./misc/) |
+| 📦 **Misc** | 15295 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4295 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2721 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2304 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1563 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1564 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1376 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 921 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 872 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 776 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 663 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 630 | [Browse →](./networking/) |
-| 📱 **Mobile** | 607 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 608 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 591 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 587 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 513 | [Browse →](./database/) |
@@ -52,24 +52,24 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 198 | [Browse →](./trading/) |
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 102 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 70 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 23 | [Browse →](./offline/) |
-| 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
+| 🏷️ **Privacy** | 17 | [Browse →](./privacy/) |
 | 🏷️ **Open-source** | 15 | [Browse →](./open-source/) |
 | 🏷️ **Llm** | 15 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 13 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
+| 🏷️ **Offline-first** | 7 | [Browse →](./offline-first/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Offline-first** | 6 | [Browse →](./offline-first/) |
 | 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Android** | 5 | [Browse →](./android/) |
@@ -77,7 +77,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
-| 🏷️ **Git** | 5 | [Browse →](./git/) |
 | 🌐 **Open Source** | 4 | [Browse →](./opensource/) |
 | 🏷️ **Rag** | 4 | [Browse →](./rag/) |
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
@@ -86,6 +85,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
+| 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Nextjs** | 3 | [Browse →](./nextjs/) |
 | 🏷️ **Migration** | 3 | [Browse →](./migration/) |
@@ -322,7 +322,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Lead-enrichment** | 1 | [Browse →](./lead-enrichment/) |
 | 🏷️ **Ai-assisted-development** | 1 | [Browse →](./ai-assisted-development/) |
 | 🏷️ **Vscode** | 1 | [Browse →](./vscode/) |
-| 🏷️ **Pandas** | 1 | [Browse →](./pandas/) |
 | 🏷️ **Raspberrypi** | 1 | [Browse →](./raspberrypi/) |
 | 🏷️ **Okf** | 1 | [Browse →](./okf/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |

@@ -1,6 +1,6 @@
 # sanghyun-io/tunnelforge
 
-[![Stars](https://img.shields.io/github/stars/sanghyun-io/tunnelforge?style=flat-square&color=yellow)](https://github.com/sanghyun-io/tunnelforge/stargazers) [![Forks](https://img.shields.io/github/forks/sanghyun-io/tunnelforge?style=flat-square&color=blue)](https://github.com/sanghyun-io/tunnelforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanghyun-io/tunnelforge?style=flat-square&color=yellow)](https://github.com/sanghyun-io/tunnelforge/stargazers) [![Forks](https://img.shields.io/github/forks/sanghyun-io/tunnelforge?style=flat-square&color=blue)](https://github.com/sanghyun-io/tunnelforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app for MySQL and PostgreSQL behind bastion hosts: SSH tunnels, SQL editor with autocomplete, verified dump/restore, and MySQL to PostgreSQL migration. Windows + macOS (beta), Rust core, MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ sanghyun-io/tunnelforge：sanghyun-io/tunnelforge may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 57/100 |
+| outlook | 58/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
