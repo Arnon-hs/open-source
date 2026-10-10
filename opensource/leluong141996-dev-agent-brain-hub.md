@@ -1,6 +1,6 @@
 # leluong141996-dev/Agent-Brain-Hub
 
-[![Stars](https://img.shields.io/github/stars/leluong141996-dev/Agent-Brain-Hub?style=flat-square&color=yellow)](https://github.com/leluong141996-dev/Agent-Brain-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/leluong141996-dev/Agent-Brain-Hub?style=flat-square&color=blue)](https://github.com/leluong141996-dev/Agent-Brain-Hub/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leluong141996-dev/Agent-Brain-Hub?style=flat-square&color=yellow)](https://github.com/leluong141996-dev/Agent-Brain-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/leluong141996-dev/Agent-Brain-Hub?style=flat-square&color=blue)](https://github.com/leluong141996-dev/Agent-Brain-Hub/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Shared, brain-inspired memory for AI agents: 13 brain regions with awake/sleep loops, a live visualizer, agents connected via REST/SDK/MCP, governance & audit, and business-value metrics. Works with Claude, GPT, Gemini, DeepSeek or local LLMs. SQLite storage. VI/EN/JA.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ leluong141996-dev/Agent-Brain-Hub：leluong141996-dev/Agent-Brain-Hub may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
