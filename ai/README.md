@@ -14,7 +14,7 @@
 | 4 | [NTDevLops/UNIVERSAL-AGENTS.md](./ntdevlops-universal-agents.md.md) | ⭐ 1 | — | 64/100 |
 | 5 | [invarislabs/invaris-agentsec](./invarislabs-invaris-agentsec.md) | ⭐ 2 | Python | 62/100 |
 | 6 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
-| 7 | [UB-Mannheim/tesseract](./ub-mannheim-tesseract.md) | ⭐ 4.6k | C++ | 60/100 |
+| 7 | [UB-Mannheim/tesseract](./ub-mannheim-tesseract.md) | ⭐ 4.6k | C++ | 57/100 |
 | 8 | [dictionary-beep/Model-AI-free-low-cost](./dictionary-beep-model-ai-free-low-cost.md) | ⭐ 1 | — | 57/100 |
 | 9 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 10 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 51/100 |

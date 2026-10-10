@@ -1,6 +1,6 @@
 # Shahedr/data-quality-detective
 
-[![Stars](https://img.shields.io/github/stars/Shahedr/data-quality-detective?style=flat-square&color=yellow)](https://github.com/Shahedr/data-quality-detective/stargazers) [![Forks](https://img.shields.io/github/forks/Shahedr/data-quality-detective?style=flat-square&color=blue)](https://github.com/Shahedr/data-quality-detective/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shahedr/data-quality-detective?style=flat-square&color=yellow)](https://github.com/Shahedr/data-quality-detective/stargazers) [![Forks](https://img.shields.io/github/forks/Shahedr/data-quality-detective?style=flat-square&color=blue)](https://github.com/Shahedr/data-quality-detective/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > CLI data-quality profiler for CSV and Excel files with Markdown/HTML reports, tests, and CI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Shahedr/data-quality-detective：Shahedr/data-quality-detective may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
