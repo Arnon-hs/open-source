@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39318** |
+| **Projects** | **39321** |
 | **Categories** | **407** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,13 +23,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15336 | [Browse →](./misc/) |
+| 📦 **Misc** | 15337 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2722 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2305 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1567 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1377 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 925 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 926 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 875 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 777 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 665 | [Browse →](./documents/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 69 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 70 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 28 | [Browse →](./offline/) |
@@ -69,10 +69,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Offline-ai** | 6 | [Browse →](./offline-ai/) |
 | 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Sanity** | 6 | [Browse →](./sanity/) |
-| 🏷️ **Offline-ai** | 5 | [Browse →](./offline-ai/) |
 | 🏷️ **Android** | 5 | [Browse →](./android/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
@@ -81,7 +81,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-ai** | 4 | [Browse →](./edge-ai/) |
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
-| 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🌐 **Open Source** | 4 | [Browse →](./opensource/) |
 | 🏷️ **Rag** | 4 | [Browse →](./rag/) |
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
@@ -92,6 +91,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
+| 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Migration** | 3 | [Browse →](./migration/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
@@ -172,6 +172,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Hash-chain** | 1 | [Browse →](./hash-chain/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
 | 🏷️ **Doomscroll** | 1 | [Browse →](./doomscroll/) |
 | 🏷️ **Nature** | 1 | [Browse →](./nature/) |
@@ -325,7 +326,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Judging** | 1 | [Browse →](./judging/) |
 | 🏷️ **Web-development** | 1 | [Browse →](./web-development/) |
 | 🏷️ **Whatsapp** | 1 | [Browse →](./whatsapp/) |
-| 🏷️ **Terminal-multiplexer** | 1 | [Browse →](./terminal-multiplexer/) |
 | 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |
 | 🏷️ **Open-source-ai** | 1 | [Browse →](./open-source-ai/) |
 | 🏷️ **Vscode** | 1 | [Browse →](./vscode/) |

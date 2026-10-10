@@ -1,6 +1,6 @@
 # Sh1tmunch3r/Pylerium
 
-[![Stars](https://img.shields.io/github/stars/Sh1tmunch3r/Pylerium?style=flat-square&color=yellow)](https://github.com/Sh1tmunch3r/Pylerium/stargazers) [![Forks](https://img.shields.io/github/forks/Sh1tmunch3r/Pylerium?style=flat-square&color=blue)](https://github.com/Sh1tmunch3r/Pylerium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sh1tmunch3r/Pylerium?style=flat-square&color=yellow)](https://github.com/Sh1tmunch3r/Pylerium/stargazers) [![Forks](https://img.shields.io/github/forks/Sh1tmunch3r/Pylerium?style=flat-square&color=blue)](https://github.com/Sh1tmunch3r/Pylerium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Disclaimer: Pylerium is an original open-source developer workbench bringing the aesthetic of Call of Duty. It contains no proprietary game assets, extracted code, or trademarked material from Activision, Treyarch, or the Call of Duty franchise.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Sh1tmunch3r/Pylerium：Sh1tmunch3r/Pylerium may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 52/100 |
+| production | 52/100 |
+| outlook | 45/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 400/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

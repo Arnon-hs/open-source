@@ -2,17 +2,18 @@
 
 > 
 
-**5 projects** in this category.
+**6 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [nomic-ai/nomic](./nomic-ai-nomic.md) | ⭐ 1.9k | Python | 74/100 |
-| 2 | [vash57/OfflineMode](./vash57-offlinemode.md) | ⭐ — | CSS | 39/100 |
-| 3 | [AdibaNaushad/outside.exe](./adibanaushad-outside.exe.md) | ⭐ — | JavaScript | 36/100 |
-| 4 | [tsayen/html-to-image](./tsayen-html-to-image.md) | ⭐ — | — | 24/100 |
-| 5 | [Mohammad1sami/animix](./mohammad1sami-animix.md) | ⭐ — | — | 24/100 |
+| 2 | [Ahitagni07/escape-digital-detox](./ahitagni07-escape-digital-detox.md) | ⭐ 1 | Kotlin | 40/100 |
+| 3 | [vash57/OfflineMode](./vash57-offlinemode.md) | ⭐ — | CSS | 39/100 |
+| 4 | [AdibaNaushad/outside.exe](./adibanaushad-outside.exe.md) | ⭐ — | JavaScript | 36/100 |
+| 5 | [tsayen/html-to-image](./tsayen-html-to-image.md) | ⭐ — | — | 24/100 |
+| 6 | [Mohammad1sami/animix](./mohammad1sami-animix.md) | ⭐ — | — | 24/100 |
 
 ---
 
