@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vinimabreu/dapraia](./vinimabreu-dapraia.md) | ⭐ — | Python | 49/100 |
+| 1 | [vinimabreu/dapraia](./vinimabreu-dapraia.md) | ⭐ — | Python | 46/100 |
 
 ---
 
