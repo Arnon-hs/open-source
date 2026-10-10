@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**612 projects** in this category.
+**613 projects** in this category.
 
 ## Projects
 
@@ -105,8 +105,8 @@
 | 95 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.3k | Kotlin | 61/100 |
 | 96 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 627 | Kotlin | 61/100 |
 | 97 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 234 | Kotlin | 61/100 |
-| 98 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 61/100 |
-| 99 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 61/100 |
+| 98 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 61/100 |
+| 99 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 61/100 |
 | 100 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 800 | JavaScript | 61/100 |
 | 101 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13k | Swift | 61/100 |
 | 102 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.4k | Kotlin | 61/100 |
@@ -159,8 +159,8 @@
 | 149 | [jiangtian616/JHenTai](./jiangtian616-jhentai.md) | ⭐ 5.2k | Dart | 59/100 |
 | 150 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 4.2k | Kotlin | 59/100 |
 | 151 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.4k | Kotlin | 59/100 |
-| 152 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 59/100 |
-| 153 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 152 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 153 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 59/100 |
 | 154 | [bonigarcia/mastering-junit5](./bonigarcia-mastering-junit5.md) | ⭐ 431 | Java | 59/100 |
 | 155 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.6k | Java | 59/100 |
 | 156 | [patrykandpatrick/vico](./patrykandpatrick-vico.md) | ⭐ 3.1k | Kotlin | 59/100 |
@@ -273,8 +273,8 @@
 | 263 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
 | 264 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 527 | Kotlin | 55/100 |
 | 265 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 55/100 |
-| 266 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
-| 267 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 582 | JavaScript | 55/100 |
+| 266 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 582 | JavaScript | 55/100 |
+| 267 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
 | 268 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 465 | Kotlin | 55/100 |
 | 269 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 270 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 2.1k | Kotlin | 55/100 |
@@ -565,61 +565,62 @@
 | 555 | [Cynostial/malibu](./cynostial-malibu.md) | ⭐ — | Swift | 39/100 |
 | 556 | [hsandhu/agent](./hsandhu-agent.md) | ⭐ — | — | 39/100 |
 | 557 | [atj393/automatist-android](./atj393-automatist-android.md) | ⭐ — | — | 39/100 |
-| 558 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 39/100 |
-| 559 | [ABHISIKTAcommits/GrassWhisper](./abhisiktacommits-grasswhisper.md) | ⭐ — | HTML | 39/100 |
-| 560 | [john-comptonemail-com/malinois](./john-comptonemail-com-malinois.md) | ⭐ — | — | 38/100 |
-| 561 | [fulalas/unichat](./fulalas-unichat.md) | ⭐ — | — | 38/100 |
-| 562 | [1etu/nos4](./1etu-nos4.md) | ⭐ — | — | 38/100 |
-| 563 | [jprx/darwin-vm](./jprx-darwin-vm.md) | ⭐ — | — | 38/100 |
-| 564 | [ggcaponetto/point-bang](./ggcaponetto-point-bang.md) | ⭐ — | — | 38/100 |
-| 565 | [scastiel/kado](./scastiel-kado.md) | ⭐ — | — | 38/100 |
-| 566 | [wmww/tawc](./wmww-tawc.md) | ⭐ — | — | 38/100 |
-| 567 | [jocmp/capyreader](./jocmp-capyreader.md) | ⭐ — | — | 38/100 |
-| 568 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ — | — | 38/100 |
-| 569 | [shinyquagsire23/Klepton](./shinyquagsire23-klepton.md) | ⭐ — | — | 38/100 |
-| 570 | [ddagunts/pwagen](./ddagunts-pwagen.md) | ⭐ — | — | 38/100 |
-| 571 | [z0rats/freqcast](./z0rats-freqcast.md) | ⭐ — | — | 38/100 |
-| 572 | [mokshablr/gander](./mokshablr-gander.md) | ⭐ — | — | 38/100 |
-| 573 | [usedowe/dowe-lang](./usedowe-dowe-lang.md) | ⭐ — | — | 38/100 |
-| 574 | [aditauqir/fyp](./aditauqir-fyp.md) | ⭐ — | — | 38/100 |
-| 575 | [50YearsPhone/vision-50-years-phone](./50yearsphone-vision-50-years-phone.md) | ⭐ — | — | 38/100 |
-| 576 | [sakai-sktech/koime](./sakai-sktech-koime.md) | ⭐ — | — | 38/100 |
-| 577 | [openfde/openfde](./openfde-openfde.md) | ⭐ — | — | 38/100 |
-| 578 | [hsandhu/serve-avd](./hsandhu-serve-avd.md) | ⭐ — | — | 38/100 |
-| 579 | [34306/usbliter8-fun](./34306-usbliter8-fun.md) | ⭐ — | — | 38/100 |
-| 580 | [auxiliaryutils/deskpad-app](./auxiliaryutils-deskpad-app.md) | ⭐ — | — | 38/100 |
-| 581 | [ivancernja/crate](./ivancernja-crate.md) | ⭐ — | — | 38/100 |
-| 582 | [shubhang-d/Loophole](./shubhang-d-loophole.md) | ⭐ — | — | 38/100 |
-| 583 | [Pedroshakoor/grok-build-ios](./pedroshakoor-grok-build-ios.md) | ⭐ — | — | 38/100 |
-| 584 | [Helldez/BigMoeOnEdge](./helldez-bigmoeonedge.md) | ⭐ — | — | 38/100 |
-| 585 | [mykolaharmash/notelet](./mykolaharmash-notelet.md) | ⭐ — | — | 38/100 |
-| 586 | [Gedsh/InviZible](./gedsh-invizible.md) | ⭐ — | — | 38/100 |
-| 587 | [eu-digital-identity-wallet/av-doc-technical-specification](./eu-digital-identity-wallet-av-doc-technical-specification.md) | ⭐ — | — | 38/100 |
-| 588 | [dk8827/ra-port](./dk8827-ra-port.md) | ⭐ — | — | 38/100 |
-| 589 | [switchboard-sdk/EdgeSpeech](./switchboard-sdk-edgespeech.md) | ⭐ — | — | 38/100 |
-| 590 | [Birkenpapier/ai-app-cloner](./birkenpapier-ai-app-cloner.md) | ⭐ — | — | 38/100 |
-| 591 | [zerx-lab/FluxDown](./zerx-lab-fluxdown.md) | ⭐ — | — | 38/100 |
-| 592 | [mattkae/layer_shell.dart](./mattkae-layer-shell.dart.md) | ⭐ — | — | 38/100 |
-| 593 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
-| 594 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 38/100 |
-| 595 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 596 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
-| 597 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 598 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 38/100 |
-| 599 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 38/100 |
-| 600 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 38/100 |
-| 601 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 38/100 |
-| 602 | [Vadimkomis/onboarding](./vadimkomis-onboarding.md) | ⭐ — | — | 38/100 |
-| 603 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 38/100 |
-| 604 | [cas8398/debugprint](./cas8398-debugprint.md) | ⭐ 1 | Kotlin | 37/100 |
-| 605 | [manalejandro/MiTension](./manalejandro-mitension.md) | ⭐ — | — | 37/100 |
-| 606 | [wuxudong/react-native-chart-kit](./wuxudong-react-native-chart-kit.md) | ⭐ — | — | 36/100 |
-| 607 | [lunarr-app/vlc-player](./lunarr-app-vlc-player.md) | ⭐ — | — | 36/100 |
-| 608 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 36/100 |
-| 609 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
-| 610 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
-| 611 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
-| 612 | [termish/herdr](./termish-herdr.md) | ⭐ — | — | 24/100 |
+| 558 | [Malvin555/touch-grass](./malvin555-touch-grass.md) | ⭐ — | Vue | 39/100 |
+| 559 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 39/100 |
+| 560 | [ABHISIKTAcommits/GrassWhisper](./abhisiktacommits-grasswhisper.md) | ⭐ — | HTML | 39/100 |
+| 561 | [john-comptonemail-com/malinois](./john-comptonemail-com-malinois.md) | ⭐ — | — | 38/100 |
+| 562 | [fulalas/unichat](./fulalas-unichat.md) | ⭐ — | — | 38/100 |
+| 563 | [1etu/nos4](./1etu-nos4.md) | ⭐ — | — | 38/100 |
+| 564 | [jprx/darwin-vm](./jprx-darwin-vm.md) | ⭐ — | — | 38/100 |
+| 565 | [ggcaponetto/point-bang](./ggcaponetto-point-bang.md) | ⭐ — | — | 38/100 |
+| 566 | [scastiel/kado](./scastiel-kado.md) | ⭐ — | — | 38/100 |
+| 567 | [wmww/tawc](./wmww-tawc.md) | ⭐ — | — | 38/100 |
+| 568 | [jocmp/capyreader](./jocmp-capyreader.md) | ⭐ — | — | 38/100 |
+| 569 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ — | — | 38/100 |
+| 570 | [shinyquagsire23/Klepton](./shinyquagsire23-klepton.md) | ⭐ — | — | 38/100 |
+| 571 | [ddagunts/pwagen](./ddagunts-pwagen.md) | ⭐ — | — | 38/100 |
+| 572 | [z0rats/freqcast](./z0rats-freqcast.md) | ⭐ — | — | 38/100 |
+| 573 | [mokshablr/gander](./mokshablr-gander.md) | ⭐ — | — | 38/100 |
+| 574 | [usedowe/dowe-lang](./usedowe-dowe-lang.md) | ⭐ — | — | 38/100 |
+| 575 | [aditauqir/fyp](./aditauqir-fyp.md) | ⭐ — | — | 38/100 |
+| 576 | [50YearsPhone/vision-50-years-phone](./50yearsphone-vision-50-years-phone.md) | ⭐ — | — | 38/100 |
+| 577 | [sakai-sktech/koime](./sakai-sktech-koime.md) | ⭐ — | — | 38/100 |
+| 578 | [openfde/openfde](./openfde-openfde.md) | ⭐ — | — | 38/100 |
+| 579 | [hsandhu/serve-avd](./hsandhu-serve-avd.md) | ⭐ — | — | 38/100 |
+| 580 | [34306/usbliter8-fun](./34306-usbliter8-fun.md) | ⭐ — | — | 38/100 |
+| 581 | [auxiliaryutils/deskpad-app](./auxiliaryutils-deskpad-app.md) | ⭐ — | — | 38/100 |
+| 582 | [ivancernja/crate](./ivancernja-crate.md) | ⭐ — | — | 38/100 |
+| 583 | [shubhang-d/Loophole](./shubhang-d-loophole.md) | ⭐ — | — | 38/100 |
+| 584 | [Pedroshakoor/grok-build-ios](./pedroshakoor-grok-build-ios.md) | ⭐ — | — | 38/100 |
+| 585 | [Helldez/BigMoeOnEdge](./helldez-bigmoeonedge.md) | ⭐ — | — | 38/100 |
+| 586 | [mykolaharmash/notelet](./mykolaharmash-notelet.md) | ⭐ — | — | 38/100 |
+| 587 | [Gedsh/InviZible](./gedsh-invizible.md) | ⭐ — | — | 38/100 |
+| 588 | [eu-digital-identity-wallet/av-doc-technical-specification](./eu-digital-identity-wallet-av-doc-technical-specification.md) | ⭐ — | — | 38/100 |
+| 589 | [dk8827/ra-port](./dk8827-ra-port.md) | ⭐ — | — | 38/100 |
+| 590 | [switchboard-sdk/EdgeSpeech](./switchboard-sdk-edgespeech.md) | ⭐ — | — | 38/100 |
+| 591 | [Birkenpapier/ai-app-cloner](./birkenpapier-ai-app-cloner.md) | ⭐ — | — | 38/100 |
+| 592 | [zerx-lab/FluxDown](./zerx-lab-fluxdown.md) | ⭐ — | — | 38/100 |
+| 593 | [mattkae/layer_shell.dart](./mattkae-layer-shell.dart.md) | ⭐ — | — | 38/100 |
+| 594 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
+| 595 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 38/100 |
+| 596 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
+| 597 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
+| 598 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 599 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 38/100 |
+| 600 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 38/100 |
+| 601 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 38/100 |
+| 602 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 38/100 |
+| 603 | [Vadimkomis/onboarding](./vadimkomis-onboarding.md) | ⭐ — | — | 38/100 |
+| 604 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 38/100 |
+| 605 | [cas8398/debugprint](./cas8398-debugprint.md) | ⭐ 1 | Kotlin | 37/100 |
+| 606 | [manalejandro/MiTension](./manalejandro-mitension.md) | ⭐ — | — | 37/100 |
+| 607 | [wuxudong/react-native-chart-kit](./wuxudong-react-native-chart-kit.md) | ⭐ — | — | 36/100 |
+| 608 | [lunarr-app/vlc-player](./lunarr-app-vlc-player.md) | ⭐ — | — | 36/100 |
+| 609 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 36/100 |
+| 610 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
+| 611 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
+| 612 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 613 | [termish/herdr](./termish-herdr.md) | ⭐ — | — | 24/100 |
 
 ---
 
