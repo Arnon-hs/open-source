@@ -1,6 +1,6 @@
 # thiagoxikota/figma-maxxing
 
-[![Stars](https://img.shields.io/github/stars/thiagoxikota/figma-maxxing?style=flat-square&color=yellow)](https://github.com/thiagoxikota/figma-maxxing/stargazers) [![Forks](https://img.shields.io/github/forks/thiagoxikota/figma-maxxing?style=flat-square&color=blue)](https://github.com/thiagoxikota/figma-maxxing/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thiagoxikota/figma-maxxing?style=flat-square&color=yellow)](https://github.com/thiagoxikota/figma-maxxing/stargazers) [![Forks](https://img.shields.io/github/forks/thiagoxikota/figma-maxxing?style=flat-square&color=blue)](https://github.com/thiagoxikota/figma-maxxing/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 8 agent skills for real Figma files, for Claude Code, Codex, Copilot CLI and Gemini CLI: 90 Plugin API gotchas, checks before and after every write, a handoff gate.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ thiagoxikota/figma-maxxing：thiagoxikota/figma-maxxing may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 100/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 66/100 |
+| outlook | 69/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 20/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
