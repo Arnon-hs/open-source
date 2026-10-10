@@ -2,7 +2,7 @@
 
 > 
 
-**12 projects** in this category.
+**13 projects** in this category.
 
 ## Projects
 
@@ -16,10 +16,11 @@
 | 6 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
 | 7 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 41/100 |
 | 8 | [Drishya-code/Find-My-Thingy](./drishya-code-find-my-thingy.md) | ⭐ 1 | Python | 40/100 |
-| 9 | [25A35A0531/StudyNote-AI](./25a35a0531-studynote-ai.md) | ⭐ — | Python | 39/100 |
-| 10 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 36/100 |
-| 11 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 36/100 |
-| 12 | [0xShugo/audio.cpp](./0xshugo-audio.cpp.md) | ⭐ — | — | 27/100 |
+| 9 | [DinukaEk/grassquest-local](./dinukaek-grassquest-local.md) | ⭐ — | CSS | 39/100 |
+| 10 | [25A35A0531/StudyNote-AI](./25a35a0531-studynote-ai.md) | ⭐ — | Python | 39/100 |
+| 11 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 36/100 |
+| 12 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 36/100 |
+| 13 | [0xShugo/audio.cpp](./0xshugo-audio.cpp.md) | ⭐ — | — | 27/100 |
 
 ---
 

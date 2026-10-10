@@ -20,7 +20,7 @@
 | 10 | [econovibe/MyHardwareInfo](./econovibe-myhardwareinfo.md) | ⭐ — | Rust | 45/100 |
 | 11 | [Yaser-123/PagePilot](./yaser-123-pagepilot.md) | ⭐ — | TypeScript | 44/100 |
 | 12 | [Bangkah/CRM-Automation-System](./bangkah-crm-automation-system.md) | ⭐ 1 | Go | 44/100 |
-| 13 | [abhijeetnardele24-hash/groundsignal](./abhijeetnardele24-hash-groundsignal.md) | ⭐ — | TypeScript | 42/100 |
+| 13 | [abhijeetnardele24-hash/groundsignal](./abhijeetnardele24-hash-groundsignal.md) | ⭐ — | TypeScript | 39/100 |
 | 14 | [sohamsakhare76-ai/findit-ai](./sohamsakhare76-ai-findit-ai.md) | ⭐ — | Python | 39/100 |
 | 15 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |
 | 16 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 33/100 |
