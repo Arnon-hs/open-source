@@ -1,6 +1,6 @@
 # CR4CODE/Termux-Assistant-AI
 
-[![Stars](https://img.shields.io/github/stars/CR4CODE/Termux-Assistant-AI?style=flat-square&color=yellow)](https://github.com/CR4CODE/Termux-Assistant-AI/stargazers) [![Forks](https://img.shields.io/github/forks/CR4CODE/Termux-Assistant-AI?style=flat-square&color=blue)](https://github.com/CR4CODE/Termux-Assistant-AI/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CR4CODE/Termux-Assistant-AI?style=flat-square&color=yellow)](https://github.com/CR4CODE/Termux-Assistant-AI/stargazers) [![Forks](https://img.shields.io/github/forks/CR4CODE/Termux-Assistant-AI?style=flat-square&color=blue)](https://github.com/CR4CODE/Termux-Assistant-AI/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Description: AI assistant for Android via Termux + DeepSeek — voice input, app control, autonomous development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ CR4CODE/Termux-Assistant-AI：CR4CODE/Termux-Assistant-AI may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
