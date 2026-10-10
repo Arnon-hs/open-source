@@ -258,8 +258,8 @@
 | 248 | [planetarium/NineChronicles](./planetarium-ninechronicles.md) | ⭐ 402 | C# | 63/100 |
 | 249 | [blockscout/blockscout](./blockscout-blockscout.md) | ⭐ 4.5k | Elixir | 63/100 |
 | 250 | [apibara/dna](./apibara-dna.md) | ⭐ 217 | Rust | 63/100 |
-| 251 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 63/100 |
-| 252 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 63/100 |
+| 251 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 63/100 |
+| 252 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 63/100 |
 | 253 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 63/100 |
 | 254 | [thegeronimo/hyperopen](./thegeronimo-hyperopen.md) | ⭐ 45 | Clojure | 62/100 |
 | 255 | [binance/binance-skills-hub](./binance-binance-skills-hub.md) | ⭐ 956 | Python | 62/100 |
@@ -590,8 +590,8 @@
 | 580 | [OneKeyHQ/app-monorepo](./onekeyhq-app-monorepo.md) | ⭐ 2.4k | TypeScript | 53/100 |
 | 581 | [BlockRunAI/Franklin](./blockrunai-franklin.md) | ⭐ 564 | TypeScript | 53/100 |
 | 582 | [IntersectMBO/cardano-ledger](./intersectmbo-cardano-ledger.md) | ⭐ 291 | Haskell | 52/100 |
-| 583 | [morpho-org/morpho-blue-oracles](./morpho-org-morpho-blue-oracles.md) | ⭐ 114 | Solidity | 52/100 |
-| 584 | [Drix10/ai-resources](./drix10-ai-resources.md) | ⭐ 115 | — | 52/100 |
+| 583 | [Drix10/ai-resources](./drix10-ai-resources.md) | ⭐ 115 | — | 52/100 |
+| 584 | [morpho-org/morpho-blue-oracles](./morpho-org-morpho-blue-oracles.md) | ⭐ 114 | Solidity | 52/100 |
 | 585 | [nirholas/PAI](./nirholas-pai.md) | ⭐ 103 | Shell | 52/100 |
 | 586 | [novasamatech/nova-wallet-ios](./novasamatech-nova-wallet-ios.md) | ⭐ 65 | Swift | 52/100 |
 | 587 | [bitaxeorg/ESP-Miner](./bitaxeorg-esp-miner.md) | ⭐ 924 | C | 52/100 |
@@ -614,8 +614,8 @@
 | 604 | [ErcinDedeoglu/crypto-market-data](./ercindedeoglu-crypto-market-data.md) | ⭐ 75 | — | 51/100 |
 | 605 | [Synthetixio/SIPs](./synthetixio-sips.md) | ⭐ 121 | Jupyter Notebook | 51/100 |
 | 606 | [solana-mobile/mobile-wallet-adapter](./solana-mobile-mobile-wallet-adapter.md) | ⭐ 328 | TypeScript | 51/100 |
-| 607 | [gemwalletcom/wallet](./gemwalletcom-wallet.md) | ⭐ 45 | Rust | 51/100 |
-| 608 | [balancer/frontend-monorepo](./balancer-frontend-monorepo.md) | ⭐ 37 | TypeScript | 51/100 |
+| 607 | [balancer/frontend-monorepo](./balancer-frontend-monorepo.md) | ⭐ 37 | TypeScript | 51/100 |
+| 608 | [gemwalletcom/wallet](./gemwalletcom-wallet.md) | ⭐ 45 | Rust | 51/100 |
 | 609 | [sanbir/evm-hack-registry](./sanbir-evm-hack-registry.md) | ⭐ 52 | Solidity | 51/100 |
 | 610 | [mynodebtc/mynode](./mynodebtc-mynode.md) | ⭐ 737 | HTML | 51/100 |
 | 611 | [tink-crypto/tink-java](./tink-crypto-tink-java.md) | ⭐ 297 | Java | 51/100 |

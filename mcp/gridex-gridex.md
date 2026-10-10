@@ -64,18 +64,18 @@ gridex/gridex：gridex/gridex helps connect AI assistants to real tools and data
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 78/100 |
-| production | 66/100 |
-| outlook | 66/100 |
-| adoption | 64/100 |
-| categoryMatchCount | 200/100 |
-| stars | 68/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| stars | 68/100 |
 | topics | 0/100 |
+| outlook | 66/100 |
+| quality | 59/100 |
+| recency | 80/100 |
+| adoption | 64/100 |
+| production | 66/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

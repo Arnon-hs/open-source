@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [herbertyeung/SingLilt](./herbertyeung-singlilt.md) | ⭐ — | C++ | 39/100 |
+| 1 | [herbertyeung/SingLilt](./herbertyeung-singlilt.md) | ⭐ — | C++ | 36/100 |
 
 ---
 

@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [harbor-framework/terminal-bench](./harbor-framework-terminal-bench.md) | ⭐ 852 | Python | 65/100 |
-| 2 | [Amsozzer1/tb3-pdf-redactor](./amsozzer1-tb3-pdf-redactor.md) | ⭐ — | Python | 42/100 |
+| 2 | [Amsozzer1/tb3-pdf-redactor](./amsozzer1-tb3-pdf-redactor.md) | ⭐ — | Python | 39/100 |
 
 ---
 

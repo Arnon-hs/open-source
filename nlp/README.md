@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gokimedia/turkish-ev-charging-intents](./gokimedia-turkish-ev-charging-intents.md) | ⭐ — | JavaScript | 47/100 |
+| 1 | [SoumyaEXE/trailtruth](./soumyaexe-trailtruth.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 
