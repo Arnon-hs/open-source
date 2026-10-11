@@ -1,6 +1,6 @@
 # rowfirehq/rowfire
 
-[![Stars](https://img.shields.io/github/stars/rowfirehq/rowfire?style=flat-square&color=yellow)](https://github.com/rowfirehq/rowfire/stargazers) [![Forks](https://img.shields.io/github/forks/rowfirehq/rowfire?style=flat-square&color=blue)](https://github.com/rowfirehq/rowfire/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rowfirehq/rowfire?style=flat-square&color=yellow)](https://github.com/rowfirehq/rowfire/stargazers) [![Forks](https://img.shields.io/github/forks/rowfirehq/rowfire?style=flat-square&color=blue)](https://github.com/rowfirehq/rowfire/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The events your app never emitted. PostgreSQL/MySQL → Slack, Zendesk, Braze, any API. Backtest and shadow mode before anything sends.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ rowfirehq/rowfire：rowfirehq/rowfire may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 55/100 |
+| production | 54/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
