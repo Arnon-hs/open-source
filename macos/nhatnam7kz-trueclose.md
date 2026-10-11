@@ -1,6 +1,6 @@
 # nhatnam7kz/TrueClose
 
-[![Stars](https://img.shields.io/github/stars/nhatnam7kz/TrueClose?style=flat-square&color=yellow)](https://github.com/nhatnam7kz/TrueClose/stargazers) [![Forks](https://img.shields.io/github/forks/nhatnam7kz/TrueClose?style=flat-square&color=blue)](https://github.com/nhatnam7kz/TrueClose/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nhatnam7kz/TrueClose?style=flat-square&color=yellow)](https://github.com/nhatnam7kz/TrueClose/stargazers) [![Forks](https://img.shields.io/github/forks/nhatnam7kz/TrueClose?style=flat-square&color=blue)](https://github.com/nhatnam7kz/TrueClose/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > TrueClose – A lightweight macOS menu bar utility that automatically quits apps when their last window is closed like Windows OS. Free & Open-source SwiftQuit alternative.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ nhatnam7kz/TrueClose：nhatnam7kz/TrueClose may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 500/100 |
 | stars | 17/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

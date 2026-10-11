@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39498** |
-| **Categories** | **425** |
+| **Projects** | **39507** |
+| **Categories** | **426** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15406 | [Browse →](./misc/) |
+| 📦 **Misc** | 15409 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4313 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2730 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2731 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2309 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1383 | [Browse →](./automation/) |
@@ -37,9 +37,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 615 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 593 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 588 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 516 | [Browse →](./database/) |
+| 🏷️ **Database** | 517 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 502 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 463 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 464 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 442 | [Browse →](./templates/) |
 | 🔐 **Security** | 411 | [Browse →](./security/) |
 | 🏷️ **Communication** | 410 | [Browse →](./communication/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 83 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 84 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
@@ -64,7 +64,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 15 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
-| 🏷️ **Offline-first** | 9 | [Browse →](./offline-first/) |
+| 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
@@ -177,6 +177,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Local-exploration** | 1 | [Browse →](./local-exploration/) |
 | 🏷️ **Api-security** | 1 | [Browse →](./api-security/) |
 | 🏷️ **Usability** | 1 | [Browse →](./usability/) |
 | 🏷️ **Night-vision** | 1 | [Browse →](./night-vision/) |

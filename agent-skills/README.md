@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kks0488/skilladopt](./kks0488-skilladopt.md) | ⭐ — | TypeScript | 58/100 |
+| 1 | [kks0488/skilladopt](./kks0488-skilladopt.md) | ⭐ — | TypeScript | 55/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 
 
-**9 projects** in this category.
+**10 projects** in this category.
 
 ## Projects
 
@@ -15,8 +15,9 @@
 | 5 | [PruthviRajG25/Hacktoberfest-Week1](./pruthvirajg25-hacktoberfest-week1.md) | ⭐ — | JavaScript | 39/100 |
 | 6 | [karanray06/trailhead](./karanray06-trailhead.md) | ⭐ — | TypeScript | 36/100 |
 | 7 | [Yash990-bit/WildPulse](./yash990-bit-wildpulse.md) | ⭐ — | JavaScript | 33/100 |
-| 8 | [llama-cpp/llama.cpp](./llama-cpp-llama.cpp.md) | ⭐ — | — | 24/100 |
-| 9 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 24/100 |
+| 8 | [sohaibtausif141/sit-spot](./sohaibtausif141-sit-spot.md) | ⭐ — | — | 24/100 |
+| 9 | [llama-cpp/llama.cpp](./llama-cpp-llama.cpp.md) | ⭐ — | — | 24/100 |
+| 10 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 24/100 |
 
 ---
 
