@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39391** |
-| **Categories** | **411** |
+| **Projects** | **39401** |
+| **Categories** | **412** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15364 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4307 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2723 | [Browse →](./mcp/) |
+| 📦 **Misc** | 15366 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4309 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2725 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2308 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1567 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1381 | [Browse →](./automation/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 461 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 442 | [Browse →](./templates/) |
 | 🔐 **Security** | 410 | [Browse →](./security/) |
-| 🏷️ **Communication** | 408 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 409 | [Browse →](./communication/) |
 | 📊 **Data** | 332 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 328 | [Browse →](./games--graphics/) |
@@ -53,15 +53,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 77 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 79 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 29 | [Browse →](./offline/) |
 | 🏷️ **Open-source** | 20 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
-| 🏷️ **Local-first** | 16 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Local-first** | 15 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 13 | [Browse →](./local-ai/) |
 | 🏷️ **Offline-first** | 8 | [Browse →](./offline-first/) |
@@ -109,6 +109,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Open-source-ai** | 2 | [Browse →](./open-source-ai/) |
 | 🏷️ **Ai-ops** | 2 | [Browse →](./ai-ops/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
@@ -176,6 +177,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **File-transfer** | 1 | [Browse →](./file-transfer/) |
+| 🏷️ **On-device-ai** | 1 | [Browse →](./on-device-ai/) |
 | 🏷️ **Gitlab** | 1 | [Browse →](./gitlab/) |
 | 🏷️ **License-compatibility** | 1 | [Browse →](./license-compatibility/) |
 | 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |
@@ -328,11 +331,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Food** | 1 | [Browse →](./food/) |
 | 🏷️ **Secret-rotation** | 1 | [Browse →](./secret-rotation/) |
 | 🏷️ **Current-affairs** | 1 | [Browse →](./current-affairs/) |
-| 🏷️ **Water-quality** | 1 | [Browse →](./water-quality/) |
 | 🏷️ **Eurorack** | 1 | [Browse →](./eurorack/) |
 | 🏷️ **Web-development** | 1 | [Browse →](./web-development/) |
 | 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |
-| 🏷️ **Open-source-ai** | 1 | [Browse →](./open-source-ai/) |
 | 🏷️ **Vscode** | 1 | [Browse →](./vscode/) |
 | 🏷️ **Raspberrypi** | 1 | [Browse →](./raspberrypi/) |
 | 🏷️ **Okf** | 1 | [Browse →](./okf/) |
