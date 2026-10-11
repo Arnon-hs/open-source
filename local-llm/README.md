@@ -2,7 +2,7 @@
 
 > 
 
-**14 projects** in this category.
+**13 projects** in this category.
 
 ## Projects
 
@@ -10,18 +10,17 @@
 |---|---|---|---|---|
 | 1 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 3 | Python | 63/100 |
 | 2 | [KunalSiyag/fieldcards](./kunalsiyag-fieldcards.md) | ⭐ — | TypeScript | 47/100 |
-| 3 | [antoniahp/gemma-garage](./antoniahp-gemma-garage.md) | ⭐ — | Python | 46/100 |
-| 4 | [sleepyaishik69/ChromaWild](./sleepyaishik69-chromawild.md) | ⭐ — | TypeScript | 39/100 |
-| 5 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
-| 6 | [HyunsikParker/outingfold](./hyunsikparker-outingfold.md) | ⭐ — | JavaScript | 36/100 |
-| 7 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 36/100 |
-| 8 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
-| 9 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
-| 10 | [google/ai-demos](./google-ai-demos.md) | ⭐ — | — | 27/100 |
-| 11 | [jerryjliu/llama_index](./jerryjliu-llama-index.md) | ⭐ — | — | 24/100 |
-| 12 | [open-code/open-code](./open-code-open-code.md) | ⭐ — | — | 24/100 |
-| 13 | [peakaistack/lm](./peakaistack-lm.md) | ⭐ — | — | 24/100 |
-| 14 | [vittoriozz/litellm](./vittoriozz-litellm.md) | ⭐ — | — | 24/100 |
+| 3 | [sleepyaishik69/ChromaWild](./sleepyaishik69-chromawild.md) | ⭐ — | TypeScript | 39/100 |
+| 4 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
+| 5 | [HyunsikParker/outingfold](./hyunsikparker-outingfold.md) | ⭐ — | JavaScript | 36/100 |
+| 6 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 36/100 |
+| 7 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
+| 8 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
+| 9 | [google/ai-demos](./google-ai-demos.md) | ⭐ — | — | 27/100 |
+| 10 | [jerryjliu/llama_index](./jerryjliu-llama-index.md) | ⭐ — | — | 24/100 |
+| 11 | [open-code/open-code](./open-code-open-code.md) | ⭐ — | — | 24/100 |
+| 12 | [peakaistack/lm](./peakaistack-lm.md) | ⭐ — | — | 24/100 |
+| 13 | [vittoriozz/litellm](./vittoriozz-litellm.md) | ⭐ — | — | 24/100 |
 
 ---
 

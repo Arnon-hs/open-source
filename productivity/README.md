@@ -2,7 +2,7 @@
 
 > 
 
-**315 projects** in this category.
+**317 projects** in this category.
 
 ## Projects
 
@@ -298,31 +298,33 @@
 | 288 | [y-times-y/y](./y-times-y-y.md) | ⭐ — | — | 42/100 |
 | 289 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 768 | Rust | 42/100 |
 | 290 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
-| 291 | [mohannad789/claude-desktop-skin](./mohannad789-claude-desktop-skin.md) | ⭐ — | — | 41/100 |
-| 292 | [logrelu/swaybles](./logrelu-swaybles.md) | ⭐ — | — | 41/100 |
-| 293 | [NathanAB/statusline-anywhere](./nathanab-statusline-anywhere.md) | ⭐ — | — | 41/100 |
-| 294 | [A-Akhil/Minimalist-Focus-Launcher](./a-akhil-minimalist-focus-launcher.md) | ⭐ 4 | Kotlin | 41/100 |
-| 295 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ — | — | 41/100 |
-| 296 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ — | — | 41/100 |
-| 297 | [aescle/productivity-protocols](./aescle-productivity-protocols.md) | ⭐ — | — | 41/100 |
-| 298 | [mgueregath/condui](./mgueregath-condui.md) | ⭐ — | — | 41/100 |
-| 299 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
-| 300 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
-| 301 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 302 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
-| 303 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
-| 304 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
-| 305 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
-| 306 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
-| 307 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
-| 308 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
-| 309 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ — | — | 38/100 |
-| 310 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
-| 311 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
-| 312 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
-| 313 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
-| 314 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
-| 315 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 31/100 |
+| 291 | [tbtb07/GreenLock](./tbtb07-greenlock.md) | ⭐ — | JavaScript | 42/100 |
+| 292 | [mohannad789/claude-desktop-skin](./mohannad789-claude-desktop-skin.md) | ⭐ — | — | 41/100 |
+| 293 | [logrelu/swaybles](./logrelu-swaybles.md) | ⭐ — | — | 41/100 |
+| 294 | [NathanAB/statusline-anywhere](./nathanab-statusline-anywhere.md) | ⭐ — | — | 41/100 |
+| 295 | [A-Akhil/Minimalist-Focus-Launcher](./a-akhil-minimalist-focus-launcher.md) | ⭐ 4 | Kotlin | 41/100 |
+| 296 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ — | — | 41/100 |
+| 297 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ — | — | 41/100 |
+| 298 | [aescle/productivity-protocols](./aescle-productivity-protocols.md) | ⭐ — | — | 41/100 |
+| 299 | [mgueregath/condui](./mgueregath-condui.md) | ⭐ — | — | 41/100 |
+| 300 | [maitriii08/FlowOutside](./maitriii08-flowoutside.md) | ⭐ 1 | HTML | 40/100 |
+| 301 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
+| 302 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
+| 303 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
+| 304 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
+| 305 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 306 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
+| 307 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
+| 308 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
+| 309 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
+| 310 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
+| 311 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ — | — | 38/100 |
+| 312 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
+| 313 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
+| 314 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
+| 315 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
+| 316 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
+| 317 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 31/100 |
 
 ---
 

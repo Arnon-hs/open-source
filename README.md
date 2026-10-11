@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39542** |
+| **Projects** | **39548** |
 | **Categories** | **425** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15430 | [Browse →](./misc/) |
+| 📦 **Misc** | 15433 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4319 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2733 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2313 | [Browse →](./orchestration/) |
@@ -35,9 +35,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 668 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 634 | [Browse →](./networking/) |
 | 📱 **Mobile** | 616 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 595 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 597 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 588 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 517 | [Browse →](./database/) |
+| 🏷️ **Database** | 518 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 503 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 464 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 442 | [Browse →](./templates/) |
@@ -46,14 +46,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 332 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 328 | [Browse →](./games--graphics/) |
-| 🏷️ **Productivity** | 315 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 317 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 295 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 255 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 199 | [Browse →](./trading/) |
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 83 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 81 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 35 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
@@ -62,9 +62,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 15 | [Browse →](./local-first/) |
-| 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
+| 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
+| 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **Local-ai** | 10 | [Browse →](./local-ai/) |
-| 🏷️ **Offline-first** | 9 | [Browse →](./offline-first/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
@@ -175,6 +175,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent-cost** | 1 | [Browse →](./agent-cost/) |
 | 🏷️ **Localfirst** | 1 | [Browse →](./localfirst/) |
 | 🏷️ **Accessibility** | 1 | [Browse →](./accessibility/) |
 | 🏷️ **Map-based** | 1 | [Browse →](./map-based/) |
@@ -333,7 +334,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devtv** | 1 | [Browse →](./devtv/) |
 | 🏷️ **Adhd** | 1 | [Browse →](./adhd/) |
 | 🏷️ **Cybersecurity** | 1 | [Browse →](./cybersecurity/) |
-| 🏷️ **Lab-protocols** | 1 | [Browse →](./lab-protocols/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
 | 🏷️ **Hacktoberfest** | 1 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Secret-scanning** | 1 | [Browse →](./secret-scanning/) |
