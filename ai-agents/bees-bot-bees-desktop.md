@@ -1,6 +1,6 @@
 # Bees-bot/bees-desktop
 
-[![Stars](https://img.shields.io/github/stars/Bees-bot/bees-desktop?style=flat-square&color=yellow)](https://github.com/Bees-bot/bees-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Bees-bot/bees-desktop?style=flat-square&color=blue)](https://github.com/Bees-bot/bees-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bees-bot/bees-desktop?style=flat-square&color=yellow)](https://github.com/Bees-bot/bees-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Bees-bot/bees-desktop?style=flat-square&color=blue)](https://github.com/Bees-bot/bees-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Run a team of AI agents on your own computer. Your files, browser sessions and passwords stay local. Works with Claude Code, Codex, hosted or local models, and MCP tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Bees-bot/bees-desktop：Bees-bot/bees-desktop may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 77/100 |
+| production | 60/100 |
+| outlook | 70/100 |
 | adoption | 22/100 |
 | categoryMatchCount | 600/100 |
 | stars | 24/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

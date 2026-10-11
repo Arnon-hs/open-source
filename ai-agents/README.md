@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [CIRVIX/agent-control](./cirvix-agent-control.md) | ⭐ 1 | JavaScript | 68/100 |
-| 2 | [Bees-bot/bees-desktop](./bees-bot-bees-desktop.md) | ⭐ 13 | JavaScript | 68/100 |
-| 3 | [DevAnimecx/jiro](./devanimecx-jiro.md) | ⭐ 3 | Python | 68/100 |
+| 2 | [DevAnimecx/jiro](./devanimecx-jiro.md) | ⭐ 3 | Python | 68/100 |
+| 3 | [Bees-bot/bees-desktop](./bees-bot-bees-desktop.md) | ⭐ 13 | JavaScript | 65/100 |
 | 4 | [juandelossantos/another-agent-skills](./juandelossantos-another-agent-skills.md) | ⭐ 1 | Shell | 64/100 |
 | 5 | [pinkpixel-dev/pulpie-mcp](./pinkpixel-dev-pulpie-mcp.md) | ⭐ 1 | Python | 64/100 |
 | 6 | [MarquezProject/marquez](./marquezproject-marquez.md) | ⭐ 2.3k | Java | 63/100 |
