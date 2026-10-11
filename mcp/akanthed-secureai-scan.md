@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · command-injection · static-analysis · security-scanner · LLM · open-source
+MCP · Knowledge/RAG · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ akanthed/SecureAI-Scan: akanthed/SecureAI-Scan helps connect AI assistants to re
 
 ### Русский
 
-akanthed/SecureAI-Scan: open-source проект в категориях MCP, command-injection, static-analysis, security-scanner, LLM, open-source. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+akanthed/SecureAI-Scan: open-source проект в категориях MCP, Knowledge/RAG, AI/ML, DevTools, Security. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ akanthed/SecureAI-Scan：akanthed/SecureAI-Scan helps connect AI assistants to r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 64/100 |
-| outlook | 71/100 |
-| adoption | 23/100 |
-| categoryMatchCount | 600/100 |
-| stars | 29/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 29/100 |
 | topics | 100/100 |
+| outlook | 71/100 |
+| quality | 56/100 |
+| recency | 80/100 |
+| adoption | 23/100 |
+| production | 64/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39469** |
+| **Projects** | **39473** |
 | **Categories** | **424** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15390 | [Browse →](./misc/) |
+| 📦 **Misc** | 15391 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4311 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2730 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2309 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1569 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1383 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 927 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 876 | [Browse →](./frontend/) |
@@ -53,12 +53,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 82 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 81 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 22 | [Browse →](./open-source/) |
-| 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 15 | [Browse →](./local-llm/) |
@@ -71,6 +71,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
@@ -80,7 +81,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Sanity** | 5 | [Browse →](./sanity/) |
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
-| 🏷️ **Edge-ai** | 4 | [Browse →](./edge-ai/) |
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🌐 **Open Source** | 4 | [Browse →](./opensource/) |
