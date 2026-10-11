@@ -1,6 +1,6 @@
 # patrick-kidger/equinox
 
-[![Stars](https://img.shields.io/github/stars/patrick-kidger/equinox?style=flat-square&color=yellow)](https://github.com/patrick-kidger/equinox/stargazers) [![Forks](https://img.shields.io/github/forks/patrick-kidger/equinox?style=flat-square&color=blue)](https://github.com/patrick-kidger/equinox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patrick-kidger/equinox?style=flat-square&color=yellow)](https://github.com/patrick-kidger/equinox/stargazers) [![Forks](https://img.shields.io/github/forks/patrick-kidger/equinox?style=flat-square&color=blue)](https://github.com/patrick-kidger/equinox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ patrick-kidger/equinox：patrick-kidger/equinox may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 500/100 |
 | stars | 74/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
