@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39380** |
+| **Projects** | **39384** |
 | **Categories** | **409** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -28,8 +28,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcp** | 2723 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2308 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1567 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1380 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 926 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 1381 | [Browse →](./automation/) |
+| ⚙️ **Backend** | 927 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 875 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 777 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 666 | [Browse →](./documents/) |
@@ -53,17 +53,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 75 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 76 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 29 | [Browse →](./offline/) |
+| 🏷️ **Open-source** | 20 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
-| 🏷️ **Open-source** | 19 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 16 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 13 | [Browse →](./local-ai/) |
-| 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Offline-first** | 8 | [Browse →](./offline-first/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
@@ -98,7 +98,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
-| 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
@@ -133,6 +132,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React** | 2 | [Browse →](./react/) |
 | 🏷️ **Node** | 2 | [Browse →](./node/) |
 | 🏷️ **Pdf-redaction** | 2 | [Browse →](./pdf-redaction/) |
+| 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Family** | 2 | [Browse →](./family/) |
@@ -176,6 +176,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |
 | 🏷️ **Cesiumjs** | 1 | [Browse →](./cesiumjs/) |
 | 🏷️ **Mlx** | 1 | [Browse →](./mlx/) |
 | 🏷️ **Mobile-web** | 1 | [Browse →](./mobile-web/) |
@@ -326,7 +327,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Secret-rotation** | 1 | [Browse →](./secret-rotation/) |
 | 🏷️ **Current-affairs** | 1 | [Browse →](./current-affairs/) |
 | 🏷️ **Water-quality** | 1 | [Browse →](./water-quality/) |
-| 🏷️ **Bot-detection** | 1 | [Browse →](./bot-detection/) |
 | 🏷️ **Eurorack** | 1 | [Browse →](./eurorack/) |
 | 🏷️ **Web-development** | 1 | [Browse →](./web-development/) |
 | 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |

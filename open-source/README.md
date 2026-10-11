@@ -2,7 +2,7 @@
 
 > 
 
-**19 projects** in this category.
+**20 projects** in this category.
 
 ## Projects
 
@@ -13,20 +13,21 @@
 | 3 | [onkar-cybersec/TraceGuard](./onkar-cybersec-traceguard.md) | ⭐ — | TypeScript | 49/100 |
 | 4 | [Yashgurav002/sitspot](./yashgurav002-sitspot.md) | ⭐ — | TypeScript | 45/100 |
 | 5 | [Ankith-m1006/unclaimed](./ankith-m1006-unclaimed.md) | ⭐ — | HTML | 42/100 |
-| 6 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 41/100 |
-| 7 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
-| 8 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 39/100 |
-| 9 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 39/100 |
-| 10 | [Kshitij-ambuskar/Algo_Whisperer](./kshitij-ambuskar-algo-whisperer.md) | ⭐ — | JavaScript | 39/100 |
-| 11 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 36/100 |
-| 12 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 36/100 |
-| 13 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 33/100 |
-| 14 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 33/100 |
-| 15 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
-| 16 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
-| 17 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
-| 18 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
-| 19 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
+| 6 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 41/100 |
+| 7 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 41/100 |
+| 8 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
+| 9 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 39/100 |
+| 10 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 39/100 |
+| 11 | [Kshitij-ambuskar/Algo_Whisperer](./kshitij-ambuskar-algo-whisperer.md) | ⭐ — | JavaScript | 39/100 |
+| 12 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 36/100 |
+| 13 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 36/100 |
+| 14 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 33/100 |
+| 15 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 33/100 |
+| 16 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
+| 17 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
+| 18 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
+| 19 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
+| 20 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 1 | JavaScript | 43/100 |
+| 1 | [AmitDas4321/EngagePilot](./amitdas4321-engagepilot.md) | ⭐ — | TypeScript | 59/100 |
 
 ---
 
