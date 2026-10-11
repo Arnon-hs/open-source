@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39507** |
+| **Projects** | **39508** |
 | **Categories** | **426** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15409 | [Browse →](./misc/) |
+| 📦 **Misc** | 15411 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4313 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2731 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2309 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2732 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2310 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1383 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 927 | [Browse →](./backend/) |
@@ -57,7 +57,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Open-source** | 22 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 16 | [Browse →](./local-llm/) |
@@ -105,7 +105,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Angular** | 3 | [Browse →](./angular/) |
 | 🏷️ **Docker** | 3 | [Browse →](./docker/) |
 | 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
-| 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
@@ -339,6 +338,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Loglan** | 1 | [Browse →](./loglan/) |
 | 🏷️ **Generator** | 1 | [Browse →](./generator/) |
 | 🏷️ **Hacktoberfest** | 1 | [Browse →](./hacktoberfest/) |
+| 🏷️ **Secret-scanning** | 1 | [Browse →](./secret-scanning/) |
 | 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |
 | 🏷️ **Studentportal** | 1 | [Browse →](./studentportal/) |
 | 🏷️ **Politics** | 1 | [Browse →](./politics/) |
