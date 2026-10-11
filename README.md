@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39508** |
+| **Projects** | **39520** |
 | **Categories** | **426** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15411 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4313 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15416 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4315 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2732 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2310 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2311 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1383 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 927 | [Browse →](./backend/) |
@@ -34,8 +34,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 777 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 667 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 634 | [Browse →](./networking/) |
-| 📱 **Mobile** | 615 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 593 | [Browse →](./knowledgerag/) |
+| 📱 **Mobile** | 616 | [Browse →](./mobile/) |
+| 🏷️ **Knowledgerag** | 594 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 588 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 517 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 502 | [Browse →](./devopsinfra/) |
@@ -54,8 +54,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 84 | [Browse →](./ai/) |
+| 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
-| 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
@@ -98,7 +98,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
-| 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
@@ -133,6 +132,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Jax** | 2 | [Browse →](./jax/) |
 | 🏷️ **Career-change** | 2 | [Browse →](./career-change/) |
 | 🏷️ **React** | 2 | [Browse →](./react/) |
+| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Node** | 2 | [Browse →](./node/) |
 | 🏷️ **Pdf-redaction** | 2 | [Browse →](./pdf-redaction/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
@@ -176,6 +176,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Plant-care** | 1 | [Browse →](./plant-care/) |
+| 🏷️ **Ai-chat** | 1 | [Browse →](./ai-chat/) |
 | 🏷️ **Local-exploration** | 1 | [Browse →](./local-exploration/) |
 | 🏷️ **Api-security** | 1 | [Browse →](./api-security/) |
 | 🏷️ **Usability** | 1 | [Browse →](./usability/) |
@@ -335,8 +337,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Tool-call-validation** | 1 | [Browse →](./tool-call-validation/) |
 | 🏷️ **Smarthome** | 1 | [Browse →](./smarthome/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
-| 🏷️ **Loglan** | 1 | [Browse →](./loglan/) |
-| 🏷️ **Generator** | 1 | [Browse →](./generator/) |
 | 🏷️ **Hacktoberfest** | 1 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Secret-scanning** | 1 | [Browse →](./secret-scanning/) |
 | 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |

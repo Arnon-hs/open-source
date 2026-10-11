@@ -12,10 +12,10 @@
 | 2 | [psd-tools/psd-tools](./psd-tools-psd-tools.md) | ⭐ 1.5k | Python | 60/100 |
 | 3 | [onkar-cybersec/TraceGuard](./onkar-cybersec-traceguard.md) | ⭐ — | TypeScript | 46/100 |
 | 4 | [Yashgurav002/sitspot](./yashgurav002-sitspot.md) | ⭐ — | TypeScript | 45/100 |
-| 5 | [Ankith-m1006/unclaimed](./ankith-m1006-unclaimed.md) | ⭐ — | HTML | 42/100 |
-| 6 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 41/100 |
-| 7 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 41/100 |
-| 8 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
+| 5 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 41/100 |
+| 6 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 41/100 |
+| 7 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
+| 8 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 39/100 |
 | 9 | [Piwe/jacaranda-scout](./piwe-jacaranda-scout.md) | ⭐ — | Java | 39/100 |
 | 10 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 11 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 39/100 |
