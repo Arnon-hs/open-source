@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [n4ze3m/page-assist](./n4ze3m-page-assist.md) | ⭐ 8.2k | TypeScript | 63/100 |
+| 1 | [n4ze3m/page-assist](./n4ze3m-page-assist.md) | ⭐ 8.2k | TypeScript | 60/100 |
 
 ---
 

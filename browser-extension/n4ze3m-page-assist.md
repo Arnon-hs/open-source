@@ -1,6 +1,6 @@
 # n4ze3m/page-assist
 
-[![Stars](https://img.shields.io/github/stars/n4ze3m/page-assist?style=flat-square&color=yellow)](https://github.com/n4ze3m/page-assist/stargazers) [![Forks](https://img.shields.io/github/forks/n4ze3m/page-assist?style=flat-square&color=blue)](https://github.com/n4ze3m/page-assist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n4ze3m/page-assist?style=flat-square&color=yellow)](https://github.com/n4ze3m/page-assist/stargazers) [![Forks](https://img.shields.io/github/forks/n4ze3m/page-assist?style=flat-square&color=blue)](https://github.com/n4ze3m/page-assist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Use your locally running AI models to assist you in your web browsing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 792 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ n4ze3m/page-assist：n4ze3m/page-assist may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 80/100 |
 | categoryMatchCount | 800/100 |
 | stars | 83/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
