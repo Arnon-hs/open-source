@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39357** |
+| **Projects** | **39363** |
 | **Categories** | **412** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -26,14 +26,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 15350 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2722 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2305 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2306 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1567 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1380 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 926 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 875 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 777 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 665 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 632 | [Browse →](./networking/) |
+| 🏷️ **Documents** | 666 | [Browse →](./documents/) |
+| 🏷️ **Networking** | 633 | [Browse →](./networking/) |
 | 📱 **Mobile** | 613 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 592 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 587 | [Browse →](./cloud--storage/) |
@@ -57,12 +57,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 29 | [Browse →](./offline/) |
+| 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 19 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
-| 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
+| 🏷️ **Local-first** | 16 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Local-ai** | 13 | [Browse →](./local-ai/) |
-| 🏷️ **Local-first** | 13 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Offline-first** | 8 | [Browse →](./offline-first/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
@@ -93,7 +93,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Outdoor** | 3 | [Browse →](./outdoor/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
-| 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Migration** | 3 | [Browse →](./migration/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
@@ -115,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-ops** | 2 | [Browse →](./ai-ops/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
+| 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Bluetooth** | 2 | [Browse →](./bluetooth/) |
 | 🏷️ **Jsonpath** | 2 | [Browse →](./jsonpath/) |
 | 🏷️ **Ai-debugging** | 2 | [Browse →](./ai-debugging/) |
@@ -176,6 +176,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Free-ai** | 1 | [Browse →](./free-ai/) |
 | 🏷️ **Mcdonalds** | 1 | [Browse →](./mcdonalds/) |
 | 🏷️ **Small-gardens** | 1 | [Browse →](./small-gardens/) |
 | 🏷️ **Auth** | 1 | [Browse →](./auth/) |
@@ -330,7 +331,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kanban** | 1 | [Browse →](./kanban/) |
 | 🏷️ **Phonics** | 1 | [Browse →](./phonics/) |
 | 🏷️ **Reverse-engineering** | 1 | [Browse →](./reverse-engineering/) |
-| 🏷️ **Gpu** | 1 | [Browse →](./gpu/) |
 | 🏷️ **Web-development** | 1 | [Browse →](./web-development/) |
 | 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |
 | 🏷️ **Open-source-ai** | 1 | [Browse →](./open-source-ai/) |
