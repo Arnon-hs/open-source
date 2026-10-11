@@ -2,14 +2,15 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [arshbuilds/hf26week1](./arshbuilds-hf26week1.md) | ⭐ — | TypeScript | 39/100 |
-| 2 | [Jainil26/hacktoberfest-weekend-2026](./jainil26-hacktoberfest-weekend-2026.md) | ⭐ — | JavaScript | 33/100 |
+| 2 | [nashdev97/snapnature](./nashdev97-snapnature.md) | ⭐ — | JavaScript | 36/100 |
+| 3 | [Jainil26/hacktoberfest-weekend-2026](./jainil26-hacktoberfest-weekend-2026.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

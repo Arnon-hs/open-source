@@ -263,8 +263,8 @@
 | 253 | [antoniorodr/memo](./antoniorodr-memo.md) | ⭐ 256 | Python | 68/100 |
 | 254 | [mobile-next/mobilecli](./mobile-next-mobilecli.md) | ⭐ 179 | Go | 68/100 |
 | 255 | [bensadeh/circumflex](./bensadeh-circumflex.md) | ⭐ 2k | Go | 68/100 |
-| 256 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 4.5k | JavaScript | 68/100 |
-| 257 | [symfony/console](./symfony-console.md) | ⭐ 9.8k | PHP | 68/100 |
+| 256 | [symfony/console](./symfony-console.md) | ⭐ 9.8k | PHP | 68/100 |
+| 257 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 4.5k | JavaScript | 68/100 |
 | 258 | [projectdiscovery/katana](./projectdiscovery-katana.md) | ⭐ 16.7k | Go | 68/100 |
 | 259 | [web-infra-dev/rspack](./web-infra-dev-rspack.md) | ⭐ 12.7k | Rust | 68/100 |
 | 260 | [grafana/pyroscope](./grafana-pyroscope.md) | ⭐ 11.4k | Go | 68/100 |
@@ -303,8 +303,8 @@
 | 293 | [krkn-chaos/krkn](./krkn-chaos-krkn.md) | ⭐ 479 | Python | 67/100 |
 | 294 | [jarun/imgp](./jarun-imgp.md) | ⭐ 1.1k | Python | 67/100 |
 | 295 | [wolph/python-progressbar](./wolph-python-progressbar.md) | ⭐ 877 | Python | 67/100 |
-| 296 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
-| 297 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 426 | JavaScript | 67/100 |
+| 296 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 426 | JavaScript | 67/100 |
+| 297 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
 | 298 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 334 | Python | 67/100 |
 | 299 | [orhun/halp](./orhun-halp.md) | ⭐ 760 | Rust | 67/100 |
 | 300 | [rosetta-rs/argparse-rosetta-rs](./rosetta-rs-argparse-rosetta-rs.md) | ⭐ 189 | Python | 67/100 |

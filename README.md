@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39522** |
-| **Categories** | **426** |
+| **Projects** | **39529** |
+| **Categories** | **427** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15418 | [Browse →](./misc/) |
+| 📦 **Misc** | 15424 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4315 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2732 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2311 | [Browse →](./orchestration/) |
@@ -47,21 +47,21 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 328 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 315 | [Browse →](./productivity/) |
-| 🏷️ **Observability** | 293 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 294 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 255 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 199 | [Browse →](./trading/) |
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 84 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 83 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
-| 🏷️ **Local-llm** | 16 | [Browse →](./local-llm/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 15 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 15 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
@@ -88,6 +88,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Open-source-ai** | 3 | [Browse →](./open-source-ai/) |
 | 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
@@ -112,7 +113,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Chinese-nlp** | 2 | [Browse →](./chinese-nlp/) |
 | 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **Open-weight-ai** | 2 | [Browse →](./open-weight-ai/) |
-| 🏷️ **Open-source-ai** | 2 | [Browse →](./open-source-ai/) |
 | 🏷️ **Ai-ops** | 2 | [Browse →](./ai-ops/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
@@ -176,6 +176,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Map-based** | 1 | [Browse →](./map-based/) |
 | 🏷️ **Plant-care** | 1 | [Browse →](./plant-care/) |
 | 🏷️ **Ai-chat** | 1 | [Browse →](./ai-chat/) |
 | 🏷️ **Local-exploration** | 1 | [Browse →](./local-exploration/) |
