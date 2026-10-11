@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39417** |
-| **Categories** | **412** |
+| **Projects** | **39426** |
+| **Categories** | **416** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15372 | [Browse →](./misc/) |
+| 📦 **Misc** | 15373 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4309 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2728 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2730 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2308 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1568 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1382 | [Browse →](./automation/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 777 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 666 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 633 | [Browse →](./networking/) |
-| 📱 **Mobile** | 613 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 614 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 593 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 587 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 514 | [Browse →](./database/) |
@@ -55,14 +55,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 79 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
+| 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Offline** | 29 | [Browse →](./offline/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
-| 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 15 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 15 | [Browse →](./local-first/) |
-| 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
+| 🏷️ **Llm** | 15 | [Browse →](./llm/) |
 | 🏷️ **Local-ai** | 12 | [Browse →](./local-ai/) |
 | 🏷️ **React-native** | 8 | [Browse →](./react-native/) |
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
@@ -178,6 +178,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Desktop-app** | 1 | [Browse →](./desktop-app/) |
+| 🏷️ **Amazon-fba** | 1 | [Browse →](./amazon-fba/) |
+| 🏷️ **Agent-framework** | 1 | [Browse →](./agent-framework/) |
+| 🏷️ **Reporting** | 1 | [Browse →](./reporting/) |
 | 🏷️ **Openclaw** | 1 | [Browse →](./openclaw/) |
 | 🏷️ **Bird-identification** | 1 | [Browse →](./bird-identification/) |
 | 🏷️ **File-transfer** | 1 | [Browse →](./file-transfer/) |
