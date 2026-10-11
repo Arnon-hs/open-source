@@ -3873,8 +3873,8 @@
 | 3863 | [jegly/OfflineLLM](./jegly-offlinellm.md) | ⭐ 128 | Kotlin | 43/100 |
 | 3864 | [sou350121/VLA-Handbook](./sou350121-vla-handbook.md) | ⭐ 187 | HTML | 43/100 |
 | 3865 | [dannwaneri/ves-label-benchmark](./dannwaneri-ves-label-benchmark.md) | ⭐ — | — | 42/100 |
-| 3866 | [leehack/llama-village](./leehack-llama-village.md) | ⭐ — | — | 42/100 |
-| 3867 | [leehack/llamadart](./leehack-llamadart.md) | ⭐ — | — | 42/100 |
+| 3866 | [leehack/llamadart](./leehack-llamadart.md) | ⭐ — | — | 42/100 |
+| 3867 | [leehack/llama-village](./leehack-llama-village.md) | ⭐ — | — | 42/100 |
 | 3868 | [EmmaSofiaDev/nightguard-ai](./emmasofiadev-nightguard-ai.md) | ⭐ — | — | 42/100 |
 | 3869 | [OWASP/www-project-top-10-for-large-language-model-applications](./owasp-www-project-top-10-for-large-language-model-applications.md) | ⭐ — | — | 42/100 |
 | 3870 | [SoumyaEXE/KAGGLE](./soumyaexe-kaggle.md) | ⭐ — | — | 42/100 |
