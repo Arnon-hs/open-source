@@ -1,6 +1,6 @@
 # narko4u/never-leaves
 
-[![Stars](https://img.shields.io/github/stars/narko4u/never-leaves?style=flat-square&color=yellow)](https://github.com/narko4u/never-leaves/stargazers) [![Forks](https://img.shields.io/github/forks/narko4u/never-leaves?style=flat-square&color=blue)](https://github.com/narko4u/never-leaves/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/narko4u/never-leaves?style=flat-square&color=yellow)](https://github.com/narko4u/never-leaves/stargazers) [![Forks](https://img.shields.io/github/forks/narko4u/never-leaves?style=flat-square&color=blue)](https://github.com/narko4u/never-leaves/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Draft real documents offline from your own notes, on a local open-weight model, with a no-network guarantee the kernel enforces.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ narko4u/never-leaves：narko4u/never-leaves may be useful when its README and ac
 - primary language: Python
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 55/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

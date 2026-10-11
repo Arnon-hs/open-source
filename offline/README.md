@@ -15,7 +15,7 @@
 | 5 | [DhanushNehru/trialnote](./dhanushnehru-trialnote.md) | ⭐ — | Python | 59/100 |
 | 6 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 58/100 |
 | 7 | [sffjunkie/astral](./sffjunkie-astral.md) | ⭐ 290 | Python | 55/100 |
-| 8 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 46/100 |
+| 8 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 43/100 |
 | 9 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 42/100 |
 | 10 | [gabutersproject/touch-grass-sports-ai](./gabutersproject-touch-grass-sports-ai.md) | ⭐ — | Python | 41/100 |
 | 11 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 39/100 |
