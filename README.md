@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39368** |
-| **Categories** | **410** |
+| **Projects** | **39369** |
+| **Categories** | **409** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -26,7 +26,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 15355 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2722 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2306 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2307 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1567 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1380 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 926 | [Browse →](./backend/) |
@@ -35,7 +35,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 666 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 633 | [Browse →](./networking/) |
 | 📱 **Mobile** | 613 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 592 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 593 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 587 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 514 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 502 | [Browse →](./devopsinfra/) |
@@ -43,8 +43,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 442 | [Browse →](./templates/) |
 | 🔐 **Security** | 410 | [Browse →](./security/) |
 | 🏷️ **Communication** | 408 | [Browse →](./communication/) |
+| 📊 **Data** | 332 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
-| 📊 **Data** | 331 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 327 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 315 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 293 | [Browse →](./observability/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 72 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 71 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 29 | [Browse →](./offline/) |
@@ -176,6 +176,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Mobile-web** | 1 | [Browse →](./mobile-web/) |
 | 🏷️ **Free-ai** | 1 | [Browse →](./free-ai/) |
 | 🏷️ **Mcdonalds** | 1 | [Browse →](./mcdonalds/) |
 | 🏷️ **Small-gardens** | 1 | [Browse →](./small-gardens/) |
@@ -327,8 +328,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Chore-management** | 1 | [Browse →](./chore-management/) |
 | 🏷️ **Cloud** | 1 | [Browse →](./cloud/) |
 | 🏷️ **Eurorack** | 1 | [Browse →](./eurorack/) |
-| 🏷️ **Swift** | 1 | [Browse →](./swift/) |
-| 🏷️ **Kanban** | 1 | [Browse →](./kanban/) |
 | 🏷️ **Web-development** | 1 | [Browse →](./web-development/) |
 | 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |
 | 🏷️ **Open-source-ai** | 1 | [Browse →](./open-source-ai/) |

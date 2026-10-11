@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**331 projects** in this category.
+**332 projects** in this category.
 
 ## Projects
 
@@ -336,9 +336,10 @@
 | 326 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ — | — | 41/100 |
 | 327 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
 | 328 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
-| 329 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
-| 330 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
-| 331 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 329 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
+| 330 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
+| 331 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
+| 332 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
 
 ---
 
