@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [trnt-ai/trent-openclaw-security-assessment](./trnt-ai-trent-openclaw-security-assessment.md) | ⭐ 23 | Python | 63/100 |
+| 1 | [brightbrothers/openclaw-ollama-decision](./brightbrothers-openclaw-ollama-decision.md) | ⭐ — | JavaScript | 59/100 |
 
 ---
 

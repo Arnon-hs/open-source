@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Tetra4ge/GitHygiene](./tetra4ge-githygiene.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [Tetra4ge/GitHygiene](./tetra4ge-githygiene.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

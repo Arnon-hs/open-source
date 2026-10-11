@@ -1,6 +1,6 @@
 # Zhuweilong123/ArchitectCoder
 
-[![Stars](https://img.shields.io/github/stars/Zhuweilong123/ArchitectCoder?style=flat-square&color=yellow)](https://github.com/Zhuweilong123/ArchitectCoder/stargazers) [![Forks](https://img.shields.io/github/forks/Zhuweilong123/ArchitectCoder?style=flat-square&color=blue)](https://github.com/Zhuweilong123/ArchitectCoder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zhuweilong123/ArchitectCoder?style=flat-square&color=yellow)](https://github.com/Zhuweilong123/ArchitectCoder/stargazers) [![Forks](https://img.shields.io/github/forks/Zhuweilong123/ArchitectCoder?style=flat-square&color=blue)](https://github.com/Zhuweilong123/ArchitectCoder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > The ArchitectCoder Harness — from vision to architecture, and architecture to code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Zhuweilong123/ArchitectCoder：Zhuweilong123/ArchitectCoder may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 53/100 |
+| production | 53/100 |
+| outlook | 46/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 400/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
