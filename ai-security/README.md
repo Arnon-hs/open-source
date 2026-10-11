@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [onkar-cybersec/AegisExec](./onkar-cybersec-aegisexec.md) | ⭐ — | — | 43/100 |
+| 1 | [onkar-cybersec/AegisExec](./onkar-cybersec-aegisexec.md) | ⭐ — | — | 40/100 |
 
 ---
 
