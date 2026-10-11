@@ -1,6 +1,6 @@
 # ewraj/Annotate-Code
 
-[![Stars](https://img.shields.io/github/stars/ewraj/Annotate-Code?style=flat-square&color=yellow)](https://github.com/ewraj/Annotate-Code/stargazers) [![Forks](https://img.shields.io/github/forks/ewraj/Annotate-Code?style=flat-square&color=blue)](https://github.com/ewraj/Annotate-Code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ewraj/Annotate-Code?style=flat-square&color=yellow)](https://github.com/ewraj/Annotate-Code/stargazers) [![Forks](https://img.shields.io/github/forks/ewraj/Annotate-Code?style=flat-square&color=blue)](https://github.com/ewraj/Annotate-Code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Read code. Annotate it. That's it. A free, open-source tool for understanding codebases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ ewraj/Annotate-Code：ewraj/Annotate-Code may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 400/100 |
 | stars | 23/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

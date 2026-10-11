@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ewraj/Annotate-Code](./ewraj-annotate-code.md) | ⭐ 11 | TypeScript | 53/100 |
+| 1 | [ewraj/Annotate-Code](./ewraj-annotate-code.md) | ⭐ 11 | TypeScript | 50/100 |
 
 ---
 
