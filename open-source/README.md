@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [psd-tools/psd-tools](./psd-tools-psd-tools.md) | ⭐ 1.5k | Python | 63/100 |
 | 2 | [esp8266/Arduino](./esp8266-arduino.md) | ⭐ 16.7k | C++ | 60/100 |
-| 3 | [onkar-cybersec/TraceGuard](./onkar-cybersec-traceguard.md) | ⭐ — | TypeScript | 49/100 |
+| 3 | [onkar-cybersec/TraceGuard](./onkar-cybersec-traceguard.md) | ⭐ — | TypeScript | 46/100 |
 | 4 | [Yashgurav002/sitspot](./yashgurav002-sitspot.md) | ⭐ — | TypeScript | 45/100 |
 | 5 | [Ankith-m1006/unclaimed](./ankith-m1006-unclaimed.md) | ⭐ — | HTML | 42/100 |
 | 6 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 41/100 |
