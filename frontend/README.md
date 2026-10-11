@@ -478,8 +478,8 @@
 | 468 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 469 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 44 | TypeScript | 60/100 |
 | 470 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 247 | Rust | 60/100 |
-| 471 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 4.9k | C | 60/100 |
-| 472 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 471 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 472 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 4.9k | C | 60/100 |
 | 473 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 474 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 204 | Go | 60/100 |
 | 475 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.3k | Astro | 60/100 |

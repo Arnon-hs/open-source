@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [toji/gl-matrix](./toji-gl-matrix.md) | ⭐ 5.7k | JavaScript | 56/100 |
+| 1 | [toji/gl-matrix](./toji-gl-matrix.md) | ⭐ 5.7k | JavaScript | 53/100 |
 
 ---
 
