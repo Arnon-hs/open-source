@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AzBuildDev/nas-device-flow](./azbuilddev-nas-device-flow.md) | ⭐ — | Python | 53/100 |
+| 1 | [AzBuildDev/nas-device-flow](./azbuilddev-nas-device-flow.md) | ⭐ — | Python | 50/100 |
 
 ---
 

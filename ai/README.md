@@ -26,17 +26,17 @@
 | 16 | [chourasiavinit9-dev/framework-magnifier](./chourasiavinit9-dev-framework-magnifier.md) | ⭐ — | Python | 47/100 |
 | 17 | [codewithvishuuu/verdantra](./codewithvishuuu-verdantra.md) | ⭐ — | Python | 42/100 |
 | 18 | [shashank03-dev/Paper-Trail-WEEK-1](./shashank03-dev-paper-trail-week-1.md) | ⭐ — | TypeScript | 42/100 |
-| 19 | [abhimanyubhtt-hue/touch-grass-ai](./abhimanyubhtt-hue-touch-grass-ai.md) | ⭐ — | Python | 42/100 |
-| 20 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
-| 21 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 41/100 |
-| 22 | [quangvinhlee/Outwards-Days](./quangvinhlee-outwards-days.md) | ⭐ — | TypeScript | 40/100 |
-| 23 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 40/100 |
-| 24 | [prarthanas9917/trailbuddy-ai](./prarthanas9917-trailbuddy-ai.md) | ⭐ — | Python | 39/100 |
-| 25 | [NitinGangwal/touchgrass-quest](./nitingangwal-touchgrass-quest.md) | ⭐ — | Python | 39/100 |
-| 26 | [hiteshsaini33/selfhosted-tracker](./hiteshsaini33-selfhosted-tracker.md) | ⭐ — | Python | 39/100 |
-| 27 | [1noahark/Nature-Hunt](./1noahark-nature-hunt.md) | ⭐ — | JavaScript | 39/100 |
-| 28 | [utkarshydv27/TouchGrassAI](./utkarshydv27-touchgrassai.md) | ⭐ — | Python | 39/100 |
-| 29 | [5ak3t/ej](./5ak3t-ej.md) | ⭐ — | Python | 39/100 |
+| 19 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
+| 20 | [shettysaikumar20/FriendForge](./shettysaikumar20-friendforge.md) | ⭐ 1 | JavaScript | 41/100 |
+| 21 | [quangvinhlee/Outwards-Days](./quangvinhlee-outwards-days.md) | ⭐ — | TypeScript | 40/100 |
+| 22 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 40/100 |
+| 23 | [prarthanas9917/trailbuddy-ai](./prarthanas9917-trailbuddy-ai.md) | ⭐ — | Python | 39/100 |
+| 24 | [NitinGangwal/touchgrass-quest](./nitingangwal-touchgrass-quest.md) | ⭐ — | Python | 39/100 |
+| 25 | [hiteshsaini33/selfhosted-tracker](./hiteshsaini33-selfhosted-tracker.md) | ⭐ — | Python | 39/100 |
+| 26 | [1noahark/Nature-Hunt](./1noahark-nature-hunt.md) | ⭐ — | JavaScript | 39/100 |
+| 27 | [utkarshydv27/TouchGrassAI](./utkarshydv27-touchgrassai.md) | ⭐ — | Python | 39/100 |
+| 28 | [5ak3t/ej](./5ak3t-ej.md) | ⭐ — | Python | 39/100 |
+| 29 | [abhimanyubhtt-hue/touch-grass-ai](./abhimanyubhtt-hue-touch-grass-ai.md) | ⭐ — | Python | 39/100 |
 | 30 | [PRAVIN-KUMAR-295/touchgrass-ai](./pravin-kumar-295-touchgrass-ai.md) | ⭐ — | Python | 39/100 |
 | 31 | [Naitik-xd/Week-1-Dev-Challenge](./naitik-xd-week-1-dev-challenge.md) | ⭐ — | TypeScript | 39/100 |
 | 32 | [mohamed-osama-aboelkheir/ai-sast-triage-demo](./mohamed-osama-aboelkheir-ai-sast-triage-demo.md) | ⭐ — | JavaScript | 39/100 |
