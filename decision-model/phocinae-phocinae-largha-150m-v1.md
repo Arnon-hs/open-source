@@ -1,6 +1,6 @@
 # Phocinae/Phocinae-Largha-150M-v1
 
-[![Stars](https://img.shields.io/github/stars/Phocinae/Phocinae-Largha-150M-v1?style=flat-square&color=yellow)](https://github.com/Phocinae/Phocinae-Largha-150M-v1/stargazers) [![Forks](https://img.shields.io/github/forks/Phocinae/Phocinae-Largha-150M-v1?style=flat-square&color=blue)](https://github.com/Phocinae/Phocinae-Largha-150M-v1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Phocinae/Phocinae-Largha-150M-v1?style=flat-square&color=yellow)](https://github.com/Phocinae/Phocinae-Largha-150M-v1/stargazers) [![Forks](https://img.shields.io/github/forks/Phocinae/Phocinae-Largha-150M-v1?style=flat-square&color=blue)](https://github.com/Phocinae/Phocinae-Largha-150M-v1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 斑海豹 — Phocinae-Largha-150M-v1: a 144.3M bilingual decision model. Tiny model. Big decisions. 小海豹，大决断。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Phocinae/Phocinae-Largha-150M-v1：Phocinae/Phocinae-Largha-150M-v1 may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
