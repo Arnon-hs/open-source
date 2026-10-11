@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [now2026/kingdomlat](./now2026-kingdomlat.md) | ⭐ — | HTML | 39/100 |
+| 1 | [lewisawe/one-curb](./lewisawe-one-curb.md) | ⭐ — | Python | 42/100 |
 
 ---
 
