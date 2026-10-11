@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [PoisonXploIT/sec-dashboard](./poisonxploit-sec-dashboard.md) | ⭐ — | Python | 50/100 |
+| 1 | [PoisonXploIT/sec-dashboard](./poisonxploit-sec-dashboard.md) | ⭐ — | Python | 47/100 |
 
 ---
 
