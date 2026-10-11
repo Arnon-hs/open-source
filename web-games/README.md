@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yusufcicel54-rgb/-simbulamadimscript](./yusufcicel54-rgb--simbulamadimscript.md) | ⭐ — | JavaScript | 30/100 |
+| 1 | [yusufcicel54-rgb/-simbulamadimscript](./yusufcicel54-rgb--simbulamadimscript.md) | ⭐ — | JavaScript | 27/100 |
 
 ---
 
