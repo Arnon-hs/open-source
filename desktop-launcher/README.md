@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ikagzy/k-launcher](./ikagzy-k-launcher.md) | ⭐ — | C# | 39/100 |
+| 1 | [ikagzy/k-launcher](./ikagzy-k-launcher.md) | ⭐ — | C# | 36/100 |
 
 ---
 

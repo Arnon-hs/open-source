@@ -18,8 +18,8 @@
 | 8 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 39/100 |
 | 9 | [DinukaEk/grassquest-local](./dinukaek-grassquest-local.md) | ⭐ — | CSS | 39/100 |
 | 10 | [25A35A0531/StudyNote-AI](./25a35a0531-studynote-ai.md) | ⭐ — | Python | 39/100 |
-| 11 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 36/100 |
-| 12 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 36/100 |
+| 11 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 36/100 |
+| 12 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 33/100 |
 | 13 | [0xShugo/audio.cpp](./0xshugo-audio.cpp.md) | ⭐ — | — | 27/100 |
 
 ---
