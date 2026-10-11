@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [PureStackStudio/Regor](./purestackstudio-regor.md) | ⭐ 10 | TypeScript | 58/100 |
+| 1 | [PureStackStudio/Regor](./purestackstudio-regor.md) | ⭐ 10 | TypeScript | 55/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # PureStackStudio/Regor
 
-[![Stars](https://img.shields.io/github/stars/PureStackStudio/Regor?style=flat-square&color=yellow)](https://github.com/PureStackStudio/Regor/stargazers) [![Forks](https://img.shields.io/github/forks/PureStackStudio/Regor?style=flat-square&color=blue)](https://github.com/PureStackStudio/Regor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PureStackStudio/Regor?style=flat-square&color=yellow)](https://github.com/PureStackStudio/Regor/stargazers) [![Forks](https://img.shields.io/github/forks/PureStackStudio/Regor?style=flat-square&color=blue)](https://github.com/PureStackStudio/Regor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A modern UI framework for web and desktop applications, inspired by Vue's concepts and powered by simplicity and flexibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ PureStackStudio/Regor：PureStackStudio/Regor may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 400/100 |
 | stars | 22/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

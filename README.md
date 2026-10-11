@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39369** |
+| **Projects** | **39372** |
 | **Categories** | **409** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15355 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4306 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15356 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4307 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2722 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2307 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1567 | [Browse →](./devtools/) |
@@ -45,7 +45,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Communication** | 408 | [Browse →](./communication/) |
 | 📊 **Data** | 332 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
-| 🏷️ **Games--graphics** | 327 | [Browse →](./games--graphics/) |
+| 🏷️ **Games--graphics** | 328 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 315 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 293 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 254 | [Browse →](./libraries--sdks/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 71 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 73 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Offline** | 29 | [Browse →](./offline/) |
@@ -88,7 +88,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
-| 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Outdoor** | 3 | [Browse →](./outdoor/) |
@@ -159,6 +158,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Ios** | 2 | [Browse →](./ios/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
+| 🏷️ **Webgpu** | 2 | [Browse →](./webgpu/) |
 | 🏷️ **Bug-bounty** | 2 | [Browse →](./bug-bounty/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
 | 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |

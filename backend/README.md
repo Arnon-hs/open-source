@@ -612,8 +612,8 @@
 | 602 | [scottyzen/woonuxt](./scottyzen-woonuxt.md) | ⭐ 962 | TypeScript | 60/100 |
 | 603 | [ComunidadAylas/PackSquash](./comunidadaylas-packsquash.md) | ⭐ 836 | Rust | 60/100 |
 | 604 | [cabloy/cabloy](./cabloy-cabloy.md) | ⭐ 969 | TypeScript | 60/100 |
-| 605 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 344 | Go | 60/100 |
-| 606 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 931 | Python | 60/100 |
+| 605 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 931 | Python | 60/100 |
+| 606 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 344 | Go | 60/100 |
 | 607 | [PowerDNS/pdns](./powerdns-pdns.md) | ⭐ 4.4k | C++ | 60/100 |
 | 608 | [FreeRADIUS/freeradius-server](./freeradius-freeradius-server.md) | ⭐ 2.5k | C | 60/100 |
 | 609 | [apollographql/apollo-rs](./apollographql-apollo-rs.md) | ⭐ 601 | Rust | 60/100 |
