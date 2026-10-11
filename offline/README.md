@@ -24,10 +24,10 @@
 | 14 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 36/100 |
 | 15 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 36/100 |
 | 16 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 36/100 |
-| 17 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 36/100 |
-| 18 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 36/100 |
-| 19 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 36/100 |
-| 20 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 36/100 |
+| 17 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 36/100 |
+| 18 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 36/100 |
+| 19 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 36/100 |
+| 20 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 33/100 |
 | 21 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 33/100 |
 | 22 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
 | 23 | [cactus-compute/whistle](./cactus-compute-whistle.md) | ⭐ — | — | 24/100 |

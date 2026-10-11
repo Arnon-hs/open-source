@@ -17,9 +17,9 @@
 | 7 | [Anandb71/grass-bingo](./anandb71-grass-bingo.md) | ⭐ — | TypeScript | 53/100 |
 | 8 | [ThunderKhan/meowfolio](./thunderkhan-meowfolio.md) | ⭐ 6 | TypeScript | 50/100 |
 | 9 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 47/100 |
-| 10 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 45/100 |
-| 11 | [econovibe/MyHardwareInfo](./econovibe-myhardwareinfo.md) | ⭐ — | Rust | 45/100 |
-| 12 | [Yaser-123/PagePilot](./yaser-123-pagepilot.md) | ⭐ — | TypeScript | 44/100 |
+| 10 | [econovibe/MyHardwareInfo](./econovibe-myhardwareinfo.md) | ⭐ — | Rust | 45/100 |
+| 11 | [Yaser-123/PagePilot](./yaser-123-pagepilot.md) | ⭐ — | TypeScript | 44/100 |
+| 12 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 42/100 |
 | 13 | [abhijeetnardele24-hash/groundsignal](./abhijeetnardele24-hash-groundsignal.md) | ⭐ — | TypeScript | 39/100 |
 | 14 | [sohamsakhare76-ai/findit-ai](./sohamsakhare76-ai-findit-ai.md) | ⭐ — | Python | 39/100 |
 | 15 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |

@@ -1,6 +1,6 @@
 # Arthur031221/ChitWeave
 
-[![Stars](https://img.shields.io/github/stars/Arthur031221/ChitWeave?style=flat-square&color=yellow)](https://github.com/Arthur031221/ChitWeave/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/ChitWeave?style=flat-square&color=blue)](https://github.com/Arthur031221/ChitWeave/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthur031221/ChitWeave?style=flat-square&color=yellow)](https://github.com/Arthur031221/ChitWeave/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/ChitWeave?style=flat-square&color=blue)](https://github.com/Arthur031221/ChitWeave/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Turn a two-person LINE chat export into a woven picture of when you talk, one row a day and one cell an hour. Runs in your browser, nothing is uploaded, saves a PNG or SVG.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Arthur031221/ChitWeave：Arthur031221/ChitWeave may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 55/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
