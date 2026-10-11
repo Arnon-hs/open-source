@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39426** |
-| **Categories** | **416** |
+| **Projects** | **39431** |
+| **Categories** | **418** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,18 +23,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15373 | [Browse →](./misc/) |
+| 📦 **Misc** | 15374 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4309 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2730 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2308 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1568 | [Browse →](./devtools/) |
+| 🧩 **Orchestration** | 2309 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 1569 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1382 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 927 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 875 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 876 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 777 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 666 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 633 | [Browse →](./networking/) |
-| 📱 **Mobile** | 614 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 615 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 593 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 587 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 514 | [Browse →](./database/) |
@@ -64,13 +64,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 15 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 15 | [Browse →](./llm/) |
 | 🏷️ **Local-ai** | 12 | [Browse →](./local-ai/) |
-| 🏷️ **React-native** | 8 | [Browse →](./react-native/) |
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 8 | [Browse →](./offline-first/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
 | 🏷️ **Sanity** | 6 | [Browse →](./sanity/) |
@@ -109,6 +109,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Python** | 3 | [Browse →](./python/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **Open-weight-ai** | 2 | [Browse →](./open-weight-ai/) |
 | 🏷️ **Open-source-ai** | 2 | [Browse →](./open-source-ai/) |
 | 🏷️ **Ai-ops** | 2 | [Browse →](./ai-ops/) |
@@ -154,7 +155,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **Gdpr** | 2 | [Browse →](./gdpr/) |
 | 🏷️ **X402** | 2 | [Browse →](./x402/) |
-| 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
@@ -178,6 +178,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Offline-navigation** | 1 | [Browse →](./offline-navigation/) |
 | 🏷️ **Desktop-app** | 1 | [Browse →](./desktop-app/) |
 | 🏷️ **Amazon-fba** | 1 | [Browse →](./amazon-fba/) |
 | 🏷️ **Agent-framework** | 1 | [Browse →](./agent-framework/) |
@@ -312,6 +313,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Drobek** | 1 | [Browse →](./drobek/) |
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
+| 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
 | 🏷️ **Devtv** | 1 | [Browse →](./devtv/) |

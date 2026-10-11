@@ -1,6 +1,6 @@
 # RonRadtke/react-native-blob-util
 
-[![Stars](https://img.shields.io/github/stars/RonRadtke/react-native-blob-util?style=flat-square&color=yellow)](https://github.com/RonRadtke/react-native-blob-util/stargazers) [![Forks](https://img.shields.io/github/forks/RonRadtke/react-native-blob-util?style=flat-square&color=blue)](https://github.com/RonRadtke/react-native-blob-util/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RonRadtke/react-native-blob-util?style=flat-square&color=yellow)](https://github.com/RonRadtke/react-native-blob-util/stargazers) [![Forks](https://img.shields.io/github/forks/RonRadtke/react-native-blob-util?style=flat-square&color=blue)](https://github.com/RonRadtke/react-native-blob-util/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A project committed to making file access and data transfer easier, efficient for React Native developers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 923 |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-08 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ RonRadtke/react-native-blob-util：RonRadtke/react-native-blob-util may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 66/100 |
+| production | 59/100 |
+| outlook | 59/100 |
 | adoption | 61/100 |
 | categoryMatchCount | 700/100 |
 | stars | 63/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
