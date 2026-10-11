@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Kunal-CodeLab/verdant-ai](./kunal-codelab-verdant-ai.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [Kunal-CodeLab/verdant-ai](./kunal-codelab-verdant-ai.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
