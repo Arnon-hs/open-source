@@ -1,6 +1,6 @@
 # Polymarket/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/Polymarket/agent-skills?style=flat-square&color=yellow)](https://github.com/Polymarket/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Polymarket/agent-skills?style=flat-square&color=blue)](https://github.com/Polymarket/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Polymarket/agent-skills?style=flat-square&color=yellow)](https://github.com/Polymarket/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Polymarket/agent-skills?style=flat-square&color=blue)](https://github.com/Polymarket/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Public repository for Polymarket Agent Skills
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Polymarket/agent-skills：Polymarket/agent-skills may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 45/100 |
 | categoryMatchCount | 600/100 |
 | stars | 49/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

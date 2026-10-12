@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39613** |
-| **Categories** | **426** |
+| **Projects** | **39619** |
+| **Categories** | **427** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,21 +23,21 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15459 | [Browse →](./misc/) |
+| 📦 **Misc** | 15461 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4322 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2738 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2315 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2316 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1385 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 930 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 878 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 778 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 669 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 670 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 635 | [Browse →](./networking/) |
 | 📱 **Mobile** | 616 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 597 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 588 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 518 | [Browse →](./database/) |
+| 🏷️ **Database** | 519 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 503 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 464 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 443 | [Browse →](./templates/) |
@@ -176,6 +176,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Crm** | 1 | [Browse →](./crm/) |
 | 🏷️ **Polymarket** | 1 | [Browse →](./polymarket/) |
 | 🏷️ **Financial-automation** | 1 | [Browse →](./financial-automation/) |
 | 🏷️ **Field-journal** | 1 | [Browse →](./field-journal/) |

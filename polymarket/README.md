@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Polymarket/agent-skills](./polymarket-agent-skills.md) | ⭐ 192 | — | 53/100 |
+| 1 | [Polymarket/agent-skills](./polymarket-agent-skills.md) | ⭐ 192 | — | 50/100 |
 
 ---
 
