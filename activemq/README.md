@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sudoitir/artemis-studio](./sudoitir-artemis-studio.md) | ⭐ 6 | Java | 63/100 |
+| 1 | [sudoitir/artemis-studio](./sudoitir-artemis-studio.md) | ⭐ 6 | Java | 60/100 |
 
 ---
 
