@@ -1,6 +1,6 @@
 # mozillazg/python-pinyin
 
-[![Stars](https://img.shields.io/github/stars/mozillazg/python-pinyin?style=flat-square&color=yellow)](https://github.com/mozillazg/python-pinyin/stargazers) [![Forks](https://img.shields.io/github/forks/mozillazg/python-pinyin?style=flat-square&color=blue)](https://github.com/mozillazg/python-pinyin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozillazg/python-pinyin?style=flat-square&color=yellow)](https://github.com/mozillazg/python-pinyin/stargazers) [![Forks](https://img.shields.io/github/forks/mozillazg/python-pinyin?style=flat-square&color=blue)](https://github.com/mozillazg/python-pinyin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 汉字转拼音(pypinyin)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 629 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Chinese NLP · LLM preprocessing · MCP · privacy · automation
 
 ### English
 
-mozillazg/python-pinyin: mozillazg/python-pinyin may be useful when its README and activity match a concrete workflow.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mozillazg/python-pinyin: mozillazg/python-pinyin may be useful when its README and activity match a concrete workflow.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-mozillazg/python-pinyin: open-source проект в категориях Chinese NLP, LLM preprocessing, MCP, privacy, automation. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+mozillazg/python-pinyin: open-source проект в категориях Chinese NLP, LLM preprocessing, MCP, privacy, automation. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-mozillazg/python-pinyin：mozillazg/python-pinyin may be useful when its README and activity match a concrete workflow.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mozillazg/python-pinyin：mozillazg/python-pinyin may be useful when its README and activity match a concrete workflow.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ mozillazg/python-pinyin：mozillazg/python-pinyin may be useful when its README 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ mozillazg/python-pinyin：mozillazg/python-pinyin may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 77/100 |
 | categoryMatchCount | 500/100 |
 | stars | 79/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
