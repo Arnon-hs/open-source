@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aixisstudio/Snitch](./aixisstudio-snitch.md) | ⭐ 1 | Python | 61/100 |
+| 1 | [violintvex/ViolinNext](./violintvex-violinnext.md) | ⭐ — | — | 52/100 |
 
 ---
 
