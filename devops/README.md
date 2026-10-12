@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [putme-in/putmein](./putme-in-putmein.md) | ⭐ 9 | TypeScript | 61/100 |
+| 1 | [engjodev/ghostops](./engjodev-ghostops.md) | ⭐ — | Python | 55/100 |
 
 ---
 

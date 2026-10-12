@@ -21,8 +21,8 @@
 | 11 | [AncientiCe/mcp-warden](./ancientice-mcp-warden.md) | ⭐ 1 | Rust | 56/100 |
 | 12 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 13 | [dictionary-beep/Model-AI-free-low-cost](./dictionary-beep-model-ai-free-low-cost.md) | ⭐ 1 | — | 54/100 |
-| 14 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 52/100 |
-| 15 | [HarshAggarwal1/touchgrass](./harshaggarwal1-touchgrass.md) | ⭐ — | JavaScript | 52/100 |
+| 14 | [HarshAggarwal1/touchgrass](./harshaggarwal1-touchgrass.md) | ⭐ — | JavaScript | 52/100 |
+| 15 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |
 | 16 | [Pryxor/pryxor](./pryxor-pryxor.md) | ⭐ 1 | Python | 48/100 |
 | 17 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 47/100 |
 | 18 | [ashwintemkar/opentrips](./ashwintemkar-opentrips.md) | ⭐ — | TypeScript | 46/100 |

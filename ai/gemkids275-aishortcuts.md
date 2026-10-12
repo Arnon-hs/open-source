@@ -1,6 +1,6 @@
 # gemkids275/AIShortcuts
 
-[![Stars](https://img.shields.io/github/stars/gemkids275/AIShortcuts?style=flat-square&color=yellow)](https://github.com/gemkids275/AIShortcuts/stargazers) [![Forks](https://img.shields.io/github/forks/gemkids275/AIShortcuts?style=flat-square&color=blue)](https://github.com/gemkids275/AIShortcuts/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gemkids275/AIShortcuts?style=flat-square&color=yellow)](https://github.com/gemkids275/AIShortcuts/stargazers) [![Forks](https://img.shields.io/github/forks/gemkids275/AIShortcuts?style=flat-square&color=blue)](https://github.com/gemkids275/AIShortcuts/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > System-wide AI writing assistant: select text, press a hotkey, proofread, rewrite or summarize in place. Windows, macOS, Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ gemkids275/AIShortcuts：gemkids275/AIShortcuts may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 500/100 |
 | stars | 23/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

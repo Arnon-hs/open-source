@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jhnwr/scrapy-jev](./jhnwr-scrapy-jev.md) | ⭐ — | Python | 43/100 |
+| 1 | [Nitishmane/scraper-factory](./nitishmane-scraper-factory.md) | ⭐ 1 | Python | 41/100 |
 
 ---
 
