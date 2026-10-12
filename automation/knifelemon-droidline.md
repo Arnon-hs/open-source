@@ -1,6 +1,6 @@
 # KnifeLemon/Droidline
 
-[![Stars](https://img.shields.io/github/stars/KnifeLemon/Droidline?style=flat-square&color=yellow)](https://github.com/KnifeLemon/Droidline/stargazers) [![Forks](https://img.shields.io/github/forks/KnifeLemon/Droidline?style=flat-square&color=blue)](https://github.com/KnifeLemon/Droidline/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KnifeLemon/Droidline?style=flat-square&color=yellow)](https://github.com/KnifeLemon/Droidline/stargazers) [![Forks](https://img.shields.io/github/forks/KnifeLemon/Droidline?style=flat-square&color=blue)](https://github.com/KnifeLemon/Droidline/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Android automation from code. Test your apps on real phones, script the tasks you repeat, run a shelf of phones, or let an AI agent use one, from Python, Node.js, the CLI, HTTP or Appium clients. No ADB, no USB cable, no root.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ KnifeLemon/Droidline：KnifeLemon/Droidline may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 64/100 |
+| outlook | 66/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 900/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
