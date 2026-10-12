@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39672** |
+| **Projects** | **39679** |
 | **Categories** | **432** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15483 | [Browse →](./misc/) |
+| 📦 **Misc** | 15488 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4325 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2738 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2739 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2316 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1388 | [Browse →](./automation/) |
@@ -75,6 +75,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
+| 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🌐 **Open Source** | 5 | [Browse →](./opensource/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Android** | 5 | [Browse →](./android/) |
@@ -85,7 +86,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Npm** | 4 | [Browse →](./npm/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
-| 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
@@ -96,7 +96,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Outdoor** | 3 | [Browse →](./outdoor/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
-| 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
@@ -107,6 +106,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Figma** | 2 | [Browse →](./figma/) |
 | 🏷️ **Compiler** | 2 | [Browse →](./compiler/) |
 | 🏷️ **Yaml** | 2 | [Browse →](./yaml/) |
 | 🏷️ **Api-security** | 2 | [Browse →](./api-security/) |
@@ -124,6 +124,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Jsonpath** | 2 | [Browse →](./jsonpath/) |
 | 🏷️ **Data-quality** | 2 | [Browse →](./data-quality/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
+| 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **3d** | 2 | [Browse →](./3d/) |
 | 🏷️ **Browser-automation** | 2 | [Browse →](./browser-automation/) |
@@ -178,6 +179,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Personal-agent** | 1 | [Browse →](./personal-agent/) |
 | 🏷️ **Network-monitoring** | 1 | [Browse →](./network-monitoring/) |
 | 🏷️ **Shrinkflation** | 1 | [Browse →](./shrinkflation/) |
 | 🏷️ **Triage** | 1 | [Browse →](./triage/) |
@@ -294,7 +296,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
 | 🏷️ **Remote-desktop** | 1 | [Browse →](./remote-desktop/) |
 | 🏷️ **Autofill** | 1 | [Browse →](./autofill/) |
-| 🏷️ **Figma** | 1 | [Browse →](./figma/) |
 | 🏷️ **Terraform** | 1 | [Browse →](./terraform/) |
 | 🏷️ **Termux** | 1 | [Browse →](./termux/) |
 | 🏷️ **Email** | 1 | [Browse →](./email/) |
@@ -335,7 +336,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Curling** | 1 | [Browse →](./curling/) |
 | 🏷️ **Nostalgia** | 1 | [Browse →](./nostalgia/) |
 | 🏷️ **Pay-per-call** | 1 | [Browse →](./pay-per-call/) |
-| 🏷️ **Process-management** | 1 | [Browse →](./process-management/) |
 | 🏷️ **Mock-interviewer** | 1 | [Browse →](./mock-interviewer/) |
 | 🏷️ **Gdpr** | 1 | [Browse →](./gdpr/) |
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |

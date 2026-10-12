@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [metasearchcomtr/feed-validator](./metasearchcomtr-feed-validator.md) | ⭐ — | TypeScript | 64/100 |
+| 1 | [metasearchcomtr/feed-validator](./metasearchcomtr-feed-validator.md) | ⭐ — | TypeScript | 61/100 |
 
 ---
 
