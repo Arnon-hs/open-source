@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39752** |
-| **Categories** | **444** |
+| **Projects** | **39757** |
+| **Categories** | **445** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15533 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4326 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15535 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4327 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2744 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2317 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
@@ -54,7 +54,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 143 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 108 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 84 | [Browse →](./ai/) |
-| 🏷️ **Offline** | 39 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 38 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
@@ -66,11 +66,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
+| 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **Go** | 5 | [Browse →](./go/) |
@@ -105,6 +105,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Cloudflare** | 2 | [Browse →](./cloudflare/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
 | 🏷️ **Figma** | 2 | [Browse →](./figma/) |
 | 🏷️ **Compiler** | 2 | [Browse →](./compiler/) |
@@ -175,6 +176,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Leadgeneration** | 1 | [Browse →](./leadgeneration/) |
+| 🏷️ **E-commerce** | 1 | [Browse →](./e-commerce/) |
 | 🏷️ **Context-management** | 1 | [Browse →](./context-management/) |
 | 🏷️ **Error-tracking** | 1 | [Browse →](./error-tracking/) |
 | 🏷️ **Prompt-injection** | 1 | [Browse →](./prompt-injection/) |
@@ -345,7 +348,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Osmf** | 1 | [Browse →](./osmf/) |
 | 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
 | 🏷️ **Portfolio** | 1 | [Browse →](./portfolio/) |
-| 🏷️ **Health-ai** | 1 | [Browse →](./health-ai/) |
 | 🏷️ **Pay-per-call** | 1 | [Browse →](./pay-per-call/) |
 | 🏷️ **Mock-interviewer** | 1 | [Browse →](./mock-interviewer/) |
 | 🏷️ **Gdpr** | 1 | [Browse →](./gdpr/) |
@@ -448,7 +450,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Personal-website** | 1 | [Browse →](./personal-website/) |
 | 🏷️ **Serverless** | 1 | [Browse →](./serverless/) |
 | 🏷️ **Thread-dump** | 1 | [Browse →](./thread-dump/) |
-| 🏷️ **Cloudflare** | 1 | [Browse →](./cloudflare/) |
 | 🏷️ **Micropayments** | 1 | [Browse →](./micropayments/) |
 | 🏷️ **Webhooks** | 1 | [Browse →](./webhooks/) |
 | 🏷️ **Ide** | 1 | [Browse →](./ide/) |
