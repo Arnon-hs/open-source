@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39634** |
-| **Categories** | **430** |
+| **Projects** | **39643** |
+| **Categories** | **434** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15468 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4322 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15469 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4323 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2738 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2316 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
@@ -54,13 +54,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 106 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 83 | [Browse →](./ai/) |
-| 🏷️ **Offline** | 39 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 40 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
+| 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 18 | [Browse →](./llm/) |
-| 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-first** | 16 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **N8n** | 5 | [Browse →](./n8n/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
+| 🏷️ **Air-quality** | 4 | [Browse →](./air-quality/) |
 | 🏷️ **Npm** | 4 | [Browse →](./npm/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
@@ -90,7 +91,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
-| 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Git** | 3 | [Browse →](./git/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
@@ -176,6 +176,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Shrinkflation** | 1 | [Browse →](./shrinkflation/) |
+| 🏷️ **Triage** | 1 | [Browse →](./triage/) |
+| 🏷️ **Social-media** | 1 | [Browse →](./social-media/) |
+| 🏷️ **Football** | 1 | [Browse →](./football/) |
 | 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
 | 🏷️ **Knowledge-work** | 1 | [Browse →](./knowledge-work/) |
 | 🏷️ **Contract-analysis** | 1 | [Browse →](./contract-analysis/) |

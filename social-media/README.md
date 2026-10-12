@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [DeveloperPuneet/Crowdwide](./developerpuneet-crowdwide.md) | ⭐ 1 | JavaScript | 45/100 |
+| 1 | [supero-platform/supero-apps](./supero-platform-supero-apps.md) | ⭐ 3 | Python | 70/100 |
 
 ---
 
