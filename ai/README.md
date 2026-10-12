@@ -24,8 +24,8 @@
 | 14 | [HarshAggarwal1/touchgrass](./harshaggarwal1-touchgrass.md) | ⭐ — | JavaScript | 52/100 |
 | 15 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |
 | 16 | [Pryxor/pryxor](./pryxor-pryxor.md) | ⭐ 1 | Python | 48/100 |
-| 17 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 47/100 |
-| 18 | [ashwintemkar/opentrips](./ashwintemkar-opentrips.md) | ⭐ — | TypeScript | 46/100 |
+| 17 | [ashwintemkar/opentrips](./ashwintemkar-opentrips.md) | ⭐ — | TypeScript | 46/100 |
+| 18 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
 | 19 | [codewithvishuuu/verdantra](./codewithvishuuu-verdantra.md) | ⭐ — | Python | 42/100 |
 | 20 | [shashank03-dev/Paper-Trail-WEEK-1](./shashank03-dev-paper-trail-week-1.md) | ⭐ — | TypeScript | 42/100 |
 | 21 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
