@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [b2bsearch/workflows](./b2bsearch-workflows.md) | ⭐ — | Python | 54/100 |
+| 1 | [b2bsearch/workflows](./b2bsearch-workflows.md) | ⭐ — | Python | 51/100 |
 
 ---
 
