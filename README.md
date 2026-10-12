@@ -15,7 +15,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | | |
 |---|---|
 | **Projects** | **39572** |
-| **Categories** | **427** |
+| **Categories** | **426** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -29,7 +29,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🧩 **Orchestration** | 2314 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1384 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 928 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 929 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 876 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 778 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 668 | [Browse →](./documents/) |
@@ -334,7 +334,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
-| 🏷️ **Devtv** | 1 | [Browse →](./devtv/) |
 | 🏷️ **Cybersecurity** | 1 | [Browse →](./cybersecurity/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
 | 🏷️ **Hacktoberfest** | 1 | [Browse →](./hacktoberfest/) |

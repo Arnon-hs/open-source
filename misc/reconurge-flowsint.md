@@ -63,18 +63,18 @@ reconurge/flowsint：reconurge/flowsint may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 75/100 |
-| integration | 62/100 |
-| production | 69/100 |
-| outlook | 69/100 |
-| adoption | 82/100 |
-| categoryMatchCount | 0/100 |
-| stars | 84/100 |
 | forks | 76/100 |
-| recency | 80/100 |
+| stars | 84/100 |
 | topics | 50/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
+| adoption | 82/100 |
+| production | 69/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

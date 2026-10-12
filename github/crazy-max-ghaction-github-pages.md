@@ -1,6 +1,6 @@
 # crazy-max/ghaction-github-pages
 
-[![Stars](https://img.shields.io/github/stars/crazy-max/ghaction-github-pages?style=flat-square&color=yellow)](https://github.com/crazy-max/ghaction-github-pages/stargazers) [![Forks](https://img.shields.io/github/forks/crazy-max/ghaction-github-pages?style=flat-square&color=blue)](https://github.com/crazy-max/ghaction-github-pages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crazy-max/ghaction-github-pages?style=flat-square&color=yellow)](https://github.com/crazy-max/ghaction-github-pages/stargazers) [![Forks](https://img.shields.io/github/forks/crazy-max/ghaction-github-pages?style=flat-square&color=blue)](https://github.com/crazy-max/ghaction-github-pages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action to deploy to GitHub Pages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ crazy-max/ghaction-github-pages：crazy-max/ghaction-github-pages may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 62/100 |
+| outlook | 62/100 |
 | adoption | 54/100 |
 | categoryMatchCount | 700/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
