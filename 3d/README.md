@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [KhronosGroup/KTX-Software](./khronosgroup-ktx-software.md) | ⭐ 1.4k | C++ | 61/100 |
+| 1 | [KhronosGroup/KTX-Software](./khronosgroup-ktx-software.md) | ⭐ 1.4k | C++ | 58/100 |
 | 2 | [Ayushgupta1715/sanity-museum](./ayushgupta1715-sanity-museum.md) | ⭐ — | TypeScript | 36/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Abbagigo13/agentcredit
 
-[![Stars](https://img.shields.io/github/stars/Abbagigo13/agentcredit?style=flat-square&color=yellow)](https://github.com/Abbagigo13/agentcredit/stargazers) [![Forks](https://img.shields.io/github/forks/Abbagigo13/agentcredit?style=flat-square&color=blue)](https://github.com/Abbagigo13/agentcredit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Abbagigo13/agentcredit?style=flat-square&color=yellow)](https://github.com/Abbagigo13/agentcredit/stargazers) [![Forks](https://img.shields.io/github/forks/Abbagigo13/agentcredit?style=flat-square&color=blue)](https://github.com/Abbagigo13/agentcredit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ ERC-8004 · Qwen · onchain-verification · AI-agent · trust-scoring
 
 ### English
 
-Abbagigo13/agentcredit: Abbagigo13/agentcredit may be useful when its README and activity match a concrete workflow.. Use it for ERC-8004, Qwen, onchain-verification, AI-agent, trust-scoring. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Abbagigo13/agentcredit: Abbagigo13/agentcredit may be useful when its README and activity match a concrete workflow.. Use it for ERC-8004, Qwen, onchain-verification, AI-agent, trust-scoring. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Abbagigo13/agentcredit: open-source проект в категориях ERC-8004, Qwen, onchain-verification, AI-agent, trust-scoring. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Abbagigo13/agentcredit: open-source проект в категориях ERC-8004, Qwen, onchain-verification, AI-agent, trust-scoring. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Abbagigo13/agentcredit：Abbagigo13/agentcredit may be useful when its README and activity match a concrete workflow.。适合用于ERC-8004、Qwen、onchain-verification、AI-agent、trust-scoring。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Abbagigo13/agentcredit：Abbagigo13/agentcredit may be useful when its README and activity match a concrete workflow.。适合用于ERC-8004、Qwen、onchain-verification、AI-agent、trust-scoring。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Abbagigo13/agentcredit：Abbagigo13/agentcredit may be useful when its README an
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ Abbagigo13/agentcredit：Abbagigo13/agentcredit may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 34/100 |
-| production | 56/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

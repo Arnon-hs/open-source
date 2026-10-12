@@ -1,6 +1,6 @@
 # KhronosGroup/KTX-Software
 
-[![Stars](https://img.shields.io/github/stars/KhronosGroup/KTX-Software?style=flat-square&color=yellow)](https://github.com/KhronosGroup/KTX-Software/stargazers) [![Forks](https://img.shields.io/github/forks/KhronosGroup/KTX-Software?style=flat-square&color=blue)](https://github.com/KhronosGroup/KTX-Software/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KhronosGroup/KTX-Software?style=flat-square&color=yellow)](https://github.com/KhronosGroup/KTX-Software/stargazers) [![Forks](https://img.shields.io/github/forks/KhronosGroup/KTX-Software?style=flat-square&color=blue)](https://github.com/KhronosGroup/KTX-Software/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > KTX (Khronos Texture) Library and Tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ KhronosGroup/KTX-Software：KhronosGroup/KTX-Software may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 500/100 |
 | stars | 67/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
