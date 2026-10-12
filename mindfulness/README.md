@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Anika-Jha/Observe](./anika-jha-observe.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [Anika-Jha/Observe](./anika-jha-observe.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

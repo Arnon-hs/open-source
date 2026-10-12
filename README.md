@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39691** |
-| **Categories** | **433** |
+| **Projects** | **39700** |
+| **Categories** | **435** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15498 | [Browse →](./misc/) |
+| 📦 **Misc** | 15504 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4325 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2739 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2316 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2740 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2317 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1388 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1389 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 930 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 880 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 780 | [Browse →](./crypto/) |
@@ -39,11 +39,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 588 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 520 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 503 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 464 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 465 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 443 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 412 | [Browse →](./communication/) |
 | 🔐 **Security** | 412 | [Browse →](./security/) |
-| 📊 **Data** | 334 | [Browse →](./data/) |
+| 📊 **Data** | 335 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 329 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 319 | [Browse →](./productivity/) |
@@ -51,16 +51,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 256 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 199 | [Browse →](./trading/) |
 | ✨ **Design** | 172 | [Browse →](./design/) |
-| 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 143 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 106 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 85 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 84 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 40 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
-| 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 18 | [Browse →](./llm/) |
+| 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-first** | 16 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
@@ -131,7 +131,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
-| 🏷️ **Browser** | 2 | [Browse →](./browser/) |
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Jax** | 2 | [Browse →](./jax/) |
 | 🏷️ **Career-change** | 2 | [Browse →](./career-change/) |
@@ -153,8 +152,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Quiz** | 2 | [Browse →](./quiz/) |
 | 🏷️ **Notion** | 2 | [Browse →](./notion/) |
 | 🏷️ **Playwright** | 2 | [Browse →](./playwright/) |
-| 🏷️ **Speech-recognition** | 2 | [Browse →](./speech-recognition/) |
-| 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Ios** | 2 | [Browse →](./ios/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
@@ -179,6 +176,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ollama** | 1 | [Browse →](./ollama/) |
+| 🏷️ **Facebook** | 1 | [Browse →](./facebook/) |
 | 🏷️ **Net-10** | 1 | [Browse →](./net-10/) |
 | 🏷️ **Personal-agent** | 1 | [Browse →](./personal-agent/) |
 | 🏷️ **Network-monitoring** | 1 | [Browse →](./network-monitoring/) |
@@ -272,6 +271,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Erc-8004** | 1 | [Browse →](./erc-8004/) |
 | 🏷️ **Ai-generated-sites** | 1 | [Browse →](./ai-generated-sites/) |
 | 🏷️ **Activemq** | 1 | [Browse →](./activemq/) |
+| 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Regexp** | 1 | [Browse →](./regexp/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
@@ -356,6 +356,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-development** | 1 | [Browse →](./web-development/) |
 | 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |
 | 🏷️ **Vscode** | 1 | [Browse →](./vscode/) |
+| 🏷️ **Ai-code-review** | 1 | [Browse →](./ai-code-review/) |
 | 🏷️ **Raspberrypi** | 1 | [Browse →](./raspberrypi/) |
 | 🏷️ **Okf** | 1 | [Browse →](./okf/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
@@ -375,6 +376,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
 | 🏷️ **Static-analysis** | 1 | [Browse →](./static-analysis/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
+| 🏷️ **Speech-recognition** | 1 | [Browse →](./speech-recognition/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
 | 🏷️ **Certification** | 1 | [Browse →](./certification/) |
 | 🏷️ **Decision-models** | 1 | [Browse →](./decision-models/) |

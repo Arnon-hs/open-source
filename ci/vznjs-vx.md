@@ -1,6 +1,6 @@
 # vznjs/vx
 
-[![Stars](https://img.shields.io/github/stars/vznjs/vx?style=flat-square&color=yellow)](https://github.com/vznjs/vx/stargazers) [![Forks](https://img.shields.io/github/forks/vznjs/vx?style=flat-square&color=blue)](https://github.com/vznjs/vx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vznjs/vx?style=flat-square&color=yellow)](https://github.com/vznjs/vx/stargazers) [![Forks](https://img.shields.io/github/forks/vznjs/vx?style=flat-square&color=blue)](https://github.com/vznjs/vx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ vznjs/vx：vznjs/vx may be useful when its README and activity match a concrete 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 34/100 |
-| production | 58/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

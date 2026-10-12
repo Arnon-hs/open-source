@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [withmartian/code-review-benchmark](./withmartian-code-review-benchmark.md) | ⭐ 282 | Python | 48/100 |
-| 2 | [orbi-build/orbi-bench](./orbi-build-orbi-bench.md) | ⭐ — | Shell | 36/100 |
 
 ---
 
