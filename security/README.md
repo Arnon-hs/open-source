@@ -255,9 +255,9 @@
 | 245 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 406 | HTML | 50/100 |
 | 246 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 500 | — | 50/100 |
 | 247 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 122 | Rust | 50/100 |
-| 248 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
-| 249 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 250 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 248 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 249 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 250 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
 | 251 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 272 | Rust | 50/100 |
 | 252 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 50/100 |
 | 253 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 50/100 |

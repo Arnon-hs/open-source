@@ -1,6 +1,6 @@
 # bobbyhalljr/payload-bound-approval
 
-[![Stars](https://img.shields.io/github/stars/bobbyhalljr/payload-bound-approval?style=flat-square&color=yellow)](https://github.com/bobbyhalljr/payload-bound-approval/stargazers) [![Forks](https://img.shields.io/github/forks/bobbyhalljr/payload-bound-approval?style=flat-square&color=blue)](https://github.com/bobbyhalljr/payload-bound-approval/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bobbyhalljr/payload-bound-approval?style=flat-square&color=yellow)](https://github.com/bobbyhalljr/payload-bound-approval/stargazers) [![Forks](https://img.shields.io/github/forks/bobbyhalljr/payload-bound-approval?style=flat-square&color=blue)](https://github.com/bobbyhalljr/payload-bound-approval/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Bind a one-use approval to the exact outbound action. A tiny TypeScript build with 16 synthetic checks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ bobbyhalljr/payload-bound-approval：bobbyhalljr/payload-bound-approval may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

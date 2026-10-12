@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bobbyhalljr/payload-bound-approval](./bobbyhalljr-payload-bound-approval.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [bobbyhalljr/payload-bound-approval](./bobbyhalljr-payload-bound-approval.md) | ⭐ — | TypeScript | 39/100 |
 | 2 | [randomgitsrc/agate](./randomgitsrc-agate.md) | ⭐ — | — | 24/100 |
 
 ---
