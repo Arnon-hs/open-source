@@ -1,6 +1,6 @@
 # MarquezProject/marquez
 
-[![Stars](https://img.shields.io/github/stars/MarquezProject/marquez?style=flat-square&color=yellow)](https://github.com/MarquezProject/marquez/stargazers) [![Forks](https://img.shields.io/github/forks/MarquezProject/marquez?style=flat-square&color=blue)](https://github.com/MarquezProject/marquez/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarquezProject/marquez?style=flat-square&color=yellow)](https://github.com/MarquezProject/marquez/stargazers) [![Forks](https://img.shields.io/github/forks/MarquezProject/marquez?style=flat-square&color=blue)](https://github.com/MarquezProject/marquez/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Collect, aggregate, and visualize a data ecosystem's metadata
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ MarquezProject/marquez：MarquezProject/marquez may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 700/100 |
 | stars | 71/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | 1 | [SYSTRAN/faster-whisper](./systran-faster-whisper.md) | ⭐ 25.7k | Python | 65/100 |
 | 2 | [birdnet-team/BirdNET-Analyzer](./birdnet-team-birdnet-analyzer.md) | ⭐ 1.7k | Python | 62/100 |
-| 3 | [onnx/models](./onnx-models.md) | ⭐ 9.8k | Jupyter Notebook | 61/100 |
-| 4 | [jakearchibald/idb](./jakearchibald-idb.md) | ⭐ 7.4k | TypeScript | 60/100 |
-| 5 | [DhanushNehru/trialnote](./dhanushnehru-trialnote.md) | ⭐ — | Python | 59/100 |
-| 6 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 58/100 |
+| 3 | [jakearchibald/idb](./jakearchibald-idb.md) | ⭐ 7.4k | TypeScript | 60/100 |
+| 4 | [DhanushNehru/trialnote](./dhanushnehru-trialnote.md) | ⭐ — | Python | 59/100 |
+| 5 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 58/100 |
+| 6 | [onnx/models](./onnx-models.md) | ⭐ 9.8k | Jupyter Notebook | 58/100 |
 | 7 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 57/100 |
 | 8 | [sffjunkie/astral](./sffjunkie-astral.md) | ⭐ 290 | Python | 55/100 |
 | 9 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 54/100 |

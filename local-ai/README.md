@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [expressjs/multer](./expressjs-multer.md) | ⭐ 12.1k | JavaScript | 58/100 |
+| 1 | [expressjs/multer](./expressjs-multer.md) | ⭐ 12.1k | JavaScript | 55/100 |
 | 2 | [abhisek247767/free-time-agent](./abhisek247767-free-time-agent.md) | ⭐ — | Python | 52/100 |
 | 3 | [sundaysebasidian-byte/sundaysebasidian-byte.github.io](./sundaysebasidian-byte-sundaysebasidian-byte.github.io.md) | ⭐ — | TypeScript | 42/100 |
 | 4 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
