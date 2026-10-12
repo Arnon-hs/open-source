@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39566** |
-| **Categories** | **426** |
+| **Projects** | **39571** |
+| **Categories** | **427** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15442 | [Browse →](./misc/) |
+| 📦 **Misc** | 15445 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4319 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2734 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2314 | [Browse →](./orchestration/) |
@@ -89,6 +89,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Open-source-ai** | 3 | [Browse →](./open-source-ai/) |
 | 🏷️ **Git** | 3 | [Browse →](./git/) |
@@ -119,7 +120,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Bluetooth** | 2 | [Browse →](./bluetooth/) |
 | 🏷️ **Jsonpath** | 2 | [Browse →](./jsonpath/) |
 | 🏷️ **Data-quality** | 2 | [Browse →](./data-quality/) |
-| 🏷️ **Air-quality** | 2 | [Browse →](./air-quality/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **3d** | 2 | [Browse →](./3d/) |
@@ -175,6 +175,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Truenas** | 1 | [Browse →](./truenas/) |
+| 🏷️ **Green-space** | 1 | [Browse →](./green-space/) |
 | 🏷️ **Litter-collection** | 1 | [Browse →](./litter-collection/) |
 | 🏷️ **Agent-cost** | 1 | [Browse →](./agent-cost/) |
 | 🏷️ **Localfirst** | 1 | [Browse →](./localfirst/) |
@@ -333,7 +335,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
 | 🏷️ **Devtv** | 1 | [Browse →](./devtv/) |
-| 🏷️ **Adhd** | 1 | [Browse →](./adhd/) |
 | 🏷️ **Cybersecurity** | 1 | [Browse →](./cybersecurity/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
 | 🏷️ **Hacktoberfest** | 1 | [Browse →](./hacktoberfest/) |

@@ -1,6 +1,6 @@
 # kazuhikoarase/qrcode-generator
 
-[![Stars](https://img.shields.io/github/stars/kazuhikoarase/qrcode-generator?style=flat-square&color=yellow)](https://github.com/kazuhikoarase/qrcode-generator/stargazers) [![Forks](https://img.shields.io/github/forks/kazuhikoarase/qrcode-generator?style=flat-square&color=blue)](https://github.com/kazuhikoarase/qrcode-generator/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kazuhikoarase/qrcode-generator?style=flat-square&color=yellow)](https://github.com/kazuhikoarase/qrcode-generator/stargazers) [![Forks](https://img.shields.io/github/forks/kazuhikoarase/qrcode-generator?style=flat-square&color=blue)](https://github.com/kazuhikoarase/qrcode-generator/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > QR Code Generator implementation in JavaScript, Java and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 712 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ kazuhikoarase/qrcode-generator：kazuhikoarase/qrcode-generator may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 68/100 |
+| production | 60/100 |
+| outlook | 61/100 |
 | adoption | 72/100 |
 | categoryMatchCount | 500/100 |
 | stars | 72/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
