@@ -14,8 +14,8 @@
 | 4 | [juandelossantos/another-agent-skills](./juandelossantos-another-agent-skills.md) | ⭐ 1 | Shell | 64/100 |
 | 5 | [MarquezProject/marquez](./marquezproject-marquez.md) | ⭐ 2.3k | Java | 63/100 |
 | 6 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
-| 7 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 36/100 |
-| 8 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 36/100 |
+| 7 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 36/100 |
+| 8 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 33/100 |
 | 9 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
 | 10 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
 | 11 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |

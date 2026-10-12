@@ -2,7 +2,7 @@
 
 > 
 
-**82 projects** in this category.
+**83 projects** in this category.
 
 ## Projects
 
@@ -70,26 +70,27 @@
 | 60 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
 | 61 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
 | 62 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 63 | [mastra-io/mastra](./mastra-io-mastra.md) | ⭐ — | — | 24/100 |
-| 64 | [modesty/pdf-parse](./modesty-pdf-parse.md) | ⭐ — | — | 24/100 |
-| 65 | [ollama/opencode](./ollama-opencode.md) | ⭐ — | — | 24/100 |
-| 66 | [your/repo](./your-repo.md) | ⭐ — | — | 24/100 |
-| 67 | [Breakthrough-Lab/BLIMPY](./breakthrough-lab-blimpy.md) | ⭐ — | — | 24/100 |
-| 68 | [priobio/TabPFN](./priobio-tabpfn.md) | ⭐ — | — | 24/100 |
-| 69 | [Rohitisavailable/trailside](./rohitisavailable-trailside.md) | ⭐ — | — | 24/100 |
-| 70 | [novafabric/novafabric](./novafabric-novafabric.md) | ⭐ — | — | 24/100 |
-| 71 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
-| 72 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
-| 73 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
-| 74 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
-| 75 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 76 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 77 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 78 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 79 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 80 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 81 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 82 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 63 | [nextlevelbuilder/senzu](./nextlevelbuilder-senzu.md) | ⭐ — | — | 24/100 |
+| 64 | [mastra-io/mastra](./mastra-io-mastra.md) | ⭐ — | — | 24/100 |
+| 65 | [modesty/pdf-parse](./modesty-pdf-parse.md) | ⭐ — | — | 24/100 |
+| 66 | [ollama/opencode](./ollama-opencode.md) | ⭐ — | — | 24/100 |
+| 67 | [your/repo](./your-repo.md) | ⭐ — | — | 24/100 |
+| 68 | [Breakthrough-Lab/BLIMPY](./breakthrough-lab-blimpy.md) | ⭐ — | — | 24/100 |
+| 69 | [priobio/TabPFN](./priobio-tabpfn.md) | ⭐ — | — | 24/100 |
+| 70 | [Rohitisavailable/trailside](./rohitisavailable-trailside.md) | ⭐ — | — | 24/100 |
+| 71 | [novafabric/novafabric](./novafabric-novafabric.md) | ⭐ — | — | 24/100 |
+| 72 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
+| 73 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
+| 74 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
+| 75 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
+| 76 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 77 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 78 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 79 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 80 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 81 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 82 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 83 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # apache/guacamole-client
 
-[![Stars](https://img.shields.io/github/stars/apache/guacamole-client?style=flat-square&color=yellow)](https://github.com/apache/guacamole-client/stargazers) [![Forks](https://img.shields.io/github/forks/apache/guacamole-client?style=flat-square&color=blue)](https://github.com/apache/guacamole-client/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/guacamole-client?style=flat-square&color=yellow)](https://github.com/apache/guacamole-client/stargazers) [![Forks](https://img.shields.io/github/forks/apache/guacamole-client?style=flat-square&color=blue)](https://github.com/apache/guacamole-client/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Apache Guacamole web application, official extensions, and JavaScript library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 855 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ apache/guacamole-client：apache/guacamole-client may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 66/100 |
+| outlook | 72/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 200/100 |
 | stars | 69/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
