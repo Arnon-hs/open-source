@@ -2,7 +2,7 @@
 
 > 
 
-**36 projects** in this category.
+**37 projects** in this category.
 
 ## Projects
 
@@ -18,32 +18,33 @@
 | 8 | [sffjunkie/astral](./sffjunkie-astral.md) | ⭐ 290 | Python | 55/100 |
 | 9 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 43/100 |
 | 10 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 43/100 |
-| 11 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 42/100 |
-| 12 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 42/100 |
-| 13 | [gabutersproject/touch-grass-sports-ai](./gabutersproject-touch-grass-sports-ai.md) | ⭐ — | Python | 41/100 |
-| 14 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 39/100 |
-| 15 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 39/100 |
-| 16 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 39/100 |
-| 17 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
-| 18 | [disanalam2/trailecho](./disanalam2-trailecho.md) | ⭐ — | JavaScript | 36/100 |
-| 19 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 36/100 |
-| 20 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 36/100 |
-| 21 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 36/100 |
-| 22 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 36/100 |
-| 23 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 36/100 |
-| 24 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 36/100 |
-| 25 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 33/100 |
-| 26 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 33/100 |
-| 27 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
-| 28 | [BirdNET-Dev/BirdNET](./birdnet-dev-birdnet.md) | ⭐ — | — | 24/100 |
-| 29 | [cactus-compute/whistle](./cactus-compute-whistle.md) | ⭐ — | — | 24/100 |
-| 30 | [stanfordmlgroup/TabPFN](./stanfordmlgroup-tabpfn.md) | ⭐ — | — | 24/100 |
-| 31 | [Tanishq964/trail-kit](./tanishq964-trail-kit.md) | ⭐ — | — | 24/100 |
-| 32 | [Tanishq_964/trail-kit](./tanishq-964-trail-kit.md) | ⭐ — | — | 24/100 |
-| 33 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
-| 34 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
-| 35 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
-| 36 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
+| 11 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 42/100 |
+| 12 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 42/100 |
+| 13 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 42/100 |
+| 14 | [gabutersproject/touch-grass-sports-ai](./gabutersproject-touch-grass-sports-ai.md) | ⭐ — | Python | 41/100 |
+| 15 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 39/100 |
+| 16 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 39/100 |
+| 17 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 39/100 |
+| 18 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
+| 19 | [disanalam2/trailecho](./disanalam2-trailecho.md) | ⭐ — | JavaScript | 36/100 |
+| 20 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 36/100 |
+| 21 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 36/100 |
+| 22 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 36/100 |
+| 23 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 36/100 |
+| 24 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 36/100 |
+| 25 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 36/100 |
+| 26 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 33/100 |
+| 27 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 33/100 |
+| 28 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
+| 29 | [BirdNET-Dev/BirdNET](./birdnet-dev-birdnet.md) | ⭐ — | — | 24/100 |
+| 30 | [cactus-compute/whistle](./cactus-compute-whistle.md) | ⭐ — | — | 24/100 |
+| 31 | [stanfordmlgroup/TabPFN](./stanfordmlgroup-tabpfn.md) | ⭐ — | — | 24/100 |
+| 32 | [Tanishq964/trail-kit](./tanishq964-trail-kit.md) | ⭐ — | — | 24/100 |
+| 33 | [Tanishq_964/trail-kit](./tanishq-964-trail-kit.md) | ⭐ — | — | 24/100 |
+| 34 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
+| 35 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
+| 36 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
+| 37 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # bryceelliot/website-launch-checklist
 
-[![Stars](https://img.shields.io/github/stars/bryceelliot/website-launch-checklist?style=flat-square&color=yellow)](https://github.com/bryceelliot/website-launch-checklist/stargazers) [![Forks](https://img.shields.io/github/forks/bryceelliot/website-launch-checklist?style=flat-square&color=blue)](https://github.com/bryceelliot/website-launch-checklist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bryceelliot/website-launch-checklist?style=flat-square&color=yellow)](https://github.com/bryceelliot/website-launch-checklist/stargazers) [![Forks](https://img.shields.io/github/forks/bryceelliot/website-launch-checklist?style=flat-square&color=blue)](https://github.com/bryceelliot/website-launch-checklist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Accessible, browser-based checklist for launching a small-business website
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ bryceelliot/website-launch-checklist：bryceelliot/website-launch-checklist may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 52/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

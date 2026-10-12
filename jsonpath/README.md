@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [json-path/JsonPath](./json-path-jsonpath.md) | ⭐ 9.5k | Java | 58/100 |
+| 1 | [json-path/JsonPath](./json-path-jsonpath.md) | ⭐ 9.5k | Java | 55/100 |
 | 2 | [treetrail/treetrail](./treetrail-treetrail.md) | ⭐ 3 | Java | 46/100 |
 
 ---
