@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39599** |
-| **Categories** | **429** |
+| **Projects** | **39607** |
+| **Categories** | **428** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15452 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4320 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2736 | [Browse →](./mcp/) |
+| 📦 **Misc** | 15455 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4321 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2738 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2315 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1384 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1385 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 930 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 876 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 877 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 778 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 668 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 669 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 635 | [Browse →](./networking/) |
 | 📱 **Mobile** | 616 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 597 | [Browse →](./knowledgerag/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 518 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 503 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 464 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 442 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 443 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 411 | [Browse →](./communication/) |
 | 🔐 **Security** | 411 | [Browse →](./security/) |
 | 📊 **Data** | 332 | [Browse →](./data/) |
@@ -59,12 +59,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
-| 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 18 | [Browse →](./llm/) |
-| 🏷️ **Local-first** | 15 | [Browse →](./local-first/) |
+| 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
+| 🏷️ **Local-first** | 16 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
+| 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
-| 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
+| 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
@@ -72,7 +73,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
-| 🏷️ **Claude-code** | 6 | [Browse →](./claude-code/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🌐 **Open Source** | 5 | [Browse →](./opensource/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
@@ -85,7 +85,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
-| 🏷️ **Windows** | 4 | [Browse →](./windows/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
@@ -97,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Outdoor** | 3 | [Browse →](./outdoor/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Rag** | 3 | [Browse →](./rag/) |
+| 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
@@ -155,7 +155,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Speech-recognition** | 2 | [Browse →](./speech-recognition/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
 | 🏷️ **Gdpr** | 2 | [Browse →](./gdpr/) |
-| 🏷️ **X402** | 2 | [Browse →](./x402/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Ios** | 2 | [Browse →](./ios/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
@@ -178,6 +177,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Financial-automation** | 1 | [Browse →](./financial-automation/) |
 | 🏷️ **Field-journal** | 1 | [Browse →](./field-journal/) |
 | 🏷️ **Crash-recovery** | 1 | [Browse →](./crash-recovery/) |
 | 🏷️ **Measurement** | 1 | [Browse →](./measurement/) |
@@ -334,8 +334,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
 | 🏷️ **Meta-ads** | 1 | [Browse →](./meta-ads/) |
 | 🏷️ **Personalization** | 1 | [Browse →](./personalization/) |
-| 🏷️ **Icons** | 1 | [Browse →](./icons/) |
-| 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
 | 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
@@ -361,6 +359,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Gpu-rental** | 1 | [Browse →](./gpu-rental/) |
 | 🏷️ **Atlassian** | 1 | [Browse →](./atlassian/) |
 | 🏷️ **Smart-home** | 1 | [Browse →](./smart-home/) |
+| 🏷️ **X402** | 1 | [Browse →](./x402/) |
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
 | 🏷️ **Deployment** | 1 | [Browse →](./deployment/) |
 | 🏷️ **Readability** | 1 | [Browse →](./readability/) |

@@ -2,7 +2,7 @@
 
 > 
 
-**11 projects** in this category.
+**12 projects** in this category.
 
 ## Projects
 
@@ -16,9 +16,10 @@
 | 6 | [PruthviRajG25/Hacktoberfest-Week1](./pruthvirajg25-hacktoberfest-week1.md) | ⭐ — | JavaScript | 39/100 |
 | 7 | [karanray06/trailhead](./karanray06-trailhead.md) | ⭐ — | TypeScript | 36/100 |
 | 8 | [Yash990-bit/WildPulse](./yash990-bit-wildpulse.md) | ⭐ — | JavaScript | 33/100 |
-| 9 | [sohaibtausif141/sit-spot](./sohaibtausif141-sit-spot.md) | ⭐ — | — | 24/100 |
-| 10 | [llama-cpp/llama.cpp](./llama-cpp-llama.cpp.md) | ⭐ — | — | 24/100 |
-| 11 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 24/100 |
+| 9 | [mahip1111/hacktoberfest_2](./mahip1111-hacktoberfest-2.md) | ⭐ — | — | 24/100 |
+| 10 | [sohaibtausif141/sit-spot](./sohaibtausif141-sit-spot.md) | ⭐ — | — | 24/100 |
+| 11 | [llama-cpp/llama.cpp](./llama-cpp-llama.cpp.md) | ⭐ — | — | 24/100 |
+| 12 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 24/100 |
 
 ---
 
