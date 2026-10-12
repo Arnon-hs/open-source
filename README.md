@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39650** |
-| **Categories** | **435** |
+| **Projects** | **39657** |
+| **Categories** | **434** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15473 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4323 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15477 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4324 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2738 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2316 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1387 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1388 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 930 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 878 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 879 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 778 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 670 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 635 | [Browse →](./networking/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 106 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 83 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 84 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 40 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -70,6 +70,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 6 | [Browse →](./ci/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
@@ -77,7 +78,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🌐 **Open Source** | 5 | [Browse →](./opensource/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Android** | 5 | [Browse →](./android/) |
-| 🏷️ **N8n** | 5 | [Browse →](./n8n/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
 | 🏷️ **Air-quality** | 4 | [Browse →](./air-quality/) |
@@ -93,7 +93,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Git** | 3 | [Browse →](./git/) |
-| 🏷️ **Linux** | 3 | [Browse →](./linux/) |
 | 🏷️ **Outdoor** | 3 | [Browse →](./outdoor/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Rag** | 3 | [Browse →](./rag/) |
@@ -115,6 +114,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Astro** | 2 | [Browse →](./astro/) |
 | 🏷️ **Pomodoro** | 2 | [Browse →](./pomodoro/) |
 | 🏷️ **Whatsapp** | 2 | [Browse →](./whatsapp/) |
+| 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **Chinese-nlp** | 2 | [Browse →](./chinese-nlp/) |
 | 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **Open-weight-ai** | 2 | [Browse →](./open-weight-ai/) |
@@ -339,7 +339,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Obsidian** | 1 | [Browse →](./obsidian/) |
 | 🏷️ **Crosscompilation** | 1 | [Browse →](./crosscompilation/) |
 | 🏷️ **Quantum** | 1 | [Browse →](./quantum/) |
-| 🏷️ **Expo** | 1 | [Browse →](./expo/) |
 | 🏷️ **Gdpr** | 1 | [Browse →](./gdpr/) |
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
 | 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
