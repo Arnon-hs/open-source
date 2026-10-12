@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [coregx/coregex](./coregx-coregex.md) | ⭐ 263 | Go | 57/100 |
+| 1 | [coregx/coregex](./coregx-coregex.md) | ⭐ 263 | Go | 54/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dsundaravadhanan/Antigravity-for-Android
 
-[![Stars](https://img.shields.io/github/stars/dsundaravadhanan/Antigravity-for-Android?style=flat-square&color=yellow)](https://github.com/dsundaravadhanan/Antigravity-for-Android/stargazers) [![Forks](https://img.shields.io/github/forks/dsundaravadhanan/Antigravity-for-Android?style=flat-square&color=blue)](https://github.com/dsundaravadhanan/Antigravity-for-Android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dsundaravadhanan/Antigravity-for-Android?style=flat-square&color=yellow)](https://github.com/dsundaravadhanan/Antigravity-for-Android/stargazers) [![Forks](https://img.shields.io/github/forks/dsundaravadhanan/Antigravity-for-Android?style=flat-square&color=blue)](https://github.com/dsundaravadhanan/Antigravity-for-Android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Run Google Antigravity AI with Web GUI natively on Android via Termux. 100% standalone, no PC, VNC, or X11 required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ dsundaravadhanan/Antigravity-for-Android：dsundaravadhanan/Antigravity-for-Andr
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
