@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
+| 1 | [electron/fiddle](./electron-fiddle.md) | ⭐ 7.8k | TypeScript | 63/100 |
 
 ---
 
