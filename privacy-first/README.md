@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tejask011/Hacktober_TInyGarden](./tejask011-hacktober-tinygarden.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [tejask011/Hacktober_TInyGarden](./tejask011-hacktober-tinygarden.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 
