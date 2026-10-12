@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39610** |
-| **Categories** | **428** |
+| **Projects** | **39613** |
+| **Categories** | **426** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15457 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4321 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15459 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4322 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2738 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2315 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1385 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 930 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 877 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 878 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 778 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 669 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 635 | [Browse →](./networking/) |
@@ -43,12 +43,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 443 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 412 | [Browse →](./communication/) |
 | 🔐 **Security** | 411 | [Browse →](./security/) |
-| 📊 **Data** | 332 | [Browse →](./data/) |
+| 📊 **Data** | 333 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 328 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 318 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 295 | [Browse →](./observability/) |
-| 🏷️ **Libraries--sdks** | 255 | [Browse →](./libraries--sdks/) |
+| 🏷️ **Libraries--sdks** | 256 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 199 | [Browse →](./trading/) |
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
@@ -154,7 +154,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Playwright** | 2 | [Browse →](./playwright/) |
 | 🏷️ **Speech-recognition** | 2 | [Browse →](./speech-recognition/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
-| 🏷️ **Gdpr** | 2 | [Browse →](./gdpr/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Ios** | 2 | [Browse →](./ios/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
@@ -177,6 +176,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Polymarket** | 1 | [Browse →](./polymarket/) |
 | 🏷️ **Financial-automation** | 1 | [Browse →](./financial-automation/) |
 | 🏷️ **Field-journal** | 1 | [Browse →](./field-journal/) |
 | 🏷️ **Crash-recovery** | 1 | [Browse →](./crash-recovery/) |
@@ -331,9 +331,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Crosscompilation** | 1 | [Browse →](./crosscompilation/) |
 | 🏷️ **Quantum** | 1 | [Browse →](./quantum/) |
 | 🏷️ **Expo** | 1 | [Browse →](./expo/) |
-| 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
-| 🏷️ **Meta-ads** | 1 | [Browse →](./meta-ads/) |
-| 🏷️ **Personalization** | 1 | [Browse →](./personalization/) |
+| 🏷️ **Gdpr** | 1 | [Browse →](./gdpr/) |
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
 | 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 48/100 |
+| 1 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 45/100 |
 
 ---
 
