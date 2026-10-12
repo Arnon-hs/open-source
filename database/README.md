@@ -508,8 +508,8 @@
 | 498 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 499 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 500 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 38/100 |
-| 501 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
-| 502 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
+| 501 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
+| 502 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
 | 503 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 38/100 |
 | 504 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 38/100 |
 | 505 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 38/100 |

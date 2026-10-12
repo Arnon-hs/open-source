@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39733** |
-| **Categories** | **442** |
+| **Projects** | **39735** |
+| **Categories** | **443** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15520 | [Browse →](./misc/) |
+| 📦 **Misc** | 15521 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4326 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2744 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2317 | [Browse →](./orchestration/) |
@@ -174,6 +174,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Keywordspotting** | 1 | [Browse →](./keywordspotting/) |
 | 🏷️ **Devops** | 1 | [Browse →](./devops/) |
 | 🏷️ **Synthid** | 1 | [Browse →](./synthid/) |
 | 🏷️ **Scraping** | 1 | [Browse →](./scraping/) |

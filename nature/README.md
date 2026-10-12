@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Nitu-Bathyal/traillens](./nitu-bathyal-traillens.md) | ⭐ — | Python | 42/100 |
+| 1 | [Nitu-Bathyal/traillens](./nitu-bathyal-traillens.md) | ⭐ — | Python | 39/100 |
 
 ---
 
