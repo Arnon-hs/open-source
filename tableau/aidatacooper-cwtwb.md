@@ -1,6 +1,6 @@
 # aidatacooper/cwtwb
 
-[![Stars](https://img.shields.io/github/stars/aidatacooper/cwtwb?style=flat-square&color=yellow)](https://github.com/aidatacooper/cwtwb/stargazers) [![Forks](https://img.shields.io/github/forks/aidatacooper/cwtwb?style=flat-square&color=blue)](https://github.com/aidatacooper/cwtwb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aidatacooper/cwtwb?style=flat-square&color=yellow)](https://github.com/aidatacooper/cwtwb/stargazers) [![Forks](https://img.shields.io/github/forks/aidatacooper/cwtwb?style=flat-square&color=blue)](https://github.com/aidatacooper/cwtwb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Python-based engine that enables Text-to-Tableau twb dashboards generation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ aidatacooper/cwtwb：aidatacooper/cwtwb may be useful when its README and activi
 - updated 2026-10-09
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 61/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 30/100 |
 | categoryMatchCount | 500/100 |
 | stars | 36/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

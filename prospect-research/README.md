@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [forma-norden/buying-window-signal-scorer](./forma-norden-buying-window-signal-scorer.md) | ⭐ — | Python | 58/100 |
+| 1 | [forma-norden/buying-window-signal-scorer](./forma-norden-buying-window-signal-scorer.md) | ⭐ — | Python | 55/100 |
 
 ---
 
