@@ -1,6 +1,6 @@
 # bulutarkan/mac-mcp
 
-[![Stars](https://img.shields.io/github/stars/bulutarkan/mac-mcp?style=flat-square&color=yellow)](https://github.com/bulutarkan/mac-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bulutarkan/mac-mcp?style=flat-square&color=blue)](https://github.com/bulutarkan/mac-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bulutarkan/mac-mcp?style=flat-square&color=yellow)](https://github.com/bulutarkan/mac-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bulutarkan/mac-mcp?style=flat-square&color=blue)](https://github.com/bulutarkan/mac-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Talk to your AI agent and let it work on your Mac. Open source MCP control for browser, files, apps, shell, and agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ bulutarkan/mac-mcp：bulutarkan/mac-mcp may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 79/100 |
+| production | 63/100 |
+| outlook | 72/100 |
 | adoption | 36/100 |
 | categoryMatchCount | 500/100 |
 | stars | 41/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
