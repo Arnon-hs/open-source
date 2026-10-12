@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**777 projects** in this category.
+**778 projects** in this category.
 
 ## Projects
 
@@ -258,8 +258,8 @@
 | 248 | [planetarium/NineChronicles](./planetarium-ninechronicles.md) | ⭐ 402 | C# | 63/100 |
 | 249 | [blockscout/blockscout](./blockscout-blockscout.md) | ⭐ 4.5k | Elixir | 63/100 |
 | 250 | [apibara/dna](./apibara-dna.md) | ⭐ 217 | Rust | 63/100 |
-| 251 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 63/100 |
-| 252 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 63/100 |
+| 251 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 63/100 |
+| 252 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 63/100 |
 | 253 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 63/100 |
 | 254 | [thegeronimo/hyperopen](./thegeronimo-hyperopen.md) | ⭐ 45 | Clojure | 62/100 |
 | 255 | [binance/binance-skills-hub](./binance-binance-skills-hub.md) | ⭐ 956 | Python | 62/100 |
@@ -756,35 +756,36 @@
 | 746 | [block-mesh/block-mesh-monorepo](./block-mesh-block-mesh-monorepo.md) | ⭐ 163 | Rust | 42/100 |
 | 747 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 42/100 |
 | 748 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 42/100 |
-| 749 | [NovaeonStudio/novaeon-trading-ai](./novaeonstudio-novaeon-trading-ai.md) | ⭐ — | — | 41/100 |
-| 750 | [realtonypark/mini-bitcoin](./realtonypark-mini-bitcoin.md) | ⭐ — | — | 41/100 |
-| 751 | [gosuda/bitcoin-rs](./gosuda-bitcoin-rs.md) | ⭐ — | — | 41/100 |
-| 752 | [mayombe67/moscaquant](./mayombe67-moscaquant.md) | ⭐ — | — | 41/100 |
-| 753 | [hosseinpro/yubishard](./hosseinpro-yubishard.md) | ⭐ — | — | 41/100 |
-| 754 | [lucarocchi/btcfunkpay](./lucarocchi-btcfunkpay.md) | ⭐ — | — | 41/100 |
-| 755 | [ego-blockchain/ego-blockchain-](./ego-blockchain-ego-blockchain-.md) | ⭐ — | — | 41/100 |
-| 756 | [getpassmint/passmint](./getpassmint-passmint.md) | ⭐ — | — | 41/100 |
-| 757 | [03012009BTC/miners-bitcoin-lottery](./03012009btc-miners-bitcoin-lottery.md) | ⭐ — | — | 41/100 |
-| 758 | [blockwright/kopilka](./blockwright-kopilka.md) | ⭐ — | — | 40/100 |
-| 759 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 40/100 |
-| 760 | [nicolaususnicola-lgtm/myzubster](./nicolaususnicola-lgtm-myzubster.md) | ⭐ — | JavaScript | 39/100 |
-| 761 | [yaojin0609/erc-8004-liveness](./yaojin0609-erc-8004-liveness.md) | ⭐ — | — | 38/100 |
-| 762 | [ignotusnemo/parano1d](./ignotusnemo-parano1d.md) | ⭐ — | — | 38/100 |
-| 763 | [trailofbits/publications](./trailofbits-publications.md) | ⭐ — | — | 38/100 |
-| 764 | [aleks-ent/pump-dump-crypto-screener](./aleks-ent-pump-dump-crypto-screener.md) | ⭐ — | — | 38/100 |
-| 765 | [organicbitcoin/obtcd](./organicbitcoin-obtcd.md) | ⭐ — | — | 38/100 |
-| 766 | [kotagit75/btfy](./kotagit75-btfy.md) | ⭐ — | — | 38/100 |
-| 767 | [EthereumPhone/PQ1](./ethereumphone-pq1.md) | ⭐ — | — | 38/100 |
-| 768 | [juan23z/openclaw-audit](./juan23z-openclaw-audit.md) | ⭐ — | — | 38/100 |
-| 769 | [chipcoin-protocol/chipcoin](./chipcoin-protocol-chipcoin.md) | ⭐ — | — | 38/100 |
-| 770 | [TVHeroes/sharecoin](./tvheroes-sharecoin.md) | ⭐ — | — | 38/100 |
-| 771 | [biochain-code/biochain](./biochain-code-biochain.md) | ⭐ — | — | 38/100 |
-| 772 | [babakkarimib/sharden-miner](./babakkarimib-sharden-miner.md) | ⭐ — | — | 38/100 |
-| 773 | [kachence/polymm](./kachence-polymm.md) | ⭐ — | — | 38/100 |
-| 774 | [raphaelwkago69-create/GLYPH](./raphaelwkago69-create-glyph.md) | ⭐ — | — | 38/100 |
-| 775 | [VeilusDigital/PhantomChatCrypto](./veilusdigital-phantomchatcrypto.md) | ⭐ — | — | 38/100 |
-| 776 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 38/100 |
-| 777 | [minhoyoo-iotrust/waiaas](./minhoyoo-iotrust-waiaas.md) | ⭐ — | — | 34/100 |
+| 749 | [Artur7897/bitcoin-composition-engine](./artur7897-bitcoin-composition-engine.md) | ⭐ — | — | 41/100 |
+| 750 | [NovaeonStudio/novaeon-trading-ai](./novaeonstudio-novaeon-trading-ai.md) | ⭐ — | — | 41/100 |
+| 751 | [realtonypark/mini-bitcoin](./realtonypark-mini-bitcoin.md) | ⭐ — | — | 41/100 |
+| 752 | [gosuda/bitcoin-rs](./gosuda-bitcoin-rs.md) | ⭐ — | — | 41/100 |
+| 753 | [mayombe67/moscaquant](./mayombe67-moscaquant.md) | ⭐ — | — | 41/100 |
+| 754 | [hosseinpro/yubishard](./hosseinpro-yubishard.md) | ⭐ — | — | 41/100 |
+| 755 | [lucarocchi/btcfunkpay](./lucarocchi-btcfunkpay.md) | ⭐ — | — | 41/100 |
+| 756 | [ego-blockchain/ego-blockchain-](./ego-blockchain-ego-blockchain-.md) | ⭐ — | — | 41/100 |
+| 757 | [getpassmint/passmint](./getpassmint-passmint.md) | ⭐ — | — | 41/100 |
+| 758 | [03012009BTC/miners-bitcoin-lottery](./03012009btc-miners-bitcoin-lottery.md) | ⭐ — | — | 41/100 |
+| 759 | [blockwright/kopilka](./blockwright-kopilka.md) | ⭐ — | — | 40/100 |
+| 760 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 40/100 |
+| 761 | [nicolaususnicola-lgtm/myzubster](./nicolaususnicola-lgtm-myzubster.md) | ⭐ — | JavaScript | 39/100 |
+| 762 | [yaojin0609/erc-8004-liveness](./yaojin0609-erc-8004-liveness.md) | ⭐ — | — | 38/100 |
+| 763 | [ignotusnemo/parano1d](./ignotusnemo-parano1d.md) | ⭐ — | — | 38/100 |
+| 764 | [trailofbits/publications](./trailofbits-publications.md) | ⭐ — | — | 38/100 |
+| 765 | [aleks-ent/pump-dump-crypto-screener](./aleks-ent-pump-dump-crypto-screener.md) | ⭐ — | — | 38/100 |
+| 766 | [organicbitcoin/obtcd](./organicbitcoin-obtcd.md) | ⭐ — | — | 38/100 |
+| 767 | [kotagit75/btfy](./kotagit75-btfy.md) | ⭐ — | — | 38/100 |
+| 768 | [EthereumPhone/PQ1](./ethereumphone-pq1.md) | ⭐ — | — | 38/100 |
+| 769 | [juan23z/openclaw-audit](./juan23z-openclaw-audit.md) | ⭐ — | — | 38/100 |
+| 770 | [chipcoin-protocol/chipcoin](./chipcoin-protocol-chipcoin.md) | ⭐ — | — | 38/100 |
+| 771 | [TVHeroes/sharecoin](./tvheroes-sharecoin.md) | ⭐ — | — | 38/100 |
+| 772 | [biochain-code/biochain](./biochain-code-biochain.md) | ⭐ — | — | 38/100 |
+| 773 | [babakkarimib/sharden-miner](./babakkarimib-sharden-miner.md) | ⭐ — | — | 38/100 |
+| 774 | [kachence/polymm](./kachence-polymm.md) | ⭐ — | — | 38/100 |
+| 775 | [raphaelwkago69-create/GLYPH](./raphaelwkago69-create-glyph.md) | ⭐ — | — | 38/100 |
+| 776 | [VeilusDigital/PhantomChatCrypto](./veilusdigital-phantomchatcrypto.md) | ⭐ — | — | 38/100 |
+| 777 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 38/100 |
+| 778 | [minhoyoo-iotrust/waiaas](./minhoyoo-iotrust-waiaas.md) | ⭐ — | — | 34/100 |
 
 ---
 
