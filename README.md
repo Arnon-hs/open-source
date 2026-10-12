@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39555** |
+| **Projects** | **39560** |
 | **Categories** | **426** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15436 | [Browse →](./misc/) |
+| 📦 **Misc** | 15437 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4319 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2733 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2314 | [Browse →](./orchestration/) |
@@ -52,15 +52,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 199 | [Browse →](./trading/) |
 | ✨ **Design** | 172 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 142 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 103 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 104 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 81 | [Browse →](./ai/) |
-| 🏷️ **Offline** | 35 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 36 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
-| 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
-| 🏷️ **Llm** | 17 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 18 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 15 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
@@ -75,19 +75,19 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 6 | [Browse →](./react-native/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
+| 🌐 **Open Source** | 5 | [Browse →](./opensource/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Android** | 5 | [Browse →](./android/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
-| 🏷️ **Sanity** | 5 | [Browse →](./sanity/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
-| 🌐 **Open Source** | 4 | [Browse →](./opensource/) |
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
+| 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Open-source-ai** | 3 | [Browse →](./open-source-ai/) |
