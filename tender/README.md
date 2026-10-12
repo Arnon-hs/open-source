@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [philippprimisser-max/ted-tender-alerts](./philippprimisser-max-ted-tender-alerts.md) | ⭐ — | Python | 55/100 |
+| 1 | [philippprimisser-max/ted-tender-alerts](./philippprimisser-max-ted-tender-alerts.md) | ⭐ — | Python | 52/100 |
 
 ---
 

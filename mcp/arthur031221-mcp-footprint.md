@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · tool catalog · size measurement · cross‑server comparison · CLI
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Arthur031221/mcp-footprint: Arthur031221/mcp-footprint helps connect AI assistan
 
 ### Русский
 
-Arthur031221/mcp-footprint: open-source проект в категориях MCP, tool catalog, size measurement, cross‑server comparison, CLI. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Arthur031221/mcp-footprint: open-source проект в категориях MCP, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ Arthur031221/mcp-footprint：Arthur031221/mcp-footprint helps connect AI assista
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 44/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 500/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 88/100 |
+| outlook | 62/100 |
+| quality | 44/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
