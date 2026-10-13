@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39966** |
-| **Categories** | **465** |
+| **Projects** | **39969** |
+| **Categories** | **463** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15652 | [Browse →](./misc/) |
+| 📦 **Misc** | 15654 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4340 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2748 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2319 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2320 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1394 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 109 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 84 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 85 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 38 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -95,6 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Freelance** | 3 | [Browse →](./freelance/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Ai-testing** | 3 | [Browse →](./ai-testing/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
@@ -113,7 +114,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Digital-products** | 2 | [Browse →](./digital-products/) |
 | 🏷️ **E-commerce** | 2 | [Browse →](./e-commerce/) |
 | 🏷️ **Upi** | 2 | [Browse →](./upi/) |
-| 🏷️ **Freelance** | 2 | [Browse →](./freelance/) |
 | 🏷️ **Leadgeneration** | 2 | [Browse →](./leadgeneration/) |
 | 🏷️ **Raft** | 2 | [Browse →](./raft/) |
 | 🏷️ **Multi-agent** | 2 | [Browse →](./multi-agent/) |
@@ -363,8 +363,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Casaos** | 1 | [Browse →](./casaos/) |
 | 🏷️ **Harmonyos** | 1 | [Browse →](./harmonyos/) |
 | 🏷️ **Weather** | 1 | [Browse →](./weather/) |
-| 🏷️ **Remote-control** | 1 | [Browse →](./remote-control/) |
-| 🏷️ **Speechanalysis** | 1 | [Browse →](./speechanalysis/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |

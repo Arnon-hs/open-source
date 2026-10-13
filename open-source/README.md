@@ -17,8 +17,8 @@
 | 7 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 39/100 |
 | 8 | [Piwe/jacaranda-scout](./piwe-jacaranda-scout.md) | ⭐ — | Java | 39/100 |
 | 9 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 39/100 |
-| 10 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 39/100 |
-| 11 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
+| 10 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
+| 11 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 36/100 |
 | 12 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 36/100 |
 | 13 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 36/100 |
 | 14 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 33/100 |
