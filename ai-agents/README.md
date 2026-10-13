@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [CIRVIX/agent-control](./cirvix-agent-control.md) | ⭐ 1 | JavaScript | 68/100 |
 | 2 | [Bees-bot/bees-desktop](./bees-bot-bees-desktop.md) | ⭐ 13 | JavaScript | 65/100 |
-| 3 | [juandelossantos/another-agent-skills](./juandelossantos-another-agent-skills.md) | ⭐ 1 | Shell | 64/100 |
-| 4 | [AgenticFinanceGraph/agentic-finance-graph-mcp](./agenticfinancegraph-agentic-finance-graph-mcp.md) | ⭐ — | JavaScript | 63/100 |
+| 3 | [AgenticFinanceGraph/agentic-finance-graph-mcp](./agenticfinancegraph-agentic-finance-graph-mcp.md) | ⭐ — | JavaScript | 63/100 |
+| 4 | [juandelossantos/another-agent-skills](./juandelossantos-another-agent-skills.md) | ⭐ 1 | Shell | 61/100 |
 | 5 | [MarquezProject/marquez](./marquezproject-marquez.md) | ⭐ 2.3k | Java | 60/100 |
 | 6 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
 | 7 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 36/100 |
