@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [casareanderson/warden](./casareanderson-warden.md) | ⭐ — | Python | 55/100 |
+| 1 | [casareanderson/warden](./casareanderson-warden.md) | ⭐ — | Python | 52/100 |
 
 ---
 

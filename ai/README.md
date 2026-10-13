@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [TechNomadCode/AI-Product-Development-Toolkit](./technomadcode-ai-product-development-toolkit.md) | ⭐ 1k | — | 71/100 |
-| 2 | [openai/CLIP](./openai-clip.md) | ⭐ 34.4k | Jupyter Notebook | 69/100 |
-| 3 | [kaggle/kaggle-cli](./kaggle-kaggle-cli.md) | ⭐ 7.6k | Python | 68/100 |
+| 2 | [kaggle/kaggle-cli](./kaggle-kaggle-cli.md) | ⭐ 7.6k | Python | 68/100 |
+| 3 | [openai/CLIP](./openai-clip.md) | ⭐ 34.4k | Jupyter Notebook | 66/100 |
 | 4 | [GavinGeizer/swarmforge-oss](./gavingeizer-swarmforge-oss.md) | ⭐ — | TypeScript | 63/100 |
 | 5 | [TangGee/aiopsterm](./tanggee-aiopsterm.md) | ⭐ 5 | TypeScript | 62/100 |
 | 6 | [invarislabs/invaris-agentsec](./invarislabs-invaris-agentsec.md) | ⭐ 2 | Python | 62/100 |

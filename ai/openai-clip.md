@@ -1,6 +1,6 @@
 # openai/CLIP
 
-[![Stars](https://img.shields.io/github/stars/openai/CLIP?style=flat-square&color=yellow)](https://github.com/openai/CLIP/stargazers) [![Forks](https://img.shields.io/github/forks/openai/CLIP?style=flat-square&color=blue)](https://github.com/openai/CLIP/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/CLIP?style=flat-square&color=yellow)](https://github.com/openai/CLIP/stargazers) [![Forks](https://img.shields.io/github/forks/openai/CLIP?style=flat-square&color=blue)](https://github.com/openai/CLIP/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.4k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ openai/CLIP：openai/CLIP may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 68/100 |
+| outlook | 73/100 |
 | adoption | 95/100 |
 | categoryMatchCount | 500/100 |
 | stars | 97/100 |
 | forks | 90/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 

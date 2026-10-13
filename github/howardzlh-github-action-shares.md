@@ -1,6 +1,6 @@
 # HowardZlh/github-action-shares
 
-[![Stars](https://img.shields.io/github/stars/HowardZlh/github-action-shares?style=flat-square&color=yellow)](https://github.com/HowardZlh/github-action-shares/stargazers) [![Forks](https://img.shields.io/github/forks/HowardZlh/github-action-shares?style=flat-square&color=blue)](https://github.com/HowardZlh/github-action-shares/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HowardZlh/github-action-shares?style=flat-square&color=yellow)](https://github.com/HowardZlh/github-action-shares/stargazers) [![Forks](https://img.shields.io/github/forks/HowardZlh/github-action-shares?style=flat-square&color=blue)](https://github.com/HowardZlh/github-action-shares/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Animated contribution heatmap, snake and 3D skyline SVGs for any GitHub repo, org or user, plus auto-updated stars and activity in your README. Zero-dependency GitHub Action, MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ HowardZlh/github-action-shares：HowardZlh/github-action-shares may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
