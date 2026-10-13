@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39894** |
-| **Categories** | **457** |
+| **Projects** | **39903** |
+| **Categories** | **459** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15615 | [Browse →](./misc/) |
+| 📦 **Misc** | 15619 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4335 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2748 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 469 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 444 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 416 | [Browse →](./communication/) |
-| 🔐 **Security** | 414 | [Browse →](./security/) |
+| 🔐 **Security** | 415 | [Browse →](./security/) |
 | 📊 **Data** | 335 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 329 | [Browse →](./games--graphics/) |
@@ -71,14 +71,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Go** | 6 | [Browse →](./go/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
-| 🏷️ **Go** | 5 | [Browse →](./go/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🌐 **Open Source** | 5 | [Browse →](./opensource/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
+| 🏷️ **Ai-safety** | 4 | [Browse →](./ai-safety/) |
 | 🏷️ **Android** | 4 | [Browse →](./android/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
@@ -104,10 +105,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
-| 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Hextelegram** | 2 | [Browse →](./hextelegram/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **React** | 2 | [Browse →](./react/) |
@@ -154,7 +155,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
 | 🏷️ **Dns** | 2 | [Browse →](./dns/) |
 | 🏷️ **Environment-variables** | 2 | [Browse →](./environment-variables/) |
-| 🏷️ **Quiz** | 2 | [Browse →](./quiz/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Ios** | 2 | [Browse →](./ios/) |
@@ -180,6 +180,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Link-checking** | 1 | [Browse →](./link-checking/) |
+| 🏷️ **Ui-testing** | 1 | [Browse →](./ui-testing/) |
 | 🏷️ **Malware** | 1 | [Browse →](./malware/) |
 | 🏷️ **Enterprise** | 1 | [Browse →](./enterprise/) |
 | 🏷️ **Conventional-commits** | 1 | [Browse →](./conventional-commits/) |
@@ -357,6 +359,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assistant** | 1 | [Browse →](./ai-assistant/) |
 | 🏷️ **Retry** | 1 | [Browse →](./retry/) |
 | 🏷️ **Ai-verification** | 1 | [Browse →](./ai-verification/) |
+| 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |
 | 🏷️ **Pay-per-call** | 1 | [Browse →](./pay-per-call/) |
@@ -364,7 +367,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Gdpr** | 1 | [Browse →](./gdpr/) |
 | 🏷️ **Notion** | 1 | [Browse →](./notion/) |
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
-| 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
 | 🏷️ **Cybersecurity** | 1 | [Browse →](./cybersecurity/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
