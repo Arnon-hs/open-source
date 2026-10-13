@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39960** |
-| **Categories** | **462** |
+| **Projects** | **39964** |
+| **Categories** | **465** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -110,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Digital-products** | 2 | [Browse →](./digital-products/) |
 | 🏷️ **E-commerce** | 2 | [Browse →](./e-commerce/) |
 | 🏷️ **Upi** | 2 | [Browse →](./upi/) |
 | 🏷️ **Freelance** | 2 | [Browse →](./freelance/) |
@@ -186,6 +187,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Desktop-ide** | 1 | [Browse →](./desktop-ide/) |
+| 🏷️ **Agent-hooks** | 1 | [Browse →](./agent-hooks/) |
 | 🏷️ **Gemini-4-argon** | 1 | [Browse →](./gemini-4-argon/) |
 | 🏷️ **Restaurant** | 1 | [Browse →](./restaurant/) |
 | 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |
