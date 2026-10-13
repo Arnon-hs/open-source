@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Bientechsavvy/plot-buddy](./bientechsavvy-plot-buddy.md) | ⭐ — | Python | 42/100 |
+| 1 | [Bientechsavvy/plot-buddy](./bientechsavvy-plot-buddy.md) | ⭐ — | Python | 39/100 |
 
 ---
 
