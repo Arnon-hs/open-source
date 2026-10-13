@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hakkiyuvanc/fiscus-ai-financial-workflow-fixtures](./hakkiyuvanc-fiscus-ai-financial-workflow-fixtures.md) | ⭐ — | HTML | 47/100 |
+| 1 | [hakkiyuvanc/fiscus-ai-financial-workflow-fixtures](./hakkiyuvanc-fiscus-ai-financial-workflow-fixtures.md) | ⭐ — | HTML | 44/100 |
 
 ---
 

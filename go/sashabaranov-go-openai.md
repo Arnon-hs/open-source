@@ -1,6 +1,6 @@
 # sashabaranov/go-openai
 
-[![Stars](https://img.shields.io/github/stars/sashabaranov/go-openai?style=flat-square&color=yellow)](https://github.com/sashabaranov/go-openai/stargazers) [![Forks](https://img.shields.io/github/forks/sashabaranov/go-openai?style=flat-square&color=blue)](https://github.com/sashabaranov/go-openai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sashabaranov/go-openai?style=flat-square&color=yellow)](https://github.com/sashabaranov/go-openai/stargazers) [![Forks](https://img.shields.io/github/forks/sashabaranov/go-openai?style=flat-square&color=blue)](https://github.com/sashabaranov/go-openai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI, GPT 6.1, GPT-Image-2, Whisper API clients for Go. Zero-dependency.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ go · cli · llm · groq · bubbletea · ascii-art
 
 ### English
 
-sashabaranov/go-openai: sashabaranov/go-openai may be useful when its README and activity match a concrete workflow.. Use it for go, cli, llm, groq, bubbletea, ascii-art. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sashabaranov/go-openai: sashabaranov/go-openai may be useful when its README and activity match a concrete workflow.. Use it for go, cli, llm, groq, bubbletea, ascii-art. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-sashabaranov/go-openai: open-source проект в категориях go, cli, llm, groq, bubbletea, ascii-art. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+sashabaranov/go-openai: open-source проект в категориях go, cli, llm, groq, bubbletea, ascii-art. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-sashabaranov/go-openai：sashabaranov/go-openai may be useful when its README and activity match a concrete workflow.。适合用于go、cli、llm、groq、bubbletea、ascii-art。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sashabaranov/go-openai：sashabaranov/go-openai may be useful when its README and activity match a concrete workflow.。适合用于go、cli、llm、groq、bubbletea、ascii-art。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sashabaranov/go-openai：sashabaranov/go-openai may be useful when its README an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ sashabaranov/go-openai：sashabaranov/go-openai may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 88/100 |
+| production | 74/100 |
+| outlook | 81/100 |
 | adoption | 84/100 |
 | categoryMatchCount | 600/100 |
 | stars | 86/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

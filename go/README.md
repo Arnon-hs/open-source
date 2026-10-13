@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sashabaranov/go-openai](./sashabaranov-go-openai.md) | ⭐ 10.8k | Go | 81/100 |
+| 1 | [sashabaranov/go-openai](./sashabaranov-go-openai.md) | ⭐ 10.8k | Go | 78/100 |
 | 2 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 135 | Go | 64/100 |
 | 3 | [rewtools/rew](./rewtools-rew.md) | ⭐ 1 | Go | 63/100 |
 | 4 | [gonnafaraway/godrain](./gonnafaraway-godrain.md) | ⭐ — | Go | 54/100 |
