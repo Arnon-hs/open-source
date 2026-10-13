@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39874** |
-| **Categories** | **455** |
+| **Projects** | **39886** |
+| **Categories** | **457** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15604 | [Browse →](./misc/) |
+| 📦 **Misc** | 15609 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4334 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2748 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
@@ -37,11 +37,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 623 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 599 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 588 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 523 | [Browse →](./database/) |
+| 🏷️ **Database** | 524 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 504 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 469 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 444 | [Browse →](./templates/) |
-| 🏷️ **Communication** | 415 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 416 | [Browse →](./communication/) |
 | 🔐 **Security** | 413 | [Browse →](./security/) |
 | 📊 **Data** | 335 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
@@ -79,6 +79,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
+| 🏷️ **Android** | 4 | [Browse →](./android/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Node** | 4 | [Browse →](./node/) |
@@ -100,7 +101,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
-| 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
@@ -108,6 +108,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Hextelegram** | 2 | [Browse →](./hextelegram/) |
+| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **React** | 2 | [Browse →](./react/) |
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
@@ -178,6 +180,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Malware** | 1 | [Browse →](./malware/) |
 | 🏷️ **Enterprise** | 1 | [Browse →](./enterprise/) |
 | 🏷️ **Conventional-commits** | 1 | [Browse →](./conventional-commits/) |
 | 🏷️ **Upgrade** | 1 | [Browse →](./upgrade/) |
@@ -324,7 +327,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Dependency-security** | 1 | [Browse →](./dependency-security/) |
 | 🏷️ **Desktop-launcher** | 1 | [Browse →](./desktop-launcher/) |
 | 🏷️ **Reactive-ui** | 1 | [Browse →](./reactive-ui/) |
-| 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |
 | 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
 | 🏷️ **Remote-desktop** | 1 | [Browse →](./remote-desktop/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SoumyaEXE/trailtruth](./soumyaexe-trailtruth.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [SoumyaEXE/trailtruth](./soumyaexe-trailtruth.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 
