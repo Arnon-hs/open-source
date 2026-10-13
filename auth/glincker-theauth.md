@@ -1,6 +1,6 @@
 # glincker/theauth
 
-[![Stars](https://img.shields.io/github/stars/glincker/theauth?style=flat-square&color=yellow)](https://github.com/glincker/theauth/stargazers) [![Forks](https://img.shields.io/github/forks/glincker/theauth?style=flat-square&color=blue)](https://github.com/glincker/theauth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glincker/theauth?style=flat-square&color=yellow)](https://github.com/glincker/theauth/stargazers) [![Forks](https://img.shields.io/github/forks/glincker/theauth?style=flat-square&color=blue)](https://github.com/glincker/theauth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Auth for AI agents and humans. First-class agent identity, MCP  OAuth 2.1, delegation, audit. TypeScript, edge-native, MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ glincker/theauth：glincker/theauth may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 62/100 |
+| outlook | 69/100 |
 | adoption | 23/100 |
 | categoryMatchCount | 400/100 |
 | stars | 26/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

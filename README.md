@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39941** |
+| **Projects** | **39946** |
 | **Categories** | **461** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15638 | [Browse →](./misc/) |
+| 📦 **Misc** | 15642 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4338 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2748 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1393 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1394 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 881 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
@@ -184,6 +184,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |
 | 🏷️ **Razer** | 1 | [Browse →](./razer/) |
 | 🏷️ **Medication** | 1 | [Browse →](./medication/) |
 | 🏷️ **Link-checking** | 1 | [Browse →](./link-checking/) |
@@ -360,7 +361,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Speechanalysis** | 1 | [Browse →](./speechanalysis/) |
 | 🏷️ **Ai-assisted-coding** | 1 | [Browse →](./ai-assisted-coding/) |
 | 🏷️ **Openweight-model** | 1 | [Browse →](./openweight-model/) |
-| 🏷️ **Ai-assistant** | 1 | [Browse →](./ai-assistant/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |

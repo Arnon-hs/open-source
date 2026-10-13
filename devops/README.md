@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [engjodev/ghostops](./engjodev-ghostops.md) | ⭐ — | Python | 55/100 |
+| 1 | [engjodev/ghostops](./engjodev-ghostops.md) | ⭐ — | Python | 52/100 |
 
 ---
 
