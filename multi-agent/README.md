@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yourrepo/mcp](./yourrepo-mcp.md) | ⭐ — | — | 32/100 |
+| 1 | [capybarist/reagentlab](./capybarist-reagentlab.md) | ⭐ — | TypeScript | 44/100 |
+| 2 | [yourrepo/mcp](./yourrepo-mcp.md) | ⭐ — | — | 32/100 |
 
 ---
 
