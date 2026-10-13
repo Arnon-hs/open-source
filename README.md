@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39816** |
-| **Categories** | **451** |
+| **Projects** | **39823** |
+| **Categories** | **453** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15569 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4328 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15572 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4329 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2746 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
@@ -93,6 +93,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Ai-ops** | 3 | [Browse →](./ai-ops/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
@@ -108,7 +109,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
-| 🏷️ **Cloudflare** | 2 | [Browse →](./cloudflare/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
 | 🏷️ **Figma** | 2 | [Browse →](./figma/) |
 | 🏷️ **Compiler** | 2 | [Browse →](./compiler/) |
@@ -177,6 +177,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Kotlin** | 1 | [Browse →](./kotlin/) |
+| 🏷️ **Joomla** | 1 | [Browse →](./joomla/) |
 | 🏷️ **Webmcp** | 1 | [Browse →](./webmcp/) |
 | 🏷️ **Record-matching** | 1 | [Browse →](./record-matching/) |
 | 🏷️ **Freelance** | 1 | [Browse →](./freelance/) |

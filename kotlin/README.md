@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cas8398/debugprint](./cas8398-debugprint.md) | ⭐ 1 | Kotlin | 37/100 |
+| 1 | [Kotlin/kotlinx.serialization](./kotlin-kotlinx.serialization.md) | ⭐ 6k | Kotlin | 60/100 |
 
 ---
 

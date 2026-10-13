@@ -1,6 +1,6 @@
 # siliconbag/under-the-rug
 
-[![Stars](https://img.shields.io/github/stars/siliconbag/under-the-rug?style=flat-square&color=yellow)](https://github.com/siliconbag/under-the-rug/stargazers) [![Forks](https://img.shields.io/github/forks/siliconbag/under-the-rug?style=flat-square&color=blue)](https://github.com/siliconbag/under-the-rug/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siliconbag/under-the-rug?style=flat-square&color=yellow)](https://github.com/siliconbag/under-the-rug/stargazers) [![Forks](https://img.shields.io/github/forks/siliconbag/under-the-rug?style=flat-square&color=blue)](https://github.com/siliconbag/under-the-rug/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Sweep your Mac desktop under the rug. A cloth-simulated rug lies over your desktop icons, lift a corner to peek at the mess.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ siliconbag/under-the-rug：siliconbag/under-the-rug may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 600/100 |
 | stars | 19/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

@@ -11,7 +11,7 @@
 | 1 | [al2m4n/TheYgent](./al2m4n-theygent.md) | ⭐ 4 | Python | 72/100 |
 | 2 | [remarkjs/react-markdown](./remarkjs-react-markdown.md) | ⭐ 15.9k | JavaScript | 61/100 |
 | 3 | [remarkjs/remark-gfm](./remarkjs-remark-gfm.md) | ⭐ 1.2k | JavaScript | 57/100 |
-| 4 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 49/100 |
+| 4 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
 | 5 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 43/100 |
 | 6 | [xDanielQ/offline-adventures](./xdanielq-offline-adventures.md) | ⭐ — | Python | 39/100 |
 | 7 | [Nainish3115/WildStep-AI](./nainish3115-wildstep-ai.md) | ⭐ — | Python | 39/100 |
