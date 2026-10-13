@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 37/100 |
+| 1 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
 
 ---
 
