@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MSKazemi/novafabric](./mskazemi-novafabric.md) | ⭐ 6 | Python | 76/100 |
+| 1 | [MSKazemi/novafabric](./mskazemi-novafabric.md) | ⭐ 6 | Python | 73/100 |
 
 ---
 

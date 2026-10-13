@@ -1,6 +1,6 @@
 # MSKazemi/novafabric
 
-[![Stars](https://img.shields.io/github/stars/MSKazemi/novafabric?style=flat-square&color=yellow)](https://github.com/MSKazemi/novafabric/stargazers) [![Forks](https://img.shields.io/github/forks/MSKazemi/novafabric?style=flat-square&color=blue)](https://github.com/MSKazemi/novafabric/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MSKazemi/novafabric?style=flat-square&color=yellow)](https://github.com/MSKazemi/novafabric/stargazers) [![Forks](https://img.shields.io/github/forks/MSKazemi/novafabric?style=flat-square&color=blue)](https://github.com/MSKazemi/novafabric/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, lineage, provenance, and audit.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ MSKazemi/novafabric：MSKazemi/novafabric may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 94/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 66/100 |
+| outlook | 69/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 500/100 |
 | stars | 18/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
