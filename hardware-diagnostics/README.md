@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [lokilancer/Laptop-Lab](./lokilancer-laptop-lab.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [lokilancer/Laptop-Lab](./lokilancer-laptop-lab.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
