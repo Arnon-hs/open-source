@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MeshLive/meshlive-android](./meshlive-meshlive-android.md) | ⭐ 6 | Kotlin | 47/100 |
+| 1 | [MeshLive/meshlive-android](./meshlive-meshlive-android.md) | ⭐ 6 | Kotlin | 44/100 |
 | 2 | [MeshLive/meshlive-ios](./meshlive-meshlive-ios.md) | ⭐ 2 | Swift | 37/100 |
 
 ---

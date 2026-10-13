@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39850** |
+| **Projects** | **39858** |
 | **Categories** | **453** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15589 | [Browse →](./misc/) |
+| 📦 **Misc** | 15593 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4333 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2746 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2748 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1392 | [Browse →](./automation/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 504 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 469 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 444 | [Browse →](./templates/) |
-| 🏷️ **Communication** | 414 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 415 | [Browse →](./communication/) |
 | 🔐 **Security** | 413 | [Browse →](./security/) |
 | 📊 **Data** | 335 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
@@ -92,6 +92,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Ai-testing** | 3 | [Browse →](./ai-testing/) |
+| 🏷️ **Linux** | 3 | [Browse →](./linux/) |
 | 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Ai-ops** | 3 | [Browse →](./ai-ops/) |
@@ -103,7 +105,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
-| 🏷️ **Php** | 3 | [Browse →](./php/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
@@ -120,9 +121,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Astro** | 2 | [Browse →](./astro/) |
 | 🏷️ **Pomodoro** | 2 | [Browse →](./pomodoro/) |
 | 🏷️ **Whatsapp** | 2 | [Browse →](./whatsapp/) |
-| 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **Chinese-nlp** | 2 | [Browse →](./chinese-nlp/) |
-| 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **Open-weight-ai** | 2 | [Browse →](./open-weight-ai/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Outdoor** | 2 | [Browse →](./outdoor/) |
@@ -161,6 +160,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webgpu** | 2 | [Browse →](./webgpu/) |
 | 🏷️ **Bug-bounty** | 2 | [Browse →](./bug-bounty/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
+| 🏷️ **Php** | 2 | [Browse →](./php/) |
 | 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
@@ -178,6 +178,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Spectral** | 1 | [Browse →](./spectral/) |
 | 🏷️ **Json-ld** | 1 | [Browse →](./json-ld/) |
 | 🏷️ **Kotlin** | 1 | [Browse →](./kotlin/) |
 | 🏷️ **Joomla** | 1 | [Browse →](./joomla/) |
@@ -353,7 +354,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **First-contribution** | 1 | [Browse →](./first-contribution/) |
 | 🏷️ **Vs-code** | 1 | [Browse →](./vs-code/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
-| 🏷️ **Sandbox** | 1 | [Browse →](./sandbox/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |
 | 🏷️ **Pay-per-call** | 1 | [Browse →](./pay-per-call/) |
 | 🏷️ **Mock-interviewer** | 1 | [Browse →](./mock-interviewer/) |

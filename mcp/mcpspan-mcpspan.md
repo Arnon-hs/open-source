@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI agents · tool invocation · argument validation · response size · instrumentation
+MCP · Data · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mcpspan/mcpspan: mcpspan/mcpspan helps connect AI assistants to real tools and d
 
 ### Русский
 
-mcpspan/mcpspan: open-source проект в категориях MCP, AI agents, tool invocation, argument validation, response size, instrumentation. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mcpspan/mcpspan: open-source проект в категориях MCP, Data, Observability. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ mcpspan/mcpspan：mcpspan/mcpspan helps connect AI assistants to real tools and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 9/100 |
-| categoryMatchCount | 600/100 |
-| stars | 13/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 13/100 |
 | topics | 88/100 |
+| outlook | 66/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 9/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

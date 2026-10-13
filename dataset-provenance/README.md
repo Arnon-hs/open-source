@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [m0nk111-qwen-agent/flagged-datasets](./m0nk111-qwen-agent-flagged-datasets.md) | ⭐ — | — | 43/100 |
+| 1 | [m0nk111-qwen-agent/flagged-datasets](./m0nk111-qwen-agent-flagged-datasets.md) | ⭐ — | — | 40/100 |
 
 ---
 
