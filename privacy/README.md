@@ -12,9 +12,9 @@
 | 2 | [tensorflow/tfjs-models](./tensorflow-tfjs-models.md) | ⭐ 14.8k | TypeScript | 59/100 |
 | 3 | [MikeKovarik/exifr](./mikekovarik-exifr.md) | ⭐ 1.2k | JavaScript | 55/100 |
 | 4 | [jha-adrs/dauntexlabs](./jha-adrs-dauntexlabs.md) | ⭐ — | TypeScript | 54/100 |
-| 5 | [Anandb71/grass-bingo](./anandb71-grass-bingo.md) | ⭐ — | TypeScript | 53/100 |
-| 6 | [kazuhikoarase/qrcode-generator](./kazuhikoarase-qrcode-generator.md) | ⭐ 2.4k | HTML | 52/100 |
-| 7 | [raviseta/edgefit](./raviseta-edgefit.md) | ⭐ — | TypeScript | 51/100 |
+| 5 | [kazuhikoarase/qrcode-generator](./kazuhikoarase-qrcode-generator.md) | ⭐ 2.4k | HTML | 52/100 |
+| 6 | [raviseta/edgefit](./raviseta-edgefit.md) | ⭐ — | TypeScript | 51/100 |
+| 7 | [Anandb71/grass-bingo](./anandb71-grass-bingo.md) | ⭐ — | TypeScript | 50/100 |
 | 8 | [ThunderKhan/meowfolio](./thunderkhan-meowfolio.md) | ⭐ 6 | TypeScript | 47/100 |
 | 9 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 47/100 |
 | 10 | [econovibe/MyHardwareInfo](./econovibe-myhardwareinfo.md) | ⭐ — | Rust | 45/100 |
