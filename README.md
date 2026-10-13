@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39946** |
-| **Categories** | **461** |
+| **Projects** | **39954** |
+| **Categories** | **462** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15642 | [Browse →](./misc/) |
+| 📦 **Misc** | 15648 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4338 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2748 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
@@ -110,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Upi** | 2 | [Browse →](./upi/) |
 | 🏷️ **Freelance** | 2 | [Browse →](./freelance/) |
 | 🏷️ **Leadgeneration** | 2 | [Browse →](./leadgeneration/) |
 | 🏷️ **Raft** | 2 | [Browse →](./raft/) |
