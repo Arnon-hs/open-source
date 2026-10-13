@@ -15,7 +15,7 @@
 | 5 | [Anandb71/grass-bingo](./anandb71-grass-bingo.md) | ⭐ — | TypeScript | 53/100 |
 | 6 | [kazuhikoarase/qrcode-generator](./kazuhikoarase-qrcode-generator.md) | ⭐ 2.4k | HTML | 52/100 |
 | 7 | [raviseta/edgefit](./raviseta-edgefit.md) | ⭐ — | TypeScript | 51/100 |
-| 8 | [ThunderKhan/meowfolio](./thunderkhan-meowfolio.md) | ⭐ 6 | TypeScript | 50/100 |
+| 8 | [ThunderKhan/meowfolio](./thunderkhan-meowfolio.md) | ⭐ 6 | TypeScript | 47/100 |
 | 9 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 47/100 |
 | 10 | [econovibe/MyHardwareInfo](./econovibe-myhardwareinfo.md) | ⭐ — | Rust | 45/100 |
 | 11 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 42/100 |
