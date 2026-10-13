@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [noirebox/noirebox](./noirebox-noirebox.md) | ⭐ 1 | Python | 71/100 |
+| 1 | [noirebox/noirebox](./noirebox-noirebox.md) | ⭐ 1 | Python | 68/100 |
 
 ---
 

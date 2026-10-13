@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [voicute/onnx-wakeword](./voicute-onnx-wakeword.md) | ⭐ 78 | C | 52/100 |
+| 1 | [voicute/onnx-wakeword](./voicute-onnx-wakeword.md) | ⭐ 78 | C | 49/100 |
 
 ---
 

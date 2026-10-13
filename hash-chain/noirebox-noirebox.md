@@ -1,6 +1,6 @@
 # noirebox/noirebox
 
-[![Stars](https://img.shields.io/github/stars/noirebox/noirebox?style=flat-square&color=yellow)](https://github.com/noirebox/noirebox/stargazers) [![Forks](https://img.shields.io/github/forks/noirebox/noirebox?style=flat-square&color=blue)](https://github.com/noirebox/noirebox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noirebox/noirebox?style=flat-square&color=yellow)](https://github.com/noirebox/noirebox/stargazers) [![Forks](https://img.shields.io/github/forks/noirebox/noirebox?style=flat-square&color=blue)](https://github.com/noirebox/noirebox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The flight data recorder for AI agents — hash-chained, Ed25519-signed journal with RFC 3161 anchoring and third-party-verifiable exports. One TSA seal covers a whole fleet. MIT
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ noirebox/noirebox：noirebox/noirebox may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 8/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
