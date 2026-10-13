@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Shayan34789/byte-kit](./shayan34789-byte-kit.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [Shayan34789/byte-kit](./shayan34789-byte-kit.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

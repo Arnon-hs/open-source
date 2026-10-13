@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39811** |
-| **Categories** | **450** |
+| **Projects** | **39816** |
+| **Categories** | **451** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15567 | [Browse →](./misc/) |
+| 📦 **Misc** | 15569 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4328 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2746 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 673 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 637 | [Browse →](./networking/) |
-| 📱 **Mobile** | 621 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 622 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 598 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 588 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 523 | [Browse →](./database/) |
@@ -105,6 +105,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
 | 🏷️ **Cloudflare** | 2 | [Browse →](./cloudflare/) |
@@ -176,6 +177,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Webmcp** | 1 | [Browse →](./webmcp/) |
 | 🏷️ **Record-matching** | 1 | [Browse →](./record-matching/) |
 | 🏷️ **Freelance** | 1 | [Browse →](./freelance/) |
 | 🏷️ **Contract-review** | 1 | [Browse →](./contract-review/) |
@@ -242,7 +244,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openclaw** | 1 | [Browse →](./openclaw/) |
 | 🏷️ **Bird-identification** | 1 | [Browse →](./bird-identification/) |
 | 🏷️ **File-transfer** | 1 | [Browse →](./file-transfer/) |
-| 🏷️ **On-device-ai** | 1 | [Browse →](./on-device-ai/) |
 | 🏷️ **Gitlab** | 1 | [Browse →](./gitlab/) |
 | 🏷️ **License-compatibility** | 1 | [Browse →](./license-compatibility/) |
 | 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |

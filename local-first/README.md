@@ -13,10 +13,10 @@
 | 3 | [remarkjs/remark-gfm](./remarkjs-remark-gfm.md) | ⭐ 1.2k | JavaScript | 57/100 |
 | 4 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 49/100 |
 | 5 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 43/100 |
-| 6 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 39/100 |
-| 7 | [xDanielQ/offline-adventures](./xdanielq-offline-adventures.md) | ⭐ — | Python | 39/100 |
-| 8 | [Nainish3115/WildStep-AI](./nainish3115-wildstep-ai.md) | ⭐ — | Python | 39/100 |
-| 9 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 36/100 |
+| 6 | [xDanielQ/offline-adventures](./xdanielq-offline-adventures.md) | ⭐ — | Python | 39/100 |
+| 7 | [Nainish3115/WildStep-AI](./nainish3115-wildstep-ai.md) | ⭐ — | Python | 39/100 |
+| 8 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 36/100 |
+| 9 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 36/100 |
 | 10 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 36/100 |
 | 11 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 36/100 |
 | 12 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 33/100 |

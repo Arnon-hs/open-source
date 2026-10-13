@@ -12,9 +12,9 @@
 | 2 | [birdnet-team/BirdNET-Analyzer](./birdnet-team-birdnet-analyzer.md) | ⭐ 1.7k | Python | 62/100 |
 | 3 | [jakearchibald/idb](./jakearchibald-idb.md) | ⭐ 7.4k | TypeScript | 60/100 |
 | 4 | [DhanushNehru/trialnote](./dhanushnehru-trialnote.md) | ⭐ — | Python | 59/100 |
-| 5 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 58/100 |
-| 6 | [onnx/models](./onnx-models.md) | ⭐ 9.8k | Jupyter Notebook | 58/100 |
-| 7 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 57/100 |
+| 5 | [onnx/models](./onnx-models.md) | ⭐ 9.8k | Jupyter Notebook | 58/100 |
+| 6 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 57/100 |
+| 7 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 55/100 |
 | 8 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 54/100 |
 | 9 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 49/100 |
 | 10 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 43/100 |
