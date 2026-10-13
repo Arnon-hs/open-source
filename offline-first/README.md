@@ -11,8 +11,8 @@
 | 1 | [I1gorr/touch_grass](./i1gorr-touch-grass.md) | ⭐ — | TypeScript | 43/100 |
 | 2 | [Kings-creation/nature-quest](./kings-creation-nature-quest.md) | ⭐ — | JavaScript | 39/100 |
 | 3 | [MeetMittan/PlantGuard](./meetmittan-plantguard.md) | ⭐ — | TypeScript | 39/100 |
-| 4 | [LakshChinchmalatpure/HacktroberFest_dev_challenge](./lakshchinchmalatpure-hacktroberfest-dev-challenge.md) | ⭐ — | TypeScript | 39/100 |
-| 5 | [Esu05/WildLens](./esu05-wildlens.md) | ⭐ — | TypeScript | 39/100 |
+| 4 | [Esu05/WildLens](./esu05-wildlens.md) | ⭐ — | TypeScript | 39/100 |
+| 5 | [LakshChinchmalatpure/HacktroberFest_dev_challenge](./lakshchinchmalatpure-hacktroberfest-dev-challenge.md) | ⭐ — | TypeScript | 36/100 |
 | 6 | [PruthviRajG25/Hacktoberfest-Week1](./pruthvirajg25-hacktoberfest-week1.md) | ⭐ — | JavaScript | 36/100 |
 | 7 | [karanray06/trailhead](./karanray06-trailhead.md) | ⭐ — | TypeScript | 36/100 |
 | 8 | [Yash990-bit/WildPulse](./yash990-bit-wildpulse.md) | ⭐ — | JavaScript | 33/100 |
