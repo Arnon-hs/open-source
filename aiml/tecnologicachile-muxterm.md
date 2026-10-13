@@ -1,6 +1,6 @@
 # tecnologicachile/muxterm
 
-[![Stars](https://img.shields.io/github/stars/tecnologicachile/muxterm?style=flat-square&color=yellow)](https://github.com/tecnologicachile/muxterm/stargazers) [![Forks](https://img.shields.io/github/forks/tecnologicachile/muxterm?style=flat-square&color=blue)](https://github.com/tecnologicachile/muxterm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tecnologicachile/muxterm?style=flat-square&color=yellow)](https://github.com/tecnologicachile/muxterm/stargazers) [![Forks](https://img.shields.io/github/forks/tecnologicachile/muxterm?style=flat-square&color=blue)](https://github.com/tecnologicachile/muxterm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted web workspace: tmux terminals, SSH, RDP, VNC and SFTP in one responsive page, with Claude Code awareness and signed auto-updates
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ tecnologicachile/muxterm：tecnologicachile/muxterm helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 300/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

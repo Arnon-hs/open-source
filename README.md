@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39782** |
-| **Categories** | **443** |
+| **Projects** | **39787** |
+| **Categories** | **445** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15551 | [Browse →](./misc/) |
+| 📦 **Misc** | 15553 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4328 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2746 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
@@ -105,6 +105,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
 | 🏷️ **Cloudflare** | 2 | [Browse →](./cloudflare/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
@@ -177,6 +178,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Cocos** | 1 | [Browse →](./cocos/) |
 | 🏷️ **Smart-agriculture** | 1 | [Browse →](./smart-agriculture/) |
 | 🏷️ **Freight** | 1 | [Browse →](./freight/) |
 | 🏷️ **Leadgeneration** | 1 | [Browse →](./leadgeneration/) |
