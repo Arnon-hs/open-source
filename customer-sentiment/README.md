@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ranjancse26/serpapi-customer-sentiment](./ranjancse26-serpapi-customer-sentiment.md) | ⭐ — | TypeScript | 49/100 |
+| 1 | [ranjancse26/serpapi-customer-sentiment](./ranjancse26-serpapi-customer-sentiment.md) | ⭐ — | TypeScript | 46/100 |
 
 ---
 

@@ -19,9 +19,9 @@
 | 9 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 10 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 39/100 |
 | 11 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
-| 12 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 36/100 |
-| 13 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 36/100 |
-| 14 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 36/100 |
+| 12 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 36/100 |
+| 13 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 36/100 |
+| 14 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 33/100 |
 | 15 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 33/100 |
 | 16 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 33/100 |
 | 17 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
