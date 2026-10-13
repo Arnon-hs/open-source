@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [myluco/gardenHelp](./myluco-gardenhelp.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [myluco/gardenHelp](./myluco-gardenhelp.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

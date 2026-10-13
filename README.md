@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39787** |
-| **Categories** | **445** |
+| **Projects** | **39795** |
+| **Categories** | **446** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15553 | [Browse →](./misc/) |
+| 📦 **Misc** | 15559 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4328 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2746 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
@@ -54,14 +54,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 143 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 108 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 84 | [Browse →](./ai/) |
-| 🏷️ **Offline** | 38 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 39 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 21 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 17 | [Browse →](./local-first/) |
 | 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 17 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 16 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 15 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
@@ -93,6 +93,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Ai-ops** | 3 | [Browse →](./ai-ops/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Outdoor** | 3 | [Browse →](./outdoor/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
@@ -121,7 +122,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Chinese-nlp** | 2 | [Browse →](./chinese-nlp/) |
 | 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **Open-weight-ai** | 2 | [Browse →](./open-weight-ai/) |
-| 🏷️ **Ai-ops** | 2 | [Browse →](./ai-ops/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Bluetooth** | 2 | [Browse →](./bluetooth/) |
 | 🏷️ **Jsonpath** | 2 | [Browse →](./jsonpath/) |
@@ -178,6 +178,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Salesforce** | 1 | [Browse →](./salesforce/) |
 | 🏷️ **Cocos** | 1 | [Browse →](./cocos/) |
 | 🏷️ **Smart-agriculture** | 1 | [Browse →](./smart-agriculture/) |
 | 🏷️ **Freight** | 1 | [Browse →](./freight/) |
