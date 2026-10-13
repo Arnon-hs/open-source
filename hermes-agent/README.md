@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ZidoCode/agent-ledger](./zidocode-agent-ledger.md) | ⭐ — | Python | 58/100 |
+| 1 | [ZidoCode/agent-ledger](./zidocode-agent-ledger.md) | ⭐ — | Python | 55/100 |
 
 ---
 

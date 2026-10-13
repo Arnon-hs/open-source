@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [minitooldesk/minitooldesk-core](./minitooldesk-minitooldesk-core.md) | ⭐ 1 | TypeScript | 65/100 |
 | 2 | [MikeKovarik/exifr](./mikekovarik-exifr.md) | ⭐ 1.2k | JavaScript | 55/100 |
-| 3 | [jha-adrs/dauntexlabs](./jha-adrs-dauntexlabs.md) | ⭐ — | TypeScript | 54/100 |
-| 4 | [kazuhikoarase/qrcode-generator](./kazuhikoarase-qrcode-generator.md) | ⭐ 2.4k | HTML | 52/100 |
-| 5 | [raviseta/edgefit](./raviseta-edgefit.md) | ⭐ — | TypeScript | 51/100 |
+| 3 | [kazuhikoarase/qrcode-generator](./kazuhikoarase-qrcode-generator.md) | ⭐ 2.4k | HTML | 52/100 |
+| 4 | [raviseta/edgefit](./raviseta-edgefit.md) | ⭐ — | TypeScript | 51/100 |
+| 5 | [jha-adrs/dauntexlabs](./jha-adrs-dauntexlabs.md) | ⭐ — | TypeScript | 51/100 |
 | 6 | [Anandb71/grass-bingo](./anandb71-grass-bingo.md) | ⭐ — | TypeScript | 50/100 |
 | 7 | [ThunderKhan/meowfolio](./thunderkhan-meowfolio.md) | ⭐ 6 | TypeScript | 47/100 |
 | 8 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 47/100 |

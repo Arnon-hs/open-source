@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39823** |
-| **Categories** | **453** |
+| **Projects** | **39827** |
+| **Categories** | **452** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15572 | [Browse →](./misc/) |
+| 📦 **Misc** | 15575 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4329 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2746 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
@@ -66,7 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
-| 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
+| 🏷️ **N8n** | 8 | [Browse →](./n8n/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
@@ -106,6 +106,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **React** | 2 | [Browse →](./react/) |
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
@@ -306,7 +307,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Stripe** | 1 | [Browse →](./stripe/) |
 | 🏷️ **Food-safety** | 1 | [Browse →](./food-safety/) |
 | 🏷️ **Ai-governance** | 1 | [Browse →](./ai-governance/) |
-| 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Edge-native** | 1 | [Browse →](./edge-native/) |
 | 🏷️ **Local-security** | 1 | [Browse →](./local-security/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
@@ -354,7 +354,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
 | 🏷️ **Sandbox** | 1 | [Browse →](./sandbox/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |
-| 🏷️ **Static-site-preview** | 1 | [Browse →](./static-site-preview/) |
 | 🏷️ **Pay-per-call** | 1 | [Browse →](./pay-per-call/) |
 | 🏷️ **Mock-interviewer** | 1 | [Browse →](./mock-interviewer/) |
 | 🏷️ **Gdpr** | 1 | [Browse →](./gdpr/) |
