@@ -16,9 +16,9 @@
 | 6 | [xDanielQ/offline-adventures](./xdanielq-offline-adventures.md) | ⭐ — | Python | 39/100 |
 | 7 | [Nainish3115/WildStep-AI](./nainish3115-wildstep-ai.md) | ⭐ — | Python | 39/100 |
 | 8 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 36/100 |
-| 9 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 36/100 |
-| 10 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 36/100 |
-| 11 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 36/100 |
+| 9 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 36/100 |
+| 10 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 36/100 |
+| 11 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 33/100 |
 | 12 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 33/100 |
 | 13 | [ashab683/studybudy-ai](./ashab683-studybudy-ai.md) | ⭐ — | JavaScript | 33/100 |
 | 14 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 31/100 |

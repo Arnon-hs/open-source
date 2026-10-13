@@ -1,6 +1,6 @@
 # wg/wrk
 
-[![Stars](https://img.shields.io/github/stars/wg/wrk?style=flat-square&color=yellow)](https://github.com/wg/wrk/stargazers) [![Forks](https://img.shields.io/github/forks/wg/wrk?style=flat-square&color=blue)](https://github.com/wg/wrk/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wg/wrk?style=flat-square&color=yellow)](https://github.com/wg/wrk/stargazers) [![Forks](https://img.shields.io/github/forks/wg/wrk?style=flat-square&color=blue)](https://github.com/wg/wrk/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Modern HTTP benchmarking tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40.4k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | C |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ wg/wrk：wg/wrk may be useful when its README and activity match a concrete work
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 77/100 |
+| production | 64/100 |
+| outlook | 70/100 |
 | adoption | 95/100 |
 | categoryMatchCount | 600/100 |
 | stars | 98/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [utsab345/stepfork](./utsab345-stepfork.md) | ⭐ — | Python | 56/100 |
+| 1 | [utsab345/stepfork](./utsab345-stepfork.md) | ⭐ — | Python | 53/100 |
 
 ---
 
