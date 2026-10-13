@@ -1,6 +1,6 @@
 # remarkjs/react-markdown
 
-[![Stars](https://img.shields.io/github/stars/remarkjs/react-markdown?style=flat-square&color=yellow)](https://github.com/remarkjs/react-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/remarkjs/react-markdown?style=flat-square&color=blue)](https://github.com/remarkjs/react-markdown/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remarkjs/react-markdown?style=flat-square&color=yellow)](https://github.com/remarkjs/react-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/remarkjs/react-markdown?style=flat-square&color=blue)](https://github.com/remarkjs/react-markdown/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown component for React
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.9k |
 | 🍴 **Forks** | 922 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ remarkjs/react-markdown：remarkjs/react-markdown may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 85/100 |
 | categoryMatchCount | 600/100 |
 | stars | 89/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

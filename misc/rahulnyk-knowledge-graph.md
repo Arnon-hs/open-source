@@ -62,18 +62,18 @@ rahulnyk/knowledge_graph：rahulnyk/knowledge_graph may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 61/100 |
-| outlook | 62/100 |
-| adoption | 75/100 |
-| categoryMatchCount | 0/100 |
-| stars | 77/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| stars | 77/100 |
 | topics | 0/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
+| adoption | 75/100 |
+| production | 61/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

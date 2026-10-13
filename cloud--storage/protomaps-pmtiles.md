@@ -1,6 +1,6 @@
 # protomaps/PMTiles
 
-[![Stars](https://img.shields.io/github/stars/protomaps/PMTiles?style=flat-square&color=yellow)](https://github.com/protomaps/PMTiles/stargazers) [![Forks](https://img.shields.io/github/forks/protomaps/PMTiles?style=flat-square&color=blue)](https://github.com/protomaps/PMTiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/protomaps/PMTiles?style=flat-square&color=yellow)](https://github.com/protomaps/PMTiles/stargazers) [![Forks](https://img.shields.io/github/forks/protomaps/PMTiles?style=flat-square&color=blue)](https://github.com/protomaps/PMTiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Pyramids of map tiles in a single file on static storage
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ protomaps/PMTiles：protomaps/PMTiles may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 63/100 |
+| outlook | 66/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 100/100 |
 | stars | 74/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 

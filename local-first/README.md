@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [al2m4n/TheYgent](./al2m4n-theygent.md) | ⭐ 4 | Python | 72/100 |
-| 2 | [remarkjs/react-markdown](./remarkjs-react-markdown.md) | ⭐ 15.9k | JavaScript | 61/100 |
+| 2 | [remarkjs/react-markdown](./remarkjs-react-markdown.md) | ⭐ 15.9k | JavaScript | 58/100 |
 | 3 | [remarkjs/remark-gfm](./remarkjs-remark-gfm.md) | ⭐ 1.2k | JavaScript | 57/100 |
 | 4 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
 | 5 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 43/100 |

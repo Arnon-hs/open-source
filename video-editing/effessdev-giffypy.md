@@ -21,29 +21,31 @@ _no topics_
 
 ## 🎯 Categories
 
-video editing · README · GIF · WebP · Python · PySide6 · FFmpeg
+Video Editing
 
 ## 📝 Summary
 
 ### English
 
-effessdev/GiffyPy: effessdev/GiffyPy may be useful when its README and activity match a concrete workflow.. Use it for video editing, README, GIF, WebP, Python, PySide6, FFmpeg. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+effessdev/GiffyPy: effessdev/GiffyPy helps turn media editing, captions, rendering, and transcoding into repeatable workflows.. Use it for automate editing and rendering; generate subtitles or dubbing. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-effessdev/GiffyPy: open-source проект в категориях video editing, README, GIF, WebP, Python, PySide6, FFmpeg. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+effessdev/GiffyPy: open-source проект в категориях Video Editing. Практическое применение: automate editing and rendering; generate subtitles or dubbing. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-effessdev/GiffyPy：effessdev/GiffyPy may be useful when its README and activity match a concrete workflow.。适合用于video editing、README、GIF、WebP、Python、PySide6、FFmpeg。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+effessdev/GiffyPy：effessdev/GiffyPy helps turn media editing, captions, rendering, and transcoding into repeatable workflows.。适合用于automate editing and rendering、generate subtitles or dubbing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** effessdev/GiffyPy may be useful when its README and activity match a concrete workflow.
+**Value:** effessdev/GiffyPy helps turn media editing, captions, rendering, and transcoding into repeatable workflows.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- automate editing and rendering
+- generate subtitles or dubbing
+- build repeatable media-processing pipelines
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -61,18 +63,18 @@ effessdev/GiffyPy：effessdev/GiffyPy may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 34/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 45/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 700/100 |
-| stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 10/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 34/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

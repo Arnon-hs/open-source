@@ -11,7 +11,7 @@
 | 1 | [psd-tools/psd-tools](./psd-tools-psd-tools.md) | ⭐ 1.5k | Python | 60/100 |
 | 2 | [esp8266/Arduino](./esp8266-arduino.md) | ⭐ 16.7k | C++ | 57/100 |
 | 3 | [onkar-cybersec/TraceGuard](./onkar-cybersec-traceguard.md) | ⭐ — | TypeScript | 46/100 |
-| 4 | [Yashgurav002/sitspot](./yashgurav002-sitspot.md) | ⭐ — | TypeScript | 45/100 |
+| 4 | [Yashgurav002/sitspot](./yashgurav002-sitspot.md) | ⭐ — | TypeScript | 42/100 |
 | 5 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 41/100 |
 | 6 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 41/100 |
 | 7 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
