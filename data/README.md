@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**335 projects** in this category.
+**336 projects** in this category.
 
 ## Projects
 
@@ -330,19 +330,20 @@
 | 320 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 45/100 |
 | 321 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 45/100 |
 | 322 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 45/100 |
-| 323 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
-| 324 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 116 | Rust | 44/100 |
-| 325 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
-| 326 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
-| 327 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
-| 328 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
-| 329 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ — | — | 41/100 |
-| 330 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
-| 331 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
-| 332 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
-| 333 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
-| 334 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
-| 335 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 323 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 16 | JavaScript | 44/100 |
+| 324 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
+| 325 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 116 | Rust | 44/100 |
+| 326 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
+| 327 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
+| 328 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
+| 329 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
+| 330 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ — | — | 41/100 |
+| 331 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
+| 332 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
+| 333 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
+| 334 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
+| 335 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
+| 336 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
 
 ---
 

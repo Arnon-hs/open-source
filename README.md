@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39970** |
-| **Categories** | **463** |
+| **Projects** | **39973** |
+| **Categories** | **465** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -43,7 +43,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 445 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 416 | [Browse →](./communication/) |
 | 🔐 **Security** | 415 | [Browse →](./security/) |
-| 📊 **Data** | 335 | [Browse →](./data/) |
+| 📊 **Data** | 336 | [Browse →](./data/) |
 | 💳 **Payments** | 331 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 329 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 320 | [Browse →](./productivity/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 109 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 85 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 86 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 38 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -159,7 +159,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Family** | 2 | [Browse →](./family/) |
 | 🏷️ **Tls** | 2 | [Browse →](./tls/) |
 | 🏷️ **Nats** | 2 | [Browse →](./nats/) |
-| 🏷️ **Quantum-computing** | 2 | [Browse →](./quantum-computing/) |
 | 🏷️ **Net** | 2 | [Browse →](./net/) |
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
@@ -187,6 +186,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
+| 🏷️ **Tabular** | 1 | [Browse →](./tabular/) |
 | 🏷️ **Desktop-ide** | 1 | [Browse →](./desktop-ide/) |
 | 🏷️ **Agent-hooks** | 1 | [Browse →](./agent-hooks/) |
 | 🏷️ **Gemini-4-argon** | 1 | [Browse →](./gemini-4-argon/) |
@@ -471,6 +472,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Micropayments** | 1 | [Browse →](./micropayments/) |
 | 🏷️ **Webhooks** | 1 | [Browse →](./webhooks/) |
 | 🏷️ **Ide** | 1 | [Browse →](./ide/) |
+| 🏷️ **Quantum-computing** | 1 | [Browse →](./quantum-computing/) |
 | 🏷️ **Rpa** | 1 | [Browse →](./rpa/) |
 | 🏷️ **Expense-management** | 1 | [Browse →](./expense-management/) |
 | 🏷️ **Bot-protection** | 1 | [Browse →](./bot-protection/) |

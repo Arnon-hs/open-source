@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tesseract-ocr/tesstrain](./tesseract-ocr-tesstrain.md) | ⭐ 724 | Python | 52/100 |
+| 1 | [naptha/tesseract.js-core](./naptha-tesseract.js-core.md) | ⭐ 194 | JavaScript | 57/100 |
 
 ---
 
