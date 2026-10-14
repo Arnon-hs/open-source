@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [killerwolf/mcp-profiler-bundle](./killerwolf-mcp-profiler-bundle.md) | ⭐ 11 | PHP | 64/100 |
+| 1 | [alkinbg/FormSummaryBundle](./alkinbg-formsummarybundle.md) | ⭐ — | PHP | 49/100 |
 
 ---
 

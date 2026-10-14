@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zishuowang696/weekly-topics-agent](./zishuowang696-weekly-topics-agent.md) | ⭐ — | Python | 46/100 |
+| 1 | [zishuowang696/weekly-topics-agent](./zishuowang696-weekly-topics-agent.md) | ⭐ — | Python | 43/100 |
 
 ---
 

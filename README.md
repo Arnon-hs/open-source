@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40050** |
-| **Categories** | **460** |
+| **Projects** | **40054** |
+| **Categories** | **461** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -36,12 +36,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 639 | [Browse →](./networking/) |
 | 📱 **Mobile** | 623 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 601 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 589 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 527 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 504 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 473 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 446 | [Browse →](./templates/) |
-| 🔐 **Security** | 417 | [Browse →](./security/) |
+| 🔐 **Security** | 418 | [Browse →](./security/) |
 | 🏷️ **Communication** | 416 | [Browse →](./communication/) |
 | 📊 **Data** | 336 | [Browse →](./data/) |
 | 💳 **Payments** | 332 | [Browse →](./payments/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 110 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 86 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 87 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 39 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -68,7 +68,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
-| 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Go** | 6 | [Browse →](./go/) |
@@ -79,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🌐 **Open Source** | 5 | [Browse →](./opensource/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
+| 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
@@ -95,6 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Whatsapp** | 3 | [Browse →](./whatsapp/) |
 | 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Freelance** | 3 | [Browse →](./freelance/) |
@@ -162,7 +163,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
-| 🏷️ **Ios** | 2 | [Browse →](./ios/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
 | 🏷️ **Webgpu** | 2 | [Browse →](./webgpu/) |
 | 🏷️ **Bug-bounty** | 2 | [Browse →](./bug-bounty/) |
@@ -185,6 +185,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Symfony** | 1 | [Browse →](./symfony/) |
 | 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Azure-logic-apps** | 1 | [Browse →](./azure-logic-apps/) |
 | 🏷️ **Web-utilities** | 1 | [Browse →](./web-utilities/) |

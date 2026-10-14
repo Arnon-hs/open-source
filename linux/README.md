@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [ziuus/settings-tui](./ziuus-settings-tui.md) | ⭐ 1 | Rust | 45/100 |
-| 2 | [SharmaDevanshu089/app-installer](./sharmadevanshu089-app-installer.md) | ⭐ — | TypeScript | 42/100 |
+| 2 | [SharmaDevanshu089/app-installer](./sharmadevanshu089-app-installer.md) | ⭐ — | TypeScript | 39/100 |
 | 3 | [mikachu/keyflip](./mikachu-keyflip.md) | ⭐ — | — | 24/100 |
 
 ---
