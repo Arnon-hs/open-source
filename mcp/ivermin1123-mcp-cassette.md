@@ -1,6 +1,6 @@
 # ivermin1123/mcp-cassette
 
-[![Stars](https://img.shields.io/github/stars/ivermin1123/mcp-cassette?style=flat-square&color=yellow)](https://github.com/ivermin1123/mcp-cassette/stargazers) [![Forks](https://img.shields.io/github/forks/ivermin1123/mcp-cassette?style=flat-square&color=blue)](https://github.com/ivermin1123/mcp-cassette/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivermin1123/mcp-cassette?style=flat-square&color=yellow)](https://github.com/ivermin1123/mcp-cassette/stargazers) [![Forks](https://img.shields.io/github/forks/ivermin1123/mcp-cassette?style=flat-square&color=blue)](https://github.com/ivermin1123/mcp-cassette/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Record a real MCP session once, replay it forever. VCR-style record/replay, contract snapshots, and safety checks for Model Context Protocol servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ivermin1123/mcp-cassette：ivermin1123/mcp-cassette helps connect AI assistants 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [danishjk2156/Run](./danishjk2156-run.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [danishjk2156/Run](./danishjk2156-run.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

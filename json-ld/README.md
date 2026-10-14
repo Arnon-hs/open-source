@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bryanhamiltondev/jsonld-schema-audit](./bryanhamiltondev-jsonld-schema-audit.md) | ⭐ — | PHP | 51/100 |
+| 1 | [bryanhamiltondev/jsonld-schema-audit](./bryanhamiltondev-jsonld-schema-audit.md) | ⭐ — | PHP | 48/100 |
 
 ---
 
