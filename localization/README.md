@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pyaephyomaungdev/json-link](./pyaephyomaungdev-json-link.md) | ⭐ — | TypeScript | 43/100 |
+| 1 | [nfedotenko/locsmith](./nfedotenko-locsmith.md) | ⭐ — | Python | 42/100 |
 
 ---
 

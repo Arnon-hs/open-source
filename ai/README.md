@@ -20,8 +20,8 @@
 | 10 | [sirmmo/stairway](./sirmmo-stairway.md) | ⭐ — | Python | 59/100 |
 | 11 | [RobinaMirbahar/cozy-ai-agent-cafe-game](./robinamirbahar-cozy-ai-agent-cafe-game.md) | ⭐ — | JavaScript | 57/100 |
 | 12 | [AnonymousOnyx22/brightspace-d2l-mcp](./anonymousonyx22-brightspace-d2l-mcp.md) | ⭐ 2 | TypeScript | 56/100 |
-| 13 | [AncientiCe/mcp-warden](./ancientice-mcp-warden.md) | ⭐ 1 | Rust | 56/100 |
-| 14 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
+| 13 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
+| 14 | [AncientiCe/mcp-warden](./ancientice-mcp-warden.md) | ⭐ 1 | Rust | 53/100 |
 | 15 | [tanaikech/alphaevolve-multi-hazard](./tanaikech-alphaevolve-multi-hazard.md) | ⭐ — | Python | 50/100 |
 | 16 | [Tchesseludovic17-cloud/ingravity](./tchesseludovic17-cloud-ingravity.md) | ⭐ — | TypeScript | 49/100 |
 | 17 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |

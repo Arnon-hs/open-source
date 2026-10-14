@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [smid191394/planisphere](./smid191394-planisphere.md) | ⭐ — | JavaScript | 33/100 |
+| 1 | [Mikebouskila/pelago](./mikebouskila-pelago.md) | ⭐ 3 | JavaScript | 47/100 |
+| 2 | [smid191394/planisphere](./smid191394-planisphere.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

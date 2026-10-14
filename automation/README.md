@@ -2,7 +2,7 @@
 
 > 
 
-**1398 projects** in this category.
+**1399 projects** in this category.
 
 ## Projects
 
@@ -1368,8 +1368,8 @@
 | 1358 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ — | — | 38/100 |
 | 1359 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ — | — | 38/100 |
 | 1360 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
-| 1361 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
-| 1362 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1361 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1362 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
 | 1363 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 38/100 |
 | 1364 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 38/100 |
 | 1365 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 38/100 |
@@ -1379,8 +1379,8 @@
 | 1369 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 38/100 |
 | 1370 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1371 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1372 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
-| 1373 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1372 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1373 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
 | 1374 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 38/100 |
 | 1375 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 38/100 |
 | 1376 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 38/100 |
@@ -1391,21 +1391,22 @@
 | 1381 | [themesic/n8n-nodes-perfex-crm](./themesic-n8n-nodes-perfex-crm.md) | ⭐ — | TypeScript | 33/100 |
 | 1382 | [seamus-brady/retainer](./seamus-brady-retainer.md) | ⭐ — | — | 33/100 |
 | 1383 | [XENOCOREGIGER31/local-model](./xenocoregiger31-local-model.md) | ⭐ — | — | 33/100 |
-| 1384 | [sharkwani/instinct_openCode_bridge](./sharkwani-instinct-opencode-bridge.md) | ⭐ — | JavaScript | 33/100 |
-| 1385 | [stepanogil/autonomous-hr-chatbot](./stepanogil-autonomous-hr-chatbot.md) | ⭐ — | — | 32/100 |
-| 1386 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
-| 1387 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1384 | [facebook/WebDriverAgent](./facebook-webdriveragent.md) | ⭐ — | — | 33/100 |
+| 1385 | [sharkwani/instinct_openCode_bridge](./sharkwani-instinct-opencode-bridge.md) | ⭐ — | JavaScript | 33/100 |
+| 1386 | [stepanogil/autonomous-hr-chatbot](./stepanogil-autonomous-hr-chatbot.md) | ⭐ — | — | 32/100 |
+| 1387 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
 | 1388 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1389 | [strands-ai/agents](./strands-ai-agents.md) | ⭐ — | — | 28/100 |
-| 1390 | [openai/agents](./openai-agents.md) | ⭐ — | — | 28/100 |
-| 1391 | [kresohr/youtube-summary](./kresohr-youtube-summary.md) | ⭐ — | TypeScript | 27/100 |
-| 1392 | [sharkwani/opencode](./sharkwani-opencode.md) | ⭐ — | — | 24/100 |
-| 1393 | [sharkwani/instinct](./sharkwani-instinct.md) | ⭐ — | — | 24/100 |
-| 1394 | [simple_memo/autopilot](./simple-memo-autopilot.md) | ⭐ — | — | 24/100 |
-| 1395 | [realiti4/agy](./realiti4-agy.md) | ⭐ — | — | 24/100 |
-| 1396 | [indutny/tldts](./indutny-tldts.md) | ⭐ — | — | 24/100 |
-| 1397 | [Raknaos/lightpanda](./raknaos-lightpanda.md) | ⭐ — | — | 24/100 |
-| 1398 | [oroborolabs/publisher](./oroborolabs-publisher.md) | ⭐ — | — | 24/100 |
+| 1389 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1390 | [strands-ai/agents](./strands-ai-agents.md) | ⭐ — | — | 28/100 |
+| 1391 | [openai/agents](./openai-agents.md) | ⭐ — | — | 28/100 |
+| 1392 | [kresohr/youtube-summary](./kresohr-youtube-summary.md) | ⭐ — | TypeScript | 27/100 |
+| 1393 | [sharkwani/opencode](./sharkwani-opencode.md) | ⭐ — | — | 24/100 |
+| 1394 | [sharkwani/instinct](./sharkwani-instinct.md) | ⭐ — | — | 24/100 |
+| 1395 | [simple_memo/autopilot](./simple-memo-autopilot.md) | ⭐ — | — | 24/100 |
+| 1396 | [realiti4/agy](./realiti4-agy.md) | ⭐ — | — | 24/100 |
+| 1397 | [indutny/tldts](./indutny-tldts.md) | ⭐ — | — | 24/100 |
+| 1398 | [Raknaos/lightpanda](./raknaos-lightpanda.md) | ⭐ — | — | 24/100 |
+| 1399 | [oroborolabs/publisher](./oroborolabs-publisher.md) | ⭐ — | — | 24/100 |
 
 ---
 

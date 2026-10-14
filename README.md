@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40145** |
-| **Categories** | **468** |
+| **Projects** | **40151** |
+| **Categories** | **469** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15749 | [Browse →](./misc/) |
+| 📦 **Misc** | 15751 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4353 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2752 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2323 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1575 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1398 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1399 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 882 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
@@ -81,6 +81,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
+| 🏷️ **Whatsapp** | 4 | [Browse →](./whatsapp/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
@@ -99,7 +100,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hacktoberfest** | 3 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
-| 🏷️ **Whatsapp** | 3 | [Browse →](./whatsapp/) |
 | 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
@@ -116,6 +116,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Visualization** | 2 | [Browse →](./visualization/) |
 | 🏷️ **Supabase** | 2 | [Browse →](./supabase/) |
 | 🏷️ **Scraping** | 2 | [Browse →](./scraping/) |
 | 🏷️ **Codex** | 2 | [Browse →](./codex/) |
@@ -183,6 +184,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Localization** | 1 | [Browse →](./localization/) |
 | 🏷️ **Ecommerce** | 1 | [Browse →](./ecommerce/) |
 | 🏷️ **Aliexpress** | 1 | [Browse →](./aliexpress/) |
 | 🏷️ **Readme** | 1 | [Browse →](./readme/) |
@@ -413,7 +415,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Static-analysis** | 1 | [Browse →](./static-analysis/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
 | 🏷️ **Speech-recognition** | 1 | [Browse →](./speech-recognition/) |
-| 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
 | 🏷️ **Certification** | 1 | [Browse →](./certification/) |
 | 🏷️ **Decision-models** | 1 | [Browse →](./decision-models/) |
 | 🏷️ **Release-engine** | 1 | [Browse →](./release-engine/) |
