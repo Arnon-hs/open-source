@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ishannaik/mumbai-rain](./ishannaik-mumbai-rain.md) | ⭐ 1 | Astro | 46/100 |
+| 1 | [Trusted-AI/TabPFN](./trusted-ai-tabpfn.md) | ⭐ — | — | 24/100 |
 
 ---
 

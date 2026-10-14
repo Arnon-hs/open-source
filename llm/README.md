@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [scrapy/protego](./scrapy-protego.md) | ⭐ 94 | DIGITAL Command Language | 54/100 |
 | 2 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 54/100 |
-| 3 | [Abeera81/reasoning-dial](./abeera81-reasoning-dial.md) | ⭐ — | Python | 42/100 |
-| 4 | [qife422/touch-grass-card](./qife422-touch-grass-card.md) | ⭐ — | HTML | 39/100 |
+| 3 | [qife422/touch-grass-card](./qife422-touch-grass-card.md) | ⭐ — | HTML | 39/100 |
+| 4 | [Abeera81/reasoning-dial](./abeera81-reasoning-dial.md) | ⭐ — | Python | 39/100 |
 | 5 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 33/100 |
 | 6 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 33/100 |
 | 7 | [onnx-community/gemma-3-270m-it-ONNX](./onnx-community-gemma-3-270m-it-onnx.md) | ⭐ — | — | 24/100 |

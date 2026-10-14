@@ -254,8 +254,8 @@
 | 244 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 144 | Java | 51/100 |
 | 245 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 246 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 132 | PHP | 51/100 |
-| 247 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 51/100 |
-| 248 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 51/100 |
+| 247 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 51/100 |
+| 248 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 51/100 |
 | 249 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 250 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 51/100 |
 | 251 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 51/100 |

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40043** |
-| **Categories** | **459** |
+| **Projects** | **40047** |
+| **Categories** | **460** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15693 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4348 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15697 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4349 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2749 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2321 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1571 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1572 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1396 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 882 | [Browse →](./frontend/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 109 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 88 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 86 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 39 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -159,7 +159,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Pdf-redaction** | 2 | [Browse →](./pdf-redaction/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
-| 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
@@ -186,6 +185,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Azure-logic-apps** | 1 | [Browse →](./azure-logic-apps/) |
 | 🏷️ **Web-utilities** | 1 | [Browse →](./web-utilities/) |
 | 🏷️ **Federal-prizes** | 1 | [Browse →](./federal-prizes/) |
@@ -377,6 +377,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Microservices** | 1 | [Browse →](./microservices/) |
 | 🏷️ **Symbolic-regression** | 1 | [Browse →](./symbolic-regression/) |
 | 🏷️ **Current-affairs** | 1 | [Browse →](./current-affairs/) |
+| 🏷️ **Postgresql** | 1 | [Browse →](./postgresql/) |
 | 🏷️ **Eurorack** | 1 | [Browse →](./eurorack/) |
 | 🏷️ **Web-development** | 1 | [Browse →](./web-development/) |
 | 🏷️ **Test-management** | 1 | [Browse →](./test-management/) |
