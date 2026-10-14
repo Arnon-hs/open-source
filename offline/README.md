@@ -11,10 +11,10 @@
 | 1 | [SYSTRAN/faster-whisper](./systran-faster-whisper.md) | ⭐ 25.7k | Python | 65/100 |
 | 2 | [birdnet-team/BirdNET-Analyzer](./birdnet-team-birdnet-analyzer.md) | ⭐ 1.7k | Python | 62/100 |
 | 3 | [onnx/models](./onnx-models.md) | ⭐ 9.8k | Jupyter Notebook | 58/100 |
-| 4 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 57/100 |
-| 5 | [jakearchibald/idb](./jakearchibald-idb.md) | ⭐ 7.4k | TypeScript | 57/100 |
-| 6 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 55/100 |
-| 7 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 54/100 |
+| 4 | [jakearchibald/idb](./jakearchibald-idb.md) | ⭐ 7.4k | TypeScript | 57/100 |
+| 5 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 55/100 |
+| 6 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 54/100 |
+| 7 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 54/100 |
 | 8 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 49/100 |
 | 9 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 43/100 |
 | 10 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 42/100 |

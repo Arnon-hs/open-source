@@ -1,6 +1,6 @@
 # naudio/NAudio
 
-[![Stars](https://img.shields.io/github/stars/naudio/NAudio?style=flat-square&color=yellow)](https://github.com/naudio/NAudio/stargazers) [![Forks](https://img.shields.io/github/forks/naudio/NAudio?style=flat-square&color=blue)](https://github.com/naudio/NAudio/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/naudio/NAudio?style=flat-square&color=yellow)](https://github.com/naudio/NAudio/stargazers) [![Forks](https://img.shields.io/github/forks/naudio/NAudio?style=flat-square&color=blue)](https://github.com/naudio/NAudio/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Audio and MIDI library for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ naudio/NAudio：naudio/NAudio may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 80/100 |
 | categoryMatchCount | 1100/100 |
 | stars | 81/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
