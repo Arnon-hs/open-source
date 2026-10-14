@@ -1,6 +1,6 @@
 # Dawncoral/wallaby-agent-rules
 
-[![Stars](https://img.shields.io/github/stars/Dawncoral/wallaby-agent-rules?style=flat-square&color=yellow)](https://github.com/Dawncoral/wallaby-agent-rules/stargazers) [![Forks](https://img.shields.io/github/forks/Dawncoral/wallaby-agent-rules?style=flat-square&color=blue)](https://github.com/Dawncoral/wallaby-agent-rules/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dawncoral/wallaby-agent-rules?style=flat-square&color=yellow)](https://github.com/Dawncoral/wallaby-agent-rules/stargazers) [![Forks](https://img.shields.io/github/forks/Dawncoral/wallaby-agent-rules?style=flat-square&color=blue)](https://github.com/Dawncoral/wallaby-agent-rules/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI remembers, you find. Long-term memory + project map for any AI coding tool — paste-in prompts or a one-command agent skill, five plain files, zero dependencies. Trust-building mode: memory earns its way in.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Dawncoral/wallaby-agent-rules：Dawncoral/wallaby-agent-rules may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 75/100 |
+| production | 61/100 |
+| outlook | 68/100 |
 | adoption | 18/100 |
 | categoryMatchCount | 400/100 |
 | stars | 25/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

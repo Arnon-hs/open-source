@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Dawncoral/wallaby-agent-rules](./dawncoral-wallaby-agent-rules.md) | ⭐ 14 | Python | 67/100 |
+| 1 | [Dawncoral/wallaby-agent-rules](./dawncoral-wallaby-agent-rules.md) | ⭐ 14 | Python | 64/100 |
 | 2 | [esbuild-kit/tsx](./esbuild-kit-tsx.md) | ⭐ — | — | 24/100 |
 
 ---
