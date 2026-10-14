@@ -2,7 +2,7 @@
 
 > 
 
-**16 projects** in this category.
+**17 projects** in this category.
 
 ## Projects
 
@@ -19,11 +19,12 @@
 | 9 | [swarnnim/locallens](./swarnnim-locallens.md) | ⭐ — | Python | 42/100 |
 | 10 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 42/100 |
 | 11 | [abhijeetnardele24-hash/groundsignal](./abhijeetnardele24-hash-groundsignal.md) | ⭐ — | TypeScript | 39/100 |
-| 12 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |
-| 13 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 33/100 |
-| 14 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 33/100 |
-| 15 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 33/100 |
-| 16 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
+| 12 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 36/100 |
+| 13 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 36/100 |
+| 14 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 33/100 |
+| 15 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 33/100 |
+| 16 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 33/100 |
+| 17 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
 
 ---
 
